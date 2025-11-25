@@ -17,11 +17,10 @@
         "filters/google-ads.txt",
         "filters/youtube-ads.txt",
         "filters/spotify-ads.txt",
-        "filters/porn-all.txt",
+        "filters/nsfw.txt",
         "filters/trackers.txt",
-        "filters/judi-indo.txt",
-        "filters/film-bajakan.txt",
-        "filters/michat-bigo.txt",
+        "filters/gambling.txt",
+        "filters/whitelist.txt",
         "filters/bonus.txt"
     ];
 
