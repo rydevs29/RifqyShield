@@ -112,11 +112,6 @@ video-stats.video.google.com
 youtubei.googleapis.com
 youtube.googleapis.com
 youtubeembeddedplayer.googleapis.com
-youtube-nocookie.com
-www.youtube-nocookie.com
-m.youtube.com
-www.youtube.com
-youtube.com
 ytimg.com
 i.ytimg.com
 i1.ytimg.com
@@ -228,14 +223,6 @@ i30.ytimg.com
 youtube-nocookie.com
 youtubeembeddedplayer.googleapis.com
 youtube.googleapis.com
-www.youtube.com
-m.youtube.com
-www.youtube-nocookie.com
-youtube.com
-www.youtube.com
-m.youtube.com
-www.youtube-nocookie.com
-youtube.com
 googlevideo.com
 r1---sn-*.googlevideo.com
 r2---sn-*.googlevideo.com
