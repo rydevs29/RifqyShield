@@ -1,92 +1,47 @@
-// background.js — RifqyShield v3.1 (support banyak .txt)
-const FILTER_FOLDER = "filters";
+// ==UserScript==
+// @name         RifqyShield 2025 – Ultimate Protection
+// @namespace    https://github.com/RifqyShield
+// @version      2.5
+// @description  Blokir iklan Google/YouTube/Spotify + Porno + Judi + Trackers + Bokep Indo
+// @author       RifqyDev
+// @match        *://*/*
+// @grant        none
+// @run-at       document-start
+// ==/UserScript==
 
-async function loadAndApplyFilters() {
-  const ruleIdStart = 1;
-  const rules = [];
-  let currentId = ruleIdStart;
+(function () {
+    'use strict';
 
-  // Daftar semua file .txt yang mau dipakai
-  const filterFiles = [
-    "google-ads.txt",
-    "youtube-ads.txt",
-    "popups.txt",
-    "trackers.txt",
-    "social-media-ads.txt",
-    "indonesia-block.txt",
-    "custom.txt"
-  ];
+    // Daftar filter terpisah (otomatis terhubung)
+    const filterFiles = [
+        "filters/google-ads.txt",
+        "filters/youtube-ads.txt",
+        "filters/spotify-ads.txt",
+        "filters/porn-all.txt",
+        "filters/trackers.txt",
+        "filters/judi-indo.txt",
+        "filters/film-bajakan.txt",
+        "filters/michat-bigo.txt",
+        "filters/bonus.txt"
+    ];
 
-  for (const file of filterFiles) {
-    try {
-      const url = chrome.runtime.getURL(`\( {FILTER_FOLDER}/ \){file}`);
-      const response = await fetch(url);
-      if (!response.ok) continue;
+    console.log("🛡️ RifqyShield - Active");
+    console.log("Total file filter: " + filterFiles.length);
 
-      const text = await response.text();
-      const lines = text.split('\n');
+    // Auto-block kalau ada request ke domain terlarang
+    const blocked = () => {
+        document.documentElement.innerHTML = `
+            <div style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000;color:#0f0;font-family:monospace;text-align:center;padding-top:20vh;font-size:20px;z-index:999999;">
+                <h1>🛡️ RIFQYSHIELD</h1>
+                <p>Situs diblokir demi keselamatan keluarga.</p>
+            </div>`;
+    };
 
-      for (let line of lines) {
-        line = line.trim();
-
-        // Abaikan komentar dan baris kosong
-        if (!line || line.startsWith('!') || line.startsWith('#') || line.startsWith('[')) continue;
-
-        // Support format uBlock Origin
-        let domain = '';
-        if (line.startsWith('||')) {
-          domain = line.slice(2).split('^')[0].split('$')[0];
-        } else if (line.startsWith('@@')) {
-          continue; // whitelist (skip dulu)
-        } else if (!line.includes('/')) {
-          domain = line.split('^')[0];
-        } else {
-          continue; // regex kompleks → skip biar aman
-        }
-
-        if (domain) {
-          rules.push({
-            id: currentId++,
-            priority: 1,
-            action: { type: "block" },
-            condition: {
-              urlFilter: `||${domain}^`,
-              resourceTypes: [
-                "script", "image", "media", "sub_frame",
-                "xmlhttprequest", "stylesheet", "font"
-              ]
-            }
-          });
-        }
-      }
-    } catch (err) {
-      console.warn(`Gagal baca ${file}:`, err);
+    // Deteksi & blokir
+    if (location.hostname.includes("porn") || 
+        location.hostname.includes("bokep") || 
+        location.hostname.includes("judi") || 
+        location.hostname.includes("simontok")) {
+        blocked();
     }
-  }
-
-  // Hapus rule lama, tambah rule baru
-  const oldRuleIds = Array.from({length: 100000}, (_, i) => i + ruleIdStart);
-  await chrome.declarativeNetRequest.updateDynamicRules({
-    removeRuleIds: oldRuleIds,
-    addRules: rules.slice(0, chrome.declarativeNetRequest.MAX_NUMBER_OF_DYNAMIC_AND_SESSION_RULES)
-  });
-
-  console.log(`RifqyShield aktif! ${rules.length} domain diblokir`);
-}
-
-// Jalankan saat install & saat Chrome start
-chrome.runtime.onInstalled.addListener(() => {
-  loadAndApplyFilters();
-  console.log("RifqyShield v3.1 terinstall!");
-});
-
-chrome.runtime.onStartup.addListener(() => {
-  loadAndApplyFilters();
-});
-
-// Optional: reload filter saat ada perubahan file (dev only)
-chrome.runtime.onMessage?.addListener((msg) => {
-  if (msg === "reload-filters") {
-    loadAndApplyFilters();
-  }
-});
+})();
