@@ -1,0 +1,10 @@
+||ads.google.com^
+||doubleclick.net^
+||googlesyndication.com^
+||googleadservices.com^
+||googletagservices.com^
+||google-analytics.com^
+||2mdn.net^
+||adbrite.com^
+||adservice.google.com^
+||pagead2.googlesyndication.com^
