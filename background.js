@@ -2,7 +2,7 @@
 // @name         RifqyShield – Ultimate Protection
 // @namespace    https://github.com/rydevs29/RifqyShield
 // @version      5.0
-// @description  Block Google/YouTube/Spotify Ads + Porn + Gambling + Trackers + Indonesian porn
+// @description  Block Google/YouTube/Spotify Ads + Nsfw + Gambling + Trackers
 // @author       RifqyDev
 // @match        *://*/*
 // @grant        none
