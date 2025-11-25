@@ -21,6 +21,7 @@
         "filters/trackers.txt",
         "filters/gambling.txt",
         "filters/whitelist.txt",
+        "filters/whitelist-spotify.txt",
         "filters/bonus.txt"
     ];
 
