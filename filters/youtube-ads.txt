@@ -1,0 +1,8 @@
+||youtube.com/api/ads/
+||youtube.com/get_video_ads
+||youtube.com/ptracking
+||s0.2mdn.net^
+||youtube.com/ads/
+||youtube.com/*.ad_
+||youtube.com/*_ads
+||youtube.com/*adcontroller
