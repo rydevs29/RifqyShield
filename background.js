@@ -15,6 +15,7 @@
     // Daftar filter terpisah (otomatis terhubung)
     const filterFiles = [
         "filters/google-ads.txt",
+        "filters/blocklist-2.txt",
         "filters/youtube-ads.txt",
         "filters/spotify-ads.txt",
         "filters/nsfw.txt",
