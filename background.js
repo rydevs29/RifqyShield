@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         RifqyShield 2025 – Ultimate Protection
-// @namespace    https://github.com/RifqyShield
-// @version      4.5
-// @description  Blokir iklan Google/YouTube/Spotify + Porno + Judi + Trackers + Bokep Indo
+// @name         RifqyShield – Ultimate Protection
+// @namespace    https://github.com/rydevs29/RifqyShield
+// @version      5.0
+// @description  Block Google/YouTube/Spotify Ads + Porn + Gambling + Trackers + Indonesian porn
 // @author       RifqyDev
 // @match        *://*/*
 // @grant        none
