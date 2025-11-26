@@ -22,3 +22,4 @@ cuanwin77forum.work
 wispi.ly
 cli.re
 t.ly
+link.ix-play.com
