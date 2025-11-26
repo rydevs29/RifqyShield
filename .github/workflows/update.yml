@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * 0"   # jalan tiap minggu jam 00:00 UTC
   workflow_dispatch:       # bisa dijalankan manual dari GitHub
 
+permissions:
+  contents: write          # izin supaya bisa commit & push ke repo
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -37,5 +40,5 @@ jobs:
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           git add filters/all.txt
-          git commit -m "Auto update master blocklist (all.txt)"
+          git commit -m "Auto update master blocklist (all.txt)" || echo "No changes to commit"
           git push
