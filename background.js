@@ -27,7 +27,7 @@
         "filters/gambling/gambling.txt",
         "filters/gambling/gambling-2.txt",
         "filters/gambling/gambling-3.txt",
-        "filters/trackers.txt"
+        "filters/blocklist/multi.txt.txt"
     ];
 
     // Semua file whitelist
