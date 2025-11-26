@@ -14,6 +14,7 @@
 
     // Semua file blocklist
     const filterFiles = [
+        "filters/blocklist/RifqyShield-BlockList.txt",
         "filters/blocklist/google-ads.txt",
         "filters/blocklist/blocklist.txt",
         "filters/youtube-ads/youtube-ads.txt",
