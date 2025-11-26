@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RifqyShield – Ultimate Protection
 // @namespace    https://github.com/rydevs29/RifqyShield
-// @version      5.0
+// @version      12.0
 // @description  Block Google/YouTube/Spotify Ads + Nsfw + Gambling + Trackers
 // @author       RifqyDev
 // @match        *://*/*
@@ -24,7 +24,7 @@
         "filters/nsfw-2.txt",
         "filters/gambling.txt",
         "filters/whitelist.txt",
-        "filters/whitelist-indonesia.txt",
+        "filters/whitelist-2.txt",
         "filters/whitelist-spotify.txt",
         "filters/bonus.txt"
     ];
