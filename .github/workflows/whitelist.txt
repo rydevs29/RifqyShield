@@ -1,0 +1,41 @@
+name: Auto Build Master Whitelist
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # jalan tiap minggu jam 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual dari GitHub
+
+permissions:
+  contents: write          # izin supaya bisa commit & push ke repo
+
+jobs:
+  whitelist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Gabung whitelist internal + komunitas
+        run: |
+          mkdir -p filters/whitelist-all
+          # Gabungkan whitelist internal
+          cat \
+            filters/whitelist.txt \
+            filters/whitelist-spotify.txt \
+          > filters/whitelist-all/tmp.txt
+
+          # Tambah whitelist komunitas (contoh sumber)
+          curl -s https://raw.githubusercontent.com/anudeepND/whitelist/master/domains/whitelist.txt >> filters/whitelist-all/tmp.txt
+          curl -s https://raw.githubusercontent.com/hagezi/dns-blocklists/main/whitelist.txt >> filters/whitelist-all/tmp.txt
+
+          # Sort dan hapus duplikat
+          sort -u filters/whitelist-all/tmp.txt -o filters/whitelist-all/whitelist-all.txt
+          rm filters/whitelist-all/tmp.txt
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "RifqyBot"
+          git config --global user.email "bot@rifqyshield.local"
+          git add filters/whitelist-all/whitelist-all.txt
+          git commit -m "Auto update master whitelist (whitelist-all/whitelist-all.txt)" || echo "No changes to commit"
+          git push
