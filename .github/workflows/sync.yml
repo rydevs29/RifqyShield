@@ -1,0 +1,37 @@
+name: Sync Community Blocklists
+
+on:
+  schedule:
+    - cron: "0 0 * * 0"   # jalan tiap minggu jam 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual dari GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Download community blocklists
+        run: |
+          mkdir -p filters/tmp
+          # Ambil dari anudeepND
+          curl -s https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -o filters/tmp/anudeepND.txt
+          # Ambil dari blocklistproject
+          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt -o filters/tmp/blocklistproject-ads.txt
+          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt -o filters/tmp/blocklistproject-tracking.txt
+          # Ambil dari hagezi (contoh ultimate list)
+          curl -s https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ultimate.txt -o filters/tmp/hagezi-ultimate.txt
+
+      - name: Merge into blocklist.txt
+        run: |
+          cat filters/tmp/*.txt filters/blocklist/blocklist.txt | sort -u > filters/blocklist/blocklist.txt
+
+      - name: Commit & Push
+        run: |
+          git config --global user.name "RifqyBot"
+          git config --global user.email "bot@rifqyshield.local"
+          git add filters/blocklist/blocklist.txt
+          git commit -m "Auto sync community blocklists"
+          git push
+          
