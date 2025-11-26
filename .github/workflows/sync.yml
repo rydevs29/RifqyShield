@@ -1,40 +1,39 @@
-name: Sync Community Blocklists
+name: Sync Blocklist Sources
 
 on:
   schedule:
-    - cron: "0 0 * * 0"   # jalan tiap minggu jam 00:00 UTC
-  workflow_dispatch:       # bisa dijalankan manual dari GitHub
+    - cron: "0 0 * * 0"   # otomatis jalan tiap Minggu jam 00:00 UTC
+  workflow_dispatch:       # bisa dijalankan manual dari tab Actions
 
 permissions:
-  contents: write
+  contents: write          # izin supaya bisa commit & push ke repo
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Download community blocklists
+      - name: Download external blocklists
         run: |
-          mkdir -p filters/tmp
-          # Ambil dari anudeepND
-          curl -s https://raw.githubusercontent.com/anudeepND/blacklist/master/adservers.txt -o filters/tmp/anudeepND.txt
-          # Ambil dari blocklistproject
-          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt -o filters/tmp/blocklistproject-ads.txt
-          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/tracking.txt -o filters/tmp/blocklistproject-tracking.txt
-          # Ambil dari hagezi (contoh ultimate list)
-          curl -s https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ultimate.txt -o filters/tmp/hagezi-ultimate.txt
+          mkdir -p filters/blocklist
+          # BlocklistProject Ads
+          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > filters/blocklist/blocklist.txt
 
-      - name: Merge into blocklist.txt
-        run: |
-          cat filters/tmp/*.txt filters/blocklist/blocklist.txt | sort -u > filters/blocklist/blocklist.txt
+          # Hagezi multi list (domain format)
+          curl -s https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt > filters/blocklist/multi.txt
+
+          # Hagezi ultimate list (domain format)
+          curl -s https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
+
+          # Gabungkan semua ke blocklist.txt
+          cat filters/blocklist/blocklist.txt filters/blocklist/multi.txt filters/blocklist/ultimate.txt | sort -u > filters/blocklist/blocklist.txt
 
       - name: Commit & Push changes
         run: |
-         git config --global user.name "RifqyBot"
-         git config --global user.email "bot@rifqyshield.local"
-         git add -A
-         git commit -m "Sync blocklist sources" || echo "No changes to commit"
-         git push
-          
+          git config --global user.name "RifqyBot"
+          git config --global user.email "bot@rifqyshield.local"
+          git add filters/blocklist/blocklist.txt filters/blocklist/multi.txt filters/blocklist/ultimate.txt
+          git commit -m "Sync blocklist sources (BlocklistProject + Hagezi multi + ultimate)" || echo "No changes to commit"
+          git push
