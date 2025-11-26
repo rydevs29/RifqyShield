@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         RifqyShield – Ultimate Protection
 // @namespace    https://github.com/rydevs29/RifqyShield
-// @version      12.0
+// @version      15.0
 // @description  Block Google/YouTube/Spotify Ads + Nsfw + Gambling + Trackers
 // @author       RifqyDev
 // @match        *://*/*
@@ -14,8 +14,8 @@
 
     // Daftar filter terpisah (otomatis terhubung)
     const filterFiles = [
-        "filters/google-ads.txt",
-        "filters/blocklist-2.txt",
+        "filters/blocklist/google-ads.txt",
+        "filters/blocklist/blocklist.txt",
         "filters/youtube-ads/youtube-ads.txt",
         "filters/youtube-ads/youtube-ads2.txt",
         "filters/spotify-ads/spotify-ads.txt",
