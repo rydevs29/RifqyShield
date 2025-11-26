@@ -4,7 +4,6 @@ RifqyShield YouTube-Ads | Always Updated
 ============================
 #######################################################################################
 
-0.0.0.0 ads.youtube.com
 ads.youtube.com
 youtube.com/api/stats/ads
 youtube.com/api/stats/qoe
@@ -92,9 +91,7 @@ adtech.de
 adtechus.com
 adtech.com
 manifest.googlevideo.com
-0.0.0.0 redirector.googlevideo.com
 redirector.googlevideo.com
-0.0.0.0 r1---sn-*.googlevideo.com
 r1---sn-*.googlevideo.com
 r2---sn-*.googlevideo.com
 r3---sn-*.googlevideo.com
