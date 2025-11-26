@@ -22,12 +22,10 @@
         "filters/spotify-ads/spotify-ads2.txt",
         "filters/nsfw/nsfw.txt",
         "filters/nsfw/nsfw-2.txt",
-        "filters/nsfw/nsfw-3",
+        "filters/nsfw/nsfw-3.txt",
         "filters/gambling/gambling.txt",
         "filters/gambling/gambling-2.txt",
         "filters/gambling/gambling-3.txt",
-        "filters/whitelist-all/whitelist.txt",
-        "filters/whitelist-all/whitelist-2.txt",
         "filters/bonus.txt"
     ];
 
