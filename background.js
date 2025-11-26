@@ -24,6 +24,7 @@
         "filters/nsfw-2.txt",
         "filters/gambling.txt",
         "filters/whitelist.txt",
+        "filters/whitelist-indonesia.txt",
         "filters/whitelist-spotify.txt",
         "filters/bonus.txt"
     ];
