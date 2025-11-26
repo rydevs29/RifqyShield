@@ -1,18 +1,18 @@
 // ==UserScript==
 // @name         RifqyShield – Ultimate Protection
 // @namespace    https://github.com/rydevs29/RifqyShield
-// @version      15.0
-// @description  Block Google/YouTube/Spotify Ads + Nsfw + Gambling + Trackers
+// @version      15.2
+// @description  Block Google/YouTube/Spotify Ads + NSFW + Gambling + Trackers
 // @author       RifqyDev
 // @match        *://*/*
 // @grant        none
 // @run-at       document-start
 // ==/UserScript==
 
-(function () {
+(async function () {
     'use strict';
 
-    // Daftar filter terpisah (otomatis terhubung)
+    // Semua file blocklist
     const filterFiles = [
         "filters/blocklist/google-ads.txt",
         "filters/blocklist/blocklist.txt",
@@ -26,26 +26,54 @@
         "filters/gambling/gambling.txt",
         "filters/gambling/gambling-2.txt",
         "filters/gambling/gambling-3.txt",
-        "filters/bonus.txt"
+        "filters/bonus.txt",
+        "filters/trackers.txt"
     ];
 
-    console.log("🛡️ RifqyShield - Active");
-    console.log("Total file filter: " + filterFiles.length);
+    // Semua file whitelist
+    const whitelistFiles = [
+        "filters/whitelist.txt",
+        "filters/whitelist-spotify.txt"
+    ];
 
-    // Auto-block kalau ada request ke domain terlarang
+    console.log("🛡️ RifqyShield 🛡️ - Active");
+
+    // Fungsi ambil domain dari file
+    async function loadDomains(files) {
+        let domains = [];
+        for (const file of files) {
+            try {
+                const res = await fetch(file);
+                const text = await res.text();
+                const lines = text.split("\n")
+                    .map(l => l.trim())
+                    .filter(l => l && !l.startsWith("#"))
+                    .map(l => l.replace(/^0\.0\.0\.0\s+/, "")); // hapus prefix hosts
+                domains.push(...lines);
+            } catch (e) {
+                console.warn("Gagal load filter:", file, e);
+            }
+        }
+        return domains;
+    }
+
+    // Load blocklist & whitelist
+    const blockedDomains = await loadDomains(filterFiles);
+    const whitelistedDomains = await loadDomains(whitelistFiles);
+
+    // Fungsi blokir
     const blocked = () => {
         document.documentElement.innerHTML = `
             <div style="position:fixed;top:0;left:0;width:100vw;height:100vh;background:#000;color:#0f0;font-family:monospace;text-align:center;padding-top:20vh;font-size:20px;z-index:999999;">
-                <h1>🛡️ RIFQYSHIELD</h1>
-                <p>Situs diblokir demi keselamatan keluarga.</p>
+                <h1>🛡️ RIFQYSHIELD 🛡️</h1>
+                <p>Site blocked for your safety</p>
             </div>`;
     };
 
-    // Deteksi & blokir
-    if (location.hostname.includes("porn") || 
-        location.hostname.includes("bokep") || 
-        location.hostname.includes("judi") || 
-        location.hostname.includes("simontok")) {
+    // Deteksi domain
+    const host = location.hostname;
+    if (blockedDomains.some(d => host.includes(d)) &&
+        !whitelistedDomains.some(w => host.includes(w))) {
         blocked();
     }
 })();
