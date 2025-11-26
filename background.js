@@ -34,6 +34,7 @@
     // Semua file whitelist
     const whitelistFiles = [
         "filters/whitelist.txt",
+        "filters/whitelist-all/whitelist-all.txt",
         "filters/whitelist-spotify.txt"
     ];
 
