@@ -26,9 +26,8 @@
         "filters/gambling/gambling.txt",
         "filters/gambling/gambling-2.txt",
         "filters/gambling/gambling-3.txt",
-        "filters/whitelist.txt",
-        "filters/whitelist-2.txt",
-        "filters/whitelist-spotify.txt",
+        "filters/whitelist-all/whitelist.txt",
+        "filters/whitelist-all/whitelist-2.txt",
         "filters/bonus.txt"
     ];
 
