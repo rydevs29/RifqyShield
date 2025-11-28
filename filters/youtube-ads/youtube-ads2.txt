@@ -6,6 +6,16 @@ RifqyShield YouTube-Ads2
 
 rr8---sn-htgx20capjpq-jb3l.googlevideo.com
 rr1---sn-apou5n-jb3e.googlevideo.com
+rr2---sn-apou5n-jb3e.googlevideo.com
+rr2---sn-apou5n-jb3s.googlevideo.com
+rr1---sn-apou5n-jb3l.googlevideo.com
+rr1---sn-apou5n-jb3s.googlevideo.com
+rr4---sn-npoe7nk7.googlevideo.com
+rr4---sn-npoldn76.googlevideo.com
+r5---sn-npoeenez.googlevideo.com
+rr5---sn-npoe7ndl.googlevideo.com
+rr1---sn-apou5n-jb3e.googlevideo.com
+r3---sn-npoldn7l.googlevideo.com
 rr1---sn-htgx20capjpq-jb3k.googlevideo.com
 www.googletagservices.com
 www-googletagmanager.l.google.com
