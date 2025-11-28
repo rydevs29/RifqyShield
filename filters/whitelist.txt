@@ -1,7 +1,17 @@
+#######################################################################################
+============================
+RifqyShield WHITELIST
+============================
+#######################################################################################
+
 youtube.com
 google.com
 microsoft.com
 x.com
 xbox.com
 whatsapp.net
-whatsapp.com
+cloudflare.com
+openai.com
+grok.com
+x.ai
+yahoo.com
