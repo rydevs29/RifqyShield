@@ -5,10 +5,10 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 
 | Category              | Source                             | Domain             | Status                |
 |-----------------------|------------------------------------|--------------------|-----------------------|
-| Ads & Trackers        | Hagezi Multi + RifqyShield Custom                | ~1.35 million+     | Active                |
-| YouTube Ads           | GoodbyeAds YouTube + RifqyShield Custom                | ~92 thousand       | Active                |
+| Ads & Trackers        | Hagezi Multi, RifqyShield Custom                | ~1.35 million+     | Active                |
+| YouTube Ads           | GoodbyeAds YouTube, RifqyShield Custom                | ~92 thousand       | Active                |
 | Spotify Ads           | GoodbyeAds Spotify                 | ~16 thousand       | Active                |
-| NSFW & Gambling       | OISD Full + RifqyShield Custom     | ~280 thousand+     | Active (daily manual) |
+| NSFW & Gambling       | OISD Full, RifqyShield Custom     | ~280 thousand+     | Active (weekly manual) |
 | Malware & Phishing    | Hagezi Threat Intelligence        | ~460 thousand      | Active                |
 
 **Total blocked domains ≈ 2.9 million+ (duplicated & optimized)**
