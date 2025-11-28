@@ -15,3 +15,4 @@ openai.com
 grok.com
 x.ai
 yahoo.com
+paypal.com
