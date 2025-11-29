@@ -18,16 +18,17 @@ jobs:
           mkdir -p output
           tmpfile=$(mktemp)
 
-          # Loop semua file blocklist
+          # Loop semua file blocklist di repo
           for f in filters/blocklist/*.txt filters/youtube-ads/*.txt filters/spotify-ads/*.txt filters/nsfw/*.txt filters/gambling/*.txt; do
-            if [ -f "$f" ]; then
-              grep -E '^(0\.0\.0\.0|127\.0\.0\.1|::)?\s*' "$f" \
+            if [ -s "$f" ]; then
+              cat "$f" \
                 | sed -E 's/^0\.0\.0\.0[[:space:]]+//' \
                 | sed -E 's/^127\.0\.0\.1[[:space:]]+//' \
                 | sed -E 's/^::[[:space:]]+//' \
                 | sed -E 's/#.*$//' \
                 | sed -E 's/^[[:space:]]+|[[:space:]]+$//' \
-                | grep -E '^[A-Za-z0-9.-]+$' >> "$tmpfile"
+                | grep -E '^[A-Za-z0-9.-]+$' || true \
+                >> "$tmpfile"
             fi
           done
 
