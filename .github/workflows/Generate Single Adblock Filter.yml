@@ -1,6 +1,6 @@
-name: Generate Final Adblock Filter (FIXED)
+name: Consolidated Filter Generator (FINAL - All Domains)
 
-# Action akan dijalankan jika ada perubahan di folder 'filters/'
+# Action dijalankan jika ada perubahan di folder 'filters/'
 on:
   push:
     paths:
@@ -18,14 +18,17 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Output Directory
-        run: mkdir -p filters/output
-
-      - name: Combine ALL Lists and Convert to Adblock Format
+      # 1. Setup Direktori Output yang Diperlukan (filters/output/blocklist)
+      - name: Setup Output Directories
         run: |
-          echo "Mulai: Menggabungkan dan mengkonversi SEMUA (20+) file sumber..."
+          # Membuat folder output baru secara rekursif
+          mkdir -p filters/output/blocklist
+
+      - name: Combine ALL Sources and Convert to Single Plain Domain List
+        run: |
+          echo "Mulai: Menggabungkan dan mengkonversi SEMUA file sumber ke Domain Polos..."
           
-          # Definisikan SEMUA path file sumber
+          # --- DAFTAR FILE SUMBER YANG AKAN DISINKRONISASI ---
           SOURCE_FILES=(
               "filters/blocklist/RifqyShield-BlockList.txt"
               "filters/blocklist/google-ads.txt"
@@ -48,34 +51,35 @@ jobs:
               "filters/blocklist/multi.txt.txt"
           )
           
-          # 1. Gabungkan semua file yang ada ke dalam satu file sementara
+          # 2. Gabungkan semua data dari semua file sumber ke dalam file sementara
           > combined_raw.tmp
           for file in "${SOURCE_FILES[@]}"; do
               if [ -f "$file" ]; then
-                  echo "--> Menggabungkan file: $file"
+                  echo "--> Menggabungkan: $file"
                   cat "$file" >> combined_raw.tmp
               else
                   echo "Peringatan: File $file tidak ditemukan, dilewati."
               fi
           done
 
-          # 2. Periksa apakah ada data hosts (0.0.0.0) yang ditemukan
+          # Cek jika ada data 0.0.0.0 yang valid
           if ! grep -q "^0.0.0.0" combined_raw.tmp; then
-            echo "ERROR: Tidak ada baris '0.0.0.0' yang valid ditemukan di semua file sumber."
+            echo "Peringatan: Tidak ada baris '0.0.0.0' yang valid ditemukan. Membuat file output kosong."
             rm combined_raw.tmp
-            exit 1
+            > filters/output/blocklist/all-domains.txt # Pastikan file tetap dibuat (kosong)
+            exit 0
           fi
 
-          echo "Memproses konversi ke format Adblock (||domain.com^)..."
+          echo "Memproses konversi ke format Domain Polos..."
 
-          # 3. Konversi ke format Adblock, sortir, dan buang duplikat
+          # 3. Konversi ke Format Domain Polos, Sortir, dan Hapus Duplikat
+          # Menghapus "0.0.0.0 " dan mempertahankan domain
           grep "^0.0.0.0" combined_raw.tmp | \
-          sed 's/0.0.0.0 /||/' | \
-          sed 's/$/^/' | \
+          sed 's/0.0.0.0 //' | \
           tr -d '\r' | \
-          sort | uniq > filters/output/domains.txt
+          sort | uniq > filters/output/blocklist/all-domains.txt
 
-          echo "✅ Sukses! File filters/output/domains.txt (Adblock Only) telah dibuat."
+          echo "✅ Sukses! File filters/output/blocklist/all-domains.txt (Domain Polos) telah dibuat."
 
           # Bersihkan file sementara
           rm combined_raw.tmp
@@ -83,6 +87,7 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: FIXED - Consolidated ALL sources into single Adblock list (domains.txt)"
-          file_pattern: filters/output/domains.txt
+          commit_message: "Auto-update: Consolidated ALL sources into single plain domain list (all-domains.txt)"
+          # Hanya commit file output yang baru
+          file_pattern: filters/output/blocklist/all-domains.txt
           branch: ${{ github.ref }}
