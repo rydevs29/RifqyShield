@@ -1,0 +1,75 @@
+name: Generate Single Adblock Filter
+
+on:
+  push:
+    # Trigger saat ada perubahan di file apapun di root, mengabaikan folder .github/
+    paths-ignore:
+      - '.github/**'
+      - 'README.md'
+      - 'LICENSE'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Output Directory
+        run: mkdir -p filters/output
+
+      - name: Combine ALL Lists into Adblock Format
+        run: |
+          echo "Mulai: Menggabungkan dan mengkonversi SEMUA file hosts (0.0.0.0)..."
+          > combined_raw.tmp
+
+          # LOOPING: Cek semua file di folder root (halaman depan)
+          # Menggabungkan semua file yang memiliki format hosts (0.0.0.0)
+          for file in *; do
+            if [ -f "$file" ] && [ "$file" != "README.md" ] && [ "$file" != "LICENSE" ]; then
+              
+              # Cek apakah file ini mengandung "0.0.0.0" di awal baris
+              if grep -q "^0.0.0.0" "$file"; then
+                echo "--> Mengambil isi file: $file"
+                cat "$file" >> combined_raw.tmp
+              fi
+              
+            fi
+          done
+
+          # Jika file gabungan kosong, hentikan proses
+          if [ ! -s combined_raw.tmp ]; then
+            echo "Tidak ada file sumber dengan format 0.0.0.0 yang ditemukan. Output dibatalkan."
+            rm combined_raw.tmp
+            exit 0
+          fi
+
+          # --- FINAL OUTPUT: Adblock Style (||domain.com^) ke domains.txt ---
+          
+          # 1. Ambil baris 0.0.0.0 dari file gabungan
+          # 2. Ubah "0.0.0.0 " menjadi "||"
+          # 3. Tambahkan "^" di ujung baris
+          # 4. Hapus karakter Windows (\r)
+          # 5. Sortir dan buang duplikat
+          grep "^0.0.0.0" combined_raw.tmp | \
+          sed 's/0.0.0.0 /||/' | \
+          sed 's/$/^/' | \
+          tr -d '\r' | \
+          sort | uniq > filters/output/domains.txt
+
+          echo "✅ Selesai! File filters/output/domains.txt telah dibuat dalam format Adblock saja."
+
+          # Bersihkan file sampah
+          rm combined_raw.tmp
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Consolidated ALL sources into single Adblock list (domains.txt)"
+          file_pattern: filters/output/domains.txt
+          branch: ${{ github.ref }}
