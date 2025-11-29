@@ -1,0 +1,73 @@
+name: Auto-Generate All Filters
+
+on:
+  push:
+    # Trigger saat ada perubahan di file apapun di root, atau folder filters/
+    paths-ignore:
+      - '.github/**'
+      - 'README.md'
+      - 'LICENSE'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Output Directory
+        run: mkdir -p filters/output
+
+      - name: Combine and Convert All Lists
+        run: |
+          # 1. Siapkan file sementara
+          echo "Mencari semua file dengan format 0.0.0.0 ..."
+          > combined_raw.tmp
+
+          # 2. LOOPING: Cek semua file di folder root (halaman depan)
+          # Kita exclude folder filters, .git, dan file README/LICENSE
+          for file in *; do
+            if [ -f "$file" ] && [ "$file" != "README.md" ] && [ "$file" != "LICENSE" ]; then
+              
+              # Cek apakah file ini mengandung "0.0.0.0"? Jika ya, angkut!
+              if grep -q "^0.0.0.0" "$file"; then
+                echo "--> Mengambil isi file: $file"
+                cat "$file" >> combined_raw.tmp
+              fi
+              
+            fi
+          done
+
+          # Jika tidak ada file ditemukan, stop.
+          if [ ! -s combined_raw.tmp ]; then
+            echo "Tidak ada file hosts (0.0.0.0) yang ditemukan!"
+            rm combined_raw.tmp
+            exit 0
+          fi
+
+          echo "Memproses konversi format..."
+
+          # --- OUTPUT 1: Format Domain Polos (google.com) ---
+          # Ambil baris 0.0.0.0 -> Hapus "0.0.0.0 " -> Sortir -> Hapus Duplikat -> Simpan
+          grep "^0.0.0.0" combined_raw.tmp | sed 's/0.0.0.0 //' | sort | uniq > filters/output/domains.txt
+          echo "Sukses: filters/output/domains.txt (Format Clean)"
+
+          # --- OUTPUT 2: Format Adblock (||google.com^) ---
+          # Ambil baris 0.0.0.0 -> Ubah "0.0.0.0 " jadi "||" -> Tambah "^" di akhir -> Hapus karakter aneh -> Sortir -> Uniq
+          grep "^0.0.0.0" combined_raw.tmp | sed 's/0.0.0.0 /||/' | sed 's/$/^/' | tr -d '\r' | sort | uniq > filters/output/adblock.txt
+          echo "Sukses: filters/output/adblock.txt (Format Adblock)"
+
+          # Bersihkan file sampah
+          rm combined_raw.tmp
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update: Combined ALL lists to filters/output/"
+          file_pattern: filters/output/*
+          branch: ${{ github.ref }}
