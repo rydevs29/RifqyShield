@@ -1,6 +1,10 @@
+
+#######################################################################################
 1drv.com
 2.android.pool.ntp.org
 404: Not Found
+============================
+RifqyShield WHITELIST
 akamaihd.net
 akamaitechnologies.com
 akamaized.net
@@ -42,6 +46,7 @@ clients3.google.com
 clients4.google.com
 clients5.google.com
 clients6.google.com
+cloudflare.com
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
 continuum.dds.microsoft.com
@@ -84,6 +89,7 @@ github.io
 google.com
 googleapis.com
 gravatar.com
+grok.com
 gstatic.com
 help.ui.xboxlive.com
 hls.ted.com
@@ -132,9 +138,11 @@ officeclient.microsoft.com
 om.cbsi.com
 onedrive.live.com
 open.spotify.com
+openai.com
 outlook.live.com
 outlook.office365.com
 partners.wg.spotify.com
+paypal.com
 pickasso.spotifycdn.com
 pings.conviva.com
 placehold.it
@@ -187,7 +195,6 @@ ui.skype.com
 video-stats.l.google.com
 videos.vidible.tv
 vidtech.cbsinteractive.com
-whatsapp.com
 whatsapp.net
 widget-cdn.rpxnow.com
 win10.ipv6.microsoft.com
@@ -199,6 +206,7 @@ www.msftconnecttest.com
 www.msftncsi.com
 www.no-ip.com
 www.youtube-nocookie.com
+x.ai
 x.com
 xbox.com
 xbox.ipv6.microsoft.com
@@ -206,6 +214,7 @@ xboxexperiencesprod.experimentation.xboxlive.com
 xflight.xboxlive.com
 xkms.xboxlive.com
 xsts.auth.xboxlive.com
+yahoo.com
 youtu.be
 youtube-nocookie.com
 youtube.com
