@@ -1,44 +1,10 @@
-name: Auto Build Master Blocklist
-
-on:
-  schedule:
-    - cron: "0 0 * * 0"   # jalan tiap minggu jam 00:00 UTC
-  workflow_dispatch:       # bisa dijalankan manual dari GitHub
-
-permissions:
-  contents: write          # izin supaya bisa commit & push ke repo
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-
-      - name: Gabung semua filter
+      - name: Commit and Push Changes
         run: |
-          mkdir -p filters/tmp
-          cat \
-            filters/blocklist/google-ads.txt \
-            filters/blocklist/blocklist.txt \
-            filters/youtube-ads/youtube-ads.txt \
-            filters/youtube-ads/youtube-ads2.txt \
-            filters/spotify-ads/spotify-ads.txt \
-            filters/spotify-ads/spotify-ads2.txt \
-            filters/nsfw/nsfw.txt \
-            filters/nsfw/nsfw-2.txt \
-            filters/nsfw/nsfw-3.txt \
-            filters/gambling/gambling.txt \
-            filters/gambling/gambling-2.txt \
-            filters/gambling/gambling-3.txt \
-            filters/trackers.txt \
-            filters/bonus.txt \
-          | sort -u > filters/all.txt
-
-      - name: Commit & Push
-        run: |
-          git config --global user.name "RifqyBot"
-          git config --global user.email "bot@rifqyshield.local"
-          git add filters/all.txt
-          git commit -m "Auto update master blocklist (all.txt)" || echo "No changes to commit"
-          git push
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          # Tambahkan folder output ke git stage
+          git add output/*
+          
+          # Commit hanya jika ada perubahan
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update blocklists [skip ci]" && git push)
