@@ -4,7 +4,7 @@ RifqyShield NSFW | Always Updated
 ============================
 #######################################################################################
 
-sukasex.tv
-www.tantecentil.site
-kisahterlarang.site
-www.demenbokep.com
+*.sukasex.tv
+*.www.tantecentil.site
+*.kisahterlarang.site
+*.www.demenbokep.com
