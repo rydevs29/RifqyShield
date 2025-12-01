@@ -1,5 +1,5 @@
 # RifqyShield
-**The most comprehensive list, using automatic community synchronized with my GitHub, and several domains that are not yet blocked & whitelisted will be added personally**
+**The most comprehensive list, using automatic community synchronized with my GitHub, and several domains that are not yet blocked will be added personally**
 
 No ads • No trackers • No adult content • No gambling • No YouTube/Spotify ads (to display fewer ads)
 
