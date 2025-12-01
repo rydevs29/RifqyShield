@@ -5,11 +5,11 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 
 | Category              | Source                             | Domain             | Status                |
 |-----------------------|------------------------------------|--------------------|-----------------------|
-| Ads & Trackers        | AdBlock Plus, Hagezi Multi, RifqyShield Custom                | ~1.35 million+     | Active                |
+| Ads & Trackers        | AdBlock Plus, GoodbyeAds, Hagezi Ultimate, RifqyShield Custom                | ~1.35 million+     | Active                |
 | YouTube Ads           | GoodbyeAds YouTube, RifqyShield Custom                | ~92 thousand       | Active                |
 | Spotify Ads           | GoodbyeAds Spotify                 | ~16 thousand       | Active                |
-| NSFW & Gambling       | OISD Full, RifqyShield Custom     | ~280 thousand+     | Active (weekly manual) |
-| Malware & Phishing    | AdBlock Plus, Hagezi Multi        | ~460 thousand      | Active                |
+| NSFW & Gambling       | OISD NSFW, Hagezi Ultimate, RifqyShield Custom     | ~280 thousand+     | Active (weekly manual) |
+| Malware & Phishing    | AdBlock Plus, Hagezi Ultimate, RifqyShield Custom      | ~460 thousand      | Active                |
 
 **Total blocked domains ≈ 2.9 million+ (duplicated & optimized)**
 
@@ -21,4 +21,4 @@ MIT – 100%
 
 GitHub: https://github.com/rydevs29/RifqyShield  
 
-Last updated: November 28, 2025
+Last updated: Desember 1, 2025
