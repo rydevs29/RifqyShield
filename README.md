@@ -1,24 +1,24 @@
 # RifqyShield
-**The most comprehensive list, using automatic community synchronized with my GitHub, and several domains that are not yet blocked will be added personally**
+**The most comprehensive list, built and managed automatically using GitHub Actions, combining top community sources and specific custom filters.**
 
-No ads • No trackers • No adult content • No gambling • No YouTube/Spotify ads (to display fewer ads)
+No ads • No trackers • No adult content • No gambling • No YouTube/Spotify ads (show fewer ads)
 
-| Category              | Source                             | Domain             | Status                |
-|-----------------------|------------------------------------|--------------------|-----------------------|
-| Ads & Trackers        | AdBlock Plus, GoodbyeAds, Hagezi Ultimate, RifqyShield Custom                | ~1.35 million+     | Active                |
-| YouTube Ads           | GoodbyeAds YouTube, RifqyShield Custom                | ~92 thousand       | Active                |
-| Spotify Ads           | GoodbyeAds Spotify                 | ~16 thousand       | Active                |
-| NSFW & Gambling       | OISD NSFW, Hagezi Ultimate, RifqyShield Custom     | ~280 thousand+     | Active (weekly manual) |
-| Malware & Phishing    | AdBlock Plus, Hagezi Ultimate, RifqyShield Custom      | ~460 thousand      | Active                |
+| Category              | Source                             | Status                |
+|-----------------------|------------------------------------|-----------------------|
+| **Ads & Trackers** | Hagezi Ultimate, BlocklistProject, GoodbyeAds, RifqyShield Custom | ✅ Active |
+| **YouTube/Spotify** | GoodbyeAds, RifqyShield Custom           | ✅ Active |
+| **NSFW & Gambling** | OISD, Hagezi Ultimate, RifqyShield Custom | ✅ Active |
+| **Malware & Phishing**| OISD, Hagezi Ultimate, BlocklistProject  | ✅ Active |
 
-**Total blocked domains ≈ 2.9 million+ (duplicated & optimized)**
+**📊 Total Unique Domains: 1,333,673** (Optimized & Deduplicated)
 
-### Weekly Updates
-To report domains that are not blocked properly
+### 🔄 Weekly Updates
+This list is automatically built and synchronized every week using GitHub Actions to ensure fresh protection.
+To report domains that are not blocked properly, please open an issue.
 
-### License
+### 📜 License
 MIT – 100%
 
-GitHub: https://github.com/rydevs29/RifqyShield  
+**GitHub:** [https://github.com/rydevs29/RifqyShield](https://github.com/rydevs29/RifqyShield)  
 
-Last updated: Desember 1, 2025
+*Last updated: December 1, 2025*
