@@ -2,11 +2,11 @@ name: Sync Blocklist Sources
 
 on:
   schedule:
-    - cron: "0 0 * * 0"   # otomatis jalan tiap Minggu jam 00:00 UTC
-  workflow_dispatch:       # bisa dijalankan manual dari tab Actions
+    - cron: "0 0 * * 0"   # Jalan otomatis tiap Minggu jam 00:00 UTC
+  workflow_dispatch:       # Bisa dijalankan manual
 
 permissions:
-  contents: write          # izin supaya bisa commit & push ke repo
+  contents: write
 
 jobs:
   sync:
@@ -18,22 +18,33 @@ jobs:
       - name: Download external blocklists
         run: |
           mkdir -p filters/blocklist
-          # BlocklistProject Ads
-          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > filters/blocklist/blocklist.txt
+          
+          # 1. Download BlocklistProject Ads (simpan sementara ke ads-temp.txt)
+          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > filters/blocklist/ads-temp.txt
 
-          # Hagezi multi list (domain format)
-          curl -s https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt > filters/blocklist/multi.txt
+          # 2. Download Hagezi Ultimate (GANTI Multi jadi Ultimate)
+          # Menggunakan -L untuk mengikuti redirect jika ada
+          curl -sL https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
 
-          # Hagezi ultimate list (domain format)
-          curl -s https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
+          # 3. Hapus file multi.txt lama jika masih ada (biar bersih)
+          rm -f filters/blocklist/multi.txt
 
-          # Gabungkan semua ke blocklist.txt
-          cat filters/blocklist/blocklist.txt filters/blocklist/multi.txt filters/blocklist/ultimate.txt | sort -u > filters/blocklist/blocklist.txt
+          # 4. Gabungkan semua (Ads Project + Ultimate) ke blocklist.txt & hapus duplikat
+          cat filters/blocklist/ads-temp.txt filters/blocklist/ultimate.txt | sort -u > filters/blocklist/blocklist.txt
+
+          # Hapus file temp
+          rm filters/blocklist/ads-temp.txt
 
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
-          git add filters/blocklist/blocklist.txt filters/blocklist/multi.txt filters/blocklist/ultimate.txt
-          git commit -m "Sync blocklist sources (BlocklistProject + Hagezi multi + ultimate)" || echo "No changes to commit"
+          
+          # Tambahkan file ultimate dan hasil gabungan blocklist.txt
+          git add filters/blocklist/blocklist.txt filters/blocklist/ultimate.txt
+          
+          # Hapus multi.txt dari git jika sebelumnya ada
+          git rm --cached filters/blocklist/multi.txt 2>/dev/null || true
+          
+          git commit -m "Sync: BlocklistProject + Hagezi Ultimate" || echo "No changes to commit"
           git push
