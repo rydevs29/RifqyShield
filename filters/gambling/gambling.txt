@@ -21,7 +21,7 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.cuanwin77forum.work
 *.wispi.ly
 *.cli.re
-t.ly
+*.t.ly
 *.link.ix-play.com
 *.www.deadpool898.store
 *.rgb.lets.direct
