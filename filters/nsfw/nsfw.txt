@@ -8,3 +8,5 @@ RifqyShield NSFW | Always Updated
 *.www.tantecentil.site
 *.kisahterlarang.site
 *.www.demenbokep.com
+*.bcleaf.com
+*.javcuk.site
