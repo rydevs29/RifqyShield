@@ -10,7 +10,7 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 | **NSFW & Gambling** | OISD, Hagezi Ultimate, RifqyShield Custom | ✅ Active |
 | **Malware & Phishing**| OISD, Hagezi Ultimate, BlocklistProject  | ✅ Active |
 
-**📊 Total Unique Domains: 1,333,673** (Optimized & Deduplicated)
+**📊 Total Unique Domains: 1,387,401** (Optimized & Deduplicated)
 
 ### 🔄 Weekly Updates
 This list is automatically built and synchronized every week using GitHub Actions to ensure fresh protection.
@@ -21,4 +21,4 @@ MIT – 100%
 
 **GitHub:** [https://github.com/rydevs29/RifqyShield](https://github.com/rydevs29/RifqyShield)  
 
-*Last updated: December 1, 2025*
+*Last updated: December 2, 2025*
