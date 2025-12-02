@@ -19,32 +19,35 @@ jobs:
         run: |
           mkdir -p filters/blocklist
           
-          # 1. Download BlocklistProject Ads (simpan sementara ke ads-temp.txt)
-          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > filters/blocklist/ads-temp.txt
+          # 1. Download BlocklistProject Ads (Temp - Cuma buat digabung)
+          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > ads-temp.txt
 
-          # 2. Download Hagezi Ultimate (GANTI Multi jadi Ultimate)
-          # Menggunakan -L untuk mengikuti redirect jika ada
+          # 2. Download Hagezi Ultimate (Permanen)
           curl -sL https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
 
-          # 3. Hapus file multi.txt lama jika masih ada (biar bersih)
+          # 3. Download OISD Big/NSFW (Permanen - Disimpan sebagai oisd-big.txt)
+          curl -sL https://github.com/cbuijs/oisd/raw/refs/heads/master/nsfw/domains > filters/blocklist/oisd-big.txt
+
+          # 4. Hapus file multi.txt lama jika masih ada
           rm -f filters/blocklist/multi.txt
 
-          # 4. Gabungkan semua (Ads Project + Ultimate) ke blocklist.txt & hapus duplikat
-          cat filters/blocklist/ads-temp.txt filters/blocklist/ultimate.txt | sort -u > filters/blocklist/blocklist.txt
+          # 5. Gabungkan SEMUA (Ads + Ultimate + OISD Big) ke blocklist.txt & hapus duplikat
+          cat ads-temp.txt filters/blocklist/ultimate.txt filters/blocklist/oisd-big.txt | sort -u > filters/blocklist/blocklist.txt
 
           # Hapus file temp
-          rm filters/blocklist/ads-temp.txt
+          rm ads-temp.txt
 
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Tambahkan file ultimate dan hasil gabungan blocklist.txt
-          git add filters/blocklist/blocklist.txt filters/blocklist/ultimate.txt
+          # Tambahkan blocklist.txt, ultimate.txt, DAN oisd-big.txt ke repo
+          git add filters/blocklist/blocklist.txt filters/blocklist/ultimate.txt filters/blocklist/oisd-big.txt
           
-          # Hapus multi.txt dari git jika sebelumnya ada
+          # Hapus file lama dari git tracking
           git rm --cached filters/blocklist/multi.txt 2>/dev/null || true
           
-          git commit -m "Sync: BlocklistProject + Hagezi Ultimate" || echo "No changes to commit"
+          git commit -m "Sync: BlocklistProject + Hagezi Ultimate + OISD Big" || echo "No changes to commit"
           git push
+          
