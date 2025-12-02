@@ -22,81 +22,56 @@
             color: var(--text-main);
             margin: 0;
             line-height: 1.6;
-            display: flex;
-            flex-direction: column;
-            min-height: 100vh;
         }
 
         .container {
             max-width: 1000px;
             margin: 0 auto;
             padding: 2rem 1rem;
-            flex: 1;
         }
 
         /* Hero Section */
         header {
             text-align: center;
-            padding: 3rem 0 3rem 0;
-        }
-
-        .stats-badge {
-            background: linear-gradient(90deg, rgba(59, 130, 246, 0.15), rgba(167, 139, 250, 0.15));
-            color: #93c5fd;
-            padding: 0.4rem 1rem;
-            border-radius: 8px;
-            font-size: 0.85rem;
-            font-weight: 600;
-            display: inline-block;
-            margin-bottom: 1rem;
-            border: 1px solid rgba(59, 130, 246, 0.2);
-            letter-spacing: 0.5px;
+            padding: 3rem 0;
         }
 
         h1 {
-            font-size: 3rem;
-            margin: 0.5rem 0;
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
             background: linear-gradient(to right, #60a5fa, #a78bfa);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
-            font-weight: 800;
         }
 
         .subtitle {
             color: var(--text-muted);
-            font-size: 1.15rem;
-            max-width: 650px;
-            margin: 0 auto;
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto 2rem auto;
         }
 
         /* Features Table */
-        .features-wrapper {
-            border-radius: 12px;
-            border: 1px solid #334155;
-            overflow: hidden;
-            margin: 2rem 0;
-        }
-
         .features-table {
             width: 100%;
             border-collapse: collapse;
+            margin: 2rem 0;
             background: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
         }
 
         .features-table th, .features-table td {
-            padding: 1rem 1.5rem;
+            padding: 1rem;
             text-align: left;
             border-bottom: 1px solid #334155;
         }
 
-        .features-table tr:last-child td { border-bottom: none; }
-
         .features-table th {
             background-color: #1a2436;
             color: var(--text-muted);
-            font-size: 0.85rem;
+            font-size: 0.9rem;
             text-transform: uppercase;
-            letter-spacing: 1px;
         }
 
         /* Variants Grid */
@@ -112,10 +87,8 @@
             border-radius: 16px;
             padding: 2rem;
             border: 1px solid #334155;
-            transition: transform 0.2s, border-color 0.2s;
+            transition: transform 0.2s;
             position: relative;
-            display: flex;
-            flex-direction: column;
         }
 
         .card:hover {
@@ -127,40 +100,37 @@
             position: absolute;
             top: 1rem;
             right: 1rem;
-            font-size: 0.75rem;
-            font-weight: 700;
-            padding: 0.25rem 0.75rem;
+            font-size: 0.8rem;
+            padding: 0.2rem 0.6rem;
             border-radius: 6px;
             background: #334155;
             color: #e2e8f0;
-            text-transform: uppercase;
         }
 
         .card h3 {
             margin-top: 0;
             font-size: 1.5rem;
-            margin-bottom: 0.5rem;
         }
 
         .card p {
             color: var(--text-muted);
             font-size: 0.95rem;
             margin-bottom: 1.5rem;
-            flex-grow: 1; 
+            min-height: 80px;
         }
 
         /* Copy Buttons */
         .copy-group {
             display: flex;
             flex-direction: column;
-            gap: 0.6rem;
+            gap: 0.5rem;
         }
 
         .copy-btn {
-            background: rgba(15, 23, 42, 0.5);
+            background: #1e293b;
             border: 1px solid #475569;
             color: var(--text-main);
-            padding: 0.75rem 1rem;
+            padding: 0.75rem;
             border-radius: 8px;
             cursor: pointer;
             display: flex;
@@ -168,7 +138,6 @@
             align-items: center;
             font-size: 0.9rem;
             transition: all 0.2s;
-            font-family: monospace;
         }
 
         .copy-btn:hover {
@@ -177,114 +146,86 @@
         }
 
         .copy-btn span.format {
+            font-weight: 600;
             color: var(--accent);
-            font-weight: bold;
         }
 
         /* Footer */
         footer {
             text-align: center;
-            padding: 3rem 0;
+            margin-top: 4rem;
+            padding: 2rem 0;
             color: var(--text-muted);
             font-size: 0.9rem;
             border-top: 1px solid #334155;
-            margin-top: 4rem;
         }
 
-        .footer-label {
-            display: block;
-            margin-bottom: 1rem;
-            font-weight: 500;
-            color: #94a3b8;
-        }
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { text-decoration: underline; }
 
-        .github-btn {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            background: rgba(255, 255, 255, 0.05);
-            padding: 0.6rem 1.5rem;
-            border-radius: 99px;
-            color: white;
-            text-decoration: none;
-            font-size: 1rem;
-            font-weight: 500;
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            transition: all 0.2s;
-            margin-bottom: 2rem;
-        }
-
-        .github-btn:hover {
-            background: rgba(255, 255, 255, 0.15);
-            transform: translateY(-2px);
-            border-color: var(--accent);
-        }
-
-        /* Mobile Fix */
         @media (max-width: 600px) {
-            h1 { font-size: 2.2rem; }
+            h1 { font-size: 2rem; }
             .card { padding: 1.5rem; }
-            .features-table th, .features-table td { padding: 0.75rem; }
         }
     </style>
 </head>
 <body>
 
 <div class="container">
-    
     <header>
-        <div class="stats-badge">✨ Automated • Optimized • Weekly Updates</div>
-        
         <h1>RifqyShield</h1>
-        <p class="subtitle">The most comprehensive blocklist available. Combining global giants with <strong>exclusive Mobile OEM & Apple tracking filters</strong>.</p>
+        <p class="subtitle">The most comprehensive blocklist, automated via GitHub Actions. Combining Hagezi, BlocklistProject, and <strong>Exclusive Mobile OEM Filters</strong>.</p>
+        
+        <a href="https://github.com/rydevs29/RifqyShield" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #334155; padding: 0.5rem 1rem; border-radius: 8px; color: white; text-decoration: none;">
+            <svg height="20" width="20" viewBox="0 0 16 16" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+            View on GitHub
+        </a>
     </header>
 
     <h2 style="text-align: center; margin-bottom: 1rem;">Protection Coverage</h2>
     <div style="overflow-x: auto;">
-        <div class="features-wrapper">
-            <table class="features-table">
-                <thead>
-                    <tr>
-                        <th>Category</th>
-                        <th>Source</th>
-                        <th>Status</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr>
-                        <td><strong>Ads & Trackers</strong></td>
-                        <td>Hagezi Ultimate, BlocklistProject, RifqyShield Custom</td>
-                        <td style="color: var(--success);">✅ Active</td>
-                    </tr>
-                    <tr>
-                        <td><strong>YouTube/Spotify</strong></td>
-                        <td>GoodbyeAds, RifqyShield Custom</td>
-                        <td style="color: var(--success);">✅ Active</td>
-                    </tr>
-                    <tr>
-                        <td><strong>Mobile OEM</strong></td>
-                        <td>Xiaomi, Samsung, Apple, Huawei Custom Filters</td>
-                        <td style="color: var(--success);">✅ Active</td>
-                    </tr>
-                    <tr>
-                        <td><strong>NSFW & Gambling</strong></td>
-                        <td>OISD, Hagezi Ultimate, RifqyShield Custom</td>
-                        <td style="color: var(--success);">✅ Active</td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+        <table class="features-table">
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Source</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Ads & Trackers</strong></td>
+                    <td>Hagezi Ultimate, BlocklistProject, RifqyShield Custom</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+                <tr>
+                    <td><strong>YouTube/Spotify</strong></td>
+                    <td>GoodbyeAds, RifqyShield Custom</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+                <tr>
+                    <td><strong>Mobile OEM</strong></td>
+                    <td>Xiaomi, Samsung, Apple, Huawei Custom Filters</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+                <tr>
+                    <td><strong>NSFW & Gambling</strong></td>
+                    <td>OISD, Hagezi Ultimate, RifqyShield Custom</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 
     <h2 style="text-align: center; margin-top: 3rem;">Choose Your Level</h2>
-    <p style="text-align: center; color: var(--text-muted); margin-bottom: 2rem;">Click format to copy RAW URL.</p>
+    <p style="text-align: center; color: var(--text-muted); margin-bottom: 2rem;">Click the format button to copy the RAW URL.</p>
 
     <div class="variants-grid">
         
         <div class="card">
             <div class="card-badge">Fastest</div>
             <h3>🛡️ LITE</h3>
-            <p><strong>Lightweight & Anti-Mobile Tracking.</strong> Blocks ads on smartphones (OEM/Apple), YouTube/Spotify ads, and Google ads. No heavy filters.</p>
+            <p><strong>Performance & Anti-Mobile Tracker.</strong> Blocks ads on smartphones (OEM/Apple), YouTube/Spotify ads, and Google ads. Lightweight.</p>
             <div class="copy-group">
                 <button class="copy-btn" onclick="copyLink(this, 'lite/adblock.txt')">
                     <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
@@ -335,13 +276,7 @@
     </div>
 
     <footer>
-        <span class="footer-label">✨ Fully Automated via GitHub Actions</span>
-        
-        <a href="https://github.com/rydevs29/RifqyShield" target="_blank" class="github-btn">
-            <svg height="20" width="20" viewBox="0 0 16 16" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
-            View on GitHub
-        </a>
-
+        <p>Updates automatically every week via GitHub Actions.</p>
         <p>© 2025 RifqyShield • Licensed under MIT</p>
     </footer>
 </div>
