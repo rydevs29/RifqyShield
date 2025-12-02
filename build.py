@@ -18,6 +18,7 @@ SOURCE_FILES = [
     "filters/spotify-ads/spotify-ads.txt",
     "filters/spotify-ads/spotify-ads2.txt",
     "filters/nsfw/nsfw.txt",
+    "filters/blocklist/oisd-big.txt",
     "filters/nsfw/nsfw-2.txt",
     "filters/nsfw/nsfw-3.txt",
     "filters/gambling/gambling.txt",
