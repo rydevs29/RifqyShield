@@ -8,6 +8,7 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.kotabali.xyz
 *.infopublikterbaru.site
 *.milc.io
+*.ms3.cipit88hungry.xyz
 *.ematsyakar.com
 *.ceriabetvip.online
 *.access.ceriavpn.pro
