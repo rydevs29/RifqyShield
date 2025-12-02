@@ -15,3 +15,4 @@ RifqyShield NSFW | Always Updated
 *.satriabokep.com
 *.abg.satriabokep.net
 *.satriabokep.net
+*.siamad-xnx.pages.dev
