@@ -10,3 +10,8 @@ RifqyShield NSFW | Always Updated
 *.www.demenbokep.com
 *.bcleaf.com
 *.javcuk.site
+*.masuk.satriabokep.org
+*.satriabokep.org
+*.satriabokep.com
+*.abg.satriabokep.net
+*.satriabokep.net
