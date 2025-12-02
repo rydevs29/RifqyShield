@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RifqyShield - Ultimate DNS Blocklist</title>
+    <meta name="description" content="Comprehensive DNS blocklist with specific focus on Mobile OEM Tracking, Ads, and Malware protection.">
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent: #3b82f6;
+            --accent-hover: #2563eb;
+            --success: #10b981;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+        }
+
+        /* Hero Section */
+        header {
+            text-align: center;
+            padding: 3rem 0;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(to right, #60a5fa, #a78bfa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            color: var(--text-muted);
+            font-size: 1.1rem;
+            max-width: 600px;
+            margin: 0 auto 2rem auto;
+        }
+
+        .stats-badge {
+            background: rgba(59, 130, 246, 0.1);
+            color: #60a5fa;
+            padding: 0.5rem 1rem;
+            border-radius: 99px;
+            font-weight: 600;
+            display: inline-block;
+            margin-bottom: 1rem;
+        }
+
+        /* Features Table */
+        .features-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+            background: var(--card-bg);
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .features-table th, .features-table td {
+            padding: 1rem;
+            text-align: left;
+            border-bottom: 1px solid #334155;
+        }
+
+        .features-table th {
+            background-color: #1a2436;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            text-transform: uppercase;
+        }
+
+        /* Variants Grid */
+        .variants-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 1.5rem;
+            margin-top: 2rem;
+        }
+
+        .card {
+            background-color: var(--card-bg);
+            border-radius: 16px;
+            padding: 2rem;
+            border: 1px solid #334155;
+            transition: transform 0.2s;
+            position: relative;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            border-color: var(--accent);
+        }
+
+        .card-badge {
+            position: absolute;
+            top: 1rem;
+            right: 1rem;
+            font-size: 0.8rem;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            background: #334155;
+            color: #e2e8f0;
+        }
+
+        .card h3 {
+            margin-top: 0;
+            font-size: 1.5rem;
+        }
+
+        .card p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            margin-bottom: 1.5rem;
+            min-height: 80px;
+        }
+
+        /* Copy Buttons */
+        .copy-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .copy-btn {
+            background: #1e293b;
+            border: 1px solid #475569;
+            color: var(--text-main);
+            padding: 0.75rem;
+            border-radius: 8px;
+            cursor: pointer;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 0.9rem;
+            transition: all 0.2s;
+        }
+
+        .copy-btn:hover {
+            background: #334155;
+            border-color: var(--text-muted);
+        }
+
+        .copy-btn span.format {
+            font-weight: 600;
+            color: var(--accent);
+        }
+
+        /* Footer */
+        footer {
+            text-align: center;
+            margin-top: 4rem;
+            padding: 2rem 0;
+            color: var(--text-muted);
+            font-size: 0.9rem;
+            border-top: 1px solid #334155;
+        }
+
+        a { color: var(--accent); text-decoration: none; }
+        a:hover { text-decoration: underline; }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .card { padding: 1.5rem; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header>
+        <div class="stats-badge">🛡️ v1.0 • 1,387,416+ Unique Domains</div>
+        <h1>RifqyShield</h1>
+        <p class="subtitle">The most comprehensive blocklist, automated via GitHub Actions. Combining Hagezi, BlocklistProject, and <strong>Exclusive Mobile OEM Filters</strong>.</p>
+        
+        <a href="https://github.com/rydevs29/RifqyShield" target="_blank" style="display: inline-flex; align-items: center; gap: 0.5rem; background: #334155; padding: 0.5rem 1rem; border-radius: 8px; color: white; text-decoration: none;">
+            <svg height="20" width="20" viewBox="0 0 16 16" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+            View on GitHub
+        </a>
+    </header>
+
+    <h2 style="text-align: center; margin-bottom: 1rem;">Protection Coverage</h2>
+    <div style="overflow-x: auto;">
+        <table class="features-table">
+            <thead>
+                <tr>
+                    <th>Category</th>
+                    <th>Source</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td><strong>Ads & Trackers</strong></td>
+                    <td>Hagezi Ultimate, BlocklistProject, RifqyShield Custom</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+                <tr>
+                    <td><strong>YouTube/Spotify</strong></td>
+                    <td>GoodbyeAds, RifqyShield Custom</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+                <tr>
+                    <td><strong>Mobile OEM</strong></td>
+                    <td>Xiaomi, Samsung, Apple, Huawei Custom Filters</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+                <tr>
+                    <td><strong>NSFW & Gambling</strong></td>
+                    <td>OISD, Hagezi Ultimate, RifqyShield Custom</td>
+                    <td style="color: var(--success);">✅ Active</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h2 style="text-align: center; margin-top: 3rem;">Choose Your Level</h2>
+    <p style="text-align: center; color: var(--text-muted); margin-bottom: 2rem;">Click the format button to copy the RAW URL.</p>
+
+    <div class="variants-grid">
+        
+        <div class="card">
+            <div class="card-badge">Fastest</div>
+            <h3>🛡️ LITE</h3>
+            <p><strong>Performance & Anti-Mobile Tracker.</strong> Blocks ads on smartphones (OEM/Apple), YouTube/Spotify ads, and Google ads. Lightweight.</p>
+            <div class="copy-group">
+                <button class="copy-btn" onclick="copyLink(this, 'lite/adblock.txt')">
+                    <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'lite/hosts.txt')">
+                    <span class="format">Hosts</span> <span>AdGuard Home</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'lite/plain.txt')">
+                    <span class="format">Plain</span> <span>NextDNS / Router</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="card" style="border-color: var(--accent);">
+            <div class="card-badge" style="background: var(--accent); color: white;">Recommended</div>
+            <h3>🛡️ MEDIUM</h3>
+            <p><strong>Balanced Protection.</strong> Everything in Lite + Aggressive NSFW and Gambling blocking. Ideal for family safe-search.</p>
+            <div class="copy-group">
+                <button class="copy-btn" onclick="copyLink(this, 'medium/adblock.txt')">
+                    <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'medium/hosts.txt')">
+                    <span class="format">Hosts</span> <span>AdGuard Home</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'medium/plain.txt')">
+                    <span class="format">Plain</span> <span>NextDNS / Router</span>
+                </button>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-badge">God Mode</div>
+            <h3>🛡️ ULTIMATE</h3>
+            <p><strong>Maximum Security.</strong> Combination of Medium + Global Giant Lists (Hagezi Ultimate, OISD Big) for total threat protection.</p>
+            <div class="copy-group">
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/adblock.txt')">
+                    <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/hosts.txt')">
+                    <span class="format">Hosts</span> <span>AdGuard Home</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/plain.txt')">
+                    <span class="format">Plain</span> <span>NextDNS / Router</span>
+                </button>
+            </div>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>Updates automatically every week via GitHub Actions.</p>
+        <p>© 2025 RifqyShield • Licensed under MIT</p>
+    </footer>
+</div>
+
+<script>
+    function copyLink(btn, path) {
+        const baseUrl = "https://raw.githubusercontent.com/rydevs29/RifqyShield/main/output/";
+        const fullUrl = baseUrl + path;
+        
+        navigator.clipboard.writeText(fullUrl).then(() => {
+            const originalText = btn.innerHTML;
+            btn.innerHTML = "<span style='color: #10b981; font-weight: bold;'>Copied! ✅</span>";
+            setTimeout(() => {
+                btn.innerHTML = originalText;
+            }, 1500);
+        });
+    }
+</script>
+
+</body>
+</html>
