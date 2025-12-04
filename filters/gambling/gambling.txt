@@ -6,11 +6,16 @@ RifqyShield Blocklist GAMBLING | Always Updated
 
 *.jackpotdipj.store
 *.kotabali.xyz
+*.lotus303ch14.xyz
 *.sultanslotch7.xyz
 *.infopublikterbaru.site
 *.milc.io
+*.qqemas01.com
+*.postogelch10.xyz
+*.astroslotch5.xyz
 *.ms3.cipit88hungry.xyz
 *.ematsyakar.com
+*.datukqqeco.com
 *.ceriabetvip.online
 *.access.ceriavpn.pro
 *.uburubur.vip
