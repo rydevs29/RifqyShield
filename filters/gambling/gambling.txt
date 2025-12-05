@@ -50,6 +50,7 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.vendor.rajapanengacor.mom
 *.slotwindah99af.info
 *.dw.ayamjpgege.com
+*.mantul138-kick.org
 *.koi288raja.com
 *.indobet77.com
 *.testi138ya.com
