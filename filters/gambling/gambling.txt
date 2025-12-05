@@ -9,6 +9,7 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.almaeespirito.com
 *.lotus303ch14.xyz
 *.sultanslotch7.xyz
+*.foya88jet.com
 *.infopublikterbaru.site
 *.milc.io
 *.qqemas01.com
