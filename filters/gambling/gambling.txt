@@ -6,6 +6,9 @@ RifqyShield Blocklist GAMBLING | Always Updated
 
 *.jackpotdipj.store
 *.kotabali.xyz
+*.mstogel1.komandanms.one
+*.cityofgem.com
+*.lima.indomanyao.co
 *.webfafa.ofclink.online
 *.fafa828-jago.xyz
 *.jp.gaspolbosku.space
