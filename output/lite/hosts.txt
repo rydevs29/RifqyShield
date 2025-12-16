@@ -1,5 +1,5 @@
 # RifqyShield Lite List
-# Total Domains: 484107
+# Total Domains: 484109
 
 0.0.0.0 0--e.info
 0.0.0.0 0-0-0-0-0-0proxy.tserv.se
@@ -346420,6 +346420,7 @@
 0.0.0.0 rr1---sn-htgx20capjpq-jb3k.googlevideo.com
 0.0.0.0 rr1---sn-npoe7ndl.googlevideo.com
 0.0.0.0 rr1---sn-npoeen66.googlevideo.com
+0.0.0.0 rr1---sn-npoldn7e.googlevideo.com
 0.0.0.0 rr1.outster.com
 0.0.0.0 rr1.xxxcounter.com
 0.0.0.0 rr2---sn-apou5n-jb3e.googlevideo.com
@@ -346433,6 +346434,7 @@
 0.0.0.0 rr4.xxxcounter.com
 0.0.0.0 rr5---sn-npoe7ndl.googlevideo.com
 0.0.0.0 rr5---sn-npoeenlk.googlevideo.com
+0.0.0.0 rr5---sn-npoldn7l.googlevideo.com
 0.0.0.0 rr5.xxxcounter.com
 0.0.0.0 rr7.xxxcounter.com
 0.0.0.0 rr8---sn-htgx20capjpq-jb3l.googlevideo.com

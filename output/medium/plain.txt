@@ -680784,6 +680784,7 @@ rr1---sn-apou5n-jb3s.googlevideo.com
 rr1---sn-htgx20capjpq-jb3k.googlevideo.com
 rr1---sn-npoe7ndl.googlevideo.com
 rr1---sn-npoeen66.googlevideo.com
+rr1---sn-npoldn7e.googlevideo.com
 rr1.outster.com
 rr1.xxxcounter.com
 rr198.com
@@ -680798,6 +680799,7 @@ rr4---sn-npoldn76.googlevideo.com
 rr4.xxxcounter.com
 rr5---sn-npoe7ndl.googlevideo.com
 rr5---sn-npoeenlk.googlevideo.com
+rr5---sn-npoldn7l.googlevideo.com
 rr5.xxxcounter.com
 rr552.com
 rr689.com
