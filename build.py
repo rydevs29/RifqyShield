@@ -14,6 +14,7 @@ FILES_OEM_TRACKER = [
 
 FILES_SPECIFIC = [
     "filters/blocklist/RifqyShield-BlockList.txt",
+    "filters/blocklist/RifqyShield-Anti-PopUP.txt",
     "filters/blocklist/google-ads.txt",
     "filters/youtube-ads/youtube-ads.txt",
     "filters/youtube-ads/youtube-ads2.txt",
