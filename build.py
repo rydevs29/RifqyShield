@@ -15,7 +15,6 @@ FILES_OEM_TRACKER = [
 FILES_SPECIFIC = [
     "filters/blocklist/RifqyShield-BlockList.txt",
     "filters/blocklist/RifqyShield-Anti-PopUP.txt",
-    "filters/blocklist/google-ads.txt",
     "filters/youtube-ads/youtube-ads.txt",
     "filters/youtube-ads/youtube-ads2.txt",
     "filters/spotify-ads/spotify-ads.txt",
@@ -28,6 +27,7 @@ FILES_NSFW_GAMBLING = [
     "filters/nsfw/nsfw-3.txt",
     "filters/gambling/gambling.txt",
     "filters/gambling/gambling-2.txt",
+    "filters/gambling/gambling-4.txt",
     "filters/gambling/gambling-3.txt",
 ]
 
