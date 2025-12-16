@@ -6,6 +6,8 @@ import re
 # 1. Definisi File per Kategori
 FILES_OEM_TRACKER = [
     "filters/blocklist/ads-xiaomi.txt",
+    "filters/blocklist/ads-amazon.txt",
+    "filters/blocklist/ads-apple.txt",
     "filters/blocklist/ads-oppo-realme.txt",
     "filters/blocklist/ads-vivo.txt",
     "filters/blocklist/ads-huawei.txt",
