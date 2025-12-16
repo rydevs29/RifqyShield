@@ -5,13 +5,13 @@ import re
 
 # 1. Definisi File per Kategori
 FILES_OEM_TRACKER = [
-    "filters/blocklist/ads-xiaomi.txt",
-    "filters/blocklist/ads-amazon.txt",
-    "filters/blocklist/ads-apple.txt",
-    "filters/blocklist/ads-oppo-realme.txt",
-    "filters/blocklist/ads-vivo.txt",
-    "filters/blocklist/ads-huawei.txt",
-    "filters/blocklist/ads-samsung.txt",
+    "filters/smartphone-tracking/tracking-xiaomi.txt",
+    "filters/smartphone-tracking/tracking-amazon.txt",
+    "filters/smartphone-tracking/tracking-apple.txt",
+    "filters/smartphone-tracking/tracking-oppo-realme.txt",
+    "filters/smartphone-tracking/tracking-vivo.txt",
+    "filters/smartphone-tracking/tracking-huawei.txt",
+    "filters/smartphone-tracking/tracking-samsung.txt",
 ]
 
 FILES_SPECIFIC = [
