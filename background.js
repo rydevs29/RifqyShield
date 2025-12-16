@@ -22,6 +22,7 @@
         "filters/blocklist/ads-vivo.txt",
         "filters/blocklist/ads-huawei.txt",
         "filters/blocklist/ads-samsung.txt",
+        "filters/blocklist/RifqyShield-Anti-PopUP.txt",
         "filters/youtube-ads/youtube-ads.txt",
         "filters/youtube-ads/youtube-ads2.txt",
         "filters/spotify-ads/spotify-ads.txt",
