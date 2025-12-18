@@ -1,4 +1,4 @@
-name: Sync Blocklist Sources
+Name: Sync Blocklist Sources
 
 on:
   schedule:
@@ -17,22 +17,52 @@ jobs:
 
       - name: Download external blocklists
         run: |
+          # Buat folder yang diperlukan
           mkdir -p filters/blocklist
+          mkdir -p filters/gambling
+          mkdir -p filters/nsfw
           
-          # 1. Download BlocklistProject Ads (Temp - Cuma buat digabung)
+          # --- DOWNLOAD SOURCES ---
+
+          # 1. BlocklistProject Ads (Temp - Cuma buat digabung)
           curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > ads-temp.txt
 
-          # 2. Download Hagezi Ultimate (Permanen)
+          # 2. Hagezi Ultimate (Permanen - Gabung ke blocklist.txt)
           curl -sL https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
 
-          # 3. Download OISD Big/NSFW (Permanen - Disimpan sebagai oisd-big.txt)
-          curl -sL https://github.com/cbuijs/oisd/raw/refs/heads/master/nsfw/domains > filters/blocklist/oisd-big.txt
+          # 3. Hagezi Gambling (Permanen - Masuk filters/gambling - Gabung ke blocklist.txt)
+          # Note: Menggunakan versi RAW dari link RPZ yang kamu berikan
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/gambling.txt > filters/gambling/Hagezi-Gambling.txt
 
-          # 4. Hapus file multi.txt lama jika masih ada
+          # 4. Hagezi PopUpAds (Permanen - Masuk filters/blocklist - Gabung ke blocklist.txt)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/popupads.txt > filters/blocklist/Hagezi-PopUpAds.txt
+
+          # 5. Hagezi UrlShortener (Permanen - Masuk filters/blocklist - Gabung ke blocklist.txt)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/urlshortener.txt > filters/blocklist/Hagezi-Urlshortener.txt
+
+          # 6. Hagezi NSFW (Permanen - Masuk filters/nsfw - JANGAN digabung)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/nsfw.txt > filters/nsfw/Hagezi-NSFW.txt
+
+          # 7. OISD NSFW (Permanen - Masuk filters/nsfw - JANGAN digabung)
+          curl -sL https://raw.githubusercontent.com/cbuijs/oisd/master/nsfw/domains > filters/nsfw/OISD-NSFW.txt
+
+          # 8. OISD BIG (Permanen - Masuk filters/blocklist - Gabung ke blocklist.txt)
+          curl -sL https://raw.githubusercontent.com/cbuijs/oisd/master/big/domains > filters/blocklist/OISD-BIG.txt
+
+          # --- CLEANUP & MERGE ---
+
+          # Hapus file multi.txt lama jika masih ada
           rm -f filters/blocklist/multi.txt
 
-          # 5. Gabungkan SEMUA (Ads + Ultimate + OISD Big) ke blocklist.txt & hapus duplikat
-          cat ads-temp.txt filters/blocklist/ultimate.txt filters/blocklist/oisd-big.txt | sort -u > filters/blocklist/blocklist.txt
+          # Gabungkan kategori BLOKIR UTAMA ke blocklist.txt & hapus duplikat
+          # Yang digabung: Ads Temp + Ultimate + Gambling + PopUp + UrlShortener + OISD BIG
+          # Yang TIDAK digabung: Hagezi-NSFW, OISD-NSFW
+          cat ads-temp.txt \
+              filters/blocklist/ultimate.txt \
+              filters/gambling/Hagezi-Gambling.txt \
+              filters/blocklist/Hagezi-PopUpAds.txt \
+              filters/blocklist/Hagezi-Urlshortener.txt \
+              filters/blocklist/OISD-BIG.txt | sort -u > filters/blocklist/blocklist.txt
 
           # Hapus file temp
           rm ads-temp.txt
@@ -42,12 +72,14 @@ jobs:
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Tambahkan blocklist.txt, ultimate.txt, DAN oisd-big.txt ke repo
-          git add filters/blocklist/blocklist.txt filters/blocklist/ultimate.txt filters/blocklist/oisd-big.txt
+          # Tambahkan semua file baru di folder filters
+          git add filters/blocklist/*
+          git add filters/gambling/*
+          git add filters/nsfw/*
           
-          # Hapus file lama dari git tracking
+          # Hapus file lama (multi.txt) dari git tracking jika masih terdata
           git rm --cached filters/blocklist/multi.txt 2>/dev/null || true
           
-          git commit -m "Sync: BlocklistProject + Hagezi Ultimate + OISD Big" || echo "No changes to commit"
+          git commit -m "Sync: Updated Blocklists (Hagezi, OISD, Gambling, PopUp, NSFW sep)" || echo "No changes to commit"
           git push
           
