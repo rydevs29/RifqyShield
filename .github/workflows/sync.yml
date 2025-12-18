@@ -22,22 +22,16 @@ jobs:
           # 1. Download Hagezi Ultimate (Sumber Utama)
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
 
-          # 2. Download TrustPositif Gambling (Link Terbaru)
-          curl -sL https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/alsyundawy_gambling.txt > trust-temp.txt
-
-          # 3. Gabungkan Keduanya ke blocklist.txt & hapus duplikat
-          cat filters/blocklist/ultimate.txt trust-temp.txt | sort -u > filters/blocklist/blocklist.txt
-
-          # Hapus file temp
-          rm trust-temp.txt
+          # 2. Download OISD SMALL (Disimpan terpisah)
+          curl -sL https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/small/domains > filters/blocklist/oisd-small.txt
 
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Update file yang diperlukan saja
-          git add filters/blocklist/ultimate.txt filters/blocklist/blocklist.txt
+          # Update hanya file ultimate.txt dan oisd-small.txt
+          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt
           
-          git commit -m "Sync: Hagezi Normal + Alsyundawy Gambling" || echo "No changes to commit"
+          git commit -m "Sync: Hagezi Ultimate + OISD Small" || echo "No changes to commit"
           git push
