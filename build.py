@@ -39,21 +39,18 @@ FILES_NSFW_GAMBLING = [
 ]
 
 FILES_BIG_DATA = [
-    "filters/blocklist/blocklist.txt", # Ini gabungan Hagezi + BlocklistProject
+    "filters/blocklist/blocklist.txt", 
     "filters/blocklist/ultimate.txt",
     "filters/blocklist/OISD-BIG.txt",
 ]
 
-# 2. Definisi Varian (Apa saja isi masing-masing level)
+# 2. Definisi Varian
 VARIANTS = {
     "lite": FILES_OEM_TRACKER + FILES_SPECIFIC,
-    
     "medium": FILES_OEM_TRACKER + FILES_SPECIFIC + FILES_NSFW_GAMBLING,
-    
     "ultimate": FILES_OEM_TRACKER + FILES_SPECIFIC + FILES_NSFW_GAMBLING + FILES_BIG_DATA
 }
 
-# Folder output utama
 BASE_OUTPUT_DIR = 'output'
 
 # ================= L O G I K A   S C R I P T =================
@@ -61,27 +58,31 @@ BASE_OUTPUT_DIR = 'output'
 def clean_domain(line):
     """
     Membersihkan baris menjadi domain murni.
+    Hanya membuang komentar dan kata CNAME.
     """
+    # 1. Hapus komentar (# atau !)
     line = line.split('#')[0].split('!')[0].strip()
+    
+    # 2. Hapus kata CNAME saja
+    if ' CNAME' in line:
+        line = line.split(' CNAME')[0].strip()
+
     if not line:
         return None
 
+    # 3. Pembersihan standar
     line = line.replace('127.0.0.1', '').replace('0.0.0.0', '')
     line = line.replace('||', '').replace('^', '').replace('*.', '')
     
     domain = line.strip().lower()
 
+    # 4. Validasi akhir
     if '.' in domain and ' ' not in domain and len(domain) > 3:
         return domain
     
     return None
 
 def write_files(variant_name, domains):
-    """
-    Fungsi untuk menulis file output (Hosts, Adblock, Wildcard, Plain)
-    berdasarkan varian (lite/medium/ultimate)
-    """
-    # Buat folder khusus varian, misal: output/lite
     target_dir = os.path.join(BASE_OUTPUT_DIR, variant_name)
     if not os.path.exists(target_dir):
         os.makedirs(target_dir)
@@ -89,42 +90,38 @@ def write_files(variant_name, domains):
     sorted_domains = sorted(list(domains))
     total_count = len(sorted_domains)
     
-    print(f"  [{variant_name.upper()}] Menulis {total_count} domain ke folder {target_dir}...")
+    print(f"  [{variant_name.upper()}] Menulis {total_count} domain...")
 
-    # 1. HOSTS
+    # Output Hosts
     with open(os.path.join(target_dir, 'hosts.txt'), 'w', encoding='utf-8') as f:
-        f.write(f"# RifqyShield {variant_name.capitalize()} List\n# Total Domains: {total_count}\n\n")
+        f.write(f"# RifqyShield {variant_name.capitalize()} List\n# Total: {total_count}\n\n")
         for domain in sorted_domains:
             f.write(f"0.0.0.0 {domain}\n")
 
-    # 2. ADBLOCK
+    # Output Adblock
     with open(os.path.join(target_dir, 'adblock.txt'), 'w', encoding='utf-8') as f:
-        f.write(f"! RifqyShield {variant_name.capitalize()} List\n! Total Domains: {total_count}\n\n")
+        f.write(f"! RifqyShield {variant_name.capitalize()} List\n\n")
         for domain in sorted_domains:
             f.write(f"||{domain}^\n")
 
-    # 3. WILDCARD
+    # Output Wildcard
     with open(os.path.join(target_dir, 'wildcard.txt'), 'w', encoding='utf-8') as f:
-        f.write(f"# RifqyShield {variant_name.capitalize()} Wildcard List\n# Total Domains: {total_count}\n\n")
+        f.write(f"# RifqyShield {variant_name.capitalize()} Wildcard\n\n")
         for domain in sorted_domains:
             f.write(f"*.{domain}\n")
 
-    # 4. PLAIN
+    # Output Plain
     with open(os.path.join(target_dir, 'plain.txt'), 'w', encoding='utf-8') as f:
         for domain in sorted_domains:
             f.write(f"{domain}\n")
 
 def main():
     print("--- MEMULAI PROSES BUILD MULTI-VARIAN ---")
-
-    # Loop untuk setiap varian (lite, medium, ultimate)
     for variant_name, file_list in VARIANTS.items():
         print(f"\nMemproses Varian: {variant_name.upper()}")
         unique_domains = set()
-
         for file_path in file_list:
             if os.path.exists(file_path):
-                # print(f"  Membaca: {file_path}") # Uncomment jika ingin log detail
                 try:
                     with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                         for line in f:
@@ -132,15 +129,10 @@ def main():
                             if clean:
                                 unique_domains.add(clean)
                 except Exception as e:
-                    print(f"  [ERROR] Gagal membaca {file_path}: {e}")
-            else:
-                pass 
-                # print(f"  [SKIP] File tidak ditemukan: {file_path}")
-
-        # Tulis hasil ke folder masing-masing
+                    print(f"  [ERROR] {file_path}: {e}")
         write_files(variant_name, unique_domains)
-
     print("\n--- SEMUA SELESAI ---")
 
 if __name__ == "__main__":
     main()
+    
