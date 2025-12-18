@@ -1,4 +1,4 @@
-Name: Sync Blocklist Sources
+name: Sync Blocklist Sources
 
 on:
   schedule:
@@ -31,7 +31,6 @@ jobs:
           curl -sL https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
 
           # 3. Hagezi Gambling (Permanen - Masuk filters/gambling - Gabung ke blocklist.txt)
-          # Note: Menggunakan versi RAW dari link RPZ yang kamu berikan
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/gambling.txt > filters/gambling/Hagezi-Gambling.txt
 
           # 4. Hagezi PopUpAds (Permanen - Masuk filters/blocklist - Gabung ke blocklist.txt)
@@ -82,4 +81,3 @@ jobs:
           
           git commit -m "Sync: Updated Blocklists (Hagezi, OISD, Gambling, PopUp, NSFW sep)" || echo "No changes to commit"
           git push
-          
