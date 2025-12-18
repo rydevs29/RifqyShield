@@ -1,5 +1,5 @@
 # RifqyShield Lite List
-# Total: 551464
+# Total Domain Terblokir: 551464
 
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com

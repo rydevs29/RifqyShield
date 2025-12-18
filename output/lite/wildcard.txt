@@ -1,4 +1,5 @@
 # RifqyShield Lite Wildcard
+# Total Domain Terblokir: 551464
 
 *.0--0.info
 *.0--4.com
