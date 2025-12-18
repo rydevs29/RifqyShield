@@ -1,5 +1,5 @@
 # RifqyShield Lite List
-# Total Domains: 484668
+# Total Domains: 484677
 
 0.0.0.0 0--e.info
 0.0.0.0 0-0-0-0-0-0proxy.tserv.se
@@ -136548,6 +136548,13 @@
 0.0.0.0 data-staging-v3.conductrics.com
 0.0.0.0 data-staging.scoota.co
 0.0.0.0 data-staging.usabilla.com
+0.0.0.0 data-target="custom-scopes.customscopesnamefield"
+0.0.0.0 data-target="custom-scopes.customscopesqueryfield"
+0.0.0.0 data-target="qbsearch-input.inputbutton"
+0.0.0.0 data-target="qbsearch-input.querybuildercontainer"
+0.0.0.0 data-target="query-builder.resultslist"
+0.0.0.0 data-target="query-builder.styledinput"
+0.0.0.0 data-target="query-builder.styledinputcontent"
 0.0.0.0 data-tc.r-ad.ne.jp
 0.0.0.0 data-test.bluekai.com
 0.0.0.0 data-test2.bluekai.com
@@ -197998,6 +198005,7 @@
 0.0.0.0 hrebay360.qualtrics.com
 0.0.0.0 href.asia
 0.0.0.0 href.li
+0.0.0.0 href="/login?return_to=https%3a%2f%2fgithub.com%2fhagezi%2fdns-blocklists%2fblob%2fmain%2fadblock%2fpopupads.txt"
 0.0.0.0 hrej.cz
 0.0.0.0 hrerr.innovid.com
 0.0.0.0 hrf-relief.com
@@ -208111,6 +208119,7 @@
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 initgroup.com
+0.0.0.0 initial-path="/hagezi/dns-blocklists/blob/main/adblock/popupads.txt"
 0.0.0.0 initialcapital.clickfunnels.com
 0.0.0.0 initialdesigns.ca
 0.0.0.0 initiativeq.app.link

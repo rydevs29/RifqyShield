@@ -1,5 +1,5 @@
 ! RifqyShield Lite List
-! Total Domains: 484668
+! Total Domains: 484677
 
 ||0--e.info^
 ||0-0-0-0-0-0proxy.tserv.se^
@@ -136548,6 +136548,13 @@
 ||data-staging-v3.conductrics.com^
 ||data-staging.scoota.co^
 ||data-staging.usabilla.com^
+||data-target="custom-scopes.customscopesnamefield"^
+||data-target="custom-scopes.customscopesqueryfield"^
+||data-target="qbsearch-input.inputbutton"^
+||data-target="qbsearch-input.querybuildercontainer"^
+||data-target="query-builder.resultslist"^
+||data-target="query-builder.styledinput"^
+||data-target="query-builder.styledinputcontent"^
 ||data-tc.r-ad.ne.jp^
 ||data-test.bluekai.com^
 ||data-test2.bluekai.com^
@@ -197998,6 +198005,7 @@
 ||hrebay360.qualtrics.com^
 ||href.asia^
 ||href.li^
+||href="/login?return_to=https%3a%2f%2fgithub.com%2fhagezi%2fdns-blocklists%2fblob%2fmain%2fadblock%2fpopupads.txt"^
 ||hrej.cz^
 ||hrerr.innovid.com^
 ||hrf-relief.com^
@@ -208111,6 +208119,7 @@
 ||init.startappservice.com^
 ||init.supersonicads.com^
 ||initgroup.com^
+||initial-path="/hagezi/dns-blocklists/blob/main/adblock/popupads.txt"^
 ||initialcapital.clickfunnels.com^
 ||initialdesigns.ca^
 ||initiativeq.app.link^
