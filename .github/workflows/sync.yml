@@ -34,7 +34,7 @@ jobs:
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/gambling.txt > filters/gambling/Hagezi-Gambling.txt
 
           # 4. Hagezi PopUpAds (Permanen - Masuk filters/blocklist - Gabung ke blocklist.txt)
-          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/popupads.txt > filters/blocklist/Hagezi-PopUpAds.txt
+          curl -sL https://github.com/hagezi/dns-blocklists/blob/main/adblock/popupads.txt > filters/blocklist/Hagezi-PopUpAds.txt
 
           # 5. Hagezi UrlShortener (Permanen - Masuk filters/blocklist - Gabung ke blocklist.txt)
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/rpz/urlshortener.txt > filters/blocklist/Hagezi-Urlshortener.txt
