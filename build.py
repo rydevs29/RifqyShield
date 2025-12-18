@@ -3,7 +3,6 @@ import re
 
 # ================= K O N F I G U R A S I   V A R I A N =================
 
-# 1. Definisi File per Kategori
 FILES_OEM_TRACKER = [
     "filters/smartphone-tracking/tracking-xiaomi.txt",
     "filters/smartphone-tracking/tracking-amazon.txt",
@@ -44,7 +43,6 @@ FILES_BIG_DATA = [
     "filters/blocklist/OISD-BIG.txt",
 ]
 
-# 2. Definisi Varian
 VARIANTS = {
     "lite": FILES_OEM_TRACKER + FILES_SPECIFIC,
     "medium": FILES_OEM_TRACKER + FILES_SPECIFIC + FILES_NSFW_GAMBLING,
@@ -56,30 +54,16 @@ BASE_OUTPUT_DIR = 'output'
 # ================= L O G I K A   S C R I P T =================
 
 def clean_domain(line):
-    """
-    Membersihkan baris menjadi domain murni.
-    Hanya membuang komentar dan kata CNAME.
-    """
-    # 1. Hapus komentar (# atau !)
     line = line.split('#')[0].split('!')[0].strip()
-    
-    # 2. Hapus kata CNAME saja
     if ' CNAME' in line:
         line = line.split(' CNAME')[0].strip()
-
     if not line:
         return None
-
-    # 3. Pembersihan standar
     line = line.replace('127.0.0.1', '').replace('0.0.0.0', '')
     line = line.replace('||', '').replace('^', '').replace('*.', '')
-    
     domain = line.strip().lower()
-
-    # 4. Validasi akhir
     if '.' in domain and ' ' not in domain and len(domain) > 3:
         return domain
-    
     return None
 
 def write_files(variant_name, domains):
@@ -92,25 +76,25 @@ def write_files(variant_name, domains):
     
     print(f"  [{variant_name.upper()}] Menulis {total_count} domain...")
 
-    # Output Hosts
+    # 1. HOSTS (Pakai Header & Total)
     with open(os.path.join(target_dir, 'hosts.txt'), 'w', encoding='utf-8') as f:
-        f.write(f"# RifqyShield {variant_name.capitalize()} List\n# Total: {total_count}\n\n")
+        f.write(f"# RifqyShield {variant_name.capitalize()} List\n# Total Domain Terblokir: {total_count}\n\n")
         for domain in sorted_domains:
             f.write(f"0.0.0.0 {domain}\n")
 
-    # Output Adblock
+    # 2. ADBLOCK (Pakai Header & Total)
     with open(os.path.join(target_dir, 'adblock.txt'), 'w', encoding='utf-8') as f:
-        f.write(f"! RifqyShield {variant_name.capitalize()} List\n\n")
+        f.write(f"! RifqyShield {variant_name.capitalize()} List\n! Total Domain Terblokir: {total_count}\n\n")
         for domain in sorted_domains:
             f.write(f"||{domain}^\n")
 
-    # Output Wildcard
+    # 3. WILDCARD (Pakai Header & Total)
     with open(os.path.join(target_dir, 'wildcard.txt'), 'w', encoding='utf-8') as f:
-        f.write(f"# RifqyShield {variant_name.capitalize()} Wildcard\n\n")
+        f.write(f"# RifqyShield {variant_name.capitalize()} Wildcard\n# Total Domain Terblokir: {total_count}\n\n")
         for domain in sorted_domains:
             f.write(f"*.{domain}\n")
 
-    # Output Plain
+    # 4. PLAIN (KHUSUS INI: Murni Domain Saja, Tanpa Header/Judul)
     with open(os.path.join(target_dir, 'plain.txt'), 'w', encoding='utf-8') as f:
         for domain in sorted_domains:
             f.write(f"{domain}\n")
@@ -135,4 +119,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
