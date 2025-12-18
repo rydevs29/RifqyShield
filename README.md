@@ -33,8 +33,8 @@ To report domains that are not blocked properly, please open an issue.
 ---
 
 ### 📜 License
-MIT – 100%
+MIT
 
-**GitHub:** [https://github.com/rydevs29/RifqyShield](https://github.com/rydevs29/RifqyShield)  
+**GitHub:** [Open Github RifqyShield](https://github.com/rydevs29/RifqyShield)  
 
-*Last updated: December 15, 2025*
+*Last updated: December 18, 2025*
