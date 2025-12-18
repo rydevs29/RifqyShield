@@ -5,10 +5,10 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 
 | Category              | Source                             | Status                |
 |-----------------------|------------------------------------|-----------------------|
-| **Ads & Trackers** | Hagezi Ultimate, OISD-Small, GoodbyeAds, | ✅ Active |
+| **Ads & Trackers** | Hagezi Ultimate, OISD-Small | ✅ Active |
 | **YouTube/Spotify** | GoodbyeAds, RifqyShield Custom           | ✅ Active |
 | **NSFW & Gambling** | OISD-NSFW, Hagezi-NSFW, hostsVN, RifqyShield Custom | ✅ Active |
-| **Malware & Phishing**| OISD-Small, Hagezi Ultimate | ✅ Active |
+| **Malware & Phishing**| Hagezi Ultimate, OISD-Small | ✅ Active |
 
 **📊 Total Unique Domains: 1,808,283** (Optimized & Deduplicated)
 
