@@ -29,7 +29,7 @@ jobs:
           curl -sL https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains > filters/blocklist/OISD-BIG.txt
 
           # 4. Download TrustPositif Gambling Indo (Temp - Digabung ke blocklist.txt)
-          curl -s https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/gambling_indonesia.txt > trust-temp.txt
+          curl -s https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/alsyundawy_gambling.txt > trust-temp.txt
 
           # 5. Download OISD NSFW (Terpisah - Masuk ke folder nsfw)
           curl -sL https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/nsfw/domains > filters/nsfw/OISD-NSFW.txt
