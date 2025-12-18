@@ -35,7 +35,7 @@ FILES_NSFW_GAMBLING = [
     "filters/nsfw/OISD-NSFW.txt",
     "filters/nsfw/Hagezi-NSFW.txt",
     "filters/gambling/gambling.txt",
-    "filters/gambling/UT-1-Gambling.txt",
+    "filters/gambling/hostsVN-Gambling.txt",
     "filters/gambling/Hagezi-Gambling.txt",
     "filters/gambling/gambling-2.txt",
     "filters/gambling/gambling-4.txt",
@@ -43,9 +43,8 @@ FILES_NSFW_GAMBLING = [
 ]
 
 FILES_BIG_DATA = [
-    "filters/blocklist/blocklist.txt", # Ini gabungan Hagezi + BlocklistProject
+    "filters/blocklist/oisd-small.txt", # Ini gabungan Hagezi + BlocklistProject
     "filters/blocklist/ultimate.txt",
-    "filters/blocklist/OISD-BIG.txt",
 ]
 
 # 2. Definisi Varian (Apa saja isi masing-masing level)
