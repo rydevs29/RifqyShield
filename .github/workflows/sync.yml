@@ -17,37 +17,27 @@ jobs:
 
       - name: Download external blocklists
         run: |
-          mkdir -p filters/blocklist filters/nsfw
+          mkdir -p filters/blocklist
           
-          # 1. Download BlocklistProject Ads (Temp - Cuma buat digabung)
-          curl -s https://raw.githubusercontent.com/blocklistproject/Lists/master/ads.txt > ads-temp.txt
+          # 1. Download Hagezi Normal/Multi (Sumber Utama)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt > filters/blocklist/ultimate.txt
 
-          # 2. Download Hagezi Ultimate (Permanen)
-          curl -sL https://github.com/hagezi/dns-blocklists/raw/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
+          # 2. Download TrustPositif Gambling (Link Terbaru)
+          curl -sL https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/alsyundawy_gambling.txt > trust-temp.txt
 
-          # 3. Download OISD Big (Permanen & Digabung)
-          curl -sL https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/big/domains > filters/blocklist/OISD-BIG.txt
-
-          # 4. Download TrustPositif Gambling Indo (Temp - Digabung ke blocklist.txt)
-          curl -s https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/alsyundawy_gambling.txt > trust-temp.txt
-
-          # 5. Download OISD NSFW (Terpisah - Masuk ke folder nsfw)
-          curl -sL https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/nsfw/domains > filters/nsfw/OISD-NSFW.txt
-
-          # 6. Gabungkan SEMUA (Ads + Ultimate + OISD Big + TrustPositif) ke blocklist.txt & hapus duplikat
-          cat ads-temp.txt filters/blocklist/ultimate.txt filters/blocklist/OISD-BIG.txt trust-temp.txt | sort -u > filters/blocklist/blocklist.txt
+          # 3. Gabungkan Keduanya ke blocklist.txt & hapus duplikat
+          cat filters/blocklist/ultimate.txt trust-temp.txt | sort -u > filters/blocklist/blocklist.txt
 
           # Hapus file temp
-          rm ads-temp.txt trust-temp.txt
+          rm trust-temp.txt
 
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Tambahkan file permanen ke tracking git
-          git add filters/blocklist/blocklist.txt filters/blocklist/ultimate.txt filters/blocklist/OISD-BIG.txt filters/nsfw/OISD-NSFW.txt
+          # Update file yang diperlukan saja
+          git add filters/blocklist/ultimate.txt filters/blocklist/blocklist.txt
           
-          # Cek status dan commit
-          git commit -m "Sync: BlocklistProject + Hagezi Ultimate + OISD Big + TrustPositif + OISD NSFW" || echo "No changes to commit"
+          git commit -m "Sync: Hagezi Normal + Alsyundawy Gambling" || echo "No changes to commit"
           git push
