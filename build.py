@@ -29,6 +29,8 @@ FILES_NSFW_GAMBLING = [
     "filters/nsfw/nsfw.txt",
     "filters/nsfw/nsfw-2.txt",
     "filters/nsfw/nsfw-3.txt",
+    "filters/nsfw/OISD-NSFW.txt",
+    "filters/nsfw/Hagezi-NSFW.txt",
     "filters/gambling/gambling.txt",
     "filters/gambling/Hagezi-Gambling.txt",
     "filters/gambling/gambling-2.txt",
@@ -39,8 +41,6 @@ FILES_NSFW_GAMBLING = [
 FILES_BIG_DATA = [
     "filters/blocklist/blocklist.txt", # Ini gabungan Hagezi + BlocklistProject
     "filters/blocklist/ultimate.txt",
-    "filters/nsfw/OISD-NSFW.txt",
-    "filters/nsfw/Hagezi-NSFW.txt",
     "filters/blocklist/OISD-BIG.txt",
 ]
 
