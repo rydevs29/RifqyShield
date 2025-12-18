@@ -19,8 +19,8 @@ jobs:
         run: |
           mkdir -p filters/blocklist
           
-          # 1. Download Hagezi Normal/Multi (Sumber Utama)
-          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/main/domains/multi.txt > filters/blocklist/ultimate.txt
+          # 1. Download Hagezi Ultimate (Sumber Utama)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
 
           # 2. Download TrustPositif Gambling (Link Terbaru)
           curl -sL https://raw.githubusercontent.com/alsyundawy/TrustPositif/refs/heads/main/alsyundawy_gambling.txt > trust-temp.txt
