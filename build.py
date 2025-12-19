@@ -17,7 +17,7 @@ FILES_OEM_TRACKER = [
 ]
 
 FILES_SPECIFIC = [
-    "filters/blocklist/RifqyShield-BlockList.txt",
+    "filters/blocklist/oisd-small.txt"
     "filters/youtube-ads/youtube-ads.txt",
     "filters/youtube-ads/youtube-ads2.txt",
     "filters/spotify-ads/spotify-ads.txt",
@@ -38,7 +38,7 @@ FILES_NSFW_GAMBLING = [
 ]
 
 FILES_BIG_DATA = [
-    "filters/blocklist/oisd-small.txt", # Ini gabungan Hagezi + BlocklistProject
+    "filters/blocklist/RifqyShield-BlockList.txt", # Ini gabungan Hagezi + BlocklistProject
     "filters/blocklist/RifqyShield-Anti-PopUP.txt",
     "filters/blocklist/ultimate.txt",
 ]
