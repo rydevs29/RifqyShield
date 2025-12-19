@@ -1,5 +1,5 @@
 # RifqyShield Lite List
-# Total Domains: 494040
+# Total Domains: 493858
 
 0.0.0.0 0--e.info
 0.0.0.0 0-0-0-0-0-0proxy.tserv.se
@@ -30876,14 +30876,6 @@
 0.0.0.0 acquisition-tracker.wix.com
 0.0.0.0 acquitted-nulls.000webhostapp.com
 0.0.0.0 acquitteras-amilota.womeninspiringnow.org
-0.0.0.0 acr-au-prd.samsungcloud.tv
-0.0.0.0 acr-br-prd.samsungcloud.tv
-0.0.0.0 acr-ca-prd.samsungcloud.tv
-0.0.0.0 acr-eu-prd.samsungcloud.tv
-0.0.0.0 acr-in-prd.samsungcloud.tv
-0.0.0.0 acr-kr-prd.samsungcloud.tv
-0.0.0.0 acr-mx-prd.samsungcloud.tv
-0.0.0.0 acr-us-prd.samsungcloud.tv
 0.0.0.0 acr.izooto.com
 0.0.0.0 acr0.samsungcloudsolution.com
 0.0.0.0 acr10.alphonso.tv
@@ -32308,7 +32300,6 @@
 0.0.0.0 ad-server.eu
 0.0.0.0 ad-server.gulasidorna.se
 0.0.0.0 ad-server.infinity.blismedia.com
-0.0.0.0 ad-server.samsungads.com
 0.0.0.0 ad-server.unlimapps.com
 0.0.0.0 ad-serverparc.nl
 0.0.0.0 ad-servicestats.net
@@ -65480,7 +65471,6 @@
 0.0.0.0 akciove-fondy.eu
 0.0.0.0 akcja.pintabarrelbrewing.pl
 0.0.0.0 akcjainijob.pl
-0.0.0.0 akcjasamsung.e-kei.pl
 0.0.0.0 akconnect-tr.com
 0.0.0.0 akconsult.linkpc.net
 0.0.0.0 akcr.free.fr
@@ -70056,7 +70046,6 @@
 0.0.0.0 analytics-api.cloudinary.com
 0.0.0.0 analytics-api.justuno.com
 0.0.0.0 analytics-api.phunware.com
-0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics-au.clickdimensions.com
 0.0.0.0 analytics-bal-nfl.yinzcam.com
 0.0.0.0 analytics-bypassing-adblockers.netlify.com
@@ -70072,7 +70061,6 @@
 0.0.0.0 analytics-db02.dc.grapeshot.co.uk
 0.0.0.0 analytics-db02.grapeshot.co.uk
 0.0.0.0 analytics-den-nfl.yinzcam.com
-0.0.0.0 analytics-dev-api.test.samsunghealth.com
 0.0.0.0 analytics-dev.lisnr.com
 0.0.0.0 analytics-development.ematicsolutions.com
 0.0.0.0 analytics-digit-in.cdn.ampproject.org
@@ -70123,7 +70111,6 @@
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-static.unister-gmbh.de
 0.0.0.0 analytics-stats.pri.pagefair.com
-0.0.0.0 analytics-stg.samsungknox.com
 0.0.0.0 analytics-test.dspunion.com
 0.0.0.0 analytics-test.lisnr.com
 0.0.0.0 analytics-testing.lisnr.com
@@ -70241,7 +70228,6 @@
 0.0.0.0 analytics.beltzak.com
 0.0.0.0 analytics.bhaskar.com
 0.0.0.0 analytics.bigcommerce.com
-0.0.0.0 analytics.bigdata.samsung.com
 0.0.0.0 analytics.bigfm.de
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.bkav.com
@@ -70639,7 +70625,6 @@
 0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.moz.com
 0.0.0.0 analytics.mozzi.com
-0.0.0.0 analytics.mpay.samsung.com
 0.0.0.0 analytics.mpn.mokonocdn.com
 0.0.0.0 analytics.mrsite.co.uk
 0.0.0.0 analytics.msn.com
@@ -70803,7 +70788,6 @@
 0.0.0.0 analytics.salesanalytics.io
 0.0.0.0 analytics.salmonads.com
 0.0.0.0 analytics.samdd.me
-0.0.0.0 analytics.samsungedo.com
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 analytics.sanalog.org
 0.0.0.0 analytics.sanoma.fi
@@ -73676,7 +73660,6 @@
 0.0.0.0 api-analytics-bootstrap-stg.metaps.com
 0.0.0.0 api-analytics-bootstrap.metaps.com
 0.0.0.0 api-analytics-in.huami.com
-0.0.0.0 api-analytics-qa.samsungknox.com
 0.0.0.0 api-analytics-sg.huami.com
 0.0.0.0 api-analytics-stg.metaps.com
 0.0.0.0 api-analytics-us.huami.com
@@ -73684,7 +73667,6 @@
 0.0.0.0 api-analytics.missguided.com
 0.0.0.0 api-analytics.pelikan.sk
 0.0.0.0 api-analytics.rozetka.com.ua
-0.0.0.0 api-analytics.samsungknox.com
 0.0.0.0 api-analytics.t-mobile.cz
 0.0.0.0 api-ao.adison.co
 0.0.0.0 api-ap-east-1.datadome.co
@@ -73754,7 +73736,6 @@
 0.0.0.0 api-doc.adtech.de
 0.0.0.0 api-doc.adtechus.com
 0.0.0.0 api-doc.siliconorchard.com
-0.0.0.0 api-dooh.samsungads.com
 0.0.0.0 api-dot-mwm-ab-testing.appspot.com
 0.0.0.0 api-dot-mwm-ad-mediation.appspot.com
 0.0.0.0 api-dwu-xpec.analytics.nexonm.com
@@ -73937,7 +73918,6 @@
 0.0.0.0 api-s2s-apac.taboola.com
 0.0.0.0 api-s2s-emea.taboola.com
 0.0.0.0 api-s2s.taboola.com
-0.0.0.0 api-samsung.swypeconnect.com
 0.0.0.0 api-sandbox.direct.yandex.com
 0.0.0.0 api-sandbox.yext.com
 0.0.0.0 api-sc2.adsymptotic.com
@@ -75260,7 +75240,6 @@
 0.0.0.0 api.rtvrapi.com
 0.0.0.0 api.rubiconproject.com
 0.0.0.0 api.runative.com
-0.0.0.0 api.runestone.samsung.com
 0.0.0.0 api.rvuzov.ru
 0.0.0.0 api.s.st-av.net
 0.0.0.0 api.s1.qa2.exacttarget.com
@@ -76686,7 +76665,6 @@
 0.0.0.0 app.bugreplay.com
 0.0.0.0 app.bugsnag.com
 0.0.0.0 app.bulbe.com.br
-0.0.0.0 app.business.samsungusa.com
 0.0.0.0 app.campaigns.foresee.com
 0.0.0.0 app.carambo.la
 0.0.0.0 app.carbonads.net
@@ -86281,7 +86259,6 @@
 0.0.0.0 b2b.filecloud.me
 0.0.0.0 b2b.tapjoy.com
 0.0.0.0 b2b2.su
-0.0.0.0 b2banalytics.samsungknox.com
 0.0.0.0 b2bapi.zee5.com
 0.0.0.0 b2bcontext.ru
 0.0.0.0 b2bdemo.getambassador.com
@@ -94780,7 +94757,6 @@
 0.0.0.0 bigdata.adups.com
 0.0.0.0 bigdata.advmob.cn
 0.0.0.0 bigdata.g60.letvlb.com
-0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 bigdataexchange.com
 0.0.0.0 bigdataprofile.com
 0.0.0.0 bigdataversity.supportno.com
@@ -96775,7 +96751,6 @@
 0.0.0.0 bldesenvolvimento.com.br
 0.0.0.0 bldgblockscare.com
 0.0.0.0 bldked98f5.com
-0.0.0.0 bldr.mkt.samsung.com
 0.0.0.0 bldtrax.com
 0.0.0.0 ble.pl
 0.0.0.0 bleachbit.com
@@ -109906,7 +109881,6 @@
 0.0.0.0 cc.clickagy.com
 0.0.0.0 cc.connextra.com
 0.0.0.0 cc.dace.hupu.com
-0.0.0.0 cc.di.runestone.samsung.com
 0.0.0.0 cc.evergage.com
 0.0.0.0 cc.gofile.io
 0.0.0.0 cc.hb.omtrdc.net
@@ -115042,7 +115016,6 @@
 0.0.0.0 channelnet.112.2o7.net
 0.0.0.0 channels.one
 0.0.0.0 channeltraffic.net
-0.0.0.0 channelusa.samsung.com
 0.0.0.0 channelvn.net
 0.0.0.0 channelwebsdks.azureedge.net
 0.0.0.0 chansofdundee.com
@@ -116361,7 +116334,6 @@
 0.0.0.0 china-cdn3.unityads.unity3d.com
 0.0.0.0 china-cdn3.unityads.unitychina.cn
 0.0.0.0 china-container.cn
-0.0.0.0 china-gld.push.samsungosp.com.cn
 0.0.0.0 china-hangyi.com
 0.0.0.0 china-jlt.com
 0.0.0.0 china-netwave.com
@@ -120056,7 +120028,6 @@
 0.0.0.0 clientaa.beget.tech
 0.0.0.0 clientacquisition.clickfunnels.com
 0.0.0.0 clientapi-reliance.dtignite.com
-0.0.0.0 clientapi-samsung.dtignite.com
 0.0.0.0 clientapi.clinkad.com
 0.0.0.0 clientapi.solocpm.com
 0.0.0.0 clientcdn.pushengage.com
@@ -121874,7 +121845,6 @@
 0.0.0.0 cmzone.com.pk
 0.0.0.0 cn-admin-panel.macromill.com
 0.0.0.0 cn-admin.macromill.com
-0.0.0.0 cn-api.mcsvc.samsung.com.cn
 0.0.0.0 cn-dbug-tam.sociomantic.com
 0.0.0.0 cn-dbug.sociomantic.com
 0.0.0.0 cn-east-3.c.163.com
@@ -139655,9 +139625,6 @@
 0.0.0.0 dc.cp21.ott.cibntv.net
 0.0.0.0 dc.csdn.net
 0.0.0.0 dc.deltapool.net
-0.0.0.0 dc.di.atlas.samsung.com
-0.0.0.0 dc.di.runestone.samsung.com
-0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dc.geo.bizographics.com
 0.0.0.0 dc.goodtogoparking.com
 0.0.0.0 dc.grapeshot.co.uk
@@ -142849,7 +142816,6 @@
 0.0.0.0 dev-api.persona.ly
 0.0.0.0 dev-api.register.criteo.com
 0.0.0.0 dev-api.wshareit.com
-0.0.0.0 dev-apigw.samsungdmroute.com
 0.0.0.0 dev-app.datadome.co
 0.0.0.0 dev-backoffice.datadome.co
 0.0.0.0 dev-billing.sendgrid.net
@@ -143625,7 +143591,6 @@
 0.0.0.0 devicehit.ru
 0.0.0.0 deviceidshare.twitch.tv
 0.0.0.0 deviceinfo.capitalone.com
-0.0.0.0 devicelog.samsungcloudsolution.net
 0.0.0.0 devicemag.com
 0.0.0.0 devicemetadataservice.trafficmanager.net
 0.0.0.0 devices.carnivalmobile.com
@@ -144288,7 +144253,6 @@
 0.0.0.0 di.nui.media
 0.0.0.0 di.phncdn.com
 0.0.0.0 di.rlcdn.com
-0.0.0.0 di.runestone.samsung.com
 0.0.0.0 di.sn
 0.0.0.0 di.ssl.msdk.qq.com
 0.0.0.0 di.ui.adswizz.com
@@ -144337,8 +144301,6 @@
 0.0.0.0 diag.atdmt.com
 0.0.0.0 diageo.demdex.net
 0.0.0.0 diageogreatbritainltd.d3.sc.omtrdc.net
-0.0.0.0 diagmon-policy.samsungdm.com
-0.0.0.0 diagmon-serviceapi.samsungdm.com
 0.0.0.0 diagnomeds.com
 0.0.0.0 diagnonet.com
 0.0.0.0 diagnose.igstatic.com
@@ -146631,12 +146593,8 @@
 0.0.0.0 dlrporyftslyozte.com
 0.0.0.0 dlrvrtqkfw.mentalist.kameleoon.com
 0.0.0.0 dlrwabzugcyj.com
-0.0.0.0 dls-account.di.atlas.samsung.com
-0.0.0.0 dls-ddc.dqa.samsung.com
-0.0.0.0 dls-udc.dqa.samsung.com
 0.0.0.0 dls.adacado.com
 0.0.0.0 dls.ads.adacado.com
-0.0.0.0 dls.di.runestone.samsung.com
 0.0.0.0 dlsear.com
 0.0.0.0 dlseofdms761.ze.am
 0.0.0.0 dlsft.com
@@ -148874,7 +148832,6 @@
 0.0.0.0 download-performance.com
 0.0.0.0 download-player.com
 0.0.0.0 download-real-player.com
-0.0.0.0 download-samsung.dtignite.com
 0.0.0.0 download-setupnow.com
 0.0.0.0 download-sponsor.de
 0.0.0.0 download-spybot.com
@@ -149500,7 +149457,6 @@
 0.0.0.0 dq4ijymydgrfx.cloudfront.net
 0.0.0.0 dq4irj27fs462.cloudfront.net
 0.0.0.0 dq95d35.com
-0.0.0.0 dqa-auth.di.atlas.samsung.com
 0.0.0.0 dqa.co1.qualtrics.com
 0.0.0.0 dqburpwaqwehj.com
 0.0.0.0 dqchannel.onesignal.com
@@ -150784,7 +150740,6 @@
 0.0.0.0 dsp.rayjump.com
 0.0.0.0 dsp.redtrack.io
 0.0.0.0 dsp.rtb.mts.ru
-0.0.0.0 dsp.samsungads.com
 0.0.0.0 dsp.send.microad-cn.com
 0.0.0.0 dsp.send.microad.jp
 0.0.0.0 dsp.send.microadinc.com
@@ -156507,7 +156462,6 @@
 0.0.0.0 egrishkovets.smi2.ru
 0.0.0.0 egroacho.com
 0.0.0.0 egrthbfcgbnygbvc.com
-0.0.0.0 egs.samsungallstore.com
 0.0.0.0 egschool.org
 0.0.0.0 egszpylvmclvf.bid
 0.0.0.0 egtkhpkkfswf.com
@@ -163488,7 +163442,6 @@
 0.0.0.0 europe.eu.id474190312-1662660088.y439967.com
 0.0.0.0 europe.eu.id527347220-7229513996.p250632.com
 0.0.0.0 europe.eu.id608939235-5535903207.o239315.com
-0.0.0.0 europe.event-tracking.samsung.com
 0.0.0.0 europe.monerise.com
 0.0.0.0 europeade.de
 0.0.0.0 european-angels.com
@@ -163804,7 +163757,6 @@
 0.0.0.0 event-tracker.k8s-test.fiksu.com
 0.0.0.0 event-tracker.production.fiksu.com
 0.0.0.0 event-tracking.com
-0.0.0.0 event-tracking.samsung.com
 0.0.0.0 event-travel.co.uk
 0.0.0.0 event-viewer.bytegain.com
 0.0.0.0 event.2leva.bg
@@ -168527,22 +168479,13 @@
 0.0.0.0 fast.samsung-nordics.demdex.net
 0.0.0.0 fast.samsung-poland.demdex.net
 0.0.0.0 fast.samsung.demdex.net
-0.0.0.0 fast.samsungafrica.demdex.net
 0.0.0.0 fast.samsungau.demdex.net
-0.0.0.0 fast.samsungbrazil.demdex.net
-0.0.0.0 fast.samsungcanada.demdex.net
-0.0.0.0 fast.samsungcis.demdex.net
 0.0.0.0 fast.samsungelectronicsamericainc.demdex.net
-0.0.0.0 fast.samsungeverland.demdex.net
-0.0.0.0 fast.samsungindiaelectronics.demdex.net
 0.0.0.0 fast.samsungindonesia.demdex.net
-0.0.0.0 fast.samsunglatam.demdex.net
 0.0.0.0 fast.samsunglevant.demdex.net
 0.0.0.0 fast.samsunglife.demdex.net
-0.0.0.0 fast.samsungseao.demdex.net
 0.0.0.0 fast.samsungsec.demdex.net
 0.0.0.0 fast.samsungsingapore.demdex.net
-0.0.0.0 fast.samsungspain.demdex.net
 0.0.0.0 fast.samsungthailand.demdex.net
 0.0.0.0 fast.samsungturkey.demdex.net
 0.0.0.0 fast.satc.demdex.net
@@ -183053,7 +182996,6 @@
 0.0.0.0 gear.go.th
 0.0.0.0 gear.gp
 0.0.0.0 gear.ign.us.intellitxt.com
-0.0.0.0 gear.sca.samsung.com
 0.0.0.0 gear5.me
 0.0.0.0 gearbrain-img.rbl.ms
 0.0.0.0 gearburn.za.intellitxt.com
@@ -187459,7 +187401,6 @@
 0.0.0.0 go.sajogolaw.com
 0.0.0.0 go.salesloft.com
 0.0.0.0 go.saleswingsapp.com
-0.0.0.0 go.samsungads.com
 0.0.0.0 go.sandah.co
 0.0.0.0 go.sasengine.ru
 0.0.0.0 go.sastech.ru
@@ -187634,7 +187575,6 @@
 0.0.0.0 go2.myappfree.com
 0.0.0.0 go2.onlymobs.com
 0.0.0.0 go2.qualtrics.com
-0.0.0.0 go2.samsungads.com
 0.0.0.0 go2.singular.net
 0.0.0.0 go2.taplytics.com
 0.0.0.0 go2.trekaklik.com
@@ -192769,7 +192709,6 @@
 0.0.0.0 h45dsagga.appspot.com
 0.0.0.0 h489g.app.link
 0.0.0.0 h4ck.freepage.com
-0.0.0.0 h4g3z1-native.samsung.web.app
 0.0.0.0 h4g3z1-native.vivo.web.app
 0.0.0.0 h4g3z1-native.xiaomi.web.app
 0.0.0.0 h4g3z1-urlshortener.web.app
@@ -207614,7 +207553,6 @@
 0.0.0.0 images.bravenet.com
 0.0.0.0 images.brookeskye.com
 0.0.0.0 images.bucksense.com
-0.0.0.0 images.business.samsungusa.com
 0.0.0.0 images.buy.com
 0.0.0.0 images.c.switchadhub.com
 0.0.0.0 images.campaigns.foresee.com
@@ -207626,7 +207564,6 @@
 0.0.0.0 images.cdn.scarabresearch.com
 0.0.0.0 images.cenniche.com
 0.0.0.0 images.channeladvisor.com
-0.0.0.0 images.chbusiness.samsung.com
 0.0.0.0 images.chinaz.com
 0.0.0.0 images.chitika.net
 0.0.0.0 images.clckm.com
@@ -207678,7 +207615,6 @@
 0.0.0.0 images.footballaddicts.se
 0.0.0.0 images.fr.eu.criteo.net
 0.0.0.0 images.francite.com
-0.0.0.0 images.frbusiness.samsung.com
 0.0.0.0 images.freelotto.com
 0.0.0.0 images.freeshop.com
 0.0.0.0 images.fuskator.com
@@ -207709,7 +207645,6 @@
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.intercom.io
 0.0.0.0 images.islive.nl
-0.0.0.0 images.it.business.samsung.com
 0.0.0.0 images.itchydawg.com
 0.0.0.0 images.itnation.com
 0.0.0.0 images.jambocast.com
@@ -207770,7 +207705,6 @@
 0.0.0.0 images.parked.com
 0.0.0.0 images.parsely.com
 0.0.0.0 images.partie-privee.com
-0.0.0.0 images.partnersupport.samsung.com
 0.0.0.0 images.paypal.com
 0.0.0.0 images.people2people.com
 0.0.0.0 images.performgroup.com
@@ -207810,7 +207744,6 @@
 0.0.0.0 images.specificclick.net
 0.0.0.0 images.speedbit.com
 0.0.0.0 images.spotify.com
-0.0.0.0 images.ssbusiness.samsung.com
 0.0.0.0 images.startappexchange.com
 0.0.0.0 images.startappservice.com
 0.0.0.0 images.statcounter.com
@@ -231546,7 +231479,6 @@
 0.0.0.0 lbpndcvhuqlm.com
 0.0.0.0 lbry-api.suprnova.cc
 0.0.0.0 lbry.suprnova.cc
-0.0.0.0 lbs-samsung.swypeconnect.com
 0.0.0.0 lbs.eu.qualtrics.com
 0.0.0.0 lbs.igexin.com
 0.0.0.0 lbs.justclick.ru
@@ -231672,7 +231604,6 @@
 0.0.0.0 lcryooiliokm.com
 0.0.0.0 lcs-klantencontact.nl
 0.0.0.0 lcs.dev.surepush.cn
-0.0.0.0 lcs.di.runestone.samsung.com
 0.0.0.0 lcs.livedoor.net
 0.0.0.0 lcs.modoo.at
 0.0.0.0 lcs.naver.com
@@ -237475,12 +237406,7 @@
 0.0.0.0 log-furniture-place.pxf.io
 0.0.0.0 log-hl.snssdk.com
 0.0.0.0 log-in.pavypal-acc.com.3-24021994.com
-0.0.0.0 log-ingestion-ap2.samsungacr.com
 0.0.0.0 log-ingestion-eu.samsungacr.com
-0.0.0.0 log-ingestion-kr.samsungacr.com
-0.0.0.0 log-ingestion-sa.samsungacr.com
-0.0.0.0 log-ingestion-v1-ap2.samsungacr.com
-0.0.0.0 log-ingestion-v2-ap2.samsungacr.com
 0.0.0.0 log-ingestion.samsungacr.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log-live.direct.ly
@@ -239874,8 +239800,6 @@
 0.0.0.0 lp.adsfon.com
 0.0.0.0 lp.advidi.com
 0.0.0.0 lp.amateurcommunity.com
-0.0.0.0 lp.americas.business.samsung.com
-0.0.0.0 lp.apac.business.samsung.com
 0.0.0.0 lp.apester.com
 0.0.0.0 lp.babbel.com
 0.0.0.0 lp.bigfarm.goodgamestudios.com
@@ -239909,7 +239833,6 @@
 0.0.0.0 lp.macapps-centers.club
 0.0.0.0 lp.macboosterutils.com
 0.0.0.0 lp.maccleanuptools.com
-0.0.0.0 lp.mkt-email.samsungsds.com
 0.0.0.0 lp.moviesearchcenter.com
 0.0.0.0 lp.moviesfanatic.com
 0.0.0.0 lp.mp.mydas.mobi
@@ -239931,7 +239854,6 @@
 0.0.0.0 lp.sekindo.com
 0.0.0.0 lp.sexyadults.eu
 0.0.0.0 lp.sharelive.net
-0.0.0.0 lp.smartbusiness.samsung.com
 0.0.0.0 lp.stargames.com
 0.0.0.0 lp.startapp.com
 0.0.0.0 lp.sumorobo.net
@@ -248321,7 +248243,6 @@
 0.0.0.0 matomo.meerai.eu
 0.0.0.0 matomo.philippsburg.de
 0.0.0.0 matomo.salzwerke.de
-0.0.0.0 matomo.samsungsdibs.at
 0.0.0.0 matomo.saotn.org
 0.0.0.0 matomo.sortirdunucleaire.org
 0.0.0.0 matomo.stuttgart.de
@@ -252874,7 +252795,6 @@
 0.0.0.0 metric-public-service-prod.ol.epicgames.com
 0.0.0.0 metric-stage.adtoox.com
 0.0.0.0 metric.10best.com
-0.0.0.0 metric.account-samsung.com
 0.0.0.0 metric.adrd.co
 0.0.0.0 metric.allrecipes.com
 0.0.0.0 metric.angieslist.com
@@ -257799,7 +257719,6 @@
 0.0.0.0 moadnet.com
 0.0.0.0 moads.valuead.com
 0.0.0.0 moafoche.com
-0.0.0.0 moai-dev-samsung.com
 0.0.0.0 moandbo.com
 0.0.0.0 moapi.wps.cn
 0.0.0.0 moapteeg.net
@@ -272016,7 +271935,6 @@
 0.0.0.0 nmeprod.122.2o7.net
 0.0.0.0 nmesbjkqkkoy.bid
 0.0.0.0 nmetrics.samsung.com
-0.0.0.0 nmetrics.samsungmobile.com
 0.0.0.0 nmfkenya.org
 0.0.0.0 nmfortworth.112.2o7.net
 0.0.0.0 nmfresno.112.2o7.net
@@ -283352,13 +283270,10 @@
 0.0.0.0 ors3a4go.emltrk.com
 0.0.0.0 orsay-tracking.adtelligence.de
 0.0.0.0 orsc.iasds01.com
-0.0.0.0 orsdls.di.runestone.samsung.com
-0.0.0.0 orsfs.di.runestone.samsung.com
 0.0.0.0 orsimqadmhpb.com
 0.0.0.0 orsispharma.com
 0.0.0.0 orslerturizm.com
 0.0.0.0 orsmuvow-android.mobile-sdk-api.intercom.io
-0.0.0.0 orsplc.di.runestone.samsung.com
 0.0.0.0 orst.io
 0.0.0.0 orsted.slgnt.eu
 0.0.0.0 orsusresearch.com
@@ -297104,7 +297019,6 @@
 0.0.0.0 plb27.voluumtrk.com
 0.0.0.0 plbfuyckzn.com
 0.0.0.0 plbslog.umeng.com
-0.0.0.0 plbusiness.samsung.com
 0.0.0.0 plclick.admedia.com
 0.0.0.0 plclifesg.com
 0.0.0.0 plcr.ai
@@ -300816,7 +300730,6 @@
 0.0.0.0 prd.klotski.aws.fwmrm.net
 0.0.0.0 prd.linear.aws.fwmrm.net
 0.0.0.0 prd.ping-origin-prd.jwpltx.com
-0.0.0.0 prd.sca.samsung.com
 0.0.0.0 prd.turbine.aws.fwmrm.net
 0.0.0.0 prd1.personalization.centech.glulive.com
 0.0.0.0 prd1.revid.centech.glulive.com
@@ -300835,7 +300748,6 @@
 0.0.0.0 prdct.school
 0.0.0.0 prdelky.biz
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
-0.0.0.0 prderrordumpssm.samsungcloudsolution.net
 0.0.0.0 prdinfo.com.br
 0.0.0.0 prdrmcwuawjwjl.bid
 0.0.0.0 prdsbd.org
@@ -306514,7 +306426,6 @@
 0.0.0.0 push.res.meizu.com
 0.0.0.0 push.revcontent.com
 0.0.0.0 push.revrtb.com
-0.0.0.0 push.samsungosp.com.cn
 0.0.0.0 push.scloud.lfengmobile.com
 0.0.0.0 push.senddroid.com
 0.0.0.0 push.service.tapcash.com
@@ -308755,7 +308666,6 @@
 0.0.0.0 qmamdjtoykgl.com
 0.0.0.0 qmarkresearch.co1.qualtrics.com
 0.0.0.0 qmca.qrobo.com
-0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 qmerce.com
 0.0.0.0 qmginteractive.com
 0.0.0.0 qmhigtmwikvzin.com
@@ -347548,7 +347458,6 @@
 0.0.0.0 regflow.com
 0.0.0.0 reggiebush25.com
 0.0.0.0 reghelper.com
-0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 regie-publicitaire.catfamilie.com
 0.0.0.0 regie-scene.com
 0.0.0.0 regie.audioprint.fr
@@ -348638,7 +348547,6 @@
 0.0.0.0 report.fff.com.vn
 0.0.0.0 report.footprintdns.com
 0.0.0.0 report.gemini.yahoo.com
-0.0.0.0 report.gras.samsungdm.com
 0.0.0.0 report.hb.brainlyads.com
 0.0.0.0 report.hotels.glassboxdigital.io
 0.0.0.0 report.huatuo.qq.com
@@ -352594,7 +352502,6 @@
 0.0.0.0 routgveriprt.com
 0.0.0.0 routineserver.000webhostapp.com
 0.0.0.0 routing.ads.justpremium.com
-0.0.0.0 routing.egs.samsungallstore.com
 0.0.0.0 routing.justpremium.com
 0.0.0.0 rouvitoa.net
 0.0.0.0 rouvoute.net
@@ -353487,7 +353394,6 @@
 0.0.0.0 rtb-central1.p.veruta.com
 0.0.0.0 rtb-chb.jampp.com
 0.0.0.0 rtb-china-1.vizury.com
-0.0.0.0 rtb-config.samsungads.com
 0.0.0.0 rtb-content.fiksu.com
 0.0.0.0 rtb-creatives-akamai-test.fiksu.com
 0.0.0.0 rtb-creatives-test.fiksu.com
@@ -359000,20 +358906,14 @@
 0.0.0.0 samstergfuhza.mybjjblog.com
 0.0.0.0 samsucream.com
 0.0.0.0 samsunajansnet.adhood.com
-0.0.0.0 samsung-akcja.e-kei.pl
 0.0.0.0 samsung-benelux.demdex.net
-0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsung-france.demdex.net
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 samsung-image-cdn.whisk.com
 0.0.0.0 samsung-italy.demdex.net
 0.0.0.0 samsung-mena.demdex.net
-0.0.0.0 samsung-nordics.demdex.net
 0.0.0.0 samsung-poland.demdex.net
 0.0.0.0 samsung-printer-support.com
-0.0.0.0 samsung.appnext.com
-0.0.0.0 samsung.attn.tv
-0.0.0.0 samsung.bimtrackapp.co
 0.0.0.0 samsung.com.sc.omtrdc.net
 0.0.0.0 samsung.com.ssl.sc.omtrdc.net
 0.0.0.0 samsung.customer-supports.com
@@ -359022,30 +358922,20 @@
 0.0.0.0 samsung.mobile.uu.163.com
 0.0.0.0 samsung.netmng.com
 0.0.0.0 samsung.printertechsupportnumbers.com
-0.0.0.0 samsung.telemetry.eyeo.com
 0.0.0.0 samsung.yaload.ru
 0.0.0.0 samsung.ydigitalmedia.com
 0.0.0.0 samsung3.solution.weborama.fr
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungadhub.com
-0.0.0.0 samsungads.adsmeasurement.com
 0.0.0.0 samsungads.com
 0.0.0.0 samsungafrica.demdex.net
 0.0.0.0 samsungafrica.tt.omtrdc.net
-0.0.0.0 samsungallstore.com
-0.0.0.0 samsungau.api.useinsider.com
-0.0.0.0 samsungau.demdex.net
 0.0.0.0 samsungazetesi.onesignal.com
-0.0.0.0 samsungbenelux.tt.omtrdc.net
-0.0.0.0 samsungbrazil.demdex.net
-0.0.0.0 samsungca.api.useinsider.com
 0.0.0.0 samsungcanada-mkt-prod1-lb.campaign.adobe.com
 0.0.0.0 samsungcanada-mkt-prod1-res.campaign.adobe.com
 0.0.0.0 samsungcanada-rt-prod2-lb.campaign.adobe.com
 0.0.0.0 samsungcanada.demdex.net
 0.0.0.0 samsungcanada.tt.omtrdc.net
-0.0.0.0 samsungcard.data.adobedc.net
-0.0.0.0 samsungcard.demdex.net
 0.0.0.0 samsungcard.sc.omtrdc.net
 0.0.0.0 samsungcardcoltd.tt.omtrdc.net
 0.0.0.0 samsungchina.tt.omtrdc.net
@@ -359053,81 +358943,38 @@
 0.0.0.0 samsungcis.tt.omtrdc.net
 0.0.0.0 samsungclubshop.com
 0.0.0.0 samsungelectronicsamericainc.demdex.net
-0.0.0.0 samsungeu.demdex.net
 0.0.0.0 samsungeucdm-mid-stage1-1.campaign.adobe.com
 0.0.0.0 samsungeucdm.demdex.net
-0.0.0.0 samsungeucdm.tt.omtrdc.net
 0.0.0.0 samsungeurope.eu.qualtrics.com
-0.0.0.0 samsungeverland.demdex.net
 0.0.0.0 samsungfrance.tt.omtrdc.net
 0.0.0.0 samsunggiveaways.com
-0.0.0.0 samsunghk.api.useinsider.com
-0.0.0.0 samsunghq.demdex.net
 0.0.0.0 samsunghvac.ecorebates.com
-0.0.0.0 samsungid.api.useinsider.com
 0.0.0.0 samsungindiaelectronics.demdex.net
 0.0.0.0 samsungindonesia.demdex.net
 0.0.0.0 samsungiotcloud.com
-0.0.0.0 samsungiraq.api.useinsider.com
 0.0.0.0 samsungitaly.tt.omtrdc.net
-0.0.0.0 samsungjapan.demdex.net
-0.0.0.0 samsungjordan.api.useinsider.com
 0.0.0.0 samsungkorea.tt.omtrdc.net
-0.0.0.0 samsungkr.api.useinsider.com
-0.0.0.0 samsungksa.api.useinsider.com
 0.0.0.0 samsunglatam.demdex.net
 0.0.0.0 samsunglatam.tt.omtrdc.net
-0.0.0.0 samsunglevant.demdex.net
-0.0.0.0 samsunglife.demdex.net
 0.0.0.0 samsunglife.sc.omtrdc.net
-0.0.0.0 samsungmalaysia.api.useinsider.com
-0.0.0.0 samsungmena.tt.omtrdc.net
 0.0.0.0 samsungmsc.d1.sc.omtrdc.net
 0.0.0.0 samsungnordics.tt.omtrdc.net
 0.0.0.0 samsungnorthamerica.sc.omtrdc.net
-0.0.0.0 samsungott.sora.yoyi.com.cn
-0.0.0.0 samsungpakistan.api.useinsider.com
-0.0.0.0 samsungph.api.useinsider.com
 0.0.0.0 samsungplymouth.com
 0.0.0.0 samsungprinter.supportno.com
-0.0.0.0 samsungr.com
-0.0.0.0 samsungrm.com
 0.0.0.0 samsungrss.vrvm.com
-0.0.0.0 samsungrum.beusable.net
-0.0.0.0 samsungsamcol.api.useinsider.com
-0.0.0.0 samsungsamcolepp.api.useinsider.com
-0.0.0.0 samsungsavinaepp.api.useinsider.com
-0.0.0.0 samsungscript.beusable.net
 0.0.0.0 samsungseao.demdex.net
 0.0.0.0 samsungseao.tt.omtrdc.net
-0.0.0.0 samsungsebnbg.api.useinsider.com
-0.0.0.0 samsungsebnnl.api.useinsider.com
 0.0.0.0 samsungsec.demdex.net
-0.0.0.0 samsungseda.api.useinsider.com
-0.0.0.0 samsungsem.api.useinsider.com
-0.0.0.0 samsungsemepp.api.useinsider.com
-0.0.0.0 samsungsepr.api.useinsider.com
-0.0.0.0 samsungseromro.api.useinsider.com
-0.0.0.0 samsungsesarepp.api.useinsider.com
-0.0.0.0 samsungsetkepp.api.useinsider.com
 0.0.0.0 samsungsiel.tt.omtrdc.net
-0.0.0.0 samsungsingapore.api.useinsider.com
 0.0.0.0 samsungspain.demdex.net
-0.0.0.0 samsungth.api.useinsider.com
 0.0.0.0 samsungthailand.demdex.net
 0.0.0.0 samsungtop.kr
-0.0.0.0 samsungtseepp.api.useinsider.com
-0.0.0.0 samsungturkey.api.useinsider.com
 0.0.0.0 samsungturkey.demdex.net
-0.0.0.0 samsungturkey.tt.omtrdc.net
-0.0.0.0 samsungtv-d.openx.net
 0.0.0.0 samsungtvads.com
-0.0.0.0 samsunguk.api.useinsider.com
 0.0.0.0 samsunguk.tt.omtrdc.net
 0.0.0.0 samsungus.btttag.com
 0.0.0.0 samsungus.tt.omtrdc.net
-0.0.0.0 samsungusa.api.useinsider.com
-0.0.0.0 samsungvn.api.useinsider.com
 0.0.0.0 samsunyetkiliservis.com
 0.0.0.0 samtaawaaztv.com
 0.0.0.0 samtaeducation.org
@@ -362420,7 +362267,6 @@
 0.0.0.0 seansimmonssss.000webhostapp.com
 0.0.0.0 seansobox.pl
 0.0.0.0 seantburke.com
-0.0.0.0 seao.business.samsung.com
 0.0.0.0 seao.com.mx
 0.0.0.0 seaofads.com
 0.0.0.0 seaoocyjpq.com
@@ -368180,8 +368026,6 @@
 0.0.0.0 she.said.districtm.io
 0.0.0.0 she66.com
 0.0.0.0 sheabutterworld.com
-0.0.0.0 shealth-analytics-api.samsunghealth.com
-0.0.0.0 shealth-analytics-stg-api.samsunghealth.com
 0.0.0.0 sheankirin.web1.engagetosell.com
 0.0.0.0 sheankirin.web2.engagetosell.com
 0.0.0.0 sheapercsgo.com
@@ -368675,7 +368519,6 @@
 0.0.0.0 shokofaandish.com
 0.0.0.0 shokugekinosoma.bid
 0.0.0.0 sholtmarketing.clickfunnels.com
-0.0.0.0 shome.sca.samsung.com
 0.0.0.0 shomesofa.com
 0.0.0.0 shomoyarkagoj24.com
 0.0.0.0 shon.xyz
@@ -369910,7 +369753,6 @@
 0.0.0.0 si546.app.link
 0.0.0.0 si9377.com
 0.0.0.0 sia.cv
-0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 sia.re
 0.0.0.0 sia.suprnova.cc
 0.0.0.0 sia.tech
@@ -374823,8 +374665,6 @@
 0.0.0.0 smetrics.sainsburysbank.co.uk
 0.0.0.0 smetrics.salliemae.com
 0.0.0.0 smetrics.salomon.com
-0.0.0.0 smetrics.samsung.com
-0.0.0.0 smetrics.samsung.com.cn
 0.0.0.0 smetrics.samsunglife.com
 0.0.0.0 smetrics.sanagate.ch
 0.0.0.0 smetrics.santander.co.uk
@@ -381835,7 +381675,6 @@
 0.0.0.0 ssp3.rtb.beeline.ru
 0.0.0.0 ssp4.rtb.beeline.ru
 0.0.0.0 sspadstrk.adpopcorn.com
-0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 sspapi.admicro.vn
 0.0.0.0 sspapi.youxiaoad.com
 0.0.0.0 sspawdzktopodgglada.blogspot.com
@@ -385841,7 +385680,6 @@
 0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.safeway.com
 0.0.0.0 stats.salesystemstats.com.ssl.re.getclicky.com
-0.0.0.0 stats.samsungpass.com
 0.0.0.0 stats.sapo.vn
 0.0.0.0 stats.sat1nrw.de
 0.0.0.0 stats.sawlive.tv
@@ -386913,7 +386751,6 @@
 0.0.0.0 stg-ads.servebom.com
 0.0.0.0 stg-analytics.qlitics.com
 0.0.0.0 stg-api.ybp.yahoo.com
-0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 stg-ato-api.fss.adapf.com
 0.0.0.0 stg-authorization.playbuzz.com
 0.0.0.0 stg-blog.juicer.cc
@@ -394422,7 +394259,6 @@
 0.0.0.0 target-gcp.userreplay.net
 0.0.0.0 target-oregon-01.clickfunnels.com
 0.0.0.0 target-talent.com
-0.0.0.0 target-us.samsung.com
 0.0.0.0 target.122.2o7.net
 0.0.0.0 target.aws.amazon.com
 0.0.0.0 target.clickfunnels.com
@@ -406730,9 +406566,7 @@
 0.0.0.0 tracking.allposters.com
 0.0.0.0 tracking.altrooz.com
 0.0.0.0 tracking.amazing-revenue.com
-0.0.0.0 tracking.americas.business.samsung.com
 0.0.0.0 tracking.ancestry.com
-0.0.0.0 tracking.apac.business.samsung.com
 0.0.0.0 tracking.appleadstech.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tracking.apptrackerlink.com
@@ -406873,7 +406707,6 @@
 0.0.0.0 tracking.euroads.fi
 0.0.0.0 tracking.euroads.no
 0.0.0.0 tracking.euroads.se
-0.0.0.0 tracking.europe.business.samsung.com
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.eurowebaffiliates.com
 0.0.0.0 tracking.everydayhealth.com
@@ -407033,7 +406866,6 @@
 0.0.0.0 tracking.mindshare.de
 0.0.0.0 tracking.misterbell.com
 0.0.0.0 tracking.miui.com
-0.0.0.0 tracking.mkt-email.samsungsds.com
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.mlsat03.de
 0.0.0.0 tracking.mlsat04.de
@@ -407178,7 +407010,6 @@
 0.0.0.0 tracking.si.com
 0.0.0.0 tracking.sim-technik.de
 0.0.0.0 tracking.skyword.com
-0.0.0.0 tracking.smartbusiness.samsung.com
 0.0.0.0 tracking.smartclicksystem.com
 0.0.0.0 tracking.smartselling.cz
 0.0.0.0 tracking.smartstream.tv
@@ -411486,7 +411317,6 @@
 0.0.0.0 tvoyatajna.msk.ru
 0.0.0.0 tvoykqiea.com
 0.0.0.0 tvoysite.by
-0.0.0.0 tvp-ads-log.samsungads.com
 0.0.0.0 tvpage.com
 0.0.0.0 tvpagecdn.com
 0.0.0.0 tvpapi-as.ott.kaltura.com
@@ -417302,7 +417132,6 @@
 0.0.0.0 ure.adnxs.com
 0.0.0.0 ureace.com
 0.0.0.0 ureal.edu.bo
-0.0.0.0 ureca.samsungapps.com
 0.0.0.0 urechar.com
 0.0.0.0 uredy.top
 0.0.0.0 uregina.qualtrics.com
@@ -465029,7 +464858,6 @@
 0.0.0.0 www.mnldc.ejvstudio.com
 0.0.0.0 www.mnpasalubong.com
 0.0.0.0 www.moabpolska.pl
-0.0.0.0 www.moai-dev-samsung.com
 0.0.0.0 www.moatads.com
 0.0.0.0 www.mob1ledev1ces.com
 0.0.0.0 www.mobair.com
@@ -470368,7 +470196,6 @@
 0.0.0.0 www.qlvopwghgwa.com
 0.0.0.0 www.qlzwfzfatjth.ru
 0.0.0.0 www.qmac.ca
-0.0.0.0 www.qmds-dev-samsung.com
 0.0.0.0 www.qnjslm.com
 0.0.0.0 www.qntivir.de
 0.0.0.0 www.qoclick.com
@@ -471898,15 +471725,9 @@
 0.0.0.0 www.samsawesomesite.info
 0.0.0.0 www.samsclub33.pochta.ru
 0.0.0.0 www.samsung.facebook-ads.adtz.com
-0.0.0.0 www.samsungacr.com
-0.0.0.0 www.samsungads.com
-0.0.0.0 www.samsungallstore.com
 0.0.0.0 www.samsunghoki.com
 0.0.0.0 www.samsungotn.net
-0.0.0.0 www.samsungr.com
-0.0.0.0 www.samsungrm.com
 0.0.0.0 www.samsungrm.net
-0.0.0.0 www.samsungtvads.com
 0.0.0.0 www.samuraibangalore.com
 0.0.0.0 www.samuraiclick.com
 0.0.0.0 www.samuraiclub.ro
@@ -492510,7 +492331,6 @@
 0.0.0.0 zn8p1dph4rgqzwv0xmove.siteintercept.qualtrics.com
 0.0.0.0 zn8pfcph7i8kerhkx-hhsgov.siteintercept.qualtrics.com
 0.0.0.0 zn8prrqapp35nhdwr-aenetworks.siteintercept.qualtrics.com
-0.0.0.0 zn8qwjgdslpyjq5n3-samsungcustomerboard.siteintercept.qualtrics.com
 0.0.0.0 zn8zsyy0ibb4fvnkz-scrippsmedia.siteintercept.qualtrics.com
 0.0.0.0 zn9buci9yqnsgkdoh-pearson.siteintercept.qualtrics.com
 0.0.0.0 zn9emxmkpgm7btdqp-essexbank.siteintercept.qualtrics.com
@@ -492794,13 +492614,11 @@
 0.0.0.0 znew2pz3yjx9poggn-intuitsocial.siteintercept.qualtrics.com
 0.0.0.0 znews.su
 0.0.0.0 znewxas0hddovpxpb-ticketmaster.siteintercept.qualtrics.com
-0.0.0.0 znewylzpqds1jt1sh-samsunggdc.siteintercept.qualtrics.com
 0.0.0.0 znexfou61kord3xmj-mouser.siteintercept.qualtrics.com
 0.0.0.0 znexlek0kfmide9dr-uhgta.siteintercept.qualtrics.com
 0.0.0.0 znexnt11ppa1cunaz-ingdirectitaly.siteintercept.qualtrics.com
 0.0.0.0 znexqlhmsvurholbp-medc.siteintercept.qualtrics.com
 0.0.0.0 znext.com
-0.0.0.0 znexudtrhw0nwrmga-seasamsung.siteintercept.qualtrics.com
 0.0.0.0 znexx818wz4mzxpe8-hpsupport.siteintercept.qualtrics.com
 0.0.0.0 zney281m5bvkorinx-coupons.siteintercept.qualtrics.com
 0.0.0.0 zney5zyja13iz0ypp-autodeskfeedback.siteintercept.qualtrics.com
