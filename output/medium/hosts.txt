@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 644901
+# Total Domains: 644903
 
 0.0.0.0 0-1.gay
 0.0.0.0 0-casino.info
@@ -135931,6 +135931,7 @@
 0.0.0.0 chaseporn.com
 0.0.0.0 chasexch1.uat.lol
 0.0.0.0 chaseylain.org
+0.0.0.0 chaseyourdreams.space
 0.0.0.0 chasingacorns.blogspot.com
 0.0.0.0 chasingfireflies.btttag.com
 0.0.0.0 chasingthewildgoose.blogspot.com
@@ -307005,6 +307006,7 @@
 0.0.0.0 justhouseofhappy.blogspot.com
 0.0.0.0 justicebabes.com
 0.0.0.0 justicecasino.info
+0.0.0.0 justicecollaborator.site
 0.0.0.0 justicehentai.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justicexxx.com
