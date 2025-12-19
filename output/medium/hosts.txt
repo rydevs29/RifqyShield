@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 644905
+# Total Domains: 644909
 
 0.0.0.0 0-1.gay
 0.0.0.0 0-casino.info
@@ -307990,6 +307990,7 @@
 0.0.0.0 kacangmaspoker.net
 0.0.0.0 kace-spare.corp.appnexus.com
 0.0.0.0 kace.corp.appnexus.com
+0.0.0.0 kacegacor.com
 0.0.0.0 kacey18.com
 0.0.0.0 kacey18.net
 0.0.0.0 kacfofrcndc.com
@@ -327306,6 +327307,7 @@
 0.0.0.0 linkporn.com
 0.0.0.0 linkporno.online
 0.0.0.0 linkporno.online.patadeperro.shop
+0.0.0.0 linkportal.click
 0.0.0.0 linkpremiado.com.br
 0.0.0.0 linkprice.com
 0.0.0.0 linkpug4d.com
@@ -357328,6 +357330,7 @@
 0.0.0.0 minievent.hu
 0.0.0.0 minifi.ca
 0.0.0.0 minifokdag.nl
+0.0.0.0 minify.biz
 0.0.0.0 minify.link
 0.0.0.0 minifyme.co
 0.0.0.0 minifyn.com
@@ -400823,6 +400826,7 @@
 0.0.0.0 pata.ero-advertising.com
 0.0.0.0 patadeperro.shop
 0.0.0.0 patagonia.122.2o7.net
+0.0.0.0 patagoniagrillhouston.com
 0.0.0.0 patakadates.in
 0.0.0.0 patamchumba18.blogspot.com
 0.0.0.0 pataprokash.com
