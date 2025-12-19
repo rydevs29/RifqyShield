@@ -82,3 +82,5 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.kode4dfine.com
 *.kilat69raja.com
 *.wak5000rog.com
+*.justicecollaborator.site
+*.chaseyourdreams.space
