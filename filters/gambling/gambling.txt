@@ -86,3 +86,8 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.chaseyourdreams.space
 *.mantragass.com
 *.nica.lat
+*.rj99.site
+*.patagoniagrillhouston.com
+*.linkportal.click
+*.minify.biz
+*.kacegacor.com
