@@ -84,3 +84,5 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.wak5000rog.com
 *.justicecollaborator.site
 *.chaseyourdreams.space
+*.mantragass.com
+*.nica.lat
