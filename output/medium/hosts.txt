@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 644903
+# Total Domains: 644905
 
 0.0.0.0 0-1.gay
 0.0.0.0 0-casino.info
@@ -342603,6 +342603,7 @@
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 mantomansocials.com
 0.0.0.0 mantraaunisexsalon.com
+0.0.0.0 mantragass.com
 0.0.0.0 mantruc.com
 0.0.0.0 mantry.7eer.net
 0.0.0.0 mantrymanmarquu.blogspot.com
@@ -379188,6 +379189,7 @@
 0.0.0.0 niburithegame.blogspot.com
 0.0.0.0 niburu.nl
 0.0.0.0 nica-nordic.com
+0.0.0.0 nica.lat
 0.0.0.0 nicanoelle.net
 0.0.0.0 nicanordic.com
 0.0.0.0 nicappazaza.com
