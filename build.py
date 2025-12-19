@@ -5,15 +5,15 @@ import re
 
 # 1. Definisi File per Kategori
 FILES_OEM_TRACKER = [
-    "filters/smartphone-tracking/tracking-xiaomi.txt",
-    "filters/smartphone-tracking/tracking-amazon.txt",
-    "filters/smartphone-tracking/tracking-apple.txt",
+    "filters/tracking/tracking-xiaomi.txt",
+    "filters/tracking/tracking-amazon.txt",
+    "filters/tracking/tracking-apple.txt",
     "filters/redirect/urlshortener.txt",
     "filters/redirect/urlshortener-2.txt",
-    "filters/smartphone-tracking/tracking-oppo-realme.txt",
-    "filters/smartphone-tracking/tracking-vivo.txt",
-    "filters/smartphone-tracking/tracking-huawei.txt",
-    "filters/smartphone-tracking/tracking-samsung.txt",
+    "filters/tracking/tracking-oppo-realme.txt",
+    "filters/tracking/tracking-vivo.txt",
+    "filters/tracking/tracking-huawei.txt",
+    "filters/tracking/tracking-samsung.txt",
 ]
 
 FILES_SPECIFIC = [
