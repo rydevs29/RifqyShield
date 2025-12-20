@@ -1,5 +1,5 @@
 ! RifqyShield Lite List
-! Total Domains: 69924
+! Total Domains: 69929
 
 ||0-02.net^
 ||0.gp^
@@ -47972,6 +47972,7 @@
 ||r3---sn-npoe7n7s.googlevideo.com^
 ||r3---sn-npoe7n7y.googlevideo.com^
 ||r3---sn-npoe7n7z.googlevideo.com^
+||r3---sn-npoe7nlz.googlevideo.com^
 ||r3---sn-npoe7ns7.googlevideo.com^
 ||r3---sn-npoeen76.googlevideo.com^
 ||r3---sn-npoeen7d.googlevideo.com^
@@ -48292,12 +48293,14 @@
 ||r3.sn-npoe7n7s.googlevideo.com^
 ||r3.sn-npoe7n7y.googlevideo.com^
 ||r3.sn-npoe7n7z.googlevideo.com^
+||r3.sn-npoe7nlz.googlevideo.com^
 ||r3.sn-npoe7ns7.googlevideo.com^
 ||r3.sn-npoeen76.googlevideo.com^
 ||r3.sn-npoeen7d.googlevideo.com^
 ||r3.sn-npoeen7k.googlevideo.com^
 ||r3.sn-npoeen7r.googlevideo.com^
 ||r3.sn-npoeen7y.googlevideo.com^
+||r3.sn-npoldn76.googlevideo.com^
 ||r3.sn-npoldn7z.googlevideo.com^
 ||r3.sn-npoldnes.googlevideo.com^
 ||r3.sn-nuj-wxqr.googlevideo.com^
@@ -48611,6 +48614,7 @@
 ||r4---sn-npoe7n7s.googlevideo.com^
 ||r4---sn-npoe7n7y.googlevideo.com^
 ||r4---sn-npoe7n7z.googlevideo.com^
+||r4---sn-npoe7nsd.googlevideo.com^
 ||r4---sn-npoeen76.googlevideo.com^
 ||r4---sn-npoeen7d.googlevideo.com^
 ||r4---sn-npoeen7k.googlevideo.com^
@@ -48917,6 +48921,7 @@
 ||r4.sn-npoe7n7s.googlevideo.com^
 ||r4.sn-npoe7n7y.googlevideo.com^
 ||r4.sn-npoe7n7z.googlevideo.com^
+||r4.sn-npoe7nsd.googlevideo.com  r3---sn-npoldn76.googlevideo.com^
 ||r4.sn-npoeen76.googlevideo.com^
 ||r4.sn-npoeen7d.googlevideo.com^
 ||r4.sn-npoeen7k.googlevideo.com^
