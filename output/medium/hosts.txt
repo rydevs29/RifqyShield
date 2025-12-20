@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 685814
+# Total Domains: 685816
 
 0.0.0.0 0-02.net
 0.0.0.0 0-1.gay
@@ -482930,6 +482930,7 @@
 0.0.0.0 r3---sn-npoeen7r.googlevideo.com
 0.0.0.0 r3---sn-npoeen7y.googlevideo.com
 0.0.0.0 r3---sn-npoldn7l.googlevideo.com
+0.0.0.0 r3---sn-npoldnes.googlevideo.com
 0.0.0.0 r3---sn-nuj-wxqr.googlevideo.com
 0.0.0.0 r3---sn-nv47lned.googlevideo.com
 0.0.0.0 r3---sn-nv47lnee.googlevideo.com
@@ -483249,6 +483250,7 @@
 0.0.0.0 r3.sn-npoeen7k.googlevideo.com
 0.0.0.0 r3.sn-npoeen7r.googlevideo.com
 0.0.0.0 r3.sn-npoeen7y.googlevideo.com
+0.0.0.0 r3.sn-npoldnes.googlevideo.com
 0.0.0.0 r3.sn-nuj-wxqr.googlevideo.com
 0.0.0.0 r3.sn-nv47lned.googlevideo.com
 0.0.0.0 r3.sn-nv47lnee.googlevideo.com
