@@ -1,5 +1,5 @@
 # RifqyShield Lite Wildcard List
-# Total Domains: 218992
+# Total Domains: 218994
 
 *.0-02.net
 *.0.fls.doubleclick.net
@@ -152854,6 +152854,7 @@
 *.r2---sn-npoe7n7s.googlevideo.com
 *.r2---sn-npoe7n7y.googlevideo.com
 *.r2---sn-npoe7n7z.googlevideo.com
+*.r2---sn-npoe7ns7.googlevideo.com
 *.r2---sn-npoeen76.googlevideo.com
 *.r2---sn-npoeen7d.googlevideo.com
 *.r2---sn-npoeen7k.googlevideo.com
@@ -153172,6 +153173,7 @@
 *.r2.sn-npoe7n7s.googlevideo.com
 *.r2.sn-npoe7n7y.googlevideo.com
 *.r2.sn-npoe7n7z.googlevideo.com
+*.r2.sn-npoe7ns7.googlevideo.com
 *.r2.sn-npoeen76.googlevideo.com
 *.r2.sn-npoeen7d.googlevideo.com
 *.r2.sn-npoeen7k.googlevideo.com
