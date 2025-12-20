@@ -27,10 +27,9 @@ FILES_SPECIFIC = [
 
 FILES_NSFW_GAMBLING = [
     "filters/nsfw/nsfw-2.txt",
-    "filters/nsfw/nsfw-3.txt",
     "filters/nsfw/Hagezi-NSFW.txt",
     "filters/nsfw/hostsVN-NSFW.txt",
-    "filters/gambling/gambling.txt",
+    "filters/gambling/RifqyShield-Gambling.txt",
     "filters/gambling/hostsVN-Gambling.txt",
     "filters/gambling/gambling-2.txt",
     "filters/gambling/gambling-4.txt",
