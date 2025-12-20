@@ -13,3 +13,5 @@ rr5---sn-npoldn7l.googlevideo.com
 rr1---sn-npoldn7e.googlevideo.com
 r3---sn-npoldnes.googlevideo.com
 r3.sn-npoldnes.googlevideo.com
+rr2---sn-apou5n-jb3l.googlevideo.com
+rr2.sn-apou5n-jb3l.googlevideo.com
