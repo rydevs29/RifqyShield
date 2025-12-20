@@ -17,7 +17,8 @@ FILES_OEM_TRACKER = [
 ]
 
 FILES_SPECIFIC = [
-    "filters/blocklist/oisd-small.txt"
+    "filters/blocklist/oisd-small.txt",
+    "filters/nsfw/RifqyShield-NSFW.txt",
     "filters/youtube-ads/youtube-ads.txt",
     "filters/youtube-ads/youtube-ads2.txt",
     "filters/spotify-ads/spotify-ads.txt",
@@ -25,7 +26,6 @@ FILES_SPECIFIC = [
 ]
 
 FILES_NSFW_GAMBLING = [
-    "filters/nsfw/nsfw.txt",
     "filters/nsfw/nsfw-2.txt",
     "filters/nsfw/nsfw-3.txt",
     "filters/nsfw/Hagezi-NSFW.txt",
