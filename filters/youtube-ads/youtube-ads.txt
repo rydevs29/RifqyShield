@@ -35,3 +35,11 @@ RifqyShield YouTube-Ads | Always Updated
 *.r2.sn-npoldnes.googlevideo.com
 *.r4---sn-i3b7kns6.googlevideo.com
 *.r4.sn-i3b7kns6.googlevideo.com
+*.r3---sn-npoe7nez.googlevideo.com
+*.r3.sn-npoe7nez.googlevideo.com
+*.r5---sn-npoe7ndy.googlevideo.com
+*.r5.sn-npoe7ndy.googlevideo.com
+*.r5---sn-npoeenlk.googlevideo.com
+*.r5.sn-npoeenlk.googlevideo.com
+*.r1---sn-npoeened.googlevideo.com
+*.r1.sn-npoeened.googlevideo.com
