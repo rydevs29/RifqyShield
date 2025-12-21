@@ -15,6 +15,8 @@ FILES_STREAM_ADS = [
 FILES_OEM_TRACKER = [
     "filters/tracking/tracking-xiaomi.txt",
     "filters/tracking/tracking-amazon.txt",
+    "filters/tracking/tracking-tiktok.txt",
+    "filters/tracking/tracking-winoffice.txt",
     "filters/tracking/tracking-apple.txt",
     "filters/redirect/urlshortener.txt",
     "filters/redirect/urlshortener-2.txt",
