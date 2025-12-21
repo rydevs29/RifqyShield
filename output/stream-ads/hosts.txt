@@ -1,5 +1,5 @@
 # RifqyShield Stream-ads List
-# Total Domains: 10488
+# Total Domains: 10490
 
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
@@ -10270,11 +10270,13 @@
 0.0.0.0 rr1---sn-npoe7ndl.googlevideo.com
 0.0.0.0 rr1---sn-npoeen66.googlevideo.com
 0.0.0.0 rr1---sn-npoldn7e.googlevideo.com
+0.0.0.0 rr1.sn-apou5n-jb3e.googlevideo.com
 0.0.0.0 rr2---sn-apou5n-jb3e.googlevideo.com
 0.0.0.0 rr2---sn-apou5n-jb3l.googlevideo.com
 0.0.0.0 rr2---sn-apou5n-jb3s.googlevideo.com
 0.0.0.0 rr2---sn-npoe7nl6.googlevideo.com
 0.0.0.0 rr2.sn-apou5n-jb3l.googlevideo.com
+0.0.0.0 rr2.sn-apou5n-jb3s.googlevideo.com
 0.0.0.0 rr3---sn-npoe7nsr.googlevideo.com
 0.0.0.0 rr4---sn-npoe7nk7.googlevideo.com
 0.0.0.0 rr4---sn-npoldn76.googlevideo.com
