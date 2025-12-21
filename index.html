@@ -394,18 +394,19 @@
         });
     }
 
-    // 2. Fetch Stats Logic (Reads the header of the file to get count)
+    // 2. Fetch Stats Logic (Optimized for # Total Domains)
     async function fetchStats(variant, elementId) {
-        const url = BASE_REPO_URL + variant + "/hosts.txt";
+        // Tambah timestamp agar data selalu fresh
+        const url = BASE_REPO_URL + variant + "/hosts.txt?t=" + Date.now();
         try {
-            // Only fetch first 200 bytes to save bandwidth just to read the header
+            // Ambil hanya 200 byte pertama (Header Only)
             const response = await fetch(url, { headers: { 'Range': 'bytes=0-200' } });
             
-            // Fallback if Range not supported by server
+            // Fallback jika Range tidak didukung
             const text = response.ok ? await response.text() : ""; 
             
-            // Regex to find "# Total Domains: X" created by your Python script
-            const match = text.match(/Total Domains: (\d+)/);
+            // SESUAI INSTRUKSI: Mencari pattern "# Total Domains: {angka}"
+            const match = text.match(/# Total Domains: (\d+)/);
             
             if (match && match[1]) {
                 document.getElementById(elementId).innerText = "📊 " + parseInt(match[1]).toLocaleString() + " Rules";
@@ -438,7 +439,6 @@
 
         resultDiv.innerHTML = "<span class='status-loading'>Checking database (this may take a second)... ⏳</span>";
 
-        // We check against the ULTIMATE list plain text because it contains everything
         const url = BASE_REPO_URL + "ultimate/plain.txt";
 
         try {
@@ -446,8 +446,6 @@
             if (!response.ok) throw new Error("Network response was not ok");
             const text = await response.text();
 
-            // Simple check: does the text contain the domain exactly?
-            // Adding newlines to ensure we match specific domain lines
             if (text.includes("\n" + input + "\n") || text.startsWith(input + "\n")) {
                 resultDiv.innerHTML = `✅ <span class="status-blocked">BLOCKED!</span> The domain <strong>${input}</strong> is in the RifqyShield list.`;
             } else {
@@ -460,5 +458,4 @@
 </script>
 
 </body>
-  </html>
-
+</html>
