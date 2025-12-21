@@ -1,5 +1,5 @@
 # RifqyShield Lite List
-# Total Domains: 61490
+# Total Domains: 61492
 
 0.0.0.0 0-02.net
 0.0.0.0 0.gp
@@ -17546,6 +17546,7 @@
 0.0.0.0 derobepical.click
 0.0.0.0 derowalius.com
 0.0.0.0 derwbl.icu
+0.0.0.0 desahanviral.store
 0.0.0.0 descargarmusica.me
 0.0.0.0 descendedlibrarian.com
 0.0.0.0 descendentwringthou.com
@@ -40305,6 +40306,7 @@
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 player.anyclip.com
 0.0.0.0 player.astonvillafc.net
+0.0.0.0 player.mandiwajib.pro
 0.0.0.0 player.urdupoint.com
 0.0.0.0 playeranydwouldm.org
 0.0.0.0 playerseo.club

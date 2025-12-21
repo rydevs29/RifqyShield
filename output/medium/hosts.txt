@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 529053
+# Total Domains: 529055
 
 0.0.0.0 0-02.net
 0.0.0.0 0-1.gay
@@ -121558,6 +121558,7 @@
 0.0.0.0 desah-desahan.blogspot.com
 0.0.0.0 desahan.site
 0.0.0.0 desahanjanda7.blogspot.com
+0.0.0.0 desahanviral.store
 0.0.0.0 desamatrices.free.fr
 0.0.0.0 desanilezianlatinaabuse.com
 0.0.0.0 desantiagospussyshack.blogspot.com
@@ -338326,6 +338327,7 @@
 0.0.0.0 player.123moviesfree.ltd
 0.0.0.0 player.anyclip.com
 0.0.0.0 player.astonvillafc.net
+0.0.0.0 player.mandiwajib.pro
 0.0.0.0 player.ole777vietnam.com
 0.0.0.0 player.oleviet777.com
 0.0.0.0 player.urdupoint.com
