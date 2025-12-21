@@ -3,6 +3,14 @@ import re
 
 # ================= K O N F I G U R A S I   V A R I A N =================
 
+# [BARU] Definisi File Khusus YouTube & Spotify
+FILES_STREAM_ADS = [
+    "filters/youtube-ads/youtube-ads.txt",
+    "filters/youtube-ads/youtube-ads2.txt",
+    "filters/spotify-ads/spotify-ads.txt",
+    "filters/spotify-ads/spotify-ads2.txt",
+]
+
 # 1. Definisi File per Kategori
 FILES_OEM_TRACKER = [
     "filters/tracking/tracking-xiaomi.txt",
@@ -19,10 +27,6 @@ FILES_OEM_TRACKER = [
 FILES_SPECIFIC = [
     "filters/blocklist/oisd-small.txt",
     "filters/nsfw/RifqyShield-NSFW.txt",
-    "filters/youtube-ads/youtube-ads.txt",
-    "filters/youtube-ads/youtube-ads2.txt",
-    "filters/spotify-ads/spotify-ads.txt",
-    "filters/spotify-ads/spotify-ads2.txt",
 ]
 
 FILES_NSFW_GAMBLING = [
@@ -48,7 +52,10 @@ VARIANTS = {
     
     "medium": FILES_OEM_TRACKER + FILES_SPECIFIC + FILES_NSFW_GAMBLING,
     
-    "ultimate": FILES_OEM_TRACKER + FILES_SPECIFIC + FILES_NSFW_GAMBLING + FILES_BIG_DATA
+    "ultimate": FILES_OEM_TRACKER + FILES_SPECIFIC + FILES_NSFW_GAMBLING + FILES_BIG_DATA,
+
+    # [BARU] Varian Khusus Stream (Output akan masuk ke folder output/stream-ads)
+    "stream-ads": FILES_STREAM_ADS
 }
 
 # Folder output utama
@@ -77,7 +84,7 @@ def clean_domain(line):
 def write_files(variant_name, domains):
     """
     Fungsi untuk menulis file output (Hosts, Adblock, Wildcard, Plain)
-    berdasarkan varian (lite/medium/ultimate)
+    berdasarkan varian (lite/medium/ultimate/stream-ads)
     """
     # Buat folder khusus varian, misal: output/lite
     target_dir = os.path.join(BASE_OUTPUT_DIR, variant_name)
@@ -115,7 +122,7 @@ def write_files(variant_name, domains):
 def main():
     print("--- MEMULAI PROSES BUILD MULTI-VARIAN ---")
 
-    # Loop untuk setiap varian (lite, medium, ultimate)
+    # Loop untuk setiap varian (lite, medium, ultimate, stream-ads)
     for variant_name, file_list in VARIANTS.items():
         print(f"\nMemproses Varian: {variant_name.upper()}")
         unique_domains = set()
