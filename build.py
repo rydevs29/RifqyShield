@@ -28,6 +28,7 @@ FILES_OEM_TRACKER = [
 
 FILES_SPECIFIC = [
     "filters/blocklist/oisd-small.txt",
+    "filters/blocklist/RifqyShield-Ads-New.txt",
     "filters/nsfw/RifqyShield-NSFW.txt",
 ]
 
