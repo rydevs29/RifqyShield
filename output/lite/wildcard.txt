@@ -1,5 +1,5 @@
 # RifqyShield Lite Wildcard List
-# Total Domains: 65764
+# Total Domains: 65766
 
 *.0-02.net
 *.0.gp
@@ -5814,6 +5814,7 @@
 *.ads2.brazzers.com
 *.ads2.gamecity.net
 *.ads2.hsoub.com
+*.ads2.indeksonline.net
 *.ads2.jubii.dk
 *.ads2.msn.com
 *.ads2.videy.co
@@ -6025,6 +6026,7 @@
 *.adsmoloco.com
 *.adsmrapi.imbc.com
 *.adsnative.com
+*.adsnew.indeksonline.net
 *.adsniper.ru
 *.adsoftware.com
 *.adsoftware.top

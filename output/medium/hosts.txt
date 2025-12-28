@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 533327
+# Total Domains: 533329
 
 0.0.0.0 0-02.net
 0.0.0.0 0-1.gay
@@ -19172,6 +19172,7 @@
 0.0.0.0 ads2.brazzers.com
 0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.hsoub.com
+0.0.0.0 ads2.indeksonline.net
 0.0.0.0 ads2.jubii.dk
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.thangto.one
@@ -19423,6 +19424,7 @@
 0.0.0.0 adsmovie.blogspot.com
 0.0.0.0 adsmrapi.imbc.com
 0.0.0.0 adsnative.com
+0.0.0.0 adsnew.indeksonline.net
 0.0.0.0 adsniper.ru
 0.0.0.0 adsoftware.com
 0.0.0.0 adsoftware.top
