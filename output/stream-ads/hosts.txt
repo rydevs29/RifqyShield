@@ -1,5 +1,5 @@
 # RifqyShield Stream-ads List
-# Total Domains: 10498
+# Total Domains: 10502
 
 0.0.0.0 00.audio-ak.cdn.spotify.com
 0.0.0.0 00.video-ak.cdn.spotify.com
@@ -1283,6 +1283,7 @@
 0.0.0.0 r1---sn-npoeen7r.googlevideo.com
 0.0.0.0 r1---sn-npoeen7y.googlevideo.com
 0.0.0.0 r1---sn-npoeened.googlevideo.com
+0.0.0.0 r1---sn-npoeenlk.googlevideo.com
 0.0.0.0 r1---sn-npoldn7y.googlevideo.com
 0.0.0.0 r1---sn-nuj-wxqr.googlevideo.com
 0.0.0.0 r1---sn-nv47lned.googlevideo.com
@@ -1593,6 +1594,7 @@
 0.0.0.0 r1.sn-npoeen7r.googlevideo.com
 0.0.0.0 r1.sn-npoeen7y.googlevideo.com
 0.0.0.0 r1.sn-npoeened.googlevideo.com
+0.0.0.0 r1.sn-npoeenlk.googlevideo.com
 0.0.0.0 r1.sn-npoldn7y.googlevideo.com
 0.0.0.0 r1.sn-nuj-wxqr.googlevideo.com
 0.0.0.0 r1.sn-nv47lned.googlevideo.com
@@ -6801,6 +6803,7 @@
 0.0.0.0 r3---sn-npoeen7k.googlevideo.com
 0.0.0.0 r3---sn-npoeen7r.googlevideo.com
 0.0.0.0 r3---sn-npoeen7y.googlevideo.com
+0.0.0.0 r3---sn-npoeens7.googlevideo.com
 0.0.0.0 r3---sn-npoldn76.googlevideo.com
 0.0.0.0 r3---sn-npoldn7l.googlevideo.com
 0.0.0.0 r3---sn-npoldn7z.googlevideo.com
@@ -7124,6 +7127,7 @@
 0.0.0.0 r3.sn-npoeen7k.googlevideo.com
 0.0.0.0 r3.sn-npoeen7r.googlevideo.com
 0.0.0.0 r3.sn-npoeen7y.googlevideo.com
+0.0.0.0 r3.sn-npoeens7.googlevideo.com
 0.0.0.0 r3.sn-npoldn76.googlevideo.com
 0.0.0.0 r3.sn-npoldn7z.googlevideo.com
 0.0.0.0 r3.sn-npoldnes.googlevideo.com
