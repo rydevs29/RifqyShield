@@ -1,5 +1,5 @@
 ! RifqyShield Stream-ads List
-! Total Domains: 10490
+! Total Domains: 10494
 
 ||00.audio-ak.cdn.spotify.com^
 ||00.video-ak.cdn.spotify.com^
@@ -1276,6 +1276,7 @@
 ||r1---sn-npoe7n7s.googlevideo.com^
 ||r1---sn-npoe7n7y.googlevideo.com^
 ||r1---sn-npoe7n7z.googlevideo.com^
+||r1---sn-npoeen6z.googlevideo.com^
 ||r1---sn-npoeen76.googlevideo.com^
 ||r1---sn-npoeen7d.googlevideo.com^
 ||r1---sn-npoeen7k.googlevideo.com^
@@ -1584,6 +1585,7 @@
 ||r1.sn-npoe7n7s.googlevideo.com^
 ||r1.sn-npoe7n7y.googlevideo.com^
 ||r1.sn-npoe7n7z.googlevideo.com^
+||r1.sn-npoeen6z.googlevideo.com^
 ||r1.sn-npoeen76.googlevideo.com^
 ||r1.sn-npoeen7d.googlevideo.com^
 ||r1.sn-npoeen7k.googlevideo.com^
@@ -5760,6 +5762,7 @@
 ||r2---sn-npoe7n7s.googlevideo.com^
 ||r2---sn-npoe7n7y.googlevideo.com^
 ||r2---sn-npoe7n7z.googlevideo.com^
+||r2---sn-npoe7ndl.googlevideo.com^
 ||r2---sn-npoe7ns7.googlevideo.com^
 ||r2---sn-npoeen76.googlevideo.com^
 ||r2---sn-npoeen7d.googlevideo.com^
@@ -6075,6 +6078,7 @@
 ||r2.sn-npoe7n7s.googlevideo.com^
 ||r2.sn-npoe7n7y.googlevideo.com^
 ||r2.sn-npoe7n7z.googlevideo.com^
+||r2.sn-npoe7ndl.googlevideo.com^
 ||r2.sn-npoe7ns7.googlevideo.com^
 ||r2.sn-npoeen76.googlevideo.com^
 ||r2.sn-npoeen7d.googlevideo.com^
