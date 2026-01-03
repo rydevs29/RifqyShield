@@ -3,6 +3,7 @@
 ! Description: This list blocks url shortener.
 
 ||0.gp^
+||ey43.com^
 ||00m.in^
 ||00oo.lol^
 ||010.at^
