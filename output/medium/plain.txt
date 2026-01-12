@@ -90,6 +90,7 @@
 0066130.com
 006969.free.fr
 007-kent-escorts.com
+0077777700140002.myhomescreen.tv
 007angels.com
 007annuaire.com
 007betmen.atw.hu
@@ -5753,6 +5754,7 @@
 2maota.com
 2mastercasino88.com
 2mdn-cn.net
+2mdn.net
 2meet4free.com
 2mf9kkbhab31.com
 2mg2ibr6b.de
@@ -11039,6 +11041,8 @@
 733e8c6d6c254267a2ce98a9cc4afcd4.fp.measure.office.com
 733ll.com
 733s.com
+7345023508.fxm9485766783.com
+7345023508.fxmconnect.com
 7345ck.cc
 7345dc0372.com
 734ll.com
@@ -14228,6 +14232,7 @@
 9xxxthe.com
 9y3d.com
 9zehn.de
+_xmpp-client._tcp.managed.xmpp.foxtel.com.au
 a-2.ch
 a-24.ch
 a-80-74-155-80.badinebikon.ch
@@ -14518,6 +14523,7 @@ a1.bookapka.com
 a1.consoletarget.com
 a1.cyyangqiguan.com
 a1.lshou.com
+a1.resources.foxtel.com.au
 a1.tbuz.com.cn
 a1.zhanzhang.net
 a1001fantasiesss.blogspot.com
@@ -15949,6 +15955,7 @@ absurdoctober.com
 absurdword.pro
 abszolutauto.hu
 abt.s3.yandex.net
+abtauthprd.samsungcloudsolution.com
 abtest-ch.snssdk.com
 abtest.swrve.com
 abtloman.com
@@ -17029,6 +17036,7 @@ ad.24h.com.vn
 ad.51wnl.com
 ad.52av.one
 ad.52av.tv
+ad.71i.de
 ad.8live.com
 ad.8live.net
 ad.a-ads.com
@@ -17158,6 +17166,7 @@ ad.l2b.co.za
 ad.land.to
 ad.leadboltapps.net
 ad.leap.app
+ad.lgappstv.com
 ad.life.360.cn
 ad.line-scdn.net
 ad.linksynergy.com
@@ -17218,6 +17227,7 @@ ad.quickapp.hybrid.xiaomi.com
 ad.rarure.com
 ad.reklm.com
 ad.richmob.cn
+ad.samsungadhub.com
 ad.santa.lv
 ad.shenshiads.com
 ad.shunchangzhixing.com
@@ -17328,6 +17338,8 @@ ad69.com
 ad7.biz
 ad81b5514f.91b20f7c8f.com
 ad85b73f6af44e46bd721304b44a75ec.fp.measure.office.com
+ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv
+ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv
 ad999.biz
 ada-bugil.blogspot.com
 ada-schutzhaus.de
@@ -18658,6 +18670,7 @@ ads.adinmotech.com
 ads.admatrix.vn
 ads.administrator.de
 ads.adverline.com
+ads.aimitv.com
 ads.allvatar.com
 ads.alobacsi.vn
 ads.amdmb.com
@@ -24770,6 +24783,7 @@ advertising.amazon.it
 advertising.amazon.nl
 advertising.amazon.sa
 advertising.apple.com
+advertising.com
 advertising.gammassp.com
 advertising.goldseek.com
 advertising.jp.msn.com
@@ -26599,6 +26613,7 @@ aibooru.space
 aiboyfriendporn.com
 aibozy.site
 aibsgc.com
+aic-ngfts.lge.com
 aicasino.se
 aicelebporn.site
 aicelebs.club
@@ -33812,6 +33827,7 @@ amatuteca.com
 amatvideo.free.fr
 amatxxx.fr
 amauta-international.com
+amauthprd.samsungcloudsolution.com
 amawidget.yutbr.com
 amaxadult.com
 amaxclub.blogspot.com
@@ -37038,6 +37054,8 @@ androidsexdoll.com
 androidsexgame.com
 androidsexgames.men
 androidstores.ru
+androidtvchannels-pa.googleapis.com
+androidtvwatsonfe-pa.googleapis.com
 androjane.blogspot.com
 andrologia.biz
 andromaque82.blogspot.com
@@ -40003,6 +40021,9 @@ api-exponea.o2.sk
 api-gd.hiaiabc.com
 api-gl.cdo.heytapmobi.com
 api-gl.cdo.heytapmobile.com
+api-gps-em.hismarttv.com
+api-gps-na.hismarttv.com
+api-hub.samsungyosemite.com
 api-id.cdo.heytapmobile.com
 api-id.game.heytapmobi.com
 api-id.game.heytapmobile.com
@@ -40011,7 +40032,10 @@ api-id.theme.heytapmobi.com
 api-id.theme.heytapmobile.com
 api-in.cdo.heytapmobile.com
 api-ktm.kkday.com
+api-launcher-em.hismarttv.com
+api-launcher-na.hismarttv.com
 api-logdev.sohatv.vn
+api-mf1.meta.ndmdhs.com
 api-notify.markarch.com
 api-passionxxx.imcdev.com
 api-pixels.easyadsapp.com
@@ -40084,6 +40108,7 @@ api.bsoftjsc.com
 api.bugsnag.com
 api.bytebrew.io
 api.calendar.intl.miui.com
+api.cid.samba.tv
 api.clickaine.com
 api.collect.data.intl.miui.com
 api.comm.miui.com
@@ -40099,10 +40124,13 @@ api.deeplink.dev
 api.developer.xiaomi.com
 api.diagnostics-eudb.office.com
 api.diagnostics.office.com
+api.distribution.hulu.com
 api.e.kuaishou.com
 api.e.mi.com
 api.edgeoffer.microsoft.com
 api.eu-west-1.aiv-delivery.net
+api.eu.hismarttv.com
+api.euro.hismarttv.com
 api.eventbus.me
 api.exc.mob.com
 api.f8bet0.com
@@ -40220,6 +40248,7 @@ api.taboola.sve.cc
 api.taggrs.io
 api.telemetry.watchabc.go.com
 api.tf4srv.com
+api.thetake.com
 api.tiredoceanhugged.com
 api.topbet.net
 api.topbet.top
@@ -40230,6 +40259,7 @@ api.trueaudience.io
 api.tw06.xlmc.sec.miui.com
 api.us-east-1.aiv-delivery.net
 api.us-west-2.aiv-delivery.net
+api.us.hismarttv.com
 api.usbet.net
 api.v79top.com
 api.v7king.com
@@ -40523,6 +40553,7 @@ app.greengurad.sec.miui.com
 app.harafunnel.com
 app.haraloyalty.com
 app.harasocial.com
+app.hbbtv.hse24.com
 app.helpline-app.com
 app.hstatic.net
 app.k8cc.com
@@ -47625,6 +47656,7 @@ austereassistant.com
 austerefriendship.com
 austin-wolf-porn-gay.pages.dev
 austin.5escorts.com
+austin.logs.roku.com
 austinbarebacker.blogspot.com
 austinbdsm.blogspot.com
 austinchatline.net
@@ -47750,6 +47782,10 @@ auteboon.net
 autemismal.click
 autentickavidea.cz
 auth-bjnxzab80exu09jaksiis7yh839bp89d.pages.dev
+auth-em.hismarttv.com
+auth-launcher-em.hismarttv.com
+auth-launcher-na.hismarttv.com
+auth-na.hismarttv.com
 auth-srv.launchthatapps.com
 auth-uni-mw4734.mystrikingly.com
 auth.api.gitv.tv
@@ -49413,6 +49449,7 @@ az-neverblock.aznude.workers.dev
 az-prostitutki.ru
 az.appstore.vivo.com.cn
 az.nzn.io
+az43064.vo.msecnd.net
 az6.ir
 az667904.vo.msecnd.net
 az888.bet
@@ -49760,6 +49797,7 @@ b0.yahoo.co.jp
 b00.fr
 b003b21361ffa3236e77a2bf43262e42.fp.measure.office.com
 b019.info
+b02.black.ndmdhs.com
 b02byun5xc3s.com
 b0439479f15743afb52af64075df86c8.fp.measure.office.com
 b05fea1c47414b3a8ed7d435ee042eda.fp.measure.office.com
@@ -55034,6 +55072,7 @@ bdcode.2345.com
 bdcode.qinglue.com
 bdcode.youke.com
 bdcoquines.free.fr
+bdcore-apr-lb.bda.ndmdhs.com
 bdd549304d.com
 bddecul.blogit.fr
 bddhprzriicus.world
@@ -76303,6 +76342,8 @@ bravesducoin.org
 bravet.pe
 bravetulipstudios.blogspot.com
 braveyear.pro
+bravia-cfgdst-ore-pro.bda.ndmdhs.com
+bravia.dl.playstation.net
 bravo-erotic.com
 bravo.ly
 bravo.magiclive.cz
@@ -82226,6 +82267,7 @@ call-sexx-c74.pages.dev
 call-sexx.pages.dev
 call-sexx1.pages.dev
 call-us.ch
+call.me.sel.sony.com
 call2cam.co.uk
 call2collect.com
 call2collect.nl
@@ -94391,6 +94433,7 @@ cdn.ftwpcn.com
 cdn.gay
 cdn.getkoala.com
 cdn.haocaa.com
+cdn.hbbtv.smartclip.net
 cdn.headlinesmart.com
 cdn.house
 cdn.hpplay.com.cn
@@ -94444,12 +94487,14 @@ cdn.reviveservers.com
 cdn.rgrd.xyz
 cdn.rlets.com
 cdn.rlnads.net
+cdn.samsungcloudsolution.net
 cdn.sdtraff.com
 cdn.sentinelp.com
 cdn.seonintelligence.com
 cdn.shrtfly.vip
 cdn.siftscience.com
 cdn.slots.baxter.olx.org
+cdn.smartclip.net
 cdn.smartnews-ads.com
 cdn.smlog.co.kr
 cdn.sov.stream
@@ -95947,6 +95992,7 @@ cersexdewasa88.blogspot.com
 cersexidn.blogspot.com
 cersexjilbab.my.id
 cersexoke.blogspot.com
+cert-test.sandbox.google.com
 certainwolveshonestly.com
 certificativerdi.it
 certified9ja1.blogspot.com
@@ -103809,6 +103855,7 @@ clothoff.shop
 clotplaynews.live
 cloud-9-escorts.com
 cloud-suites.xyz
+cloud.arqiva.tv
 cloud.kiru.gay
 cloud.ogury.io
 cloud.poss.gay
@@ -106521,7 +106568,25 @@ collarncuffsfreefemdom.blogspot.com
 collarsgame.blogspot.com
 collarspace.com
 collect-ap2.attraqt.io
+collect-eu-fy2014.myhomescreen.tv
+collect-eu-fy2015.myhomescreen.tv
+collect-eu-fy2016.myhomescreen.tv
+collect-eu-fy2017.myhomescreen.tv
+collect-eu-fy2018.myhomescreen.tv
+collect-eu-fy2019.myhomescreen.tv
+collect-eu-fy2020.myhomescreen.tv
+collect-eu-fy2021.myhomescreen.tv
+collect-eu-fy2022.myhomescreen.tv
 collect-eu.attraqt.io
+collect-us-fy2014.myhomescreen.tv
+collect-us-fy2015.myhomescreen.tv
+collect-us-fy2016.myhomescreen.tv
+collect-us-fy2017.myhomescreen.tv
+collect-us-fy2018.myhomescreen.tv
+collect-us-fy2019.myhomescreen.tv
+collect-us-fy2020.myhomescreen.tv
+collect-us-fy2021.myhomescreen.tv
+collect-us-fy2022.myhomescreen.tv
 collect-v6.51.la
 collect.4gtv.tv
 collect.adplogger.no
@@ -106542,6 +106607,7 @@ collect.iteam-dress.com
 collect.kugou.com
 collect.media.jio.com
 collect.mxapis.com
+collect.myhomescreen.tv
 collect.nature.com
 collect.ovp.vn
 collect.rebelmouse.io
@@ -107973,6 +108039,7 @@ connectormiddlesex.adgorientation.com
 connectreadoasis.com
 connecttocams.xxx
 connecttoday.eu
+connecttv.pelmorex.com
 connectwithcams.xxx
 conner-pantyhose.com
 conner.de
@@ -108622,6 +108689,9 @@ contributions-amateur.com
 contributorshaveangry.com
 contrinh.net
 control-ejaculation.com
+control-zoo-dai-default.tvinteractive.tv
+control.tvinteractive.tv
+control2.tvinteractive.tv
 controlaffliction.com
 controlauto.net
 controlclickflow.com
@@ -108940,6 +109010,7 @@ coop.uk
 coopbet.com
 coopcomm.org
 cooper-handpicked.blogspot.com
+cooper.logs.roku.com
 cooperatemarker.com
 cooperationdungfrugal.com
 cooperative-reveal.com
@@ -108953,6 +109024,7 @@ coopurl.com
 cooquine.biz
 cooquine.org
 coordinatediningroom.com
+coordinator-production-28516768.us-east-1.elb.amazonaws.com
 coorvr.com
 coosuclemmus.shop
 coosync.com
@@ -114576,6 +114648,7 @@ customadultvideos.com
 customcgiporn.blogspot.com
 customdesignsource.com
 customerevents.dradis.netflix.com
+customerevents.netflix.com
 customernormallyseventh.com
 customeroticasource.blogspot.com
 customers.my
@@ -115994,6 +116067,7 @@ d170e28341.27fae19b56.com
 d1733r3id7jrw5.cloudfront.net
 d175dtblugd1dn.cloudfront.net
 d17757b88bjr2y.cloudfront.net
+d179kwmlpc4o47.cloudfront.net
 d17c5vf4t6okfg.cloudfront.net
 d17ialcoirdn28.cloudfront.net
 d17m68fovwmgxj.cloudfront.net
@@ -116157,6 +116231,7 @@ d1jnvfp2m6fzvq.cloudfront.net
 d1jq9nooxeft24.cloudfront.net
 d1juimniehopp3.cloudfront.net
 d1jum8517nhtf1.cloudfront.net
+d1jwpcr0q4pcq0.cloudfront.net
 d1jwpd11ofhd5g.cloudfront.net
 d1k0glcmk0b5rb.cloudfront.net
 d1k3dpebxhgqjc.cloudfront.net
@@ -116223,6 +116298,7 @@ d1ol7fsyj96wwo.cloudfront.net
 d1on4urq8lvsb1.cloudfront.net
 d1or04kku1mxl9.cloudfront.net
 d1ou8n65t6oyh4.cloudfront.net
+d1oxlq5h9kq8q5.cloudfront.net
 d1oykxszdrgjgl.cloudfront.net
 d1p0vowokmovqz.cloudfront.net
 d1p3zboe6tz3yy.cloudfront.net
@@ -116715,6 +116791,7 @@ d2tbszkvx1p56e.cloudfront.net
 d2tc1zttji8e3a.cloudfront.net
 d2tgfbvjf3q6hn.cloudfront.net
 d2tkdzior84vck.cloudfront.net
+d2tnx644ijgq6i.cloudfront.net
 d2trpg4l6gqit0.cloudfront.net
 d2tvgfsghnrkwb.cloudfront.net
 d2u2lv2h6u18yc.cloudfront.net
@@ -116872,6 +116949,7 @@ d37abonb6ucrhx.cloudfront.net
 d37ax1qs52h69r.cloudfront.net
 d37byya7cvg7qr.cloudfront.net
 d37j8pfxu2iogi.cloudfront.net
+d37ju0xanoz6gh.cloudfront.net
 d37pempw0ijqri.cloudfront.net
 d37s9vd5t6mov7.cloudfront.net
 d37sevptuztre3.cloudfront.net
@@ -117018,6 +117096,7 @@ d3m6sept6cnil5.cloudfront.net
 d3m8nzcefuqu7h.cloudfront.net
 d3m9ng807i447x.cloudfront.net
 d3mcf0n3hvvfk4.cloudfront.net
+d3mjsomixevyw7.cloudfront.net
 d3mqyj199tigh.cloudfront.net
 d3mr7y154d2qg5.cloudfront.net
 d3mshiiq22wqhz.cloudfront.net
@@ -119583,6 +119662,7 @@ data.ads.heytapmobi.com
 data.ads.oppomobile.com
 data.adwombat.com
 data.armexdef.uk
+data.arqiva.tv
 data.bangtubevideos.com
 data.bvsrv.com
 data.chsmarttv.com
@@ -119629,6 +119709,7 @@ data527.click
 data741.click
 data852.click
 data963.click
+database01p.anixe.net
 databasexx1.admin-fc2.workers.dev
 databeacon.apple.com
 databet.ec
@@ -121251,6 +121332,7 @@ de.cx
 de.domashneeporno.org
 de.filmovisex.org
 de.i.sex-cams.online
+de.ioam.de
 de.jolokawek.com
 de.kijken.top
 de.live.18xxxvideo.com
@@ -128993,6 +129075,7 @@ displacedbarwench.blogspot.com
 display.digitalclickstime.com
 display.lawbulletin.com
 display.nativeads.com
+display.ravm.tv
 display.rtb-serve.com
 displayadsmedia.com
 displaycontentnetwork.com
@@ -136238,6 +136321,7 @@ e1ba4a364208751ce35b03590d9501d4.fp.measure.office.com
 e1c872d77f274c77acc8aaf178b3389a.fp.measure.office.com
 e1f16afceda949e6b33184a8664c5e8c.fp.measure.office.com
 e1snapcatsex.pages.dev
+e2.resources.foxtel.com.au
 e20d8e38992b.o3n.io
 e2154c9ee1.87eb0a33a9.com
 e258787b9cd74398a2a386a2475843f6.fp.measure.office.com
@@ -153039,6 +153123,7 @@ events.busuu.com
 events.cardsmobile.ru
 events.chaordicsystems.com
 events.character.ai
+events.cid.samba.tv
 events.claspws.tv
 events.data.microsoft.com
 events.data.msn.cn
@@ -155806,6 +155891,7 @@ facekaingxz5.blogspot.com
 facelessporn.com
 facelez.blogspot.com
 facemandebuted.click
+facemap.foldlife.net
 facemodel.de
 facenude.com
 faceoffatmoonrise.blogspot.com
@@ -166807,6 +166893,8 @@ fknamateur.com
 fknbot.com
 fkngay.com
 fkozajhehnjjt.store
+fkp.samsungcloudsolution.com
+fkp.samsungcloudsolution.net
 fkprf.ru
 fkr445.com
 fkrkkmxsqeb5bj9r.s3.amazonaws.com
@@ -167369,6 +167457,7 @@ flingfuck.com
 flinglivegirl.com
 flinglivegirls.com
 flinglivegirls.net
+flingo.tv
 flingphonesex.co.uk
 flingproposals.com
 flingradar.com
@@ -170275,6 +170364,7 @@ foxpush.io
 foxshipshaka.click
 foxslockedcock.blogspot.com
 foxtee.com
+foxtel-prod-events.digitalsmiths.net
 foxtube.com
 foxtube.net
 foxtube.tv
@@ -184417,6 +184507,7 @@ game.bom52.club
 game.com
 game.deksiam.in.th
 game.ero-labs.space
+game.internetat.tv
 game.lat
 game.loveota.com
 game.man79.org
@@ -184622,6 +184713,7 @@ gamespo18.com
 gamesporn.co
 gamesporn.net
 gamesporndownload.com
+gamespromotion.samsungcloudsolution.com
 gamesrevenue.com
 gamessexy.com
 gamestopcasino.xyz
@@ -201527,6 +201619,7 @@ google-shopping.sapoapps.vn
 google-url.com
 google-youtube-adult-videos.blogspot.com
 google.victorllerena.com
+googleads.g.doubleclick.net
 googleads.github.io
 googleadservices-cn.com
 googleadsserving.cn
@@ -209738,6 +209831,18 @@ hb88p.com
 hb88vn.co
 hb94dnbe.de
 hbaz.co
+hbbtv-1.eurosport.com
+hbbtv-extern-fe01.sim-technik.de
+hbbtv-track.redbutton.de
+hbbtv.3sat.de
+hbbtv.kabeleins.de
+hbbtv.qvc.de
+hbbtv.rtl2.de
+hbbtv.sat1.de
+hbbtv.sixx.de
+hbbtv.superrtl.de
+hbbtv01p.anixe.net
+hbbtvapp.sonnenklar.tv
 hbcnbdoayeycb.site
 hbcusdwpikskh.online
 hbdesires.blogspot.com
@@ -225336,6 +225441,8 @@ hsck8.26img.com
 hscr.me
 hsdgayusd.pages.dev
 hsdt.co
+hse-ctv.com
+hse24.tvtelemetrie.de
 hsedepartment.com
 hsellingsex.dailycaller.com
 hsergay-jesse.kuhserphoto.com
@@ -227250,6 +227357,7 @@ i-sexychat.com
 i-sg.browser.heytapmobile.com
 i-sg01a.ocloud.heytapmobi.com
 i-shemale.com
+i-stream.pl
 i-stripper.net
 i-submit-to-bdsm.com
 i-sue-einen-sexpartner-braunschweig.pages.dev
@@ -227728,6 +227836,7 @@ ibikeufa.ru
 ibikini.cyou
 ibio.app
 ibirzxqcljqxw.site
+ibis.lgappstv.com
 ibis.li
 ibit.ly
 ibitsy.com
@@ -228102,6 +228211,7 @@ ichkommejetzt.de
 ichliebesex.com
 ichlnk.com
 ichmussmalpipi.com
+ichnaea.netflix.com
 ichrahnet.com
 ichsuchesex.com
 ichwilldich.de
@@ -247230,7 +247340,10 @@ jp-xvideos.blogspot.com
 jp-xxx.com
 jp.events.data.trafficmanager.net
 jp.gaspolbosku.space
+jp.info.lgsmartad.com
+jp.lgtvsdp.com
 jp.minucams.com
+jp.rdx2.lgtvsdp.com
 jp.xhamster42.com
 jp18.fun
 jp22.net
@@ -261722,6 +261835,7 @@ legabet.gay
 legaction.com
 legacyecho-ai.com
 legacylt.com
+legacyportal.nettvservices.com
 legacywatson.trafficmanager.net
 legal-age-for-being-an-adult.blogspot.com
 legal-casino-portugal.com
@@ -265108,6 +265222,7 @@ lg.lotus.vn
 lg0lh2qfj4.com
 lg126.at
 lg88casino.org
+lgad.cjpowercast.com.edgesuite.net
 lgaeiqigqojrc.website
 lgahmmjhrmpvv.online
 lgayanimalsexl.com
@@ -265373,6 +265488,7 @@ libertinx.com
 libertx.com
 liberty-gay.exprimetoi.net
 liberty-rose-bildstock-fkk-ficken.pages.dev
+liberty.logs.roku.com
 libertycoinsdrew.com
 libertycouple.com
 libertycouple.fr
@@ -272324,6 +272440,9 @@ loftwebcam.free.fr
 loftx.free.fr
 loftyknifeeducate.com
 lofwyr.org
+log-1.samsungacr.com
+log-2.samsungacr.com
+log-3.samsungacr.com
 log-abroad.avlyun.sec.miui.com
 log-ana.h3z.jp
 log-api-mn.huxiu.com
@@ -272479,6 +272598,7 @@ log.iflytek.com
 log.ifood.tv
 log.infonet.vn
 log.intellimize.co
+log.internetat.tv
 log.ireader.com
 log.isnssdk.com
 log.jackpotmasterslots.com
@@ -280403,6 +280523,7 @@ manaddict.com
 manage.admozartexchange.com
 manage.banahosting.com
 manage.wdfans.cn
+managed.xmpp.foxtel.com.au
 managedweb.net
 management-boost.exads.com
 management-itsup.exads.com
@@ -286373,6 +286494,7 @@ mcocayxlebnuv.space
 mcomputer.hu
 mcosgrovepelada.blogspot.com
 mcp.so
+mcp.tvinteractive.tv
 mcpaid.com
 mcpocahontaplayboy.blogspot.com
 mcporn.xyz
@@ -290332,6 +290454,8 @@ mhaproducts.com
 mhardporn.com
 mhariaangelwebcam.com
 mhatlanta.com
+mhc-sec-eu.myhomescreen.tv
+mhc-sec-us.myhomescreen.tv
 mhc.ltd
 mhcams.com
 mhcomics.com
@@ -290846,6 +290970,7 @@ midglosbadminton.org
 midiariosexy.blogspot.com
 midiasexl.net
 midiavip.com
+midland.logs.roku.com
 midlandsgamblingclinic.org
 midlandsmaidens.co.uk
 midlandsmaidens.com
@@ -296771,6 +296896,7 @@ mobile.event-na.ads.aps.amazon-adsystem.com
 mobile.events-sandbox.data.microsoft.com
 mobile.events.data.microsoft.com
 mobile.events.data.trafficmanager.net
+mobile.logs.roku.com
 mobile.n01.tonsite.biz
 mobile.nz.internations.net
 mobile.pipe.aria.microsoft.com
@@ -301304,6 +301430,7 @@ msfemdom.com
 msfreya.co.uk
 msft.it
 msfy.in
+msg-em.hismarttv.com
 msg-intl.qy.net
 msg-na.hismarttv.com
 msg.ptqy.gitv.tv
@@ -302593,6 +302720,7 @@ musichull.tripod.com
 musicianfinnish.com
 musiciansaudience.com
 musiciansinceredumpling.com
+musicid.samsungcloudsolution.com
 musiclovers.top
 musicloversmatchmaking.net
 musicmooe.blogspot.com
@@ -310094,6 +310222,7 @@ nbastrean.xyz
 nbatoday.ru
 nbbpynkclbynx.online
 nbbtcqoejxhgd.online
+nbc-jite.nbcuni.com
 nbc3d.blogspot.com
 nbc4dc.com
 nbcbay.com
@@ -311232,6 +311361,7 @@ nettles.gay
 nettlestorture.com
 nettsex.no
 nettube.top
+nettv.corio.com
 netvideocams.com
 netvideogirls.com
 netvideogirls.info
@@ -315843,7 +315973,10 @@ nothingtoxic.com
 nothycantyo.com
 notiblog.net
 notice.game.xiaomi.com
+notice.samsungcloudsolution.com
+noticecdn.samsungcloudsolution.com
 noticeclockdroop.com
+noticefile.samsungcloudsolution.com
 noticemu.blogspot.com
 noticianuevashd456.blogspot.com
 noticias-aero.info
@@ -320536,6 +320669,8 @@ oeko-druck.de
 oeldtgynjxqbe.online
 oelhofejacqod.website
 oempafnyfiexpe.com
+oempprd.samsungcloudsolution.com
+oempprd.samsungcloudsolution.net
 oenhg.pics
 oenyaaraycs3.blogspot.com
 oeovy.sbs
@@ -325721,6 +325856,7 @@ openads.friendfinder.com
 openadultdirectory.com
 openadultdirectory.net
 openam-dnssexy.forgeblocks.com
+openapi.samsung.com
 openapi.vip.ptqy.gitv.tv
 openasianporn.cc
 openasianporn.com
@@ -326977,6 +327113,8 @@ osamapk.com
 osamara.com
 osaminesculped.com
 osarmapa.net
+osb-apps-v2.samsungqbe.com
+osb-eusvc.samsungqbe.com
 osb-krsvc.samsungqbe.com
 osb.samsungqbe.com
 osbardosdo15demaio.blogspot.com
@@ -328279,6 +328417,7 @@ p-events.ivideosmart.com
 p-fam.ru
 p-film.se
 p-fruit.com
+p-hbbtv.superrtl.de
 p-it.co.uk
 p-love.de
 p-magazine.com
@@ -331308,6 +331447,7 @@ pavloviadenver.com
 pavlovsk-dd.com
 pavoboxapp.com
 pavoshare.com
+pavv.co.kr
 pavwrr.icu
 pavymoieter.com
 paw.wf
@@ -340383,6 +340523,7 @@ platchwwraojk.online
 plateforme-porno.skillsative.com
 platesskull.com
 platform.adcannyads.com
+platform.cid.samba.tv
 platform.iteratehq.com
 platform.loyaltylion.com
 platform.showcasead.com
@@ -362490,6 +362631,7 @@ preferablyending.com
 preference4penis.blogspot.com
 preferencemuscle.com
 preferencenail.com
+preferences.cid.samba.tv
 preferouter.com
 preferred411.com
 preferredds.com
@@ -362718,6 +362860,7 @@ premium-telefonsex.cc
 premium-telefonsex.live
 premium-telefonsexcam.com
 premium-videos.com
+premium-videos.telly.com
 premium-webcam.de
 premium-webcams.de
 premium-xxx-cams.com
@@ -370390,6 +370533,7 @@ proudpervs.org
 proudsluts.blogspot.com
 proudwarmsex.com
 prounsexx.pages.dev
+prov.samsungcloudsolution.com
 prov231.blogspot.com
 provacateurs.blogspot.com
 provasexvideo.blogspot.com
@@ -376581,6 +376725,7 @@ ravina.in
 ravingsbyrae.com
 ravishment.net
 ravishmentacademy.com
+ravm.tv
 ravnann.blogspot.com
 ravnovesie-psy.ru
 ravshort.com
@@ -376940,6 +377085,7 @@ rd-client.com
 rd-mtl.blogspot.com
 rd.alice.it
 rd.gt
+rd.samsungadhub.com
 rdao.link
 rdar.li
 rdbar.blogspot.com
@@ -378795,6 +378941,9 @@ redbunny.net
 redbunny.top
 redbusbingo.com
 redbusiness.org
+redbutton-adproxy-lb-prod.redbutton.de
+redbutton-lb-prod.redbutton.de
+redbutton.sim-technik.de
 redcam.online
 redcam.vip
 redcams.at
@@ -390419,6 +390568,7 @@ samsung.demdex.net
 samsung.ecorebates.com
 samsung.telemetry.eyeo.com
 samsungacr.com
+samsungadhub.com
 samsungads.adsmeasurement.com
 samsungads.com
 samsungafrica.demdex.net
@@ -390437,6 +390587,9 @@ samsungcard.sc.omtrdc.net
 samsungchina.tt.omtrdc.net
 samsungcis.demdex.net
 samsungcis.tt.omtrdc.net
+samsungcloudsolution.com
+samsungcloudsolution.net
+samsungelectronics.com
 samsungelectronicsamericainc.demdex.net
 samsungeu.demdex.net
 samsungeucdm.demdex.net
@@ -390464,6 +390617,7 @@ samsungnorthamerica.sc.omtrdc.net
 samsungott.sora.yoyi.com.cn
 samsungpakistan.api.useinsider.com
 samsungph.api.useinsider.com
+samsungqbe.com
 samsungr.com
 samsungrm.com
 samsungrum.beusable.net
@@ -391137,6 +391291,7 @@ sarstretteyee6e.blogspot.com
 sartifical.blogspot.com
 sas.nsm-corp.com
 sas.obmenvsem.net
+sas.samsungcloudsolution.com
 sasa889.com
 sasaav.com
 sasalkino.cc
@@ -392248,6 +392403,7 @@ sched.co
 scheduleginnarcotic.com
 schedulegoeshydrogen.com
 schedulenet.jp
+scheduler.hbbtv.smartclip.net
 schedulerationally.com
 scheepsexpert.nl
 scheetjes.nl
@@ -392969,6 +393125,7 @@ screwtonight.com
 screwvideo.com
 screwysextoys.com
 scribbles.itch.io
+scribe.logs.roku.com
 scribe.wongnai.com
 scriiiageagesa.blogspot.com
 scripasok.com
@@ -392976,6 +393133,7 @@ script-ad.mobadme.jp
 script-bd.baixing.net
 script.anura.io
 script.hotjar.com
+script.ioam.de
 script.nimja.com
 script.sex
 script.yomeno.xyz
@@ -436450,6 +436608,8 @@ smartcasino.jp
 smartcasinoguide.com
 smartcasinos.co
 smartcj.com
+smartclip.com
+smartclip.net
 smartdating.nl
 smartdog24.ru
 smartechdecors.com
@@ -436492,6 +436652,7 @@ smartsexsmartlove.com
 smartsextoys.ru
 smartsexuality-org.rios.org
 smartsexuality.org
+smartshare.lgtvsdp.com
 smartshortlinks.com
 smartso.ru
 smarttag.rubiconproject.com
@@ -439988,6 +440149,7 @@ sonvideosxxx.com
 sonyagold.xxx
 sonyametart.blogspot.com
 sonyaplaymatetx.com
+sonybivstatic-a.akamaihd.net
 sonyric.free.fr
 soo.gd
 soocaips.com
@@ -443694,6 +443856,7 @@ ssminreci.blogspot.com
 ssmtfxdslsvzz.space
 ssmxdtzbskhto.space
 ssnetwk.org
+sso.internetat.tv
 ssoft-android.ru
 ssogkvsgjskhe.site
 ssotlctvjiuei.site
@@ -444577,6 +444740,7 @@ starsze.net
 start-pornmovies.com
 start-tube.blogspot.com
 start.amateurcommunity.com
+start.digitaltext.rtl.de
 start.duelz.com
 start.fr
 start.rencontresmatures.fr
@@ -445208,6 +445372,7 @@ stats-dc1.frz.io
 stats-dev.brid.tv
 stats-factory.digitregroup.io
 stats-iobit-com.us-east-1.elasticbeanstalk.com
+stats-irl.sxp.smartclip.net
 stats-messages.gifs.com
 stats-newyork1.bloxcms.com
 stats-partner.trafficmanager.net
@@ -445271,6 +445436,7 @@ stats.habr.com
 stats.hanmaker.com
 stats.hara.vn
 stats.harpercollins.com
+stats.hbbtv.smartclip.net
 stats.hitwebcloud.de
 stats.how.wtf
 stats.hprofits.com
@@ -453112,6 +453278,7 @@ sync.spotim.market
 syncclickflow.com
 synccora.com
 synclair.info
+syncplusconfig.s3.amazonaws.com
 synctia1.com
 synd.co
 syndencasinoslotufa.online
@@ -455652,6 +455819,7 @@ target.smi2.net
 target.smi2.ru
 target.ukr.net
 targeta41.net
+targeted-config-test.samsungacr.com
 targeterpro.com
 targetescort.com
 targeting.api.drift.com
@@ -477498,6 +477666,7 @@ truyenvn.vip
 truyenx365.com
 truyenxxx.com
 trv.is
+trvdp.com
 trvesti.blogspot.com
 trvewestcoastfiction.blogspot.com
 trvsdlckg.icu
@@ -480191,9 +480360,11 @@ tv-porno.pl
 tv-pornoizle.blogspot.com
 tv-showup.pl
 tv-start.ru
+tv-static.scdn.co
 tv-suchmaschine.de
 tv-willemijn.nl
 tv-xxx-vw2g.blogspot.com
+tv.ads.spotx.tv
 tv.app.migc.xiaomi.com
 tv.mobiblogxx.com
 tv.szex.hu
@@ -480254,6 +480425,7 @@ tvlisa.blogspot.com
 tvlivesex.com
 tvmattuju.blogspot.com
 tvmature.com
+tvmeta-dynamic.tvinteractive.tv
 tvmoms.com
 tvmtracker.com
 tvmulesmelt.com
@@ -480312,6 +480484,7 @@ tvsexhd.com
 tvshemale.com
 tvshemale.jstroup.dev
 tvshowsdownload.net
+tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com
 tvsluts.com
 tvspix.com
 tvss.jp
@@ -480342,6 +480515,7 @@ tvuser-ch.cedock.com
 tvvonkzywmxbk.space
 tvvydeysyzwnl.site
 tvwxwboysflvt.website
+tvx.adgrx.com
 tvx.com
 tvxmole.blogspot.com
 tvxnxx.pro
@@ -485129,6 +485303,7 @@ urzoy.com
 us-1.gladly.com
 us-604.ru
 us-adult-friend-finder.com
+us-api.samsungyosemite.com
 us-behavior.apitd.net
 us-central1-markuphero.cloudfunctions.net
 us-e.prod.service.minerva.devices.a2z.com
@@ -485182,20 +485357,32 @@ us-west.ono.axp.amazon-adsystem.com
 us-xxx.com
 us.50gay.com
 us.a1.yimg.com
+us.ad.lgsmartad.com
 us.api.micloud.xiaomi.net
 us.aria.events.data.trafficmanager.net
 us.bestbrains.com
+us.cdpbeacon.lgtvcommon.com
+us.cdpsvc.lgtvcommon.com
 us.easygaydating.com
 us.easysexcontacts.com
 us.events.data.trafficmanager.net
 us.findfemmes.com
+us.homeprv.lgtvcommon.com
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
 us.l.qq.com
+us.lgsmartad.com
 us.maturesexcontacts.net
 us.mplis.gov.vn
+us.nudge.lgtvcommon.com
 us.pipe.aria.microsoft.com
 us.prod.service.minerva.devices.a2z.com
+us.rdl.lgtvcommon.com
+us.rdx2.lgtvsdp.com
+us.recommend.lgtvcommon.com
 us.sa
 us.secretsexcontacts.com
+us.service.lgtvcommon.com
 us.statusapi.micloud.xiaomi.net
 us.vortex-win.data.microsoft.com
 us1tr.tutotoons.com
@@ -485262,8 +485449,27 @@ usaescortlist.com
 usaescorts.com
 usagamblingnetwork.com
 usagaynaturel.blogspot.com
+usage-eu-fy2014.myhomescreen.tv
+usage-eu-fy2015.myhomescreen.tv
+usage-eu-fy2016.myhomescreen.tv
+usage-eu-fy2017.myhomescreen.tv
+usage-eu-fy2018.myhomescreen.tv
+usage-eu-fy2019.myhomescreen.tv
+usage-eu-fy2020.myhomescreen.tv
+usage-eu-fy2021.myhomescreen.tv
+usage-eu-fy2022.myhomescreen.tv
+usage-us-fy2014.myhomescreen.tv
+usage-us-fy2015.myhomescreen.tv
+usage-us-fy2016.myhomescreen.tv
+usage-us-fy2017.myhomescreen.tv
+usage-us-fy2018.myhomescreen.tv
+usage-us-fy2019.myhomescreen.tv
+usage-us-fy2020.myhomescreen.tv
+usage-us-fy2021.myhomescreen.tv
+usage-us-fy2022.myhomescreen.tv
 usage.centsdonations.com
 usage.influxdata.com
+usage.myhomescreen.tv
 usageanalytics.coveo.com
 usagifs.com
 usagirl.com
@@ -487214,6 +487420,8 @@ vd-casino-turkiye.com
 vd-casino-turkiye1.com
 vd-r.at
 vd.7vid.net
+vd.contents.prod.eu.s3.amazonaws.com
+vd.emp.prd.s3.amazonaws.com
 vd0.pro
 vd1.pro
 vd55.com
@@ -487264,6 +487472,7 @@ vdsblog.in
 vdsex.com.br
 vdsex18.com
 vdsnw.mom
+vdterms.samsungcloudsolution.com
 vdtmacbhiltpf.website
 vdu28.com
 vdukpbmavzcne.store
@@ -508980,8 +509189,10 @@ www.saharabet.com
 www.samsungacr.com
 www.samsungads.com
 www.samsungallstore.com
+www.samsungotn.net
 www.samsungr.com
 www.samsungrm.com
+www.samsungrm.net
 www.samsungtvads.com
 www.samvo.com
 www.sanfrancasino.com
@@ -510152,6 +510363,7 @@ x1rotor.fun
 x1x.com
 x1xporn.com
 x2.h-chan.me
+x2.vindicosuite.com
 x2.xo88.info
 x2001.free.fr
 x214.net
@@ -513505,6 +513717,7 @@ xml.nourdream-bid.com
 xml.nova-bid.com
 xml.omanyrelurl.org
 xml.onelyandbegan.org
+xml.opera.com
 xml.optargone-3.online
 xml.optumads.com
 xml.otireofhislady.org

@@ -1,5 +1,5 @@
 ! RifqyShield Lite List
-! Total Domains: 64551
+! Total Domains: 64764
 
 ||0-02.net^
 ||0.gp^
@@ -17,6 +17,7 @@
 ||0019x.com^
 ||00404850.xyz^
 ||00609c257b.com^
+||0077777700140002.myhomescreen.tv^
 ||007angels.com^
 ||008bf84630ca46fb905db04c636d3379.fp.measure.office.com^
 ||009274c2aaa24cebbac8f147605ca891.fp.measure.office.com^
@@ -1093,6 +1094,7 @@
 ||2m3gdt0gc.de^
 ||2m55gqleg.de^
 ||2mdn-cn.net^
+||2mdn.net^
 ||2mf9kkbhab31.com^
 ||2mg2ibr6b.de^
 ||2mjphz1zeyyz38nbw.cyou^
@@ -2393,6 +2395,8 @@
 ||73336zubo25326.com^
 ||733e8c6d6c254267a2ce98a9cc4afcd4.fp.measure.office.com^
 ||733s.com^
+||7345023508.fxm9485766783.com^
+||7345023508.fxmconnect.com^
 ||7345dc0372.com^
 ||7350a8a7db6b4c758693fcb4aecf6066.fp.measure.office.com^
 ||7354061cda884d30a19874a3d8c06df3.fp.measure.office.com^
@@ -3188,6 +3192,7 @@
 ||9xmovies.dog^
 ||9xmovies.red^
 ||9xob25oszs.com^
+||_xmpp-client._tcp.managed.xmpp.foxtel.com.au^
 ||a-ads.com^
 ||a-counter.kiev.ua^
 ||a-da.invideo.io^
@@ -3389,6 +3394,7 @@
 ||a1.consoletarget.com^
 ||a1.cyyangqiguan.com^
 ||a1.lshou.com^
+||a1.resources.foxtel.com.au^
 ||a1.tbuz.com.cn^
 ||a1.zhanzhang.net^
 ||a101indirimleriaktuel.life^
@@ -3955,6 +3961,7 @@
 ||absurdoctober.com^
 ||absurdword.pro^
 ||abt.s3.yandex.net^
+||abtauthprd.samsungcloudsolution.com^
 ||abtest-ch.snssdk.com^
 ||abtest.swrve.com^
 ||abtrcker.com^
@@ -4329,6 +4336,7 @@
 ||ad.51wnl.com^
 ||ad.52av.one^
 ||ad.52av.tv^
+||ad.71i.de^
 ||ad.a8.net^
 ||ad.about.co.kr^
 ||ad.aboutwebservices.com^
@@ -4443,6 +4451,7 @@
 ||ad.land.to^
 ||ad.leadboltapps.net^
 ||ad.leap.app^
+||ad.lgappstv.com^
 ||ad.life.360.cn^
 ||ad.line-scdn.net^
 ||ad.linksynergy.com^
@@ -4497,6 +4506,7 @@
 ||ad.rarure.com^
 ||ad.reklm.com^
 ||ad.richmob.cn^
+||ad.samsungadhub.com^
 ||ad.santa.lv^
 ||ad.shenshiads.com^
 ||ad.shunchangzhixing.com^
@@ -4589,6 +4599,8 @@
 ||ad7.biz^
 ||ad81b5514f.91b20f7c8f.com^
 ||ad85b73f6af44e46bd721304b44a75ec.fp.measure.office.com^
+||ad8641f3cff742de893d919add74c2bb.ssm1.internet.sony.tv^
+||ad8641f3cff742de893d919add74c2bb.ssm2.internet.sony.tv^
 ||ad999.biz^
 ||ada-shorts.life^
 ||ada2.in^
@@ -5318,6 +5330,7 @@
 ||ads.admatrix.vn^
 ||ads.administrator.de^
 ||ads.adverline.com^
+||ads.aimitv.com^
 ||ads.allvatar.com^
 ||ads.alobacsi.vn^
 ||ads.amdmb.com^
@@ -6158,6 +6171,7 @@
 ||advertising.amazon.nl^
 ||advertising.amazon.sa^
 ||advertising.apple.com^
+||advertising.com^
 ||advertising.goldseek.com^
 ||advertising.jp.msn.com^
 ||advertising.microsoft.com^
@@ -6745,6 +6759,7 @@
 ||aiamok.icu^
 ||aiaskjqrimnol.website^
 ||aibsgc.com^
+||aic-ngfts.lge.com^
 ||aiclk.com^
 ||aidata.io^
 ||aidfni7yk0.com^
@@ -7301,6 +7316,7 @@
 ||amateurwifevids.com^
 ||amatrixe.free.fr^
 ||amatvideo.free.fr^
+||amauthprd.samsungcloudsolution.com^
 ||amawidget.yutbr.com^
 ||amays.im^
 ||amaz.link^
@@ -8066,6 +8082,8 @@
 ||android-tv-beacons.xumo.com^
 ||androidduvetscribble.com^
 ||androidstores.ru^
+||androidtvchannels-pa.googleapis.com^
+||androidtvwatsonfe-pa.googleapis.com^
 ||andydill.com^
 ||anedukerationpeci.com^
 ||aneed.net^
@@ -8398,6 +8416,9 @@
 ||api-gd.hiaiabc.com^
 ||api-gl.cdo.heytapmobi.com^
 ||api-gl.cdo.heytapmobile.com^
+||api-gps-em.hismarttv.com^
+||api-gps-na.hismarttv.com^
+||api-hub.samsungyosemite.com^
 ||api-id.cdo.heytapmobile.com^
 ||api-id.game.heytapmobi.com^
 ||api-id.game.heytapmobile.com^
@@ -8406,7 +8427,10 @@
 ||api-id.theme.heytapmobile.com^
 ||api-in.cdo.heytapmobile.com^
 ||api-ktm.kkday.com^
+||api-launcher-em.hismarttv.com^
+||api-launcher-na.hismarttv.com^
 ||api-logdev.sohatv.vn^
+||api-mf1.meta.ndmdhs.com^
 ||api-notify.markarch.com^
 ||api-pixels.easyadsapp.com^
 ||api-rec.stellar.intl.miui.com^
@@ -8451,6 +8475,7 @@
 ||api.bugsnag.com^
 ||api.bytebrew.io^
 ||api.calendar.intl.miui.com^
+||api.cid.samba.tv^
 ||api.clickaine.com^
 ||api.collect.data.intl.miui.com^
 ||api.comm.miui.com^
@@ -8465,10 +8490,13 @@
 ||api.developer.xiaomi.com^
 ||api.diagnostics-eudb.office.com^
 ||api.diagnostics.office.com^
+||api.distribution.hulu.com^
 ||api.e.kuaishou.com^
 ||api.e.mi.com^
 ||api.edgeoffer.microsoft.com^
 ||api.eu-west-1.aiv-delivery.net^
+||api.eu.hismarttv.com^
+||api.euro.hismarttv.com^
 ||api.eventbus.me^
 ||api.exc.mob.com^
 ||api.fastmoonclimbed.com^
@@ -8543,6 +8571,7 @@
 ||api.taggrs.io^
 ||api.telemetry.watchabc.go.com^
 ||api.tf4srv.com^
+||api.thetake.com^
 ||api.tiredoceanhugged.com^
 ||api.touch-moblie.com^
 ||api.trafficfactory.com^
@@ -8550,6 +8579,7 @@
 ||api.tw06.xlmc.sec.miui.com^
 ||api.us-east-1.aiv-delivery.net^
 ||api.us-west-2.aiv-delivery.net^
+||api.us.hismarttv.com^
 ||api.valuemedia-ltd.com^
 ||api.vip.miui.com^
 ||api.vrumeads.com^
@@ -8635,6 +8665,7 @@
 ||app.harafunnel.com^
 ||app.haraloyalty.com^
 ||app.harasocial.com^
+||app.hbbtv.hse24.com^
 ||app.helpline-app.com^
 ||app.hstatic.net^
 ||app.kuvio.io^
@@ -9592,6 +9623,7 @@
 ||auspipe.com^
 ||austereassistant.com^
 ||austerefriendship.com^
+||austin.logs.roku.com^
 ||austineckert.live^
 ||australiaeast-0.in.applicationinsights.azure.com^
 ||australiaeast-1.in.applicationinsights.azure.com^
@@ -9600,6 +9632,10 @@
 ||autchoog.net^
 ||auteboon.net^
 ||autemismal.click^
+||auth-em.hismarttv.com^
+||auth-launcher-em.hismarttv.com^
+||auth-launcher-na.hismarttv.com^
+||auth-na.hismarttv.com^
 ||auth-srv.launchthatapps.com^
 ||auth.api.gitv.tv^
 ||auth.be.sec.miui.com^
@@ -9878,6 +9914,7 @@
 ||az-neverblock.aznude.workers.dev^
 ||az.appstore.vivo.com.cn^
 ||az.nzn.io^
+||az43064.vo.msecnd.net^
 ||az6.ir^
 ||az667904.vo.msecnd.net^
 ||azali.fr^
@@ -9975,6 +10012,7 @@
 ||b0.yahoo.co.jp^
 ||b00.fr^
 ||b003b21361ffa3236e77a2bf43262e42.fp.measure.office.com^
+||b02.black.ndmdhs.com^
 ||b02byun5xc3s.com^
 ||b0439479f15743afb52af64075df86c8.fp.measure.office.com^
 ||b05fea1c47414b3a8ed7d435ee042eda.fp.measure.office.com^
@@ -10628,6 +10666,7 @@
 ||bdcode.2345.com^
 ||bdcode.qinglue.com^
 ||bdcode.youke.com^
+||bdcore-apr-lb.bda.ndmdhs.com^
 ||bdd549304d.com^
 ||bddhprzriicus.world^
 ||bddugi.com^
@@ -12100,6 +12139,8 @@
 ||braverycavalryoats.com^
 ||braverytermors.digital^
 ||braveyear.pro^
+||bravia-cfgdst-ore-pro.bda.ndmdhs.com^
+||bravia.dl.playstation.net^
 ||bravo.ly^
 ||bravobusboy.com^
 ||bravos.life^
@@ -13116,6 +13157,7 @@
 ||caliber.help^
 ||california1955.nl^
 ||caljdjxsfofll.store^
+||call.me.sel.sony.com^
 ||callalelel.info^
 ||callback.xmpush.xiaomi.com^
 ||callhub.io^
@@ -13669,6 +13711,7 @@
 ||cdn.ftwpcn.com^
 ||cdn.getkoala.com^
 ||cdn.haocaa.com^
+||cdn.hbbtv.smartclip.net^
 ||cdn.headlinesmart.com^
 ||cdn.house^
 ||cdn.hpplay.com.cn^
@@ -13715,12 +13758,14 @@
 ||cdn.rgrd.xyz^
 ||cdn.rlets.com^
 ||cdn.rlnads.net^
+||cdn.samsungcloudsolution.net^
 ||cdn.sdtraff.com^
 ||cdn.sentinelp.com^
 ||cdn.seonintelligence.com^
 ||cdn.shrtfly.vip^
 ||cdn.siftscience.com^
 ||cdn.slots.baxter.olx.org^
+||cdn.smartclip.net^
 ||cdn.smartnews-ads.com^
 ||cdn.smlog.co.kr^
 ||cdn.sov.stream^
@@ -13953,6 +13998,7 @@
 ||ceremonysystemsfried.com^
 ||cerilloinverts.com^
 ||cerineas.com^
+||cert-test.sandbox.google.com^
 ||certainwolveshonestly.com^
 ||certifiedblob.com^
 ||certifyde.app^
@@ -15000,6 +15046,7 @@
 ||clothmexican.com^
 ||clotplaynews.live^
 ||cloud-suites.xyz^
+||cloud.arqiva.tv^
 ||cloud.setupad.com^
 ||cloudads-a.akamaihd.net^
 ||cloudbitshift.com^
@@ -15290,7 +15337,25 @@
 ||coll.lovense.com^
 ||collaboratemedaltrips.com^
 ||collect-ap2.attraqt.io^
+||collect-eu-fy2014.myhomescreen.tv^
+||collect-eu-fy2015.myhomescreen.tv^
+||collect-eu-fy2016.myhomescreen.tv^
+||collect-eu-fy2017.myhomescreen.tv^
+||collect-eu-fy2018.myhomescreen.tv^
+||collect-eu-fy2019.myhomescreen.tv^
+||collect-eu-fy2020.myhomescreen.tv^
+||collect-eu-fy2021.myhomescreen.tv^
+||collect-eu-fy2022.myhomescreen.tv^
 ||collect-eu.attraqt.io^
+||collect-us-fy2014.myhomescreen.tv^
+||collect-us-fy2015.myhomescreen.tv^
+||collect-us-fy2016.myhomescreen.tv^
+||collect-us-fy2017.myhomescreen.tv^
+||collect-us-fy2018.myhomescreen.tv^
+||collect-us-fy2019.myhomescreen.tv^
+||collect-us-fy2020.myhomescreen.tv^
+||collect-us-fy2021.myhomescreen.tv^
+||collect-us-fy2022.myhomescreen.tv^
 ||collect-v6.51.la^
 ||collect.4gtv.tv^
 ||collect.adplogger.no^
@@ -15311,6 +15376,7 @@
 ||collect.kugou.com^
 ||collect.media.jio.com^
 ||collect.mxapis.com^
+||collect.myhomescreen.tv^
 ||collect.nature.com^
 ||collect.ovp.vn^
 ||collect.rebelmouse.io^
@@ -15659,6 +15725,7 @@
 ||connectoritineraryswimming.com^
 ||connectreadoasis.com^
 ||connecttoday.eu^
+||connecttv.pelmorex.com^
 ||connextra.com^
 ||conns.life^
 ||conoret.com^
@@ -15788,6 +15855,9 @@
 ||contravention-tai.com^
 ||contributionabdicatemoral.com^
 ||contributorshaveangry.com^
+||control-zoo-dai-default.tvinteractive.tv^
+||control.tvinteractive.tv^
+||control2.tvinteractive.tv^
 ||controlaffliction.com^
 ||controlclickflow.com^
 ||controller.india.xiaomi.com^
@@ -15855,6 +15925,7 @@
 ||coolserving.com^
 ||coolstreamsearch.com^
 ||coop.uk^
+||cooper.logs.roku.com^
 ||cooperatemarker.com^
 ||cooperationdungfrugal.com^
 ||cooperative-reveal.com^
@@ -15862,6 +15933,7 @@
 ||cooperbudge.com^
 ||coopurl.com^
 ||coordinatediningroom.com^
+||coordinator-production-28516768.us-east-1.elb.amazonaws.com^
 ||coosuclemmus.shop^
 ||coosync.com^
 ||coosynci.com^
@@ -16752,6 +16824,7 @@
 ||customad.cnn.com^
 ||customads.co^
 ||customerevents.dradis.netflix.com^
+||customerevents.netflix.com^
 ||customernormallyseventh.com^
 ||customers.my^
 ||customers.xray-superpixel.com^
@@ -17104,6 +17177,7 @@
 ||d1733r3id7jrw5.cloudfront.net^
 ||d175dtblugd1dn.cloudfront.net^
 ||d17757b88bjr2y.cloudfront.net^
+||d179kwmlpc4o47.cloudfront.net^
 ||d17c5vf4t6okfg.cloudfront.net^
 ||d17ialcoirdn28.cloudfront.net^
 ||d17m68fovwmgxj.cloudfront.net^
@@ -17263,6 +17337,7 @@
 ||d1jq9nooxeft24.cloudfront.net^
 ||d1juimniehopp3.cloudfront.net^
 ||d1jum8517nhtf1.cloudfront.net^
+||d1jwpcr0q4pcq0.cloudfront.net^
 ||d1jwpd11ofhd5g.cloudfront.net^
 ||d1k0glcmk0b5rb.cloudfront.net^
 ||d1k3dpebxhgqjc.cloudfront.net^
@@ -17327,6 +17402,7 @@
 ||d1on4urq8lvsb1.cloudfront.net^
 ||d1or04kku1mxl9.cloudfront.net^
 ||d1ou8n65t6oyh4.cloudfront.net^
+||d1oxlq5h9kq8q5.cloudfront.net^
 ||d1oykxszdrgjgl.cloudfront.net^
 ||d1p0vowokmovqz.cloudfront.net^
 ||d1p3zboe6tz3yy.cloudfront.net^
@@ -17800,6 +17876,7 @@
 ||d2tc1zttji8e3a.cloudfront.net^
 ||d2tgfbvjf3q6hn.cloudfront.net^
 ||d2tkdzior84vck.cloudfront.net^
+||d2tnx644ijgq6i.cloudfront.net^
 ||d2trpg4l6gqit0.cloudfront.net^
 ||d2tvgfsghnrkwb.cloudfront.net^
 ||d2u2lv2h6u18yc.cloudfront.net^
@@ -17948,6 +18025,7 @@
 ||d37ax1qs52h69r.cloudfront.net^
 ||d37byya7cvg7qr.cloudfront.net^
 ||d37j8pfxu2iogi.cloudfront.net^
+||d37ju0xanoz6gh.cloudfront.net^
 ||d37pempw0ijqri.cloudfront.net^
 ||d37s9vd5t6mov7.cloudfront.net^
 ||d37sevptuztre3.cloudfront.net^
@@ -18090,6 +18168,7 @@
 ||d3m8nzcefuqu7h.cloudfront.net^
 ||d3m9ng807i447x.cloudfront.net^
 ||d3mcf0n3hvvfk4.cloudfront.net^
+||d3mjsomixevyw7.cloudfront.net^
 ||d3mqyj199tigh.cloudfront.net^
 ||d3mr7y154d2qg5.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
@@ -18516,6 +18595,7 @@
 ||data.ads.oppomobile.com^
 ||data.adwombat.com^
 ||data.armexdef.uk^
+||data.arqiva.tv^
 ||data.bangtubevideos.com^
 ||data.bvsrv.com^
 ||data.chsmarttv.com^
@@ -18560,6 +18640,7 @@
 ||data741.click^
 ||data852.click^
 ||data963.click^
+||database01p.anixe.net^
 ||databeacon.apple.com^
 ||databi.ad.xiaomi.com^
 ||databoilrecommendation.com^
@@ -18834,6 +18915,7 @@
 ||ddzswov1e84sp.cloudfront.net^
 ||de-gdpr-err-up.vivoglobal.com^
 ||de-gdpr-vcode-od.vivoglobal.com^
+||de.ioam.de^
 ||de.pandora.xiaomi.com^
 ||de04bfcff70d46a09ba31c0a9468004a.fp.measure.office.com^
 ||de0574d6cba179c264d57ac004b4b361.fp.measure.office.com^
@@ -19665,6 +19747,7 @@
 ||display.digitalclickstime.com^
 ||display.lawbulletin.com^
 ||display.nativeads.com^
+||display.ravm.tv^
 ||display.rtb-serve.com^
 ||displayadsmedia.com^
 ||displaycontentnetwork.com^
@@ -20974,6 +21057,7 @@
 ||e1ba4a364208751ce35b03590d9501d4.fp.measure.office.com^
 ||e1c872d77f274c77acc8aaf178b3389a.fp.measure.office.com^
 ||e1f16afceda949e6b33184a8664c5e8c.fp.measure.office.com^
+||e2.resources.foxtel.com.au^
 ||e20d8e38992b.o3n.io^
 ||e2154c9ee1.87eb0a33a9.com^
 ||e258787b9cd74398a2a386a2475843f6.fp.measure.office.com^
@@ -22653,6 +22737,7 @@
 ||events.cardsmobile.ru^
 ||events.chaordicsystems.com^
 ||events.character.ai^
+||events.cid.samba.tv^
 ||events.claspws.tv^
 ||events.data.microsoft.com^
 ||events.data.msn.cn^
@@ -23205,6 +23290,7 @@
 ||facebookmarketplace.live^
 ||facebookvideos.live^
 ||facemandebuted.click^
+||facemap.foldlife.net^
 ||faceofffilate.shop^
 ||facesnotebook.com^
 ||facialleaflet.com^
@@ -24173,6 +24259,8 @@
 ||fkklcqmeqoerb.space^
 ||fklit.com^
 ||fkozajhehnjjt.store^
+||fkp.samsungcloudsolution.com^
+||fkp.samsungcloudsolution.net^
 ||fkrkkmxsqeb5bj9r.s3.amazonaws.com^
 ||fkrwxzvxljbyh.website^
 ||fkuncoobwa.com^
@@ -24269,6 +24357,7 @@
 ||flimsyprivilegehaunted.com^
 ||flinchham.com^
 ||flingforyou.com^
+||flingo.tv^
 ||flink.is^
 ||flinkio.com^
 ||flintdepreciate.com^
@@ -24647,6 +24736,7 @@
 ||foxlyme.com^
 ||foxpush.io^
 ||foxshipshaka.click^
+||foxtel-prod-events.digitalsmiths.net^
 ||foybdfdodvgva.rocks^
 ||foyooiexomuku.site^
 ||fp-it.fengkongcloud.com^
@@ -25265,6 +25355,7 @@
 ||gambirspackle.qpon^
 ||game-advertising-online.com^
 ||game.ad.xiaomi.com^
+||game.internetat.tv^
 ||game.loveota.com^
 ||gameads.io^
 ||gameawin.com^
@@ -25288,6 +25379,7 @@
 ||gamesites100.net^
 ||gamesites200.com^
 ||gamesitestop100.com^
+||gamespromotion.samsungcloudsolution.com^
 ||gamesrevenue.com^
 ||gamesyour.com^
 ||gaming001.site^
@@ -26545,6 +26637,7 @@
 ||google-shopping-v2.sapoapps.vn^
 ||google-shopping.sapoapps.vn^
 ||google-url.com^
+||googleads.g.doubleclick.net^
 ||googleads.github.io^
 ||googleadservices-cn.com^
 ||googleadsserving.cn^
@@ -27577,6 +27670,18 @@
 ||hb.vhsrv.com^
 ||hb94dnbe.de^
 ||hbaz.co^
+||hbbtv-1.eurosport.com^
+||hbbtv-extern-fe01.sim-technik.de^
+||hbbtv-track.redbutton.de^
+||hbbtv.3sat.de^
+||hbbtv.kabeleins.de^
+||hbbtv.qvc.de^
+||hbbtv.rtl2.de^
+||hbbtv.sat1.de^
+||hbbtv.sixx.de^
+||hbbtv.superrtl.de^
+||hbbtv01p.anixe.net^
+||hbbtvapp.sonnenklar.tv^
 ||hbcnbdoayeycb.site^
 ||hbcusdwpikskh.online^
 ||hbdzx.sbs^
@@ -28558,6 +28663,8 @@
 ||hs.hentaislayer.net^
 ||hscr.me^
 ||hsdt.co^
+||hse-ctv.com^
+||hse24.tvtelemetrie.de^
 ||hsfcuorcijlne.website^
 ||hsgdyq.com^
 ||hsjjoaotgdfzw.online^
@@ -28884,6 +28991,7 @@
 ||i-reklama.sk^
 ||i-sg.browser.heytapmobile.com^
 ||i-sg01a.ocloud.heytapmobi.com^
+||i-stream.pl^
 ||i-th.browser.heytapmobile.com^
 ||i-vengo.com^
 ||i-vn.browser.heytapmobile.com^
@@ -29013,6 +29121,7 @@
 ||ibikini.cyou^
 ||ibio.app^
 ||ibirzxqcljqxw.site^
+||ibis.lgappstv.com^
 ||ibis.li^
 ||ibit.ly^
 ||ibitsy.com^
@@ -29057,6 +29166,7 @@
 ||ichhar.sante-dz.com^
 ||ichini.me^
 ||ichlnk.com^
+||ichnaea.netflix.com^
 ||icilyassertiveindoors.com^
 ||icit.fr^
 ||icjhjoe.studio^
@@ -31260,6 +31370,9 @@
 ||jp-v10c.events.data.microsoft.com^
 ||jp-v20.events.data.microsoft.com^
 ||jp.events.data.trafficmanager.net^
+||jp.info.lgsmartad.com^
+||jp.lgtvsdp.com^
+||jp.rdx2.lgtvsdp.com^
 ||jp22.net^
 ||jp2455jp99999.live^
 ||jpaasne.e.shifen.com^
@@ -33116,6 +33229,7 @@
 ||leftishburgout.com^
 ||leftmany.pro^
 ||legacyecho-ai.com^
+||legacyportal.nettvservices.com^
 ||legacywatson.trafficmanager.net^
 ||legallydune.com^
 ||leggyindolent.com^
@@ -33254,6 +33368,7 @@
 ||lg.api.xmpush.xiaomi.com^
 ||lg.lotus.vn^
 ||lg0lh2qfj4.com^
+||lgad.cjpowercast.com.edgesuite.net^
 ||lgaeiqigqojrc.website^
 ||lgahmmjhrmpvv.online^
 ||lgdstolfuinmi.world^
@@ -33326,6 +33441,7 @@
 ||lib.cx^
 ||liberaldoubtedadulatory.com^
 ||libertify.net^
+||liberty.logs.roku.com^
 ||libertycoinsdrew.com^
 ||libertystmedia.com^
 ||librarysituation.com^
@@ -34391,6 +34507,9 @@
 ||lofcdljzqswbs.online^
 ||lofqvl.icu^
 ||loftyknifeeducate.com^
+||log-1.samsungacr.com^
+||log-2.samsungacr.com^
+||log-3.samsungacr.com^
 ||log-abroad.avlyun.sec.miui.com^
 ||log-ana.h3z.jp^
 ||log-api-mn.huxiu.com^
@@ -34546,6 +34665,7 @@
 ||log.ifood.tv^
 ||log.infonet.vn^
 ||log.intellimize.co^
+||log.internetat.tv^
 ||log.ireader.com^
 ||log.isnssdk.com^
 ||log.jackpotmasterslots.com^
@@ -35782,6 +35902,7 @@
 ||man.ac.uk^
 ||manage.admozartexchange.com^
 ||manage.wdfans.cn^
+||managed.xmpp.foxtel.com.au^
 ||managedweb.net^
 ||management-boost.exads.com^
 ||management-itsup.exads.com^
@@ -36144,6 +36265,7 @@
 ||mcni.it^
 ||mcocayxlebnuv.space^
 ||mcp.so^
+||mcp.tvinteractive.tv^
 ||mcppsh.com^
 ||mcpuwpsh.com^
 ||mcro.link^
@@ -36787,6 +36909,8 @@
 ||mgyb.co^
 ||mgyccfrshz.com^
 ||mhaproducts.com^
+||mhc-sec-eu.myhomescreen.tv^
+||mhc-sec-us.myhomescreen.tv^
 ||mhc.ltd^
 ||mhdrvicmuxzyl.site^
 ||mhgulzhluhcvt.space^
@@ -36854,6 +36978,7 @@
 ||midget.pro^
 ||midgetbreakfast.com^
 ||midiavip.com^
+||midland.logs.roku.com^
 ||midlegulnas.qpon^
 ||midnightbashslightly.com^
 ||midnighttraditionally.com^
@@ -37360,6 +37485,7 @@
 ||mobile.events-sandbox.data.microsoft.com^
 ||mobile.events.data.microsoft.com^
 ||mobile.events.data.trafficmanager.net^
+||mobile.logs.roku.com^
 ||mobile.pipe.aria.microsoft.com^
 ||mobile.slgnt.eu^
 ||mobile.us-east.aps.axp.amazon-adsystem.com^
@@ -37850,6 +37976,7 @@
 ||msehuipsxmudk.store^
 ||msft.it^
 ||msfy.in^
+||msg-em.hismarttv.com^
 ||msg-intl.qy.net^
 ||msg-na.hismarttv.com^
 ||msg.ptqy.gitv.tv^
@@ -38060,6 +38187,7 @@
 ||musicianfinnish.com^
 ||musiciansaudience.com^
 ||musiciansinceredumpling.com^
+||musicid.samsungcloudsolution.com^
 ||musicnote.info^
 ||musicpack4djs.download^
 ||musimonkeleh.shop^
@@ -38618,6 +38746,7 @@
 ||nbanner.link^
 ||nbbpynkclbynx.online^
 ||nbbtcqoejxhgd.online^
+||nbc-jite.nbcuni.com^
 ||nbc4dc.com^
 ||nbcbay.com^
 ||nbcchi.com^
@@ -38822,6 +38951,7 @@
 ||netpool.netbookia.net^
 ||netpub.media^
 ||netseer.com^
+||nettv.corio.com^
 ||netwayer.de^
 ||network.screen13.com^
 ||networking-htx.com^
@@ -39410,7 +39540,10 @@
 ||nothingpetwring.com^
 ||nothycantyo.com^
 ||notice.game.xiaomi.com^
+||notice.samsungcloudsolution.com^
+||noticecdn.samsungcloudsolution.com^
 ||noticeclockdroop.com^
+||noticefile.samsungcloudsolution.com^
 ||notificaciones-web.com^
 ||notificationallow.com^
 ||notifications.viafoura.co^
@@ -40149,6 +40282,8 @@
 ||oeldtgynjxqbe.online^
 ||oelhofejacqod.website^
 ||oempafnyfiexpe.com^
+||oempprd.samsungcloudsolution.com^
+||oempprd.samsungcloudsolution.net^
 ||oenhg.pics^
 ||oeovy.sbs^
 ||oepahvkqvihnh.space^
@@ -40747,6 +40882,7 @@
 ||openadapi.fancydsp.com^
 ||openads.aira.cz^
 ||openads.friendfinder.com^
+||openapi.samsung.com^
 ||openapi.vip.ptqy.gitv.tv^
 ||openbio.link^
 ||opencan.net^
@@ -40992,6 +41128,8 @@
 ||osamara.com^
 ||osaminesculped.com^
 ||osarmapa.net^
+||osb-apps-v2.samsungqbe.com^
+||osb-eusvc.samsungqbe.com^
 ||osb-krsvc.samsungqbe.com^
 ||osb.samsungqbe.com^
 ||oscarey.my.id^
@@ -41376,6 +41514,7 @@
 ||ozyxnwnpfdiup.website^
 ||ozz.kr^
 ||p-events.ivideosmart.com^
+||p-hbbtv.superrtl.de^
 ||p-it.co.uk^
 ||p-r.io^
 ||p-url.com^
@@ -41812,6 +41951,7 @@
 ||pavleka.com^
 ||pavoboxapp.com^
 ||pavoshare.com^
+||pavv.co.kr^
 ||pavwrr.icu^
 ||pavymoieter.com^
 ||paw.wf^
@@ -42746,6 +42886,7 @@
 ||platchwwraojk.online^
 ||platesskull.com^
 ||platform.adcannyads.com^
+||platform.cid.samba.tv^
 ||platform.iteratehq.com^
 ||platform.loyaltylion.com^
 ||platform.showcasead.com^
@@ -43472,6 +43613,7 @@
 ||preferablyending.com^
 ||preferencemuscle.com^
 ||preferencenail.com^
+||preferences.cid.samba.tv^
 ||preferouter.com^
 ||preferredds.com^
 ||prefleks.com^
@@ -43487,6 +43629,7 @@
 ||premex.link^
 ||premierbet.live^
 ||premium-offers.com^
+||premium-videos.telly.com^
 ||premium.xhamster.com^
 ||premiumads.net^
 ||premiumproducts.live^
@@ -43893,6 +44036,7 @@
 ||protrckit.com^
 ||proudlyfunkywanderer.com^
 ||proudlyhint.com^
+||prov.samsungcloudsolution.com^
 ||provenperch.com^
 ||provexia.com^
 ||providedpattern.com^
@@ -45488,6 +45632,7 @@
 ||raven.omamao.ch^
 ||ravenouspetition.com^
 ||ravin-hbs.com^
+||ravm.tv^
 ||ravshort.com^
 ||raw-co.com^
 ||raw-solid.com^
@@ -45604,6 +45749,7 @@
 ||rd-client.com^
 ||rd.alice.it^
 ||rd.gt^
+||rd.samsungadhub.com^
 ||rdar.li^
 ||rdbd.xsread.com^
 ||rdbgxi.top^
@@ -45825,6 +45971,9 @@
 ||redaffil.com^
 ||redakcija.alo.rs^
 ||redaz.in^
+||redbutton-adproxy-lb-prod.redbutton.de^
+||redbutton-lb-prod.redbutton.de^
+||redbutton.sim-technik.de^
 ||redditlink.org^
 ||redditp2pcredit.life^
 ||redditsp2pcredit.life^
@@ -48316,6 +48465,7 @@
 ||samsung.ecorebates.com^
 ||samsung.telemetry.eyeo.com^
 ||samsungacr.com^
+||samsungadhub.com^
 ||samsungads.adsmeasurement.com^
 ||samsungads.com^
 ||samsungafrica.demdex.net^
@@ -48334,6 +48484,9 @@
 ||samsungchina.tt.omtrdc.net^
 ||samsungcis.demdex.net^
 ||samsungcis.tt.omtrdc.net^
+||samsungcloudsolution.com^
+||samsungcloudsolution.net^
+||samsungelectronics.com^
 ||samsungelectronicsamericainc.demdex.net^
 ||samsungeu.demdex.net^
 ||samsungeucdm.demdex.net^
@@ -48360,6 +48513,7 @@
 ||samsungott.sora.yoyi.com.cn^
 ||samsungpakistan.api.useinsider.com^
 ||samsungph.api.useinsider.com^
+||samsungqbe.com^
 ||samsungr.com^
 ||samsungrm.com^
 ||samsungrum.beusable.net^
@@ -48454,6 +48608,7 @@
 ||sarmadinst.ir^
 ||sarrowgrivois.com^
 ||sas.nsm-corp.com^
+||sas.samsungcloudsolution.com^
 ||sashtrizone.com^
 ||sasinator.realestate.com.au^
 ||sasinsetuid.com^
@@ -48636,6 +48791,7 @@
 ||sched.co^
 ||scheduleginnarcotic.com^
 ||schedulegoeshydrogen.com^
+||scheduler.hbbtv.smartclip.net^
 ||schedulerationally.com^
 ||schellenberg.ca^
 ||schemeamuse.com^
@@ -48721,12 +48877,14 @@
 ||screenshot.best^
 ||screenshots.goguardian.com^
 ||screensnaps.top^
+||scribe.logs.roku.com^
 ||scribe.wongnai.com^
 ||scripasok.com^
 ||script-ad.mobadme.jp^
 ||script-bd.baixing.net^
 ||script.anura.io^
 ||script.hotjar.com^
+||script.ioam.de^
 ||scripte-monster.de^
 ||scripts-repo.reelevant.com^
 ||scripts.dadata.com.br^
@@ -50667,11 +50825,14 @@
 ||smartcardf-eu.apps.coloros.com^
 ||smartcardf.apps.coloros.com^
 ||smartcj.com^
+||smartclip.com^
+||smartclip.net^
 ||smartli.me^
 ||smartmnews.pro^
 ||smartoffer.site^
 ||smartpush0.info^
 ||smartpush1.info^
+||smartshare.lgtvsdp.com^
 ||smartshortlinks.com^
 ||smarttag.rubiconproject.com^
 ||smarttds.org^
@@ -51053,6 +51214,7 @@
 ||sonobi.com^
 ||sonoran.link^
 ||sonshipmbori.life^
+||sonybivstatic-a.akamaihd.net^
 ||soo.gd^
 ||soocaips.com^
 ||soohelp.com^
@@ -51708,6 +51870,7 @@
 ||ssm.codes^
 ||ssmtfxdslsvzz.space^
 ||ssmxdtzbskhto.space^
+||sso.internetat.tv^
 ||ssogkvsgjskhe.site^
 ||ssotlctvjiuei.site^
 ||ssp-ad.momento.dev^
@@ -51866,6 +52029,7 @@
 ||starswalker.site^
 ||starsx.fr^
 ||start.amateurcommunity.com^
+||start.digitaltext.rtl.de^
 ||start.fr^
 ||start.sexpartnercommunity.com^
 ||startappexchange.com^
@@ -52349,6 +52513,7 @@
 ||stats-dev.brid.tv^
 ||stats-factory.digitregroup.io^
 ||stats-iobit-com.us-east-1.elasticbeanstalk.com^
+||stats-irl.sxp.smartclip.net^
 ||stats-messages.gifs.com^
 ||stats-newyork1.bloxcms.com^
 ||stats-partner.trafficmanager.net^
@@ -52412,6 +52577,7 @@
 ||stats.hanmaker.com^
 ||stats.hara.vn^
 ||stats.harpercollins.com^
+||stats.hbbtv.smartclip.net^
 ||stats.hitwebcloud.de^
 ||stats.how.wtf^
 ||stats.hprofits.com^
@@ -53397,6 +53563,7 @@
 ||sync.spotim.market^
 ||syncclickflow.com^
 ||synccora.com^
+||syncplusconfig.s3.amazonaws.com^
 ||synd.co^
 ||syndenizen.shop^
 ||syndetimmit.shop^
@@ -53944,6 +54111,7 @@
 ||target.smi2.ru^
 ||target.ukr.net^
 ||targeta41.net^
+||targeted-config-test.samsungacr.com^
 ||targeterpro.com^
 ||targeting.api.drift.com^
 ||targeting.tbt.arcpublishing.com^
@@ -56670,6 +56838,7 @@
 ||truthfultype.com^
 ||truthfulverb.com^
 ||trv.is^
+||trvdp.com^
 ||trvsdlckg.icu^
 ||trwdip.online^
 ||trwebbvcvaupa.store^
@@ -56920,6 +57089,8 @@
 ||tuwmc.sbs^
 ||tux76afo5.com^
 ||tuyexdwuboyuw.top^
+||tv-static.scdn.co^
+||tv.ads.spotx.tv^
 ||tv.app.migc.xiaomi.com^
 ||tvapp.hpplay.cn^
 ||tvboss.pandora.xiaomi.com^
@@ -56931,6 +57102,7 @@
 ||tvfeel.cc^
 ||tviqzqsrdvofl.website^
 ||tvkfxtoydfqtf.online^
+||tvmeta-dynamic.tvinteractive.tv^
 ||tvmtracker.com^
 ||tvmulesmelt.com^
 ||tvoiioftvfzzc.buzz^
@@ -56947,6 +57119,7 @@
 ||tvqqnhkixwqny.space^
 ||tvqrsvhqmcten.website^
 ||tvrqlfdtfxtsh.space^
+||tvsideviewandroidv2-cfgdst-ore-pro.bda.ndmdhs.com^
 ||tvspix.com^
 ||tvss.jp^
 ||tvt.lat^
@@ -56956,6 +57129,7 @@
 ||tvvonkzywmxbk.space^
 ||tvvydeysyzwnl.site^
 ||tvwxwboysflvt.website^
+||tvx.adgrx.com^
 ||tvxzuiiddkbqy.online^
 ||tvzapt.icu^
 ||tw.reppublika.com^
@@ -58440,6 +58614,7 @@
 ||urweb.net^
 ||urwebs.it^
 ||urwvphdnwhdzl.site^
+||us-api.samsungyosemite.com^
 ||us-behavior.apitd.net^
 ||us-central1-markuphero.cloudfunctions.net^
 ||us-e.prod.service.minerva.devices.a2z.com^
@@ -58480,15 +58655,27 @@
 ||us-west.live-events.ono.axp.amazon-adsystem.com^
 ||us-west.ono.axp.amazon-adsystem.com^
 ||us.a1.yimg.com^
+||us.ad.lgsmartad.com^
 ||us.api.micloud.xiaomi.net^
 ||us.aria.events.data.trafficmanager.net^
 ||us.bestbrains.com^
+||us.cdpbeacon.lgtvcommon.com^
+||us.cdpsvc.lgtvcommon.com^
 ||us.events.data.trafficmanager.net^
+||us.homeprv.lgtvcommon.com^
+||us.ibs.lgappstv.com^
+||us.info.lgsmartad.com^
 ||us.l.qq.com^
+||us.lgsmartad.com^
 ||us.mplis.gov.vn^
+||us.nudge.lgtvcommon.com^
 ||us.pipe.aria.microsoft.com^
 ||us.prod.service.minerva.devices.a2z.com^
+||us.rdl.lgtvcommon.com^
+||us.rdx2.lgtvsdp.com^
+||us.recommend.lgtvcommon.com^
 ||us.sa^
+||us.service.lgtvcommon.com^
 ||us.statusapi.micloud.xiaomi.net^
 ||us.vortex-win.data.microsoft.com^
 ||us4-v20.events.data.microsoft.com^
@@ -58496,8 +58683,27 @@
 ||us7-snkvsrwk1k1p2.xyz^
 ||usable-hello.com^
 ||usable-march.pro^
+||usage-eu-fy2014.myhomescreen.tv^
+||usage-eu-fy2015.myhomescreen.tv^
+||usage-eu-fy2016.myhomescreen.tv^
+||usage-eu-fy2017.myhomescreen.tv^
+||usage-eu-fy2018.myhomescreen.tv^
+||usage-eu-fy2019.myhomescreen.tv^
+||usage-eu-fy2020.myhomescreen.tv^
+||usage-eu-fy2021.myhomescreen.tv^
+||usage-eu-fy2022.myhomescreen.tv^
+||usage-us-fy2014.myhomescreen.tv^
+||usage-us-fy2015.myhomescreen.tv^
+||usage-us-fy2016.myhomescreen.tv^
+||usage-us-fy2017.myhomescreen.tv^
+||usage-us-fy2018.myhomescreen.tv^
+||usage-us-fy2019.myhomescreen.tv^
+||usage-us-fy2020.myhomescreen.tv^
+||usage-us-fy2021.myhomescreen.tv^
+||usage-us-fy2022.myhomescreen.tv^
 ||usage.centsdonations.com^
 ||usage.influxdata.com^
+||usage.myhomescreen.tv^
 ||usageanalytics.coveo.com^
 ||usalbackpacking.club^
 ||usanet.tv^
@@ -59005,6 +59211,8 @@
 ||vcxzp.com^
 ||vczfcmaxnqkby.club^
 ||vd.7vid.net^
+||vd.contents.prod.eu.s3.amazonaws.com^
+||vd.emp.prd.s3.amazonaws.com^
 ||vd0.pro^
 ||vd1.pro^
 ||vd55.com^
@@ -59032,6 +59240,7 @@
 ||vdr.cloud^
 ||vdrn.redplum.com^
 ||vdsnw.mom^
+||vdterms.samsungcloudsolution.com^
 ||vdtmacbhiltpf.website^
 ||vdukpbmavzcne.store^
 ||vdulz.org^
@@ -61717,8 +61926,10 @@
 ||www.samsungacr.com^
 ||www.samsungads.com^
 ||www.samsungallstore.com^
+||www.samsungotn.net^
 ||www.samsungr.com^
 ||www.samsungrm.com^
+||www.samsungrm.net^
 ||www.samsungtvads.com^
 ||www.tantecentil.site^
 ||www.telecommandsvc.microsoft.com^
@@ -61828,6 +62039,7 @@
 ||x11.pw^
 ||x1a.eu^
 ||x1c9gze9i.com^
+||x2.vindicosuite.com^
 ||x24hr.com^
 ||x2c.eu^
 ||x2t.com^
@@ -62614,6 +62826,7 @@
 ||xml.nova-bid.com^
 ||xml.omanyrelurl.org^
 ||xml.onelyandbegan.org^
+||xml.opera.com^
 ||xml.optargone-3.online^
 ||xml.optumads.com^
 ||xml.otireofhislady.org^
