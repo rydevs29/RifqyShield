@@ -1,5 +1,5 @@
 # RifqyShield Lite List
-# Total Domains: 64764
+# Total Domains: 64768
 
 0.0.0.0 0-02.net
 0.0.0.0 0.gp
@@ -10519,6 +10519,7 @@
 0.0.0.0 battlescalpelrut.com
 0.0.0.0 baumtvndvncob.rocks
 0.0.0.0 bavdxafbegkvr.space
+0.0.0.0 bayanganpanas.net
 0.0.0.0 bayarcuan.com
 0.0.0.0 bayareane.ws
 0.0.0.0 bayctrk.com
@@ -35403,8 +35404,10 @@
 0.0.0.0 lullfork.com
 0.0.0.0 lullprivacyheater.com
 0.0.0.0 lulusin.io
+0.0.0.0 luluvdo.com
 0.0.0.0 luluvdoo.com
 0.0.0.0 luluvid.com
+0.0.0.0 luluvid.online
 0.0.0.0 lumaktoys.com
 0.0.0.0 lumar.is
 0.0.0.0 lumberjack-metrics.razorpay.com
@@ -59509,6 +59512,7 @@
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 video-streaming.ezoic.com
 0.0.0.0 video.adsninja.ca
+0.0.0.0 video.bocilviral.space
 0.0.0.0 video.dispatch.tc.qq.com
 0.0.0.0 video.kts.g.mi.com
 0.0.0.0 video.market.xiaomi.com

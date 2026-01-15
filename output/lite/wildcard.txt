@@ -1,5 +1,5 @@
 # RifqyShield Lite Wildcard List
-# Total Domains: 64764
+# Total Domains: 64768
 
 *.0-02.net
 *.0.gp
@@ -10519,6 +10519,7 @@
 *.battlescalpelrut.com
 *.baumtvndvncob.rocks
 *.bavdxafbegkvr.space
+*.bayanganpanas.net
 *.bayarcuan.com
 *.bayareane.ws
 *.bayctrk.com
@@ -35403,8 +35404,10 @@
 *.lullfork.com
 *.lullprivacyheater.com
 *.lulusin.io
+*.luluvdo.com
 *.luluvdoo.com
 *.luluvid.com
+*.luluvid.online
 *.lumaktoys.com
 *.lumar.is
 *.lumberjack-metrics.razorpay.com
@@ -59509,6 +59512,7 @@
 *.video-stats.video.google.com
 *.video-streaming.ezoic.com
 *.video.adsninja.ca
+*.video.bocilviral.space
 *.video.dispatch.tc.qq.com
 *.video.kts.g.mi.com
 *.video.market.xiaomi.com

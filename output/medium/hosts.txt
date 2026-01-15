@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 532329
+# Total Domains: 532333
 
 0.0.0.0 0-02.net
 0.0.0.0 0-1.gay
@@ -53765,6 +53765,7 @@
 0.0.0.0 bayanescortsirinevler.com
 0.0.0.0 bayanescorttr.com
 0.0.0.0 bayaneskortlar.org
+0.0.0.0 bayanganpanas.net
 0.0.0.0 bayanim.biz
 0.0.0.0 bayanim.org
 0.0.0.0 bayanizmirescortt.com
@@ -276401,8 +276402,10 @@
 0.0.0.0 lulusexy.com
 0.0.0.0 lulusin.io
 0.0.0.0 lulutv.life
+0.0.0.0 luluvdo.com
 0.0.0.0 luluvdoo.com
 0.0.0.0 luluvid.com
+0.0.0.0 luluvid.online
 0.0.0.0 luluyingshi.com
 0.0.0.0 lulybrazil.com
 0.0.0.0 lulzb.in
@@ -489389,6 +489392,7 @@
 0.0.0.0 video-zoophilie.biz
 0.0.0.0 video.24porno.pro
 0.0.0.0 video.adsninja.ca
+0.0.0.0 video.bocilviral.space
 0.0.0.0 video.dispatch.tc.qq.com
 0.0.0.0 video.ebony.com
 0.0.0.0 video.gay.free.fr
