@@ -17,7 +17,6 @@ FILES_OEM_TRACKER = [
     "filters/tracking/tracking-amazon.txt",
     "filters/tracking/tracking-tiktok.txt",
     "filters/tracking/tracking-winoffice.txt",
-    "filters/tracking/SmartTV.txt",
     "filters/tracking/tracking-apple.txt",
     "filters/redirect/urlshortener.txt",
     "filters/redirect/urlshortener-2.txt",
@@ -29,25 +28,18 @@ FILES_OEM_TRACKER = [
 
 FILES_SPECIFIC = [
     "filters/blocklist/oisd-small.txt",
-    "filters/blocklist/RifqyShield-Ads-New.txt",
-    "filters/nsfw/RifqyShield-NSFW.txt",
 ]
 
 FILES_NSFW_GAMBLING = [
-    "filters/nsfw/nsfw-2.txt",
-    "filters/nsfw/Hagezi-NSFW.txt",
+    "filters/nsfw/RifqyShield-NSFW.txt",
     "filters/nsfw/hostsVN-NSFW.txt",
     "filters/gambling/RifqyShield-Gambling.txt",
     "filters/gambling/hostsVN-Gambling.txt",
-    "filters/gambling/gambling-2.txt",
-    "filters/gambling/gambling-4.txt",
-    "filters/gambling/gambling-3.txt",
 ]
 
 FILES_BIG_DATA = [
     "filters/blocklist/RifqyShield-BlockList.txt", # Ini gabungan Hagezi + BlocklistProject
     "filters/blocklist/RifqyShield-Anti-PopUP.txt",
-    "filters/gambling/Komdigi Blocklist.txt",
     "filters/blocklist/ultimate.txt",
 ]
 
