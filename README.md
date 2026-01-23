@@ -10,7 +10,7 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 | **NSFW & Gambling** | OISD, Hagezi, hostsVN, RifqyShield Custom | ✅ Active |
 | **Malware & Phishing**| Hagezi Ultimate, OISD-Small | ✅ Active |
 
-**📊 Total Unique Domains: 1,331,341** (Optimized & Deduplicated)
+**📊 Total Unique Domains: 2,286,080** (Optimized & Deduplicated)
 
 ---
 
@@ -21,7 +21,7 @@ RifqyShield comes in three levels that have been deduplicated, ensuring you can 
 | Variant | Key Features | Key Benefits |
 | :--- | :--- | :--- |
 | **LITE** | **Performance & Anti-Mobile Tracker.** Blocks ads on smartphones, and Google ads.  | **Lightweight and Anti-Mobile Tracking** |
-| **STREAM-ADS** | **Multi-media Protection.** Block ads on apps or websites like YouTube and Spotify*  | **Especially for those of you who enjoy watching movies and listening to music.** |
+| **STREAM-ADS** | **Multi-media Protection.** Block ads on apps or websites like YouTube and Spotify  | **Especially for those of you who enjoy watching movies and listening to music.** |
 | **MEDIUM** | **Combination of Lite Filter and Content Protection.** Adds aggressive NSFW and Gambling blocking. Ideal for family use. | **Balanced & Secure Content** |
 | **ULTIMATE** | **A combination of Medium and Global Giant Lists**  such as (Hagezi Ultimate, OISD Big) for total protection from all threats. | **For maximum protection** |
 
@@ -38,4 +38,4 @@ MIT
 
 **GitHub:** [Open Github RifqyShield](https://github.com/rydevs29/RifqyShield)  
 
-*Last updated: January 6, 2026*
+*Last updated: January 23, 2026*
