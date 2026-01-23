@@ -10,7 +10,7 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 | **NSFW & Gambling** | OISD, Hagezi, hostsVN, RifqyShield Custom | ✅ Active |
 | **Malware & Phishing**| Hagezi Ultimate, OISD-Small | ✅ Active |
 
-**📊 Total Unique Domains: 2,286,080** (Optimized & Deduplicated)
+**📊 Total Unique Domains: 1,048,801** (Optimized & Deduplicated)
 
 ---
 
