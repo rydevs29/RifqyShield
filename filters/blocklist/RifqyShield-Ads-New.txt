@@ -1,2 +1,0 @@
-*.adsnew.indeksonline.net
-*.ads2.indeksonline.net
