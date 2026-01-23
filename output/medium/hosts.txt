@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 418981
+# Total Domains: 418984
 
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
@@ -71214,6 +71214,7 @@
 0.0.0.0 beefreefilestorage.optimove.net
 0.0.0.0 beeftexture.xyz
 0.0.0.0 beefugrephoumi.com
+0.0.0.0 beeg.com
 0.0.0.0 beeglivesex.com
 0.0.0.0 beeglucoja.net
 0.0.0.0 beegrenugoz.com
@@ -411496,6 +411497,7 @@
 0.0.0.0 xvideo98.com
 0.0.0.0 xvideos-vlxx.com
 0.0.0.0 xvideos.com
+0.0.0.0 xvideos2.com
 0.0.0.0 xvideos888.net
 0.0.0.0 xvideos98.pro
 0.0.0.0 xvideoslive.com
@@ -411530,6 +411532,7 @@
 0.0.0.0 xvuaguwvreldr.space
 0.0.0.0 xvubvlxeyfmjn.store
 0.0.0.0 xvuslink.com
+0.0.0.0 xvv1deos.com
 0.0.0.0 xvvdxushzwlgh.space
 0.0.0.0 xvxboavgkjuex.website
 0.0.0.0 xvxcx.sbs
