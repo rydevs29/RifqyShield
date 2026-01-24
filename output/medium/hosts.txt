@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 499234
+# Total Domains: 499239
 
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
@@ -201941,6 +201941,7 @@
 0.0.0.0 icanhaz.com
 0.0.0.0 icanhazip.tacticalrmm.io
 0.0.0.0 icann-nsp.my.site.com
+0.0.0.0 icanread.io
 0.0.0.0 icarusnippily.com
 0.0.0.0 icatethebenefits.com
 0.0.0.0 icbs.wavesecure.com
@@ -274442,6 +274443,7 @@
 0.0.0.0 pimlog.baidu.com
 0.0.0.0 pimormebwf.com
 0.0.0.0 pimpampum.tv
+0.0.0.0 pimpbunny.com
 0.0.0.0 pimplaroyal.cyou
 0.0.0.0 pimplecarvetoe.com
 0.0.0.0 pimpleinflammable.com
@@ -278836,6 +278838,7 @@
 0.0.0.0 pornhub.cool
 0.0.0.0 pornhub.ge
 0.0.0.0 pornhub.gratis
+0.0.0.0 pornhub.hu
 0.0.0.0 pornhub.place
 0.0.0.0 pornhub.wales
 0.0.0.0 pornhub22.xyz
@@ -485289,6 +485292,7 @@
 0.0.0.0 xhamster.tv
 0.0.0.0 xhamster.xyz
 0.0.0.0 xhamster18.desi
+0.0.0.0 xhamster19.com
 0.0.0.0 xhamster2.com
 0.0.0.0 xhamster3.com
 0.0.0.0 xhamster4.za.com
@@ -492555,6 +492559,7 @@
 0.0.0.0 youjiudilai.com
 0.0.0.0 youjiz.org
 0.0.0.0 youjizz-gay.com
+0.0.0.0 youjizz.com
 0.0.0.0 youku-acs.m.taobao.com
 0.0.0.0 youku-crm-product.youku.com
 0.0.0.0 youku.vc
