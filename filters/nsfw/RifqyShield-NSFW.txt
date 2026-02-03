@@ -101,3 +101,5 @@ RifqyShield NSFW | Always Updated
 *.pimpbunny.com
 *.icanread.io
 *.xhamster19.com
+*.xhpingcdn.com
+*.gkhsmedia.quest
