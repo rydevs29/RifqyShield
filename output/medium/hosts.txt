@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 501003
+# Total Domains: 501005
 
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
@@ -183226,6 +183226,7 @@
 0.0.0.0 gkgktibd.com
 0.0.0.0 gkgs88.com
 0.0.0.0 gkhkmodocwnzu.site
+0.0.0.0 gkhsmedia.quest
 0.0.0.0 gkihrlitlfndl.space
 0.0.0.0 gkiqilinrzqfy.site
 0.0.0.0 gkiymzihcndek.website
@@ -486983,6 +486984,7 @@
 0.0.0.0 xhost.ro
 0.0.0.0 xhovaqdubabj.com
 0.0.0.0 xhpdz.com
+0.0.0.0 xhpingcdn.com
 0.0.0.0 xhqxmovies.com
 0.0.0.0 xhr.invl.co
 0.0.0.0 xhrhamnlzddyk.space
