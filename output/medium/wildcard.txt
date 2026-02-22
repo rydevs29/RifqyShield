@@ -1,5 +1,5 @@
 # RifqyShield Medium Wildcard List
-# Total Domains: 507156
+# Total Domains: 507162
 
 *.0--0.info
 *.0--4.com
@@ -127977,6 +127977,7 @@
 *.changeip.org
 *.changelesschoir.com
 *.changelifer.biz
+*.changelink.ink
 *.changelink.pro
 *.changelink.site
 *.changelog.sentry.io
@@ -180714,6 +180715,7 @@
 *.g6439.com
 *.g650.delcotimes.com
 *.g66ryy88z.com
+*.g66top.me
 *.g68600.com
 *.g68604.com
 *.g68606.com
@@ -199476,6 +199478,7 @@
 *.hoki88.com
 *.hoki88bos.com
 *.hokibagus.club
+*.hokiberjaya.store
 *.hokidana.vip
 *.hokie.co
 *.hokiemas88-a.online
@@ -255230,6 +255233,7 @@
 *.mylincoln.lincolnelectric.com
 *.mylink-today.com
 *.mylink.ai.in
+*.mylink.bond
 *.mylinkbio.com
 *.mylinkinb.io
 *.mylinks.net.br
@@ -270216,6 +270220,7 @@
 *.online.miarroba.com
 *.online.mik123.com
 *.online.mps-gba.de
+*.online.rajapanengacor.pics
 *.online.selecters.digital
 *.online.sovendus.com
 *.online.thenottingham-intermediaries.com
@@ -330290,6 +330295,7 @@
 *.splash.unity.cn
 *.splashandsunshine.com
 *.splashfailed.com
+*.splashsupperclub.com
 *.splashurl.com
 *.splask-analytics.jdn.gov.my
 *.splask-analytics.mampu.gov.my

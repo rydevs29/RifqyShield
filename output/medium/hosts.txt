@@ -1,5 +1,5 @@
 # RifqyShield Medium List
-# Total Domains: 507156
+# Total Domains: 507162
 
 0.0.0.0 0--0.info
 0.0.0.0 0--4.com
@@ -127977,6 +127977,7 @@
 0.0.0.0 changeip.org
 0.0.0.0 changelesschoir.com
 0.0.0.0 changelifer.biz
+0.0.0.0 changelink.ink
 0.0.0.0 changelink.pro
 0.0.0.0 changelink.site
 0.0.0.0 changelog.sentry.io
@@ -180714,6 +180715,7 @@
 0.0.0.0 g6439.com
 0.0.0.0 g650.delcotimes.com
 0.0.0.0 g66ryy88z.com
+0.0.0.0 g66top.me
 0.0.0.0 g68600.com
 0.0.0.0 g68604.com
 0.0.0.0 g68606.com
@@ -199476,6 +199478,7 @@
 0.0.0.0 hoki88.com
 0.0.0.0 hoki88bos.com
 0.0.0.0 hokibagus.club
+0.0.0.0 hokiberjaya.store
 0.0.0.0 hokidana.vip
 0.0.0.0 hokie.co
 0.0.0.0 hokiemas88-a.online
@@ -255230,6 +255233,7 @@
 0.0.0.0 mylincoln.lincolnelectric.com
 0.0.0.0 mylink-today.com
 0.0.0.0 mylink.ai.in
+0.0.0.0 mylink.bond
 0.0.0.0 mylinkbio.com
 0.0.0.0 mylinkinb.io
 0.0.0.0 mylinks.net.br
@@ -270216,6 +270220,7 @@
 0.0.0.0 online.miarroba.com
 0.0.0.0 online.mik123.com
 0.0.0.0 online.mps-gba.de
+0.0.0.0 online.rajapanengacor.pics
 0.0.0.0 online.selecters.digital
 0.0.0.0 online.sovendus.com
 0.0.0.0 online.thenottingham-intermediaries.com
@@ -330290,6 +330295,7 @@
 0.0.0.0 splash.unity.cn
 0.0.0.0 splashandsunshine.com
 0.0.0.0 splashfailed.com
+0.0.0.0 splashsupperclub.com
 0.0.0.0 splashurl.com
 0.0.0.0 splask-analytics.jdn.gov.my
 0.0.0.0 splask-analytics.mampu.gov.my
