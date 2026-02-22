@@ -91,3 +91,10 @@ RifqyShield Blocklist GAMBLING | Always Updated
 *.linkportal.click
 *.minify.biz
 *.kacegacor.com
+*.ln.run
+*.changelink.ink
+*.online.rajapanengacor.pics
+*.g66top.me
+*.mylink.bond
+*.splashsupperclub.com
+*.hokiberjaya.store
