@@ -41,6 +41,7 @@ FILES_NSFW_GAMBLING = [
 FILES_BIG_DATA = [
     "filters/blocklist/GoodbyeAds-Ultra.txt", # Ini gabungan Hagezi + BlocklistProject
     "filters/blocklist/RifqyShield-Anti-PopUP.txt",
+    "filters/blocklist/dga7.txt",
     "filters/blocklist/ultimate.txt",
 ]
 
