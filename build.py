@@ -16,6 +16,7 @@ FILES_OEM_TRACKER = [
     "filters/tracking/tracking-xiaomi.txt",
     "filters/tracking/tracking-amazon.txt",
     "filters/tracking/tracking-tiktok.txt",
+    "filters/tracking/tracking-tiktok2.txt",
     "filters/tracking/tracking-winoffice.txt",
     "filters/tracking/tracking-apple.txt",
     "filters/redirect/urlshortener.txt",
@@ -27,6 +28,7 @@ FILES_OEM_TRACKER = [
 ]
 
 FILES_SPECIFIC = [
+    "filters/blocklist/dga7.txt",
     "filters/blocklist/oisd-small.txt",
 ]
 
@@ -41,7 +43,6 @@ FILES_NSFW_GAMBLING = [
 FILES_BIG_DATA = [
     "filters/blocklist/GoodbyeAds-Ultra.txt", # Ini gabungan Hagezi + BlocklistProject
     "filters/blocklist/RifqyShield-Anti-PopUP.txt",
-    "filters/blocklist/dga7.txt",
     "filters/blocklist/ultimate.txt",
 ]
 
