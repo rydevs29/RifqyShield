@@ -35,7 +35,7 @@ FILES_SPECIFIC = [
 FILES_NSFW_GAMBLING = [
     "filters/nsfw/RifqyShield-NSFW.txt",
     "filters/nsfw/hostsVN-NSFW.txt",
-    "filters/blocklist/Hagezi-ProPlus.txt",
+    "filters/blocklist/pro-plus.txt",
     "filters/gambling/RifqyShield-Gambling.txt",
     "filters/gambling/hostsVN-Gambling.txt",
 ]
