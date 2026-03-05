@@ -25,13 +25,16 @@ jobs:
           # 2. Download OISD SMALL (Disimpan terpisah)
           curl -sL https://raw.githubusercontent.com/cbuijs/oisd/refs/heads/master/small/domains > filters/blocklist/oisd-small.txt
 
+          # 3. Download Hagezi ProPlus (Tambahan)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.plus.txt > filters/blocklist/pro-plus.txt
+
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Update hanya file ultimate.txt dan oisd-small.txt
-          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt
+          # Update file ultimate.txt, oisd-small.txt, dan pro-plus.txt
+          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt filters/blocklist/pro-plus.txt
           
-          git commit -m "Sync: Hagezi Ultimate + OISD Small" || echo "No changes to commit"
+          git commit -m "Sync: Hagezi Ultimate + OISD Small + Hagezi ProPlus" || echo "No changes to commit"
           git push
