@@ -5,12 +5,12 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 
 | Category              | Source                             | Status                |
 |-----------------------|------------------------------------|-----------------------|
-| **Ads & Trackers** | Hagezi Ultimate, OISD-Small | ✅ Active |
+| **Ads & Trackers** | Hagezi Ultimate, Hagezi Pro-Plus, OISD-Small | ✅ Active |
 | **YouTube/Spotify** | GoodbyeAds, RifqyShield Custom, Spotify-AdsList           | ✅ Active |
 | **NSFW & Gambling** | OISD, Hagezi, hostsVN, RifqyShield Custom | ✅ Active |
-| **Malware & Phishing**| Hagezi Ultimate, OISD-Small | ✅ Active |
+| **Malware & Phishing**| Hagezi Ultimate, Hagezi Pro-Plus, OISD-Small | ✅ Active |
 
-**📊 Total Unique Domains: 1,048,801** (Optimized & Deduplicated)
+**📊 Total Unique Domains: 2,003,379** (Optimized & Deduplicated)
 
 ---
 
@@ -38,4 +38,4 @@ MIT
 
 **GitHub:** [Open Github RifqyShield](https://github.com/rydevs29/RifqyShield)  
 
-*Last updated: January 23, 2026*
+*Last updated: March 5, 2026*
