@@ -6,6 +6,7 @@ RifqyShield Blocklist GAMBLING | Always Updated
 
 *.jackpotdipj.store
 *.link789.io
+*.minumkiranti.store
 *.linkawal.art
 *.kotabali.xyz
 *.www.dottemobilegrocer.com
