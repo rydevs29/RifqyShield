@@ -28,13 +28,19 @@ jobs:
           # 3. Download Hagezi ProPlus (Tambahan)
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.plus.txt > filters/blocklist/pro-plus.txt
 
+          # 4. Download Hagezi TIF (Tambahan)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/tif.txt > filters/blocklist/tif.txt
+
+          # 5. Download Hagezi DGA7 (Tambahan)
+          curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/dga7.txt > filters/blocklist/dga7.txt
+
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Update file ultimate.txt, oisd-small.txt, dan pro-plus.txt
-          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt filters/blocklist/pro-plus.txt
+          # Update file ultimate.txt, oisd-small.txt, pro-plus.txt, tif.txt, dan dga7.txt
+          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt filters/blocklist/pro-plus.txt filters/blocklist/tif.txt filters/blocklist/dga7.txt
           
-          git commit -m "Sync: Hagezi Ultimate + OISD Small + Hagezi ProPlus" || echo "No changes to commit"
+          git commit -m "Sync: Hagezi Ultimate + OISD Small + Hagezi ProPlus + Hagezi TIF + Hagezi DGA7" || echo "No changes to commit"
           git push
