@@ -17,7 +17,7 @@ jobs:
 
       - name: Download external blocklists
         run: |
-          mkdir -p filters/blocklist
+          mkdir -p filters/blocklist filters/gambling filters/nsfw
           
           # 1. Download Hagezi Ultimate (Sumber Utama)
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt > filters/blocklist/ultimate.txt
@@ -34,13 +34,19 @@ jobs:
           # 5. Download Hagezi DGA7 (Tambahan)
           curl -sL https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/adblock/dga7.txt > filters/blocklist/dga7.txt
 
+          # 6. Download hostsVN Gambling (Tambahan)
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/gambling/filter.txt > filters/gambling/hostsVN-Gambling.txt
+
+          # 7. Download hostsVN NSFW (Tambahan)
+          curl -sL https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/adult/filter.txt > filters/nsfw/hostsVN-NSFW.txt
+
       - name: Commit & Push changes
         run: |
           git config --global user.name "RifqyBot"
           git config --global user.email "bot@rifqyshield.local"
           
-          # Update file ultimate.txt, oisd-small.txt, pro-plus.txt, tif.txt, dan dga7.txt
-          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt filters/blocklist/pro-plus.txt filters/blocklist/tif.txt filters/blocklist/dga7.txt
+          # Update file ultimate.txt, oisd-small.txt, pro-plus.txt, tif.txt, dga7.txt, hostsVN-Gambling.txt, dan hostsVN-NSFW.txt
+          git add filters/blocklist/ultimate.txt filters/blocklist/oisd-small.txt filters/blocklist/pro-plus.txt filters/blocklist/tif.txt filters/blocklist/dga7.txt filters/gambling/hostsVN-Gambling.txt filters/nsfw/hostsVN-NSFW.txt
           
-          git commit -m "Sync: Hagezi Ultimate + OISD Small + Hagezi ProPlus + Hagezi TIF + Hagezi DGA7" || echo "No changes to commit"
+          git commit -m "Sync: Hagezi Ultimate + OISD Small + Hagezi ProPlus + Hagezi TIF + Hagezi DGA7 + hostsVN Gambling + hostsVN NSFW" || echo "No changes to commit"
           git push
