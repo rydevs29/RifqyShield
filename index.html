@@ -355,6 +355,27 @@
 </div>
 
 <script>
+    // --- 1. Fungsi Telemetry Baru (Tidak mengubah struktur web) ---
+    async function sendLogToRifqy(projectName, eventName, status = 'info', details = {}) {
+        const telemetryUrl = 'https://telemetry.rifqydev.my.id/api/log'; 
+        try {
+            await fetch(telemetryUrl, {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ project: projectName, event: eventName, status, details }),
+                keepalive: true
+            });
+        } catch (error) {
+            console.error("Telemetry failed:", error);
+        }
+    }
+
+    // --- 2. Catat saat halaman RifqyShield dibuka ---
+    window.addEventListener('DOMContentLoaded', () => {
+        sendLogToRifqy('RifqyShield', 'PAGE_VIEW', 'success', { action: 'Landing page loaded' });
+    });
+
+    // --- 3. Fungsi asli kamu (Diubah sedikit untuk ngirim log) ---
     function copyLink(btn, path) {
         const baseUrl = "https://raw.githubusercontent.com/rydevs29/RifqyShield/main/output/";
         const fullUrl = baseUrl + path;
@@ -362,6 +383,10 @@
         navigator.clipboard.writeText(fullUrl).then(() => {
             const originalText = btn.innerHTML;
             btn.innerHTML = "<span style='color: #10b981; font-weight: bold;'>Copied! ✅</span>";
+            
+            // Mengirim log ke Telemetry saat user berhasil copy link
+            sendLogToRifqy('RifqyShield', 'LINK_COPIED', 'success', { list_type: path });
+
             setTimeout(() => {
                 btn.innerHTML = originalText;
             }, 1500);
