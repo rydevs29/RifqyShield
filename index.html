@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RifqyShield - Ultimate DNS Blocklist</title>
+    <title>RifqyShield</title>
     <meta name="description" content="Comprehensive DNS blocklist with specific focus on Mobile OEM Tracking, Ads, and Malware protection.">
     <style>
         /* UI/UX Upgrade: Modern Color Palette & Variables */
@@ -346,6 +346,26 @@
             </div>
         </div>
 
+        <div class="card">
+            <div class="card-badge">Streaming</div>
+            <h3>🛡️ STREAM-ADS</h3>
+            <p><strong>Media & Streaming Focus.</strong> Dedicated blocklist specifically targeting ads on video and audio streaming platforms.</p>
+            <div class="copy-group">
+                <button class="copy-btn" onclick="copyLink(this, 'stream-ads/adblock.txt')">
+                    <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'stream-ads/hosts.txt')">
+                    <span class="format">Hosts</span> <span>AdGuard Home</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'stream-ads/plain.txt')">
+                    <span class="format">Plain</span> <span>NextDNS / Router</span>
+                </button>
+                <button class="copy-btn" onclick="copyLink(this, 'stream-ads/wildcard.txt')">
+                    <span class="format">Wildcard</span> <span>Dnsmasq / SmartDNS</span>
+                </button>
+            </div>
+        </div>
+
     </div>
 
     <footer>
@@ -355,27 +375,6 @@
 </div>
 
 <script>
-    // --- 1. Fungsi Telemetry Baru (Tidak mengubah struktur web) ---
-    async function sendLogToRifqy(projectName, eventName, status = 'info', details = {}) {
-        const telemetryUrl = 'https://telemetry.rifqydev.my.id/api/log'; 
-        try {
-            await fetch(telemetryUrl, {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ project: projectName, event: eventName, status, details }),
-                keepalive: true
-            });
-        } catch (error) {
-            console.error("Telemetry failed:", error);
-        }
-    }
-
-    // --- 2. Catat saat halaman RifqyShield dibuka ---
-    window.addEventListener('DOMContentLoaded', () => {
-        sendLogToRifqy('RifqyShield', 'PAGE_VIEW', 'success', { action: 'Landing page loaded' });
-    });
-
-    // --- 3. Fungsi asli kamu (Diubah sedikit untuk ngirim log) ---
     function copyLink(btn, path) {
         const baseUrl = "https://raw.githubusercontent.com/rydevs29/RifqyShield/main/output/";
         const fullUrl = baseUrl + path;
@@ -383,10 +382,6 @@
         navigator.clipboard.writeText(fullUrl).then(() => {
             const originalText = btn.innerHTML;
             btn.innerHTML = "<span style='color: #10b981; font-weight: bold;'>Copied! ✅</span>";
-            
-            // Mengirim log ke Telemetry saat user berhasil copy link
-            sendLogToRifqy('RifqyShield', 'LINK_COPIED', 'success', { list_type: path });
-
             setTimeout(() => {
                 btn.innerHTML = originalText;
             }, 1500);
