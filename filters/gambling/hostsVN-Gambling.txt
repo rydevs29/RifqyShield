@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 29 May 2026 13:53 UTC+7
-! Version: 2605291353
-! Blocked: 64.221 rules
+! Last modified: 03 Jun 2026 14:19 UTC+7
+! Version: 2606031419
+! Blocked: 64.231 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -26506,6 +26506,7 @@
 ||8j86.com^
 ||8j8b8o.com^
 ||8jb0.com^
+||8jvf.katawee.net^
 ||8jxf.net^
 ||8k-fbff11-2286776.w2.app^
 ||8k-vw33sx-6.buzz^
@@ -36690,6 +36691,8 @@
 ||cm1xbet.mobi^
 ||cm288802.com^
 ||cm5536.com^
+||cm88.com^
+||cm8806.com^
 ||cma.pt.cdn-bebo.com^
 ||cmbi.gcpimg.com^
 ||cmd128.com^
@@ -41298,6 +41301,7 @@
 ||gvn3.com^
 ||gw.gen88.com^
 ||gw.mubet.vip^
+||gw.tot88.store^
 ||gw.zqvnn.com^
 ||gw46.vip^
 ||gwfd.katawee.net^
@@ -46317,6 +46321,7 @@
 ||jre96.com^
 ||jrp8g.com^
 ||jrpwwrj.xyz^
+||jrt.in.net^
 ||jrurfrbuaeufrnaily.xyz^
 ||js.static-fe-tool.com^
 ||js00678.com^
@@ -54116,6 +54121,7 @@
 ||rrlapp168.com^
 ||rrrbro.xyz^
 ||rrucz.com^
+||rs88a.com^
 ||rs99.fun^
 ||rsg18.com^
 ||rstat.rockmostbet.com^
@@ -54268,6 +54274,7 @@
 ||s34034.com^
 ||s4.gen88.com^
 ||s4.mubet.vip^
+||s4.tot88.store^
 ||s4166.com^
 ||s43439.com^
 ||s4424.com^
@@ -54301,7 +54308,9 @@
 ||s79178.com^
 ||s84.bet^
 ||s87huuio.com^
+||s88.game^
 ||s886666.com^
+||s88a.com^
 ||s88plus.com^
 ||s9296.com^
 ||s999.com^
@@ -56908,6 +56917,7 @@
 ||tot111.com^
 ||tot222.com^
 ||tot88.com^
+||tot88.store^
 ||totaltiltsports.com^
 ||tote.co.uk^
 ||tourghepmienbac.net^
