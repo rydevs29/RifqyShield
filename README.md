@@ -36,6 +36,6 @@ To report domains that are not blocked properly, please open an issue.
 ### 📜 License
 MIT
 
-**WEB:** [Open RifqyShield Website](https://shield.rifqydev.my.id)  
+**WEB:** [Open RifqyShield Website](https://rydevs29.github.io/RifqyShield/)  
 
 *Last updated: April 8, 2026*
