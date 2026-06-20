@@ -38,4 +38,4 @@ MIT
 
 **WEB:** [Open RifqyShield Website](https://rydevs29.github.io/RifqyShield/)  
 
-*Last updated: April 8, 2026*
+*Last updated: June 20, 2026*
