@@ -1,8 +1,8 @@
 ! Title: hostsVN Gambling
 ! Description: Only include gambling domains
-! Last modified: 19 Jun 2026 22:28 UTC+7
-! Version: 2606192228
-! Blocked: 64.404 rules
+! Last modified: 26 Jun 2026 09:57 UTC+7
+! Version: 2606260957
+! Blocked: 64.481 rules
 ! Expires: 1 days (update frequency)
 ! Homepage: https://bigdargon.github.io/hostsVN/
 !
@@ -14273,6 +14273,7 @@
 ||3kingvn02.com^
 ||3m.gaejkse.com^
 ||3nohu.com^
+||3petitschats.tv^
 ||3pg88.vip^
 ||3pkwin.com^
 ||3ptienve.com^
@@ -32017,6 +32018,7 @@
 ||apaldo97.com^
 ||apaldowin.com^
 ||apex888.com^
+||api-client.okvipworldcup.com^
 ||api-client.tgcgame2024.com^
 ||api-csn-s.gameland.today^
 ||api-csn-s.gameland.zone^
@@ -32825,6 +32827,7 @@
 ||ball88.day^
 ||ball88.fun^
 ||ball88.games^
+||ball88.llc^
 ||ball88.mobi^
 ||ball88.red^
 ||ball88.to^
@@ -34786,8 +34789,10 @@
 ||bom28.com^
 ||bom52.club^
 ||bom88.com^
+||bom88.cool^
 ||bom88.ing^
 ||bom88.net^
+||bom88.pics^
 ||bomei66.com^
 ||bomtanhoitu.live^
 ||bomvip.club^
@@ -35831,6 +35836,7 @@
 ||c12031.com^
 ||c1366.com^
 ||c13877.com^
+||c16804.com^
 ||c1689.net^
 ||c168f.com^
 ||c168i.top^
@@ -36451,6 +36457,7 @@
 ||cdndown.fhcasino.com^
 ||cdnjiasuss.com^
 ||cdnnetworks.net^
+||cdnokvip.com^
 ||cdntoos.039hdjscdn.com^
 ||cdntoos.039jiasuoss.com^
 ||cdok8.com^
@@ -36726,6 +36733,7 @@
 ||cm5536.com^
 ||cm88.com^
 ||cm8806.com^
+||cm88v2.com^
 ||cma.pt.cdn-bebo.com^
 ||cmbi.gcpimg.com^
 ||cmd128.com^
@@ -37166,6 +37174,7 @@
 ||cskh98win.com^
 ||cskh99-com.7b99ok.com^
 ||cskh99.com^
+||cskhkjc.com^
 ||csn.v9vnb.org^
 ||csnsurewin.site^
 ||csportm.cmd128.com^
@@ -37281,6 +37290,7 @@
 ||d1.debet.gs^
 ||d1.debet.info^
 ||d1.debet.lc^
+||d1.debet.med^
 ||d1.debet.mp^
 ||d1.debet.mw^
 ||d1.debet.sc^
@@ -37930,6 +37940,7 @@
 ||debet.info^
 ||debet.lc^
 ||debet.lv^
+||debet.med^
 ||debet.moi^
 ||debet.mp^
 ||debet.mw^
@@ -37953,9 +37964,11 @@
 ||debet79.info^
 ||debet88.win^
 ||debet99.com^
+||debetchinhhang.top^
 ||deca.bet^
 ||deca88.com^
 ||dedeni.cn^
+||deeprajrana.me^
 ||def23.vip^
 ||deltin7.com^
 ||deltin77.com^
@@ -39015,6 +39028,7 @@
 ||f8betdl01.pages.dev^
 ||f8bete.com^
 ||f8betee.com^
+||f8betf.city^
 ||f8betf.com^
 ||f8betff.com^
 ||f8betg.com^
@@ -39505,6 +39519,7 @@
 ||five88.id^
 ||five88.in^
 ||five88.lc^
+||five88.my^
 ||five88.net^
 ||five88.ng^
 ||five88.nl^
@@ -39520,6 +39535,7 @@
 ||five88.wine^
 ||five88.world^
 ||five88bet.com^
+||five88chinhhang.com^
 ||fixkeep.xyz^
 ||fixlover.xyz^
 ||fj-fff.com^
@@ -39564,6 +39580,7 @@
 ||flp88.com^
 ||fluc986.com^
 ||flux68.com^
+||fly88.llc^
 ||fm-88.top^
 ||fm33.top^
 ||fm666.xyz^
@@ -40922,12 +40939,16 @@
 ||geiqianle.com^
 ||gem.win^
 ||gem1.win^
+||gem88.biz^
 ||gem88.com^
 ||gem88.guru^
+||gem88.vet^
 ||gem88.win^
 ||gemarlapsbo.com^
 ||gemblondong77.xyz^
+||gemwin.cab^
 ||gemwin.fm^
+||gemwin.fyi^
 ||gemwin.ink^
 ||gemwin.is^
 ||gemwin.lc^
@@ -40936,11 +40957,13 @@
 ||gemwin.nz^
 ||gemwin.onl^
 ||gemwin.page^
+||gemwin.tax^
 ||gemwin.to^
 ||gemwin.tv^
 ||gemwin.vc^
 ||gemwin.vin^
 ||gemwin.vip^
+||gemwinchinhhang.com^
 ||gen88.com^
 ||genshin.vua69.com^
 ||getbiko.xyz^
@@ -40950,6 +40973,7 @@
 ||getoy.xyz^
 ||getrichkr.com^
 ||getset128.com^
+||getsub.top^
 ||gfcsg.com^
 ||gfn2try7.vip^
 ||gg-777.app^
@@ -42766,6 +42790,7 @@
 ||hitclub.fun^
 ||hitclub.guitars^
 ||hitclub.in^
+||hitclub.ist^
 ||hitclub.lc^
 ||hitclub.lt^
 ||hitclub.lv^
@@ -42784,6 +42809,7 @@
 ||hitclub.win^
 ||hitclub33.win^
 ||hitclubapp.cfd^
+||hitclubchinhhang.com^
 ||hitclubcom.org^
 ||hitech6.com^
 ||hiwinee.com^
@@ -44449,7 +44475,9 @@
 ||images.484930494.com^
 ||images.5554287.com^
 ||images.6440949940.com^
+||images.6754495.com^
 ||images.6929183.com^
+||images.7087053.com^
 ||images.7814157.com^
 ||images.847830.com^
 ||images.9734232.com^
@@ -44459,6 +44487,7 @@
 ||images.b728484.com^
 ||images.b771960.com^
 ||images.jjpp.cloud^
+||images.okvip66.com^
 ||images.xdfg.cloud^
 ||imba88.live^
 ||imbanker.com^
@@ -47994,7 +48023,16 @@
 ||kj3698.com^
 ||kj777.com^
 ||kjapi.com^
+||kjc-cd-483.pages.dev^
+||kjc-core-link.pages.dev^
+||kjc20250.com^
+||kjc20252.com^
+||kjc20253.com^
+||kjc20256.com^
+||kjc20257.com^
+||kjc20258.com^
 ||kjcctcwv.com^
+||kjcvn.com^
 ||kjyzh.xyz^
 ||kk1138.com^
 ||kk1255.com^
@@ -48915,6 +48953,7 @@
 ||link-1jw.pages.dev^
 ||link-99kk.pages.dev^
 ||link.vuabai9.com^
+||link.wild-sound-c240.workers.dev^
 ||link123b.com^
 ||link88-23win.pages.dev^
 ||linkbk8.com^
@@ -48924,6 +48963,7 @@
 ||linknayduoc.fun^
 ||linkonev9.com^
 ||linktha1.com^
+||linktrunggian.vip^
 ||linkvaobong88ag.vip^
 ||linkvaobong88w88.com^
 ||linkwebv901.com^
@@ -48947,6 +48987,7 @@
 ||liubiwei.com^
 ||liupeichen.com^
 ||live-racing-sbobet.com^
+||live.kjc20250.com^
 ||live.vuabai9.com^
 ||liveang.xyz^
 ||livebet9.com^
@@ -50019,6 +50060,7 @@
 ||m.d5m9w.xyz^
 ||m.elo88.com^
 ||m.f1689.com^
+||m.f8betf.city^
 ||m.fbking33.com^
 ||m.fffggg678.online^
 ||m.five88.com^
@@ -50049,6 +50091,7 @@
 ||m.ms88ca.com^
 ||m.nabnrlcaix.com^
 ||m.ok365bet.cc^
+||m.okvipcj.com^
 ||m.oleviet777.com^
 ||m.oppa888.com^
 ||m.qq288.com^
@@ -50097,6 +50140,7 @@
 ||m1.ball88.com^
 ||m1.ball88.fun^
 ||m1.ball88.games^
+||m1.ball88.llc^
 ||m1.ball88.mobi^
 ||m1.ball88.red^
 ||m1.ball88.to^
@@ -50549,6 +50593,7 @@
 ||megagacor88.com^
 ||megagame66.live^
 ||megahe.xyz^
+||megalive.kjc20256.com^
 ||megalive.vip^
 ||megapari-partners.com^
 ||megapari.com^
@@ -51468,6 +51513,7 @@
 ||new88dd.com^
 ||new88ee.com^
 ||new88f.com^
+||new88f8.cc^
 ||new88g.com^
 ||new88h.com^
 ||new88hh.com^
@@ -51516,6 +51562,7 @@
 ||nextnba.com^
 ||nextsb.net^
 ||nexusde.xyz^
+||ngaymoinangluong.vip^
 ||ngeloneng.com^
 ||ngoaihang88.com^
 ||ngoaihang88.net^
@@ -51543,10 +51590,12 @@
 ||nhanthuong88.com^
 ||nhat.bet^
 ||nhat.bh^
+||nhat.bz^
 ||nhat.cx^
 ||nhat.game^
 ||nhat.is^
 ||nhat.it^
+||nhat.kim^
 ||nhat.my^
 ||nhat.one^
 ||nhat.pw^
@@ -51566,6 +51615,7 @@
 ||nhatvip.vip^
 ||nhatvip.wiki^
 ||nhftfx.com^
+||nhieudealgiare.vip^
 ||nhyc88.com^
 ||ni8dsh5.buzz^
 ||niao2.com^
@@ -51917,6 +51967,7 @@
 ||ok365mm.cc^
 ||ok368.org^
 ||ok4466.vip^
+||ok83863.com^
 ||ok888.bet^
 ||ok888.biz^
 ||ok888.vip^
@@ -51927,6 +51978,7 @@
 ||ok999.me^
 ||ok9a.link^
 ||ok9aa.com^
+||ok9c9.com^
 ||ok9vip8.com^
 ||okada.app^
 ||okada1.com^
@@ -51934,6 +51986,7 @@
 ||okcado.com^
 ||okcado.org^
 ||okgame.bet^
+||okgift.pro^
 ||okjoyart.xyz^
 ||okjoyn.xyz^
 ||okking.com^
@@ -51943,15 +51996,21 @@
 ||okking75.com^
 ||oklavip16.com^
 ||oklink8386.com^
+||oklive.co^
 ||okvip.fun^
 ||okvip.life^
 ||okvip.pro^
 ||okvip.today^
 ||okvip.win^
+||okvip66.com^
 ||okvipae.com^
+||okvipci.com^
+||okvipcj.com^
+||okvipcskh.com^
 ||okviplinks.com^
 ||okvipteamee-com.okviplinks.com^
 ||okvipteamee.com^
+||okvipworldcup.com^
 ||okvnd33.com^
 ||okwin.io^
 ||olahragawanbola.com^
@@ -54381,7 +54440,9 @@
 ||s26bet1.com^
 ||s26bet2.com^
 ||s2ffvb10.vip^
+||s3.cdnokvip.com^
 ||s3.sin88.fo^
+||s3.sin88.gdn^
 ||s3.sin88.lu^
 ||s3.sin88.ml^
 ||s3.sin88.ms^
@@ -54734,6 +54795,7 @@
 ||sc.adelement.com^
 ||sc2.sc^
 ||sc3866.vip^
+||sc8804.com^
 ||sc881.com^
 ||sc881.net^
 ||sc887.co^
@@ -55251,6 +55313,7 @@
 ||sin88.com^
 ||sin88.cv^
 ||sin88.fo^
+||sin88.gdn^
 ||sin88.im^
 ||sin88.lu^
 ||sin88.me^
@@ -55266,6 +55329,7 @@
 ||sin88.us^
 ||sin88.vip^
 ||sin88.win^
+||sin88chinhhang.com^
 ||sin88s.com^
 ||sinbet.com^
 ||sinbet.vip^
@@ -55282,6 +55346,7 @@
 ||sk.ball88.com^
 ||sk.ball88.day^
 ||sk.ball88.fun^
+||sk.ball88.llc^
 ||sk.ball88.mobi^
 ||sk.ball88.to^
 ||sk.ball88.zone^
@@ -55290,11 +55355,13 @@
 ||sk.debet.gs^
 ||sk.debet.lc^
 ||sk.debet.lv^
+||sk.debet.med^
 ||sk.debet.mw^
 ||sk.debet.st^
 ||sk.debet.vg^
 ||sk.fm88.com^
 ||sk.sin88.fo^
+||sk.sin88.gdn^
 ||sk.sin88.lu^
 ||sk.sin88.ml^
 ||sk.sin88.ms^
@@ -55688,6 +55755,7 @@
 ||static-3.jojodios.com^
 ||static-fe-tool.com^
 ||static-fe.c3-tool.com^
+||static-gem88.stwostatic.com^
 ||static-imftp.mbzp67c522.com^
 ||static-ire1.mrslotty.com^
 ||static-mobile-vn.mbzp67c522.com^
@@ -55906,6 +55974,7 @@
 ||sv88.win^
 ||sv888ae888.com^
 ||sv88a.com^
+||sv88chinhhang.com^
 ||sv88d.com^
 ||sv88r.com^
 ||sv88vn.com^
@@ -57049,6 +57118,7 @@
 ||topjuju.xyz^
 ||topkubet.com^
 ||topl.pages.dev^
+||topnhahangsg.vip^
 ||topnohu.com^
 ||tops777.com^
 ||topshelfaction.com^
@@ -58103,6 +58173,7 @@
 ||v.567440.com^
 ||v.fa88.tv^
 ||v.hitclub.in^
+||v.hitclub.ist^
 ||v.hitclub.lv^
 ||v.hitclub.ml^
 ||v.hitclub.mu^
@@ -58682,7 +58753,6 @@
 ||victorwin555.com^
 ||vicwin.vip^
 ||vidor168.com^
-||vidwestxyz.com^
 ||vietclub.net^
 ||vietfun88.com^
 ||vietnam666.com^
@@ -60693,6 +60763,7 @@
 ||web.xvip21.win^
 ||web.xvip26.win^
 ||web.yo88.is^
+||web.yo88.ist^
 ||web.yo88.ml^
 ||web.yo88.so^
 ||web.yo88.st^
@@ -62529,6 +62600,7 @@
 ||xx19789.com^
 ||xx237.com^
 ||xx36230t.com^
+||xx4111.com^
 ||xx469.com^
 ||xx5156.com^
 ||xx554.com^
@@ -62537,6 +62609,7 @@
 ||xx836597.com^
 ||xx836599.com^
 ||xx889.com^
+||xx88seo.xx4111.com^
 ||xx959.com^
 ||xxgamblexx.com^
 ||xxhm99.com^
@@ -63837,6 +63910,7 @@
 ||yo88.ae^
 ||yo88.cool^
 ||yo88.is^
+||yo88.ist^
 ||yo88.ml^
 ||yo88.pw^
 ||yo88.so^
@@ -63845,6 +63919,7 @@
 ||yo88.vg^
 ||yo88.vu^
 ||yo88.win^
+||yo88chinhhang.com^
 ||yo88vn.com^
 ||yoneball.com^
 ||yongfazt.com^
@@ -64289,12 +64364,14 @@
 ||zowin.kim^
 ||zowin.mom^
 ||zowin.ng^
+||zowin.ph^
 ||zowin.red^
 ||zowin.sh^
 ||zowin.sx^
 ||zowin.tv^
 ||zowin.tw^
 ||zowin.uno^
+||zowin.vu^
 ||zowin.ws^
 ||zozo86.com^
 ||zp086.com^
