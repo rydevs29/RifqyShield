@@ -1,8 +1,7 @@
 # RifqyShield
 **The most comprehensive list, built and managed automatically using GitHub Actions, combining top community sources and specific custom filters.**
 
-No ads • No trackers • No adult content • No gambling • No YouTube/Spotify ads (show fewer ads)
-
+No ads • No trackers • No adult content • No gambling
 | Category              | Source                             | Status                |
 |-----------------------|------------------------------------|-----------------------|
 | **Ads & Trackers** | OISD-Small, Hagezi Trackers | ✅ Active |
