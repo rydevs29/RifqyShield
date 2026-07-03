@@ -15,7 +15,6 @@ LOCAL_NSFW_GAMBLING = [
 # 2. Definisi Sumber URL (Langsung download ke RAM, tanpa folder external)
 URLS_LITE = [
     "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_small.txt",
-    "https://easylist.to/easylist/easyprivacy.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.amazon-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.apple-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.huawei-onlydomains.txt",
