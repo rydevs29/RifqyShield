@@ -18,7 +18,7 @@ RifqyShield comes in three levels that have been deduplicated, ensuring you can 
 
 | Variant | Key Features | Key Benefits |
 | :--- | :--- | :--- |
-| **LITE** | **Performance & Anti-Mobile Tracker.** Blocks ads on smartphones, and Google ads.  | **Lightweight and Anti-Mobile Tracking** |
+| **LITE** | **Performance & Anti-Mobile Tracker.** Blocks ads on your phone and website tracking by sites such (Amazon, Apple, Xiaomi and others). | **Lightweight and Anti-Mobile Tracking** |
 | **MEDIUM** | **Combination of Lite Filter and Content Protection.** Adds aggressive NSFW and Gambling blocking. Ideal for family use. | **Balanced & Secure Content** |
 | **ULTIMATE** | **A combination of Medium and Global Giant Lists**  such as (1Hosts-Extra, Hagezi Ultimate Mini) for total protection from all threats. | **For maximum protection** |
 
