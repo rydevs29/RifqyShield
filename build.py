@@ -6,10 +6,7 @@ from datetime import datetime
 # ================= K O N F I G U R A S I  V A R I A N =================
 
 # 1. Definisi Sumber LOKAL (File buatan Anda di folder filters/)
-LOCAL_OEM_TRACKER = [
-    "filters/tracking/tracking-xiaomi.txt",
-    "filters/tracking/tracking-tiktok.txt",
-]
+# Note: Lokal Tracking dihapus sesuai instruksi.
 LOCAL_NSFW_GAMBLING = [
     "filters/nsfw/RifqyShield-NSFW.txt",
     "filters/gambling/RifqyShield-Gambling.txt",
@@ -19,13 +16,26 @@ LOCAL_NSFW_GAMBLING = [
 URLS_LITE = [
     "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_small.txt",
     "https://easylist.to/easylist/easyprivacy.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.amazon-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.apple-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.huawei-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.lgwebos-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.oppo-realme-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.samsung-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.vivo-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.winoffice-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.xiaomi-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.tiktok.extended-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/fake-onlydomains.txt",
 ]
+
 URLS_MEDIUM = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/multi-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/gambling.mini-onlydomains.txt",
     "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/extensions/porn/bigdargon/hosts",
     "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/subscriptions/hosts.txt",
 ]
+
 URLS_ULTIMATE = [
     "https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/domains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/ultimate.mini-onlydomains.txt",
@@ -34,15 +44,15 @@ URLS_ULTIMATE = [
 # 3. Penggabungan Varian (Hybrid: Lokal + URL)
 VARIANTS = {
     "lite": {
-        "files": LOCAL_OEM_TRACKER,
+        "files": [], 
         "urls": URLS_LITE
     },
     "medium": {
-        "files": LOCAL_OEM_TRACKER + LOCAL_NSFW_GAMBLING,
+        "files": LOCAL_NSFW_GAMBLING,
         "urls": URLS_LITE + URLS_MEDIUM
     },
     "ultimate": {
-        "files": LOCAL_OEM_TRACKER + LOCAL_NSFW_GAMBLING,
+        "files": LOCAL_NSFW_GAMBLING,
         "urls": URLS_LITE + URLS_MEDIUM + URLS_ULTIMATE
     }
 }
@@ -125,25 +135,69 @@ def write_files(variant_name, domains_list):
 
     print(f"  [{variant_name.upper()}] Menyimpan {total_count:,} domain ke {target_dir}/...")
 
-    with open(os.path.join(target_dir, 'plain.txt'), 'w') as f: f.write("\n".join(domains_list))
+    # 1. Plain
+    with open(os.path.join(target_dir, 'plain.txt'), 'w') as f: 
+        f.write("\n".join(domains_list))
+    
+    # 2. Hosts
     with open(os.path.join(target_dir, 'hosts.txt'), 'w') as f:
         f.write(header_hash + "127.0.0.1 localhost\n::1 localhost\n")
         for d in domains_list: f.write(f"0.0.0.0 {d}\n")
+    
+    # 3. Adblock
     with open(os.path.join(target_dir, 'adblock.txt'), 'w') as f:
         f.write(header_bang)
         for d in domains_list: f.write(f"||{d}^\n")
+    
+    # 4. AdGuard Home
+    with open(os.path.join(target_dir, 'adguard.txt'), 'w') as f:
+        f.write(header_bang)
+        for d in domains_list: f.write(f"||{d}^$important\n")
+    
+    # 5. DNSMasq
     with open(os.path.join(target_dir, 'dnsmasq.conf'), 'w') as f:
         f.write(header_hash)
         for d in domains_list: f.write(f"address=/{d}/0.0.0.0\n")
+    
+    # 6. MikroTik
     with open(os.path.join(target_dir, 'mikrotik.rsc'), 'w') as f:
         f.write(header_hash + "/ip dns static\n")
         for d in domains_list: f.write(f'add name="{d}" address=0.0.0.0\n')
+    
+    # 7. Unbound DNS
+    with open(os.path.join(target_dir, 'unbound.conf'), 'w') as f:
+        f.write(header_hash)
+        for d in domains_list: f.write(f'local-zone: "{d}" always_nxdomain\n')
+    
+    # 8. BIND DNS
+    with open(os.path.join(target_dir, 'bind.conf'), 'w') as f:
+        f.write(header_hash.replace('#', '//'))
+        for d in domains_list: f.write(f'zone "{d}" {{ type master; file "/etc/bind/db.empty"; }};\n')
+    
+    # 9. Surge
+    with open(os.path.join(target_dir, 'surge.list'), 'w') as f:
+        f.write(header_hash)
+        for d in domains_list: f.write(f"DOMAIN-SUFFIX,{d},REJECT\n")
+    
+    # 10. Clash / Clash Meta
+    with open(os.path.join(target_dir, 'clash.yaml'), 'w') as f:
+        f.write(header_hash + "payload:\n")
+        for d in domains_list: f.write(f"  - DOMAIN-SUFFIX,{d}\n")
+    
+    # 11. Quantumult X
+    with open(os.path.join(target_dir, 'quantumultx.list'), 'w') as f:
+        f.write(header_hash)
+        for d in domains_list: f.write(f"HOST-SUFFIX,{d},reject\n")
+    
+    # 12. Loon
+    with open(os.path.join(target_dir, 'loon.list'), 'w') as f:
+        f.write(header_hash)
+        for d in domains_list: f.write(f"DOMAIN-SUFFIX,{d},REJECT\n")
+    
+    # 13. Wildcard
     with open(os.path.join(target_dir, 'wildcard.txt'), 'w') as f:
         f.write(header_hash)
         for d in domains_list: f.write(f"*.{d}\n")
-    
-    # Tambahkan format lain (AdGuard, Unbound, BIND, Surge, Clash, dll) dengan cara yang sama seperti di atas...
-    # (Kode disingkat sedikit di fungsi write_files agar fokus ke logika, tapi bisa ditambahkan full 13 format).
 
 def main():
     print("="*50)
@@ -168,7 +222,6 @@ def main():
         variant_domains.update(url_domains)
 
         # 3. ELIMINASI WHITELIST (Penting!)
-        # Semua domain yang ada di whitelist.txt akan dihapus dari variant_domains
         if whitelist_domains:
             variant_domains = variant_domains - whitelist_domains
 
