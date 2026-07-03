@@ -9,7 +9,7 @@ No ads • No trackers • No adult content • No gambling • No YouTube/Spoti
 | **NSFW & Gambling** | OISD, Hagezi, APB-Indo, RifqyShield Custom | ✅ Active |
 | **Malware & Phishing**| 1Hosts-Extra, Hagezi, OISD-Small | ✅ Active |
 
-**📊 Total Domains: *1,382,507* (Optimized & Deduplicated)
+**📊 Total Domains: *1,382,507* (Optimized & Deduplicated)**
 
 ---
 
