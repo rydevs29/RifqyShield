@@ -31,7 +31,7 @@ URLS_LITE = [
 URLS_MEDIUM = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/multi-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/gambling.mini-onlydomains.txt",
-    "https://raw.githubusercontent.com/StevenBlack/hosts/refs/heads/master/extensions/porn/bigdargon/hosts",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nsfw-onlydomains.txt",
     "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/subscriptions/hosts.txt",
 ]
 
