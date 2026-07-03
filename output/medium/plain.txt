@@ -147219,7 +147219,6 @@ google-zh-chrom.com.cn
 google-zh.hl.cn
 google-zhcn-chrome.com.cn
 google.688v.plus
-google.com
 google.kt9.site
 google.myse5.com
 google.qr777.cloud
@@ -332333,7 +332332,6 @@ youtradefx.com
 youtuba.com
 youtube-nocookie.com
 youtube-site.com
-youtube.com
 youtube.googleapis.com
 youtubecliphot.org
 youtubee.top

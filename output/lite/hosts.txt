@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-07-03 07:41:57
-# Total Domains: 121,524
+# Last Updated: 2026-07-03 07:52:48
+# Total Domains: 121,522
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -45210,7 +45210,6 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 google-shopping-v2.sapoapps.vn
 0.0.0.0 google-shopping.sapoapps.vn
-0.0.0.0 google.com
 0.0.0.0 googleads.github.io
 0.0.0.0 googleadservices-cn.com
 0.0.0.0 googleadservices.com
@@ -119842,7 +119841,6 @@
 0.0.0.0 youthfulpoem.pro
 0.0.0.0 youtradefx.com
 0.0.0.0 youtube-nocookie.com
-0.0.0.0 youtube.com
 0.0.0.0 youtube.googleapis.com
 0.0.0.0 youtubekids.com
 0.0.0.0 youvisit.com

@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-07-03 07:41:59
-# Total Domains: 336,318
+# Last Updated: 2026-07-03 07:52:51
+# Total Domains: 336,316
 # ==========================================
 HOST-SUFFIX,0--0.info,reject
 HOST-SUFFIX,0--4.com,reject
@@ -147223,7 +147223,6 @@ HOST-SUFFIX,google-zh-chrom.com.cn,reject
 HOST-SUFFIX,google-zh.hl.cn,reject
 HOST-SUFFIX,google-zhcn-chrome.com.cn,reject
 HOST-SUFFIX,google.688v.plus,reject
-HOST-SUFFIX,google.com,reject
 HOST-SUFFIX,google.kt9.site,reject
 HOST-SUFFIX,google.myse5.com,reject
 HOST-SUFFIX,google.qr777.cloud,reject
@@ -332337,7 +332336,6 @@ HOST-SUFFIX,youtradefx.com,reject
 HOST-SUFFIX,youtuba.com,reject
 HOST-SUFFIX,youtube-nocookie.com,reject
 HOST-SUFFIX,youtube-site.com,reject
-HOST-SUFFIX,youtube.com,reject
 HOST-SUFFIX,youtube.googleapis.com,reject
 HOST-SUFFIX,youtubecliphot.org,reject
 HOST-SUFFIX,youtubee.top,reject

@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-07-03 07:41:59
-# Total Domains: 336,318
+# Last Updated: 2026-07-03 07:52:51
+# Total Domains: 336,316
 # ==========================================
 /ip dns static
 add name="0--0.info" address=0.0.0.0
@@ -147224,7 +147224,6 @@ add name="google-zh-chrom.com.cn" address=0.0.0.0
 add name="google-zh.hl.cn" address=0.0.0.0
 add name="google-zhcn-chrome.com.cn" address=0.0.0.0
 add name="google.688v.plus" address=0.0.0.0
-add name="google.com" address=0.0.0.0
 add name="google.kt9.site" address=0.0.0.0
 add name="google.myse5.com" address=0.0.0.0
 add name="google.qr777.cloud" address=0.0.0.0
@@ -332338,7 +332337,6 @@ add name="youtradefx.com" address=0.0.0.0
 add name="youtuba.com" address=0.0.0.0
 add name="youtube-nocookie.com" address=0.0.0.0
 add name="youtube-site.com" address=0.0.0.0
-add name="youtube.com" address=0.0.0.0
 add name="youtube.googleapis.com" address=0.0.0.0
 add name="youtubecliphot.org" address=0.0.0.0
 add name="youtubee.top" address=0.0.0.0

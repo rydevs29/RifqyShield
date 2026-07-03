@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-07-03 07:41:57
-# Total Domains: 121,524
+# Last Updated: 2026-07-03 07:52:48
+# Total Domains: 121,522
 # ==========================================
 /ip dns static
 add name="0-02.net" address=0.0.0.0
@@ -45209,7 +45209,6 @@ add name="google-analytics.bi.owox.com" address=0.0.0.0
 add name="google-analytics.com" address=0.0.0.0
 add name="google-shopping-v2.sapoapps.vn" address=0.0.0.0
 add name="google-shopping.sapoapps.vn" address=0.0.0.0
-add name="google.com" address=0.0.0.0
 add name="googleads.github.io" address=0.0.0.0
 add name="googleadservices-cn.com" address=0.0.0.0
 add name="googleadservices.com" address=0.0.0.0
@@ -119841,7 +119840,6 @@ add name="youthcarebeauty.com" address=0.0.0.0
 add name="youthfulpoem.pro" address=0.0.0.0
 add name="youtradefx.com" address=0.0.0.0
 add name="youtube-nocookie.com" address=0.0.0.0
-add name="youtube.com" address=0.0.0.0
 add name="youtube.googleapis.com" address=0.0.0.0
 add name="youtubekids.com" address=0.0.0.0
 add name="youvisit.com" address=0.0.0.0

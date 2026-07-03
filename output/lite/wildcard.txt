@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-07-03 07:41:57
-# Total Domains: 121,524
+# Last Updated: 2026-07-03 07:52:48
+# Total Domains: 121,522
 # ==========================================
 *.0-02.net
 *.0.myikas.com
@@ -45208,7 +45208,6 @@
 *.google-analytics.com
 *.google-shopping-v2.sapoapps.vn
 *.google-shopping.sapoapps.vn
-*.google.com
 *.googleads.github.io
 *.googleadservices-cn.com
 *.googleadservices.com
@@ -119840,7 +119839,6 @@
 *.youthfulpoem.pro
 *.youtradefx.com
 *.youtube-nocookie.com
-*.youtube.com
 *.youtube.googleapis.com
 *.youtubekids.com
 *.youvisit.com

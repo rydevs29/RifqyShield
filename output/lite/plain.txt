@@ -45204,7 +45204,6 @@ google-analytics.bi.owox.com
 google-analytics.com
 google-shopping-v2.sapoapps.vn
 google-shopping.sapoapps.vn
-google.com
 googleads.github.io
 googleadservices-cn.com
 googleadservices.com
@@ -119836,7 +119835,6 @@ youthcarebeauty.com
 youthfulpoem.pro
 youtradefx.com
 youtube-nocookie.com
-youtube.com
 youtube.googleapis.com
 youtubekids.com
 youvisit.com

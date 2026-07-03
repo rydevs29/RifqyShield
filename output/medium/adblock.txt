@@ -1,6 +1,6 @@
 ! Title: RifqyShield Medium
-! Last Updated: 2026-07-03 07:41:59
-! Total Domains: 336,318
+! Last Updated: 2026-07-03 07:52:51
+! Total Domains: 336,316
 ! ==========================================
 ||0--0.info^
 ||0--4.com^
@@ -147223,7 +147223,6 @@
 ||google-zh.hl.cn^
 ||google-zhcn-chrome.com.cn^
 ||google.688v.plus^
-||google.com^
 ||google.kt9.site^
 ||google.myse5.com^
 ||google.qr777.cloud^
@@ -332337,7 +332336,6 @@
 ||youtuba.com^
 ||youtube-nocookie.com^
 ||youtube-site.com^
-||youtube.com^
 ||youtube.googleapis.com^
 ||youtubecliphot.org^
 ||youtubee.top^

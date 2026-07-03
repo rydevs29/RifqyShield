@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-07-03 07:41:59
-# Total Domains: 336,318
+# Last Updated: 2026-07-03 07:52:51
+# Total Domains: 336,316
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0--0.info
@@ -147224,7 +147224,6 @@ payload:
   - DOMAIN-SUFFIX,google-zh.hl.cn
   - DOMAIN-SUFFIX,google-zhcn-chrome.com.cn
   - DOMAIN-SUFFIX,google.688v.plus
-  - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,google.kt9.site
   - DOMAIN-SUFFIX,google.myse5.com
   - DOMAIN-SUFFIX,google.qr777.cloud
@@ -332338,7 +332337,6 @@ payload:
   - DOMAIN-SUFFIX,youtuba.com
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtube-site.com
-  - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtube.googleapis.com
   - DOMAIN-SUFFIX,youtubecliphot.org
   - DOMAIN-SUFFIX,youtubee.top
