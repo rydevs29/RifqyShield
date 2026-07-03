@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-07-03 07:55:49
-# Total Domains: 74,518
+# Last Updated: 2026-07-03 08:05:31
+# Total Domains: 74,497
 # ==========================================
 /ip dns static
 add name="0-02.net" address=0.0.0.0
@@ -12198,7 +12198,6 @@ add name="bsgbcdzmvggpc.site" address=0.0.0.0
 add name="bsgbd77l.de" address=0.0.0.0
 add name="bshr.ezodn.com" address=0.0.0.0
 add name="bshrdr.com" address=0.0.0.0
-add name="bshudk.shop" address=0.0.0.0
 add name="bshxjquduee.com" address=0.0.0.0
 add name="bsigxzskaybsw.website" address=0.0.0.0
 add name="bsjxodcvrvgbe.online" address=0.0.0.0
@@ -12257,7 +12256,6 @@ add name="btlagkfxnypco.website" address=0.0.0.0
 add name="btlgp4vze.com" address=0.0.0.0
 add name="btloader.com" address=0.0.0.0
 add name="btlrerperqchl.site" address=0.0.0.0
-add name="btmake.top" address=0.0.0.0
 add name="btmpxsnzu.com" address=0.0.0.0
 add name="btnspihedggvk.website" address=0.0.0.0
 add name="btoetwervetat.space" address=0.0.0.0
@@ -12530,7 +12528,6 @@ add name="bvmcdn.net" address=0.0.0.0
 add name="bvr.ast.snva.jp" address=0.0.0.0
 add name="bvr.snva.jp" address=0.0.0.0
 add name="bvryckykikvhh.website" address=0.0.0.0
-add name="bvsprobtp.com" address=0.0.0.0
 add name="bvtmvalgidefh.store" address=0.0.0.0
 add name="bvtpk.com" address=0.0.0.0
 add name="bvupjqkxxrgqr.space" address=0.0.0.0
@@ -12634,7 +12631,6 @@ add name="bypassduehardly.com" address=0.0.0.0
 add name="bypassed.ws" address=0.0.0.0
 add name="bypasspickupfaculty.com" address=0.0.0.0
 add name="byredowien.com" address=0.0.0.0
-add name="byrheimz.de" address=0.0.0.0
 add name="byrix.com" address=0.0.0.0
 add name="byrlawpargo.com" address=0.0.0.0
 add name="byryqaysgfpwz.website" address=0.0.0.0
@@ -12919,7 +12915,6 @@ add name="caehtveorphwc.space" address=0.0.0.0
 add name="caerulus.io" address=0.0.0.0
 add name="caesarporch.com" address=0.0.0.0
 add name="cafe-hardenberg.de" address=0.0.0.0
-add name="cafebar-die-apotheke.de" address=0.0.0.0
 add name="cafeqnugevtpm.website" address=0.0.0.0
 add name="cafewarriors.com" address=0.0.0.0
 add name="cafivo.com" address=0.0.0.0
@@ -12928,7 +12923,6 @@ add name="cagealas.com" address=0.0.0.0
 add name="cagothie.net" address=0.0.0.0
 add name="cahok.com" address=0.0.0.0
 add name="cai75tp.com" address=0.0.0.0
-add name="caipzignet.de" address=0.0.0.0
 add name="caitifafrete.qpon" address=0.0.0.0
 add name="caitlinagathami.com" address=0.0.0.0
 add name="caizuwailou.net" address=0.0.0.0
@@ -13137,7 +13131,6 @@ add name="capitalcourtage.com" address=0.0.0.0
 add name="capitalexpressmetatrade.net" address=0.0.0.0
 add name="capitalfrance.fr" address=0.0.0.0
 add name="capitalgiftsoutlet.com" address=0.0.0.0
-add name="capitaliko.com" address=0.0.0.0
 add name="capitalinvestmentreviews.com" address=0.0.0.0
 add name="capitalistsplitting.com" address=0.0.0.0
 add name="capitalpilots.com" address=0.0.0.0
@@ -13145,7 +13138,6 @@ add name="capitalreserveltd.com" address=0.0.0.0
 add name="capitalsail.com" address=0.0.0.0
 add name="capitaltradefx.com" address=0.0.0.0
 add name="capitalvo.com" address=0.0.0.0
-add name="capitalxsolution.com" address=0.0.0.0
 add name="capkkfuiticpo.space" address=0.0.0.0
 add name="capletsyird.cfd" address=0.0.0.0
 add name="caplvexdhgvbz.website" address=0.0.0.0
@@ -13157,7 +13149,6 @@ add name="caprizecaprizedogcollar.com" address=0.0.0.0
 add name="caprizecaprizeflagfur.com" address=0.0.0.0
 add name="caprofitx.com" address=0.0.0.0
 add name="capstellar.com" address=0.0.0.0
-add name="capstellar.fr" address=0.0.0.0
 add name="captainboot.de" address=0.0.0.0
 add name="captaincookscasino-online.de" address=0.0.0.0
 add name="captionconjecture.com" address=0.0.0.0
@@ -13223,7 +13214,6 @@ add name="caringpast.com" address=0.0.0.0
 add name="cariouscannedroman.com" address=0.0.0.0
 add name="cariousjan.com" address=0.0.0.0
 add name="caririlawmen.com" address=0.0.0.0
-add name="cariuma-deutschland.de" address=0.0.0.0
 add name="carivjjfpakgl.site" address=0.0.0.0
 add name="carlinaframh.com" address=0.0.0.0
 add name="carlinsresumes.com" address=0.0.0.0
@@ -13845,7 +13835,6 @@ add name="cellpeptides.com" address=0.0.0.0
 add name="cellspitch.com" address=0.0.0.0
 add name="celmak.de" address=0.0.0.0
 add name="celoe.xyz" address=0.0.0.0
-add name="celorin.com" address=0.0.0.0
 add name="celtra.com" address=0.0.0.0
 add name="celxkpdir.com" address=0.0.0.0
 add name="cemantical4.com" address=0.0.0.0
@@ -14160,7 +14149,6 @@ add name="cheezwhiz.z9.web.core.windows.net" address=0.0.0.0
 add name="chefclearance.com" address=0.0.0.0
 add name="chefs-kitchen.co.uk" address=0.0.0.0
 add name="chefsouppot.com" address=0.0.0.0
-add name="chefthermomix.de" address=0.0.0.0
 add name="cheftoondiligord.site" address=0.0.0.0
 add name="chellosewingshop.com" address=0.0.0.0
 add name="chemicalsdaily.com" address=0.0.0.0
@@ -14220,7 +14208,6 @@ add name="childbirthsteepiris.com" address=0.0.0.0
 add name="childeducationalshop.com" address=0.0.0.0
 add name="childishbombgodless.com" address=0.0.0.0
 add name="childlessporcupinevaluables.com" address=0.0.0.0
-add name="childsafetyseat-shop.com" address=0.0.0.0
 add name="chilihandshakewing.com" address=0.0.0.0
 add name="chilimonoxidesalary.com" address=0.0.0.0
 add name="chillgod.com" address=0.0.0.0
@@ -14274,7 +14261,6 @@ add name="chqdyaoziqacr.website" address=0.0.0.0
 add name="chrisclavelli.com" address=0.0.0.0
 add name="chrisgfornevada.com" address=0.0.0.0
 add name="chrissie.at" address=0.0.0.0
-add name="christ-holzundnatur.de" address=0.0.0.0
 add name="christina-theresa.com" address=0.0.0.0
 add name="christinefamiliewelpen.com" address=0.0.0.0
 add name="christmasdecorusa.com" address=0.0.0.0
@@ -14455,7 +14441,6 @@ add name="cjudelo.shop" address=0.0.0.0
 add name="cjutqvopetliy.space" address=0.0.0.0
 add name="cjvdfw.com" address=0.0.0.0
 add name="cjxomyilmv.com" address=0.0.0.0
-add name="cjyckgpp.shop" address=0.0.0.0
 add name="ck.connatix.com" address=0.0.0.0
 add name="ck.zzipps.com" address=0.0.0.0
 add name="ck4g3p2x92.com" address=0.0.0.0
@@ -14469,7 +14454,6 @@ add name="ckhtqypqrwuqv.online" address=0.0.0.0
 add name="ckiqxrqwnavqt.website" address=0.0.0.0
 add name="ckjjxjpoxhebx.site" address=0.0.0.0
 add name="ckkoabgjgzzcl.website" address=0.0.0.0
-add name="cklogistik.de" address=0.0.0.0
 add name="ckmghmpfmdfvk.online" address=0.0.0.0
 add name="ckndisjiwbc.com" address=0.0.0.0
 add name="ckpchhhnhbsle.site" address=0.0.0.0
@@ -14578,7 +14562,6 @@ add name="clearancecrest.com" address=0.0.0.0
 add name="clearancecurrent.com" address=0.0.0.0
 add name="clearancegowns.com" address=0.0.0.0
 add name="clearancejoinjavelin.com" address=0.0.0.0
-add name="clearancesurfsale.com" address=0.0.0.0
 add name="clearanceu.com" address=0.0.0.0
 add name="cleardexchange.com" address=0.0.0.0
 add name="clearingt.com" address=0.0.0.0
@@ -14705,7 +14688,6 @@ add name="clickbrokers.com" address=0.0.0.0
 add name="clickbuy-shop.com" address=0.0.0.0
 add name="clickcanoe.com" address=0.0.0.0
 add name="clickcarvey.com" address=0.0.0.0
-add name="clickcascadee.com" address=0.0.0.0
 add name="clickcash.com" address=0.0.0.0
 add name="clickcdn.co" address=0.0.0.0
 add name="clickco.net" address=0.0.0.0
@@ -14821,7 +14803,6 @@ add name="clipperroutesevere.com" address=0.0.0.0
 add name="clipvibe-zone.com" address=0.0.0.0
 add name="cliquemottoviscosity.com" address=0.0.0.0
 add name="cliquesteria.net" address=0.0.0.0
-add name="clisicerity.com" address=0.0.0.0
 add name="clitmwviwbokk.space" address=0.0.0.0
 add name="cliv2508.com" address=0.0.0.0
 add name="clivechristianuk.com" address=0.0.0.0
@@ -33779,7 +33760,6 @@ add name="iptvdutch.store" address=0.0.0.0
 add name="iptvkaufen24.shop" address=0.0.0.0
 add name="ipuroangebote.com" address=0.0.0.0
 add name="ipv4.kkmh.com" address=0.0.0.0
-add name="ipv6.claveliere-holding.com" address=0.0.0.0
 add name="ipvertnet.com" address=0.0.0.0
 add name="ipwfxgwjrlrfa.site" address=0.0.0.0
 add name="ipwyyaiewuzfq.online" address=0.0.0.0
@@ -57541,7 +57521,6 @@ add name="shop-toolbox.com" address=0.0.0.0
 add name="shop-vergleicher.de" address=0.0.0.0
 add name="shop-virium.com" address=0.0.0.0
 add name="shop.askdrkan.com" address=0.0.0.0
-add name="shop.bwaopa.top" address=0.0.0.0
 add name="shop.clarissanails-schweiz.ch" address=0.0.0.0
 add name="shop.degussa-goldhandel.de" address=0.0.0.0
 add name="shop.deveri.de" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-07-03 07:55:49
-# Total Domains: 74,518
+# Last Updated: 2026-07-03 08:05:31
+# Total Domains: 74,497
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -12199,7 +12199,6 @@
 0.0.0.0 bsgbd77l.de
 0.0.0.0 bshr.ezodn.com
 0.0.0.0 bshrdr.com
-0.0.0.0 bshudk.shop
 0.0.0.0 bshxjquduee.com
 0.0.0.0 bsigxzskaybsw.website
 0.0.0.0 bsjxodcvrvgbe.online
@@ -12258,7 +12257,6 @@
 0.0.0.0 btlgp4vze.com
 0.0.0.0 btloader.com
 0.0.0.0 btlrerperqchl.site
-0.0.0.0 btmake.top
 0.0.0.0 btmpxsnzu.com
 0.0.0.0 btnspihedggvk.website
 0.0.0.0 btoetwervetat.space
@@ -12531,7 +12529,6 @@
 0.0.0.0 bvr.ast.snva.jp
 0.0.0.0 bvr.snva.jp
 0.0.0.0 bvryckykikvhh.website
-0.0.0.0 bvsprobtp.com
 0.0.0.0 bvtmvalgidefh.store
 0.0.0.0 bvtpk.com
 0.0.0.0 bvupjqkxxrgqr.space
@@ -12635,7 +12632,6 @@
 0.0.0.0 bypassed.ws
 0.0.0.0 bypasspickupfaculty.com
 0.0.0.0 byredowien.com
-0.0.0.0 byrheimz.de
 0.0.0.0 byrix.com
 0.0.0.0 byrlawpargo.com
 0.0.0.0 byryqaysgfpwz.website
@@ -12920,7 +12916,6 @@
 0.0.0.0 caerulus.io
 0.0.0.0 caesarporch.com
 0.0.0.0 cafe-hardenberg.de
-0.0.0.0 cafebar-die-apotheke.de
 0.0.0.0 cafeqnugevtpm.website
 0.0.0.0 cafewarriors.com
 0.0.0.0 cafivo.com
@@ -12929,7 +12924,6 @@
 0.0.0.0 cagothie.net
 0.0.0.0 cahok.com
 0.0.0.0 cai75tp.com
-0.0.0.0 caipzignet.de
 0.0.0.0 caitifafrete.qpon
 0.0.0.0 caitlinagathami.com
 0.0.0.0 caizuwailou.net
@@ -13138,7 +13132,6 @@
 0.0.0.0 capitalexpressmetatrade.net
 0.0.0.0 capitalfrance.fr
 0.0.0.0 capitalgiftsoutlet.com
-0.0.0.0 capitaliko.com
 0.0.0.0 capitalinvestmentreviews.com
 0.0.0.0 capitalistsplitting.com
 0.0.0.0 capitalpilots.com
@@ -13146,7 +13139,6 @@
 0.0.0.0 capitalsail.com
 0.0.0.0 capitaltradefx.com
 0.0.0.0 capitalvo.com
-0.0.0.0 capitalxsolution.com
 0.0.0.0 capkkfuiticpo.space
 0.0.0.0 capletsyird.cfd
 0.0.0.0 caplvexdhgvbz.website
@@ -13158,7 +13150,6 @@
 0.0.0.0 caprizecaprizeflagfur.com
 0.0.0.0 caprofitx.com
 0.0.0.0 capstellar.com
-0.0.0.0 capstellar.fr
 0.0.0.0 captainboot.de
 0.0.0.0 captaincookscasino-online.de
 0.0.0.0 captionconjecture.com
@@ -13224,7 +13215,6 @@
 0.0.0.0 cariouscannedroman.com
 0.0.0.0 cariousjan.com
 0.0.0.0 caririlawmen.com
-0.0.0.0 cariuma-deutschland.de
 0.0.0.0 carivjjfpakgl.site
 0.0.0.0 carlinaframh.com
 0.0.0.0 carlinsresumes.com
@@ -13846,7 +13836,6 @@
 0.0.0.0 cellspitch.com
 0.0.0.0 celmak.de
 0.0.0.0 celoe.xyz
-0.0.0.0 celorin.com
 0.0.0.0 celtra.com
 0.0.0.0 celxkpdir.com
 0.0.0.0 cemantical4.com
@@ -14161,7 +14150,6 @@
 0.0.0.0 chefclearance.com
 0.0.0.0 chefs-kitchen.co.uk
 0.0.0.0 chefsouppot.com
-0.0.0.0 chefthermomix.de
 0.0.0.0 cheftoondiligord.site
 0.0.0.0 chellosewingshop.com
 0.0.0.0 chemicalsdaily.com
@@ -14221,7 +14209,6 @@
 0.0.0.0 childeducationalshop.com
 0.0.0.0 childishbombgodless.com
 0.0.0.0 childlessporcupinevaluables.com
-0.0.0.0 childsafetyseat-shop.com
 0.0.0.0 chilihandshakewing.com
 0.0.0.0 chilimonoxidesalary.com
 0.0.0.0 chillgod.com
@@ -14275,7 +14262,6 @@
 0.0.0.0 chrisclavelli.com
 0.0.0.0 chrisgfornevada.com
 0.0.0.0 chrissie.at
-0.0.0.0 christ-holzundnatur.de
 0.0.0.0 christina-theresa.com
 0.0.0.0 christinefamiliewelpen.com
 0.0.0.0 christmasdecorusa.com
@@ -14456,7 +14442,6 @@
 0.0.0.0 cjutqvopetliy.space
 0.0.0.0 cjvdfw.com
 0.0.0.0 cjxomyilmv.com
-0.0.0.0 cjyckgpp.shop
 0.0.0.0 ck.connatix.com
 0.0.0.0 ck.zzipps.com
 0.0.0.0 ck4g3p2x92.com
@@ -14470,7 +14455,6 @@
 0.0.0.0 ckiqxrqwnavqt.website
 0.0.0.0 ckjjxjpoxhebx.site
 0.0.0.0 ckkoabgjgzzcl.website
-0.0.0.0 cklogistik.de
 0.0.0.0 ckmghmpfmdfvk.online
 0.0.0.0 ckndisjiwbc.com
 0.0.0.0 ckpchhhnhbsle.site
@@ -14579,7 +14563,6 @@
 0.0.0.0 clearancecurrent.com
 0.0.0.0 clearancegowns.com
 0.0.0.0 clearancejoinjavelin.com
-0.0.0.0 clearancesurfsale.com
 0.0.0.0 clearanceu.com
 0.0.0.0 cleardexchange.com
 0.0.0.0 clearingt.com
@@ -14706,7 +14689,6 @@
 0.0.0.0 clickbuy-shop.com
 0.0.0.0 clickcanoe.com
 0.0.0.0 clickcarvey.com
-0.0.0.0 clickcascadee.com
 0.0.0.0 clickcash.com
 0.0.0.0 clickcdn.co
 0.0.0.0 clickco.net
@@ -14822,7 +14804,6 @@
 0.0.0.0 clipvibe-zone.com
 0.0.0.0 cliquemottoviscosity.com
 0.0.0.0 cliquesteria.net
-0.0.0.0 clisicerity.com
 0.0.0.0 clitmwviwbokk.space
 0.0.0.0 cliv2508.com
 0.0.0.0 clivechristianuk.com
@@ -33780,7 +33761,6 @@
 0.0.0.0 iptvkaufen24.shop
 0.0.0.0 ipuroangebote.com
 0.0.0.0 ipv4.kkmh.com
-0.0.0.0 ipv6.claveliere-holding.com
 0.0.0.0 ipvertnet.com
 0.0.0.0 ipwfxgwjrlrfa.site
 0.0.0.0 ipwyyaiewuzfq.online
@@ -57542,7 +57522,6 @@
 0.0.0.0 shop-vergleicher.de
 0.0.0.0 shop-virium.com
 0.0.0.0 shop.askdrkan.com
-0.0.0.0 shop.bwaopa.top
 0.0.0.0 shop.clarissanails-schweiz.ch
 0.0.0.0 shop.degussa-goldhandel.de
 0.0.0.0 shop.deveri.de
