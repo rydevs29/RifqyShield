@@ -29,15 +29,18 @@ URLS_LITE = [
 ]
 
 URLS_MEDIUM = [
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/multi-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nosafesearch.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/gambling.mini-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nsfw-onlydomains.txt",
     "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/subscriptions/hosts.txt",
 ]
 
 URLS_ULTIMATE = [
-    "https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Xtra/domains.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/ultimate.mini-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt",
+    "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/urlshortener-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/tif.txt",
 ]
 
 # 3. Penggabungan Varian (Hybrid: Lokal + URL)
