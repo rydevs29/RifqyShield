@@ -40,7 +40,6 @@ URLS_MEDIUM = [
 URLS_ULTIMATE = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt",
     "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/tif.txt",
 ]
 
 # 3. Penggabungan Varian (Hybrid: Lokal + URL)
