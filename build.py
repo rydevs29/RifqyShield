@@ -30,7 +30,6 @@ URLS_LITE = [
 
 URLS_MEDIUM = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/pro.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nosafesearch.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/gambling.mini-onlydomains.txt",
     "https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/gambling/domain.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nsfw-onlydomains.txt",
@@ -41,8 +40,6 @@ URLS_MEDIUM = [
 URLS_ULTIMATE = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/ultimate.txt",
     "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt",
-    "https://hblock.molinero.dev/hosts",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/urlshortener-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/domains/tif.txt",
 ]
 
