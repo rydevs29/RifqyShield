@@ -5,8 +5,8 @@ No ads • No trackers • No adult content • No gambling
 | Category              | Source                             | Status                |
 |-----------------------|------------------------------------|-----------------------|
 | **Ads & Trackers** | OISD-Small, Hagezi Trackers | ✅ Active |
-| **NSFW & Gambling** | Hagezi NSFW, APB-Indo, RifqyShield Custom | ✅ Active |
-| **Malware & Phishing**| 1Hosts-Extra, Hagezi Fake, Hagezi Ultimate Mini | ✅ Active |
+| **NSFW & Gambling** | Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield Custom | ✅ Active |
+| **Malware & Phishing**| OISD-Big, hBlock, Hagezi Fake, Hagezi TIF, Hagezi Ultimate | ✅ Active |
 
 **📊 Total Domains: *1,382,507* (Optimized & Deduplicated)**
 
