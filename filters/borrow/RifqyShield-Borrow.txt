@@ -96,3 +96,4 @@
 *.kredivo.com
 *.superbank.id
 *.tunaiku.com
+*.marikaya-id.com
