@@ -8,7 +8,7 @@ No ads • No trackers • No adult content • No gambling
 | **NSFW & Gambling** | Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield Custom | ✅ Active |
 | **Malware & Phishing**| OISD-Big, Hagezi Fake, Hagezi Ultimate | ✅ Active |
 
-**📊 Total Domains: *1,201,916* (Optimized & Deduplicated)**
+**📊 Total Domains: *1,145,508* (Optimized & Deduplicated)**
 
 ---
 
@@ -36,4 +36,4 @@ MIT
 **WEB:** [Open RifqyShield Website](https://shield.rifqydev.my.id)  
 **Chrome Extension:** [Download Here](https://clicks.rifqydev.my.id/?id=4suqsw)
 
-*Last updated: July 3, 2026*
+*Last updated: July 28, 2026*
