@@ -34,5 +34,6 @@ To report domains that are not blocked properly, please open an issue.
 MIT
 
 **WEB:** [Open RifqyShield Website](https://shield.rifqydev.my.id)  
-**Extension Chrome:** [Download Here](https://clicks.rifqydev.my.id/?id=4suqsw)
+**Chrome Extension:** [Download Here](https://clicks.rifqydev.my.id/?id=4suqsw)
+
 *Last updated: July 3, 2026*
