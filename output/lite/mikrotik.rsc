@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-08-05 01:48:10
-# Total Domains: 76,118
+# Last Updated: 2026-08-05 09:52:36
+# Total Domains: 76,102
 # ==========================================
 /ip dns static
 add name="0-02.net" address=0.0.0.0
@@ -565,7 +565,6 @@ add name="203a382a60.403dee4b16.com" address=0.0.0.0
 add name="2048executors.com" address=0.0.0.0
 add name="2048hydreo.net" address=0.0.0.0
 add name="2048instances.com" address=0.0.0.0
-add name="206ads.com" address=0.0.0.0
 add name="20dollars2surf.com" address=0.0.0.0
 add name="20f866afaf.069667261e.com" address=0.0.0.0
 add name="20l2ldrn2.de" address=0.0.0.0
@@ -2379,7 +2378,6 @@ add name="a1.syfj.net" address=0.0.0.0
 add name="a1.tbuz.com.cn" address=0.0.0.0
 add name="a1.zhanzhang.net" address=0.0.0.0
 add name="a11.click" address=0.0.0.0
-add name="a11k.com" address=0.0.0.0
 add name="a11ybar.com" address=0.0.0.0
 add name="a1ajfrk4i.com" address=0.0.0.0
 add name="a1businessnet.live" address=0.0.0.0
@@ -10172,6 +10170,7 @@ add name="bea-s.dinghuoche.com" address=0.0.0.0
 add name="beaccustomed.com" address=0.0.0.0
 add name="beach-vacation.site" address=0.0.0.0
 add name="beachitem.com" address=0.0.0.0
+add name="beachwalkbali.com" address=0.0.0.0
 add name="beacon-api.aliyuncs.com" address=0.0.0.0
 add name="beacon-fullpage-predictor.goguardian.com" address=0.0.0.0
 add name="beacon.adelphic.com" address=0.0.0.0
@@ -11374,7 +11373,6 @@ add name="blastswaggons.com" address=0.0.0.0
 add name="blastydollars.shop" address=0.0.0.0
 add name="blattberlin.com" address=0.0.0.0
 add name="blattbucht.de" address=0.0.0.0
-add name="blattverkauf.com" address=0.0.0.0
 add name="blaudonau.com" address=0.0.0.0
 add name="blaudonau.de" address=0.0.0.0
 add name="blaudonu.de" address=0.0.0.0
@@ -12080,7 +12078,6 @@ add name="brasstrack.shop" address=0.0.0.0
 add name="brationalfilarded.com" address=0.0.0.0
 add name="braucheschnell.com" address=0.0.0.0
 add name="braunboutique.com" address=0.0.0.0
-add name="brauneagrar.com" address=0.0.0.0
 add name="braunsale.de" address=0.0.0.0
 add name="brave-village.com" address=0.0.0.0
 add name="bravedkarren.com" address=0.0.0.0
@@ -12171,7 +12168,6 @@ add name="brevissnod.com" address=0.0.0.0
 add name="brevitychestprocess.com" address=0.0.0.0
 add name="brewheaven.shop" address=0.0.0.0
 add name="brewingeasel.com" address=0.0.0.0
-add name="brezella.com" address=0.0.0.0
 add name="brgnthxurfpzf.space" address=0.0.0.0
 add name="brick.xhamster.com" address=0.0.0.0
 add name="brick.xhamster.desi" address=0.0.0.0
@@ -12261,7 +12257,6 @@ add name="brlyvtjfor.com" address=0.0.0.0
 add name="brm68.xnxx-hindi.com" address=0.0.0.0
 add name="brmljcaxcchtu.space" address=0.0.0.0
 add name="brmrfxnpajqqx.site" address=0.0.0.0
-add name="brnghl.shop" address=0.0.0.0
 add name="brnju6iwxxgozijo3t.rest" address=0.0.0.0
 add name="brnyzr.icu" address=0.0.0.0
 add name="broadensilkslush.com" address=0.0.0.0
@@ -12301,7 +12296,6 @@ add name="brooks-partners.com" address=0.0.0.0
 add name="brooks.co.at" address=0.0.0.0
 add name="brookslaufschuhesale.de" address=0.0.0.0
 add name="brooksoutletsale.de" address=0.0.0.0
-add name="brooksrunningconnect.com" address=0.0.0.0
 add name="brookss.at" address=0.0.0.0
 add name="brooksschuhe.de" address=0.0.0.0
 add name="brooksschuheberlin.de" address=0.0.0.0
@@ -12372,7 +12366,6 @@ add name="brunettemattersrefused.com" address=0.0.0.0
 add name="brunettescarecrowyoga.com" address=0.0.0.0
 add name="brunnercampen.com" address=0.0.0.0
 add name="brunnerluzern.com" address=0.0.0.0
-add name="brunoberg.com" address=0.0.0.0
 add name="bruntstabulae.com" address=0.0.0.0
 add name="brushshope.com" address=0.0.0.0
 add name="brushtriplehorns.com" address=0.0.0.0
@@ -12534,7 +12527,6 @@ add name="buckbasil.com" address=0.0.0.0
 add name="buckbirch.com" address=0.0.0.0
 add name="bucklechemistdensity.com" address=0.0.0.0
 add name="buckleybelts.de" address=0.0.0.0
-add name="buckleyswiss.com" address=0.0.0.0
 add name="buckumoore.com" address=0.0.0.0
 add name="buckweeklyrecording.com" address=0.0.0.0
 add name="buddhapowerstore.com" address=0.0.0.0
@@ -12600,7 +12592,6 @@ add name="bulgingreact.com" address=0.0.0.0
 add name="buljlwaclnocq.site" address=0.0.0.0
 add name="bulksellmart.co.uk" address=0.0.0.0
 add name="bulky-battle.com" address=0.0.0.0
-add name="bull-verse.org" address=0.0.0.0
 add name="bullanagal.qpon" address=0.0.0.0
 add name="bullbit.net" address=0.0.0.0
 add name="bullbittrade.com" address=0.0.0.0
@@ -13263,7 +13254,6 @@ add name="camper--schuhe.com" address=0.0.0.0
 add name="camperschuh.com" address=0.0.0.0
 add name="camperschuhe.at" address=0.0.0.0
 add name="campfirecroutondecorator.com" address=0.0.0.0
-add name="campfuns.com" address=0.0.0.0
 add name="camping-bewegung.com" address=0.0.0.0
 add name="campingandsurf.com" address=0.0.0.0
 add name="campingangebote-de.com" address=0.0.0.0
@@ -13276,13 +13266,11 @@ add name="campingneu.com" address=0.0.0.0
 add name="campingplatze-de.com" address=0.0.0.0
 add name="campingspezialisten.com" address=0.0.0.0
 add name="campingstuhleshop.com" address=0.0.0.0
-add name="campingsupplybest.com" address=0.0.0.0
 add name="campingsverkauf.com" address=0.0.0.0
 add name="campingzubehorhub.com" address=0.0.0.0
 add name="camplacecash.com" address=0.0.0.0
 add name="camplethora.com" address=0.0.0.0
 add name="camptool-shop.com" address=0.0.0.0
-add name="camptotalneu.com" address=0.0.0.0
 add name="camptwined.com" address=0.0.0.0
 add name="campusexcessively.com" address=0.0.0.0
 add name="cams.enjoy.be" address=0.0.0.0
@@ -13301,7 +13289,6 @@ add name="canadapharmacytrust.net" address=0.0.0.0
 add name="canadasale365.com" address=0.0.0.0
 add name="canadatrustmed.com" address=0.0.0.0
 add name="canadawidepharmacy.com" address=0.0.0.0
-add name="canadian-rxpharmacy.com" address=0.0.0.0
 add name="canadianhealthcaremalll.com" address=0.0.0.0
 add name="canadianhealthcarepharmacymall.com" address=0.0.0.0
 add name="canadianhealthncaremall.com" address=0.0.0.0
@@ -13309,7 +13296,6 @@ add name="canadianipharmacy.com" address=0.0.0.0
 add name="canadiannewstoday.com" address=0.0.0.0
 add name="canadianpharmacysir.com" address=0.0.0.0
 add name="canamoreggae.qpon" address=0.0.0.0
-add name="canaryrentalvillas.com" address=0.0.0.0
 add name="canaryvacationhome.com" address=0.0.0.0
 add name="canbrace.com" address=0.0.0.0
 add name="canceltrustingunderuse.com" address=0.0.0.0
@@ -13427,7 +13413,6 @@ add name="carbonads.net" address=0.0.0.0
 add name="carbondeluxe.de" address=0.0.0.0
 add name="carbonfeverthink.com" address=0.0.0.0
 add name="carcflma.de" address=0.0.0.0
-add name="carculturein.com" address=0.0.0.0
 add name="cardboardcrispyrover.com" address=0.0.0.0
 add name="cardermats.com" address=0.0.0.0
 add name="cardiganpalmreconcile.com" address=0.0.0.0
@@ -13500,7 +13485,6 @@ add name="carriageglobal.com" address=0.0.0.0
 add name="carrick-ui.advoncommerce.com" address=0.0.0.0
 add name="carriedamiral.com" address=0.0.0.0
 add name="carrier202205.tokyo" address=0.0.0.0
-add name="carrieri-handel.de" address=0.0.0.0
 add name="carryglanced.com" address=0.0.0.0
 add name="carryingalfredparticipant.com" address=0.0.0.0
 add name="carshades.at" address=0.0.0.0
@@ -28134,7 +28118,6 @@ add name="generic.web.de" address=0.0.0.0
 add name="generic4all-global.com" address=0.0.0.0
 add name="generic4allglobal.com" address=0.0.0.0
 add name="genericdianawitty.com" address=0.0.0.0
-add name="genericdoctor.com" address=0.0.0.0
 add name="genericeupills.com" address=0.0.0.0
 add name="genericsbot.com" address=0.0.0.0
 add name="genericshop-247.eu" address=0.0.0.0
@@ -29723,6 +29706,7 @@ add name="groundiesdeutsch.de" address=0.0.0.0
 add name="groundiesoutlet.de" address=0.0.0.0
 add name="groundiesschoenennederland.com" address=0.0.0.0
 add name="groundiesshop.at" address=0.0.0.0
+add name="groundiesukshoes.com" address=0.0.0.0
 add name="groundlesscobwebmiller.com" address=0.0.0.0
 add name="groundlesspowder.com" address=0.0.0.0
 add name="groundssoapimagination.com" address=0.0.0.0
@@ -36386,7 +36370,6 @@ add name="kamagra-original.sk" address=0.0.0.0
 add name="kamagra-premium.net" address=0.0.0.0
 add name="kamagra-pro.com" address=0.0.0.0
 add name="kamagra-pro.net" address=0.0.0.0
-add name="kamagra-pro.online" address=0.0.0.0
 add name="kamagra-prodej-online.eu" address=0.0.0.0
 add name="kamagra-prodej.cz" address=0.0.0.0
 add name="kamagra-prodej.online" address=0.0.0.0
@@ -38576,6 +38559,7 @@ add name="lekaren-slovenska24.com" address=0.0.0.0
 add name="lekaren-slovenska247.com" address=0.0.0.0
 add name="lekarenjedna.com" address=0.0.0.0
 add name="lekarenonline.com" address=0.0.0.0
+add name="lekarenprevas.sk" address=0.0.0.0
 add name="lekarenslovenska.com" address=0.0.0.0
 add name="lekarenslovenska.sk" address=0.0.0.0
 add name="lekarenslovenska24.com" address=0.0.0.0
@@ -43806,6 +43790,7 @@ add name="moontrkr.com" address=0.0.0.0
 add name="moontuftboy.com" address=0.0.0.0
 add name="moonx.io" address=0.0.0.0
 add name="mooredvazwe.myshopify.com" address=0.0.0.0
+add name="mooris.de" address=0.0.0.0
 add name="moornseelily.shop" address=0.0.0.0
 add name="moose.octo.app" address=0.0.0.0
 add name="moosufergarten.de" address=0.0.0.0
@@ -47294,7 +47279,6 @@ add name="oiismyzivtine.website" address=0.0.0.0
 add name="oijcphjwiabsg.online" address=0.0.0.0
 add name="oijhekvoh.com" address=0.0.0.0
 add name="oikmvbuy.shop" address=0.0.0.0
-add name="oil-profits.com" address=0.0.0.0
 add name="oilcontainsdisaster.com" address=0.0.0.0
 add name="oilexa.de" address=0.0.0.0
 add name="oilprofit.io" address=0.0.0.0
@@ -63450,6 +63434,7 @@ add name="tcfjtdaovwimt.space" address=0.0.0.0
 add name="tcgikincfivus.online" address=0.0.0.0
 add name="tcgjhulupwqpc.space" address=0.0.0.0
 add name="tcihfguqejvsf.online" address=0.0.0.0
+add name="tcinosgroup.com" address=0.0.0.0
 add name="tcjaslvajucmt.online" address=0.0.0.0
 add name="tcjvlnvuyjeb.com" address=0.0.0.0
 add name="tcmcpbjvotuaa.space" address=0.0.0.0
@@ -63493,7 +63478,6 @@ add name="tds.vss-security.nl" address=0.0.0.0
 add name="tdsafe.org" address=0.0.0.0
 add name="tdslinetraffic.com" address=0.0.0.0
 add name="tdxsz.com" address=0.0.0.0
-add name="te.de" address=0.0.0.0
 add name="teachbrigh.com" address=0.0.0.0
 add name="teacherrecollect.com" address=0.0.0.0
 add name="teachgallop.com" address=0.0.0.0

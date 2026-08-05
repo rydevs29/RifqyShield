@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-08-05 01:48:10
-# Total Domains: 76,118
+# Last Updated: 2026-08-05 09:52:36
+# Total Domains: 76,102
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -566,7 +566,6 @@
 0.0.0.0 2048executors.com
 0.0.0.0 2048hydreo.net
 0.0.0.0 2048instances.com
-0.0.0.0 206ads.com
 0.0.0.0 20dollars2surf.com
 0.0.0.0 20f866afaf.069667261e.com
 0.0.0.0 20l2ldrn2.de
@@ -2380,7 +2379,6 @@
 0.0.0.0 a1.tbuz.com.cn
 0.0.0.0 a1.zhanzhang.net
 0.0.0.0 a11.click
-0.0.0.0 a11k.com
 0.0.0.0 a11ybar.com
 0.0.0.0 a1ajfrk4i.com
 0.0.0.0 a1businessnet.live
@@ -10173,6 +10171,7 @@
 0.0.0.0 beaccustomed.com
 0.0.0.0 beach-vacation.site
 0.0.0.0 beachitem.com
+0.0.0.0 beachwalkbali.com
 0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
 0.0.0.0 beacon.adelphic.com
@@ -11375,7 +11374,6 @@
 0.0.0.0 blastydollars.shop
 0.0.0.0 blattberlin.com
 0.0.0.0 blattbucht.de
-0.0.0.0 blattverkauf.com
 0.0.0.0 blaudonau.com
 0.0.0.0 blaudonau.de
 0.0.0.0 blaudonu.de
@@ -12081,7 +12079,6 @@
 0.0.0.0 brationalfilarded.com
 0.0.0.0 braucheschnell.com
 0.0.0.0 braunboutique.com
-0.0.0.0 brauneagrar.com
 0.0.0.0 braunsale.de
 0.0.0.0 brave-village.com
 0.0.0.0 bravedkarren.com
@@ -12172,7 +12169,6 @@
 0.0.0.0 brevitychestprocess.com
 0.0.0.0 brewheaven.shop
 0.0.0.0 brewingeasel.com
-0.0.0.0 brezella.com
 0.0.0.0 brgnthxurfpzf.space
 0.0.0.0 brick.xhamster.com
 0.0.0.0 brick.xhamster.desi
@@ -12262,7 +12258,6 @@
 0.0.0.0 brm68.xnxx-hindi.com
 0.0.0.0 brmljcaxcchtu.space
 0.0.0.0 brmrfxnpajqqx.site
-0.0.0.0 brnghl.shop
 0.0.0.0 brnju6iwxxgozijo3t.rest
 0.0.0.0 brnyzr.icu
 0.0.0.0 broadensilkslush.com
@@ -12302,7 +12297,6 @@
 0.0.0.0 brooks.co.at
 0.0.0.0 brookslaufschuhesale.de
 0.0.0.0 brooksoutletsale.de
-0.0.0.0 brooksrunningconnect.com
 0.0.0.0 brookss.at
 0.0.0.0 brooksschuhe.de
 0.0.0.0 brooksschuheberlin.de
@@ -12373,7 +12367,6 @@
 0.0.0.0 brunettescarecrowyoga.com
 0.0.0.0 brunnercampen.com
 0.0.0.0 brunnerluzern.com
-0.0.0.0 brunoberg.com
 0.0.0.0 bruntstabulae.com
 0.0.0.0 brushshope.com
 0.0.0.0 brushtriplehorns.com
@@ -12535,7 +12528,6 @@
 0.0.0.0 buckbirch.com
 0.0.0.0 bucklechemistdensity.com
 0.0.0.0 buckleybelts.de
-0.0.0.0 buckleyswiss.com
 0.0.0.0 buckumoore.com
 0.0.0.0 buckweeklyrecording.com
 0.0.0.0 buddhapowerstore.com
@@ -12601,7 +12593,6 @@
 0.0.0.0 buljlwaclnocq.site
 0.0.0.0 bulksellmart.co.uk
 0.0.0.0 bulky-battle.com
-0.0.0.0 bull-verse.org
 0.0.0.0 bullanagal.qpon
 0.0.0.0 bullbit.net
 0.0.0.0 bullbittrade.com
@@ -13264,7 +13255,6 @@
 0.0.0.0 camperschuh.com
 0.0.0.0 camperschuhe.at
 0.0.0.0 campfirecroutondecorator.com
-0.0.0.0 campfuns.com
 0.0.0.0 camping-bewegung.com
 0.0.0.0 campingandsurf.com
 0.0.0.0 campingangebote-de.com
@@ -13277,13 +13267,11 @@
 0.0.0.0 campingplatze-de.com
 0.0.0.0 campingspezialisten.com
 0.0.0.0 campingstuhleshop.com
-0.0.0.0 campingsupplybest.com
 0.0.0.0 campingsverkauf.com
 0.0.0.0 campingzubehorhub.com
 0.0.0.0 camplacecash.com
 0.0.0.0 camplethora.com
 0.0.0.0 camptool-shop.com
-0.0.0.0 camptotalneu.com
 0.0.0.0 camptwined.com
 0.0.0.0 campusexcessively.com
 0.0.0.0 cams.enjoy.be
@@ -13302,7 +13290,6 @@
 0.0.0.0 canadasale365.com
 0.0.0.0 canadatrustmed.com
 0.0.0.0 canadawidepharmacy.com
-0.0.0.0 canadian-rxpharmacy.com
 0.0.0.0 canadianhealthcaremalll.com
 0.0.0.0 canadianhealthcarepharmacymall.com
 0.0.0.0 canadianhealthncaremall.com
@@ -13310,7 +13297,6 @@
 0.0.0.0 canadiannewstoday.com
 0.0.0.0 canadianpharmacysir.com
 0.0.0.0 canamoreggae.qpon
-0.0.0.0 canaryrentalvillas.com
 0.0.0.0 canaryvacationhome.com
 0.0.0.0 canbrace.com
 0.0.0.0 canceltrustingunderuse.com
@@ -13428,7 +13414,6 @@
 0.0.0.0 carbondeluxe.de
 0.0.0.0 carbonfeverthink.com
 0.0.0.0 carcflma.de
-0.0.0.0 carculturein.com
 0.0.0.0 cardboardcrispyrover.com
 0.0.0.0 cardermats.com
 0.0.0.0 cardiganpalmreconcile.com
@@ -13501,7 +13486,6 @@
 0.0.0.0 carrick-ui.advoncommerce.com
 0.0.0.0 carriedamiral.com
 0.0.0.0 carrier202205.tokyo
-0.0.0.0 carrieri-handel.de
 0.0.0.0 carryglanced.com
 0.0.0.0 carryingalfredparticipant.com
 0.0.0.0 carshades.at
@@ -28135,7 +28119,6 @@
 0.0.0.0 generic4all-global.com
 0.0.0.0 generic4allglobal.com
 0.0.0.0 genericdianawitty.com
-0.0.0.0 genericdoctor.com
 0.0.0.0 genericeupills.com
 0.0.0.0 genericsbot.com
 0.0.0.0 genericshop-247.eu
@@ -29724,6 +29707,7 @@
 0.0.0.0 groundiesoutlet.de
 0.0.0.0 groundiesschoenennederland.com
 0.0.0.0 groundiesshop.at
+0.0.0.0 groundiesukshoes.com
 0.0.0.0 groundlesscobwebmiller.com
 0.0.0.0 groundlesspowder.com
 0.0.0.0 groundssoapimagination.com
@@ -36387,7 +36371,6 @@
 0.0.0.0 kamagra-premium.net
 0.0.0.0 kamagra-pro.com
 0.0.0.0 kamagra-pro.net
-0.0.0.0 kamagra-pro.online
 0.0.0.0 kamagra-prodej-online.eu
 0.0.0.0 kamagra-prodej.cz
 0.0.0.0 kamagra-prodej.online
@@ -38577,6 +38560,7 @@
 0.0.0.0 lekaren-slovenska247.com
 0.0.0.0 lekarenjedna.com
 0.0.0.0 lekarenonline.com
+0.0.0.0 lekarenprevas.sk
 0.0.0.0 lekarenslovenska.com
 0.0.0.0 lekarenslovenska.sk
 0.0.0.0 lekarenslovenska24.com
@@ -43807,6 +43791,7 @@
 0.0.0.0 moontuftboy.com
 0.0.0.0 moonx.io
 0.0.0.0 mooredvazwe.myshopify.com
+0.0.0.0 mooris.de
 0.0.0.0 moornseelily.shop
 0.0.0.0 moose.octo.app
 0.0.0.0 moosufergarten.de
@@ -47295,7 +47280,6 @@
 0.0.0.0 oijcphjwiabsg.online
 0.0.0.0 oijhekvoh.com
 0.0.0.0 oikmvbuy.shop
-0.0.0.0 oil-profits.com
 0.0.0.0 oilcontainsdisaster.com
 0.0.0.0 oilexa.de
 0.0.0.0 oilprofit.io
@@ -63451,6 +63435,7 @@
 0.0.0.0 tcgikincfivus.online
 0.0.0.0 tcgjhulupwqpc.space
 0.0.0.0 tcihfguqejvsf.online
+0.0.0.0 tcinosgroup.com
 0.0.0.0 tcjaslvajucmt.online
 0.0.0.0 tcjvlnvuyjeb.com
 0.0.0.0 tcmcpbjvotuaa.space
@@ -63494,7 +63479,6 @@
 0.0.0.0 tdsafe.org
 0.0.0.0 tdslinetraffic.com
 0.0.0.0 tdxsz.com
-0.0.0.0 te.de
 0.0.0.0 teachbrigh.com
 0.0.0.0 teacherrecollect.com
 0.0.0.0 teachgallop.com

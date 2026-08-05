@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-08-05 01:48:10
-# Total Domains: 76,118
+# Last Updated: 2026-08-05 09:52:36
+# Total Domains: 76,102
 # ==========================================
 *.0-02.net
 *.0.myikas.com
@@ -564,7 +564,6 @@
 *.2048executors.com
 *.2048hydreo.net
 *.2048instances.com
-*.206ads.com
 *.20dollars2surf.com
 *.20f866afaf.069667261e.com
 *.20l2ldrn2.de
@@ -2378,7 +2377,6 @@
 *.a1.tbuz.com.cn
 *.a1.zhanzhang.net
 *.a11.click
-*.a11k.com
 *.a11ybar.com
 *.a1ajfrk4i.com
 *.a1businessnet.live
@@ -10171,6 +10169,7 @@
 *.beaccustomed.com
 *.beach-vacation.site
 *.beachitem.com
+*.beachwalkbali.com
 *.beacon-api.aliyuncs.com
 *.beacon-fullpage-predictor.goguardian.com
 *.beacon.adelphic.com
@@ -11373,7 +11372,6 @@
 *.blastydollars.shop
 *.blattberlin.com
 *.blattbucht.de
-*.blattverkauf.com
 *.blaudonau.com
 *.blaudonau.de
 *.blaudonu.de
@@ -12079,7 +12077,6 @@
 *.brationalfilarded.com
 *.braucheschnell.com
 *.braunboutique.com
-*.brauneagrar.com
 *.braunsale.de
 *.brave-village.com
 *.bravedkarren.com
@@ -12170,7 +12167,6 @@
 *.brevitychestprocess.com
 *.brewheaven.shop
 *.brewingeasel.com
-*.brezella.com
 *.brgnthxurfpzf.space
 *.brick.xhamster.com
 *.brick.xhamster.desi
@@ -12260,7 +12256,6 @@
 *.brm68.xnxx-hindi.com
 *.brmljcaxcchtu.space
 *.brmrfxnpajqqx.site
-*.brnghl.shop
 *.brnju6iwxxgozijo3t.rest
 *.brnyzr.icu
 *.broadensilkslush.com
@@ -12300,7 +12295,6 @@
 *.brooks.co.at
 *.brookslaufschuhesale.de
 *.brooksoutletsale.de
-*.brooksrunningconnect.com
 *.brookss.at
 *.brooksschuhe.de
 *.brooksschuheberlin.de
@@ -12371,7 +12365,6 @@
 *.brunettescarecrowyoga.com
 *.brunnercampen.com
 *.brunnerluzern.com
-*.brunoberg.com
 *.bruntstabulae.com
 *.brushshope.com
 *.brushtriplehorns.com
@@ -12533,7 +12526,6 @@
 *.buckbirch.com
 *.bucklechemistdensity.com
 *.buckleybelts.de
-*.buckleyswiss.com
 *.buckumoore.com
 *.buckweeklyrecording.com
 *.buddhapowerstore.com
@@ -12599,7 +12591,6 @@
 *.buljlwaclnocq.site
 *.bulksellmart.co.uk
 *.bulky-battle.com
-*.bull-verse.org
 *.bullanagal.qpon
 *.bullbit.net
 *.bullbittrade.com
@@ -13262,7 +13253,6 @@
 *.camperschuh.com
 *.camperschuhe.at
 *.campfirecroutondecorator.com
-*.campfuns.com
 *.camping-bewegung.com
 *.campingandsurf.com
 *.campingangebote-de.com
@@ -13275,13 +13265,11 @@
 *.campingplatze-de.com
 *.campingspezialisten.com
 *.campingstuhleshop.com
-*.campingsupplybest.com
 *.campingsverkauf.com
 *.campingzubehorhub.com
 *.camplacecash.com
 *.camplethora.com
 *.camptool-shop.com
-*.camptotalneu.com
 *.camptwined.com
 *.campusexcessively.com
 *.cams.enjoy.be
@@ -13300,7 +13288,6 @@
 *.canadasale365.com
 *.canadatrustmed.com
 *.canadawidepharmacy.com
-*.canadian-rxpharmacy.com
 *.canadianhealthcaremalll.com
 *.canadianhealthcarepharmacymall.com
 *.canadianhealthncaremall.com
@@ -13308,7 +13295,6 @@
 *.canadiannewstoday.com
 *.canadianpharmacysir.com
 *.canamoreggae.qpon
-*.canaryrentalvillas.com
 *.canaryvacationhome.com
 *.canbrace.com
 *.canceltrustingunderuse.com
@@ -13426,7 +13412,6 @@
 *.carbondeluxe.de
 *.carbonfeverthink.com
 *.carcflma.de
-*.carculturein.com
 *.cardboardcrispyrover.com
 *.cardermats.com
 *.cardiganpalmreconcile.com
@@ -13499,7 +13484,6 @@
 *.carrick-ui.advoncommerce.com
 *.carriedamiral.com
 *.carrier202205.tokyo
-*.carrieri-handel.de
 *.carryglanced.com
 *.carryingalfredparticipant.com
 *.carshades.at
@@ -28133,7 +28117,6 @@
 *.generic4all-global.com
 *.generic4allglobal.com
 *.genericdianawitty.com
-*.genericdoctor.com
 *.genericeupills.com
 *.genericsbot.com
 *.genericshop-247.eu
@@ -29722,6 +29705,7 @@
 *.groundiesoutlet.de
 *.groundiesschoenennederland.com
 *.groundiesshop.at
+*.groundiesukshoes.com
 *.groundlesscobwebmiller.com
 *.groundlesspowder.com
 *.groundssoapimagination.com
@@ -36385,7 +36369,6 @@
 *.kamagra-premium.net
 *.kamagra-pro.com
 *.kamagra-pro.net
-*.kamagra-pro.online
 *.kamagra-prodej-online.eu
 *.kamagra-prodej.cz
 *.kamagra-prodej.online
@@ -38575,6 +38558,7 @@
 *.lekaren-slovenska247.com
 *.lekarenjedna.com
 *.lekarenonline.com
+*.lekarenprevas.sk
 *.lekarenslovenska.com
 *.lekarenslovenska.sk
 *.lekarenslovenska24.com
@@ -43805,6 +43789,7 @@
 *.moontuftboy.com
 *.moonx.io
 *.mooredvazwe.myshopify.com
+*.mooris.de
 *.moornseelily.shop
 *.moose.octo.app
 *.moosufergarten.de
@@ -47293,7 +47278,6 @@
 *.oijcphjwiabsg.online
 *.oijhekvoh.com
 *.oikmvbuy.shop
-*.oil-profits.com
 *.oilcontainsdisaster.com
 *.oilexa.de
 *.oilprofit.io
@@ -63449,6 +63433,7 @@
 *.tcgikincfivus.online
 *.tcgjhulupwqpc.space
 *.tcihfguqejvsf.online
+*.tcinosgroup.com
 *.tcjaslvajucmt.online
 *.tcjvlnvuyjeb.com
 *.tcmcpbjvotuaa.space
@@ -63492,7 +63477,6 @@
 *.tdsafe.org
 *.tdslinetraffic.com
 *.tdxsz.com
-*.te.de
 *.teachbrigh.com
 *.teacherrecollect.com
 *.teachgallop.com
