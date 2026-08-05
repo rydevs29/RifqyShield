@@ -1,6 +1,7 @@
 import os
 import re
 import urllib.request
+import json
 from datetime import datetime
 
 # ================= K O N F I G U R A S I  V A R I A N =================
@@ -150,10 +151,10 @@ def write_files(variant_name, domains_list):
         f.write(header_bang)
         for d in domains_list: f.write(f"||{d}^\n")
     
-    # 4. AdGuard Home
-    with open(os.path.join(target_dir, 'adguard.txt'), 'w') as f:
-        f.write(header_bang)
-        for d in domains_list: f.write(f"||{d}^$important\n")
+    # 4. SmartDNS OpenWrt [PENGGANTI adguard.txt]
+    with open(os.path.join(target_dir, 'smartdns.conf'), 'w') as f:
+        f.write(header_hash)
+        for d in domains_list: f.write(f"address /{d}/#\n")
     
     # 5. DNSMasq
     with open(os.path.join(target_dir, 'dnsmasq.conf'), 'w') as f:
@@ -170,18 +171,18 @@ def write_files(variant_name, domains_list):
         f.write(header_hash)
         for d in domains_list: f.write(f'local-zone: "{d}" always_nxdomain\n')
     
-    # 8. BIND DNS
-    with open(os.path.join(target_dir, 'bind.conf'), 'w') as f:
-        f.write(header_hash.replace('#', '//'))
-        for d in domains_list: f.write(f'zone "{d}" {{ type master; file "/etc/bind/db.empty"; }};\n')
+    # 8. RPZ (Response Policy Zone) [PENGGANTI bind.conf]
+    with open(os.path.join(target_dir, 'rpz.txt'), 'w') as f:
+        f.write(header_hash)
+        for d in domains_list: f.write(f"{d} CNAME .\n")
     
     # 9. Surge
     with open(os.path.join(target_dir, 'surge.list'), 'w') as f:
         f.write(header_hash)
         for d in domains_list: f.write(f"DOMAIN-SUFFIX,{d},REJECT\n")
     
-    # 10. Clash / Clash Meta
-    with open(os.path.join(target_dir, 'clash.yaml'), 'w') as f:
+    # 10. Mihomo / Clash Meta [UPGRADE NAMA DARI clash.yaml]
+    with open(os.path.join(target_dir, 'mihomo.yaml'), 'w') as f:
         f.write(header_hash + "payload:\n")
         for d in domains_list: f.write(f"  - DOMAIN-SUFFIX,{d}\n")
     
@@ -190,10 +191,17 @@ def write_files(variant_name, domains_list):
         f.write(header_hash)
         for d in domains_list: f.write(f"HOST-SUFFIX,{d},reject\n")
     
-    # 12. Loon
-    with open(os.path.join(target_dir, 'loon.list'), 'w') as f:
-        f.write(header_hash)
-        for d in domains_list: f.write(f"DOMAIN-SUFFIX,{d},REJECT\n")
+    # 12. Sing-box Rule Set JSON [PENGGANTI loon.list]
+    with open(os.path.join(target_dir, 'singbox.json'), 'w') as f:
+        singbox_payload = {
+            "version": 1,
+            "rules": [
+                {
+                    "domain_suffix": domains_list
+                }
+            ]
+        }
+        json.dump(singbox_payload, f, indent=2)
     
     # 13. Wildcard
     with open(os.path.join(target_dir, 'wildcard.txt'), 'w') as f:
