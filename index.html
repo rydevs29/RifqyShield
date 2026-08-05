@@ -80,6 +80,73 @@
             box-shadow: var(--shadow-sm);
         }
 
+        /* Chrome Extension Banner (V5 God Mode) */
+        .ext-banner {
+            margin: 2.5rem auto 1rem auto;
+            max-width: 850px;
+            background: linear-gradient(135deg, rgba(30, 41, 59, 0.9), rgba(15, 23, 42, 0.9));
+            border: 1px solid var(--accent);
+            border-radius: 16px;
+            padding: 1.5rem 2rem;
+            box-shadow: var(--shadow-lg);
+            text-align: left;
+            display: flex;
+            flex-direction: column;
+            gap: 0.75rem;
+        }
+
+        .ext-banner-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .ext-banner-title {
+            font-size: 1.15rem;
+            font-weight: 700;
+            color: #fff;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .ext-badge {
+            background: var(--accent);
+            color: #fff;
+            font-size: 0.7rem;
+            font-weight: 800;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .ext-banner-desc {
+            color: var(--text-muted);
+            font-size: 0.92rem;
+            line-height: 1.6;
+            margin: 0;
+        }
+
+        .ext-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-top: 0.25rem;
+        }
+
+        .ext-tag {
+            background: rgba(51, 65, 85, 0.6);
+            border: 1px solid #475569;
+            color: #e2e8f0;
+            font-size: 0.78rem;
+            font-weight: 600;
+            padding: 0.25rem 0.65rem;
+            border-radius: 8px;
+        }
+
         /* Features Table */
         .features-table {
             width: 100%;
@@ -244,6 +311,27 @@
             <svg height="20" width="20" viewBox="0 0 16 16" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
             View on GitHub
         </a>
+
+        <div class="ext-banner">
+            <div class="ext-banner-header">
+                <div class="ext-banner-title">
+                    🛡️ RifqyShield V5 Chrome Extension <span class="ext-badge">God Mode</span>
+                </div>
+            </div>
+            <p class="ext-banner-desc">
+                Take your browser protection to the next level. Featuring real-time Ad-blocker, Privacy Protector, Focus Mode, YouTube Ad-Killer, Anti-Paywall, Sniper Element Eraser, Picture-in-Picture (PiP), and seamless Remote Database Sync.
+            </p>
+            <div class="ext-tags">
+                <span class="ext-tag">🚫 Ad-Blocker</span>
+                <span class="ext-tag">🎯 Sniper Mode</span>
+                <span class="ext-tag">⚡ YouTube Ad-Killer</span>
+                <span class="ext-tag">🔒 Privacy Stealth</span>
+                <span class="ext-tag">🧘 Focus Mode</span>
+                <span class="ext-tag">📰 Anti-Paywall</span>
+                <span class="ext-tag">📺 PiP Support</span>
+                <span class="ext-tag">🔄 Cloud Sync</span>
+            </div>
+        </div>
     </header>
 
     <h2 style="text-align: center; margin-bottom: 1.5rem; font-size: 1.8rem;">Protection Coverage</h2>
@@ -289,14 +377,14 @@
                 <button class="copy-btn" onclick="copyLink(this, 'lite/adblock.txt')">
                     <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'lite/adguard.txt')">
-                    <span class="format">AdGuard</span> <span>AdGuard Home</span>
+                <button class="copy-btn" onclick="copyLink(this, 'lite/smartdns.conf')">
+                    <span class="format">SmartDNS</span> <span>OpenWrt / STB</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'lite/bind.conf')">
-                    <span class="format">BIND</span> <span>BIND DNS</span>
+                <button class="copy-btn" onclick="copyLink(this, 'lite/rpz.txt')">
+                    <span class="format">RPZ</span> <span>BIND / Unbound / Knot</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'lite/clash.yaml')">
-                    <span class="format">Clash</span> <span>Clash / Meta</span>
+                <button class="copy-btn" onclick="copyLink(this, 'lite/mihomo.yaml')">
+                    <span class="format">Mihomo</span> <span>Clash Meta / Mihomo</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'lite/dnsmasq.conf')">
                     <span class="format">Dnsmasq</span> <span>Pi-hole / OpenWrt</span>
@@ -304,8 +392,8 @@
                 <button class="copy-btn" onclick="copyLink(this, 'lite/hosts.txt')">
                     <span class="format">Hosts</span> <span>OS / Local</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'lite/loon.list')">
-                    <span class="format">Loon</span> <span>Loon Proxy</span>
+                <button class="copy-btn" onclick="copyLink(this, 'lite/singbox.json')">
+                    <span class="format">Sing-box</span> <span>Sing-box Rule Set</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'lite/mikrotik.rsc')">
                     <span class="format">MikroTik</span> <span>RouterOS</span>
@@ -323,7 +411,7 @@
                     <span class="format">Unbound</span> <span>Unbound DNS</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'lite/wildcard.txt')">
-                    <span class="format">Wildcard</span> <span>SmartDNS</span>
+                    <span class="format">Wildcard</span> <span>SmartDNS / Dnsmasq</span>
                 </button>
             </div>
         </div>
@@ -336,14 +424,14 @@
                 <button class="copy-btn" onclick="copyLink(this, 'medium/adblock.txt')">
                     <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'medium/adguard.txt')">
-                    <span class="format">AdGuard</span> <span>AdGuard Home</span>
+                <button class="copy-btn" onclick="copyLink(this, 'medium/smartdns.conf')">
+                    <span class="format">SmartDNS</span> <span>OpenWrt / STB</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'medium/bind.conf')">
-                    <span class="format">BIND</span> <span>BIND DNS</span>
+                <button class="copy-btn" onclick="copyLink(this, 'medium/rpz.txt')">
+                    <span class="format">RPZ</span> <span>BIND / Unbound / Knot</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'medium/clash.yaml')">
-                    <span class="format">Clash</span> <span>Clash / Meta</span>
+                <button class="copy-btn" onclick="copyLink(this, 'medium/mihomo.yaml')">
+                    <span class="format">Mihomo</span> <span>Clash Meta / Mihomo</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'medium/dnsmasq.conf')">
                     <span class="format">Dnsmasq</span> <span>Pi-hole / OpenWrt</span>
@@ -351,8 +439,8 @@
                 <button class="copy-btn" onclick="copyLink(this, 'medium/hosts.txt')">
                     <span class="format">Hosts</span> <span>OS / Local</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'medium/loon.list')">
-                    <span class="format">Loon</span> <span>Loon Proxy</span>
+                <button class="copy-btn" onclick="copyLink(this, 'medium/singbox.json')">
+                    <span class="format">Sing-box</span> <span>Sing-box Rule Set</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'medium/mikrotik.rsc')">
                     <span class="format">MikroTik</span> <span>RouterOS</span>
@@ -370,7 +458,7 @@
                     <span class="format">Unbound</span> <span>Unbound DNS</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'medium/wildcard.txt')">
-                    <span class="format">Wildcard</span> <span>SmartDNS</span>
+                    <span class="format">Wildcard</span> <span>SmartDNS / Dnsmasq</span>
                 </button>
             </div>
         </div>
@@ -383,14 +471,14 @@
                 <button class="copy-btn" onclick="copyLink(this, 'ultimate/adblock.txt')">
                     <span class="format">AdBlock</span> <span>uBlock / 1DM</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'ultimate/adguard.txt')">
-                    <span class="format">AdGuard</span> <span>AdGuard Home</span>
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/smartdns.conf')">
+                    <span class="format">SmartDNS</span> <span>OpenWrt / STB</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'ultimate/bind.conf')">
-                    <span class="format">BIND</span> <span>BIND DNS</span>
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/rpz.txt')">
+                    <span class="format">RPZ</span> <span>BIND / Unbound / Knot</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'ultimate/clash.yaml')">
-                    <span class="format">Clash</span> <span>Clash / Meta</span>
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/mihomo.yaml')">
+                    <span class="format">Mihomo</span> <span>Clash Meta / Mihomo</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'ultimate/dnsmasq.conf')">
                     <span class="format">Dnsmasq</span> <span>Pi-hole / OpenWrt</span>
@@ -398,8 +486,8 @@
                 <button class="copy-btn" onclick="copyLink(this, 'ultimate/hosts.txt')">
                     <span class="format">Hosts</span> <span>OS / Local</span>
                 </button>
-                <button class="copy-btn" onclick="copyLink(this, 'ultimate/loon.list')">
-                    <span class="format">Loon</span> <span>Loon Proxy</span>
+                <button class="copy-btn" onclick="copyLink(this, 'ultimate/singbox.json')">
+                    <span class="format">Sing-box</span> <span>Sing-box Rule Set</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'ultimate/mikrotik.rsc')">
                     <span class="format">MikroTik</span> <span>RouterOS</span>
@@ -417,7 +505,7 @@
                     <span class="format">Unbound</span> <span>Unbound DNS</span>
                 </button>
                 <button class="copy-btn" onclick="copyLink(this, 'ultimate/wildcard.txt')">
-                    <span class="format">Wildcard</span> <span>SmartDNS</span>
+                    <span class="format">Wildcard</span> <span>SmartDNS / Dnsmasq</span>
                 </button>
             </div>
         </div>
@@ -446,4 +534,4 @@
 </script>
 
 </body>
-</html>
+                        </html>
