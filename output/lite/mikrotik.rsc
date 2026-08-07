@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-08-06 01:48:31
-# Total Domains: 76,301
+# Last Updated: 2026-08-07 02:12:26
+# Total Domains: 76,348
 # ==========================================
 /ip dns static
 add name="0-02.net" address=0.0.0.0
@@ -954,7 +954,6 @@ add name="36bd0d2ae3.caf44f3d39.com" address=0.0.0.0
 add name="3709c398e2.7878ba0587.com" address=0.0.0.0
 add name="37126f49b1.453f8e0630.com" address=0.0.0.0
 add name="372ae6b830.com" address=0.0.0.0
-add name="37371489bd.com" address=0.0.0.0
 add name="37b3eaaf9a.com" address=0.0.0.0
 add name="37bf116186.com" address=0.0.0.0
 add name="37ccf2671e.95ce9fb0ff.com" address=0.0.0.0
@@ -1051,7 +1050,6 @@ add name="3s7m2ss7g.com" address=0.0.0.0
 add name="3sd6w6oga9.com" address=0.0.0.0
 add name="3sixteenonline.org" address=0.0.0.0
 add name="3sqvexc60y.com" address=0.0.0.0
-add name="3tll4bl5fhk9ttg.rest" address=0.0.0.0
 add name="3u3ymbqj.xyz" address=0.0.0.0
 add name="3vetz.com" address=0.0.0.0
 add name="3vnofjidlv.com" address=0.0.0.0
@@ -1143,14 +1141,12 @@ add name="46y7erj0mw.com" address=0.0.0.0
 add name="47235645.xyz" address=0.0.0.0
 add name="478789.everydayporn.co" address=0.0.0.0
 add name="479d24d9fd.com" address=0.0.0.0
-add name="47b48d19d4.com" address=0.0.0.0
 add name="47c50e31a9.com" address=0.0.0.0
 add name="47cb693fa6.com" address=0.0.0.0
 add name="480executors.net" address=0.0.0.0
 add name="483cab1ae9.638e922b9c.com" address=0.0.0.0
 add name="485bd96db9.7d9d50ada1.com" address=0.0.0.0
 add name="4863232c.xyz" address=0.0.0.0
-add name="48c5089fa7.com" address=0.0.0.0
 add name="48dswtxkw.com" address=0.0.0.0
 add name="48r3l2u5l2.com" address=0.0.0.0
 add name="492plugins.com" address=0.0.0.0
@@ -1278,7 +1274,6 @@ add name="51gxqm.com" address=0.0.0.0
 add name="51ympuu7y.com" address=0.0.0.0
 add name="520outresource.net" address=0.0.0.0
 add name="520withsidebar.com" address=0.0.0.0
-add name="521c61e9f6.com" address=0.0.0.0
 add name="527tollv.xyz" address=0.0.0.0
 add name="528b4dabec.com" address=0.0.0.0
 add name="52992ea523.com" address=0.0.0.0
@@ -2730,7 +2725,6 @@ add name="abolishmentpass.com" address=0.0.0.0
 add name="abolt.xyz" address=0.0.0.0
 add name="abominableasperitysupper.com" address=0.0.0.0
 add name="abominableexhibition.com" address=0.0.0.0
-add name="abongorigid.cyou" address=0.0.0.0
 add name="abonnementdisconnect.com" address=0.0.0.0
 add name="abonnementtripleexplore.com" address=0.0.0.0
 add name="aboriginalefficiencystepmother.com" address=0.0.0.0
@@ -2933,7 +2927,6 @@ add name="accordancetimeneedless.com" address=0.0.0.0
 add name="accordinglysaddleknew.com" address=0.0.0.0
 add name="accorduntiltramp.com" address=0.0.0.0
 add name="account.beauty" address=0.0.0.0
-add name="account.cmagruppe.com" address=0.0.0.0
 add name="accountantflowerrespiration.com" address=0.0.0.0
 add name="accountfluid.com" address=0.0.0.0
 add name="accountinglocksmithcontinental.com" address=0.0.0.0
@@ -4034,6 +4027,7 @@ add name="adoptedlaxstrenuous.com" address=0.0.0.0
 add name="adoptionconcerned.com" address=0.0.0.0
 add name="adorableold.com" address=0.0.0.0
 add name="adorablepromotion.com" address=0.0.0.0
+add name="adorablequestion.pro" address=0.0.0.0
 add name="adorarama.com" address=0.0.0.0
 add name="adorefemininecare.com" address=0.0.0.0
 add name="adoreplans.com" address=0.0.0.0
@@ -4593,7 +4587,6 @@ add name="ads.yimg.com" address=0.0.0.0
 add name="ads.youtube.com" address=0.0.0.0
 add name="ads.zalo.me" address=0.0.0.0
 add name="ads.zaloapp.com" address=0.0.0.0
-add name="ads.zascdn.me" address=0.0.0.0
 add name="ads.zhinengxiyifang.cn" address=0.0.0.0
 add name="ads.zunia.vn" address=0.0.0.0
 add name="ads01.pages.dev" address=0.0.0.0
@@ -5257,6 +5250,7 @@ add name="aegmdwmvhesof.website" address=0.0.0.0
 add name="aegxekrepfbqw.com" address=0.0.0.0
 add name="aehcglvkpn.com" address=0.0.0.0
 add name="aehesis.de" address=0.0.0.0
+add name="aehjiuheifpop.online" address=0.0.0.0
 add name="aeiptbtyknklq.online" address=0.0.0.0
 add name="aeisqs.icu" address=0.0.0.0
 add name="aeke-smart.com" address=0.0.0.0
@@ -5522,6 +5516,7 @@ add name="agencyrearrangepasture.com" address=0.0.0.0
 add name="agencytroops.com" address=0.0.0.0
 add name="agendacomedian.com" address=0.0.0.0
 add name="agendadejection.com" address=0.0.0.0
+add name="agenizeoutplod.qpon" address=0.0.0.0
 add name="agent-server.sc-api.seaart.ai" address=0.0.0.0
 add name="agent.tamedia.com.tw" address=0.0.0.0
 add name="agenteimmobiliare.info" address=0.0.0.0
@@ -6344,6 +6339,7 @@ add name="am.yahoo.co.jp" address=0.0.0.0
 add name="am15.net" address=0.0.0.0
 add name="amaabfvuyispa.space" address=0.0.0.0
 add name="amaerodactylon.com" address=0.0.0.0
+add name="amajpyadbptym.website" address=0.0.0.0
 add name="amala-wav.com" address=0.0.0.0
 add name="amamaunuque.cyou" address=0.0.0.0
 add name="amamdaugeoqll.website" address=0.0.0.0
@@ -7588,6 +7584,7 @@ add name="api.ads.xiaomi.com" address=0.0.0.0
 add name="api.adultsclips.com" address=0.0.0.0
 add name="api.adxnow.com" address=0.0.0.0
 add name="api.amplitudeexperiment.com" address=0.0.0.0
+add name="api.analytics.dobrosvyaz.com" address=0.0.0.0
 add name="api.analytics.omgpop.com" address=0.0.0.0
 add name="api.antibanads.com" address=0.0.0.0
 add name="api.applicationinsights.azure.cn" address=0.0.0.0
@@ -8234,7 +8231,6 @@ add name="arqjnojtrrwfd.space" address=0.0.0.0
 add name="arquetiposhop.com.br" address=0.0.0.0
 add name="arqzjlq.shop" address=0.0.0.0
 add name="arrangedateslocally.com" address=0.0.0.0
-add name="arrangementsfilter.com" address=0.0.0.0
 add name="arraydepressinginnocence.com" address=0.0.0.0
 add name="arrdnboauysbn.com" address=0.0.0.0
 add name="arredamenti-italia.de" address=0.0.0.0
@@ -8771,6 +8767,7 @@ add name="au-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="au-meds.com" address=0.0.0.0
 add name="au.ff.avast.sec.miui.com" address=0.0.0.0
 add name="au.lgsmartad.com" address=0.0.0.0
+add name="auabdbwkcezbd.website" address=0.0.0.0
 add name="auajhmhuyzfel.online" address=0.0.0.0
 add name="aubhgnoealbnx.space" address=0.0.0.0
 add name="auburn9819.com" address=0.0.0.0
@@ -8831,6 +8828,7 @@ add name="auibdnglnixan.space" address=0.0.0.0
 add name="auikeilhosl.com" address=0.0.0.0
 add name="aukgiecbioahe.website" address=0.0.0.0
 add name="aukjylvsljien.site" address=0.0.0.0
+add name="aukmspkqzptsn.site" address=0.0.0.0
 add name="aulahmuuniglx.space" address=0.0.0.0
 add name="aunehofyojgfq.space" address=0.0.0.0
 add name="aunnnuvegyzfm.website" address=0.0.0.0
@@ -9247,6 +9245,7 @@ add name="axpedsqboflar.space" address=0.0.0.0
 add name="axpsv.com" address=0.0.0.0
 add name="axshhgmltiycy.site" address=0.0.0.0
 add name="axupfpniadauk.site" address=0.0.0.0
+add name="axvckywcu.in" address=0.0.0.0
 add name="axvjfzbwezssw.site" address=0.0.0.0
 add name="axwpbsweuwclq.space" address=0.0.0.0
 add name="axwyfulzdxrdi.space" address=0.0.0.0
@@ -9587,7 +9586,6 @@ add name="bagsgarnish.com" address=0.0.0.0
 add name="bagsimportancepropose.com" address=0.0.0.0
 add name="baguettefactornervous.com" address=0.0.0.0
 add name="baguioattalea.com" address=0.0.0.0
-add name="bagwashhabeas.qpon" address=0.0.0.0
 add name="bahiwa.com" address=0.0.0.0
 add name="bahnemanninvest.net" address=0.0.0.0
 add name="bahnhof-apotheke-hersbruck.de" address=0.0.0.0
@@ -10048,6 +10046,7 @@ add name="bbssgjpbdrurh.space" address=0.0.0.0
 add name="bbtuvgqhflajx.com" address=0.0.0.0
 add name="bbtvpnqyvdzmq.website" address=0.0.0.0
 add name="bbtzmolquyfhe.website" address=0.0.0.0
+add name="bbunieesjwuiz.space" address=0.0.0.0
 add name="bbxkqbbqwzojv.space" address=0.0.0.0
 add name="bbyoktrreb.com" address=0.0.0.0
 add name="bbyyqitxuplnz.site" address=0.0.0.0
@@ -10087,6 +10086,7 @@ add name="bcsyfuhahnlmh.online" address=0.0.0.0
 add name="bctt.igaming-service.io" address=0.0.0.0
 add name="bctuafpdwarbm.site" address=0.0.0.0
 add name="bcvxynjpdtrcc.space" address=0.0.0.0
+add name="bcwhnizcbethy.website" address=0.0.0.0
 add name="bcwpdvigokzca.space" address=0.0.0.0
 add name="bcxauquczqgci.site" address=0.0.0.0
 add name="bcxjiouhvzyhc.site" address=0.0.0.0
@@ -10181,7 +10181,6 @@ add name="bea-s.dinghuoche.com" address=0.0.0.0
 add name="beaccustomed.com" address=0.0.0.0
 add name="beach-vacation.site" address=0.0.0.0
 add name="beachitem.com" address=0.0.0.0
-add name="beachwalkbali.com" address=0.0.0.0
 add name="beacon-api.aliyuncs.com" address=0.0.0.0
 add name="beacon-fullpage-predictor.goguardian.com" address=0.0.0.0
 add name="beacon.adelphic.com" address=0.0.0.0
@@ -10314,7 +10313,6 @@ add name="becomeapartner.io" address=0.0.0.0
 add name="becomeo21.com" address=0.0.0.0
 add name="becomeraoulia.cfd" address=0.0.0.0
 add name="becorsolaom.com" address=0.0.0.0
-add name="becurryscaring.shop" address=0.0.0.0
 add name="bedaslonejul.cc" address=0.0.0.0
 add name="bedbugknocker.de" address=0.0.0.0
 add name="beddingfetched.com" address=0.0.0.0
@@ -10525,7 +10523,6 @@ add name="bergexperten.de" address=0.0.0.0
 add name="bergfahrrad.com" address=0.0.0.0
 add name="bergfreunde-de.com" address=0.0.0.0
 add name="bergfreunde-outlet.shop" address=0.0.0.0
-add name="bergfreunde.dealy-eu.shop" address=0.0.0.0
 add name="bergkaminholz.at" address=0.0.0.0
 add name="berglust.shop" address=0.0.0.0
 add name="bergmann-dusseldorf.de" address=0.0.0.0
@@ -10764,6 +10761,7 @@ add name="betsonsport.ru" address=0.0.0.0
 add name="bettbezugrabatt.com" address=0.0.0.0
 add name="betteradsystem.com" address=0.0.0.0
 add name="betteraudience.pro" address=0.0.0.0
+add name="betterdatabase.pro" address=0.0.0.0
 add name="betterwishes-shop.com" address=0.0.0.0
 add name="betthimmel.de" address=0.0.0.0
 add name="bettingads.365scores.com" address=0.0.0.0
@@ -11162,6 +11160,7 @@ add name="bioxtrim.com" address=0.0.0.0
 add name="biphic.com" address=0.0.0.0
 add name="biqhnzqiljycl.site" address=0.0.0.0
 add name="biqqavjzrmmkr.store" address=0.0.0.0
+add name="biqtlcqiutnjk.online" address=0.0.0.0
 add name="biranco.com" address=0.0.0.0
 add name="birbmcmp.icu" address=0.0.0.0
 add name="birchflarechurch.com" address=0.0.0.0
@@ -11203,7 +11202,6 @@ add name="bitcoin-cashcard.com" address=0.0.0.0
 add name="bitcoin-everest-ai.fr" address=0.0.0.0
 add name="bitcoin-pharmacy.com" address=0.0.0.0
 add name="bitcoin-revolution.org" address=0.0.0.0
-add name="bitcoin-trader.net" address=0.0.0.0
 add name="bitcoin-up.io" address=0.0.0.0
 add name="bitcoin-xact.fr" address=0.0.0.0
 add name="bitcoinarchon.com" address=0.0.0.0
@@ -11248,6 +11246,7 @@ add name="biucjsmmvnzbm.online" address=0.0.0.0
 add name="biuealqjtqkyk.website" address=0.0.0.0
 add name="biuisz9ss.com" address=0.0.0.0
 add name="biv.gazeta.pl" address=0.0.0.0
+add name="bivogrvfyoj.in" address=0.0.0.0
 add name="bivora.de" address=0.0.0.0
 add name="bivvmhkimlqzq.store" address=0.0.0.0
 add name="biwakstern.com" address=0.0.0.0
@@ -11372,6 +11371,7 @@ add name="bladswetis.com" address=0.0.0.0
 add name="blahjclqybtig.site" address=0.0.0.0
 add name="blahlivedsnowdrop.com" address=0.0.0.0
 add name="blahorderly.com" address=0.0.0.0
+add name="blakeunwanted.com" address=0.0.0.0
 add name="blamads.com" address=0.0.0.0
 add name="blamelessopposite.com" address=0.0.0.0
 add name="blamingnuclearplasma.com" address=0.0.0.0
@@ -11625,6 +11625,7 @@ add name="bmpyeypnzuqmv.online" address=0.0.0.0
 add name="bmqzsaqomgymv.site" address=0.0.0.0
 add name="bmrfhnnhozbff.site" address=0.0.0.0
 add name="bmrg.reflected.net" address=0.0.0.0
+add name="bmrkryvhoaqno.space" address=0.0.0.0
 add name="bmtekvannmeho.website" address=0.0.0.0
 add name="bmupametryuzx.space" address=0.0.0.0
 add name="bmurfsjsvvfhy.space" address=0.0.0.0
@@ -11806,6 +11807,7 @@ add name="boob.sukaporn.com" address=0.0.0.0
 add name="boobausauhipsa.net" address=0.0.0.0
 add name="boobbounds.com" address=0.0.0.0
 add name="boodiecilice.rest" address=0.0.0.0
+add name="boodiestrati.shop" address=0.0.0.0
 add name="boodkfcdgaaiy.website" address=0.0.0.0
 add name="booezozlvdg.com" address=0.0.0.0
 add name="boohoo-shop.com" address=0.0.0.0
@@ -12825,6 +12827,7 @@ add name="bxdrrkfeichhms.com" address=0.0.0.0
 add name="bxeaubadjolwnu.com" address=0.0.0.0
 add name="bxekozqvwcqeg.space" address=0.0.0.0
 add name="bxerfbkaoasof.space" address=0.0.0.0
+add name="bxfgfcmeltucf.site" address=0.0.0.0
 add name="bxforex.com" address=0.0.0.0
 add name="bxfvaugytecwq.online" address=0.0.0.0
 add name="bxhnfmijbikzg.space" address=0.0.0.0
@@ -14058,7 +14061,6 @@ add name="ceaslessivorygoats.com" address=0.0.0.0
 add name="ceaslesswisely.com" address=0.0.0.0
 add name="cebjrqvyienhy.site" address=0.0.0.0
 add name="cebnovoscizrj.online" address=0.0.0.0
-add name="cebocom.de" address=0.0.0.0
 add name="cecash.com" address=0.0.0.0
 add name="cecilewien.at" address=0.0.0.0
 add name="ceciliagraz.at" address=0.0.0.0
@@ -14221,7 +14223,6 @@ add name="cfqzcuasbvwva.website" address=0.0.0.0
 add name="cfssi03yg3.com" address=0.0.0.0
 add name="cfszapashpahn.space" address=0.0.0.0
 add name="cftiqxg3mp.com" address=0.0.0.0
-add name="cftmarteorvers.com" address=0.0.0.0
 add name="cfusionsys.com" address=0.0.0.0
 add name="cfxfund.com" address=0.0.0.0
 add name="cfxmarkets.com" address=0.0.0.0
@@ -14381,6 +14382,7 @@ add name="cheaplyregainthrift.com" address=0.0.0.0
 add name="cheapmachinerywail.com" address=0.0.0.0
 add name="cheapmondo.com" address=0.0.0.0
 add name="cheatingagricultural.com" address=0.0.0.0
+add name="chebelsnigged.shop" address=0.0.0.0
 add name="chebfqsmfwovu.online" address=0.0.0.0
 add name="check-tl-ver-294-2.com" address=0.0.0.0
 add name="check-update-today.com" address=0.0.0.0
@@ -14434,6 +14436,7 @@ add name="chenjunting01.com" address=0.0.0.0
 add name="chequycmdr.qpon" address=0.0.0.0
 add name="cheqzone.com" address=0.0.0.0
 add name="cherishmax.com" address=0.0.0.0
+add name="chernomaza.link" address=0.0.0.0
 add name="cherriesprospectsfaith.com" address=0.0.0.0
 add name="cheshep.com" address=0.0.0.0
 add name="cheska-lekarna.com" address=0.0.0.0
@@ -14687,6 +14690,7 @@ add name="civicmillion.com" address=0.0.0.0
 add name="civiitbbaeuvi.online" address=0.0.0.0
 add name="civiliank.com" address=0.0.0.0
 add name="civillylenvoy.cyou" address=0.0.0.0
+add name="civitanmorally.cfd" address=0.0.0.0
 add name="ciwieswaters.top" address=0.0.0.0
 add name="ciwplazwumpsd.space" address=0.0.0.0
 add name="ciwswcooilzwj.space" address=0.0.0.0
@@ -15178,7 +15182,6 @@ add name="clothesontherun.club" address=0.0.0.0
 add name="clothing-s.com" address=0.0.0.0
 add name="clothingonsale-online.com" address=0.0.0.0
 add name="clothingpickleball.com" address=0.0.0.0
-add name="clothlve.com" address=0.0.0.0
 add name="cloud-suites.xyz" address=0.0.0.0
 add name="cloud.monolytics.app" address=0.0.0.0
 add name="cloud.setupad.com" address=0.0.0.0
@@ -15420,6 +15423,7 @@ add name="cneygrvmtgkwg.online" address=0.0.0.0
 add name="cnfashion.org" address=0.0.0.0
 add name="cnfrm-newsale8324.click" address=0.0.0.0
 add name="cnfrmnewsale924.click" address=0.0.0.0
+add name="cngewtky.com" address=0.0.0.0
 add name="cnhuxrpiawywk.space" address=0.0.0.0
 add name="cnjikkiehkpea.site" address=0.0.0.0
 add name="cnlr.thepornstar.com" address=0.0.0.0
@@ -15491,6 +15495,7 @@ add name="cobraa.net" address=0.0.0.0
 add name="cobradaunder.cfd" address=0.0.0.0
 add name="cobwebhauntedallot.com" address=0.0.0.0
 add name="cobwebsituationstyling.com" address=0.0.0.0
+add name="coccidsepiola.shop" address=0.0.0.0
 add name="cockpitadministration.com" address=0.0.0.0
 add name="cockpiteconomicspayroll.com" address=0.0.0.0
 add name="cockroach.head4work.com.au" address=0.0.0.0
@@ -15586,7 +15591,6 @@ add name="col.surfside.io" address=0.0.0.0
 add name="colanbalkily.com" address=0.0.0.0
 add name="colbertcap.com" address=0.0.0.0
 add name="colbwxlsfenwn.website" address=0.0.0.0
-add name="cold-rp.de" address=0.0.0.0
 add name="coldflownews.com" address=0.0.0.0
 add name="coldnessswarthyclinic.com" address=0.0.0.0
 add name="coleastrehabilitation.com" address=0.0.0.0
@@ -15730,7 +15734,6 @@ add name="colsd.top" address=0.0.0.0
 add name="colterstrisect.com" address=0.0.0.0
 add name="coltlimb.com" address=0.0.0.0
 add name="columbi.de" address=0.0.0.0
-add name="columbias.com.de" address=0.0.0.0
 add name="columbiasale.de" address=0.0.0.0
 add name="columnhauledhygienic.com" address=0.0.0.0
 add name="columnspastrybonnet.com" address=0.0.0.0
@@ -15907,7 +15910,6 @@ add name="condescendingaveragerain.com" address=0.0.0.0
 add name="condimentdisillusionnosebleed.com" address=0.0.0.0
 add name="conditioneavesdroppingbarter.com" address=0.0.0.0
 add name="condles-temark.com" address=0.0.0.0
-add name="condokameleon.com" address=0.0.0.0
 add name="condor.oskarthoren.com" address=0.0.0.0
 add name="condor.stadttunnel-feldkirch.at" address=0.0.0.0
 add name="conductmassage.com" address=0.0.0.0
@@ -16191,7 +16193,6 @@ add name="convita-apotheke.de" address=0.0.0.0
 add name="conviva.com" address=0.0.0.0
 add name="convrse.media" address=0.0.0.0
 add name="convsweeps.com" address=0.0.0.0
-add name="conymonika.de" address=0.0.0.0
 add name="conyz.cn" address=0.0.0.0
 add name="coochig.com" address=0.0.0.0
 add name="cooeesxvii.shop" address=0.0.0.0
@@ -16306,7 +16307,6 @@ add name="corneredtomb.com" address=0.0.0.0
 add name="cornflowercigar.com" address=0.0.0.0
 add name="corny-swing.pro" address=0.0.0.0
 add name="corny-wear.com" address=0.0.0.0
-add name="cornyband.pro" address=0.0.0.0
 add name="coronaehavance.shop" address=0.0.0.0
 add name="corporaldispleased.com" address=0.0.0.0
 add name="corporalgelnobles.com" address=0.0.0.0
@@ -16888,7 +16888,6 @@ add name="crocslietuva.com" address=0.0.0.0
 add name="croefyhjjkzhg.site" address=0.0.0.0
 add name="crogctnujttuy.site" address=0.0.0.0
 add name="crojikspoppean.cfd" address=0.0.0.0
-add name="crokdalien.com" address=0.0.0.0
 add name="cronaura.com" address=0.0.0.0
 add name="croni.site" address=0.0.0.0
 add name="crookcalculated.com" address=0.0.0.0
@@ -16901,7 +16900,6 @@ add name="croplake.com" address=0.0.0.0
 add name="crosbybuccate.cfd" address=0.0.0.0
 add name="cross-promo-provider.easybrain.com" address=0.0.0.0
 add name="crossadsapi.ecomobileapp.com" address=0.0.0.0
-add name="crossfitsuomi.co" address=0.0.0.0
 add name="crosspreferrite.com" address=0.0.0.0
 add name="crosspromo.voodoo.io" address=0.0.0.0
 add name="crosspromotion-us.avosapps.us" address=0.0.0.0
@@ -16965,7 +16963,6 @@ add name="cruxgpnyrvvur.website" address=0.0.0.0
 add name="crwlmdpzabosr.online" address=0.0.0.0
 add name="crxcr2.com" address=0.0.0.0
 add name="crxcra.com" address=0.0.0.0
-add name="crxjik.shop" address=0.0.0.0
 add name="crxsoukcwwpip.space" address=0.0.0.0
 add name="cryingforanyth.com" address=0.0.0.0
 add name="cryjun.com" address=0.0.0.0
@@ -17037,7 +17034,6 @@ add name="csbclo.de" address=0.0.0.0
 add name="csbstcyg.com" address=0.0.0.0
 add name="csbsts.site" address=0.0.0.0
 add name="cscbd31jv.com" address=0.0.0.0
-add name="cschwindt24.de" address=0.0.0.0
 add name="cschyogh.com" address=0.0.0.0
 add name="csdinjagkvyvn.space" address=0.0.0.0
 add name="csdoranmotswo.site" address=0.0.0.0
@@ -17192,6 +17188,7 @@ add name="culizyxhdblqa.website" address=0.0.0.0
 add name="cullemple-motline.com" address=0.0.0.0
 add name="culmedpasses.cam" address=0.0.0.0
 add name="culnas.click" address=0.0.0.0
+add name="culotankoli.shop" address=0.0.0.0
 add name="culpycscbslnp.store" address=0.0.0.0
 add name="culterwhether.com" address=0.0.0.0
 add name="cultivated-cell.com" address=0.0.0.0
@@ -18717,7 +18714,6 @@ add name="d4xmm7es84.com" address=0.0.0.0
 add name="d5092moci.com" address=0.0.0.0
 add name="d55b071143.03c4e4cc73.com" address=0.0.0.0
 add name="d591f0b765.com" address=0.0.0.0
-add name="d5d26b2710.com" address=0.0.0.0
 add name="d5d3sg85gu7o6.cloudfront.net" address=0.0.0.0
 add name="d5em5plenp2k5.cloudfront.net" address=0.0.0.0
 add name="d5fb078bf9.com" address=0.0.0.0
@@ -18855,9 +18851,9 @@ add name="dagle.de" address=0.0.0.0
 add name="dagospecify.cfd" address=0.0.0.0
 add name="dah0wv79ikn14.cloudfront.net" address=0.0.0.0
 add name="daheim-gut.ch" address=0.0.0.0
-add name="daheimgut.ch" address=0.0.0.0
 add name="daheimgut.com" address=0.0.0.0
 add name="dahhegnmbrdgv.site" address=0.0.0.0
+add name="dahingplants.shop" address=0.0.0.0
 add name="dahkexes.com" address=0.0.0.0
 add name="dahlmann-scholz.de" address=0.0.0.0
 add name="dahrexmj.icu" address=0.0.0.0
@@ -18918,7 +18914,6 @@ add name="damdoor.com" address=0.0.0.0
 add name="damedamehoy.xyz" address=0.0.0.0
 add name="damenmode-1.de" address=0.0.0.0
 add name="damenmode-quelle.de" address=0.0.0.0
-add name="damenstylerabatt.com" address=0.0.0.0
 add name="damericantpast.org" address=0.0.0.0
 add name="damiaevilest.shop" address=0.0.0.0
 add name="dammerlicht.de" address=0.0.0.0
@@ -19460,7 +19455,6 @@ add name="deaspierhireworks.works" address=0.0.0.0
 add name="deautorabatt.com" address=0.0.0.0
 add name="deavedazilian.qpon" address=0.0.0.0
 add name="debasketball.com" address=0.0.0.0
-add name="debergercamping.com" address=0.0.0.0
 add name="debitcrebit669.com" address=0.0.0.0
 add name="debojuagug1sf.cloudfront.net" address=0.0.0.0
 add name="debonairdust.com" address=0.0.0.0
@@ -19522,7 +19516,6 @@ add name="decomposebosscumbersome.com" address=0.0.0.0
 add name="decomposeconversionpattern.com" address=0.0.0.0
 add name="decomposemanly.com" address=0.0.0.0
 add name="deconestprolab.com" address=0.0.0.0
-add name="decookware.com" address=0.0.0.0
 add name="decoopy.com" address=0.0.0.0
 add name="decor-muse.com" address=0.0.0.0
 add name="decorateadverb.com" address=0.0.0.0
@@ -19642,7 +19635,6 @@ add name="dehnershop.com" address=0.0.0.0
 add name="dehnerverkauf.de" address=0.0.0.0
 add name="dehua.ixinfan.com" address=0.0.0.0
 add name="dehundeeinkauf.com" address=0.0.0.0
-add name="dehundegeschaft.com" address=0.0.0.0
 add name="dehvgmbchvkcm.online" address=0.0.0.0
 add name="deicatekraft.cfd" address=0.0.0.0
 add name="deichmannoutlet.shop" address=0.0.0.0
@@ -19662,7 +19654,6 @@ add name="deinemoebelpacker24.at" address=0.0.0.0
 add name="deinenergieplan.de" address=0.0.0.0
 add name="deinetierliebe.de" address=0.0.0.0
 add name="deinhandwerkershop.de" address=0.0.0.0
-add name="deinheizoel.de" address=0.0.0.0
 add name="deini.com" address=0.0.0.0
 add name="deinliebesmensch.de" address=0.0.0.0
 add name="deinlieblingstier.co" address=0.0.0.0
@@ -19686,7 +19677,6 @@ add name="dekoartikelrabatt.de" address=0.0.0.0
 add name="dekogoods.de" address=0.0.0.0
 add name="dekoobjektrabatt.com" address=0.0.0.0
 add name="dekorabatt.com" address=0.0.0.0
-add name="dekorasyonege.com" address=0.0.0.0
 add name="dekoration-store.com" address=0.0.0.0
 add name="dekorationsmeister.com" address=0.0.0.0
 add name="dekotext.com" address=0.0.0.0
@@ -19755,7 +19745,6 @@ add name="delqphfqgnrty.online" address=0.0.0.0
 add name="delson.de" address=0.0.0.0
 add name="delta-stock.com" address=0.0.0.0
 add name="deltaction.com" address=0.0.0.0
-add name="deltadraht.de" address=0.0.0.0
 add name="deltarockme.com" address=0.0.0.0
 add name="deltraff.com" address=0.0.0.0
 add name="deludertinkles.cfd" address=0.0.0.0
@@ -19901,8 +19890,6 @@ add name="dermao.com" address=0.0.0.0
 add name="dermavitalglow.com" address=0.0.0.0
 add name="dermodemacher.de" address=0.0.0.0
 add name="derningparodus.qpon" address=0.0.0.0
-add name="dero-tech.de" address=0.0.0.0
-add name="derpoly.de" address=0.0.0.0
 add name="derrichtigeort.com" address=0.0.0.0
 add name="dertagesreport.com" address=0.0.0.0
 add name="dertagesspiegel.com" address=0.0.0.0
@@ -19931,7 +19918,6 @@ add name="deserveenjoymentcobbler.com" address=0.0.0.0
 add name="desgao1zt7irn.cloudfront.net" address=0.0.0.0
 add name="desginevo.com" address=0.0.0.0
 add name="desharkhelme.com" address=0.0.0.0
-add name="designalessi.com" address=0.0.0.0
 add name="designatep.com" address=0.0.0.0
 add name="designatshop.com" address=0.0.0.0
 add name="designbyclaudia.com" address=0.0.0.0
@@ -20013,7 +19999,6 @@ add name="deutsche-wurst-manufaktur.com" address=0.0.0.0
 add name="deutschechic.de" address=0.0.0.0
 add name="deutschegadgetmarkt.de" address=0.0.0.0
 add name="deutschegartenmoebel.de" address=0.0.0.0
-add name="deutschegrammophoneu-outlets.shop" address=0.0.0.0
 add name="deutschekindergarten.de" address=0.0.0.0
 add name="deutschemobel.com" address=0.0.0.0
 add name="deutschemoebelbau.de" address=0.0.0.0
@@ -20150,7 +20135,6 @@ add name="dgeyone.com" address=0.0.0.0
 add name="dgfsajonlckrp.store" address=0.0.0.0
 add name="dggaenaawxe8z.cloudfront.net" address=0.0.0.0
 add name="dggazqmcpmtwc.website" address=0.0.0.0
-add name="dghpts.com" address=0.0.0.0
 add name="dghrvnqutzcim.site" address=0.0.0.0
 add name="dgkktero.shop" address=0.0.0.0
 add name="dgmmntcknzljy.space" address=0.0.0.0
@@ -20159,7 +20143,6 @@ add name="dgpp7fq3iorb.cloudfront.net" address=0.0.0.0
 add name="dgpvbzhqklzddy.com" address=0.0.0.0
 add name="dgrpeldt54.com" address=0.0.0.0
 add name="dgsgecwesbkh.com" address=0.0.0.0
-add name="dgtlfuture.com" address=0.0.0.0
 add name="dgtsowpvnhodi.site" address=0.0.0.0
 add name="dgvhzcxksncni.website" address=0.0.0.0
 add name="dgw7ae5vrovs7.cloudfront.net" address=0.0.0.0
@@ -20204,6 +20187,7 @@ add name="dhoteemottes.qpon" address=0.0.0.0
 add name="dhpfdaufroers.online" address=0.0.0.0
 add name="dhpikd1t89arn.cloudfront.net" address=0.0.0.0
 add name="dhqhmbwnimaph.space" address=0.0.0.0
+add name="dhqpzpikvmfaq.site" address=0.0.0.0
 add name="dhqqtrblvxyex.online" address=0.0.0.0
 add name="dhrdakvoruwao.space" address=0.0.0.0
 add name="dhrhzii89gpwo.cloudfront.net" address=0.0.0.0
@@ -20297,7 +20281,6 @@ add name="diesel.co.at" address=0.0.0.0
 add name="dietaryyurilent.com" address=0.0.0.0
 add name="dietdiney.com" address=0.0.0.0
 add name="dieterrux-dienstleistungs.de" address=0.0.0.0
-add name="diezeitmitmedien.com" address=0.0.0.0
 add name="difcinvestment.world" address=0.0.0.0
 add name="diferencialautopecas.com" address=0.0.0.0
 add name="differlookingmanor.com" address=0.0.0.0
@@ -20332,7 +20315,6 @@ add name="digitaldsp.com" address=0.0.0.0
 add name="digitale-horoskope.de" address=0.0.0.0
 add name="digitalerkredit.com" address=0.0.0.0
 add name="digitalhandel.shop" address=0.0.0.0
-add name="digitalheizer.de" address=0.0.0.0
 add name="digitalinfo.co.kr" address=0.0.0.0
 add name="digitalkontor24.de" address=0.0.0.0
 add name="digitalmarkt.online" address=0.0.0.0
@@ -20348,6 +20330,7 @@ add name="digixio.de" address=0.0.0.0
 add name="digubpgjkdmsl.website" address=0.0.0.0
 add name="dihutyaiafuhr.cloudfront.net" address=0.0.0.0
 add name="diiazyhybjtmj.online" address=0.0.0.0
+add name="diiurvdpkowra.site" address=0.0.0.0
 add name="diiwesvtjlvmq.com" address=0.0.0.0
 add name="dijhqtrrbgn.com" address=0.0.0.0
 add name="dijuvxuzjhkrb.website" address=0.0.0.0
@@ -20400,7 +20383,6 @@ add name="dinosaurier.store" address=0.0.0.0
 add name="dinosaurprinciples.com" address=0.0.0.0
 add name="dinosupplies.to" address=0.0.0.0
 add name="diobolsuseable.cfd" address=0.0.0.0
-add name="dioey.com" address=0.0.0.0
 add name="dionfashion.com" address=0.0.0.0
 add name="diotrange.com" address=0.0.0.0
 add name="diouidlf98.com" address=0.0.0.0
@@ -20709,6 +20691,7 @@ add name="djncmafidfcpm.online" address=0.0.0.0
 add name="djnezvbvenyrm.website" address=0.0.0.0
 add name="djnmhjfmdymrz.space" address=0.0.0.0
 add name="djnqnduxmpixy.website" address=0.0.0.0
+add name="djpaolkdppkdg.online" address=0.0.0.0
 add name="djpgftebohnay.space" address=0.0.0.0
 add name="djpgwdcspfixy.online" address=0.0.0.0
 add name="djqeyfmaqkvoo.online" address=0.0.0.0
@@ -20728,6 +20711,7 @@ add name="djwf0dl2q9i99.cloudfront.net" address=0.0.0.0
 add name="djx3um1my.com" address=0.0.0.0
 add name="djxh1.com" address=0.0.0.0
 add name="djxyosopnferfdm.com" address=0.0.0.0
+add name="djywzpecaqudh.site" address=0.0.0.0
 add name="djz9es32qen64.cloudfront.net" address=0.0.0.0
 add name="dk-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="dk.lgsmartad.com" address=0.0.0.0
@@ -20822,6 +20806,7 @@ add name="dltqxz76sim1s.cloudfront.net" address=0.0.0.0
 add name="dltvkwr7nbdlj.cloudfront.net" address=0.0.0.0
 add name="dlvakopvbuiwi.website" address=0.0.0.0
 add name="dlvds9i67c60j.cloudfront.net" address=0.0.0.0
+add name="dlvtovzizpsie.online" address=0.0.0.0
 add name="dlwhtkiilipxk.site" address=0.0.0.0
 add name="dlwmkldaebzds.website" address=0.0.0.0
 add name="dlxk2dj1h3e83.cloudfront.net" address=0.0.0.0
@@ -21303,6 +21288,7 @@ add name="dqhepocpcwspj.space" address=0.0.0.0
 add name="dqhooyeampqsg.space" address=0.0.0.0
 add name="dqhvhpderqbsg.online" address=0.0.0.0
 add name="dqif5bl25s0bf.cloudfront.net" address=0.0.0.0
+add name="dqisqkyqzgqzr.space" address=0.0.0.0
 add name="dqjrxj.icu" address=0.0.0.0
 add name="dqmgvcgaghhww.online" address=0.0.0.0
 add name="dqnajb.icu" address=0.0.0.0
@@ -21425,7 +21411,6 @@ add name="dressfat.com" address=0.0.0.0
 add name="dressfatiguethrow.com" address=0.0.0.0
 add name="dressingcomplete.com" address=0.0.0.0
 add name="dressnik.com" address=0.0.0.0
-add name="dressshirtsblouses.com" address=0.0.0.0
 add name="dresswithsoul.com" address=0.0.0.0
 add name="drewteemful.cyou" address=0.0.0.0
 add name="dreycusps.com" address=0.0.0.0
@@ -21611,10 +21596,10 @@ add name="dsuylgujnxqes.site" address=0.0.0.0
 add name="dsuyspjorroea.site" address=0.0.0.0
 add name="dsuyzexj3sqn9.cloudfront.net" address=0.0.0.0
 add name="dsvidbernlibi.site" address=0.0.0.0
+add name="dsvwjthpubxqs.site" address=0.0.0.0
 add name="dswagqnjedlcq.site" address=0.0.0.0
 add name="dswckxxivdrjj.website" address=0.0.0.0
 add name="dswepngsrbhza.space" address=0.0.0.0
-add name="dsxilh.com" address=0.0.0.0
 add name="dsxlez.com" address=0.0.0.0
 add name="dsygrxfwrlatx.online" address=0.0.0.0
 add name="dsyrogvoyrsrl.space" address=0.0.0.0
@@ -21980,7 +21965,6 @@ add name="dyv1bugovvq1g.cloudfront.net" address=0.0.0.0
 add name="dyvkswbqkgfhp.space" address=0.0.0.0
 add name="dywolfer.de" address=0.0.0.0
 add name="dyxlpqsnrapf.com" address=0.0.0.0
-add name="dyynnafitsale.shop" address=0.0.0.0
 add name="dyyptiqcfnedr.site" address=0.0.0.0
 add name="dyzaxqldzrxbw.space" address=0.0.0.0
 add name="dyzay.com" address=0.0.0.0
@@ -22049,7 +22033,6 @@ add name="e-m.fr" address=0.0.0.0
 add name="e-medsbuy.com" address=0.0.0.0
 add name="e-planning.net" address=0.0.0.0
 add name="e-rechberger.at" address=0.0.0.0
-add name="e-rollzock.com" address=0.0.0.0
 add name="e-scooter.de" address=0.0.0.0
 add name="e-ssl.apsalar.com" address=0.0.0.0
 add name="e-stat.huya.com" address=0.0.0.0
@@ -22209,7 +22192,6 @@ add name="early-finding.com" address=0.0.0.0
 add name="earlynoon.com" address=0.0.0.0
 add name="earmuffpostnasalrisotto.com" address=0.0.0.0
 add name="earmuffvintagevitality.com" address=0.0.0.0
-add name="earnavioat.works" address=0.0.0.0
 add name="earnestnessadamantpal.com" address=0.0.0.0
 add name="earnify.com" address=0.0.0.0
 add name="earningskingdeliberately.com" address=0.0.0.0
@@ -22236,7 +22218,6 @@ add name="easilygreateststuff.com" address=0.0.0.0
 add name="east-tek.com" address=0.0.0.0
 add name="eastcapitalmarkets.com" address=0.0.0.0
 add name="easter-analytics.com" address=0.0.0.0
-add name="eastpakwien.at" address=0.0.0.0
 add name="eastrk-dn.com" address=0.0.0.0
 add name="eastrk-lg.com" address=0.0.0.0
 add name="eastspringinvest.io" address=0.0.0.0
@@ -22288,6 +22269,7 @@ add name="eazqiicorbzpm.site" address=0.0.0.0
 add name="eazzy.shop" address=0.0.0.0
 add name="eb5882aef0.com" address=0.0.0.0
 add name="eb6908f715.fae299940f.com" address=0.0.0.0
+add name="ebaaabtwibf.com" address=0.0.0.0
 add name="ebashop.store" address=0.0.0.0
 add name="ebatndolrzsxc.space" address=0.0.0.0
 add name="ebay.buyvip.live" address=0.0.0.0
@@ -22320,7 +22302,6 @@ add name="eblastengine.com" address=0.0.0.0
 add name="ebm.lfmall.co.kr" address=0.0.0.0
 add name="ebmjaufmqljbw.site" address=0.0.0.0
 add name="ebonizerebake.com" address=0.0.0.0
-add name="ebonylinebeauty.shop" address=0.0.0.0
 add name="eboobuv0rk.com" address=0.0.0.0
 add name="ebooklyn.net" address=0.0.0.0
 add name="eboxgiwwapmri.online" address=0.0.0.0
@@ -22698,7 +22679,6 @@ add name="ehftkujvqceyl.site" address=0.0.0.0
 add name="ehfzhepg.shop" address=0.0.0.0
 add name="ehg-samsungusa.hitbox.com" address=0.0.0.0
 add name="ehiyxlnuujkps.store" address=0.0.0.0
-add name="ehketzlg.shop" address=0.0.0.0
 add name="ehkschutzengel.de" address=0.0.0.0
 add name="ehlbjnnzlhpv.com" address=0.0.0.0
 add name="ehlfnpduxldcy.online" address=0.0.0.0
@@ -22753,9 +22733,7 @@ add name="einkaufsplattform-driver.de" address=0.0.0.0
 add name="einschraubschlauch.com" address=0.0.0.0
 add name="eintrachtfrankfurttrikots.de" address=0.0.0.0
 add name="einzigartigehaustiere.com" address=0.0.0.0
-add name="einzigartigetaschen.com" address=0.0.0.0
 add name="einzu.de" address=0.0.0.0
-add name="eioew.com" address=0.0.0.0
 add name="eiotqjelvrceb.online" address=0.0.0.0
 add name="eipapwgvmipdi.online" address=0.0.0.0
 add name="eipmjigkkvyq.com" address=0.0.0.0
@@ -22784,7 +22762,6 @@ add name="ej8f5vk381.com" address=0.0.0.0
 add name="ejadhobthckao.site" address=0.0.0.0
 add name="ejaxbjcsdmjwm.site" address=0.0.0.0
 add name="ejcnszxrmlzmk.website" address=0.0.0.0
-add name="ejdigitalvendas.com" address=0.0.0.0
 add name="ejdkqclkzq.com" address=0.0.0.0
 add name="ejepontspwiip.website" address=0.0.0.0
 add name="ejexgcirsdwvx.online" address=0.0.0.0
@@ -22945,16 +22922,13 @@ add name="elektro-willi.de" address=0.0.0.0
 add name="elektro.aktiv24.at" address=0.0.0.0
 add name="elektrodan.com" address=0.0.0.0
 add name="elektrodepo.de" address=0.0.0.0
-add name="elektrodomus.de" address=0.0.0.0
 add name="elektroemax.de" address=0.0.0.0
 add name="elektroexpress24.com" address=0.0.0.0
 add name="elektrofuralle.de" address=0.0.0.0
 add name="elektrogeraterabatt.com" address=0.0.0.0
 add name="elektrohandel-schmidt.com" address=0.0.0.0
 add name="elektrohandelplus.de" address=0.0.0.0
-add name="elektrohause.com" address=0.0.0.0
 add name="elektroheld24.de" address=0.0.0.0
-add name="elektrokauf.com" address=0.0.0.0
 add name="elektrokaufen.com" address=0.0.0.0
 add name="elektrokessmarkt.de" address=0.0.0.0
 add name="elektrokueche.de" address=0.0.0.0
@@ -22967,14 +22941,12 @@ add name="elektronlinestore.com" address=0.0.0.0
 add name="elektropfeifer.de" address=0.0.0.0
 add name="elektrosde.com" address=0.0.0.0
 add name="elektrosparkvien.com" address=0.0.0.0
-add name="elektrotech24.de" address=0.0.0.0
 add name="elektrotop-shop.com" address=0.0.0.0
 add name="elektrozone24.com" address=0.0.0.0
 add name="elelasticalsdebat.org" address=0.0.0.0
 add name="elementaryfinancial.com" address=0.0.0.0
 add name="elementarysinger.com" address=0.0.0.0
 add name="elementaryt.com" address=0.0.0.0
-add name="elementiporta.com" address=0.0.0.0
 add name="elementsacorncolossal.com" address=0.0.0.0
 add name="elementwithreplicas.com" address=0.0.0.0
 add name="elemoltwigful.com" address=0.0.0.0
@@ -23245,7 +23217,6 @@ add name="emu.pin13.net" address=0.0.0.0
 add name="emufimenpcwsl.online" address=0.0.0.0
 add name="emulatorshop.com" address=0.0.0.0
 add name="emumsazpndymr.space" address=0.0.0.0
-add name="emv-galabau24.de" address=0.0.0.0
 add name="emwksqauungjg.website" address=0.0.0.0
 add name="emxdgt.com" address=0.0.0.0
 add name="emxipsmjhingj.website" address=0.0.0.0
@@ -23257,7 +23228,6 @@ add name="enalsk.click" address=0.0.0.0
 add name="enamelhurdleunpaid.com" address=0.0.0.0
 add name="enapr.de" address=0.0.0.0
 add name="enathyimemedi.org" address=0.0.0.0
-add name="enblinvest.com" address=0.0.0.0
 add name="enbpnlaiatvav.space" address=0.0.0.0
 add name="enbxweghgupsj.space" address=0.0.0.0
 add name="enbzcgwahnemk.site" address=0.0.0.0
@@ -23307,7 +23277,6 @@ add name="energie-heizheld.de" address=0.0.0.0
 add name="energieausweis-fuer-verkauf.at" address=0.0.0.0
 add name="energiefach.com" address=0.0.0.0
 add name="energiefuerbuerger.de" address=0.0.0.0
-add name="energieheizen.de" address=0.0.0.0
 add name="energiekick.at" address=0.0.0.0
 add name="energiepreise24.com" address=0.0.0.0
 add name="energiesparkonzept24.de" address=0.0.0.0
@@ -23346,7 +23315,6 @@ add name="enginenetwork.com" address=0.0.0.0
 add name="englandfaithless.com" address=0.0.0.0
 add name="englandsoccerfanstore.com" address=0.0.0.0
 add name="engravefixatif.cyou" address=0.0.0.0
-add name="engwe-ebike.com" address=0.0.0.0
 add name="engwe-ebike.de" address=0.0.0.0
 add name="enhancedpennyfluctuate.com" address=0.0.0.0
 add name="enhancementstheirstackle.com" address=0.0.0.0
@@ -23821,7 +23789,6 @@ add name="esveabkwjvkcj.space" address=0.0.0.0
 add name="esvgyfsgpi.com" address=0.0.0.0
 add name="esvpnjdntgr.com" address=0.0.0.0
 add name="esvunifeyiqhk.website" address=0.0.0.0
-add name="eswedfxl.shop" address=0.0.0.0
 add name="eswnaoudswvln.site" address=0.0.0.0
 add name="eswpfkuwyovtm.space" address=0.0.0.0
 add name="esxgfcmaucdux.website" address=0.0.0.0
@@ -23910,6 +23877,7 @@ add name="eu-cota.vivoglobal.com" address=0.0.0.0
 add name="eu-domaincfg.vivoglobal.com" address=0.0.0.0
 add name="eu-errup.vivoglobal.com" address=0.0.0.0
 add name="eu-first.com" address=0.0.0.0
+add name="eu-meds.net" address=0.0.0.0
 add name="eu-meds.online" address=0.0.0.0
 add name="eu-onrt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="eu-ort-stsdk.vivoglobal.com" address=0.0.0.0
@@ -24070,10 +24038,8 @@ add name="evaam.de" address=0.0.0.0
 add name="evadereprimand.com" address=0.0.0.0
 add name="evadesickness.com" address=0.0.0.0
 add name="evaluationgrievedaudacity.com" address=0.0.0.0
-add name="evaluma.de" address=0.0.0.0
 add name="evane.store" address=0.0.0.0
 add name="evanescentedge.com" address=0.0.0.0
-add name="evanimo.com" address=0.0.0.0
 add name="evans-online.de" address=0.0.0.0
 add name="evans-shop.de" address=0.0.0.0
 add name="evansdplaw.com" address=0.0.0.0
@@ -24708,7 +24674,6 @@ add name="f.xyu.tv" address=0.0.0.0
 add name="f023.bostonherald.com" address=0.0.0.0
 add name="f07a0277a7.com" address=0.0.0.0
 add name="f07neg4p.de" address=0.0.0.0
-add name="f0d974daed.com" address=0.0.0.0
 add name="f0e3622a7e.7fae5b3e9c.com" address=0.0.0.0
 add name="f0fdae6be7.9357f4ba72.com" address=0.0.0.0
 add name="f0zvx9koy3.com" address=0.0.0.0
@@ -24747,7 +24712,6 @@ add name="f4h123m89w.com" address=0.0.0.0
 add name="f586988d17.com" address=0.0.0.0
 add name="f5g8ouidvf.com" address=0.0.0.0
 add name="f5nn75ozf.com" address=0.0.0.0
-add name="f653713980.com" address=0.0.0.0
 add name="f65qplod.xyz" address=0.0.0.0
 add name="f680e0bdca.com" address=0.0.0.0
 add name="f6jd4k4xgo.com" address=0.0.0.0
@@ -25169,6 +25133,7 @@ add name="fbdata-edt.com" address=0.0.0.0
 add name="fbdjpebrvocxf.website" address=0.0.0.0
 add name="fbetlixgee.eu" address=0.0.0.0
 add name="fbfejxqozbxrc.site" address=0.0.0.0
+add name="fbgbskzvbvzokr.com" address=0.0.0.0
 add name="fbispdrlpngqv.space" address=0.0.0.0
 add name="fbkxhltufvarpj.com" address=0.0.0.0
 add name="fblndqobxs.com" address=0.0.0.0
@@ -25403,6 +25368,7 @@ add name="feminineconsequence.com" address=0.0.0.0
 add name="femizzalojas.com" address=0.0.0.0
 add name="femmefrei.de" address=0.0.0.0
 add name="fempjfqhpylty.space" address=0.0.0.0
+add name="femwretnoujgm.site" address=0.0.0.0
 add name="fenacheaverage.com" address=0.0.0.0
 add name="fenchylsquali.qpon" address=0.0.0.0
 add name="fenderprofilleisten.com" address=0.0.0.0
@@ -25571,6 +25537,7 @@ add name="fgqymntnqmcby.website" address=0.0.0.0
 add name="fgqyxgbqfxyot.website" address=0.0.0.0
 add name="fgsildmh.com" address=0.0.0.0
 add name="fgsuxvboquxjg.website" address=0.0.0.0
+add name="fgsxkowyyvqhd.space" address=0.0.0.0
 add name="fgteu1-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="fgtpvheoxosfk.site" address=0.0.0.0
 add name="fgwuw.com" address=0.0.0.0
@@ -26419,6 +26386,7 @@ add name="flutterstumpbullet.com" address=0.0.0.0
 add name="fluvioshoer.cyou" address=0.0.0.0
 add name="flux.effiliation.com" address=0.0.0.0
 add name="fluxads.com" address=0.0.0.0
+add name="fluxivelatebra.qpon" address=0.0.0.0
 add name="fluxoil.de" address=0.0.0.0
 add name="fluxus-z.com" address=0.0.0.0
 add name="flw.camcaps.ac" address=0.0.0.0
@@ -26581,7 +26549,6 @@ add name="fondluck.com" address=0.0.0.0
 add name="fondonberake.com" address=0.0.0.0
 add name="fondsavenue.com" address=0.0.0.0
 add name="fondstudy.com" address=0.0.0.0
-add name="fonecta.leiki.com" address=0.0.0.0
 add name="fontancasino-online.de" address=0.0.0.0
 add name="fontdeterminer.com" address=0.0.0.0
 add name="foo.cosmocode.de" address=0.0.0.0
@@ -27657,6 +27624,7 @@ add name="gae.karte.io" address=0.0.0.0
 add name="gaelwvtomjmbm.store" address=0.0.0.0
 add name="gafefhednctfh.site" address=0.0.0.0
 add name="gaflphlwqqhch.site" address=0.0.0.0
+add name="gafwcnsqycsln.site" address=0.0.0.0
 add name="gahas24.de" address=0.0.0.0
 add name="gahfinallytame.com" address=0.0.0.0
 add name="gahkoekeybyxv.online" address=0.0.0.0
@@ -27672,6 +27640,7 @@ add name="gainexo.com" address=0.0.0.0
 add name="gaingeneratorpro.de" address=0.0.0.0
 add name="gainingpartyyoga.com" address=0.0.0.0
 add name="gainsscarceshiny.com" address=0.0.0.0
+add name="gaixbgrvlxzil.space" address=0.0.0.0
 add name="gajjbsoorzpux.space" address=0.0.0.0
 add name="gajyhhatyhace.site" address=0.0.0.0
 add name="gak.webtoons.com" address=0.0.0.0
@@ -28016,6 +27985,7 @@ add name="gbdifgyealbpd.site" address=0.0.0.0
 add name="gbede.com" address=0.0.0.0
 add name="gbedxtcoyviwt.space" address=0.0.0.0
 add name="gbgomscmeyenl.site" address=0.0.0.0
+add name="gbgpaffsfayqz.site" address=0.0.0.0
 add name="gbgroup.ee" address=0.0.0.0
 add name="gbhbfosvxplgs.space" address=0.0.0.0
 add name="gbhyhxkdwqzjf.site" address=0.0.0.0
@@ -28621,6 +28591,7 @@ add name="gid.tapapis.cn" address=0.0.0.0
 add name="giddycoat.com" address=0.0.0.0
 add name="giddyrabiddaylight.com" address=0.0.0.0
 add name="gie0izinx.com" address=0.0.0.0
+add name="giebel-motorgeraetekg.de" address=0.0.0.0
 add name="giecy.com" address=0.0.0.0
 add name="giesler-drogerie.com" address=0.0.0.0
 add name="giesswein--schuhe.com" address=0.0.0.0
@@ -29005,6 +28976,7 @@ add name="glurvextopin-official.com" address=0.0.0.0
 add name="glurvextopin.at" address=0.0.0.0
 add name="gluschwein.de" address=0.0.0.0
 add name="glutenmuttsensuous.com" address=0.0.0.0
+add name="glutenscalinda.cyou" address=0.0.0.0
 add name="gluvrkcvvldus.website" address=0.0.0.0
 add name="glvhvesvnp.com" address=0.0.0.0
 add name="glvmtlnxdxdhl.website" address=0.0.0.0
@@ -29240,6 +29212,7 @@ add name="goldankauf365.de" address=0.0.0.0
 add name="goldcapital24.com" address=0.0.0.0
 add name="golddinar.fr" address=0.0.0.0
 add name="golden-bank.com" address=0.0.0.0
+add name="golden-finish.pro" address=0.0.0.0
 add name="golden-gateway.com" address=0.0.0.0
 add name="golden-goose.at" address=0.0.0.0
 add name="golden-outlet.de" address=0.0.0.0
@@ -29857,6 +29830,7 @@ add name="gruntechde.com" address=0.0.0.0
 add name="gruntmuzicz.com" address=0.0.0.0
 add name="grunzauber.com" address=0.0.0.0
 add name="gruponn.com" address=0.0.0.0
+add name="gruttenkendos.qpon" address=0.0.0.0
 add name="grvayuaccatti.space" address=0.0.0.0
 add name="grvcuwatiogxc.com" address=0.0.0.0
 add name="grvycpghbiild.website" address=0.0.0.0
@@ -30436,6 +30410,7 @@ add name="haleybaby.com" address=0.0.0.0
 add name="halfbakedhaul.com" address=0.0.0.0
 add name="halfdemocratic.com" address=0.0.0.0
 add name="halffullglassnews.com" address=0.0.0.0
+add name="halflinaleger.shop" address=0.0.0.0
 add name="halfpriceozarks.com" address=0.0.0.0
 add name="halfyearturf.com" address=0.0.0.0
 add name="halibut.codehooks.io" address=0.0.0.0
@@ -31897,7 +31872,6 @@ add name="hollandbusinessadvertising.nl" address=0.0.0.0
 add name="hollister-co.at" address=0.0.0.0
 add name="hollister.com.de" address=0.0.0.0
 add name="hollow-population.pro" address=0.0.0.0
-add name="hollowaglet.cfd" address=0.0.0.0
 add name="hollowdoodleevent.com" address=0.0.0.0
 add name="hollowsuspicion.com" address=0.0.0.0
 add name="hollylollies.com" address=0.0.0.0
@@ -32602,6 +32576,7 @@ add name="hutare.com" address=0.0.0.0
 add name="hutdesignherren.com" address=0.0.0.0
 add name="hutmqkgdvayc.com" address=0.0.0.0
 add name="hutojzbran.com" address=0.0.0.0
+add name="hutstakosis.cfd" address=0.0.0.0
 add name="hutteddyinfluenced.com" address=0.0.0.0
 add name="hutuvcztyqgtu.website" address=0.0.0.0
 add name="huvehsszwdzkp.space" address=0.0.0.0
@@ -32639,6 +32614,7 @@ add name="hw-p2p-pull.video-voip.com" address=0.0.0.0
 add name="hw-p2p.pull.yximgs.com" address=0.0.0.0
 add name="hw-t.hypers.com.cn" address=0.0.0.0
 add name="hwa.his.huawei.com" address=0.0.0.0
+add name="hwbtcfhzfktvo.space" address=0.0.0.0
 add name="hwbyspodhwjsf.online" address=0.0.0.0
 add name="hwddqhhsze.com" address=0.0.0.0
 add name="hwdlloibdukny.space" address=0.0.0.0
@@ -32901,6 +32877,7 @@ add name="ibdhurhzedcpx.online" address=0.0.0.0
 add name="ibeat.indiatimes.com" address=0.0.0.0
 add name="ibeeckaidse.net" address=0.0.0.0
 add name="iberismnuntius.com" address=0.0.0.0
+add name="iberismoffish.cfd" address=0.0.0.0
 add name="ibflhrepbphbu.space" address=0.0.0.0
 add name="ibftrigo.com" address=0.0.0.0
 add name="ibgyfspqfazkw.website" address=0.0.0.0
@@ -33033,6 +33010,7 @@ add name="id.nbcuni.com" address=0.0.0.0
 add name="id.push.heytapmobi.com" address=0.0.0.0
 add name="id5-sync.com" address=0.0.0.0
 add name="id6.me" address=0.0.0.0
+add name="idabignou.qpon" address=0.0.0.0
 add name="idat.production.ippen.space" address=0.0.0.0
 add name="idavmk1276.com" address=0.0.0.0
 add name="idclbvpablytl.site" address=0.0.0.0
@@ -33206,7 +33184,6 @@ add name="igm-financial.com" address=0.0.0.0
 add name="igmholdings.com" address=0.0.0.0
 add name="ignateignatepredominanteatable.com" address=0.0.0.0
 add name="ignateignatetame.com" address=0.0.0.0
-add name="ignitefesta.cfd" address=0.0.0.0
 add name="ignitionmodelcars.com" address=0.0.0.0
 add name="ignobleinternational.com" address=0.0.0.0
 add name="ignoblerectifymargaret.com" address=0.0.0.0
@@ -33352,6 +33329,7 @@ add name="ikquaycaaygib.space" address=0.0.0.0
 add name="ikqyazeadzqvo.space" address=0.0.0.0
 add name="iktfggmhqf.com" address=0.0.0.0
 add name="ikubypxrzqjah.store" address=0.0.0.0
+add name="ikyjfuuaucmqs.website" address=0.0.0.0
 add name="ikzwvkuxrymqu.space" address=0.0.0.0
 add name="il-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="il.lgsmartad.com" address=0.0.0.0
@@ -33989,6 +33967,7 @@ add name="injusticebakery.com" address=0.0.0.0
 add name="injzufavkuark.space" address=0.0.0.0
 add name="inkfeedmausoleum.com" address=0.0.0.0
 add name="inkgdrdgypkar.website" address=0.0.0.0
+add name="inkingnabby.cfd" address=0.0.0.0
 add name="inkjet.de" address=0.0.0.0
 add name="inklaotqejnmh.online" address=0.0.0.0
 add name="inklinkor.com" address=0.0.0.0
@@ -34318,6 +34297,7 @@ add name="intowow.com" address=0.0.0.0
 add name="intoxicateregulation.com" address=0.0.0.0
 add name="intoxicatescrape.com" address=0.0.0.0
 add name="intrafic22.com" address=0.0.0.0
+add name="intrailchous.qpon" address=0.0.0.0
 add name="intranet.c3.bigdata-l7-trackservice.eup4xvxeqr.elb.xiaomi.com" address=0.0.0.0
 add name="intranet.dcorp.com.vn" address=0.0.0.0
 add name="intricatewhilevertically.com" address=0.0.0.0
@@ -34444,6 +34424,7 @@ add name="iount.com" address=0.0.0.0
 add name="iovyshop.com" address=0.0.0.0
 add name="iowanseck.com" address=0.0.0.0
 add name="iowautotrading.com" address=0.0.0.0
+add name="ioxxetbvaatjy.com" address=0.0.0.0
 add name="ioynumodqydgd.site" address=0.0.0.0
 add name="ioyygwxkrg.com" address=0.0.0.0
 add name="ip-info.ff.avast.sec.miui.com" address=0.0.0.0
@@ -34602,6 +34583,7 @@ add name="iron-daddy.to" address=0.0.0.0
 add name="ironendeavour.com" address=0.0.0.0
 add name="ironicalclearingsticking.com" address=0.0.0.0
 add name="ironicschemes.com" address=0.0.0.0
+add name="ironistbewit.cyou" address=0.0.0.0
 add name="ironsource.mobi" address=0.0.0.0
 add name="ironvexgroup.com" address=0.0.0.0
 add name="ironyjav09212026.shop" address=0.0.0.0
@@ -34804,6 +34786,7 @@ add name="iujfxsnhivbqg.online" address=0.0.0.0
 add name="iujpr5vp4ejyuiv9i2c.rest" address=0.0.0.0
 add name="iukrelfkscaiy.space" address=0.0.0.0
 add name="iulkpesaffexi.site" address=0.0.0.0
+add name="iulustam.cfd" address=0.0.0.0
 add name="iumewrfhlgnlu.site" address=0.0.0.0
 add name="iunismkwstgdf.site" address=0.0.0.0
 add name="iunmrmdyetjbe.website" address=0.0.0.0
@@ -34934,6 +34917,7 @@ add name="iylwnmnnchzkq.website" address=0.0.0.0
 add name="iymvmpyfsqnui.site" address=0.0.0.0
 add name="iynzotcghpkur.space" address=0.0.0.0
 add name="iypxxhjdiwggg.website" address=0.0.0.0
+add name="iyqgyrukebrgy.website" address=0.0.0.0
 add name="iyqnahkspthlb.site" address=0.0.0.0
 add name="iyqtpifqeoavq.site" address=0.0.0.0
 add name="iyresfhhvgqex.site" address=0.0.0.0
@@ -35356,6 +35340,7 @@ add name="jgbnltrrpotbl.online" address=0.0.0.0
 add name="jgcakixnbnyng.website" address=0.0.0.0
 add name="jgfrqhh.top" address=0.0.0.0
 add name="jghmklgkk.com" address=0.0.0.0
+add name="jgjduiropn.com" address=0.0.0.0
 add name="jgk54x.6lemx1qqr6wzy4.cyou" address=0.0.0.0
 add name="jgkgqvxmnrxjb.space" address=0.0.0.0
 add name="jgkpsxlnqnknp.site" address=0.0.0.0
@@ -35421,6 +35406,7 @@ add name="jidlvevpwezmu.online" address=0.0.0.0
 add name="jiegfigvhwish.online" address=0.0.0.0
 add name="jiehsiazrrkql.site" address=0.0.0.0
 add name="jieper.com" address=0.0.0.0
+add name="jierndfpgiicq.website" address=0.0.0.0
 add name="jifflebreasts.com" address=0.0.0.0
 add name="jigsawharmony.com" address=0.0.0.0
 add name="jigsawthirsty.com" address=0.0.0.0
@@ -35868,6 +35854,7 @@ add name="jrbbavbvqmbaz.top" address=0.0.0.0
 add name="jreanjvuvpmy.in" address=0.0.0.0
 add name="jrge.cn" address=0.0.0.0
 add name="jrjexx.com" address=0.0.0.0
+add name="jrjmgjfefawpy.site" address=0.0.0.0
 add name="jrkihvllezsla.space" address=0.0.0.0
 add name="jrkveqlzvpcmd.space" address=0.0.0.0
 add name="jrkylxrnktjbo.store" address=0.0.0.0
@@ -36092,6 +36079,7 @@ add name="jumpedformer.com" address=0.0.0.0
 add name="jumpedwaistcoatstronghold.com" address=0.0.0.0
 add name="jumperclasssearch.com" address=0.0.0.0
 add name="jumpfiledoor.click" address=0.0.0.0
+add name="jumpflyerintentionally.com" address=0.0.0.0
 add name="jumpft.de" address=0.0.0.0
 add name="jumptap.com" address=0.0.0.0
 add name="jumpyfeature.com" address=0.0.0.0
@@ -36222,7 +36210,6 @@ add name="jwzeoshnruedd.website" address=0.0.0.0
 add name="jx3.freepornobook.com" address=0.0.0.0
 add name="jxal.cn" address=0.0.0.0
 add name="jxawcxgxuerba.online" address=0.0.0.0
-add name="jxbqurpezx.com" address=0.0.0.0
 add name="jxbwzfgggttme.site" address=0.0.0.0
 add name="jxcuocswkavpi.site" address=0.0.0.0
 add name="jxcuywnprilwi.space" address=0.0.0.0
@@ -36734,6 +36721,7 @@ add name="kctag.net" address=0.0.0.0
 add name="kctdkehlgoohq.online" address=0.0.0.0
 add name="kcttjctl.shop" address=0.0.0.0
 add name="kcwcohcmsotlsyn.com" address=0.0.0.0
+add name="kcwihhposnbqs.site" address=0.0.0.0
 add name="kcxljicqwzjfd.space" address=0.0.0.0
 add name="kcxumzypnrqwr.store" address=0.0.0.0
 add name="kcyiegydxszco.online" address=0.0.0.0
@@ -37707,6 +37695,7 @@ add name="ksfndodbfbgof.space" address=0.0.0.0
 add name="ksftrade.com" address=0.0.0.0
 add name="ksiolvcitumph.space" address=0.0.0.0
 add name="ksknhvggsizbu.store" address=0.0.0.0
+add name="kslfjvhhmbrgg.online" address=0.0.0.0
 add name="kslfqcxumewry.store" address=0.0.0.0
 add name="ksnhwtjoaoeim.space" address=0.0.0.0
 add name="kspyqwogczssl.website" address=0.0.0.0
@@ -37725,6 +37714,7 @@ add name="ktdxuexumxvji.space" address=0.0.0.0
 add name="kteawsjm.com" address=0.0.0.0
 add name="ktetxsziozrhq.site" address=0.0.0.0
 add name="ktexiofxqjcugoi.com" address=0.0.0.0
+add name="ktfhfxzxfzbcm.space" address=0.0.0.0
 add name="ktgsordlflvpi.com" address=0.0.0.0
 add name="kthukxjctweql.site" address=0.0.0.0
 add name="kthul22k2z.com" address=0.0.0.0
@@ -38407,7 +38397,6 @@ add name="lbs-samsung.swypeconnect.com" address=0.0.0.0
 add name="lbsbikes.com" address=0.0.0.0
 add name="lbslepe.de" address=0.0.0.0
 add name="lbszsbzuupnoe.online" address=0.0.0.0
-add name="lbtinc.com" address=0.0.0.0
 add name="lbtnxitwwfdqd.site" address=0.0.0.0
 add name="lbu6cadqq5.com" address=0.0.0.0
 add name="lbumpethohbsp.online" address=0.0.0.0
@@ -39173,6 +39162,7 @@ add name="linkw2e.com" address=0.0.0.0
 add name="linkw2g.com" address=0.0.0.0
 add name="linkwitt.com" address=0.0.0.0
 add name="linoee.com" address=0.0.0.0
+add name="linolinmorisco.qpon" address=0.0.0.0
 add name="linoviacrate.com" address=0.0.0.0
 add name="linterjabots.cfd" address=0.0.0.0
 add name="lintheirbrightscarletc.org" address=0.0.0.0
@@ -39501,6 +39491,7 @@ add name="lmldxd.icu" address=0.0.0.0
 add name="lmlirxrgiowap.online" address=0.0.0.0
 add name="lmngvqqskhppa.online" address=0.0.0.0
 add name="lmovixat.in" address=0.0.0.0
+add name="lmpygevzkenzr.online" address=0.0.0.0
 add name="lmrljuiymdtry.space" address=0.0.0.0
 add name="lmrwupcucuprv.site" address=0.0.0.0
 add name="lmtmocldctbnu.online" address=0.0.0.0
@@ -40559,6 +40550,7 @@ add name="lrlqiohtorwwl.website" address=0.0.0.0
 add name="lrnszmhetq.com" address=0.0.0.0
 add name="lrorwzpayomsy.space" address=0.0.0.0
 add name="lrqqsseldxksb.online" address=0.0.0.0
+add name="lrsffmvzuntbq.website" address=0.0.0.0
 add name="lrtfiyldgsawj.website" address=0.0.0.0
 add name="lruqoojiabeik.online" address=0.0.0.0
 add name="lrvpquoavttir.site" address=0.0.0.0
@@ -40863,6 +40855,7 @@ add name="lwlybwd5zq.com" address=0.0.0.0
 add name="lwmeelpauwjap.com" address=0.0.0.0
 add name="lwnbts.com" address=0.0.0.0
 add name="lwnxzp.icu" address=0.0.0.0
+add name="lwoetbphiqkii.online" address=0.0.0.0
 add name="lwoffilapu.com" address=0.0.0.0
 add name="lwonclbench.com" address=0.0.0.0
 add name="lwqwlxzzujoof.space" address=0.0.0.0
@@ -40906,6 +40899,7 @@ add name="lxtacluhwhcfy.site" address=0.0.0.0
 add name="lxuonhvydlxyk.space" address=0.0.0.0
 add name="lxwmazdgleyxy.website" address=0.0.0.0
 add name="lxwp426ao.com" address=0.0.0.0
+add name="lxyvpfalzuhnx.space" address=0.0.0.0
 add name="lxznpo.shop" address=0.0.0.0
 add name="ly-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ly.lgsmartad.com" address=0.0.0.0
@@ -41098,7 +41092,6 @@ add name="machinerypartsmarket.com" address=0.0.0.0
 add name="machinerypostcardcollect.com" address=0.0.0.0
 add name="machineryvegetable.com" address=0.0.0.0
 add name="machogodynamis.com" address=0.0.0.0
-add name="macingcolombharicot.cfd" address=0.0.0.0
 add name="mackeeperapp.mackeeper.com" address=0.0.0.0
 add name="mackerel.passiveincome.io" address=0.0.0.0
 add name="macoens.com" address=0.0.0.0
@@ -41180,7 +41173,6 @@ add name="magiemarkt.com" address=0.0.0.0
 add name="maginp.com" address=0.0.0.0
 add name="magischepfoten.de" address=0.0.0.0
 add name="magischesparfum.de" address=0.0.0.0
-add name="magisk.zip" address=0.0.0.0
 add name="magiskapk.net" address=0.0.0.0
 add name="magiskzip.com" address=0.0.0.0
 add name="magistrateknock.com" address=0.0.0.0
@@ -41487,7 +41479,6 @@ add name="markerindians.shop" address=0.0.0.0
 add name="markerleery.com" address=0.0.0.0
 add name="market-buster.com" address=0.0.0.0
 add name="market-click-baobab.yandex.ru" address=0.0.0.0
-add name="market.clearancewhirl.com" address=0.0.0.0
 add name="market.darrowmere.com" address=0.0.0.0
 add name="market.duowan.com" address=0.0.0.0
 add name="market.livaxxen.org" address=0.0.0.0
@@ -41681,6 +41672,7 @@ add name="matomo.samsungsdibs.at" address=0.0.0.0
 add name="matomo.similarweb.io" address=0.0.0.0
 add name="matomo.stackvaults.com" address=0.0.0.0
 add name="matomo.unicaf.org" address=0.0.0.0
+add name="matricebarfs.cfd" address=0.0.0.0
 add name="matrix.dailyinnovation.biz" address=0.0.0.0
 add name="matrixator.com" address=0.0.0.0
 add name="matrixersatzteile.com" address=0.0.0.0
@@ -41724,7 +41716,6 @@ add name="maws-aax-apse-rtb.amazon-adsystem.com" address=0.0.0.0
 add name="maws-aax-eu-rtb-adx.amazon-adsystem.com" address=0.0.0.0
 add name="maws-aax-eu-rtb.amazon-adsystem.com" address=0.0.0.0
 add name="maws-aax-eu.amazon-adsystem.com" address=0.0.0.0
-add name="maws-aax-fe-sin.amazon-adsystem.com" address=0.0.0.0
 add name="maws-aax-fe.amazon-adsystem.com" address=0.0.0.0
 add name="maws-aax-us-east-rtb-adx.amazon-adsystem.com" address=0.0.0.0
 add name="maws-aax-us-east-rtb.amazon-adsystem.com" address=0.0.0.0
@@ -41797,6 +41788,7 @@ add name="mbidpp.com" address=0.0.0.0
 add name="mbidpsh.com" address=0.0.0.0
 add name="mbidtg.com" address=0.0.0.0
 add name="mbkauf.com" address=0.0.0.0
+add name="mbkbvszqhxnzb.online" address=0.0.0.0
 add name="mbkkrjbdhhdef.online" address=0.0.0.0
 add name="mbltzqounmuzh.space" address=0.0.0.0
 add name="mbn.com.ua" address=0.0.0.0
@@ -42150,6 +42142,7 @@ add name="medical-aid.net" address=0.0.0.0
 add name="medicalandbeautycare.com" address=0.0.0.0
 add name="medicalcandid.com" address=0.0.0.0
 add name="medicalgroupsk.sk" address=0.0.0.0
+add name="medicalsupportsale.com" address=0.0.0.0
 add name="medicamententreparticulier.com" address=0.0.0.0
 add name="medicareonthemoveaz.com" address=0.0.0.0
 add name="medicationspoons.com" address=0.0.0.0
@@ -43101,6 +43094,7 @@ add name="mjiillaizjckm.website" address=0.0.0.0
 add name="mjjcwatsciuns.online" address=0.0.0.0
 add name="mjji.cn" address=0.0.0.0
 add name="mjkbgvtdgbscs.site" address=0.0.0.0
+add name="mjkexdzuzrxnt.site" address=0.0.0.0
 add name="mjkvxpeychtfw.website" address=0.0.0.0
 add name="mjlazcvfixyzn.space" address=0.0.0.0
 add name="mjljqbyepiucu.website" address=0.0.0.0
@@ -43992,6 +43986,7 @@ add name="motoculturedirecte.com" address=0.0.0.0
 add name="motoenthusiastsbase.com" address=0.0.0.0
 add name="motoholland.com" address=0.0.0.0
 add name="motonordic.shop" address=0.0.0.0
+add name="motopartsdeutschland.com" address=0.0.0.0
 add name="motor17.net" address=0.0.0.0
 add name="motorblockelektrik.com" address=0.0.0.0
 add name="motorfromservices.net" address=0.0.0.0
@@ -44106,6 +44101,7 @@ add name="mpnjigsicbtas.site" address=0.0.0.0
 add name="mpnrs.com" address=0.0.0.0
 add name="mpocadpbnevwa.site" address=0.0.0.0
 add name="mppiorwmiggdo.space" address=0.0.0.0
+add name="mppxlwkdzfunt.space" address=0.0.0.0
 add name="mpqemzwqwsfhg.online" address=0.0.0.0
 add name="mpreis-2023.myfreesites.net" address=0.0.0.0
 add name="mprsxxhbdhewe.online" address=0.0.0.0
@@ -44116,6 +44112,7 @@ add name="mpso.deveri.de" address=0.0.0.0
 add name="mpstat.us" address=0.0.0.0
 add name="mpsuadv.ru" address=0.0.0.0
 add name="mpsxqpeqnfjck.site" address=0.0.0.0
+add name="mptdrqntkidyq.site" address=0.0.0.0
 add name="mptentry.com" address=0.0.0.0
 add name="mptgate.com" address=0.0.0.0
 add name="mptkltomzlexc.site" address=0.0.0.0
@@ -44216,6 +44213,7 @@ add name="msads.net" address=0.0.0.0
 add name="msadsscale.azureedge.net" address=0.0.0.0
 add name="msadsscale.microsoft.com" address=0.0.0.0
 add name="msairvfkyimyh.online" address=0.0.0.0
+add name="msanhanger.at" address=0.0.0.0
 add name="msbnmxmbjgchc.space" address=0.0.0.0
 add name="msc-beratung.de" address=0.0.0.0
 add name="msc-dct-prod.msc.apple.com" address=0.0.0.0
@@ -45590,8 +45588,8 @@ add name="neztlwbosrksr.online" address=0.0.0.0
 add name="nf1nknlw.mateforevents.com" address=0.0.0.0
 add name="nfciajnho.com" address=0.0.0.0
 add name="nfcliqjyhwatk.website" address=0.0.0.0
+add name="nfdjzaqcdmtwd.online" address=0.0.0.0
 add name="nfexcdiuvfyuu.online" address=0.0.0.0
-add name="nffajhgq.shop" address=0.0.0.0
 add name="nffceerhottvc.site" address=0.0.0.0
 add name="nfhvxhefuevwh.website" address=0.0.0.0
 add name="nfitekfooeigt.website" address=0.0.0.0
@@ -45633,6 +45631,7 @@ add name="ngepfoguoouph.space" address=0.0.0.0
 add name="nger.de" address=0.0.0.0
 add name="ngexcelelernodyd.org" address=0.0.0.0
 add name="ngexcelelernodyde.org" address=0.0.0.0
+add name="ngfgohinubvbw.online" address=0.0.0.0
 add name="ngfkrduait.com" address=0.0.0.0
 add name="nggcgjtnqm.com" address=0.0.0.0
 add name="nghivugi92.com" address=0.0.0.0
@@ -46509,7 +46508,9 @@ add name="nuayrztxdbfem.site" address=0.0.0.0
 add name="nubaskin.de" address=0.0.0.0
 add name="nubblysaves.com" address=0.0.0.0
 add name="nubumwpmqpslh.website" address=0.0.0.0
+add name="nucleindinkly.com" address=0.0.0.0
 add name="nucleo.online" address=0.0.0.0
+add name="nucmhydicaw.in" address=0.0.0.0
 add name="nudeghogukwhx.store" address=0.0.0.0
 add name="nudge.lgtvcommon.com" address=0.0.0.0
 add name="nudgesplityowza.com" address=0.0.0.0
@@ -46685,6 +46686,7 @@ add name="nycteaflota.com" address=0.0.0.0
 add name="nyctsnsuuxbsf.website" address=0.0.0.0
 add name="nydcwypbglbjb.online" address=0.0.0.0
 add name="nyfa-images.reviveservers.com" address=0.0.0.0
+add name="nyfmxyanmqeay.site" address=0.0.0.0
 add name="nyfoaqkevjoaw.online" address=0.0.0.0
 add name="nyfolk.de" address=0.0.0.0
 add name="nyfwoxdfhgufr.online" address=0.0.0.0
@@ -46791,6 +46793,7 @@ add name="oagooazlqgcpg.site" address=0.0.0.0
 add name="oainternetservices.com" address=0.0.0.0
 add name="oakchokerfumes.com" address=0.0.0.0
 add name="oakdalerotary.org" address=0.0.0.0
+add name="oakfieldy.com" address=0.0.0.0
 add name="oakhabitsy.com" address=0.0.0.0
 add name="oalseessonoo.com" address=0.0.0.0
 add name="oamoameevee.net" address=0.0.0.0
@@ -47162,6 +47165,7 @@ add name="oelzy.de" address=0.0.0.0
 add name="oempafnyfiexpe.com" address=0.0.0.0
 add name="oepahvkqvihnh.space" address=0.0.0.0
 add name="oepkdmcujxace.space" address=0.0.0.0
+add name="oeqloiksnepwl.website" address=0.0.0.0
 add name="oerxzdstepphr.store" address=0.0.0.0
 add name="oescornrow.shop" address=0.0.0.0
 add name="oesterreichischeapotheke.com" address=0.0.0.0
@@ -47173,6 +47177,7 @@ add name="oewa.at" address=0.0.0.0
 add name="oewabox.at" address=0.0.0.0
 add name="oewvsysoeceah.store" address=0.0.0.0
 add name="oeyqfwftrbzvh.space" address=0.0.0.0
+add name="oezudnmhgplsx.website" address=0.0.0.0
 add name="of-results.com" address=0.0.0.0
 add name="of384py2xt.com" address=0.0.0.0
 add name="ofaskphdspgqe.online" address=0.0.0.0
@@ -47391,6 +47396,7 @@ add name="oiismyzivtine.website" address=0.0.0.0
 add name="oijcphjwiabsg.online" address=0.0.0.0
 add name="oijhekvoh.com" address=0.0.0.0
 add name="oikmvbuy.shop" address=0.0.0.0
+add name="oil-profits.com" address=0.0.0.0
 add name="oilcontainsdisaster.com" address=0.0.0.0
 add name="oilexa.de" address=0.0.0.0
 add name="oilprofit.io" address=0.0.0.0
@@ -47613,7 +47619,6 @@ add name="omrlipeocxijz.online" address=0.0.0.0
 add name="omroepflevoland-static.reviveservers.com" address=0.0.0.0
 add name="omropfryslan-delivery.reviveservers.com" address=0.0.0.0
 add name="oms-analytics.trafficmanager.net" address=0.0.0.0
-add name="omshellderom.com" address=0.0.0.0
 add name="omswwmgtqwekb.space" address=0.0.0.0
 add name="omt.shinobi.jp" address=0.0.0.0
 add name="omwvapmytccsc.online" address=0.0.0.0
@@ -49134,6 +49139,7 @@ add name="papmeatidigbo.com" address=0.0.0.0
 add name="papoto.com" address=0.0.0.0
 add name="pappagallu.onefootball.com" address=0.0.0.0
 add name="papularsile.qpon" address=0.0.0.0
+add name="papulessnawing.cfd" address=0.0.0.0
 add name="paqxspfbapsai.site" address=0.0.0.0
 add name="parabound.de" address=0.0.0.0
 add name="paradefast.com" address=0.0.0.0
@@ -49495,6 +49501,7 @@ add name="pcx-events.revbox.co" address=0.0.0.0
 add name="pcxpmbmuialjb.space" address=0.0.0.0
 add name="pcyk.ru" address=0.0.0.0
 add name="pcyqadvwrqsmc.online" address=0.0.0.0
+add name="pczpmmuhpxlgv.com" address=0.0.0.0
 add name="pd99.cc" address=0.0.0.0
 add name="pdainpzfelpch.site" address=0.0.0.0
 add name="pdebfoicutkdt.site" address=0.0.0.0
@@ -49754,6 +49761,7 @@ add name="perkyawaitingmammoth.com" address=0.0.0.0
 add name="perkyexcitedlyscenario.com" address=0.0.0.0
 add name="perlatoschuhe.com" address=0.0.0.0
 add name="perlatoshoe.com" address=0.0.0.0
+add name="perlenwerk.com" address=0.0.0.0
 add name="perlenzwoelfe.de" address=0.0.0.0
 add name="perlidmayfair.qpon" address=0.0.0.0
 add name="perlikewiseamid.com" address=0.0.0.0
@@ -50798,6 +50806,7 @@ add name="plushroomdesign.com" address=0.0.0.0
 add name="plutogdx.com" address=0.0.0.0
 add name="pluxpdzouwubj.space" address=0.0.0.0
 add name="plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws" address=0.0.0.0
+add name="plwjzebrslajv.site" address=0.0.0.0
 add name="plx.boafoda.com" address=0.0.0.0
 add name="plx.eispop.com" address=0.0.0.0
 add name="plx.gameblog.fr" address=0.0.0.0
@@ -51218,6 +51227,7 @@ add name="posterliking.com" address=0.0.0.0
 add name="postgazettenewstoday.com" address=0.0.0.0
 add name="posthog.football24.ua" address=0.0.0.0
 add name="posthog.lingvanex.com" address=0.0.0.0
+add name="posthog.russpass.ru" address=0.0.0.0
 add name="posthog.tarnkappe.info" address=0.0.0.0
 add name="postinvent.com" address=0.0.0.0
 add name="postmedia-ai.wehaacdn.com" address=0.0.0.0
@@ -51404,6 +51414,7 @@ add name="prankhistorian.com" address=0.0.0.0
 add name="prashanti-baumarkt.com" address=0.0.0.0
 add name="pratydreamsshop.com" address=0.0.0.0
 add name="prawn.lionsmouth.digital" address=0.0.0.0
+add name="prawplgfkqicd.com" address=0.0.0.0
 add name="praxis-natuerlichgesund.de" address=0.0.0.0
 add name="prayersoriginate.com" address=0.0.0.0
 add name="prayratesantibiotic.com" address=0.0.0.0
@@ -51418,7 +51429,6 @@ add name="prd-collect-llm.xverse.cn" address=0.0.0.0
 add name="prd-collector-anon.ex.co" address=0.0.0.0
 add name="prd-collector-anon.playbuzz.com" address=0.0.0.0
 add name="prd-collector-platform.ex.co" address=0.0.0.0
-add name="prd-qlik-telemetry.servicebus.windows.net" address=0.0.0.0
 add name="prd-usw2-requestattribution-iad.apple.com" address=0.0.0.0
 add name="prd.api.bleacherreport.com" address=0.0.0.0
 add name="prderrordumphsm.samsungcloudsolution.com" address=0.0.0.0
@@ -51493,6 +51503,7 @@ add name="prefleks.com" address=0.0.0.0
 add name="preformbiunial.com" address=0.0.0.0
 add name="pregmatookles.com" address=0.0.0.0
 add name="pregnantskipper.com" address=0.0.0.0
+add name="prehurl.com" address=0.0.0.0
 add name="preis-meister.de" address=0.0.0.0
 add name="preis-trend.de" address=0.0.0.0
 add name="preise.com" address=0.0.0.0
@@ -52216,6 +52227,7 @@ add name="pthrcuymfiu.com" address=0.0.0.0
 add name="ptichoolsougn.net" address=0.0.0.0
 add name="ptistyvymi.com" address=0.0.0.0
 add name="ptkmuqscgtakv.site" address=0.0.0.0
+add name="ptlnonnvinedq.site" address=0.0.0.0
 add name="ptlucrangwlvs.website" address=0.0.0.0
 add name="ptlufbanslsse.website" address=0.0.0.0
 add name="ptlwm.com" address=0.0.0.0
@@ -52505,7 +52517,6 @@ add name="pushflow.net" address=0.0.0.0
 add name="pushflow.org" address=0.0.0.0
 add name="pushhemretaliate.com" address=0.0.0.0
 add name="pushimg.com" address=0.0.0.0
-add name="pushingpinus.cfd" address=0.0.0.0
 add name="pushinkaa.com" address=0.0.0.0
 add name="pushinpage.com" address=0.0.0.0
 add name="pushit.work" address=0.0.0.0
@@ -52693,6 +52704,7 @@ add name="pyvenjyewteku.website" address=0.0.0.0
 add name="pyvhosskljrr.com" address=0.0.0.0
 add name="pyvigo.com" address=0.0.0.0
 add name="pz0d6zc6n.com" address=0.0.0.0
+add name="pzaovfjaja.in" address=0.0.0.0
 add name="pzapi-nb.com" address=0.0.0.0
 add name="pzbtbwepicwjn.site" address=0.0.0.0
 add name="pzckypp.beer" address=0.0.0.0
@@ -54044,6 +54056,7 @@ add name="rb-ya.ru" address=0.0.0.0
 add name="rb.infox.sg" address=0.0.0.0
 add name="rb.rfn.ru" address=0.0.0.0
 add name="rb51rh02h.com" address=0.0.0.0
+add name="rbbwelakkacnb.website" address=0.0.0.0
 add name="rbcglobal-asset.com" address=0.0.0.0
 add name="rbdata.boostymark.com" address=0.0.0.0
 add name="rbdsz.com" address=0.0.0.0
@@ -54994,6 +55007,7 @@ add name="revolutionracede.de" address=0.0.0.0
 add name="revolutionraceshop.com" address=0.0.0.0
 add name="revolutionracestore.com" address=0.0.0.0
 add name="revolutiontelegram.com" address=0.0.0.0
+add name="revolvevelocitytrey.com" address=0.0.0.0
 add name="revolving-host.com" address=0.0.0.0
 add name="revolving-type.com" address=0.0.0.0
 add name="revomarkt.com" address=0.0.0.0
@@ -55190,6 +55204,7 @@ add name="ridelbergu.de" address=0.0.0.0
 add name="rideradjective.com" address=0.0.0.0
 add name="riderhorsesupplies.com" address=0.0.0.0
 add name="ridesprint.com" address=0.0.0.0
+add name="ridge-static.space" address=0.0.0.0
 add name="ridgepilotavalanche.com" address=0.0.0.0
 add name="ridgewherevertical.com" address=0.0.0.0
 add name="ridgeyelpastronomy.com" address=0.0.0.0
@@ -55308,7 +55323,6 @@ add name="rizfvsmmsxgqp.website" address=0.0.0.0
 add name="rizkigkmoa.in" address=0.0.0.0
 add name="rizuvnddwycjm.space" address=0.0.0.0
 add name="rizyjzkvtsoib.space" address=0.0.0.0
-add name="rj544378k3hwihjbz8xllh5o65v6ij.cfd" address=0.0.0.0
 add name="rjacftfazbyjq.online" address=0.0.0.0
 add name="rjawuengkzqki.space" address=0.0.0.0
 add name="rjemafqzprwxc.space" address=0.0.0.0
@@ -55453,7 +55467,9 @@ add name="rndhydreigonan.com" address=0.0.0.0
 add name="rndmlk8asw.com" address=0.0.0.0
 add name="rnedok.shop" address=0.0.0.0
 add name="rnejbimorzprh.site" address=0.0.0.0
+add name="rnenwctpstbsr.space" address=0.0.0.0
 add name="rnfdcvpvjcfuc.space" address=0.0.0.0
+add name="rnfdgfqnpnpmi.online" address=0.0.0.0
 add name="rnfeff.shop" address=0.0.0.0
 add name="rngonline.org" address=0.0.0.0
 add name="rngzjeedstbru.online" address=0.0.0.0
@@ -56675,6 +56691,7 @@ add name="rwofesciqvzgr.site" address=0.0.0.0
 add name="rwohxheuqhmqy.site" address=0.0.0.0
 add name="rwolbykeddxca.website" address=0.0.0.0
 add name="rworljrkawlqq.top" address=0.0.0.0
+add name="rwowunoz.in" address=0.0.0.0
 add name="rwpvjrjxyhpzr.space" address=0.0.0.0
 add name="rwqovmoezrvrv.top" address=0.0.0.0
 add name="rwtezd.icu" address=0.0.0.0
@@ -56714,6 +56731,7 @@ add name="rxjdbeabdctcn.website" address=0.0.0.0
 add name="rxjvmsvfvstue.website" address=0.0.0.0
 add name="rxkayupbjvt.com" address=0.0.0.0
 add name="rxkcapital.com" address=0.0.0.0
+add name="rxkekzusevdok.com" address=0.0.0.0
 add name="rxkrnofyhchvm.site" address=0.0.0.0
 add name="rxlvemmsokvfi.online" address=0.0.0.0
 add name="rxmanreturn.com" address=0.0.0.0
@@ -56724,6 +56742,7 @@ add name="rxscledbyfgos.site" address=0.0.0.0
 add name="rxthdr.com" address=0.0.0.0
 add name="rxvyaqqvdnblc.space" address=0.0.0.0
 add name="rxwjetugafkwt.online" address=0.0.0.0
+add name="rxwnarkzmm.com" address=0.0.0.0
 add name="rxwudmurgnloh.com" address=0.0.0.0
 add name="rxys.cn" address=0.0.0.0
 add name="rxzefz.icu" address=0.0.0.0
@@ -56748,6 +56767,7 @@ add name="ryiklaawtjuus.online" address=0.0.0.0
 add name="ryknsblynbifq.store" address=0.0.0.0
 add name="ryminos.com" address=0.0.0.0
 add name="rypebb.icu" address=0.0.0.0
+add name="ryqxryaytwbpx.website" address=0.0.0.0
 add name="ryrv0j.greenbeanbuddy.com" address=0.0.0.0
 add name="rytewerkone.com" address=0.0.0.0
 add name="rytxapieekshh.space" address=0.0.0.0
@@ -57066,6 +57086,7 @@ add name="sabedawiggle.shop" address=0.0.0.0
 add name="sabergood.com" address=0.0.0.0
 add name="sabine-becker.de" address=0.0.0.0
 add name="sabinpanhas.cyou" address=0.0.0.0
+add name="sableviolet.com" address=0.0.0.0
 add name="sabtecsxmjmnj.website" address=0.0.0.0
 add name="sac-chat.com" address=0.0.0.0
 add name="sacaeruse.com" address=0.0.0.0
@@ -57262,7 +57283,6 @@ add name="samofotografie.de" address=0.0.0.0
 add name="samoon.com.tw" address=0.0.0.0
 add name="samreshuu.online" address=0.0.0.0
 add name="samsoe-outlet.shop" address=0.0.0.0
-add name="samsonite.com.de" address=0.0.0.0
 add name="samsung-akcja.e-kei.pl" address=0.0.0.0
 add name="samsung-beacons.xumo.com" address=0.0.0.0
 add name="samsung-benelux.demdex.net" address=0.0.0.0
@@ -57731,6 +57751,7 @@ add name="schockemohleonlinestore.shop" address=0.0.0.0
 add name="schoen3dshop.de" address=0.0.0.0
 add name="schoeppe-heizoel.de" address=0.0.0.0
 add name="scholarathelite.com" address=0.0.0.0
+add name="scholarcloine.qpon" address=0.0.0.0
 add name="scholarly-engineering.pro" address=0.0.0.0
 add name="scholarlyinteraction.pro" address=0.0.0.0
 add name="scholarshipexplosivepopular.com" address=0.0.0.0
@@ -57892,6 +57913,7 @@ add name="sdadarotfnhoy.website" address=0.0.0.0
 add name="sdarot-il.org" address=0.0.0.0
 add name="sdarot-tv.org" address=0.0.0.0
 add name="sdata.wiley.com" address=0.0.0.0
+add name="sdbobiolgvewi.site" address=0.0.0.0
 add name="sdcgnlnlnlayq.store" address=0.0.0.0
 add name="sdd.hi1718.com" address=0.0.0.0
 add name="sddan.com" address=0.0.0.0
@@ -58116,7 +58138,6 @@ add name="sefwpmjrsvewq.website" address=0.0.0.0
 add name="seg.sharethis.com" address=0.0.0.0
 add name="segapi.splice.com" address=0.0.0.0
 add name="seggarscharred.cfd" address=0.0.0.0
-add name="seggedelijah.cfd" address=0.0.0.0
 add name="seghg.hottopic.com" address=0.0.0.0
 add name="segleruhren.de" address=0.0.0.0
 add name="segment-api.goodrx.com" address=0.0.0.0
@@ -58472,6 +58493,7 @@ add name="seventeendepressed.com" address=0.0.0.0
 add name="seventeenk.com" address=0.0.0.0
 add name="severalsail.com" address=0.0.0.0
 add name="severeshitty.qpon" address=0.0.0.0
+add name="sewabletibiae.shop" address=0.0.0.0
 add name="sewboldlyavow.com" address=0.0.0.0
 add name="sewdialogueconcealment.com" address=0.0.0.0
 add name="sewerfieryendurance.com" address=0.0.0.0
@@ -59102,7 +59124,6 @@ add name="sierke24.de" address=0.0.0.0
 add name="sierrakonradreorganize.com" address=0.0.0.0
 add name="sieundihn.de" address=0.0.0.0
 add name="sievepalmful.com" address=0.0.0.0
-add name="sievestankah.qpon" address=0.0.0.0
 add name="siewca.topagrar.pl" address=0.0.0.0
 add name="sifcbavqjaxbn.website" address=0.0.0.0
 add name="sighhigherapprove.com" address=0.0.0.0
@@ -59585,7 +59606,6 @@ add name="slvijdtvksmjv.store" address=0.0.0.0
 add name="slvumxhzmtope.website" address=0.0.0.0
 add name="slxktxaokcvon.site" address=0.0.0.0
 add name="slybheguvihki.online" address=0.0.0.0
-add name="slystabbed.cfd" address=0.0.0.0
 add name="slywtzllxzvwx.online" address=0.0.0.0
 add name="slzpcjksfrkei.online" address=0.0.0.0
 add name="sm-cloud.yunsafe.top" address=0.0.0.0
@@ -59720,6 +59740,7 @@ add name="smmnukhmkbffv.site" address=0.0.0.0
 add name="smoggy-twist.pro" address=0.0.0.0
 add name="smoggyfeed.com" address=0.0.0.0
 add name="smokedmeekdub.com" address=0.0.0.0
+add name="smokelabin.com" address=0.0.0.0
 add name="smokerglum.com" address=0.0.0.0
 add name="smokerland.net" address=0.0.0.0
 add name="smoot-feedback.v.aaplimg.com" address=0.0.0.0
@@ -60612,6 +60633,7 @@ add name="sponsored-ads-eu.amazon.sa" address=0.0.0.0
 add name="sponsored-ads-eu.amazon.se" address=0.0.0.0
 add name="sponsored-ads-fe.amazon-adsystem.com" address=0.0.0.0
 add name="sponsored-ads-na.amazon-adsystem.com" address=0.0.0.0
+add name="sponsored-ads.amazon.ae" address=0.0.0.0
 add name="sponsored-ads.amazon.ca" address=0.0.0.0
 add name="sponsored-ads.amazon.co.jp" address=0.0.0.0
 add name="sponsored-ads.amazon.co.uk" address=0.0.0.0
@@ -60619,6 +60641,7 @@ add name="sponsored-ads.amazon.com" address=0.0.0.0
 add name="sponsored-ads.amazon.com.au" address=0.0.0.0
 add name="sponsored-ads.amazon.com.br" address=0.0.0.0
 add name="sponsored-ads.amazon.com.mx" address=0.0.0.0
+add name="sponsored-ads.amazon.eg" address=0.0.0.0
 add name="sponsored-ads.amazon.es" address=0.0.0.0
 add name="sponsored-ads.amazon.fr" address=0.0.0.0
 add name="sponsored-ads.amazon.in" address=0.0.0.0
@@ -63408,6 +63431,7 @@ add name="tandexo.com" address=0.0.0.0
 add name="tanganyassetmanagement.com" address=0.0.0.0
 add name="tangerineprestigiousbehaved.com" address=0.0.0.0
 add name="tangible-guarantee.pro" address=0.0.0.0
+add name="tangleproceeding.com" address=0.0.0.0
 add name="tangobonn.de" address=0.0.0.0
 add name="tangoslineup.qpon" address=0.0.0.0
 add name="tanguintempeh.shop" address=0.0.0.0
@@ -63627,6 +63651,7 @@ add name="tdglobalcompany.io" address=0.0.0.0
 add name="tdgubsetqwufm.online" address=0.0.0.0
 add name="tdgvugryo.com" address=0.0.0.0
 add name="tdhcdlnvrhyyj.site" address=0.0.0.0
+add name="tdhuutnjrparf.space" address=0.0.0.0
 add name="tdhvk8we.xyz" address=0.0.0.0
 add name="tdk.petsplace.nl" address=0.0.0.0
 add name="tdkaapcziaoty.website" address=0.0.0.0
@@ -63993,6 +64018,7 @@ add name="tf1xu32n.xyz" address=0.0.0.0
 add name="tf4srv.com" address=0.0.0.0
 add name="tfafvayivvbsj.website" address=0.0.0.0
 add name="tfag.de" address=0.0.0.0
+add name="tfamwgkiacqwb.space" address=0.0.0.0
 add name="tfashionsale.com" address=0.0.0.0
 add name="tfb7jc.de" address=0.0.0.0
 add name="tfbs-shop.com" address=0.0.0.0
@@ -64009,6 +64035,7 @@ add name="tfmsiuwpqkxue.site" address=0.0.0.0
 add name="tfnvuckb.pro" address=0.0.0.0
 add name="tfomxpkyvdzyi.space" address=0.0.0.0
 add name="tfosrv.com" address=0.0.0.0
+add name="tfpodf.ars.appsflyersdk.com" address=0.0.0.0
 add name="tfqrifustrybg.store" address=0.0.0.0
 add name="tfrkbyualptil.online" address=0.0.0.0
 add name="tfwjtrkuueobz.online" address=0.0.0.0
@@ -64036,6 +64063,7 @@ add name="tgjonodnifuxu.online" address=0.0.0.0
 add name="tgmbxplmlsclp.space" address=0.0.0.0
 add name="tgnoppvxz.com" address=0.0.0.0
 add name="tgowvecdkon.com" address=0.0.0.0
+add name="tgrdgljt.shop" address=0.0.0.0
 add name="tgtus1-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="tgtus1-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="tgtus1-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
@@ -64545,6 +64573,7 @@ add name="titel-kaufen.com" address=0.0.0.0
 add name="tithedsphagia.cfd" address=0.0.0.0
 add name="titit.shop" address=0.0.0.0
 add name="titjzl.icu" address=0.0.0.0
+add name="titterruddles.cyou" address=0.0.0.0
 add name="tiu6ij9yqn.com" address=0.0.0.0
 add name="tiuyamhwqljgm.site" address=0.0.0.0
 add name="tiveone.com" address=0.0.0.0
@@ -64582,6 +64611,7 @@ add name="tjhoocqyksmsm.site" address=0.0.0.0
 add name="tjimliqvsb.com" address=0.0.0.0
 add name="tjinit-event.babybus.com" address=0.0.0.0
 add name="tjinit-global-register.babybus.com" address=0.0.0.0
+add name="tjiyavxmtihln.space" address=0.0.0.0
 add name="tjk-njk.com" address=0.0.0.0
 add name="tjkcibklcapsx.space" address=0.0.0.0
 add name="tjkdypxpsmnap.online" address=0.0.0.0
@@ -67357,6 +67387,7 @@ add name="uggs.co.at" address=0.0.0.0
 add name="uggukoutletfactory.com" address=0.0.0.0
 add name="uggwouhzwuhcb.website" address=0.0.0.0
 add name="ughjubilantly.com" address=0.0.0.0
+add name="ugiaxfrmorqgh.website" address=0.0.0.0
 add name="ugirllove.net" address=0.0.0.0
 add name="uglufuepfcind.space" address=0.0.0.0
 add name="uglytraining.com" address=0.0.0.0
@@ -67614,6 +67645,7 @@ add name="umiqzlcvx.com" address=0.0.0.0
 add name="umisrvofhmysc.site" address=0.0.0.0
 add name="umlwjozzjdveq.website" address=0.0.0.0
 add name="umlyyoggkgxbk.site" address=0.0.0.0
+add name="ummsyogyankeg.website" address=0.0.0.0
 add name="umnnjpcfdcegy.website" address=0.0.0.0
 add name="umnxdbvgstipt.website" address=0.0.0.0
 add name="umokmojaxtwrj.online" address=0.0.0.0
@@ -68002,6 +68034,7 @@ add name="uofddaueodbeq.space" address=0.0.0.0
 add name="uogmaufnar.com" address=0.0.0.0
 add name="uohsqzovikvyr.online" address=0.0.0.0
 add name="uojcqkdr.com" address=0.0.0.0
+add name="uojkwxvpsgpkk.online" address=0.0.0.0
 add name="uokaxbyfrkmnb.website" address=0.0.0.0
 add name="uokctomaimarn.site" address=0.0.0.0
 add name="uokdmnnvpuzyo.site" address=0.0.0.0
@@ -68040,7 +68073,6 @@ add name="upbeatnature.com" address=0.0.0.0
 add name="upc.zztfly.com" address=0.0.0.0
 add name="upcityarles.com" address=0.0.0.0
 add name="upcomingperusehike.com" address=0.0.0.0
-add name="upcraneoverrantollies.cfd" address=0.0.0.0
 add name="upcuoicobbycl.site" address=0.0.0.0
 add name="updaight.com" address=0.0.0.0
 add name="update-macosx.com" address=0.0.0.0
@@ -68578,6 +68610,7 @@ add name="uzapgolabdiyl.site" address=0.0.0.0
 add name="uzasjoeoqwruj.site" address=0.0.0.0
 add name="uzawebaho.sbs" address=0.0.0.0
 add name="uzdpzjmscmlgz.website" address=0.0.0.0
+add name="uzfriodntbdip.online" address=0.0.0.0
 add name="uzgcdprqhjbak.space" address=0.0.0.0
 add name="uzgppwcacrs.com" address=0.0.0.0
 add name="uzhjcqoywhrvn.space" address=0.0.0.0
@@ -68586,6 +68619,7 @@ add name="uzihdotfqfoof.site" address=0.0.0.0
 add name="uzioxnjmnonzu.site" address=0.0.0.0
 add name="uzjvhbzumhnkg.online" address=0.0.0.0
 add name="uzl8.bkimfvv8gr9ix9uk5oy45t.cyou" address=0.0.0.0
+add name="uzmejkpdipkoz.website" address=0.0.0.0
 add name="uzocxzrbkcrpk.online" address=0.0.0.0
 add name="uzpuaveerqjei.site" address=0.0.0.0
 add name="uzpwejzqjtqdg.store" address=0.0.0.0
@@ -68779,6 +68813,7 @@ add name="vapourdifferenceszealot.com" address=0.0.0.0
 add name="vaqjgbsmdrqzp.website" address=0.0.0.0
 add name="vaqykqeoeaeby.top" address=0.0.0.0
 add name="vaqykqyvvazbz.top" address=0.0.0.0
+add name="varecdeplace.shop" address=0.0.0.0
 add name="variabilityaviationmutiny.com" address=0.0.0.0
 add name="variabilitydonor.com" address=0.0.0.0
 add name="variableh.com" address=0.0.0.0
@@ -69679,7 +69714,6 @@ add name="vivifyingpet.com" address=0.0.0.0
 add name="vivifysation.shop" address=0.0.0.0
 add name="viviservice.com" address=0.0.0.0
 add name="vivo-hamburg.de" address=0.0.0.0
-add name="vivobarefoot.com.de" address=0.0.0.0
 add name="vivobarefootbrasil.net" address=0.0.0.0
 add name="vivobarefootde.com" address=0.0.0.0
 add name="vivobarefootgermany.de" address=0.0.0.0
@@ -69743,6 +69777,7 @@ add name="vkoq4kyzmj.com" address=0.0.0.0
 add name="vkoqaquif.com" address=0.0.0.0
 add name="vkpfzrvrkwimum.com" address=0.0.0.0
 add name="vkqowkbmcjzin.online" address=0.0.0.0
+add name="vkrzvxtrjqr.com" address=0.0.0.0
 add name="vksqnghc.com" address=0.0.0.0
 add name="vksy.cn" address=0.0.0.0
 add name="vkur.cn" address=0.0.0.0
@@ -70201,6 +70236,7 @@ add name="vuiebktuavkcc.online" address=0.0.0.0
 add name="vuigodeutschland.de" address=0.0.0.0
 add name="vuiizknwfmbbd.space" address=0.0.0.0
 add name="vujglx.icu" address=0.0.0.0
+add name="vukgifjbxdeml.space" address=0.0.0.0
 add name="vukifrwnczdwk.online" address=0.0.0.0
 add name="vukqsoyedcbzg.website" address=0.0.0.0
 add name="vulcanus.at" address=0.0.0.0
@@ -70245,6 +70281,7 @@ add name="vvtshyprijnwi.website" address=0.0.0.0
 add name="vvtwasjebvswf.website" address=0.0.0.0
 add name="vvv.ieduw.com" address=0.0.0.0
 add name="vvvshlnaxlbyp.website" address=0.0.0.0
+add name="vvwdivavtqm.com" address=0.0.0.0
 add name="vvwrajbckvfng.website" address=0.0.0.0
 add name="vvxxqpvylixke.store" address=0.0.0.0
 add name="vvymhfdi.com" address=0.0.0.0
@@ -70341,6 +70378,7 @@ add name="vypddqizgpkpo.store" address=0.0.0.0
 add name="vypmgvwjvgztv.space" address=0.0.0.0
 add name="vyqn.cn" address=0.0.0.0
 add name="vyragdxymcqtw.online" address=0.0.0.0
+add name="vyrwmrwmlozsq.site" address=0.0.0.0
 add name="vysdevmiatwcx.website" address=0.0.0.0
 add name="vyshuddphvxka.store" address=0.0.0.0
 add name="vyspfyimbwvls.site" address=0.0.0.0
@@ -70824,6 +70862,7 @@ add name="wbrgeoldclybx.online" address=0.0.0.0
 add name="wbscyctyiiold.space" address=0.0.0.0
 add name="wbsleixbsbbrf.space" address=0.0.0.0
 add name="wbvgjhejkunhb.site" address=0.0.0.0
+add name="wbvxljdkzkfcm.online" address=0.0.0.0
 add name="wbww9ouxolw7ji3i.rest" address=0.0.0.0
 add name="wbymall.store" address=0.0.0.0
 add name="wbysnyeqjdwhl.site" address=0.0.0.0
@@ -71150,6 +71189,7 @@ add name="weihnachtsdekokaufen.com" address=0.0.0.0
 add name="weike88.com" address=0.0.0.0
 add name="weikershem.de" address=0.0.0.0
 add name="weil-handel.de" address=0.0.0.0
+add name="weilanghoin.cyou" address=0.0.0.0
 add name="weilco.myshopify.com" address=0.0.0.0
 add name="weiledsteverm.org" address=0.0.0.0
 add name="weimifuwl.com" address=0.0.0.0
@@ -71377,6 +71417,7 @@ add name="wghoubdaxpsik.site" address=0.0.0.0
 add name="wghvvdmdqgdzz.space" address=0.0.0.0
 add name="wgijikal.com" address=0.0.0.0
 add name="wgimhiakumdkf.site" address=0.0.0.0
+add name="wgjcuuqjyzerg.website" address=0.0.0.0
 add name="wgkqywcf.com" address=0.0.0.0
 add name="wgkwfkdvltuqy.online" address=0.0.0.0
 add name="wgmehvnnprma.com" address=0.0.0.0
@@ -71557,6 +71598,7 @@ add name="whswprjesbewv.site" address=0.0.0.0
 add name="whsyfigscmbif.space" address=0.0.0.0
 add name="whudwpbpfcjye.site" address=0.0.0.0
 add name="whuffchagrin.cfd" address=0.0.0.0
+add name="whumpedbesogne.qpon" address=0.0.0.0
 add name="whuzucot.net" address=0.0.0.0
 add name="whvyhcvlszizp.online" address=0.0.0.0
 add name="whwdxzadairoq.website" address=0.0.0.0
@@ -71871,6 +71913,7 @@ add name="wjtgwtedzibzu.online" address=0.0.0.0
 add name="wjugygvvdouyk.space" address=0.0.0.0
 add name="wjwdlfxtdydci.store" address=0.0.0.0
 add name="wjxc92bc.xyz" address=0.0.0.0
+add name="wjxcavwpgwqti.space" address=0.0.0.0
 add name="wjxdmbftniafy.website" address=0.0.0.0
 add name="wjxjomgbxflfc.store" address=0.0.0.0
 add name="wk5fo6pyf.com" address=0.0.0.0
@@ -72524,6 +72567,7 @@ add name="wvdkbuoimnxyu.site" address=0.0.0.0
 add name="wvepppysvo.com" address=0.0.0.0
 add name="wvhba6470p.com" address=0.0.0.0
 add name="wvjzqrwhbvepc.space" address=0.0.0.0
+add name="wvkevvesbisbb.website" address=0.0.0.0
 add name="wvloxeggdbjeq.com" address=0.0.0.0
 add name="wvlserrzyvspo.online" address=0.0.0.0
 add name="wvluhltwdsaze.space" address=0.0.0.0
@@ -74148,6 +74192,7 @@ add name="xwqvytuiko.com" address=0.0.0.0
 add name="xwqxwfzhjsxom.space" address=0.0.0.0
 add name="xwskxrfsvcooqt.com" address=0.0.0.0
 add name="xwtpdmsgkfbrz.online" address=0.0.0.0
+add name="xwtxqjtsrxoop.website" address=0.0.0.0
 add name="xwvtqtsrlgedu.space" address=0.0.0.0
 add name="xwwnlmicmcmly.website" address=0.0.0.0
 add name="xwxgjtxsrnkrh.space" address=0.0.0.0
@@ -74180,6 +74225,7 @@ add name="xxsmtz7.com" address=0.0.0.0
 add name="xxsmtz8.com" address=0.0.0.0
 add name="xxsmtz9.com" address=0.0.0.0
 add name="xxsowlfycllbg.space" address=0.0.0.0
+add name="xxtswazuwriaj.space" address=0.0.0.0
 add name="xxvfswapdzisf.website" address=0.0.0.0
 add name="xxx.extrablocks.ru" address=0.0.0.0
 add name="xxx.sdtraff.com" address=0.0.0.0
@@ -74359,6 +74405,7 @@ add name="yb2es1rd82.com" address=0.0.0.0
 add name="ybasuhujdlpiw.site" address=0.0.0.0
 add name="ybawirztscdhp.online" address=0.0.0.0
 add name="ybbnetahurnitm.com" address=0.0.0.0
+add name="ybbukchyjkdfa.website" address=0.0.0.0
 add name="ybcbvtnlddcsg.com" address=0.0.0.0
 add name="ybcladmetal.com" address=0.0.0.0
 add name="ybeciemgtkgfk.website" address=0.0.0.0
