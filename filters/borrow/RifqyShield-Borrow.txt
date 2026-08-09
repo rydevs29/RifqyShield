@@ -97,3 +97,7 @@
 *.superbank.id
 *.tunaiku.com
 *.marikaya-id.com
+*.ksparthaniaga.com
+*.finplus-app.com
+*.finplus.id
+*.klikcair.id
