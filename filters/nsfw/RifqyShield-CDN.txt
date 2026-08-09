@@ -10,7 +10,6 @@
 *.cdn2.silcedrive.online
 *.cdn2.aceimg.com
 *.cdn2.aoeimg.com
-*.indoterviral.forum
 *.awuplayer.online
 *.doodssteam.com
 *.videoembed.info
