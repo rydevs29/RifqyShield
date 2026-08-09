@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-08-09 01:03:47
-# Total Domains: 560,886
+# Last Updated: 2026-08-09 05:32:43
+# Total Domains: 560,903
 # ==========================================
 0--foodwarez.da.ru CNAME .
 0-0-2day.vercel.app CNAME .
@@ -84564,6 +84564,7 @@ asimpkhuterjikolnifer.com CNAME .
 asimplelife.net CNAME .
 asimplyblog.blogspot.com CNAME .
 asimsanteknoloji.com CNAME .
+asimtrvefdcsetbs.com CNAME .
 asing4d.net CNAME .
 asingleof.com CNAME .
 asinglewomanmovie.com CNAME .
@@ -116746,6 +116747,7 @@ brinkow.com CNAME .
 brinks.store CNAME .
 brinkster.net CNAME .
 brinobanahsteamworkspace.myclickfunnels.com CNAME .
+brintaxioflarvix-ai.com CNAME .
 brintaxioflarvixplatform.com CNAME .
 brintelexispro-app.com CNAME .
 brintelexispro-platform.com CNAME .
@@ -159128,6 +159130,7 @@ conviviumcucine.it CNAME .
 convocatiossnsablow.info CNAME .
 convocatoria-minera.info CNAME .
 convoitisellc.net CNAME .
+convorisve.cyou CNAME .
 convoyeurexpressdrivers.fr CNAME .
 convrse.media CNAME .
 convsweeps.com CNAME .
@@ -165442,6 +165445,7 @@ ctevile.xyz CNAME .
 ctexueogshbdo.online CNAME .
 cteza.shop CNAME .
 ctfht.com CNAME .
+ctftaarroc.cyou CNAME .
 ctgayrimenkuldidim.com CNAME .
 ctgkrtjuarrzp.online CNAME .
 ctgmovies.com CNAME .
@@ -180622,6 +180626,7 @@ diseder.weebly.com CNAME .
 disefyqrmsbya.website CNAME .
 disekoimportsexport.com CNAME .
 diserver.ru CNAME .
+disfesuffu.cyou CNAME .
 disfigured-great.pro CNAME .
 disfiguredcomment.com CNAME .
 disfiguredcommon.com CNAME .
@@ -211267,18 +211272,16 @@ finkulrontix.net CNAME .
 finkulrontix.org CNAME .
 finkurs.digital CNAME .
 finlab0-dolores91.com CNAME .
+finlab1-reprehenderit80.sbs CNAME .
 finlab3-a75.sbs CNAME .
-finlab3-qui76.sbs CNAME .
-finlab4-ipsa12.sbs CNAME .
 finlab4-voluptatem17.sbs CNAME .
 finlab5-consequatur34.sbs CNAME .
 finlab5-eveniet49.sbs CNAME .
 finlab6-deleniti5.com CNAME .
 finlab6-repudiandae18.sbs CNAME .
-finlab7-delectus54.sbs CNAME .
 finlab8-repellat30.sbs CNAME .
 finlab9-accusamus90.sbs CNAME .
-finlab9-et81.sbs CNAME .
+finlab9-amet14.sbs CNAME .
 finland.nport.link CNAME .
 finlandpalm.com CNAME .
 finldab.digital CNAME .
@@ -218948,6 +218951,7 @@ frissekapitholm.net CNAME .
 frist2dskbg.firebaseapp.com CNAME .
 frist2dskbg.web.app CNAME .
 fritchy.com CNAME .
+fritexiumprimo-app.com CNAME .
 fritexiumprimo-engine.com CNAME .
 fritexiumprimo.digital CNAME .
 fritidsbolig.no CNAME .
@@ -264041,6 +264045,7 @@ improbuehne.de CNAME .
 impromot.com CNAME .
 impropermoleculeshilling.com CNAME .
 improperscrubbedvendor.com CNAME .
+improtabic.cyou CNAME .
 improud2be.gay CNAME .
 improudtobe.gay CNAME .
 improve.sex CNAME .
@@ -278520,6 +278525,7 @@ joannalark.com CNAME .
 joannehorne.shop CNAME .
 joannestle.com CNAME .
 joannfuller.com CNAME .
+joannfultz.shop CNAME .
 joanordeal.com CNAME .
 joanthorn.shop CNAME .
 joao.cuccfree.com CNAME .
@@ -285699,6 +285705,7 @@ kaltesholz.de CNAME .
 kaltim99.org CNAME .
 kaltokan.com CNAME .
 kaltrenoa.com CNAME .
+kaltun.shop CNAME .
 kalusinator.com CNAME .
 kalverinoxa24.info CNAME .
 kalverionaa.info CNAME .
@@ -317077,6 +317084,7 @@ malefdevis.autos CNAME .
 malefeet.com CNAME .
 malefeet4u.com CNAME .
 malefeetporn.com CNAME .
+malefpolit.autos CNAME .
 malefqqicent.info CNAME .
 malefucked.com CNAME .
 malegeneral.com CNAME .
@@ -344658,6 +344666,7 @@ nelsonsullivan.com CNAME .
 neltrivo.click CNAME .
 nelvaorodim.info CNAME .
 nelvex.pro CNAME .
+nelvixarth.com CNAME .
 nelvixora.com CNAME .
 nelvorthix.com CNAME .
 nelvyvlfyjksw.space CNAME .
@@ -397163,6 +397172,7 @@ profitchain-engine-tech.com CNAME .
 profitchainvaultpro.com CNAME .
 profitconsultancythailand.com CNAME .
 profitecfundbase-es.live CNAME .
+profitego-fundbox-ai.com CNAME .
 profitegofundboxai.shop CNAME .
 profitektra-app.com CNAME .
 profitektraplatform.com CNAME .
@@ -418680,6 +418690,7 @@ rimbaslot.click CNAME .
 rimbrvagif.cyou CNAME .
 rimbuparen.autos CNAME .
 rimeethoxyl.com CNAME .
+rimemdisco.autos CNAME .
 rimeti.world CNAME .
 rimhysterical.com CNAME .
 rimierbeebees.com CNAME .
@@ -466531,6 +466542,7 @@ stiffnetwork.com CNAME .
 stifforange.pro CNAME .
 stiffstem.com CNAME .
 stiffswimming.com CNAME .
+stiflstrug.autos CNAME .
 stifuzdpzgw.com CNAME .
 stighoazon.com CNAME .
 stighunge.net CNAME .
@@ -466835,6 +466847,7 @@ stonecredholm-app.click CNAME .
 stonecredholm.click CNAME .
 stonecredholm.live CNAME .
 stonecredholm.net CNAME .
+stonecredholm.org CNAME .
 stonecredholmengine.com CNAME .
 stonecredstead.live CNAME .
 stonecrestupdatev.info CNAME .
@@ -495432,6 +495445,7 @@ trosskilde.top CNAME .
 trostwalletext.wixstudio.com CNAME .
 trothedpalmer.cfd CNAME .
 trotisepti.autos CNAME .
+trotitocch.cyou CNAME .
 trotscheme.com CNAME .
 trotto.de CNAME .
 trou-fion.com CNAME .
@@ -510291,6 +510305,7 @@ vega79.com CNAME .
 vega88.co CNAME .
 vegabet.casino CNAME .
 vegabets.bet CNAME .
+vegabitencia.net CNAME .
 vegac24.com CNAME .
 vegacapital.pro CNAME .
 vegacasino.fr CNAME .
@@ -514884,6 +514899,7 @@ vinted.ofertavzgsn2938264829473738392.shop CNAME .
 vinted.ord3raccept.icu CNAME .
 vinted.order-id29933.help CNAME .
 vinted.order-id81621.help CNAME .
+vinted.order-info393.top CNAME .
 vinted.order-sold.net CNAME .
 vinted.order239434534534594.shop CNAME .
 vinted.order54235982.shop CNAME .
@@ -556609,6 +556625,7 @@ zephyrrendiange.net CNAME .
 zephyrrendif-fr.live CNAME .
 zephyrrendif.live CNAME .
 zephyrwertstead.com CNAME .
+zepmar.shop CNAME .
 zepmqjqyhpjjw.store CNAME .
 zepoker.net CNAME .
 zeppeespadrillas.com CNAME .
