@@ -137,3 +137,7 @@ RifqyShield NSFW | Always Updated
 *.playmogo.com
 *.viralterbaru.space
 *.indoterbaru.space
+*.mencretmesum.store
+*.apemviral.live
+*.doodssteam.com
+*.videoembed.info
