@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-08-12 01:12:07
-# Total Domains: 340,311
+# Last Updated: 2026-08-12 02:53:30
+# Total Domains: 340,356
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -27214,6 +27214,7 @@
 0.0.0.0 63212.vip
 0.0.0.0 6322.web-stats.org
 0.0.0.0 6323388.com
+0.0.0.0 632464gr.top
 0.0.0.0 6325588.com
 0.0.0.0 6325p.com
 0.0.0.0 632632.vip
@@ -51676,6 +51677,7 @@
 0.0.0.0 aifgjdcarlmow.space
 0.0.0.0 aifhap.org.ng
 0.0.0.0 aifinanceblog.org
+0.0.0.0 aifiversity.com
 0.0.0.0 aifmpdaqommzn.store
 0.0.0.0 aifode.com
 0.0.0.0 aiforadd.com
@@ -62564,6 +62566,7 @@
 0.0.0.0 attackware.com
 0.0.0.0 attackzombie.com
 0.0.0.0 attacnow.comrefservices.com
+0.0.0.0 attacovera.autos
 0.0.0.0 attadmin.boxmode.io
 0.0.0.0 attainablehomes.org
 0.0.0.0 attaingeoffrey.com
@@ -68340,6 +68343,7 @@
 0.0.0.0 baqyviy.pro
 0.0.0.0 bar-ola.com
 0.0.0.0 bar.baidu.com
+0.0.0.0 barababbam.autos
 0.0.0.0 barackobamacarflags.com
 0.0.0.0 baradua.it
 0.0.0.0 baragadras.biz
@@ -101966,6 +101970,7 @@
 0.0.0.0 crowdgravity.com
 0.0.0.0 crowdinvesting-de.live
 0.0.0.0 crowdinvesting.digital
+0.0.0.0 crowdinvesting.live
 0.0.0.0 crowdknowledge.com
 0.0.0.0 crowdscience.com
 0.0.0.0 crowdspx.com
@@ -116826,6 +116831,7 @@
 0.0.0.0 dula-gold.com
 0.0.0.0 dulceesmeraldasparklesolutions.com
 0.0.0.0 dulcemaren.info
+0.0.0.0 dulcineatravel.com
 0.0.0.0 dulcispartners.com
 0.0.0.0 duleonon.com
 0.0.0.0 dulewang.com
@@ -126120,6 +126126,7 @@
 0.0.0.0 expocrack.com
 0.0.0.0 exponential.com
 0.0.0.0 exponiendoelqui.live
+0.0.0.0 exponiendonorvenvault.com
 0.0.0.0 exponiendozorevantagpt.com
 0.0.0.0 exporder-patuility.com
 0.0.0.0 expornntabilities.info
@@ -128440,6 +128447,7 @@
 0.0.0.0 fastfaceb00k.wapka.mobi
 0.0.0.0 fastfinch.co
 0.0.0.0 fastflowbase.com
+0.0.0.0 fastflowvaltrix-soft.com
 0.0.0.0 fastframe.com.br
 0.0.0.0 fastfwd.ru
 0.0.0.0 fastga.digital
@@ -131698,6 +131706,7 @@
 0.0.0.0 finhub2-adipisci66.sbs
 0.0.0.0 finhub2-dolore45.sbs
 0.0.0.0 finhub3-aut75.sbs
+0.0.0.0 finhub3-quaerat75.sbs
 0.0.0.0 finhub3-voluptatem60.sbs
 0.0.0.0 finhub4-earum82.sbs
 0.0.0.0 finhub4-inventore3.sbs
@@ -131736,8 +131745,11 @@
 0.0.0.0 finkulrontix.net
 0.0.0.0 finkulrontix.org
 0.0.0.0 finkurs.digital
-0.0.0.0 finlab1-praesentium17.sbs
+0.0.0.0 finlab1-molestias15.sbs
+0.0.0.0 finlab5-officiis42.sbs
+0.0.0.0 finlab5-officiis71.sbs
 0.0.0.0 finlab5-provident93.sbs
+0.0.0.0 finlab6-exercitationem64.sbs
 0.0.0.0 finland.nport.link
 0.0.0.0 finlandpalm.com
 0.0.0.0 finldab.digital
@@ -132324,6 +132336,7 @@
 0.0.0.0 fiverr.7386.live
 0.0.0.0 fiverrpoc.partner-experience.com
 0.0.0.0 fiversityai.com
+0.0.0.0 fiversitypl.net
 0.0.0.0 fiversitytrade.com
 0.0.0.0 fivesidedsquare.com
 0.0.0.0 fivestarautomotiverepair.com
@@ -135860,6 +135873,7 @@
 0.0.0.0 freegiftcode.com
 0.0.0.0 freegiftcodegenerator.com
 0.0.0.0 freegifttbgmi.blogspot.com
+0.0.0.0 freegroupfunnel.com
 0.0.0.0 freeguard.biz
 0.0.0.0 freeguildwars.com
 0.0.0.0 freehackandbots.com
@@ -143097,6 +143111,7 @@
 0.0.0.0 giving-paint.com
 0.0.0.0 giving-survey.pro
 0.0.0.0 givingsol.com
+0.0.0.0 givirtrinxes-app.com
 0.0.0.0 givviictvunqi.online
 0.0.0.0 giwggxu.xyz
 0.0.0.0 giwl0p3gx7.com
@@ -152823,6 +152838,7 @@
 0.0.0.0 helpdesk-whop.com
 0.0.0.0 helpdeskcamfrog.ddns.net
 0.0.0.0 helpdeskdpt1.weebly.com
+0.0.0.0 helpdeskhetzner.com
 0.0.0.0 helpdeskpilot.onrender.com
 0.0.0.0 helpdeskstudentaccount.weebly.com
 0.0.0.0 helpdeskz.yolasite.com
@@ -181152,6 +181168,7 @@
 0.0.0.0 kompaszysktekai.com
 0.0.0.0 komponentende.com
 0.0.0.0 kompoz2.com
+0.0.0.0 komputronik.lol
 0.0.0.0 komschools.school
 0.0.0.0 komtaukree.net
 0.0.0.0 komunikasi.fisipol.ugm.ac.id
@@ -212498,6 +212515,7 @@
 0.0.0.0 nexisfintrading-app.com
 0.0.0.0 nexisfintrading-appv2.com
 0.0.0.0 nexisfintrading-tech.com
+0.0.0.0 nexisfintradingpro.com
 0.0.0.0 nexistone.com
 0.0.0.0 nexium33bv.com
 0.0.0.0 nexium530.com
@@ -215335,6 +215353,7 @@
 0.0.0.0 notazaver.eu
 0.0.0.0 notbak.com
 0.0.0.0 notcardboard.com
+0.0.0.0 notchbrowser.com
 0.0.0.0 notconscious.com
 0.0.0.0 note-secure.myportfolio.com
 0.0.0.0 note.24x7loan.com
@@ -216724,6 +216743,7 @@
 0.0.0.0 nurt-release.weebly.com
 0.0.0.0 nurtowin-ai.com
 0.0.0.0 nurtowinai.com
+0.0.0.0 nurtowinpl.net
 0.0.0.0 nurtureawareflop.com
 0.0.0.0 nurtured-umbrella-322056.framer.app
 0.0.0.0 nurturesurvivethrash.com
@@ -224975,6 +224995,7 @@
 0.0.0.0 paiementlbcencours.fr
 0.0.0.0 paifi.net
 0.0.0.0 paigebuchholz1.ac-page.com
+0.0.0.0 paigepals.com
 0.0.0.0 paigesummer.com
 0.0.0.0 paikapiglauthi.com
 0.0.0.0 paikeme.com
@@ -227594,6 +227615,7 @@
 0.0.0.0 pemxx.info
 0.0.0.0 penaikaucmu.net
 0.0.0.0 penaloud.com
+0.0.0.0 penananglo.rest
 0.0.0.0 penancyvinetta.shop
 0.0.0.0 penangmodalspire.click
 0.0.0.0 penangmodalspire.org
@@ -228477,6 +228499,7 @@
 0.0.0.0 pewny-tokenex.com
 0.0.0.0 pewny-tokenex.net
 0.0.0.0 pewnydoradca.com
+0.0.0.0 pewnytokenex-ai.com
 0.0.0.0 pewnytokenex-engine.com
 0.0.0.0 pewnytokenex-pl.com
 0.0.0.0 pewnytokenex.net
@@ -237983,8 +238006,10 @@
 0.0.0.0 proinvest-pl.com
 0.0.0.0 proinvest-pl.net
 0.0.0.0 proinvest-polska.com
+0.0.0.0 proinvest-polska.net
 0.0.0.0 proinvestai.com
 0.0.0.0 proinvestai.net
+0.0.0.0 proinvestpolska-ai.com
 0.0.0.0 proinvestpolska.net
 0.0.0.0 proinvestuk.net
 0.0.0.0 proj-ac6e2.firebaseapp.com
@@ -255738,6 +255763,7 @@
 0.0.0.0 royalcrest-7e1eb.firebaseapp.com
 0.0.0.0 royalcrest-7e1eb.web.app
 0.0.0.0 royaldecorhome.store
+0.0.0.0 royaldog.training
 0.0.0.0 royalegenerator.net
 0.0.0.0 royalen-fr.fr
 0.0.0.0 royalespring.com
@@ -263427,6 +263453,7 @@
 0.0.0.0 seniorhomeaid.com
 0.0.0.0 seniorhomesguide.com
 0.0.0.0 seniorhousinglife.com
+0.0.0.0 seniormentor.co
 0.0.0.0 seniorointmentseminar.com
 0.0.0.0 seniorsafesteps.com
 0.0.0.0 seniorsafesteps.net
@@ -272104,6 +272131,7 @@
 0.0.0.0 solaire.vip
 0.0.0.0 solairisgroup.de
 0.0.0.0 solaistudioo.shop
+0.0.0.0 solalignedyoga.com
 0.0.0.0 solamagic-horse.de
 0.0.0.0 solamagic.ae
 0.0.0.0 solamagic.at
@@ -283533,6 +283561,7 @@
 0.0.0.0 synthalora.live
 0.0.0.0 synthaloraaes.com
 0.0.0.0 synthaloraai.pro
+0.0.0.0 synthaloraapp.com
 0.0.0.0 synthaloraitalia.com
 0.0.0.0 synthaloraki-bot.live
 0.0.0.0 synthcorexengine.digital
@@ -289605,6 +289634,7 @@
 0.0.0.0 the-klarlogikb.com
 0.0.0.0 the-klarlogikb.org
 0.0.0.0 the-klarnium.net
+0.0.0.0 the-kryvongearapp.com
 0.0.0.0 the-kyvexisprimeai.com
 0.0.0.0 the-kyvexisprimeai.net
 0.0.0.0 the-kyvexisprimeai.org
@@ -302305,6 +302335,7 @@
 0.0.0.0 ulpjdqgndygby.space
 0.0.0.0 ulpradvpeaiqs.store
 0.0.0.0 ulpsd9qmja.com
+0.0.0.0 ulqaven.shop
 0.0.0.0 ulqhhlhpevvif.space
 0.0.0.0 ulqlijlriiclv.online
 0.0.0.0 ulsan-national-institute-of-science-and-technology.weebly.com
@@ -311499,8 +311530,12 @@
 0.0.0.0 vldukhscbnhsl.site
 0.0.0.0 vle6r0hma.com
 0.0.0.0 vlehiqnm.net
+0.0.0.0 vlenkardu-argentina.sbs
+0.0.0.0 vlenkardu-austria.sbs
 0.0.0.0 vlenkardu-finland.sbs
+0.0.0.0 vlenkardu-ireland.sbs
 0.0.0.0 vlenkardu-japan.sbs
+0.0.0.0 vlenkardu-norway.sbs
 0.0.0.0 vlesbianporn.com
 0.0.0.0 vlets.tuape.xyz
 0.0.0.0 vlets.ybgo.xyz
@@ -312403,6 +312438,7 @@
 0.0.0.0 voltarion-ai.live
 0.0.0.0 voltarion-de.live
 0.0.0.0 voltarion-hr.live
+0.0.0.0 voltarion.live
 0.0.0.0 voltarionai-de.live
 0.0.0.0 voltarionai-en.live
 0.0.0.0 voltarionai-es.live
@@ -321798,6 +321834,7 @@
 0.0.0.0 workcandi.info
 0.0.0.0 workclothes.shop
 0.0.0.0 workclothes2026.shop
+0.0.0.0 workclothesol.shop
 0.0.0.0 workclothessale.shop
 0.0.0.0 workclothesvip.shop
 0.0.0.0 workcoa.digital
@@ -322459,7 +322496,11 @@
 0.0.0.0 wrenmarket.eu
 0.0.0.0 wrenwool.shop
 0.0.0.0 wrenzaltov-belgium.sbs
+0.0.0.0 wrenzaltov-denmark.sbs
 0.0.0.0 wrenzaltov-finland.sbs
+0.0.0.0 wrenzaltov-italy.sbs
+0.0.0.0 wrenzaltov-netherlands.sbs
+0.0.0.0 wrenzaltov-romania.sbs
 0.0.0.0 wres.cn
 0.0.0.0 wrestforsake.com
 0.0.0.0 wrestgrandfather.com
@@ -339454,6 +339495,10 @@
 0.0.0.0 zvdhfeelw.web.app
 0.0.0.0 zvdvxrykeaetq.website
 0.0.0.0 zvekujanpxsfq.website
+0.0.0.0 zveluptiru-belgium.sbs
+0.0.0.0 zveluptiru-denmark.sbs
+0.0.0.0 zveluptiru-netherlands.sbs
+0.0.0.0 zveluptiru-romania.sbs
 0.0.0.0 zvenkrulvotrade.com
 0.0.0.0 zvent.fr
 0.0.0.0 zver.tech

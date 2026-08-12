@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-08-12 01:12:07
-# Total Domains: 340,311
+# Last Updated: 2026-08-12 02:53:30
+# Total Domains: 340,356
 # ==========================================
 /ip dns static
 add name="0--foodwarez.da.ru" address=0.0.0.0
@@ -27213,6 +27213,7 @@ add name="631818.com" address=0.0.0.0
 add name="63212.vip" address=0.0.0.0
 add name="6322.web-stats.org" address=0.0.0.0
 add name="6323388.com" address=0.0.0.0
+add name="632464gr.top" address=0.0.0.0
 add name="6325588.com" address=0.0.0.0
 add name="6325p.com" address=0.0.0.0
 add name="632632.vip" address=0.0.0.0
@@ -51675,6 +51676,7 @@ add name="aifacroty-cz.com" address=0.0.0.0
 add name="aifgjdcarlmow.space" address=0.0.0.0
 add name="aifhap.org.ng" address=0.0.0.0
 add name="aifinanceblog.org" address=0.0.0.0
+add name="aifiversity.com" address=0.0.0.0
 add name="aifmpdaqommzn.store" address=0.0.0.0
 add name="aifode.com" address=0.0.0.0
 add name="aiforadd.com" address=0.0.0.0
@@ -62563,6 +62565,7 @@ add name="attacksveteran.com" address=0.0.0.0
 add name="attackware.com" address=0.0.0.0
 add name="attackzombie.com" address=0.0.0.0
 add name="attacnow.comrefservices.com" address=0.0.0.0
+add name="attacovera.autos" address=0.0.0.0
 add name="attadmin.boxmode.io" address=0.0.0.0
 add name="attainablehomes.org" address=0.0.0.0
 add name="attaingeoffrey.com" address=0.0.0.0
@@ -68339,6 +68342,7 @@ add name="baqwo74y8.com" address=0.0.0.0
 add name="baqyviy.pro" address=0.0.0.0
 add name="bar-ola.com" address=0.0.0.0
 add name="bar.baidu.com" address=0.0.0.0
+add name="barababbam.autos" address=0.0.0.0
 add name="barackobamacarflags.com" address=0.0.0.0
 add name="baradua.it" address=0.0.0.0
 add name="baragadras.biz" address=0.0.0.0
@@ -101965,6 +101969,7 @@ add name="crowdfundpros.info" address=0.0.0.0
 add name="crowdgravity.com" address=0.0.0.0
 add name="crowdinvesting-de.live" address=0.0.0.0
 add name="crowdinvesting.digital" address=0.0.0.0
+add name="crowdinvesting.live" address=0.0.0.0
 add name="crowdknowledge.com" address=0.0.0.0
 add name="crowdscience.com" address=0.0.0.0
 add name="crowdspx.com" address=0.0.0.0
@@ -116825,6 +116830,7 @@ add name="dukwznn0x.com" address=0.0.0.0
 add name="dula-gold.com" address=0.0.0.0
 add name="dulceesmeraldasparklesolutions.com" address=0.0.0.0
 add name="dulcemaren.info" address=0.0.0.0
+add name="dulcineatravel.com" address=0.0.0.0
 add name="dulcispartners.com" address=0.0.0.0
 add name="duleonon.com" address=0.0.0.0
 add name="dulewang.com" address=0.0.0.0
@@ -126119,6 +126125,7 @@ add name="expoclknu.com" address=0.0.0.0
 add name="expocrack.com" address=0.0.0.0
 add name="exponential.com" address=0.0.0.0
 add name="exponiendoelqui.live" address=0.0.0.0
+add name="exponiendonorvenvault.com" address=0.0.0.0
 add name="exponiendozorevantagpt.com" address=0.0.0.0
 add name="exporder-patuility.com" address=0.0.0.0
 add name="expornntabilities.info" address=0.0.0.0
@@ -128439,6 +128446,7 @@ add name="fastexch.biz" address=0.0.0.0
 add name="fastfaceb00k.wapka.mobi" address=0.0.0.0
 add name="fastfinch.co" address=0.0.0.0
 add name="fastflowbase.com" address=0.0.0.0
+add name="fastflowvaltrix-soft.com" address=0.0.0.0
 add name="fastframe.com.br" address=0.0.0.0
 add name="fastfwd.ru" address=0.0.0.0
 add name="fastga.digital" address=0.0.0.0
@@ -131697,6 +131705,7 @@ add name="finhub1-pariatur69.sbs" address=0.0.0.0
 add name="finhub2-adipisci66.sbs" address=0.0.0.0
 add name="finhub2-dolore45.sbs" address=0.0.0.0
 add name="finhub3-aut75.sbs" address=0.0.0.0
+add name="finhub3-quaerat75.sbs" address=0.0.0.0
 add name="finhub3-voluptatem60.sbs" address=0.0.0.0
 add name="finhub4-earum82.sbs" address=0.0.0.0
 add name="finhub4-inventore3.sbs" address=0.0.0.0
@@ -131735,8 +131744,11 @@ add name="finkstudio.shop" address=0.0.0.0
 add name="finkulrontix.net" address=0.0.0.0
 add name="finkulrontix.org" address=0.0.0.0
 add name="finkurs.digital" address=0.0.0.0
-add name="finlab1-praesentium17.sbs" address=0.0.0.0
+add name="finlab1-molestias15.sbs" address=0.0.0.0
+add name="finlab5-officiis42.sbs" address=0.0.0.0
+add name="finlab5-officiis71.sbs" address=0.0.0.0
 add name="finlab5-provident93.sbs" address=0.0.0.0
+add name="finlab6-exercitationem64.sbs" address=0.0.0.0
 add name="finland.nport.link" address=0.0.0.0
 add name="finlandpalm.com" address=0.0.0.0
 add name="finldab.digital" address=0.0.0.0
@@ -132323,6 +132335,7 @@ add name="fiverr-details.help" address=0.0.0.0
 add name="fiverr.7386.live" address=0.0.0.0
 add name="fiverrpoc.partner-experience.com" address=0.0.0.0
 add name="fiversityai.com" address=0.0.0.0
+add name="fiversitypl.net" address=0.0.0.0
 add name="fiversitytrade.com" address=0.0.0.0
 add name="fivesidedsquare.com" address=0.0.0.0
 add name="fivestarautomotiverepair.com" address=0.0.0.0
@@ -135859,6 +135872,7 @@ add name="freegiftcardgenerator.com" address=0.0.0.0
 add name="freegiftcode.com" address=0.0.0.0
 add name="freegiftcodegenerator.com" address=0.0.0.0
 add name="freegifttbgmi.blogspot.com" address=0.0.0.0
+add name="freegroupfunnel.com" address=0.0.0.0
 add name="freeguard.biz" address=0.0.0.0
 add name="freeguildwars.com" address=0.0.0.0
 add name="freehackandbots.com" address=0.0.0.0
@@ -143096,6 +143110,7 @@ add name="giving-goal-546239.framer.app" address=0.0.0.0
 add name="giving-paint.com" address=0.0.0.0
 add name="giving-survey.pro" address=0.0.0.0
 add name="givingsol.com" address=0.0.0.0
+add name="givirtrinxes-app.com" address=0.0.0.0
 add name="givviictvunqi.online" address=0.0.0.0
 add name="giwggxu.xyz" address=0.0.0.0
 add name="giwl0p3gx7.com" address=0.0.0.0
@@ -152822,6 +152837,7 @@ add name="helpdesk-unas.weebly.com" address=0.0.0.0
 add name="helpdesk-whop.com" address=0.0.0.0
 add name="helpdeskcamfrog.ddns.net" address=0.0.0.0
 add name="helpdeskdpt1.weebly.com" address=0.0.0.0
+add name="helpdeskhetzner.com" address=0.0.0.0
 add name="helpdeskpilot.onrender.com" address=0.0.0.0
 add name="helpdeskstudentaccount.weebly.com" address=0.0.0.0
 add name="helpdeskz.yolasite.com" address=0.0.0.0
@@ -181151,6 +181167,7 @@ add name="kompaszysktek.net" address=0.0.0.0
 add name="kompaszysktekai.com" address=0.0.0.0
 add name="komponentende.com" address=0.0.0.0
 add name="kompoz2.com" address=0.0.0.0
+add name="komputronik.lol" address=0.0.0.0
 add name="komschools.school" address=0.0.0.0
 add name="komtaukree.net" address=0.0.0.0
 add name="komunikasi.fisipol.ugm.ac.id" address=0.0.0.0
@@ -212497,6 +212514,7 @@ add name="nexisfin-trading.com" address=0.0.0.0
 add name="nexisfintrading-app.com" address=0.0.0.0
 add name="nexisfintrading-appv2.com" address=0.0.0.0
 add name="nexisfintrading-tech.com" address=0.0.0.0
+add name="nexisfintradingpro.com" address=0.0.0.0
 add name="nexistone.com" address=0.0.0.0
 add name="nexium33bv.com" address=0.0.0.0
 add name="nexium530.com" address=0.0.0.0
@@ -215334,6 +215352,7 @@ add name="notaverde.com" address=0.0.0.0
 add name="notazaver.eu" address=0.0.0.0
 add name="notbak.com" address=0.0.0.0
 add name="notcardboard.com" address=0.0.0.0
+add name="notchbrowser.com" address=0.0.0.0
 add name="notconscious.com" address=0.0.0.0
 add name="note-secure.myportfolio.com" address=0.0.0.0
 add name="note.24x7loan.com" address=0.0.0.0
@@ -216723,6 +216742,7 @@ add name="nurssyumurta.com" address=0.0.0.0
 add name="nurt-release.weebly.com" address=0.0.0.0
 add name="nurtowin-ai.com" address=0.0.0.0
 add name="nurtowinai.com" address=0.0.0.0
+add name="nurtowinpl.net" address=0.0.0.0
 add name="nurtureawareflop.com" address=0.0.0.0
 add name="nurtured-umbrella-322056.framer.app" address=0.0.0.0
 add name="nurturesurvivethrash.com" address=0.0.0.0
@@ -224974,6 +224994,7 @@ add name="paiementhome-pl-5b4f060c.rpm-technik.at" address=0.0.0.0
 add name="paiementlbcencours.fr" address=0.0.0.0
 add name="paifi.net" address=0.0.0.0
 add name="paigebuchholz1.ac-page.com" address=0.0.0.0
+add name="paigepals.com" address=0.0.0.0
 add name="paigesummer.com" address=0.0.0.0
 add name="paikapiglauthi.com" address=0.0.0.0
 add name="paikeme.com" address=0.0.0.0
@@ -227593,6 +227614,7 @@ add name="pemtairitoads.net" address=0.0.0.0
 add name="pemxx.info" address=0.0.0.0
 add name="penaikaucmu.net" address=0.0.0.0
 add name="penaloud.com" address=0.0.0.0
+add name="penananglo.rest" address=0.0.0.0
 add name="penancyvinetta.shop" address=0.0.0.0
 add name="penangmodalspire.click" address=0.0.0.0
 add name="penangmodalspire.org" address=0.0.0.0
@@ -228476,6 +228498,7 @@ add name="pewny-tokenex-ai.com" address=0.0.0.0
 add name="pewny-tokenex.com" address=0.0.0.0
 add name="pewny-tokenex.net" address=0.0.0.0
 add name="pewnydoradca.com" address=0.0.0.0
+add name="pewnytokenex-ai.com" address=0.0.0.0
 add name="pewnytokenex-engine.com" address=0.0.0.0
 add name="pewnytokenex-pl.com" address=0.0.0.0
 add name="pewnytokenex.net" address=0.0.0.0
@@ -237982,8 +238005,10 @@ add name="proinged.org.ar" address=0.0.0.0
 add name="proinvest-pl.com" address=0.0.0.0
 add name="proinvest-pl.net" address=0.0.0.0
 add name="proinvest-polska.com" address=0.0.0.0
+add name="proinvest-polska.net" address=0.0.0.0
 add name="proinvestai.com" address=0.0.0.0
 add name="proinvestai.net" address=0.0.0.0
+add name="proinvestpolska-ai.com" address=0.0.0.0
 add name="proinvestpolska.net" address=0.0.0.0
 add name="proinvestuk.net" address=0.0.0.0
 add name="proj-ac6e2.firebaseapp.com" address=0.0.0.0
@@ -255737,6 +255762,7 @@ add name="royalclass.info" address=0.0.0.0
 add name="royalcrest-7e1eb.firebaseapp.com" address=0.0.0.0
 add name="royalcrest-7e1eb.web.app" address=0.0.0.0
 add name="royaldecorhome.store" address=0.0.0.0
+add name="royaldog.training" address=0.0.0.0
 add name="royalegenerator.net" address=0.0.0.0
 add name="royalen-fr.fr" address=0.0.0.0
 add name="royalespring.com" address=0.0.0.0
@@ -263426,6 +263452,7 @@ add name="seniorfit247max.pro" address=0.0.0.0
 add name="seniorhomeaid.com" address=0.0.0.0
 add name="seniorhomesguide.com" address=0.0.0.0
 add name="seniorhousinglife.com" address=0.0.0.0
+add name="seniormentor.co" address=0.0.0.0
 add name="seniorointmentseminar.com" address=0.0.0.0
 add name="seniorsafesteps.com" address=0.0.0.0
 add name="seniorsafesteps.net" address=0.0.0.0
@@ -272103,6 +272130,7 @@ add name="solagoshop.de" address=0.0.0.0
 add name="solaire.vip" address=0.0.0.0
 add name="solairisgroup.de" address=0.0.0.0
 add name="solaistudioo.shop" address=0.0.0.0
+add name="solalignedyoga.com" address=0.0.0.0
 add name="solamagic-horse.de" address=0.0.0.0
 add name="solamagic.ae" address=0.0.0.0
 add name="solamagic.at" address=0.0.0.0
@@ -283532,6 +283560,7 @@ add name="synthalora-app.shop" address=0.0.0.0
 add name="synthalora.live" address=0.0.0.0
 add name="synthaloraaes.com" address=0.0.0.0
 add name="synthaloraai.pro" address=0.0.0.0
+add name="synthaloraapp.com" address=0.0.0.0
 add name="synthaloraitalia.com" address=0.0.0.0
 add name="synthaloraki-bot.live" address=0.0.0.0
 add name="synthcorexengine.digital" address=0.0.0.0
@@ -289604,6 +289633,7 @@ add name="the-jenyrafluxivegpt.org" address=0.0.0.0
 add name="the-klarlogikb.com" address=0.0.0.0
 add name="the-klarlogikb.org" address=0.0.0.0
 add name="the-klarnium.net" address=0.0.0.0
+add name="the-kryvongearapp.com" address=0.0.0.0
 add name="the-kyvexisprimeai.com" address=0.0.0.0
 add name="the-kyvexisprimeai.net" address=0.0.0.0
 add name="the-kyvexisprimeai.org" address=0.0.0.0
@@ -302304,6 +302334,7 @@ add name="ulpddqlmrpnuf.space" address=0.0.0.0
 add name="ulpjdqgndygby.space" address=0.0.0.0
 add name="ulpradvpeaiqs.store" address=0.0.0.0
 add name="ulpsd9qmja.com" address=0.0.0.0
+add name="ulqaven.shop" address=0.0.0.0
 add name="ulqhhlhpevvif.space" address=0.0.0.0
 add name="ulqlijlriiclv.online" address=0.0.0.0
 add name="ulsan-national-institute-of-science-and-technology.weebly.com" address=0.0.0.0
@@ -311498,8 +311529,12 @@ add name="vldlklwhhcdyf.site" address=0.0.0.0
 add name="vldukhscbnhsl.site" address=0.0.0.0
 add name="vle6r0hma.com" address=0.0.0.0
 add name="vlehiqnm.net" address=0.0.0.0
+add name="vlenkardu-argentina.sbs" address=0.0.0.0
+add name="vlenkardu-austria.sbs" address=0.0.0.0
 add name="vlenkardu-finland.sbs" address=0.0.0.0
+add name="vlenkardu-ireland.sbs" address=0.0.0.0
 add name="vlenkardu-japan.sbs" address=0.0.0.0
+add name="vlenkardu-norway.sbs" address=0.0.0.0
 add name="vlesbianporn.com" address=0.0.0.0
 add name="vlets.tuape.xyz" address=0.0.0.0
 add name="vlets.ybgo.xyz" address=0.0.0.0
@@ -312402,6 +312437,7 @@ add name="voltare-cloud.com" address=0.0.0.0
 add name="voltarion-ai.live" address=0.0.0.0
 add name="voltarion-de.live" address=0.0.0.0
 add name="voltarion-hr.live" address=0.0.0.0
+add name="voltarion.live" address=0.0.0.0
 add name="voltarionai-de.live" address=0.0.0.0
 add name="voltarionai-en.live" address=0.0.0.0
 add name="voltarionai-es.live" address=0.0.0.0
@@ -321797,6 +321833,7 @@ add name="workboatstrxxuculence.info" address=0.0.0.0
 add name="workcandi.info" address=0.0.0.0
 add name="workclothes.shop" address=0.0.0.0
 add name="workclothes2026.shop" address=0.0.0.0
+add name="workclothesol.shop" address=0.0.0.0
 add name="workclothessale.shop" address=0.0.0.0
 add name="workclothesvip.shop" address=0.0.0.0
 add name="workcoa.digital" address=0.0.0.0
@@ -322458,7 +322495,11 @@ add name="wrencorrupt.com" address=0.0.0.0
 add name="wrenmarket.eu" address=0.0.0.0
 add name="wrenwool.shop" address=0.0.0.0
 add name="wrenzaltov-belgium.sbs" address=0.0.0.0
+add name="wrenzaltov-denmark.sbs" address=0.0.0.0
 add name="wrenzaltov-finland.sbs" address=0.0.0.0
+add name="wrenzaltov-italy.sbs" address=0.0.0.0
+add name="wrenzaltov-netherlands.sbs" address=0.0.0.0
+add name="wrenzaltov-romania.sbs" address=0.0.0.0
 add name="wres.cn" address=0.0.0.0
 add name="wrestforsake.com" address=0.0.0.0
 add name="wrestgrandfather.com" address=0.0.0.0
@@ -339453,6 +339494,10 @@ add name="zvdhfeelw.firebaseapp.com" address=0.0.0.0
 add name="zvdhfeelw.web.app" address=0.0.0.0
 add name="zvdvxrykeaetq.website" address=0.0.0.0
 add name="zvekujanpxsfq.website" address=0.0.0.0
+add name="zveluptiru-belgium.sbs" address=0.0.0.0
+add name="zveluptiru-denmark.sbs" address=0.0.0.0
+add name="zveluptiru-netherlands.sbs" address=0.0.0.0
+add name="zveluptiru-romania.sbs" address=0.0.0.0
 add name="zvenkrulvotrade.com" address=0.0.0.0
 add name="zvent.fr" address=0.0.0.0
 add name="zver.tech" address=0.0.0.0
