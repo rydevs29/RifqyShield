@@ -5,8 +5,8 @@ No ads • No trackers • No adult content • No gambling
 | Category              | Source                             | Status                |
 |-----------------------|------------------------------------|-----------------------|
 | **Ads & Trackers** | 1Hosts Lite, Hagezi Trackers | ✅ Active |
-| **NSFW & Gambling** | Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield Custom | ✅ Active |
-| **Malware & Phishing**| OISD-Big, Hagezi Fake, Hagezi Ultimate, Hagezi TIF Mini | ✅ Active |
+| **NSFW & Gambling** | Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield NSFW | ✅ Active |
+| **Malware & Phishing**| OISD-Big, Hagezi Fake, Hagezi Ultimate, Hagezi TIF Mini/Medium | ✅ Active |
 
 **📊 Total Domains: *1,036,400* (Optimized & Deduplicated)**
 
@@ -20,7 +20,7 @@ RifqyShield comes in three levels that have been deduplicated, ensuring you can 
 | :--- | :--- | :--- |
 | **LITE** | **Performance & Anti-Mobile Tracker.** Blocks ads on your phone and website tracking by sites such (Amazon, Apple, Xiaomi and others). | **Lightweight and Anti-Mobile Tracking** |
 | **MEDIUM** | **Combination of Lite Filter and Content Protection.** Adds aggressive NSFW and Gambling blocking. Ideal for family use. | **Balanced & Secure Content** |
-| **ULTIMATE** | **A combination of Medium and Global Giant Lists**  such as (1Hosts-Extra, Hagezi Ultimate Mini) for total protection from all threats. | **For maximum protection** |
+| **ULTIMATE** | **A combination of Medium and Global Giant Lists**  such as (OISD-Big, Hagezi Ultimate) for total protection from all threats. | **For maximum protection** |
 
 ---
 
