@@ -8,56 +8,152 @@
     <style>
         /* UI/UX Upgrade: Modern Color Palette & Variables */
         :root {
-            --bg-color: #0b1120; /* Darker, deeper slate for modern feel */
-            --card-bg: #1e293b;
-            --card-border: #334155;
-            --text-main: #f8fafc;
-            --text-muted: #94a3b8;
+            --bg-color: #050a18;
+            --bg-surface: #0c1225;
+            --card-bg: #111a2e;
+            --card-bg-hover: #162038;
+            --card-border: #1e2d4a;
+            --card-border-hover: #3b82f6;
+            --text-main: #f1f5f9;
+            --text-secondary: #cbd5e1;
+            --text-muted: #7c8db5;
             --accent: #3b82f6;
+            --accent-light: #60a5fa;
             --accent-hover: #2563eb;
-            --success: #10b981;
-            --shadow-sm: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-            --shadow-lg: 0 20px 25px -5px rgba(0, 0, 0, 0.2), 0 10px 10px -5px rgba(0, 0, 0, 0.1);
+            --accent-glow: rgba(59, 130, 246, 0.15);
+            --success: #22c55e;
+            --success-bg: rgba(34, 197, 94, 0.1);
+            --border-subtle: #1a2742;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.3), 0 1px 2px rgba(0,0,0,0.2);
+            --shadow-md: 0 4px 12px rgba(0,0,0,0.3), 0 2px 6px rgba(0,0,0,0.2);
+            --shadow-lg: 0 12px 40px rgba(0,0,0,0.4), 0 4px 12px rgba(0,0,0,0.3);
+            --shadow-glow: 0 0 30px rgba(59,130,246,0.1);
+            --radius-sm: 8px;
+            --radius-md: 12px;
+            --radius-lg: 16px;
+            --radius-xl: 20px;
+            --transition: 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        *, *::before, *::after {
+            box-sizing: border-box;
         }
 
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
             background-color: var(--bg-color);
             color: var(--text-main);
             margin: 0;
             line-height: 1.6;
-            -webkit-font-smoothing: antialiased; /* Crisp fonts */
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            overflow-x: hidden;
+        }
+
+        /* Subtle background pattern */
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background:
+                radial-gradient(ellipse 80% 50% at 50% -20%, rgba(59,130,246,0.08), transparent),
+                radial-gradient(ellipse 60% 40% at 80% 60%, rgba(99,102,241,0.04), transparent);
+            pointer-events: none;
+            z-index: 0;
         }
 
         .container {
-            max-width: 1100px; /* Slightly wider for PC */
+            max-width: 1200px;
             margin: 0 auto;
-            padding: 2rem 1.5rem;
+            padding: 1.5rem 1rem;
+            position: relative;
+            z-index: 1;
+        }
+
+        @media (min-width: 768px) {
+            .container {
+                padding: 2rem 2rem;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            .container {
+                padding: 2.5rem 2.5rem;
+            }
         }
 
         /* Hero Section */
         header {
             text-align: center;
-            padding: 4rem 0 3rem 0;
+            padding: 3rem 0 2rem 0;
+        }
+
+        @media (min-width: 768px) {
+            header {
+                padding: 4rem 0 2.5rem 0;
+            }
+        }
+
+        @media (min-width: 1024px) {
+            header {
+                padding: 5rem 0 3rem 0;
+            }
+        }
+
+        .logo-mark {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 56px;
+            height: 56px;
+            border-radius: 16px;
+            background: linear-gradient(135deg, var(--accent), #6366f1);
+            margin-bottom: 1.5rem;
+            box-shadow: 0 8px 24px rgba(59,130,246,0.25);
+        }
+
+        @media (min-width: 768px) {
+            .logo-mark {
+                width: 64px;
+                height: 64px;
+                border-radius: 18px;
+            }
+        }
+
+        .logo-mark svg {
+            width: 28px;
+            height: 28px;
+        }
+
+        @media (min-width: 768px) {
+            .logo-mark svg {
+                width: 32px;
+                height: 32px;
+            }
         }
 
         h1 {
-            font-size: clamp(2rem, 5vw, 3rem); /* Responsive font size */
-            margin-bottom: 0.75rem;
-            background: linear-gradient(135deg, #60a5fa, #a78bfa, #3b82f6);
-            background-size: 200% auto;
+            font-size: clamp(1.75rem, 5vw, 3.25rem);
+            margin: 0 0 0.75rem 0;
+            background: linear-gradient(135deg, #f8fafc 0%, #94a3b8 100%);
             -webkit-background-clip: text;
             -webkit-text-fill-color: transparent;
+            background-clip: text;
             font-weight: 800;
-            letter-spacing: -0.02em;
+            letter-spacing: -0.03em;
+            line-height: 1.1;
         }
 
         .subtitle {
             color: var(--text-muted);
-            font-size: clamp(1rem, 2vw, 1.15rem);
-            max-width: 650px;
-            margin: 0 auto 2.5rem auto;
-            line-height: 1.8;
+            font-size: clamp(0.9rem, 2vw, 1.05rem);
+            max-width: 580px;
+            margin: 0 auto 2rem auto;
+            line-height: 1.75;
+            font-weight: 400;
         }
 
         /* GitHub Button */
@@ -65,34 +161,56 @@
             display: inline-flex;
             align-items: center;
             gap: 0.6rem;
-            background: #1e293b;
-            padding: 0.75rem 1.5rem;
-            border-radius: 12px;
-            color: white;
+            background: var(--card-bg);
+            padding: 0.7rem 1.4rem;
+            border-radius: var(--radius-md);
+            color: var(--text-main);
             text-decoration: none;
             font-weight: 600;
-            border: 1px solid #334155;
-            transition: all 0.3s ease;
+            font-size: 0.9rem;
+            border: 1px solid var(--card-border);
+            transition: all var(--transition);
         }
         .github-btn:hover {
-            background: #334155;
+            background: var(--card-bg-hover);
+            border-color: #334155;
             transform: translateY(-2px);
-            box-shadow: var(--shadow-sm);
+            box-shadow: var(--shadow-md);
+            text-decoration: none;
+            color: var(--text-main);
         }
 
-        /* Chrome Extension Banner (V5 God Mode) */
+        /* Chrome Extension Banner */
         .ext-banner {
             margin: 2.5rem auto 1rem auto;
-            max-width: 850px;
-            background: linear-gradient(135deg, rgba(30, 41, 59, 0.9), rgba(15, 23, 42, 0.9));
-            border: 1px solid var(--accent);
-            border-radius: 16px;
-            padding: 1.5rem 2rem;
-            box-shadow: var(--shadow-lg);
+            max-width: 880px;
+            background: var(--card-bg);
+            border: 1px solid var(--card-border);
+            border-radius: var(--radius-lg);
+            padding: 1.25rem 1.25rem;
+            box-shadow: var(--shadow-md);
             text-align: left;
             display: flex;
             flex-direction: column;
             gap: 0.75rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .ext-banner::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, var(--accent), #8b5cf6, var(--accent));
+        }
+
+        @media (min-width: 768px) {
+            .ext-banner {
+                padding: 1.5rem 2rem;
+            }
         }
 
         .ext-banner-header {
@@ -104,66 +222,106 @@
         }
 
         .ext-banner-title {
-            font-size: 1.15rem;
+            font-size: 1rem;
             font-weight: 700;
             color: #fff;
             display: flex;
             align-items: center;
-            gap: 0.5rem;
+            gap: 0.6rem;
+        }
+
+        @media (min-width: 768px) {
+            .ext-banner-title {
+                font-size: 1.1rem;
+            }
         }
 
         .ext-badge {
-            background: var(--accent);
+            background: linear-gradient(135deg, var(--accent), #6366f1);
             color: #fff;
-            font-size: 0.7rem;
-            font-weight: 800;
-            padding: 0.2rem 0.6rem;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 0.2rem 0.55rem;
             border-radius: 6px;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
+            letter-spacing: 0.06em;
         }
 
         .ext-banner-desc {
             color: var(--text-muted);
-            font-size: 0.92rem;
-            line-height: 1.6;
+            font-size: 0.88rem;
+            line-height: 1.65;
             margin: 0;
         }
 
         .ext-tags {
             display: flex;
             flex-wrap: wrap;
-            gap: 0.5rem;
+            gap: 0.4rem;
             margin-top: 0.25rem;
         }
 
         .ext-tag {
-            background: rgba(51, 65, 85, 0.6);
-            border: 1px solid #475569;
-            color: #e2e8f0;
-            font-size: 0.78rem;
-            font-weight: 600;
-            padding: 0.25rem 0.65rem;
-            border-radius: 8px;
+            background: rgba(30, 45, 74, 0.6);
+            border: 1px solid var(--border-subtle);
+            color: var(--text-secondary);
+            font-size: 0.73rem;
+            font-weight: 500;
+            padding: 0.2rem 0.6rem;
+            border-radius: 6px;
+            letter-spacing: 0.01em;
+        }
+
+        /* Section Headings */
+        .section-heading {
+            text-align: center;
+            margin-bottom: 0.5rem;
+            font-size: clamp(1.25rem, 3vw, 1.6rem);
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: var(--text-main);
+        }
+
+        .section-sub {
+            text-align: center;
+            color: var(--text-muted);
+            margin-bottom: 1.75rem;
+            font-size: 0.9rem;
         }
 
         /* Features Table */
+        .table-wrapper {
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+            padding-bottom: 0.5rem;
+            margin: 0 -0.5rem;
+            padding-left: 0.5rem;
+            padding-right: 0.5rem;
+        }
+
         .features-table {
             width: 100%;
+            min-width: 480px;
             border-collapse: separate;
             border-spacing: 0;
-            margin: 2rem 0;
+            margin: 0 0 2rem 0;
             background: var(--card-bg);
-            border-radius: 16px;
+            border-radius: var(--radius-lg);
             border: 1px solid var(--card-border);
             overflow: hidden;
             box-shadow: var(--shadow-sm);
         }
 
         .features-table th, .features-table td {
-            padding: 1.2rem 1.5rem;
+            padding: 0.9rem 1.2rem;
             text-align: left;
-            border-bottom: 1px solid var(--card-border);
+            border-bottom: 1px solid var(--border-subtle);
+        }
+
+        @media (min-width: 768px) {
+            .features-table th, .features-table td {
+                padding: 1.1rem 1.5rem;
+            }
         }
 
         .features-table tr:last-child td {
@@ -171,109 +329,198 @@
         }
 
         .features-table th {
-            background-color: rgba(15, 23, 42, 0.4);
+            background-color: rgba(10, 17, 35, 0.6);
             color: var(--text-muted);
-            font-size: 0.85rem;
+            font-size: 0.75rem;
             font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 0.05em;
+            letter-spacing: 0.08em;
         }
 
-        /* Variants Grid - UI/UX Upgrade for HP/Tablet/PC */
+        .features-table td {
+            font-size: 0.9rem;
+        }
+
+        .features-table td strong {
+            color: var(--text-main);
+            font-weight: 600;
+        }
+
+        .status-active {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.4rem;
+            color: var(--success);
+            font-weight: 600;
+            font-size: 0.85rem;
+        }
+
+        .status-dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+            background: var(--success);
+            display: inline-block;
+            box-shadow: 0 0 6px rgba(34,197,94,0.5);
+        }
+
+        /* Variants Grid */
         .variants-grid {
             display: grid;
-            /* Mobile: 1 col, Tablet: 2 cols, PC: 3 cols */
-            grid-template-columns: repeat(1, 1fr);
-            gap: 1.5rem;
-            margin-top: 2.5rem;
+            grid-template-columns: 1fr;
+            gap: 1.25rem;
+            margin-top: 2rem;
         }
 
         @media (min-width: 768px) {
             .variants-grid {
                 grid-template-columns: repeat(2, 1fr);
+                gap: 1.5rem;
             }
         }
 
         @media (min-width: 1024px) {
             .variants-grid {
                 grid-template-columns: repeat(3, 1fr);
+                gap: 1.5rem;
             }
         }
 
         /* Cards */
         .card {
             background-color: var(--card-bg);
-            border-radius: 20px; /* More rounded */
-            padding: 2rem;
+            border-radius: var(--radius-xl);
+            padding: 1.5rem;
             border: 1px solid var(--card-border);
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            transition: all var(--transition);
             position: relative;
             display: flex;
             flex-direction: column;
             box-shadow: var(--shadow-sm);
         }
 
+        @media (min-width: 768px) {
+            .card {
+                padding: 1.75rem;
+            }
+        }
+
         .card:hover {
-            transform: translateY(-6px);
+            transform: translateY(-4px);
+            border-color: var(--card-border-hover);
+            box-shadow: var(--shadow-lg), var(--shadow-glow);
+        }
+
+        .card--featured {
             border-color: var(--accent);
-            box-shadow: var(--shadow-lg);
+            box-shadow: var(--shadow-sm), 0 0 0 1px var(--accent);
+        }
+
+        .card--featured:hover {
+            box-shadow: var(--shadow-lg), 0 0 40px rgba(59,130,246,0.15);
         }
 
         .card-badge {
             position: absolute;
             top: 1.25rem;
             right: 1.25rem;
-            font-size: 0.75rem;
+            font-size: 0.68rem;
             font-weight: 700;
-            padding: 0.3rem 0.8rem;
-            border-radius: 8px;
-            background: #334155;
-            color: #e2e8f0;
+            padding: 0.25rem 0.7rem;
+            border-radius: 6px;
+            background: rgba(30,45,74,0.8);
+            color: var(--text-secondary);
             text-transform: uppercase;
-            letter-spacing: 0.05em;
+            letter-spacing: 0.06em;
+            border: 1px solid var(--border-subtle);
+        }
+
+        .card-badge--accent {
+            background: linear-gradient(135deg, var(--accent), #6366f1);
+            color: white;
+            border: none;
+        }
+
+        .card-icon {
+            width: 40px;
+            height: 40px;
+            border-radius: var(--radius-sm);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 1rem;
+            background: rgba(59,130,246,0.1);
+            border: 1px solid rgba(59,130,246,0.15);
+        }
+
+        .card-icon svg {
+            width: 20px;
+            height: 20px;
+            color: var(--accent-light);
         }
 
         .card h3 {
-            margin-top: 0;
-            font-size: 1.5rem;
-            margin-bottom: 1rem;
+            margin: 0 0 0.6rem 0;
+            font-size: 1.25rem;
+            font-weight: 700;
+            letter-spacing: -0.01em;
+            color: var(--text-main);
+        }
+
+        @media (min-width: 768px) {
+            .card h3 {
+                font-size: 1.35rem;
+            }
         }
 
         .card p {
             color: var(--text-muted);
-            font-size: 0.95rem;
-            margin-bottom: 2rem;
-            flex-grow: 1; /* Pushes buttons to bottom */
-            line-height: 1.6;
+            font-size: 0.88rem;
+            margin: 0 0 1.5rem 0;
+            flex-grow: 1;
+            line-height: 1.65;
+        }
+
+        .card p strong {
+            color: var(--text-secondary);
+            font-weight: 600;
         }
 
         /* Copy Buttons */
         .copy-group {
             display: flex;
             flex-direction: column;
-            gap: 0.6rem;
+            gap: 0.4rem;
             margin-top: auto;
         }
 
         .copy-btn {
-            background: rgba(15, 23, 42, 0.4);
-            border: 1px solid #475569;
-            color: var(--text-main);
-            padding: 0.85rem 1rem;
-            border-radius: 10px;
+            background: rgba(10, 17, 35, 0.5);
+            border: 1px solid var(--border-subtle);
+            color: var(--text-secondary);
+            padding: 0.65rem 0.85rem;
+            border-radius: var(--radius-sm);
             cursor: pointer;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            font-size: 0.9rem;
+            font-size: 0.82rem;
             font-family: inherit;
             transition: all 0.2s ease;
+            gap: 0.5rem;
+        }
+
+        @media (min-width: 768px) {
+            .copy-btn {
+                padding: 0.75rem 1rem;
+                font-size: 0.85rem;
+            }
         }
 
         .copy-btn:hover {
-            background: #334155;
-            border-color: #64748b;
-            transform: scale(1.01);
+            background: var(--card-bg-hover);
+            border-color: #2d4060;
+            color: var(--text-main);
         }
 
         .copy-btn:active {
@@ -282,60 +529,125 @@
 
         .copy-btn span.format {
             font-weight: 700;
-            color: var(--accent);
+            color: var(--accent-light);
+            white-space: nowrap;
+        }
+
+        .copy-btn span:last-child {
+            color: var(--text-muted);
+            font-size: 0.78rem;
+            text-align: right;
         }
 
         /* Footer */
         footer {
             text-align: center;
-            margin-top: 5rem;
+            margin-top: 4rem;
             padding: 2rem 0;
             color: var(--text-muted);
-            font-size: 0.9rem;
-            border-top: 1px solid var(--card-border);
+            font-size: 0.85rem;
+            border-top: 1px solid var(--border-subtle);
         }
 
-        a { color: var(--accent); text-decoration: none; transition: color 0.2s; }
-        a:hover { color: var(--accent-hover); text-decoration: underline; }
+        @media (min-width: 768px) {
+            footer {
+                margin-top: 5rem;
+            }
+        }
 
+        footer p {
+            margin: 0.3rem 0;
+        }
+
+        a { color: var(--accent-light); text-decoration: none; transition: color 0.2s; }
+        a:hover { color: var(--accent); text-decoration: none; }
+
+        /* Toast notification */
+        .toast {
+            position: fixed;
+            bottom: 1.5rem;
+            left: 50%;
+            transform: translateX(-50%) translateY(100px);
+            background: var(--card-bg);
+            border: 1px solid var(--success);
+            color: var(--success);
+            padding: 0.65rem 1.25rem;
+            border-radius: var(--radius-md);
+            font-size: 0.85rem;
+            font-weight: 600;
+            box-shadow: var(--shadow-lg);
+            z-index: 1000;
+            opacity: 0;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            pointer-events: none;
+        }
+
+        .toast.show {
+            transform: translateX(-50%) translateY(0);
+            opacity: 1;
+        }
+
+        /* Scrollbar */
+        ::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        ::-webkit-scrollbar-thumb {
+            background: var(--border-subtle);
+            border-radius: 3px;
+        }
+        ::-webkit-scrollbar-thumb:hover {
+            background: #2d4060;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <header>
+        <div class="logo-mark">
+            <svg viewBox="0 0 24 24" fill="none" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+        </div>
         <h1>RifqyShield</h1>
-        <p class="subtitle">The most comprehensive list, built and managed automatically using GitHub Actions, combining top community sources and specific custom filters</strong>.</p>
+        <p class="subtitle">The most comprehensive list, built and managed automatically using GitHub Actions, combining top community sources and specific custom filters.</p>
         
         <a href="https://github.com/rydevs29/RifqyShield" class="github-btn" target="_blank">
-            <svg height="20" width="20" viewBox="0 0 16 16" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+            <svg height="18" width="18" viewBox="0 0 16 16" fill="white"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
             View on GitHub
         </a>
 
         <div class="ext-banner">
             <div class="ext-banner-header">
                 <div class="ext-banner-title">
-                    🛡️ RifqyShield V5 Chrome Extension <span class="ext-badge">God Mode</span>
+                    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: var(--accent-light);">
+                        <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                    </svg>
+                    RifqyShield V5 Chrome Extension <span class="ext-badge">God Mode</span>
                 </div>
             </div>
             <p class="ext-banner-desc">
                 Take your browser protection to the next level. Featuring real-time Ad-blocker, Privacy Protector, Focus Mode, YouTube Ad-Killer, Anti-Paywall, Sniper Element Eraser, Picture-in-Picture (PiP), and seamless Remote Database Sync.
             </p>
             <div class="ext-tags">
-                <span class="ext-tag">🚫 Ad-Blocker</span>
-                <span class="ext-tag">🎯 Sniper Mode</span>
-                <span class="ext-tag">⚡ YouTube Ad-Killer</span>
-                <span class="ext-tag">🔒 Privacy Stealth</span>
-                <span class="ext-tag">🧘 Focus Mode</span>
-                <span class="ext-tag">📰 Anti-Paywall</span>
-                <span class="ext-tag">📺 PiP Support</span>
-                <span class="ext-tag">🔄 Cloud Sync</span>
+                <span class="ext-tag">Ad-Blocker</span>
+                <span class="ext-tag">Sniper Mode</span>
+                <span class="ext-tag">YouTube Ad-Killer</span>
+                <span class="ext-tag">Privacy Stealth</span>
+                <span class="ext-tag">Focus Mode</span>
+                <span class="ext-tag">Anti-Paywall</span>
+                <span class="ext-tag">PiP Support</span>
+                <span class="ext-tag">Cloud Sync</span>
             </div>
         </div>
     </header>
 
-    <h2 style="text-align: center; margin-bottom: 1.5rem; font-size: 1.8rem;">Protection Coverage</h2>
-    <div style="overflow-x: auto; padding-bottom: 1rem;">
+    <h2 class="section-heading">Protection Coverage</h2>
+    <div class="table-wrapper">
         <table class="features-table">
             <thead>
                 <tr>
@@ -348,30 +660,35 @@
                 <tr>
                     <td><strong>Ads & Trackers</strong></td>
                     <td>1Hosts Lite, Hagezi Trackers</td>
-                    <td style="color: var(--success); font-weight: 500;">✅ Active</td>
+                    <td><span class="status-active"><span class="status-dot"></span> Active</span></td>
                 </tr>
                 <tr>
                     <td><strong>NSFW & Gambling</strong></td>
                     <td>Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield Custom</td>
-                    <td style="color: var(--success); font-weight: 500;">✅ Active</td>
+                    <td><span class="status-active"><span class="status-dot"></span> Active</span></td>
                 </tr>
                 <tr>
                     <td><strong>Malware & Phishing</strong></td>
                     <td>OISD-Big, Hagezi Fake, Hagezi Ultimate, Hagezi TIF Mini</td>
-                    <td style="color: var(--success); font-weight: 500;">✅ Active</td>
+                    <td><span class="status-active"><span class="status-dot"></span> Active</span></td>
                 </tr>
             </tbody>
         </table>
     </div>
 
-    <h2 style="text-align: center; margin-top: 4rem; font-size: 1.8rem;">Choose Your Level</h2>
-    <p style="text-align: center; color: var(--text-muted); margin-bottom: 2rem;">Click the format button to copy the RAW URL.</p>
+    <h2 class="section-heading" style="margin-top: 3rem;">Choose Your Level</h2>
+    <p class="section-sub">Click the format button to copy the RAW URL.</p>
 
     <div class="variants-grid">
         
         <div class="card">
             <div class="card-badge">Fastest</div>
-            <h3>🛡️ LITE</h3>
+            <div class="card-icon">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                </svg>
+            </div>
+            <h3>LITE</h3>
             <p><strong>Performance & Anti-Mobile Tracker.</strong> Blocks ads on your phone and website tracking by sites such (Amazon, Apple, Xiaomi and others).</p>
             <div class="copy-group">
                 <button class="copy-btn" onclick="copyLink(this, 'lite/adblock.txt')">
@@ -416,9 +733,15 @@
             </div>
         </div>
 
-        <div class="card" style="border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent);">
-            <div class="card-badge" style="background: var(--accent); color: white;">Recommended</div>
-            <h3>🛡️ MEDIUM</h3>
+        <div class="card card--featured">
+            <div class="card-badge card-badge--accent">Recommended</div>
+            <div class="card-icon" style="background: rgba(59,130,246,0.15); border-color: rgba(59,130,246,0.25);">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                    <polyline points="9 12 11 14 15 10"/>
+                </svg>
+            </div>
+            <h3>MEDIUM</h3>
             <p><strong>Balanced Protection.</strong> Everything in Lite + Aggressive NSFW and Gambling blocking. Ideal for family safe-search.</p>
             <div class="copy-group">
                 <button class="copy-btn" onclick="copyLink(this, 'medium/adblock.txt')">
@@ -465,7 +788,14 @@
 
         <div class="card">
             <div class="card-badge">God Mode</div>
-            <h3>🛡️ ULTIMATE</h3>
+            <div class="card-icon" style="background: rgba(139,92,246,0.1); border-color: rgba(139,92,246,0.2);">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="color: #a78bfa;">
+                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                    <path d="M12 8v4"/>
+                    <path d="M12 16h.01"/>
+                </svg>
+            </div>
+            <h3>ULTIMATE</h3>
             <p><strong>Maximum Security.</strong> Combination of Medium + Global Giant Lists (1Hosts-Extra, Hagezi Ultimate Mini) for total threat protection.</p>
             <div class="copy-group">
                 <button class="copy-btn" onclick="copyLink(this, 'ultimate/adblock.txt')">
@@ -514,9 +844,11 @@
 
     <footer>
         <p>Updates automatically every week via GitHub Actions.</p>
-        <p>© 2026 RifqyShield • Licensed under MIT</p>
+        <p>&copy; 2026 RifqyShield &middot; Licensed under MIT</p>
     </footer>
 </div>
+
+<div class="toast" id="toast">URL copied to clipboard</div>
 
 <script>
     function copyLink(btn, path) {
@@ -524,14 +856,19 @@
         const fullUrl = baseUrl + path;
         
         navigator.clipboard.writeText(fullUrl).then(() => {
+            const toast = document.getElementById('toast');
+            toast.classList.add('show');
+            
             const originalText = btn.innerHTML;
-            btn.innerHTML = "<span style='color: #10b981; font-weight: bold;'>Copied! ✅</span>";
+            btn.innerHTML = "<span style='color: #22c55e; font-weight: 700;'>Copied</span>";
+            
             setTimeout(() => {
                 btn.innerHTML = originalText;
+                toast.classList.remove('show');
             }, 1500);
         });
     }
 </script>
 
 </body>
-                        </html>
+</html>
