@@ -15,7 +15,7 @@ LOCAL_NSFW_GAMBLING = [
 
 # 2. Definisi Sumber URL (Langsung download ke RAM, tanpa folder external)
 URLS_LITE = [
-    "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_small.txt",
+    "https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Lite/domains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.amazon-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.apple-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.huawei-onlydomains.txt",
@@ -31,6 +31,7 @@ URLS_LITE = [
 
 URLS_MEDIUM = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/pro.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/tif.mini.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/gambling.mini-onlydomains.txt",
     "https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/gambling/domain.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nsfw-onlydomains.txt",
@@ -40,6 +41,7 @@ URLS_MEDIUM = [
 
 URLS_ULTIMATE = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/ultimate-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/tif.medium-onlydomains.txt",
     "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt",
 ]
 
