@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-08-31 02:36:58
-# Total Domains: 223,530
+# Last Updated: 2026-09-01 02:50:31
+# Total Domains: 223,534
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -9630,6 +9630,7 @@
 0.0.0.0 2w81gu-launches.appsflyersdk.com
 0.0.0.0 2w81gu-onelink.appsflyersdk.com
 0.0.0.0 2waky.com
+0.0.0.0 2wheelshero.com
 0.0.0.0 2wu0m0ms098w7148.xyz
 0.0.0.0 2wwk11.moe.video
 0.0.0.0 2x.bw3uqlpvjyegkxivzlxc5rnhig5f.cfd
@@ -11802,7 +11803,6 @@
 0.0.0.0 4bh2on.inapps.appsflyersdk.com
 0.0.0.0 4bh2on.launches.appsflyersdk.com
 0.0.0.0 4bh2on.skadsdkless.appsflyersdk.com
-0.0.0.0 4bike.net
 0.0.0.0 4byvmqjqvpy6ce8rh.cfd
 0.0.0.0 4c054921758be759504fdf2c75abc1a0.safeframe.googlesyndication.com
 0.0.0.0 4c0cc3bae42e8987d2623d4854cfc9e2.safeframe.googlesyndication.com
@@ -22194,6 +22194,7 @@
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
+0.0.0.0 aax-ott-sdk.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott-sdk.amazon-adsystem.com
 0.0.0.0 aax-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.com
@@ -35910,6 +35911,7 @@
 0.0.0.0 api.metrics.eu-west-1.iris.apx.amazon.dev
 0.0.0.0 api.metrics.heroku.com
 0.0.0.0 api.metrics.us-east-1.iris.apx.amazon.dev
+0.0.0.0 api.metrics.us-west-2.iris.apx.amazon.dev
 0.0.0.0 api.metrix.ir
 0.0.0.0 api.mf.webcontentassessor.com
 0.0.0.0 api.mg8.pw.adn.cloud
@@ -44185,7 +44187,6 @@
 0.0.0.0 bestelektronicshop.de
 0.0.0.0 bestellen-ciao-ciao-pf.de
 0.0.0.0 bestelnuar.click
-0.0.0.0 bestemed.com
 0.0.0.0 bestemedikamente.com
 0.0.0.0 bestenkaufen.com
 0.0.0.0 bestentrypoint.com
@@ -51225,6 +51226,7 @@
 0.0.0.0 canadacentral-1.in.applicationinsights.azure.com
 0.0.0.0 canadacis.org
 0.0.0.0 canadadiscount24.com
+0.0.0.0 canadadrugstore.com
 0.0.0.0 canadaeast-0.in.applicationinsights.azure.com
 0.0.0.0 canadanewsreport.com
 0.0.0.0 canadapetcare.com
@@ -51908,6 +51910,7 @@
 0.0.0.0 catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu
 0.0.0.0 catalogue.advertising.amazon.dev
 0.0.0.0 cataloguedelay.com
+0.0.0.0 catalunyafarm.com
 0.0.0.0 catalyst-analytics.net
 0.0.0.0 catalyst.adgrx.com
 0.0.0.0 catalystcrown.com
@@ -70851,7 +70854,6 @@
 0.0.0.0 doctorlogic.com
 0.0.0.0 doctorsacademy.org
 0.0.0.0 doctorschoicenursing.com
-0.0.0.0 doctorsolve.com
 0.0.0.0 doctrinekettleworsening.com
 0.0.0.0 doctriney.com
 0.0.0.0 doctusflaxman.com
@@ -89214,7 +89216,6 @@
 0.0.0.0 geldvision.com
 0.0.0.0 geledonewytlj.online
 0.0.0.0 gelirartisi.com
-0.0.0.0 gelmalls.com
 0.0.0.0 gelosievinterplaga.cyou
 0.0.0.0 gelpro.pxf.io
 0.0.0.0 gelschuhe.de
@@ -97012,6 +97013,7 @@
 0.0.0.0 hoksomuptak.net
 0.0.0.0 hoktrips.com
 0.0.0.0 holahupa.com
+0.0.0.0 holapick.com
 0.0.0.0 holda-konigsallee.de
 0.0.0.0 holder.com.ua
 0.0.0.0 holdergroset.cfd
@@ -101483,6 +101485,7 @@
 0.0.0.0 immediate-d.openx.net
 0.0.0.0 immediate-dash.de
 0.0.0.0 immediate-direct.com
+0.0.0.0 immediate-edge2.com
 0.0.0.0 immediate-flik.com
 0.0.0.0 immediate-growth.com
 0.0.0.0 immediate-momentum.com
@@ -122241,7 +122244,6 @@
 0.0.0.0 medioteapotstikes.qpon
 0.0.0.0 medipartner.jp
 0.0.0.0 mediplus-berlin.de
-0.0.0.0 medirao.com
 0.0.0.0 medirezept.net
 0.0.0.0 meditatem.com
 0.0.0.0 mediuln.com
@@ -123102,6 +123104,8 @@
 0.0.0.0 metrics.elsevier.com
 0.0.0.0 metrics.eneba.com
 0.0.0.0 metrics.etrailer.com
+0.0.0.0 metrics.eu-south-2.iris.apx.amazon.dev
+0.0.0.0 metrics.eu-west-1.iris.apx.amazon.dev
 0.0.0.0 metrics.evernote.com
 0.0.0.0 metrics.extension.gateway.uniswap.org
 0.0.0.0 metrics.fansly.com
@@ -123318,6 +123322,7 @@
 0.0.0.0 metrics.ubuntu.com
 0.0.0.0 metrics.unionbankph.com
 0.0.0.0 metrics.unitedigital.io
+0.0.0.0 metrics.us-east-1.iris.apx.amazon.dev
 0.0.0.0 metrics.usfoods.com
 0.0.0.0 metrics.victoriassecret.com
 0.0.0.0 metrics.vidaxl.com
@@ -167214,7 +167219,6 @@
 0.0.0.0 scancemontes.com
 0.0.0.0 scandalcalques.cfd
 0.0.0.0 scaniamalamfills.cyou
-0.0.0.0 scannero.io
 0.0.0.0 scanscout.com
 0.0.0.0 scanstockphoto.com
 0.0.0.0 scantra.se
@@ -193892,7 +193896,6 @@
 0.0.0.0 trustedoffers.pro
 0.0.0.0 trustedpromise.com
 0.0.0.0 trustedpubs.com
-0.0.0.0 trustedrxsolutions.com
 0.0.0.0 trustedshops.store
 0.0.0.0 trustedstack.com
 0.0.0.0 trustedstack.rtb.us.admatic.de
@@ -203095,6 +203098,7 @@
 0.0.0.0 vivagopro.com
 0.0.0.0 vivaharmoni.com
 0.0.0.0 vivaia-schuhe.de
+0.0.0.0 vivaiacollection.com
 0.0.0.0 vivaiaschuhe.at
 0.0.0.0 vivaiaschuhe.com
 0.0.0.0 vivaiaschuhe.de

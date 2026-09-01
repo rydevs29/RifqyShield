@@ -9624,6 +9624,7 @@
 2w81gu-launches.appsflyersdk.com
 2w81gu-onelink.appsflyersdk.com
 2waky.com
+2wheelshero.com
 2wu0m0ms098w7148.xyz
 2wwk11.moe.video
 2x.bw3uqlpvjyegkxivzlxc5rnhig5f.cfd
@@ -11796,7 +11797,6 @@
 4bh2on.inapps.appsflyersdk.com
 4bh2on.launches.appsflyersdk.com
 4bh2on.skadsdkless.appsflyersdk.com
-4bike.net
 4byvmqjqvpy6ce8rh.cfd
 4c054921758be759504fdf2c75abc1a0.safeframe.googlesyndication.com
 4c0cc3bae42e8987d2623d4854cfc9e2.safeframe.googlesyndication.com
@@ -22188,6 +22188,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -35904,6 +35905,7 @@ api.metrics.eu-south-2.iris.apx.amazon.dev
 api.metrics.eu-west-1.iris.apx.amazon.dev
 api.metrics.heroku.com
 api.metrics.us-east-1.iris.apx.amazon.dev
+api.metrics.us-west-2.iris.apx.amazon.dev
 api.metrix.ir
 api.mf.webcontentassessor.com
 api.mg8.pw.adn.cloud
@@ -44179,7 +44181,6 @@ bestekreditvergabe.ltd
 bestelektronicshop.de
 bestellen-ciao-ciao-pf.de
 bestelnuar.click
-bestemed.com
 bestemedikamente.com
 bestenkaufen.com
 bestentrypoint.com
@@ -51219,6 +51220,7 @@ canadacentral-0.in.applicationinsights.azure.com
 canadacentral-1.in.applicationinsights.azure.com
 canadacis.org
 canadadiscount24.com
+canadadrugstore.com
 canadaeast-0.in.applicationinsights.azure.com
 canadanewsreport.com
 canadapetcare.com
@@ -51902,6 +51904,7 @@ catalogapi.azure.com.office.euo.qaeuprod202.myshn.eu
 catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu
 catalogue.advertising.amazon.dev
 cataloguedelay.com
+catalunyafarm.com
 catalyst-analytics.net
 catalyst.adgrx.com
 catalystcrown.com
@@ -70845,7 +70848,6 @@ doctor-watch.myeasyorders.com
 doctorlogic.com
 doctorsacademy.org
 doctorschoicenursing.com
-doctorsolve.com
 doctrinekettleworsening.com
 doctriney.com
 doctusflaxman.com
@@ -89208,7 +89210,6 @@ geldpro.ai
 geldvision.com
 geledonewytlj.online
 gelirartisi.com
-gelmalls.com
 gelosievinterplaga.cyou
 gelpro.pxf.io
 gelschuhe.de
@@ -97006,6 +97007,7 @@ hokmlnzfftxvg.space
 hoksomuptak.net
 hoktrips.com
 holahupa.com
+holapick.com
 holda-konigsallee.de
 holder.com.ua
 holdergroset.cfd
@@ -101477,6 +101479,7 @@ immediate-coraldex.com
 immediate-d.openx.net
 immediate-dash.de
 immediate-direct.com
+immediate-edge2.com
 immediate-flik.com
 immediate-growth.com
 immediate-momentum.com
@@ -122235,7 +122238,6 @@ medion01.webtrekk.net
 medioteapotstikes.qpon
 medipartner.jp
 mediplus-berlin.de
-medirao.com
 medirezept.net
 meditatem.com
 mediuln.com
@@ -123096,6 +123098,8 @@ metrics.el-mundo.net
 metrics.elsevier.com
 metrics.eneba.com
 metrics.etrailer.com
+metrics.eu-south-2.iris.apx.amazon.dev
+metrics.eu-west-1.iris.apx.amazon.dev
 metrics.evernote.com
 metrics.extension.gateway.uniswap.org
 metrics.fansly.com
@@ -123312,6 +123316,7 @@ metrics.uat.varklin.com
 metrics.ubuntu.com
 metrics.unionbankph.com
 metrics.unitedigital.io
+metrics.us-east-1.iris.apx.amazon.dev
 metrics.usfoods.com
 metrics.victoriassecret.com
 metrics.vidaxl.com
@@ -167208,7 +167213,6 @@ scan4you.net
 scancemontes.com
 scandalcalques.cfd
 scaniamalamfills.cyou
-scannero.io
 scanscout.com
 scanstockphoto.com
 scantra.se
@@ -193886,7 +193890,6 @@ trustednorx.com
 trustedoffers.pro
 trustedpromise.com
 trustedpubs.com
-trustedrxsolutions.com
 trustedshops.store
 trustedstack.com
 trustedstack.rtb.us.admatic.de
@@ -203089,6 +203092,7 @@ vivadys.com
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de

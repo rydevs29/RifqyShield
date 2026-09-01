@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-08-31 02:36:58
-# Total Domains: 223,530
+# Last Updated: 2026-09-01 02:50:31
+# Total Domains: 223,534
 # ==========================================
 /ip dns static
 add name="0-1.ir" address=0.0.0.0
@@ -9629,6 +9629,7 @@ add name="2w81gu-cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="2w81gu-launches.appsflyersdk.com" address=0.0.0.0
 add name="2w81gu-onelink.appsflyersdk.com" address=0.0.0.0
 add name="2waky.com" address=0.0.0.0
+add name="2wheelshero.com" address=0.0.0.0
 add name="2wu0m0ms098w7148.xyz" address=0.0.0.0
 add name="2wwk11.moe.video" address=0.0.0.0
 add name="2x.bw3uqlpvjyegkxivzlxc5rnhig5f.cfd" address=0.0.0.0
@@ -11801,7 +11802,6 @@ add name="4bh2on.dynamic-report-api.appsflyersdk.com" address=0.0.0.0
 add name="4bh2on.inapps.appsflyersdk.com" address=0.0.0.0
 add name="4bh2on.launches.appsflyersdk.com" address=0.0.0.0
 add name="4bh2on.skadsdkless.appsflyersdk.com" address=0.0.0.0
-add name="4bike.net" address=0.0.0.0
 add name="4byvmqjqvpy6ce8rh.cfd" address=0.0.0.0
 add name="4c054921758be759504fdf2c75abc1a0.safeframe.googlesyndication.com" address=0.0.0.0
 add name="4c0cc3bae42e8987d2623d4854cfc9e2.safeframe.googlesyndication.com" address=0.0.0.0
@@ -22193,6 +22193,7 @@ add name="aax-fe-sin.amazon-adsystem.com" address=0.0.0.0
 add name="aax-fe.amazon-adsystem.com" address=0.0.0.0
 add name="aax-gamma-us-east.axp.amazon-adsystem.com" address=0.0.0.0
 add name="aax-ott-c2s.amazon-adsystem.com" address=0.0.0.0
+add name="aax-ott-sdk.amazon-adsystem.amazon.com" address=0.0.0.0
 add name="aax-ott-sdk.amazon-adsystem.com" address=0.0.0.0
 add name="aax-ott.amazon-adsystem.amazon.com" address=0.0.0.0
 add name="aax-ott.amazon-adsystem.com" address=0.0.0.0
@@ -35909,6 +35910,7 @@ add name="api.metrics.eu-south-2.iris.apx.amazon.dev" address=0.0.0.0
 add name="api.metrics.eu-west-1.iris.apx.amazon.dev" address=0.0.0.0
 add name="api.metrics.heroku.com" address=0.0.0.0
 add name="api.metrics.us-east-1.iris.apx.amazon.dev" address=0.0.0.0
+add name="api.metrics.us-west-2.iris.apx.amazon.dev" address=0.0.0.0
 add name="api.metrix.ir" address=0.0.0.0
 add name="api.mf.webcontentassessor.com" address=0.0.0.0
 add name="api.mg8.pw.adn.cloud" address=0.0.0.0
@@ -44184,7 +44186,6 @@ add name="bestekreditvergabe.ltd" address=0.0.0.0
 add name="bestelektronicshop.de" address=0.0.0.0
 add name="bestellen-ciao-ciao-pf.de" address=0.0.0.0
 add name="bestelnuar.click" address=0.0.0.0
-add name="bestemed.com" address=0.0.0.0
 add name="bestemedikamente.com" address=0.0.0.0
 add name="bestenkaufen.com" address=0.0.0.0
 add name="bestentrypoint.com" address=0.0.0.0
@@ -51224,6 +51225,7 @@ add name="canadacentral-0.in.applicationinsights.azure.com" address=0.0.0.0
 add name="canadacentral-1.in.applicationinsights.azure.com" address=0.0.0.0
 add name="canadacis.org" address=0.0.0.0
 add name="canadadiscount24.com" address=0.0.0.0
+add name="canadadrugstore.com" address=0.0.0.0
 add name="canadaeast-0.in.applicationinsights.azure.com" address=0.0.0.0
 add name="canadanewsreport.com" address=0.0.0.0
 add name="canadapetcare.com" address=0.0.0.0
@@ -51907,6 +51909,7 @@ add name="catalogapi.azure.com.office.euo.qaeuprod202.myshn.eu" address=0.0.0.0
 add name="catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu" address=0.0.0.0
 add name="catalogue.advertising.amazon.dev" address=0.0.0.0
 add name="cataloguedelay.com" address=0.0.0.0
+add name="catalunyafarm.com" address=0.0.0.0
 add name="catalyst-analytics.net" address=0.0.0.0
 add name="catalyst.adgrx.com" address=0.0.0.0
 add name="catalystcrown.com" address=0.0.0.0
@@ -70850,7 +70853,6 @@ add name="doctor-watch.myeasyorders.com" address=0.0.0.0
 add name="doctorlogic.com" address=0.0.0.0
 add name="doctorsacademy.org" address=0.0.0.0
 add name="doctorschoicenursing.com" address=0.0.0.0
-add name="doctorsolve.com" address=0.0.0.0
 add name="doctrinekettleworsening.com" address=0.0.0.0
 add name="doctriney.com" address=0.0.0.0
 add name="doctusflaxman.com" address=0.0.0.0
@@ -89213,7 +89215,6 @@ add name="geldpro.ai" address=0.0.0.0
 add name="geldvision.com" address=0.0.0.0
 add name="geledonewytlj.online" address=0.0.0.0
 add name="gelirartisi.com" address=0.0.0.0
-add name="gelmalls.com" address=0.0.0.0
 add name="gelosievinterplaga.cyou" address=0.0.0.0
 add name="gelpro.pxf.io" address=0.0.0.0
 add name="gelschuhe.de" address=0.0.0.0
@@ -97011,6 +97012,7 @@ add name="hokmlnzfftxvg.space" address=0.0.0.0
 add name="hoksomuptak.net" address=0.0.0.0
 add name="hoktrips.com" address=0.0.0.0
 add name="holahupa.com" address=0.0.0.0
+add name="holapick.com" address=0.0.0.0
 add name="holda-konigsallee.de" address=0.0.0.0
 add name="holder.com.ua" address=0.0.0.0
 add name="holdergroset.cfd" address=0.0.0.0
@@ -101482,6 +101484,7 @@ add name="immediate-coraldex.com" address=0.0.0.0
 add name="immediate-d.openx.net" address=0.0.0.0
 add name="immediate-dash.de" address=0.0.0.0
 add name="immediate-direct.com" address=0.0.0.0
+add name="immediate-edge2.com" address=0.0.0.0
 add name="immediate-flik.com" address=0.0.0.0
 add name="immediate-growth.com" address=0.0.0.0
 add name="immediate-momentum.com" address=0.0.0.0
@@ -122240,7 +122243,6 @@ add name="medion01.webtrekk.net" address=0.0.0.0
 add name="medioteapotstikes.qpon" address=0.0.0.0
 add name="medipartner.jp" address=0.0.0.0
 add name="mediplus-berlin.de" address=0.0.0.0
-add name="medirao.com" address=0.0.0.0
 add name="medirezept.net" address=0.0.0.0
 add name="meditatem.com" address=0.0.0.0
 add name="mediuln.com" address=0.0.0.0
@@ -123101,6 +123103,8 @@ add name="metrics.el-mundo.net" address=0.0.0.0
 add name="metrics.elsevier.com" address=0.0.0.0
 add name="metrics.eneba.com" address=0.0.0.0
 add name="metrics.etrailer.com" address=0.0.0.0
+add name="metrics.eu-south-2.iris.apx.amazon.dev" address=0.0.0.0
+add name="metrics.eu-west-1.iris.apx.amazon.dev" address=0.0.0.0
 add name="metrics.evernote.com" address=0.0.0.0
 add name="metrics.extension.gateway.uniswap.org" address=0.0.0.0
 add name="metrics.fansly.com" address=0.0.0.0
@@ -123317,6 +123321,7 @@ add name="metrics.uat.varklin.com" address=0.0.0.0
 add name="metrics.ubuntu.com" address=0.0.0.0
 add name="metrics.unionbankph.com" address=0.0.0.0
 add name="metrics.unitedigital.io" address=0.0.0.0
+add name="metrics.us-east-1.iris.apx.amazon.dev" address=0.0.0.0
 add name="metrics.usfoods.com" address=0.0.0.0
 add name="metrics.victoriassecret.com" address=0.0.0.0
 add name="metrics.vidaxl.com" address=0.0.0.0
@@ -167213,7 +167218,6 @@ add name="scan4you.net" address=0.0.0.0
 add name="scancemontes.com" address=0.0.0.0
 add name="scandalcalques.cfd" address=0.0.0.0
 add name="scaniamalamfills.cyou" address=0.0.0.0
-add name="scannero.io" address=0.0.0.0
 add name="scanscout.com" address=0.0.0.0
 add name="scanstockphoto.com" address=0.0.0.0
 add name="scantra.se" address=0.0.0.0
@@ -193891,7 +193895,6 @@ add name="trustednorx.com" address=0.0.0.0
 add name="trustedoffers.pro" address=0.0.0.0
 add name="trustedpromise.com" address=0.0.0.0
 add name="trustedpubs.com" address=0.0.0.0
-add name="trustedrxsolutions.com" address=0.0.0.0
 add name="trustedshops.store" address=0.0.0.0
 add name="trustedstack.com" address=0.0.0.0
 add name="trustedstack.rtb.us.admatic.de" address=0.0.0.0
@@ -203094,6 +203097,7 @@ add name="vivadys.com" address=0.0.0.0
 add name="vivagopro.com" address=0.0.0.0
 add name="vivaharmoni.com" address=0.0.0.0
 add name="vivaia-schuhe.de" address=0.0.0.0
+add name="vivaiacollection.com" address=0.0.0.0
 add name="vivaiaschuhe.at" address=0.0.0.0
 add name="vivaiaschuhe.com" address=0.0.0.0
 add name="vivaiaschuhe.de" address=0.0.0.0
