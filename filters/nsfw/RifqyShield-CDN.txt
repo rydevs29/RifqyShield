@@ -38,3 +38,5 @@ eu-west-3.xhamster.com
 video.flirtify.com
 *.doppiocdn.com
 *.cdnsolutions.media
+*.gofile.io
+*.aceimg.com
