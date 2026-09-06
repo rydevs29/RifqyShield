@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-06 07:44:12
-# Total Domains: 221,564
+# Last Updated: 2026-09-06 10:27:55
+# Total Domains: 221,518
 # ==========================================
 0-1.ir CNAME .
 0-105.com CNAME .
@@ -40400,6 +40400,7 @@ ax20180902.everesttech.net CNAME .
 axabpelvjfqav.site CNAME .
 axal.unmiredaahreclang.cyou CNAME .
 axalta.wt-eu02.net CNAME .
+axatechviewou.com CNAME .
 axatileinv.mangoads.net CNAME .
 axcqjjymlon.com CNAME .
 axdzmrruiattf.website CNAME .
@@ -45706,7 +45707,6 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
-bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -51457,6 +51457,7 @@ catalogapi.azure.com.office.euo.qaeuprod202.myshn.eu CNAME .
 catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu CNAME .
 catalogue.advertising.amazon.dev CNAME .
 cataloguedelay.com CNAME .
+catalunyafarm.com CNAME .
 catalyst-analytics.net CNAME .
 catalyst.adgrx.com CNAME .
 catalystcrown.com CNAME .
@@ -89742,7 +89743,6 @@ glancedsecretion.com CNAME .
 glanceinmobi-d.openx.net CNAME .
 glandalongtruce.com CNAME .
 glandscountrush.com CNAME .
-glanzberg-mode.de CNAME .
 glanzlampen.com CNAME .
 glanzschuh.com CNAME .
 glanzwiese.com CNAME .
@@ -89968,7 +89968,6 @@ globein-subscription.7eer.net CNAME .
 globel.co.uk CNAME .
 globeofnews.com CNAME .
 globerotate.com CNAME .
-globeschuheberlin.de CNAME .
 globetrotter.excursiionline.ro CNAME .
 globetrotteroutlet.de CNAME .
 globior.com CNAME .
@@ -89986,7 +89985,6 @@ gloneotech.de CNAME .
 glooms.spumiercithara.qpon CNAME .
 gloomyseason.com CNAME .
 gloos-zus.info CNAME .
-gloreve.com CNAME .
 gloriaagrarianstatement.com CNAME .
 gloriafreeway.com CNAME .
 glorifynucleitripping.com CNAME .
@@ -90021,7 +90019,6 @@ glow-broker-prod.ttpsdk.info CNAME .
 glow-clubs-prod.ttpsdk.info CNAME .
 glow-garden.com CNAME .
 glow-garten.com CNAME .
-glow-haven.de CNAME .
 glow-lb-prod.ttpsdk.info CNAME .
 glow-nt-prod.ttpsdk.info CNAME .
 glowblend.de CNAME .
@@ -90082,8 +90079,6 @@ glumsynemasmitham.cyou CNAME .
 glurvextopin-at.at CNAME .
 glurvextopin-gb.com CNAME .
 glurvextopin-official.com CNAME .
-glurvextopin.at CNAME .
-gluschwein.de CNAME .
 gluservices.s3.amazonaws.com CNAME .
 glusidforwake.qpon CNAME .
 glutenmuttsensuous.com CNAME .
@@ -90130,7 +90125,6 @@ gmemkuflmihes.online CNAME .
 gmenhq.com CNAME .
 gmetrics.getbeamer.com CNAME .
 gmevents.ae CNAME .
-gmfcar-sol.com CNAME .
 gmfcfejaqmkma.online CNAME .
 gmfddfrtsmjym.space CNAME .
 gmfkrivpnkhnb.website CNAME .
@@ -90741,7 +90735,6 @@ goforbest.top CNAME .
 gogames.g2afse.com CNAME .
 gogdik.cdn-settings.appsflyersdk.com CNAME .
 gogetlinks.net CNAME .
-gogetrxonline.com CNAME .
 gogistar.com CNAME .
 gogosearlier.cfd CNAME .
 gogpusley.qpon CNAME .
@@ -90798,7 +90791,6 @@ goldendev.win CNAME .
 goldengoose-austria.myshoplaza.com CNAME .
 goldengoose3282521z.btttag.com CNAME .
 goldengoosesale.at CNAME .
-goldengoosesale.de CNAME .
 goldenmarine.net CNAME .
 goldenngoosee.com CNAME .
 goldenpandacasino-online.de CNAME .
@@ -91616,7 +91608,6 @@ greenhousewarehouse.ojrq.net CNAME .
 greenlabelfrancisco.com CNAME .
 greenlight.cname.getrockerbox.com CNAME .
 greenlightclix.xml-v4.ak-is2.net CNAME .
-greenmah.shop CNAME .
 greenpeace01.webtrekk.net CNAME .
 greenplasticdua.com CNAME .
 greenporntube.info CNAME .
@@ -91714,7 +91705,6 @@ grillterrasse.com CNAME .
 grillwelten.com CNAME .
 grillwizz-grillreiniger.de CNAME .
 grillwry.com CNAME .
-grillzentrale.shop CNAME .
 grillzentrum.com CNAME .
 grillzubehoer-de.com CNAME .
 grim-duty.pro CNAME .
@@ -91853,7 +91843,6 @@ grow.gab.com CNAME .
 grow.me CNAME .
 grow.slideruleanalytics.com CNAME .
 grow.urbandictionary.network CNAME .
-growano.com CNAME .
 growave.io CNAME .
 groweyelid.com CNAME .
 growingcat.com CNAME .
@@ -92090,7 +92079,6 @@ gsujiu.cdn-settings.appsflyersdk.com CNAME .
 gsumjooasiufl.site CNAME .
 gsw.mybluehost.me CNAME .
 gswondenthaiti.org CNAME .
-gswoutfit.shop CNAME .
 gswpucfwjokxw.site CNAME .
 gsxytzcnwtyht.online CNAME .
 gsync.adtelligent.com CNAME .
@@ -92475,7 +92463,6 @@ gunsel.stemmybeltian.cfd CNAME .
 gunselscyan.shop CNAME .
 gunsforsalesusa.com CNAME .
 gunshackammo.com CNAME .
-gunstigeskaufhaus.com CNAME .
 gunzblazingpromo.com CNAME .
 guoiriawxkaew.website CNAME .
 guoshipartners.com CNAME .
@@ -92540,7 +92527,6 @@ gutmotorradteile.com CNAME .
 gutscheinglueck24.de CNAME .
 guttateelance.qpon CNAME .
 guttldzqtedhr.space CNAME .
-gutumzug.at CNAME .
 gutuymfvnw1bvpeg.cfd CNAME .
 guuulmhvdijwj.space CNAME .
 guuzmczcfmhnt.com CNAME .
@@ -93269,7 +93255,6 @@ ha4ai2flb.puzztake.com CNAME .
 ha99991b7i.kameleoon.io CNAME .
 haa3j9plpi-default-cn.rum.aliyuncs.com CNAME .
 haaqt4.launches.appsflyersdk.com CNAME .
-haareparfum.com CNAME .
 haaretz.pushwoosh.com CNAME .
 haarpflegehaut.com CNAME .
 haarprofis.com CNAME .
@@ -93477,7 +93462,6 @@ halloosreacher.com CNAME .
 halloth.poetessdwarf.cfd CNAME .
 hallowchimin.shop CNAME .
 halloween-manufaktur.de CNAME .
-halloween-maskenmanufaktur.de CNAME .
 halloweencostumes-us.attn.tv CNAME .
 halloweencostumes.attn.tv CNAME .
 halloweendekoration.com CNAME .
@@ -93642,7 +93626,6 @@ hans-engelke-energie.de CNAME .
 hans-fahrradhaus.de CNAME .
 hansacontainergmbh.de CNAME .
 hansatraileranhanger-de.com CNAME .
-hanse-consol.de CNAME .
 hanse.erytheathrobnugae.cyou CNAME .
 hansel.fratryvitialracemed.cfd CNAME .
 hansels.coughergot.cfd CNAME .
@@ -93770,7 +93753,6 @@ harmful-park.com CNAME .
 harmless-prior.pro CNAME .
 harmlesstranquilizer.com CNAME .
 harmoniouy.com CNAME .
-harmony-ambiento.shop CNAME .
 harmonyachieveacq.api.useinsider.com CNAME .
 harmonyalmbienteoutlet.shop CNAME .
 harmootpembina.cyou CNAME .
@@ -93778,7 +93760,6 @@ harosetbelar.cfd CNAME .
 harped.erikengager.shop CNAME .
 harped.joachimhunting.qpon CNAME .
 harpercollins.shop CNAME .
-harperyoung.shop CNAME .
 harpiessassingprince.cyou CNAME .
 harpselodes.shop CNAME .
 harrahslv.7eer.net CNAME .
@@ -93927,7 +93908,6 @@ haushaltsgeratemarkt.com CNAME .
 haushaltsheld.com CNAME .
 haushaltskoenig.de CNAME .
 haushaltsreich.de CNAME .
-hausmez.de CNAME .
 hausmobel-de.com CNAME .
 hausofvedashop.com CNAME .
 hausonline24.com CNAME .
@@ -93943,7 +93923,6 @@ haustiereshop.com CNAME .
 haustierstolz.de CNAME .
 haustirwelten.de CNAME .
 hausture.com CNAME .
-hausundgarten.haus CNAME .
 hausundwerkzeug.com CNAME .
 hausundwerkzeuge.store CNAME .
 hausversand.com CNAME .
@@ -94426,7 +94405,6 @@ headphonedilution.com CNAME .
 headquartersfallclassify.com CNAME .
 headspin.io CNAME .
 headsupbaby.com CNAME .
-headtennistownde.com CNAME .
 headway-widget.net CNAME .
 healed.wappatopunnerzaurak.qpon CNAME .
 healflowers.com CNAME .
@@ -94446,7 +94424,6 @@ healthful-pills.com CNAME .
 healthit.live CNAME .
 healthlifereport.com CNAME .
 healthline-com.videoplayerhub.com CNAME .
-healthonlineshop24.com CNAME .
 healthpillsonline.com CNAME .
 healthroundprince.com CNAME .
 healthroutine.com CNAME .
@@ -94603,7 +94580,6 @@ heimprofis.de CNAME .
 heimspeichern.com CNAME .
 heimvoll.de CNAME .
 heimwerkende.de CNAME .
-heimwerkerpro.com CNAME .
 heimwerkzeugesde.com CNAME .
 heinbfmpsdxnv.online CNAME .
 heinemann.blueconic.net CNAME .
@@ -94672,7 +94648,6 @@ heizoel-fuchs24.de CNAME .
 heizoel-held.de CNAME .
 heizoel-kalkulator.de CNAME .
 heizoel-liefern.de CNAME .
-heizoel-rabatt.de CNAME .
 heizoel-schnell-gmbh.de CNAME .
 heizoel-station.com CNAME .
 heizoel-tankstelle.de CNAME .
@@ -94729,12 +94704,10 @@ heizungsinsel.de CNAME .
 heizungsolar.com CNAME .
 heizungstechnik-online.de CNAME .
 heizungstechworld.com CNAME .
-heizungszubehoer.com CNAME .
 heizungundklimawelt.com CNAME .
 heizuri.de CNAME .
 heizwelt.com CNAME .
 heizwelt24.de CNAME .
-heizwelt24.shop CNAME .
 heizx.de CNAME .
 heizzu.de CNAME .
 hejego-inapps.appsflyersdk.com CNAME .
@@ -94858,7 +94831,6 @@ helpers.publisherdesk.com CNAME .
 helpersng.taboola.com CNAME .
 helpertrk.com CNAME .
 helpfulcloister.com CNAME .
-helpfulmedicalstore.com CNAME .
 helphumanityorg.com CNAME .
 helplive-ledger.com CNAME .
 helpnetsecurity.matomo.cloud CNAME .
@@ -94916,7 +94888,6 @@ hentaitracking.com CNAME .
 henterjacksaw.com CNAME .
 henwisedug.top CNAME .
 henyardwrister.cfd CNAME .
-henylife.shop CNAME .
 henzxztnnwmhp.website CNAME .
 heo0md.adrevenue.appsflyersdk.com CNAME .
 heo0md.cdn-settings.appsflyersdk.com CNAME .
@@ -94975,7 +94946,6 @@ hermes.adopsboost.com CNAME .
 hermes.banan.cz CNAME .
 hermes.hupu.com CNAME .
 hermes.jd.com CNAME .
-hermesfod.shop CNAME .
 hermestest01.webtrekk.net CNAME .
 hermhoffer.de CNAME .
 hermichermicgenerationhers.com CNAME .
@@ -95363,7 +95333,6 @@ high-on-ads.com CNAME .
 high-quality-model.com CNAME .
 high.ue1.prd.aws.cloud.arity.com CNAME .
 highbroker.com CNAME .
-highbtcstock.com CNAME .
 highcloudmining.org CNAME .
 highconvertingformats.com CNAME .
 highcpmcreativeformat.com CNAME .
@@ -95454,7 +95423,6 @@ hildas-waren.de CNAME .
 hilde-taschen.de CNAME .
 hildebrandt-bekleidung.de CNAME .
 hildebrandtfashion.de CNAME .
-hildegunter.com CNAME .
 hilerant.site CNAME .
 hilfeexpress.com CNAME .
 hilfenervenschmerzen.com CNAME .
@@ -95769,7 +95737,6 @@ hkjc.glassboxdigital.io CNAME .
 hkjwazawuwxiy.online CNAME .
 hkkbhxlf.com CNAME .
 hkkhsppnknkoy.space CNAME .
-hkm-sport.shop CNAME .
 hkmhkmprodkdealerplus.112.2o7.net CNAME .
 hkmkiatier3prod.112.2o7.net CNAME .
 hkn.uac75.hknet.com CNAME .
@@ -95825,7 +95792,6 @@ hlelu.com CNAME .
 hlene.com CNAME .
 hleofj.cdn-settings.appsflyersdk.com CNAME .
 hler.finnipcinclis.cyou CNAME .
-hlf-gestion-or.com CNAME .
 hlf.mybluehost.me CNAME .
 hlfzx.inppcdn.com CNAME .
 hlgdxdfwnqqug.online CNAME .
@@ -95934,7 +95900,6 @@ hmaqcp.launches.appsflyersdk.com CNAME .
 hmayks.cdn-settings.appsflyersdk.com CNAME .
 hmayks.launches.appsflyersdk.com CNAME .
 hmbcvhxbz.com CNAME .
-hmbgroup.at CNAME .
 hmdypadvcolcw.space CNAME .
 hme-live-loganalytics-namespace.servicebus.windows.net CNAME .
 hme-uat-loganalytics-namespace.servicebus.windows.net CNAME .
@@ -96215,7 +96180,6 @@ holzbaubillig.com CNAME .
 holzbrenn.de CNAME .
 holzbriketts-kaufen.com CNAME .
 holzbriketts-profi.de CNAME .
-holzcuten.de CNAME .
 holzd24.com CNAME .
 holzerneblocke.com CNAME .
 holzfursfeuer.de CNAME .
@@ -96236,7 +96200,6 @@ holzmoebelkaufen.de CNAME .
 holznotenpulte.de CNAME .
 holzpelletshop.com CNAME .
 holzqualitat.de CNAME .
-holzstreif.de CNAME .
 holzti.com CNAME .
 holzundkunststueble.de CNAME .
 holzundwerkzeug-bestequalitat.de CNAME .
@@ -96331,7 +96294,6 @@ homer-prod1.aws-us-east-1.mr-in.com CNAME .
 homer.playground.rokt.com CNAME .
 homersport.de CNAME .
 homerunfood.com CNAME .
-homerungrocers.com CNAME .
 homes.bg CNAME .
 homeserve.pxf.io CNAME .
 homesicktheseheld.com CNAME .
@@ -97299,7 +97261,6 @@ hubcitysale.com CNAME .
 hubcloud.com.cn CNAME .
 hubdigitalads.com CNAME .
 hubeamily.com CNAME .
-huber-wien.com CNAME .
 huberd.com CNAME .
 hubers-salzburg.at CNAME .
 hubertkotschnig.at CNAME .
@@ -97492,13 +97453,11 @@ hunter-osterreich.at CNAME .
 hunter-srbija.com CNAME .
 hunter.offerstrack.net CNAME .
 hunterbootscanada.com CNAME .
-hunterbootsdublin.com CNAME .
 hunterbootsjapan.com CNAME .
 hunterbootsnz.com CNAME .
 hunterdelivery.com CNAME .
 hunterfinland.com CNAME .
 huntergermany.de CNAME .
-huntergumbootsaustralia.com CNAME .
 huntergummistiefel.de CNAME .
 huntergummistiefeloutlet.de CNAME .
 huntergummistiefeloutlets.de CNAME .
@@ -97506,7 +97465,6 @@ huntergummistiefelsoutlet.de CNAME .
 hunterheroiccompassion.com CNAME .
 hunteronlineshop.at CNAME .
 hunterpowersport.com CNAME .
-hunterregenlaarzen.com CNAME .
 huntersstiefel.at CNAME .
 hunterstiefel.at CNAME .
 huntersverige-se.com CNAME .
@@ -97867,7 +97825,6 @@ hynycrgzzevgb.space CNAME .
 hype-hoodies.com CNAME .
 hypedrip.top CNAME .
 hypelab.com CNAME .
-hypelaced.co CNAME .
 hyper-chiller.evyy.net CNAME .
 hyper-pools.com CNAME .
 hyperads.gotrackier.com CNAME .
@@ -98767,7 +98724,6 @@ icg8az.register.appsflyersdk.com CNAME .
 icg8az.skadsdkless.appsflyersdk.com CNAME .
 icgz9x.cdn-settings.appsflyersdk.com CNAME .
 ichannel.isnssdk.com CNAME .
-ichferkens.de CNAME .
 ichkaufegrundstuecke.de CNAME .
 ichulleroutes.cyou CNAME .
 ichwteqdufxed.website CNAME .
@@ -99251,7 +99207,6 @@ ieluqbvv.telemetry.connect.eu-central-1.amazonaws.com CNAME .
 ieluqbvv.telemetry.connect.eu-west-2.amazonaws.com CNAME .
 ieluqbvv.telemetry.connect.us-east-1.amazonaws.com CNAME .
 ieluqbvv.telemetry.connect.us-west-2.amazonaws.com CNAME .
-iemakluck.com CNAME .
 iemedyugz.com CNAME .
 iemiller.net CNAME .
 iemiq.com CNAME .
@@ -100191,7 +100146,6 @@ imagingprelawpuzzle.com CNAME .
 imaginte.com CNAME .
 imagnumhealthcare.com CNAME .
 imagzine.oppomobile.com CNAME .
-imalent.net CNAME .
 imali.g2afse.com CNAME .
 imap.adx1.com CNAME .
 imap.android12.logs.netflix.com CNAME .
@@ -100562,7 +100516,6 @@ immediate-coraldex.com CNAME .
 immediate-d.openx.net CNAME .
 immediate-dash.de CNAME .
 immediate-direct.com CNAME .
-immediate-edge2.com CNAME .
 immediate-flik.com CNAME .
 immediate-growth.com CNAME .
 immediate-momentum.com CNAME .
@@ -114755,6 +114708,7 @@ ljedck.cdn-settings.appsflyersdk.com CNAME .
 ljeeonnslhcmb.store CNAME .
 ljekarna-osijek.com CNAME .
 ljekarnacroatia.com CNAME .
+ljekarnahrvatska.com CNAME .
 ljgrjkosayabm.site CNAME .
 ljgwcsfopfmhok.com CNAME .
 ljhegojhmluyx.website CNAME .
@@ -119238,7 +119192,6 @@ market.cityads.com CNAME .
 market.darrowmere.com CNAME .
 market.epom.com CNAME .
 market.glenleigha.com CNAME .
-market.halewick.com CNAME .
 market.livaxxen.org CNAME .
 market.moonicorn.network CNAME .
 market.wsskj520.cn CNAME .
@@ -130382,6 +130335,7 @@ nk.upasesrehung.cyou CNAME .
 nk0e025o.emltrk.com CNAME .
 nkaczwsqxlolq.website CNAME .
 nkbfkirbnxdbo.site CNAME .
+nkbiobxn.shop CNAME .
 nkbnfrofocw.com CNAME .
 nkcdtumculrow.space CNAME .
 nkd-store.com CNAME .

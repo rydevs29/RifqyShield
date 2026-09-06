@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-06 07:44:12
-# Total Domains: 221,564
+# Last Updated: 2026-09-06 10:27:55
+# Total Domains: 221,518
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -40402,6 +40402,7 @@
 0.0.0.0 axabpelvjfqav.site
 0.0.0.0 axal.unmiredaahreclang.cyou
 0.0.0.0 axalta.wt-eu02.net
+0.0.0.0 axatechviewou.com
 0.0.0.0 axatileinv.mangoads.net
 0.0.0.0 axcqjjymlon.com
 0.0.0.0 axdzmrruiattf.website
@@ -45708,7 +45709,6 @@
 0.0.0.0 bitcoin-everest-ai.fr
 0.0.0.0 bitcoin-pharmacy.com
 0.0.0.0 bitcoin-revolution.org
-0.0.0.0 bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
 0.0.0.0 bitcoineer.ai
@@ -51459,6 +51459,7 @@
 0.0.0.0 catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu
 0.0.0.0 catalogue.advertising.amazon.dev
 0.0.0.0 cataloguedelay.com
+0.0.0.0 catalunyafarm.com
 0.0.0.0 catalyst-analytics.net
 0.0.0.0 catalyst.adgrx.com
 0.0.0.0 catalystcrown.com
@@ -89744,7 +89745,6 @@
 0.0.0.0 glanceinmobi-d.openx.net
 0.0.0.0 glandalongtruce.com
 0.0.0.0 glandscountrush.com
-0.0.0.0 glanzberg-mode.de
 0.0.0.0 glanzlampen.com
 0.0.0.0 glanzschuh.com
 0.0.0.0 glanzwiese.com
@@ -89970,7 +89970,6 @@
 0.0.0.0 globel.co.uk
 0.0.0.0 globeofnews.com
 0.0.0.0 globerotate.com
-0.0.0.0 globeschuheberlin.de
 0.0.0.0 globetrotter.excursiionline.ro
 0.0.0.0 globetrotteroutlet.de
 0.0.0.0 globior.com
@@ -89988,7 +89987,6 @@
 0.0.0.0 glooms.spumiercithara.qpon
 0.0.0.0 gloomyseason.com
 0.0.0.0 gloos-zus.info
-0.0.0.0 gloreve.com
 0.0.0.0 gloriaagrarianstatement.com
 0.0.0.0 gloriafreeway.com
 0.0.0.0 glorifynucleitripping.com
@@ -90023,7 +90021,6 @@
 0.0.0.0 glow-clubs-prod.ttpsdk.info
 0.0.0.0 glow-garden.com
 0.0.0.0 glow-garten.com
-0.0.0.0 glow-haven.de
 0.0.0.0 glow-lb-prod.ttpsdk.info
 0.0.0.0 glow-nt-prod.ttpsdk.info
 0.0.0.0 glowblend.de
@@ -90084,8 +90081,6 @@
 0.0.0.0 glurvextopin-at.at
 0.0.0.0 glurvextopin-gb.com
 0.0.0.0 glurvextopin-official.com
-0.0.0.0 glurvextopin.at
-0.0.0.0 gluschwein.de
 0.0.0.0 gluservices.s3.amazonaws.com
 0.0.0.0 glusidforwake.qpon
 0.0.0.0 glutenmuttsensuous.com
@@ -90132,7 +90127,6 @@
 0.0.0.0 gmenhq.com
 0.0.0.0 gmetrics.getbeamer.com
 0.0.0.0 gmevents.ae
-0.0.0.0 gmfcar-sol.com
 0.0.0.0 gmfcfejaqmkma.online
 0.0.0.0 gmfddfrtsmjym.space
 0.0.0.0 gmfkrivpnkhnb.website
@@ -90743,7 +90737,6 @@
 0.0.0.0 gogames.g2afse.com
 0.0.0.0 gogdik.cdn-settings.appsflyersdk.com
 0.0.0.0 gogetlinks.net
-0.0.0.0 gogetrxonline.com
 0.0.0.0 gogistar.com
 0.0.0.0 gogosearlier.cfd
 0.0.0.0 gogpusley.qpon
@@ -90800,7 +90793,6 @@
 0.0.0.0 goldengoose-austria.myshoplaza.com
 0.0.0.0 goldengoose3282521z.btttag.com
 0.0.0.0 goldengoosesale.at
-0.0.0.0 goldengoosesale.de
 0.0.0.0 goldenmarine.net
 0.0.0.0 goldenngoosee.com
 0.0.0.0 goldenpandacasino-online.de
@@ -91618,7 +91610,6 @@
 0.0.0.0 greenlabelfrancisco.com
 0.0.0.0 greenlight.cname.getrockerbox.com
 0.0.0.0 greenlightclix.xml-v4.ak-is2.net
-0.0.0.0 greenmah.shop
 0.0.0.0 greenpeace01.webtrekk.net
 0.0.0.0 greenplasticdua.com
 0.0.0.0 greenporntube.info
@@ -91716,7 +91707,6 @@
 0.0.0.0 grillwelten.com
 0.0.0.0 grillwizz-grillreiniger.de
 0.0.0.0 grillwry.com
-0.0.0.0 grillzentrale.shop
 0.0.0.0 grillzentrum.com
 0.0.0.0 grillzubehoer-de.com
 0.0.0.0 grim-duty.pro
@@ -91855,7 +91845,6 @@
 0.0.0.0 grow.me
 0.0.0.0 grow.slideruleanalytics.com
 0.0.0.0 grow.urbandictionary.network
-0.0.0.0 growano.com
 0.0.0.0 growave.io
 0.0.0.0 groweyelid.com
 0.0.0.0 growingcat.com
@@ -92092,7 +92081,6 @@
 0.0.0.0 gsumjooasiufl.site
 0.0.0.0 gsw.mybluehost.me
 0.0.0.0 gswondenthaiti.org
-0.0.0.0 gswoutfit.shop
 0.0.0.0 gswpucfwjokxw.site
 0.0.0.0 gsxytzcnwtyht.online
 0.0.0.0 gsync.adtelligent.com
@@ -92477,7 +92465,6 @@
 0.0.0.0 gunselscyan.shop
 0.0.0.0 gunsforsalesusa.com
 0.0.0.0 gunshackammo.com
-0.0.0.0 gunstigeskaufhaus.com
 0.0.0.0 gunzblazingpromo.com
 0.0.0.0 guoiriawxkaew.website
 0.0.0.0 guoshipartners.com
@@ -92542,7 +92529,6 @@
 0.0.0.0 gutscheinglueck24.de
 0.0.0.0 guttateelance.qpon
 0.0.0.0 guttldzqtedhr.space
-0.0.0.0 gutumzug.at
 0.0.0.0 gutuymfvnw1bvpeg.cfd
 0.0.0.0 guuulmhvdijwj.space
 0.0.0.0 guuzmczcfmhnt.com
@@ -93271,7 +93257,6 @@
 0.0.0.0 ha99991b7i.kameleoon.io
 0.0.0.0 haa3j9plpi-default-cn.rum.aliyuncs.com
 0.0.0.0 haaqt4.launches.appsflyersdk.com
-0.0.0.0 haareparfum.com
 0.0.0.0 haaretz.pushwoosh.com
 0.0.0.0 haarpflegehaut.com
 0.0.0.0 haarprofis.com
@@ -93479,7 +93464,6 @@
 0.0.0.0 halloth.poetessdwarf.cfd
 0.0.0.0 hallowchimin.shop
 0.0.0.0 halloween-manufaktur.de
-0.0.0.0 halloween-maskenmanufaktur.de
 0.0.0.0 halloweencostumes-us.attn.tv
 0.0.0.0 halloweencostumes.attn.tv
 0.0.0.0 halloweendekoration.com
@@ -93644,7 +93628,6 @@
 0.0.0.0 hans-fahrradhaus.de
 0.0.0.0 hansacontainergmbh.de
 0.0.0.0 hansatraileranhanger-de.com
-0.0.0.0 hanse-consol.de
 0.0.0.0 hanse.erytheathrobnugae.cyou
 0.0.0.0 hansel.fratryvitialracemed.cfd
 0.0.0.0 hansels.coughergot.cfd
@@ -93772,7 +93755,6 @@
 0.0.0.0 harmless-prior.pro
 0.0.0.0 harmlesstranquilizer.com
 0.0.0.0 harmoniouy.com
-0.0.0.0 harmony-ambiento.shop
 0.0.0.0 harmonyachieveacq.api.useinsider.com
 0.0.0.0 harmonyalmbienteoutlet.shop
 0.0.0.0 harmootpembina.cyou
@@ -93780,7 +93762,6 @@
 0.0.0.0 harped.erikengager.shop
 0.0.0.0 harped.joachimhunting.qpon
 0.0.0.0 harpercollins.shop
-0.0.0.0 harperyoung.shop
 0.0.0.0 harpiessassingprince.cyou
 0.0.0.0 harpselodes.shop
 0.0.0.0 harrahslv.7eer.net
@@ -93929,7 +93910,6 @@
 0.0.0.0 haushaltsheld.com
 0.0.0.0 haushaltskoenig.de
 0.0.0.0 haushaltsreich.de
-0.0.0.0 hausmez.de
 0.0.0.0 hausmobel-de.com
 0.0.0.0 hausofvedashop.com
 0.0.0.0 hausonline24.com
@@ -93945,7 +93925,6 @@
 0.0.0.0 haustierstolz.de
 0.0.0.0 haustirwelten.de
 0.0.0.0 hausture.com
-0.0.0.0 hausundgarten.haus
 0.0.0.0 hausundwerkzeug.com
 0.0.0.0 hausundwerkzeuge.store
 0.0.0.0 hausversand.com
@@ -94428,7 +94407,6 @@
 0.0.0.0 headquartersfallclassify.com
 0.0.0.0 headspin.io
 0.0.0.0 headsupbaby.com
-0.0.0.0 headtennistownde.com
 0.0.0.0 headway-widget.net
 0.0.0.0 healed.wappatopunnerzaurak.qpon
 0.0.0.0 healflowers.com
@@ -94448,7 +94426,6 @@
 0.0.0.0 healthit.live
 0.0.0.0 healthlifereport.com
 0.0.0.0 healthline-com.videoplayerhub.com
-0.0.0.0 healthonlineshop24.com
 0.0.0.0 healthpillsonline.com
 0.0.0.0 healthroundprince.com
 0.0.0.0 healthroutine.com
@@ -94605,7 +94582,6 @@
 0.0.0.0 heimspeichern.com
 0.0.0.0 heimvoll.de
 0.0.0.0 heimwerkende.de
-0.0.0.0 heimwerkerpro.com
 0.0.0.0 heimwerkzeugesde.com
 0.0.0.0 heinbfmpsdxnv.online
 0.0.0.0 heinemann.blueconic.net
@@ -94674,7 +94650,6 @@
 0.0.0.0 heizoel-held.de
 0.0.0.0 heizoel-kalkulator.de
 0.0.0.0 heizoel-liefern.de
-0.0.0.0 heizoel-rabatt.de
 0.0.0.0 heizoel-schnell-gmbh.de
 0.0.0.0 heizoel-station.com
 0.0.0.0 heizoel-tankstelle.de
@@ -94731,12 +94706,10 @@
 0.0.0.0 heizungsolar.com
 0.0.0.0 heizungstechnik-online.de
 0.0.0.0 heizungstechworld.com
-0.0.0.0 heizungszubehoer.com
 0.0.0.0 heizungundklimawelt.com
 0.0.0.0 heizuri.de
 0.0.0.0 heizwelt.com
 0.0.0.0 heizwelt24.de
-0.0.0.0 heizwelt24.shop
 0.0.0.0 heizx.de
 0.0.0.0 heizzu.de
 0.0.0.0 hejego-inapps.appsflyersdk.com
@@ -94860,7 +94833,6 @@
 0.0.0.0 helpersng.taboola.com
 0.0.0.0 helpertrk.com
 0.0.0.0 helpfulcloister.com
-0.0.0.0 helpfulmedicalstore.com
 0.0.0.0 helphumanityorg.com
 0.0.0.0 helplive-ledger.com
 0.0.0.0 helpnetsecurity.matomo.cloud
@@ -94918,7 +94890,6 @@
 0.0.0.0 henterjacksaw.com
 0.0.0.0 henwisedug.top
 0.0.0.0 henyardwrister.cfd
-0.0.0.0 henylife.shop
 0.0.0.0 henzxztnnwmhp.website
 0.0.0.0 heo0md.adrevenue.appsflyersdk.com
 0.0.0.0 heo0md.cdn-settings.appsflyersdk.com
@@ -94977,7 +94948,6 @@
 0.0.0.0 hermes.banan.cz
 0.0.0.0 hermes.hupu.com
 0.0.0.0 hermes.jd.com
-0.0.0.0 hermesfod.shop
 0.0.0.0 hermestest01.webtrekk.net
 0.0.0.0 hermhoffer.de
 0.0.0.0 hermichermicgenerationhers.com
@@ -95365,7 +95335,6 @@
 0.0.0.0 high-quality-model.com
 0.0.0.0 high.ue1.prd.aws.cloud.arity.com
 0.0.0.0 highbroker.com
-0.0.0.0 highbtcstock.com
 0.0.0.0 highcloudmining.org
 0.0.0.0 highconvertingformats.com
 0.0.0.0 highcpmcreativeformat.com
@@ -95456,7 +95425,6 @@
 0.0.0.0 hilde-taschen.de
 0.0.0.0 hildebrandt-bekleidung.de
 0.0.0.0 hildebrandtfashion.de
-0.0.0.0 hildegunter.com
 0.0.0.0 hilerant.site
 0.0.0.0 hilfeexpress.com
 0.0.0.0 hilfenervenschmerzen.com
@@ -95771,7 +95739,6 @@
 0.0.0.0 hkjwazawuwxiy.online
 0.0.0.0 hkkbhxlf.com
 0.0.0.0 hkkhsppnknkoy.space
-0.0.0.0 hkm-sport.shop
 0.0.0.0 hkmhkmprodkdealerplus.112.2o7.net
 0.0.0.0 hkmkiatier3prod.112.2o7.net
 0.0.0.0 hkn.uac75.hknet.com
@@ -95827,7 +95794,6 @@
 0.0.0.0 hlene.com
 0.0.0.0 hleofj.cdn-settings.appsflyersdk.com
 0.0.0.0 hler.finnipcinclis.cyou
-0.0.0.0 hlf-gestion-or.com
 0.0.0.0 hlf.mybluehost.me
 0.0.0.0 hlfzx.inppcdn.com
 0.0.0.0 hlgdxdfwnqqug.online
@@ -95936,7 +95902,6 @@
 0.0.0.0 hmayks.cdn-settings.appsflyersdk.com
 0.0.0.0 hmayks.launches.appsflyersdk.com
 0.0.0.0 hmbcvhxbz.com
-0.0.0.0 hmbgroup.at
 0.0.0.0 hmdypadvcolcw.space
 0.0.0.0 hme-live-loganalytics-namespace.servicebus.windows.net
 0.0.0.0 hme-uat-loganalytics-namespace.servicebus.windows.net
@@ -96217,7 +96182,6 @@
 0.0.0.0 holzbrenn.de
 0.0.0.0 holzbriketts-kaufen.com
 0.0.0.0 holzbriketts-profi.de
-0.0.0.0 holzcuten.de
 0.0.0.0 holzd24.com
 0.0.0.0 holzerneblocke.com
 0.0.0.0 holzfursfeuer.de
@@ -96238,7 +96202,6 @@
 0.0.0.0 holznotenpulte.de
 0.0.0.0 holzpelletshop.com
 0.0.0.0 holzqualitat.de
-0.0.0.0 holzstreif.de
 0.0.0.0 holzti.com
 0.0.0.0 holzundkunststueble.de
 0.0.0.0 holzundwerkzeug-bestequalitat.de
@@ -96333,7 +96296,6 @@
 0.0.0.0 homer.playground.rokt.com
 0.0.0.0 homersport.de
 0.0.0.0 homerunfood.com
-0.0.0.0 homerungrocers.com
 0.0.0.0 homes.bg
 0.0.0.0 homeserve.pxf.io
 0.0.0.0 homesicktheseheld.com
@@ -97301,7 +97263,6 @@
 0.0.0.0 hubcloud.com.cn
 0.0.0.0 hubdigitalads.com
 0.0.0.0 hubeamily.com
-0.0.0.0 huber-wien.com
 0.0.0.0 huberd.com
 0.0.0.0 hubers-salzburg.at
 0.0.0.0 hubertkotschnig.at
@@ -97494,13 +97455,11 @@
 0.0.0.0 hunter-srbija.com
 0.0.0.0 hunter.offerstrack.net
 0.0.0.0 hunterbootscanada.com
-0.0.0.0 hunterbootsdublin.com
 0.0.0.0 hunterbootsjapan.com
 0.0.0.0 hunterbootsnz.com
 0.0.0.0 hunterdelivery.com
 0.0.0.0 hunterfinland.com
 0.0.0.0 huntergermany.de
-0.0.0.0 huntergumbootsaustralia.com
 0.0.0.0 huntergummistiefel.de
 0.0.0.0 huntergummistiefeloutlet.de
 0.0.0.0 huntergummistiefeloutlets.de
@@ -97508,7 +97467,6 @@
 0.0.0.0 hunterheroiccompassion.com
 0.0.0.0 hunteronlineshop.at
 0.0.0.0 hunterpowersport.com
-0.0.0.0 hunterregenlaarzen.com
 0.0.0.0 huntersstiefel.at
 0.0.0.0 hunterstiefel.at
 0.0.0.0 huntersverige-se.com
@@ -97869,7 +97827,6 @@
 0.0.0.0 hype-hoodies.com
 0.0.0.0 hypedrip.top
 0.0.0.0 hypelab.com
-0.0.0.0 hypelaced.co
 0.0.0.0 hyper-chiller.evyy.net
 0.0.0.0 hyper-pools.com
 0.0.0.0 hyperads.gotrackier.com
@@ -98769,7 +98726,6 @@
 0.0.0.0 icg8az.skadsdkless.appsflyersdk.com
 0.0.0.0 icgz9x.cdn-settings.appsflyersdk.com
 0.0.0.0 ichannel.isnssdk.com
-0.0.0.0 ichferkens.de
 0.0.0.0 ichkaufegrundstuecke.de
 0.0.0.0 ichulleroutes.cyou
 0.0.0.0 ichwteqdufxed.website
@@ -99253,7 +99209,6 @@
 0.0.0.0 ieluqbvv.telemetry.connect.eu-west-2.amazonaws.com
 0.0.0.0 ieluqbvv.telemetry.connect.us-east-1.amazonaws.com
 0.0.0.0 ieluqbvv.telemetry.connect.us-west-2.amazonaws.com
-0.0.0.0 iemakluck.com
 0.0.0.0 iemedyugz.com
 0.0.0.0 iemiller.net
 0.0.0.0 iemiq.com
@@ -100193,7 +100148,6 @@
 0.0.0.0 imaginte.com
 0.0.0.0 imagnumhealthcare.com
 0.0.0.0 imagzine.oppomobile.com
-0.0.0.0 imalent.net
 0.0.0.0 imali.g2afse.com
 0.0.0.0 imap.adx1.com
 0.0.0.0 imap.android12.logs.netflix.com
@@ -100564,7 +100518,6 @@
 0.0.0.0 immediate-d.openx.net
 0.0.0.0 immediate-dash.de
 0.0.0.0 immediate-direct.com
-0.0.0.0 immediate-edge2.com
 0.0.0.0 immediate-flik.com
 0.0.0.0 immediate-growth.com
 0.0.0.0 immediate-momentum.com
@@ -114757,6 +114710,7 @@
 0.0.0.0 ljeeonnslhcmb.store
 0.0.0.0 ljekarna-osijek.com
 0.0.0.0 ljekarnacroatia.com
+0.0.0.0 ljekarnahrvatska.com
 0.0.0.0 ljgrjkosayabm.site
 0.0.0.0 ljgwcsfopfmhok.com
 0.0.0.0 ljhegojhmluyx.website
@@ -119240,7 +119194,6 @@
 0.0.0.0 market.darrowmere.com
 0.0.0.0 market.epom.com
 0.0.0.0 market.glenleigha.com
-0.0.0.0 market.halewick.com
 0.0.0.0 market.livaxxen.org
 0.0.0.0 market.moonicorn.network
 0.0.0.0 market.wsskj520.cn
@@ -130384,6 +130337,7 @@
 0.0.0.0 nk0e025o.emltrk.com
 0.0.0.0 nkaczwsqxlolq.website
 0.0.0.0 nkbfkirbnxdbo.site
+0.0.0.0 nkbiobxn.shop
 0.0.0.0 nkbnfrofocw.com
 0.0.0.0 nkcdtumculrow.space
 0.0.0.0 nkd-store.com

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-06 07:44:12
-# Total Domains: 221,564
+# Last Updated: 2026-09-06 10:27:55
+# Total Domains: 221,518
 # ==========================================
 /ip dns static
 add name="0-1.ir" address=0.0.0.0
@@ -40401,6 +40401,7 @@ add name="ax20180902.everesttech.net" address=0.0.0.0
 add name="axabpelvjfqav.site" address=0.0.0.0
 add name="axal.unmiredaahreclang.cyou" address=0.0.0.0
 add name="axalta.wt-eu02.net" address=0.0.0.0
+add name="axatechviewou.com" address=0.0.0.0
 add name="axatileinv.mangoads.net" address=0.0.0.0
 add name="axcqjjymlon.com" address=0.0.0.0
 add name="axdzmrruiattf.website" address=0.0.0.0
@@ -45707,7 +45708,6 @@ add name="bitcodeprime.org" address=0.0.0.0
 add name="bitcoin-everest-ai.fr" address=0.0.0.0
 add name="bitcoin-pharmacy.com" address=0.0.0.0
 add name="bitcoin-revolution.org" address=0.0.0.0
-add name="bitcoin-up.io" address=0.0.0.0
 add name="bitcoin-xact.fr" address=0.0.0.0
 add name="bitcoinarchon.com" address=0.0.0.0
 add name="bitcoineer.ai" address=0.0.0.0
@@ -51458,6 +51458,7 @@ add name="catalogapi.azure.com.office.euo.qaeuprod202.myshn.eu" address=0.0.0.0
 add name="catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu" address=0.0.0.0
 add name="catalogue.advertising.amazon.dev" address=0.0.0.0
 add name="cataloguedelay.com" address=0.0.0.0
+add name="catalunyafarm.com" address=0.0.0.0
 add name="catalyst-analytics.net" address=0.0.0.0
 add name="catalyst.adgrx.com" address=0.0.0.0
 add name="catalystcrown.com" address=0.0.0.0
@@ -89743,7 +89744,6 @@ add name="glancedsecretion.com" address=0.0.0.0
 add name="glanceinmobi-d.openx.net" address=0.0.0.0
 add name="glandalongtruce.com" address=0.0.0.0
 add name="glandscountrush.com" address=0.0.0.0
-add name="glanzberg-mode.de" address=0.0.0.0
 add name="glanzlampen.com" address=0.0.0.0
 add name="glanzschuh.com" address=0.0.0.0
 add name="glanzwiese.com" address=0.0.0.0
@@ -89969,7 +89969,6 @@ add name="globein-subscription.7eer.net" address=0.0.0.0
 add name="globel.co.uk" address=0.0.0.0
 add name="globeofnews.com" address=0.0.0.0
 add name="globerotate.com" address=0.0.0.0
-add name="globeschuheberlin.de" address=0.0.0.0
 add name="globetrotter.excursiionline.ro" address=0.0.0.0
 add name="globetrotteroutlet.de" address=0.0.0.0
 add name="globior.com" address=0.0.0.0
@@ -89987,7 +89986,6 @@ add name="gloneotech.de" address=0.0.0.0
 add name="glooms.spumiercithara.qpon" address=0.0.0.0
 add name="gloomyseason.com" address=0.0.0.0
 add name="gloos-zus.info" address=0.0.0.0
-add name="gloreve.com" address=0.0.0.0
 add name="gloriaagrarianstatement.com" address=0.0.0.0
 add name="gloriafreeway.com" address=0.0.0.0
 add name="glorifynucleitripping.com" address=0.0.0.0
@@ -90022,7 +90020,6 @@ add name="glow-broker-prod.ttpsdk.info" address=0.0.0.0
 add name="glow-clubs-prod.ttpsdk.info" address=0.0.0.0
 add name="glow-garden.com" address=0.0.0.0
 add name="glow-garten.com" address=0.0.0.0
-add name="glow-haven.de" address=0.0.0.0
 add name="glow-lb-prod.ttpsdk.info" address=0.0.0.0
 add name="glow-nt-prod.ttpsdk.info" address=0.0.0.0
 add name="glowblend.de" address=0.0.0.0
@@ -90083,8 +90080,6 @@ add name="glumsynemasmitham.cyou" address=0.0.0.0
 add name="glurvextopin-at.at" address=0.0.0.0
 add name="glurvextopin-gb.com" address=0.0.0.0
 add name="glurvextopin-official.com" address=0.0.0.0
-add name="glurvextopin.at" address=0.0.0.0
-add name="gluschwein.de" address=0.0.0.0
 add name="gluservices.s3.amazonaws.com" address=0.0.0.0
 add name="glusidforwake.qpon" address=0.0.0.0
 add name="glutenmuttsensuous.com" address=0.0.0.0
@@ -90131,7 +90126,6 @@ add name="gmemkuflmihes.online" address=0.0.0.0
 add name="gmenhq.com" address=0.0.0.0
 add name="gmetrics.getbeamer.com" address=0.0.0.0
 add name="gmevents.ae" address=0.0.0.0
-add name="gmfcar-sol.com" address=0.0.0.0
 add name="gmfcfejaqmkma.online" address=0.0.0.0
 add name="gmfddfrtsmjym.space" address=0.0.0.0
 add name="gmfkrivpnkhnb.website" address=0.0.0.0
@@ -90742,7 +90736,6 @@ add name="goforbest.top" address=0.0.0.0
 add name="gogames.g2afse.com" address=0.0.0.0
 add name="gogdik.cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="gogetlinks.net" address=0.0.0.0
-add name="gogetrxonline.com" address=0.0.0.0
 add name="gogistar.com" address=0.0.0.0
 add name="gogosearlier.cfd" address=0.0.0.0
 add name="gogpusley.qpon" address=0.0.0.0
@@ -90799,7 +90792,6 @@ add name="goldendev.win" address=0.0.0.0
 add name="goldengoose-austria.myshoplaza.com" address=0.0.0.0
 add name="goldengoose3282521z.btttag.com" address=0.0.0.0
 add name="goldengoosesale.at" address=0.0.0.0
-add name="goldengoosesale.de" address=0.0.0.0
 add name="goldenmarine.net" address=0.0.0.0
 add name="goldenngoosee.com" address=0.0.0.0
 add name="goldenpandacasino-online.de" address=0.0.0.0
@@ -91617,7 +91609,6 @@ add name="greenhousewarehouse.ojrq.net" address=0.0.0.0
 add name="greenlabelfrancisco.com" address=0.0.0.0
 add name="greenlight.cname.getrockerbox.com" address=0.0.0.0
 add name="greenlightclix.xml-v4.ak-is2.net" address=0.0.0.0
-add name="greenmah.shop" address=0.0.0.0
 add name="greenpeace01.webtrekk.net" address=0.0.0.0
 add name="greenplasticdua.com" address=0.0.0.0
 add name="greenporntube.info" address=0.0.0.0
@@ -91715,7 +91706,6 @@ add name="grillterrasse.com" address=0.0.0.0
 add name="grillwelten.com" address=0.0.0.0
 add name="grillwizz-grillreiniger.de" address=0.0.0.0
 add name="grillwry.com" address=0.0.0.0
-add name="grillzentrale.shop" address=0.0.0.0
 add name="grillzentrum.com" address=0.0.0.0
 add name="grillzubehoer-de.com" address=0.0.0.0
 add name="grim-duty.pro" address=0.0.0.0
@@ -91854,7 +91844,6 @@ add name="grow.gab.com" address=0.0.0.0
 add name="grow.me" address=0.0.0.0
 add name="grow.slideruleanalytics.com" address=0.0.0.0
 add name="grow.urbandictionary.network" address=0.0.0.0
-add name="growano.com" address=0.0.0.0
 add name="growave.io" address=0.0.0.0
 add name="groweyelid.com" address=0.0.0.0
 add name="growingcat.com" address=0.0.0.0
@@ -92091,7 +92080,6 @@ add name="gsujiu.cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="gsumjooasiufl.site" address=0.0.0.0
 add name="gsw.mybluehost.me" address=0.0.0.0
 add name="gswondenthaiti.org" address=0.0.0.0
-add name="gswoutfit.shop" address=0.0.0.0
 add name="gswpucfwjokxw.site" address=0.0.0.0
 add name="gsxytzcnwtyht.online" address=0.0.0.0
 add name="gsync.adtelligent.com" address=0.0.0.0
@@ -92476,7 +92464,6 @@ add name="gunsel.stemmybeltian.cfd" address=0.0.0.0
 add name="gunselscyan.shop" address=0.0.0.0
 add name="gunsforsalesusa.com" address=0.0.0.0
 add name="gunshackammo.com" address=0.0.0.0
-add name="gunstigeskaufhaus.com" address=0.0.0.0
 add name="gunzblazingpromo.com" address=0.0.0.0
 add name="guoiriawxkaew.website" address=0.0.0.0
 add name="guoshipartners.com" address=0.0.0.0
@@ -92541,7 +92528,6 @@ add name="gutmotorradteile.com" address=0.0.0.0
 add name="gutscheinglueck24.de" address=0.0.0.0
 add name="guttateelance.qpon" address=0.0.0.0
 add name="guttldzqtedhr.space" address=0.0.0.0
-add name="gutumzug.at" address=0.0.0.0
 add name="gutuymfvnw1bvpeg.cfd" address=0.0.0.0
 add name="guuulmhvdijwj.space" address=0.0.0.0
 add name="guuzmczcfmhnt.com" address=0.0.0.0
@@ -93270,7 +93256,6 @@ add name="ha4ai2flb.puzztake.com" address=0.0.0.0
 add name="ha99991b7i.kameleoon.io" address=0.0.0.0
 add name="haa3j9plpi-default-cn.rum.aliyuncs.com" address=0.0.0.0
 add name="haaqt4.launches.appsflyersdk.com" address=0.0.0.0
-add name="haareparfum.com" address=0.0.0.0
 add name="haaretz.pushwoosh.com" address=0.0.0.0
 add name="haarpflegehaut.com" address=0.0.0.0
 add name="haarprofis.com" address=0.0.0.0
@@ -93478,7 +93463,6 @@ add name="halloosreacher.com" address=0.0.0.0
 add name="halloth.poetessdwarf.cfd" address=0.0.0.0
 add name="hallowchimin.shop" address=0.0.0.0
 add name="halloween-manufaktur.de" address=0.0.0.0
-add name="halloween-maskenmanufaktur.de" address=0.0.0.0
 add name="halloweencostumes-us.attn.tv" address=0.0.0.0
 add name="halloweencostumes.attn.tv" address=0.0.0.0
 add name="halloweendekoration.com" address=0.0.0.0
@@ -93643,7 +93627,6 @@ add name="hans-engelke-energie.de" address=0.0.0.0
 add name="hans-fahrradhaus.de" address=0.0.0.0
 add name="hansacontainergmbh.de" address=0.0.0.0
 add name="hansatraileranhanger-de.com" address=0.0.0.0
-add name="hanse-consol.de" address=0.0.0.0
 add name="hanse.erytheathrobnugae.cyou" address=0.0.0.0
 add name="hansel.fratryvitialracemed.cfd" address=0.0.0.0
 add name="hansels.coughergot.cfd" address=0.0.0.0
@@ -93771,7 +93754,6 @@ add name="harmful-park.com" address=0.0.0.0
 add name="harmless-prior.pro" address=0.0.0.0
 add name="harmlesstranquilizer.com" address=0.0.0.0
 add name="harmoniouy.com" address=0.0.0.0
-add name="harmony-ambiento.shop" address=0.0.0.0
 add name="harmonyachieveacq.api.useinsider.com" address=0.0.0.0
 add name="harmonyalmbienteoutlet.shop" address=0.0.0.0
 add name="harmootpembina.cyou" address=0.0.0.0
@@ -93779,7 +93761,6 @@ add name="harosetbelar.cfd" address=0.0.0.0
 add name="harped.erikengager.shop" address=0.0.0.0
 add name="harped.joachimhunting.qpon" address=0.0.0.0
 add name="harpercollins.shop" address=0.0.0.0
-add name="harperyoung.shop" address=0.0.0.0
 add name="harpiessassingprince.cyou" address=0.0.0.0
 add name="harpselodes.shop" address=0.0.0.0
 add name="harrahslv.7eer.net" address=0.0.0.0
@@ -93928,7 +93909,6 @@ add name="haushaltsgeratemarkt.com" address=0.0.0.0
 add name="haushaltsheld.com" address=0.0.0.0
 add name="haushaltskoenig.de" address=0.0.0.0
 add name="haushaltsreich.de" address=0.0.0.0
-add name="hausmez.de" address=0.0.0.0
 add name="hausmobel-de.com" address=0.0.0.0
 add name="hausofvedashop.com" address=0.0.0.0
 add name="hausonline24.com" address=0.0.0.0
@@ -93944,7 +93924,6 @@ add name="haustiereshop.com" address=0.0.0.0
 add name="haustierstolz.de" address=0.0.0.0
 add name="haustirwelten.de" address=0.0.0.0
 add name="hausture.com" address=0.0.0.0
-add name="hausundgarten.haus" address=0.0.0.0
 add name="hausundwerkzeug.com" address=0.0.0.0
 add name="hausundwerkzeuge.store" address=0.0.0.0
 add name="hausversand.com" address=0.0.0.0
@@ -94427,7 +94406,6 @@ add name="headphonedilution.com" address=0.0.0.0
 add name="headquartersfallclassify.com" address=0.0.0.0
 add name="headspin.io" address=0.0.0.0
 add name="headsupbaby.com" address=0.0.0.0
-add name="headtennistownde.com" address=0.0.0.0
 add name="headway-widget.net" address=0.0.0.0
 add name="healed.wappatopunnerzaurak.qpon" address=0.0.0.0
 add name="healflowers.com" address=0.0.0.0
@@ -94447,7 +94425,6 @@ add name="healthful-pills.com" address=0.0.0.0
 add name="healthit.live" address=0.0.0.0
 add name="healthlifereport.com" address=0.0.0.0
 add name="healthline-com.videoplayerhub.com" address=0.0.0.0
-add name="healthonlineshop24.com" address=0.0.0.0
 add name="healthpillsonline.com" address=0.0.0.0
 add name="healthroundprince.com" address=0.0.0.0
 add name="healthroutine.com" address=0.0.0.0
@@ -94604,7 +94581,6 @@ add name="heimprofis.de" address=0.0.0.0
 add name="heimspeichern.com" address=0.0.0.0
 add name="heimvoll.de" address=0.0.0.0
 add name="heimwerkende.de" address=0.0.0.0
-add name="heimwerkerpro.com" address=0.0.0.0
 add name="heimwerkzeugesde.com" address=0.0.0.0
 add name="heinbfmpsdxnv.online" address=0.0.0.0
 add name="heinemann.blueconic.net" address=0.0.0.0
@@ -94673,7 +94649,6 @@ add name="heizoel-fuchs24.de" address=0.0.0.0
 add name="heizoel-held.de" address=0.0.0.0
 add name="heizoel-kalkulator.de" address=0.0.0.0
 add name="heizoel-liefern.de" address=0.0.0.0
-add name="heizoel-rabatt.de" address=0.0.0.0
 add name="heizoel-schnell-gmbh.de" address=0.0.0.0
 add name="heizoel-station.com" address=0.0.0.0
 add name="heizoel-tankstelle.de" address=0.0.0.0
@@ -94730,12 +94705,10 @@ add name="heizungsinsel.de" address=0.0.0.0
 add name="heizungsolar.com" address=0.0.0.0
 add name="heizungstechnik-online.de" address=0.0.0.0
 add name="heizungstechworld.com" address=0.0.0.0
-add name="heizungszubehoer.com" address=0.0.0.0
 add name="heizungundklimawelt.com" address=0.0.0.0
 add name="heizuri.de" address=0.0.0.0
 add name="heizwelt.com" address=0.0.0.0
 add name="heizwelt24.de" address=0.0.0.0
-add name="heizwelt24.shop" address=0.0.0.0
 add name="heizx.de" address=0.0.0.0
 add name="heizzu.de" address=0.0.0.0
 add name="hejego-inapps.appsflyersdk.com" address=0.0.0.0
@@ -94859,7 +94832,6 @@ add name="helpers.publisherdesk.com" address=0.0.0.0
 add name="helpersng.taboola.com" address=0.0.0.0
 add name="helpertrk.com" address=0.0.0.0
 add name="helpfulcloister.com" address=0.0.0.0
-add name="helpfulmedicalstore.com" address=0.0.0.0
 add name="helphumanityorg.com" address=0.0.0.0
 add name="helplive-ledger.com" address=0.0.0.0
 add name="helpnetsecurity.matomo.cloud" address=0.0.0.0
@@ -94917,7 +94889,6 @@ add name="hentaitracking.com" address=0.0.0.0
 add name="henterjacksaw.com" address=0.0.0.0
 add name="henwisedug.top" address=0.0.0.0
 add name="henyardwrister.cfd" address=0.0.0.0
-add name="henylife.shop" address=0.0.0.0
 add name="henzxztnnwmhp.website" address=0.0.0.0
 add name="heo0md.adrevenue.appsflyersdk.com" address=0.0.0.0
 add name="heo0md.cdn-settings.appsflyersdk.com" address=0.0.0.0
@@ -94976,7 +94947,6 @@ add name="hermes.adopsboost.com" address=0.0.0.0
 add name="hermes.banan.cz" address=0.0.0.0
 add name="hermes.hupu.com" address=0.0.0.0
 add name="hermes.jd.com" address=0.0.0.0
-add name="hermesfod.shop" address=0.0.0.0
 add name="hermestest01.webtrekk.net" address=0.0.0.0
 add name="hermhoffer.de" address=0.0.0.0
 add name="hermichermicgenerationhers.com" address=0.0.0.0
@@ -95364,7 +95334,6 @@ add name="high-on-ads.com" address=0.0.0.0
 add name="high-quality-model.com" address=0.0.0.0
 add name="high.ue1.prd.aws.cloud.arity.com" address=0.0.0.0
 add name="highbroker.com" address=0.0.0.0
-add name="highbtcstock.com" address=0.0.0.0
 add name="highcloudmining.org" address=0.0.0.0
 add name="highconvertingformats.com" address=0.0.0.0
 add name="highcpmcreativeformat.com" address=0.0.0.0
@@ -95455,7 +95424,6 @@ add name="hildas-waren.de" address=0.0.0.0
 add name="hilde-taschen.de" address=0.0.0.0
 add name="hildebrandt-bekleidung.de" address=0.0.0.0
 add name="hildebrandtfashion.de" address=0.0.0.0
-add name="hildegunter.com" address=0.0.0.0
 add name="hilerant.site" address=0.0.0.0
 add name="hilfeexpress.com" address=0.0.0.0
 add name="hilfenervenschmerzen.com" address=0.0.0.0
@@ -95770,7 +95738,6 @@ add name="hkjc.glassboxdigital.io" address=0.0.0.0
 add name="hkjwazawuwxiy.online" address=0.0.0.0
 add name="hkkbhxlf.com" address=0.0.0.0
 add name="hkkhsppnknkoy.space" address=0.0.0.0
-add name="hkm-sport.shop" address=0.0.0.0
 add name="hkmhkmprodkdealerplus.112.2o7.net" address=0.0.0.0
 add name="hkmkiatier3prod.112.2o7.net" address=0.0.0.0
 add name="hkn.uac75.hknet.com" address=0.0.0.0
@@ -95826,7 +95793,6 @@ add name="hlelu.com" address=0.0.0.0
 add name="hlene.com" address=0.0.0.0
 add name="hleofj.cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="hler.finnipcinclis.cyou" address=0.0.0.0
-add name="hlf-gestion-or.com" address=0.0.0.0
 add name="hlf.mybluehost.me" address=0.0.0.0
 add name="hlfzx.inppcdn.com" address=0.0.0.0
 add name="hlgdxdfwnqqug.online" address=0.0.0.0
@@ -95935,7 +95901,6 @@ add name="hmaqcp.launches.appsflyersdk.com" address=0.0.0.0
 add name="hmayks.cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="hmayks.launches.appsflyersdk.com" address=0.0.0.0
 add name="hmbcvhxbz.com" address=0.0.0.0
-add name="hmbgroup.at" address=0.0.0.0
 add name="hmdypadvcolcw.space" address=0.0.0.0
 add name="hme-live-loganalytics-namespace.servicebus.windows.net" address=0.0.0.0
 add name="hme-uat-loganalytics-namespace.servicebus.windows.net" address=0.0.0.0
@@ -96216,7 +96181,6 @@ add name="holzbaubillig.com" address=0.0.0.0
 add name="holzbrenn.de" address=0.0.0.0
 add name="holzbriketts-kaufen.com" address=0.0.0.0
 add name="holzbriketts-profi.de" address=0.0.0.0
-add name="holzcuten.de" address=0.0.0.0
 add name="holzd24.com" address=0.0.0.0
 add name="holzerneblocke.com" address=0.0.0.0
 add name="holzfursfeuer.de" address=0.0.0.0
@@ -96237,7 +96201,6 @@ add name="holzmoebelkaufen.de" address=0.0.0.0
 add name="holznotenpulte.de" address=0.0.0.0
 add name="holzpelletshop.com" address=0.0.0.0
 add name="holzqualitat.de" address=0.0.0.0
-add name="holzstreif.de" address=0.0.0.0
 add name="holzti.com" address=0.0.0.0
 add name="holzundkunststueble.de" address=0.0.0.0
 add name="holzundwerkzeug-bestequalitat.de" address=0.0.0.0
@@ -96332,7 +96295,6 @@ add name="homer-prod1.aws-us-east-1.mr-in.com" address=0.0.0.0
 add name="homer.playground.rokt.com" address=0.0.0.0
 add name="homersport.de" address=0.0.0.0
 add name="homerunfood.com" address=0.0.0.0
-add name="homerungrocers.com" address=0.0.0.0
 add name="homes.bg" address=0.0.0.0
 add name="homeserve.pxf.io" address=0.0.0.0
 add name="homesicktheseheld.com" address=0.0.0.0
@@ -97300,7 +97262,6 @@ add name="hubcitysale.com" address=0.0.0.0
 add name="hubcloud.com.cn" address=0.0.0.0
 add name="hubdigitalads.com" address=0.0.0.0
 add name="hubeamily.com" address=0.0.0.0
-add name="huber-wien.com" address=0.0.0.0
 add name="huberd.com" address=0.0.0.0
 add name="hubers-salzburg.at" address=0.0.0.0
 add name="hubertkotschnig.at" address=0.0.0.0
@@ -97493,13 +97454,11 @@ add name="hunter-osterreich.at" address=0.0.0.0
 add name="hunter-srbija.com" address=0.0.0.0
 add name="hunter.offerstrack.net" address=0.0.0.0
 add name="hunterbootscanada.com" address=0.0.0.0
-add name="hunterbootsdublin.com" address=0.0.0.0
 add name="hunterbootsjapan.com" address=0.0.0.0
 add name="hunterbootsnz.com" address=0.0.0.0
 add name="hunterdelivery.com" address=0.0.0.0
 add name="hunterfinland.com" address=0.0.0.0
 add name="huntergermany.de" address=0.0.0.0
-add name="huntergumbootsaustralia.com" address=0.0.0.0
 add name="huntergummistiefel.de" address=0.0.0.0
 add name="huntergummistiefeloutlet.de" address=0.0.0.0
 add name="huntergummistiefeloutlets.de" address=0.0.0.0
@@ -97507,7 +97466,6 @@ add name="huntergummistiefelsoutlet.de" address=0.0.0.0
 add name="hunterheroiccompassion.com" address=0.0.0.0
 add name="hunteronlineshop.at" address=0.0.0.0
 add name="hunterpowersport.com" address=0.0.0.0
-add name="hunterregenlaarzen.com" address=0.0.0.0
 add name="huntersstiefel.at" address=0.0.0.0
 add name="hunterstiefel.at" address=0.0.0.0
 add name="huntersverige-se.com" address=0.0.0.0
@@ -97868,7 +97826,6 @@ add name="hynycrgzzevgb.space" address=0.0.0.0
 add name="hype-hoodies.com" address=0.0.0.0
 add name="hypedrip.top" address=0.0.0.0
 add name="hypelab.com" address=0.0.0.0
-add name="hypelaced.co" address=0.0.0.0
 add name="hyper-chiller.evyy.net" address=0.0.0.0
 add name="hyper-pools.com" address=0.0.0.0
 add name="hyperads.gotrackier.com" address=0.0.0.0
@@ -98768,7 +98725,6 @@ add name="icg8az.register.appsflyersdk.com" address=0.0.0.0
 add name="icg8az.skadsdkless.appsflyersdk.com" address=0.0.0.0
 add name="icgz9x.cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="ichannel.isnssdk.com" address=0.0.0.0
-add name="ichferkens.de" address=0.0.0.0
 add name="ichkaufegrundstuecke.de" address=0.0.0.0
 add name="ichulleroutes.cyou" address=0.0.0.0
 add name="ichwteqdufxed.website" address=0.0.0.0
@@ -99252,7 +99208,6 @@ add name="ieluqbvv.telemetry.connect.eu-central-1.amazonaws.com" address=0.0.0.0
 add name="ieluqbvv.telemetry.connect.eu-west-2.amazonaws.com" address=0.0.0.0
 add name="ieluqbvv.telemetry.connect.us-east-1.amazonaws.com" address=0.0.0.0
 add name="ieluqbvv.telemetry.connect.us-west-2.amazonaws.com" address=0.0.0.0
-add name="iemakluck.com" address=0.0.0.0
 add name="iemedyugz.com" address=0.0.0.0
 add name="iemiller.net" address=0.0.0.0
 add name="iemiq.com" address=0.0.0.0
@@ -100192,7 +100147,6 @@ add name="imagingprelawpuzzle.com" address=0.0.0.0
 add name="imaginte.com" address=0.0.0.0
 add name="imagnumhealthcare.com" address=0.0.0.0
 add name="imagzine.oppomobile.com" address=0.0.0.0
-add name="imalent.net" address=0.0.0.0
 add name="imali.g2afse.com" address=0.0.0.0
 add name="imap.adx1.com" address=0.0.0.0
 add name="imap.android12.logs.netflix.com" address=0.0.0.0
@@ -100563,7 +100517,6 @@ add name="immediate-coraldex.com" address=0.0.0.0
 add name="immediate-d.openx.net" address=0.0.0.0
 add name="immediate-dash.de" address=0.0.0.0
 add name="immediate-direct.com" address=0.0.0.0
-add name="immediate-edge2.com" address=0.0.0.0
 add name="immediate-flik.com" address=0.0.0.0
 add name="immediate-growth.com" address=0.0.0.0
 add name="immediate-momentum.com" address=0.0.0.0
@@ -114756,6 +114709,7 @@ add name="ljedck.cdn-settings.appsflyersdk.com" address=0.0.0.0
 add name="ljeeonnslhcmb.store" address=0.0.0.0
 add name="ljekarna-osijek.com" address=0.0.0.0
 add name="ljekarnacroatia.com" address=0.0.0.0
+add name="ljekarnahrvatska.com" address=0.0.0.0
 add name="ljgrjkosayabm.site" address=0.0.0.0
 add name="ljgwcsfopfmhok.com" address=0.0.0.0
 add name="ljhegojhmluyx.website" address=0.0.0.0
@@ -119239,7 +119193,6 @@ add name="market.cityads.com" address=0.0.0.0
 add name="market.darrowmere.com" address=0.0.0.0
 add name="market.epom.com" address=0.0.0.0
 add name="market.glenleigha.com" address=0.0.0.0
-add name="market.halewick.com" address=0.0.0.0
 add name="market.livaxxen.org" address=0.0.0.0
 add name="market.moonicorn.network" address=0.0.0.0
 add name="market.wsskj520.cn" address=0.0.0.0
@@ -130383,6 +130336,7 @@ add name="nk.upasesrehung.cyou" address=0.0.0.0
 add name="nk0e025o.emltrk.com" address=0.0.0.0
 add name="nkaczwsqxlolq.website" address=0.0.0.0
 add name="nkbfkirbnxdbo.site" address=0.0.0.0
+add name="nkbiobxn.shop" address=0.0.0.0
 add name="nkbnfrofocw.com" address=0.0.0.0
 add name="nkcdtumculrow.space" address=0.0.0.0
 add name="nkd-store.com" address=0.0.0.0
