@@ -26,3 +26,13 @@
 *.indoterbaru.space
 *.abgindo.space
 *.viralterbaru.space
+*.phncdn.com
+i.pornhub.com
+*.ypncdn.com
+*.xnxx-cdn.com
+*.mmcdn.com
+*.xhcdn.com
+eu-west-3.xhamster.com
+video.flirtify.com
+*.doppiocdn.com
+*.cdnsolutions.media
