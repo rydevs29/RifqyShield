@@ -23,3 +23,6 @@
 *.xhpingcdn.com
 *.playmogo.com
 *.masukdisini.click
+*.indoterbaru.space
+*.abgindo.space
+*.viralterbaru.space
