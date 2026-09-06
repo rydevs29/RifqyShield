@@ -22,3 +22,4 @@
 *.luluvdoo.com
 *.xhpingcdn.com
 *.playmogo.com
+*.masukdisini.click
