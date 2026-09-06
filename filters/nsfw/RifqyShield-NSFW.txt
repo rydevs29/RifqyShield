@@ -104,14 +104,13 @@ RifqyShield NSFW | Always Updated
 *.tempikgacor.baby
 *.trendingglobal.wiki
 *.virallsotwe.store
-*.abgindo.space
 *.praoto.baby
 *.viralterbaru.space
 *.app.kampusdunia.com
 *.tetespanas.store
 *.virallsotwe.store
-*.abgindo.space
-*.viralterbaru.space
-*.indoterbaru.space
+*.klipmalam.store
 *.mencretmesum.store
 *.apemviral.live
+*.rumahparaperjaka.club
+*.rumahparaperjaka.com
