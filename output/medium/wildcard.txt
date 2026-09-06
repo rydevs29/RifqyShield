@@ -1,5 +1,5 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-09-06 10:28:01
+# Last Updated: 2026-09-06 10:33:09
 # Total Domains: 520,019
 # ==========================================
 *.0-1.ir
