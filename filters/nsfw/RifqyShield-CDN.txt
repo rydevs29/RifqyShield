@@ -32,6 +32,8 @@ i.pornhub.com
 *.xnxx-cdn.com
 *.mmcdn.com
 *.xhcdn.com
+video.tanteviral.space
+*.tanteviral.space
 eu-west-3.xhamster.com
 video.flirtify.com
 *.doppiocdn.com
