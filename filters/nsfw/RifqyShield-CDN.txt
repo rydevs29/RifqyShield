@@ -40,3 +40,4 @@ video.flirtify.com
 *.cdnsolutions.media
 *.gofile.io
 *.aceimg.com
+*.videy.co
