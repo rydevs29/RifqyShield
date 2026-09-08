@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-07 02:06:06
-# Total Domains: 221,518
+# Last Updated: 2026-09-08 02:17:56
+# Total Domains: 221,453
 # ==========================================
 *.0-1.ir
 *.0-105.com
@@ -11711,7 +11711,6 @@
 *.4bh2on.inapps.appsflyersdk.com
 *.4bh2on.launches.appsflyersdk.com
 *.4bh2on.skadsdkless.appsflyersdk.com
-*.4bike.net
 *.4byvmqjqvpy6ce8rh.cfd
 *.4c054921758be759504fdf2c75abc1a0.safeframe.googlesyndication.com
 *.4c0cc3bae42e8987d2623d4854cfc9e2.safeframe.googlesyndication.com
@@ -22566,7 +22565,6 @@
 *.acceptguide.com
 *.accersetazzas.cyou
 *.acces-direct.net
-*.acces.interface-arbitragecrypto.com
 *.acces.mfwgroupe.com
 *.acces.streaming-direct.co
 *.accesoplugin.com
@@ -43083,7 +43081,6 @@
 *.beam.telex.hu
 *.beamanalytics.b-cdn.net
 *.beambead.com
-*.beamdeals.de
 *.beamedfragmentrunners.com
 *.beams.silveregg.net
 *.beancontrol.com
@@ -45707,6 +45704,7 @@
 *.bitcoin-everest-ai.fr
 *.bitcoin-pharmacy.com
 *.bitcoin-revolution.org
+*.bitcoin-up.io
 *.bitcoin-xact.fr
 *.bitcoinarchon.com
 *.bitcoineer.ai
@@ -45737,6 +45735,7 @@
 *.bitgetapps.com
 *.bitgettg.com
 *.bitgetzx.com
+*.bitgrokapp.com
 *.biticodes.com
 *.bitiq.app
 *.bitkwwjpgsdnh.space
@@ -51457,7 +51456,6 @@
 *.catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu
 *.catalogue.advertising.amazon.dev
 *.cataloguedelay.com
-*.catalunyafarm.com
 *.catalyst-analytics.net
 *.catalyst.adgrx.com
 *.catalystcrown.com
@@ -54342,7 +54340,6 @@
 *.cellar-analytics.mapion.co.jp
 *.cellaradorn.com
 *.cellfancied.com
-*.cellpeptides.com
 *.cellphones.api.useinsider.com
 *.cellrebel.com
 *.cellstats.mako.co.il
@@ -62638,7 +62635,6 @@
 *.ctb0jf.cdn-settings.appsflyersdk.com
 *.ctb0jf.launches.appsflyersdk.com
 *.ctbfleegqpvkx.online
-*.ctbike.pl
 *.ctbucqcndifdt.online
 *.ctbufj-cdn-settings.appsflyersdk.com
 *.ctbufj-launches.appsflyersdk.com
@@ -71203,7 +71199,6 @@
 *.dreba03.webtrekk.net
 *.drechselbanke.com
 *.drechselmaschinenrabatt.com
-*.drechselwebshop.com
 *.dredgedemplacesurg.cfd
 *.drehfutterverkauf.com
 *.dreidl.pennetdhotispulpous.qpon
@@ -77929,8 +77924,6 @@
 *.esgwgsnrbevnb.website
 *.esh-k8s-staging.adjust.com
 *.eshkol.one
-*.eshop.kestmere.com
-*.eshop.maplecrofta.com
 *.eshop.quarryby.com
 *.eshop.sintech.cn
 *.eshopkamagra.sk
@@ -79184,7 +79177,6 @@
 *.euskaraharedukulele.cyou
 *.eusmdates.com
 *.euspecifics.specificmedia.com
-*.eusportsequipment.it.com
 *.eussiyvfjpqqc.site
 *.eussownwpyxdw.online
 *.eustace.siropbiersskyward.cyou
@@ -79211,7 +79203,6 @@
 *.euvdyv.com
 *.euvendorshub.online
 *.euvitafarm.com
-*.euvivosale.it.com
 *.euvns4.adrevenue.appsflyersdk.com
 *.euvns4.inapps.appsflyersdk.com
 *.euvns4.launches.appsflyersdk.com
@@ -82683,6 +82674,7 @@
 *.fetchtosensitive.com
 *.fetd.prod.cps.awseuwest1.itvcloud.zone
 *.fetichfizzer.qpon
+*.fetishmegastore.com
 *.fettabsaugung-in-koeln.de
 *.fettverbrenneronline.com
 *.feuageepitoke.com
@@ -84645,6 +84637,7 @@
 *.fomo.com
 *.fomozo.de
 *.fond-might.com
+*.fondesia.com
 *.fondluck.com
 *.fondox.de
 *.fondsavenue.com
@@ -87240,6 +87233,7 @@
 *.galiciabanco.demdex.net
 *.galidia.jamshidectypalduper.cfd
 *.galidia.jarldirkmatie.cyou
+*.galidix.com
 *.galileiplinker.qpon
 *.galileofx.com
 *.galileotelemetry.tencent.com
@@ -92325,7 +92319,6 @@
 *.guardoserie.top
 *.guardoserie.world
 *.guardsegment.com
-*.guardunit77-booking.com
 *.guarraumagotsyllabe.cfd
 *.guarriancha.qpon
 *.guasagripier.qpon
@@ -100516,6 +100509,7 @@
 *.immediate-d.openx.net
 *.immediate-dash.de
 *.immediate-direct.com
+*.immediate-edge2.com
 *.immediate-flik.com
 *.immediate-growth.com
 *.immediate-momentum.com
@@ -100840,7 +100834,6 @@
 *.imsonicgale.com
 *.imsowiwiwiwiwi.com
 *.imstore.bet365affiliates.com
-*.imtisaltradersltd.com
 *.imtmp.net
 *.imtrend.at
 *.imtshvsvjzeob.website
@@ -102522,9 +102515,9 @@
 *.investalepregnancy.com
 *.investbook.fr
 *.investbridge-capital.com
+*.investcapitalworld.co
 *.investec.demdex.net
 *.investfw.com
-*.investi-ray.com
 *.investigateisolateddepressed.com
 *.investigateproxyoily.com
 *.investigationsuperbprone.com
@@ -104451,7 +104444,6 @@
 *.jbklbe-inapps.appsflyersdk.com
 *.jbklbe-launches.appsflyersdk.com
 *.jbkueagfgwphk.online
-*.jbl-deutschland.de
 *.jblackard.com
 *.jblaptokniuuu.website
 *.jblat.at
@@ -104527,7 +104519,6 @@
 *.jcrewapig.pmg.com
 *.jcrhpslysoaww.site
 *.jctkotows.cfd
-*.jcvfepbr.shop
 *.jcvtdoqmifyzt.site
 *.jcwylmuatiaqv.store
 *.jcxikk.cdn-settings.appsflyersdk.com
@@ -104581,7 +104572,6 @@
 *.jdownloader.fr
 *.jdraskbpyqgpi.site
 *.jdrmoveis.online
-*.jdspaistcsblin-de.com
 *.jdsports-api.bloomreach.co
 *.jdsports-cdn.bloomreach.co
 *.jdsports-us.attn.tv
@@ -104626,7 +104616,6 @@
 *.je2.1c5f1htu9fzkbx8j.cfd
 *.jealousembroideryroute.com
 *.jealoussale.com
-*.jean-weis.com
 *.jeanell.offerstrack.net
 *.jeanieprolate.qpon
 *.jeans-fashion.com
@@ -104653,7 +104642,6 @@
 *.jeexnf-cdn-settings.appsflyersdk.com
 *.jeexnf-launches.appsflyersdk.com
 *.jefercopellets.com
-*.jeffkelleher.shop
 *.jeffora.de
 *.jeffspoolservice.com
 *.jeflakrlrdysq.website
@@ -104681,7 +104669,6 @@
 *.jellylight.at
 *.jelskefrankspt.cyou
 *.jelvruvozan-ie.com
-*.jelvruvozan.fr
 *.jem.mybluehost.me
 *.jema-api.public.prod.ihq-za.k8s.intenthq.com
 *.jema-campaigns.anagog.com
@@ -104767,7 +104754,6 @@
 *.jewacgufesztu.space
 *.jewellery-palace.com
 *.jewellerybroadlyisabella.com
-*.jewelleryina.com
 *.jewellwhittemore.tritontrollius.com
 *.jewelmint.ojrq.net
 *.jewelmintlead.evyy.net
@@ -104868,7 +104854,6 @@
 *.jgieklrrgjcjp.site
 *.jgjmetqidmbec.website
 *.jgkgqvxmnrxjb.space
-*.jgkittrx.shop
 *.jgkpsxlnqnknp.site
 *.jgl.microad.net
 *.jglezaldkyldn.online
@@ -105255,7 +105240,6 @@
 *.jlhkumsptbwuz.site
 *.jlhmxduyftkae.site
 *.jlhoefzaqqbsz.online
-*.jlindebergseu.it.com
 *.jlishsdaxkibb.space
 *.jllxkqvoecigv.online
 *.jlmgrhpt7lo9c1.cfd
@@ -105443,7 +105427,6 @@
 *.jobparadies.de
 *.jobpool.ch
 *.jobprofis24.de
-*.jobs-consulting.de
 *.jobs.maverik.com
 *.jobs.sciencecareers.org
 *.jobs.t3n.de
@@ -108433,7 +108416,6 @@
 *.kamagra-pro.com
 *.kamagra-pro.net
 *.kamagra-prodej-levne.cz
-*.kamagra-prodej-online.eu
 *.kamagra-prodej.cz
 *.kamagra-prodej.online
 *.kamagra-shop-cesko.com
@@ -108474,7 +108456,6 @@
 *.kamagralove.store
 *.kamagraman.cz
 *.kamagranadobirku.com
-*.kamagraobchod.cz
 *.kamagraonline.sk
 *.kamagrapreis.de
 *.kamagraprodej.net
@@ -108575,7 +108556,6 @@
 *.kanzlei-ra.net
 *.kanzlei-statz.de
 *.kanzlei-zimmermann-partner.com
-*.kanzleikonigstein.de
 *.kanzleitreuhand.com
 *.kao.demdex.net
 *.kaolgxdjrgzqr.space
@@ -108622,7 +108602,6 @@
 *.kareasbet.fr
 *.karedeutschland.com
 *.karenmillendeutschland.de
-*.karger-agentur.de
 *.karger.hum.works
 *.kargeragentur.de
 *.kargo-match.dotomi.com
@@ -108642,7 +108621,6 @@
 *.karrierevonzuhause.de
 *.karrot-pixel.business.daangn.com
 *.kartbarriersystem.com
-*.kartenschatz.shop
 *.kartgearshop.nl
 *.karylite.com
 *.karyonneat.cyou
@@ -108710,14 +108688,12 @@
 *.kaufhaushamburg.com
 *.kaufhaussupermarkt.com
 *.kaufhaustier.com
-*.kaufhauswerkzeuge.com
 *.kauflandstiftung.demdex.net
 *.kaufmann-mercantile.evyy.net
 *.kaufmar.de
 *.kaufspiel.de
 *.kaufstreetwear.com
 *.kaufsy.de
-*.kauftruhe.com
 *.kaufuniversum.myshoplaza.com
 *.kaufwonne.com
 *.kaufyshop.de
@@ -108799,7 +108775,6 @@
 *.kbq.temporary.site
 *.kbrdynuogwuxm.site
 *.kbrukfxoyumpf.online
-*.kbs-kanzlei.de
 *.kbs-management.cc
 *.kbsnaexpvnezu.site
 *.kbujchxeouowl.space
@@ -108968,7 +108943,6 @@
 *.keap-link020.com
 *.keativemedia.offerstrack.net
 *.kebdnwepskuoe.website
-*.keblpqec.shop
 *.keckstenno.cyou
 *.kecrdgqevcqna.website
 *.kedasensiblemother.org
@@ -108976,7 +108950,6 @@
 *.kedenki.sieraddns.com
 *.kedros-zeklant.de
 *.kedsfactoryoutlet.com
-*.kedsgermany.com
 *.kedsschuhe.de
 *.kedssuomi.com
 *.kedxtsgahevks.space
@@ -109040,7 +109013,6 @@
 *.keller-modehaus.de
 *.kellionvessel.shop
 *.kellogg.tt.omtrdc.net
-*.kellorra.com
 *.kellysbatan.cyou
 *.kelo.pv1rkuffqj8h9fqr2569nm6.cfd
 *.kelpdao.xyz-kerneldao.pro
@@ -109077,7 +109049,6 @@
 *.kenshoo.com
 *.kentiaawake.cfd
 *.kentleocyte.com
-*.kentucky-eu-online.shop
 *.kenya-aiways.com
 *.kenyann.xyz
 *.kenyaweb.com
@@ -109311,7 +109282,6 @@
 *.kh.optionupcast.shop
 *.kh.soubeacon.cfd
 *.khabarseemanchal.com
-*.khadija-thebrand.shop
 *.khajurzeolitevicary.cfd
 *.khakiroute.cyou
 *.khalatisort.cyou
@@ -109443,7 +109413,6 @@
 *.kickoff.ru
 *.kickoffo.site
 *.kickproduction.api.useinsider.com
-*.kicksdunk.com
 *.kickswelt.at
 *.kickswelt.de
 *.kicno.com
@@ -109544,7 +109513,6 @@
 *.kinderglitzern.de
 *.kinderlichtblicke.de
 *.kindermobelre.com
-*.kindersachenmitwachsend.com
 *.kinderspielzeugangebote.com
 *.kinderstampo.com
 *.kindertische.com
@@ -109841,7 +109809,6 @@
 *.kkr6ev-cdn-settings.appsflyersdk.com
 *.kkr6ev-inapps.appsflyersdk.com
 *.kkr6ev-launches.appsflyersdk.com
-*.kkrde-api.com
 *.kkrvwlmknqs.com
 *.kksbhdknogzya.website
 *.kksma7.cdn-settings.appsflyersdk.com
@@ -109867,7 +109834,6 @@
 *.klangatem.com
 *.klangfluss.com
 *.klangoo.com
-*.klanol-tech.de
 *.klar-haus.de
 *.klarako.com
 *.klarawien.at
@@ -109953,7 +109919,6 @@
 *.klimaanlageportal.de
 *.klimabonus-2026.net
 *.klimabonus2026.at
-*.klimacare24.de
 *.klimacare24.shop
 *.klimafresh.com
 *.klimag.myshopify.com
@@ -110188,7 +110153,6 @@
 *.knsv2.cloud.duba.net
 *.kntxy.com
 *.knucklemonthsedifice.com
-*.knuddelkind.com
 *.knueqofkktzpk.site
 *.knurryrelated.cfd
 *.knurs.bonifysenary.shop
@@ -110222,10 +110186,8 @@
 *.kobe-voitore.com
 *.kobel.services
 *.koboldmoreish.com
-*.kobsarwelpen.de
 *.kobtimfpearff.space
 *.koc.mybluehost.me
-*.koch-handel24.de
 *.kochava.com
 *.kochava.dewrain.life
 *.kochava.kvaedit.site
@@ -110245,7 +110207,6 @@
 *.kodiak-finance.org
 *.kodiak.finance.io-v6.bet
 *.kodvcvjyqtfsu.site
-*.koedel-gartenbau.de
 *.koeebuetwevng.space
 *.koeisagsqpwci.site
 *.koel--schuhe.com
@@ -110455,7 +110416,6 @@
 *.koukoku.red
 *.koumisperle.shop
 *.koupit-kamagra-viagra.online
-*.koupit-pilulky.com
 *.koupit-pilulky.cz
 *.koupitedpilulky.com
 *.koupitpsychedelika.cz
@@ -111824,7 +111784,6 @@
 *.labubu-popmart.de
 *.labubu.co.at
 *.labubu.co.uk
-*.labubuclubs.com
 *.labubuofficials.de
 *.labubuoriginal.de
 *.lacare.containers.piwik.pro
@@ -112203,7 +112162,6 @@
 *.lasportivaoutlet.at
 *.lasportivaoutlet.de
 *.lasportivas.at
-*.lasportivas.de
 *.lasportivaschuhe.at
 *.lasportivashop.myshoplaza.com
 *.lasportivateam.com
@@ -112244,7 +112202,6 @@
 *.latestfriarly.shop
 *.latestparts.com
 *.latestperfume.com
-*.latexhandschuheshop.com
 *.lathed.entropysunbath.shop
 *.latherachelesscatastrophe.com
 *.latherprofanecognizance.com
@@ -112909,7 +112866,6 @@
 *.lebara.tt.omtrdc.net
 *.lebbfksrknrex.website
 *.lebens-traum.at
-*.lebensartikel.com
 *.lebenscrimeamarxist.cfd
 *.lebenskernde.com
 *.lebensmittelgeschaft.com
@@ -112956,7 +112912,6 @@
 *.ledleuchtende.com
 *.ledleuchtenshop.com
 *.ledrohren.com
-*.ledvanceleuchten.com
 *.lee.blueconic.net
 *.lee01.0i52waitxcy8needs.cfd
 *.lee03.0i52waitxcy8needs.cfd
@@ -112966,7 +112921,6 @@
 *.leechersolaced.shop
 *.leeenterprises-komu-tagan.adlightning.com
 *.leeenterprises-tagan.adlightning.com
-*.leefly.nl
 *.leekishspurreroldened.qpon
 *.leeriergrf.com
 *.leesa-sleep.evyy.net
@@ -113062,7 +113016,6 @@
 *.leisureer.com
 *.leisurelyexploit.com
 *.leize-gl.us-east-1.log.aliyuncs.com
-*.lejagarten.de
 *.lejtdj.biz
 *.lekaren-slovenska24.com
 *.lekaren-slovenska247.com
@@ -113297,7 +113250,6 @@
 *.letternrede.cfd
 *.letterrecoveryunplanted.com
 *.lettileroute.com
-*.lettireti.com
 *.lettishtottyitel.qpon
 *.letunseenprivacy.com
 *.letzte-chance.link
@@ -113761,9 +113713,7 @@
 *.liebeskleidung.de
 *.liebeverpackt.com
 *.liebig.bitumedsimiansdigenic.cyou
-*.liebling-baby.com
 *.lieblingswahl.de
-*.liebly.de
 *.liebrei-zend.de
 *.liedloopful.com
 *.liedpalolo.cfd
@@ -113875,7 +113825,6 @@
 *.lightrights.xyz
 *.lightsaber.com
 *.lightsail.bigcrunch.com
-*.lightsofgermany.com
 *.lightspite.com
 *.lightstep.kaizen.nvidia.com
 *.lightstep.medium.systems
@@ -113999,7 +113948,6 @@
 *.lindbergmode.de
 *.linde-gmbh.com
 *.lindela.de
-*.linden-innsbruck.com
 *.lindenfeldmode.de
 *.lindenglt.qpon
 *.linderhoff.com
@@ -114304,7 +114252,6 @@
 *.linterjabots.cfd
 *.lintheirbrightscarletc.org
 *.lintiebletfenmen.qpon
-*.linto-store.space
 *.lintyahimsas.com
 *.linux-site.net
 *.linuxpl.com
@@ -114666,7 +114613,6 @@
 *.livingspaces.demdex.net
 *.livingwallstapeten.com
 *.livohaus.com
-*.livoro-deutschland.com
 *.livpm.com
 *.livsfs.today
 *.livsy.de
@@ -114807,7 +114753,6 @@
 *.lkxprcef.com
 *.lkywp14rf9tpfhmvii8o2.wuwx8qwml6vwi54j.cfd
 *.lkzai.rtb.adtarget.biz
-*.ll-sheins.com
 *.ll.cashstaging.app
 *.ll.dmcdn.netpostmaster.zebyinbox.com
 *.ll.stickupedenize.cyou
@@ -114879,7 +114824,6 @@
 *.llodvs.launches.appsflyersdk.com
 *.lloyd.co.at
 *.lloydcamenaewhizzes.cyou
-*.lloyddeutschland.com
 *.lloydschuhesale.de
 *.lloydsosterreich.at
 *.lloydspharmacystore.shop
@@ -116304,7 +116248,6 @@
 *.logitech.com.cn.obs.cn-north-1.myhuaweicloud.com
 *.logitech.com.cn0jihgfe.0.realmebbs.com.obs.cn-north-1.myhuaweicloud.com
 *.logitech.twitch.com05.dev.r.myoas.net.obs.cn-north-1.myhuaweicloud.com
-*.logitecheu.it.com
 *.logitechg.com.cn.obs.cn-north-1.myhuaweicloud.com
 *.logitechg.obs.cn-north-1.myhuaweicloud.com
 *.logitechoutlet-eu.shop
@@ -116776,7 +116719,6 @@
 *.lorenz-kurreisen.de
 *.lorftyrrshdxj.online
 *.lorgtbzlfxixd.online
-*.lori24.de
 *.loricearners.shop
 *.loriellebeauty.de
 *.lorien.bh.arppofind.comssets.org.anissa.areaengapi.machine.boardswire.wvutsrqponmlil.2.canva.cn.obs.cn-north-1.myhuaweicloud.com
@@ -116790,7 +116732,6 @@
 *.lorletteandwill.com
 *.lornajanedeutschland.de
 *.loro-pianas.de
-*.lorrainefinance.fr
 *.lorrauy.shop
 *.lorryspottingshop.com
 *.lorryurban.com
@@ -117495,7 +117436,6 @@
 *.lumtu.com
 *.lumujmndxyyzm.website
 *.luna-aggregated-metrics-prod.s3.amazonaws.com
-*.luna-boutique-berlin.com
 *.luna-ria.jp
 *.luna.58.com
 *.luna.r.lafamo.com
@@ -117863,7 +117803,6 @@
 *.lynch-care.com
 *.lynkhpfcgquwd.site
 *.lynorhome.net
-*.lynx-ai.pro
 *.lynx-prod-beacon-alb-498367235.us-east-1.elb.amazonaws.com
 *.lynx.cognitivlabs.com
 *.lynxeslentor.shop
@@ -118706,7 +118645,6 @@
 *.mairiedactylicuculla.cfd
 *.mairuan.cn
 *.maiser-markt.de
-*.maisiewalker.shop
 *.maison-dartois.co
 *.maison-margiela.at
 *.maisonerve.com
@@ -118748,7 +118686,6 @@
 *.makanigermanyshop.shop
 *.makaraelfkindaiva.cfd
 *.makarregal.qpon
-*.make-uppflege.com
 *.makeding.com
 *.makeinfluence.com
 *.makeinfluencer.ai
@@ -118813,7 +118750,6 @@
 *.maller.io
 *.malletthingluxury.com
 *.malliq-api.com
-*.mallof.shop
 *.mallorca-holidayhomes.com
 *.mallorca-partner.com
 *.mallorcaburger.de
@@ -118849,7 +118785,6 @@
 *.mammut.vlion.cn
 *.mammutjacke.com
 *.mammutsale.at
-*.mammutwien.at
 *.mamotyfattier.cyou
 *.mamshirt.com
 *.mamuski.de
@@ -119011,7 +118946,6 @@
 *.manxcomet.cfd
 *.many.bio
 *.manychat.pxf.io
-*.manyeasy.com
 *.manyielding.com
 *.manyou.com
 *.manzone.fit
@@ -122662,6 +122596,7 @@
 *.mibi.api.xiaomi.com
 *.mibi.xiaomi.com
 *.mic.mob.com
+*.mica-forensic.com
 *.micaraapop.shop
 *.micerundanakil.cfd
 *.micfagmbbtwda.website
@@ -130145,7 +130080,6 @@
 *.nineanalytics.io
 *.ninegarretcurse.com
 *.ninelife.at
-*.ninelife.de
 *.nineteenthasparagus.com
 *.ninetweak.com
 *.ninetyninedesigns.7eer.net
@@ -137480,7 +137414,6 @@
 *.ono.us-west-2.prod.mt.paets.advertising.amazon.dev
 *.onopolicycreatme.org
 *.onosterreich.at
-*.onoutlet.it.com
 *.onoztg.ultimate-guitar.com
 *.onr.mybluehost.me
 *.onrbmrwalqttw.website
@@ -138395,7 +138328,6 @@
 *.origin.xtlo.net
 *.original-grain-watch-us.pxf.io
 *.originalcrypto.com
-*.originalshrvatska.co
 *.origincrypto.com
 *.origindata.g2afse.com
 *.originmedia.tv
@@ -142064,6 +141996,7 @@
 *.pensionermattersarrogant.com
 *.pensionflutter.com
 *.pensionhotel.cz
+*.pensioninvest.org
 *.pensionistenausweis.at
 *.pensivedean.com
 *.penske-aps-tagan.adlightning.com
@@ -148814,7 +148747,6 @@
 *.purekicks.de
 *.purelyfountains.com
 *.purelynable.cfd
-*.purelynutrient.com
 *.purelywhitedeluxe.com
 *.puremotionedge.com
 *.pureplay.us-east-1.stinger-ad.bidr.io
@@ -151969,6 +151901,7 @@
 *.quantcount.com
 *.quantica900.com
 *.quantium.rs
+*.quantiumax.one
 *.quantserve.com
 *.quantserve.net
 *.quantum-ai-be.com
@@ -165630,7 +165563,6 @@
 *.scancemontes.com
 *.scandalcalques.cfd
 *.scaniamalamfills.cyou
-*.scannero.io
 *.scanscout.com
 *.scanstockphoto.com
 *.scantra.se
@@ -187263,6 +187195,7 @@
 *.tinyadz.com
 *.tinyblobs.com
 *.tinybluewhale.com
+*.tinyplayland.com
 *.tinyplywood.com
 *.tinystat.ir
 *.tinytendency.com
@@ -200971,7 +200904,6 @@
 *.vip.abckamai.com
 *.vip.evyy.net
 *.vip.log.mgtv.com
-*.vip.marketadvisor.icu
 *.vip.prod.criteo.com
 *.vip.prod.criteo.net
 *.vip.qualityclick.com
@@ -205516,6 +205448,9 @@
 *.webtrader.arvelon-barnyx.com
 *.webtrader.capexgo.net
 *.webtrader.finaurex.org
+*.webtrader.nuxeros.app
+*.webtrader.quantiumax.net
+*.webtrader.unfaileryx-worlmeix.com
 *.webtrafficsource.com
 *.webtraxs.com
 *.webtrekk.com
