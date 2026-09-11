@@ -4,7 +4,7 @@
 No ads • No trackers • No adult content • No gambling
 | Category              | Source                             | Status                |
 |-----------------------|------------------------------------|-----------------------|
-| **Ads & Trackers** | 1Hosts Lite, Hagezi Trackers | ✅ Active |
+| **Ads & Trackers** | Peter Lowe's, Hagezi Trackers | ✅ Active |
 | **NSFW & Gambling** | Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield NSFW | ✅ Active |
 | **Malware & Phishing**| OISD-Big, Hagezi Fake, Hagezi Ultimate, Hagezi TIF Mini/Medium | ✅ Active |
 
