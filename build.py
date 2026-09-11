@@ -15,7 +15,7 @@ LOCAL_NSFW_GAMBLING = [
 
 # 2. Definisi Sumber URL (Langsung download ke RAM, tanpa folder external)
 URLS_LITE = [
-    "https://pgl.yoyo.org/as/serverlist.php?notrackers=1",
+    "https://pgl.yoyo.org/as/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.amazon-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.apple-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.huawei-onlydomains.txt",
