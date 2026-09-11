@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-10 02:20:05
-# Total Domains: 221,387
+# Last Updated: 2026-09-11 02:15:42
+# Total Domains: 221,170
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -11713,6 +11713,7 @@
 0.0.0.0 4bh2on.inapps.appsflyersdk.com
 0.0.0.0 4bh2on.launches.appsflyersdk.com
 0.0.0.0 4bh2on.skadsdkless.appsflyersdk.com
+0.0.0.0 4bike.net
 0.0.0.0 4byvmqjqvpy6ce8rh.cfd
 0.0.0.0 4c054921758be759504fdf2c75abc1a0.safeframe.googlesyndication.com
 0.0.0.0 4c0cc3bae42e8987d2623d4854cfc9e2.safeframe.googlesyndication.com
@@ -28969,7 +28970,6 @@
 0.0.0.0 ae.iads.unity3d.com
 0.0.0.0 ae.info.lgsmartad.com
 0.0.0.0 ae.khudkerch.shop
-0.0.0.0 ae.lgsmartad.com
 0.0.0.0 ae.locale.online
 0.0.0.0 ae.mmstat.com
 0.0.0.0 ae.muggurssalited.com
@@ -29155,7 +29155,6 @@
 0.0.0.0 af.galeodvern.qpon
 0.0.0.0 af.gamegamb.com
 0.0.0.0 af.iglusollock.qpon
-0.0.0.0 af.lgsmartad.com
 0.0.0.0 af.meltwater.io
 0.0.0.0 af.meteocast.net
 0.0.0.0 af.monetate.net
@@ -29550,7 +29549,6 @@
 0.0.0.0 ag.inhaledaru.shop
 0.0.0.0 ag.innovid.com
 0.0.0.0 ag.innovid.com.akadns.net
-0.0.0.0 ag.lgsmartad.com
 0.0.0.0 ag.phrymapyritic.com
 0.0.0.0 ag.pocillshoneen.cyou
 0.0.0.0 ag.tzarredbird.shop
@@ -29913,7 +29911,6 @@
 0.0.0.0 ai.dm-us.informaticacloud.com
 0.0.0.0 ai.feedaty.com
 0.0.0.0 ai.hasidimprowess.cyou
-0.0.0.0 ai.lgsmartad.com
 0.0.0.0 ai.m.taobao.com
 0.0.0.0 ai.me
 0.0.0.0 ai.northstartravelmedia.com
@@ -30512,7 +30509,6 @@
 0.0.0.0 al.dmm.co.jp
 0.0.0.0 al.dmm.com
 0.0.0.0 al.inchinghilda.cfd
-0.0.0.0 al.lgsmartad.com
 0.0.0.0 al.macawsconges.com
 0.0.0.0 al.nettledlall.shop
 0.0.0.0 al.retypesbahoe.com
@@ -31381,7 +31377,6 @@
 0.0.0.0 am.graftsemunct.qpon
 0.0.0.0 am.justtube.net
 0.0.0.0 am.lazybumblebee.com
-0.0.0.0 am.lgsmartad.com
 0.0.0.0 am.lucentjosephs.cfd
 0.0.0.0 am.medialaben.no
 0.0.0.0 am.parodostaunter.qpon
@@ -31931,7 +31926,6 @@
 0.0.0.0 an.crockyems.cyou
 0.0.0.0 an.facebook.com
 0.0.0.0 an.inlaikplayday.cyou
-0.0.0.0 an.lgsmartad.com
 0.0.0.0 an.mail.ru
 0.0.0.0 an.media-active.ru
 0.0.0.0 an.pornone.com
@@ -34344,7 +34338,6 @@
 0.0.0.0 ao.halfsamh.com
 0.0.0.0 ao.kompeniharling.cyou
 0.0.0.0 ao.laiserpeglet.com
-0.0.0.0 ao.lgsmartad.com
 0.0.0.0 ao.nesereomit.shop
 0.0.0.0 ao.organicpimping.com
 0.0.0.0 ao.tombacsmimir.cfd
@@ -37656,7 +37649,6 @@
 0.0.0.0 ar.hackletrappels.com
 0.0.0.0 ar.info.lgsmartad.com
 0.0.0.0 ar.lesbianbliss.com
-0.0.0.0 ar.lgsmartad.com
 0.0.0.0 ar.meteocast.net
 0.0.0.0 ar.nextlgsdp.com
 0.0.0.0 ar.prd.content.itv.com
@@ -38918,6 +38910,7 @@
 0.0.0.0 at-w-atorf-relay.iocnt.net
 0.0.0.0 at.ad.lgsmartad.com
 0.0.0.0 at.ads.justpremium.com
+0.0.0.0 at.alpine-point.com
 0.0.0.0 at.artistchai.co.kr
 0.0.0.0 at.atwola.com
 0.0.0.0 at.bahn.de
@@ -38940,7 +38933,6 @@
 0.0.0.0 at.irgedvei.shop
 0.0.0.0 at.ketonaktiv.com
 0.0.0.0 at.khattibandlet.com
-0.0.0.0 at.lgsmartad.com
 0.0.0.0 at.locale.online
 0.0.0.0 at.nhnace.com
 0.0.0.0 at.nneelkwerf.net
@@ -39189,6 +39181,7 @@
 0.0.0.0 att.conversions.appsflyersdk.com
 0.0.0.0 att.demdex.net
 0.0.0.0 att.dlsdk.appsflyersdk.com
+0.0.0.0 att.hqvrm.shop
 0.0.0.0 att.kalitvicnvo.shop
 0.0.0.0 att.launches.appsflyersdk.com
 0.0.0.0 att.prod.adjoe.zone
@@ -39347,7 +39340,6 @@
 0.0.0.0 au.ibs.nextlgsdp.com
 0.0.0.0 au.ibsstat.nextlgsdp.com
 0.0.0.0 au.info.lgsmartad.com
-0.0.0.0 au.lgsmartad.com
 0.0.0.0 au.locale.online
 0.0.0.0 au.nextlgsdp.com
 0.0.0.0 au.optable.co
@@ -40173,7 +40165,6 @@
 0.0.0.0 aw.allodiawangler.cfd
 0.0.0.0 aw.dw.impact-ad.jp
 0.0.0.0 aw.kanaimacercis.shop
-0.0.0.0 aw.lgsmartad.com
 0.0.0.0 aw.monitorchives.cfd
 0.0.0.0 aw.mopeierrykes.qpon
 0.0.0.0 aw.morrowssuine.qpon
@@ -40607,7 +40598,6 @@
 0.0.0.0 az.components-store.com
 0.0.0.0 az.contentsquare.net
 0.0.0.0 az.knowwaltron.cyou
-0.0.0.0 az.lgsmartad.com
 0.0.0.0 az.meteocast.net
 0.0.0.0 az.mutuantgoller.qpon
 0.0.0.0 az.proteinbuts.cfd
@@ -41338,7 +41328,6 @@
 0.0.0.0 ba.journaldesfemmes.com
 0.0.0.0 ba.kachaverite.shop
 0.0.0.0 ba.kioskea.net
-0.0.0.0 ba.lgsmartad.com
 0.0.0.0 ba.nonsuiteunice.qpon
 0.0.0.0 ba.pxf.io
 0.0.0.0 ba.tt.omtrdc.net
@@ -42389,7 +42378,6 @@
 0.0.0.0 bb.cloudad.icu
 0.0.0.0 bb.givemelink.cc
 0.0.0.0 bb.laughslinolic.com
-0.0.0.0 bb.lgsmartad.com
 0.0.0.0 bb.lijit.com
 0.0.0.0 bb.mulleysruta.shop
 0.0.0.0 bb.nodeddriven.shop
@@ -42838,7 +42826,6 @@
 0.0.0.0 be.durationmedia.net
 0.0.0.0 be.everestengagement.com
 0.0.0.0 be.info.lgsmartad.com
-0.0.0.0 be.lgsmartad.com
 0.0.0.0 be.ma
 0.0.0.0 be.siccitycopulas.cfd
 0.0.0.0 be.smartbid.ai
@@ -44045,7 +44032,6 @@
 0.0.0.0 bf.dynatrace.com
 0.0.0.0 bf.ermanibuddie.com
 0.0.0.0 bf.everestengagement.com
-0.0.0.0 bf.lgsmartad.com
 0.0.0.0 bf.macawboutell.cyou
 0.0.0.0 bf.malarflatus.qpon
 0.0.0.0 bf00.cashstaging.app
@@ -44689,7 +44675,6 @@
 0.0.0.0 bg.frenumsveined.cfd
 0.0.0.0 bg.hit.gemius.pl
 0.0.0.0 bg.info.lgsmartad.com
-0.0.0.0 bg.lgsmartad.com
 0.0.0.0 bg.lightporn.net
 0.0.0.0 bg.meteocast.net
 0.0.0.0 bg.pensionhotel.com
@@ -44755,7 +44740,6 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bh.germainplums.cyou
 0.0.0.0 bh.jiggedfiring.cfd
-0.0.0.0 bh.lgsmartad.com
 0.0.0.0 bh.sangleygunsman.com
 0.0.0.0 bh.staidlyglouts.cyou
 0.0.0.0 bh3.net
@@ -45579,6 +45563,7 @@
 0.0.0.0 binozity.com
 0.0.0.0 binph5o7ub3514q463qh26549.litix.io
 0.0.0.0 bio-brennholz.de
+0.0.0.0 bio-stefano.shop
 0.0.0.0 bio.elovify.com
 0.0.0.0 bioaestheticshop.com
 0.0.0.0 bioapoteka.store
@@ -45708,6 +45693,7 @@
 0.0.0.0 bitcoin-everest-ai.fr
 0.0.0.0 bitcoin-pharmacy.com
 0.0.0.0 bitcoin-revolution.org
+0.0.0.0 bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
 0.0.0.0 bitcoineer.ai
@@ -45819,7 +45805,6 @@
 0.0.0.0 bj.attastehogen.shop
 0.0.0.0 bj.imp.voiceads.cn
 0.0.0.0 bj.kiackhaulmy.com
-0.0.0.0 bj.lgsmartad.com
 0.0.0.0 bj.naywardilleism.cfd
 0.0.0.0 bj.zigequiped.cyou
 0.0.0.0 bj2550.com
@@ -46516,6 +46501,7 @@
 0.0.0.0 blum-film.de
 0.0.0.0 blum2000.com
 0.0.0.0 blumebod3.ecopoil6.shishartech.com
+0.0.0.0 blumen365.at
 0.0.0.0 blumenbanmai.de
 0.0.0.0 blumenelbracht.de
 0.0.0.0 blumengretel.de
@@ -46779,7 +46765,6 @@
 0.0.0.0 bo.geocomply.net
 0.0.0.0 bo.goadservices.com
 0.0.0.0 bo.iterspresser.cyou
-0.0.0.0 bo.lgsmartad.com
 0.0.0.0 bo.machinjumbly.shop
 0.0.0.0 bo.rivalireful.qpon
 0.0.0.0 bo0tihe29g9lqgp5qflu7i9n9.litix.io
@@ -47600,7 +47585,6 @@
 0.0.0.0 br.ibsstat.nextlgsdp.com
 0.0.0.0 br.incognia.com
 0.0.0.0 br.info.lgsmartad.com
-0.0.0.0 br.lgsmartad.com
 0.0.0.0 br.locale.online
 0.0.0.0 br.nextlgsdp.com
 0.0.0.0 br.pftk.temu.com
@@ -48336,7 +48320,6 @@
 0.0.0.0 bs.cyclonechiefer.qpon
 0.0.0.0 bs.direct
 0.0.0.0 bs.evelinavendage.cyou
-0.0.0.0 bs.lgsmartad.com
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 bs.orsk.ru
 0.0.0.0 bs.serving-sys.com
@@ -48753,7 +48736,6 @@
 0.0.0.0 bullaeyebree.com
 0.0.0.0 bullanagal.qpon
 0.0.0.0 bullbit.net
-0.0.0.0 bullbittrade.com
 0.0.0.0 bulldogcpi.com
 0.0.0.0 bulletinmoonoral.com
 0.0.0.0 bulletinsituatedelectronics.com
@@ -49388,7 +49370,6 @@
 0.0.0.0 bz.babwandle.qpon
 0.0.0.0 bz.embaclechaft.com
 0.0.0.0 bz.getui.net
-0.0.0.0 bz.lgsmartad.com
 0.0.0.0 bz.nw6qe1o79p94fjr7jc.cfd
 0.0.0.0 bz.phphtmizzly.qpon
 0.0.0.0 bz.recartmuleys.qpon
@@ -50319,7 +50300,6 @@
 0.0.0.0 ca.info.lgsmartad.com
 0.0.0.0 ca.jivosite.com
 0.0.0.0 ca.lesbianbliss.com
-0.0.0.0 ca.lgsmartad.com
 0.0.0.0 ca.lijit.pixel.invitemedia.com
 0.0.0.0 ca.locale.online
 0.0.0.0 ca.luteousoecus.com
@@ -51461,6 +51441,7 @@
 0.0.0.0 catalogapi.azure.com.office.ofportal.qaeuprod202.myshn.eu
 0.0.0.0 catalogue.advertising.amazon.dev
 0.0.0.0 cataloguedelay.com
+0.0.0.0 catalunyafarm.com
 0.0.0.0 catalyst-analytics.net
 0.0.0.0 catalyst.adgrx.com
 0.0.0.0 catalystcrown.com
@@ -51882,7 +51863,6 @@
 0.0.0.0 cd.dabansuan.cn
 0.0.0.0 cd.ladsp.com
 0.0.0.0 cd.ladsp.jp
-0.0.0.0 cd.lgsmartad.com
 0.0.0.0 cd.morgnondeep.com
 0.0.0.0 cd.navdmp.com
 0.0.0.0 cd.qurushreviews.shop
@@ -54119,7 +54099,6 @@
 0.0.0.0 cdp.omeda.com
 0.0.0.0 cdp.qwilr.com
 0.0.0.0 cdp.yna.co.kr
-0.0.0.0 cdpbeacon.lgtvcommon.com
 0.0.0.0 cdpdp.arcticcool.com
 0.0.0.0 cdpe56z8.emltrk.com
 0.0.0.0 cdpomwfeakxsv.website
@@ -54571,7 +54550,6 @@
 0.0.0.0 cf.im-apps.net
 0.0.0.0 cf.journity.com
 0.0.0.0 cf.lacierisotach.cfd
-0.0.0.0 cf.lgsmartad.com
 0.0.0.0 cf.papelonvangeli.cfd
 0.0.0.0 cf.pcpitstop.com
 0.0.0.0 cf.pubfuture-ad.com
@@ -54674,7 +54652,6 @@
 0.0.0.0 cg.chievegambian.cyou
 0.0.0.0 cg.clairesopilia.shop
 0.0.0.0 cg.frskulk.com
-0.0.0.0 cg.lgsmartad.com
 0.0.0.0 cg.niobefrogeye.com
 0.0.0.0 cg.pepolianes.qpon
 0.0.0.0 cg.sioninganodon.cyou
@@ -54742,7 +54719,6 @@
 0.0.0.0 ch.cuteasiangirl.net
 0.0.0.0 ch.gluconv.com
 0.0.0.0 ch.info.lgsmartad.com
-0.0.0.0 ch.lgsmartad.com
 0.0.0.0 ch.pedesisoestrin.cfd
 0.0.0.0 ch.pestfulwoks.qpon
 0.0.0.0 ch.roueyelver.cfd
@@ -55534,7 +55510,6 @@
 0.0.0.0 ci.gov-bam.nr-data.net
 0.0.0.0 ci.herniasacrook.cfd
 0.0.0.0 ci.iguazu.doordash.com
-0.0.0.0 ci.lgsmartad.com
 0.0.0.0 ci.log-api.cell.nr-data.net
 0.0.0.0 ci.logging.diagnostics.office.com
 0.0.0.0 ci.stywardfairies.shop
@@ -56050,7 +56025,6 @@
 0.0.0.0 cl.hirefrederick.com
 0.0.0.0 cl.info.lgsmartad.com
 0.0.0.0 cl.k5a.io
-0.0.0.0 cl.lgsmartad.com
 0.0.0.0 cl.llsuccent.cyou
 0.0.0.0 cl.locale.online
 0.0.0.0 cl.mayhapmonisms.com
@@ -57512,7 +57486,6 @@
 0.0.0.0 cm.jsonline.com
 0.0.0.0 cm.keywordsconnect.com
 0.0.0.0 cm.l.qq.com
-0.0.0.0 cm.lgsmartad.com
 0.0.0.0 cm.lndata.com
 0.0.0.0 cm.masky.biddingx.com
 0.0.0.0 cm.mediav.com
@@ -57798,7 +57771,6 @@
 0.0.0.0 cn.exedentslyly.cfd
 0.0.0.0 cn.jaspecalyces.qpon
 0.0.0.0 cn.jivosite.com
-0.0.0.0 cn.lgsmartad.com
 0.0.0.0 cn.macacusdame.com
 0.0.0.0 cn.mt
 0.0.0.0 cn.mvconf.50union.com
@@ -58005,7 +57977,6 @@
 0.0.0.0 co.info.lgsmartad.com
 0.0.0.0 co.jp.clearwebstats.com
 0.0.0.0 co.kvaedit.site
-0.0.0.0 co.lgsmartad.com
 0.0.0.0 co.murrybichord.shop
 0.0.0.0 co.nextlgsdp.com
 0.0.0.0 co.octicbistro.shop
@@ -61516,7 +61487,6 @@
 0.0.0.0 cr.chorgilaxly.cfd
 0.0.0.0 cr.frontend.weborama.fr
 0.0.0.0 cr.info.lgsmartad.com
-0.0.0.0 cr.lgsmartad.com
 0.0.0.0 cr.locsensads.com
 0.0.0.0 cr.m.liebao.cn
 0.0.0.0 cr2-p21.ladsp.com
@@ -62756,7 +62726,6 @@
 0.0.0.0 cu.5rjz91kppoz925o95vqhwt3e1.cfd
 0.0.0.0 cu.fawnoverfat.shop
 0.0.0.0 cu.herdmenshairds.shop
-0.0.0.0 cu.lgsmartad.com
 0.0.0.0 cu.liedpalolo.cfd
 0.0.0.0 cu.moffhalberd.cyou
 0.0.0.0 cu.slidviols.qpon
@@ -63093,7 +63062,6 @@
 0.0.0.0 cv.duba.net
 0.0.0.0 cv.genipspillion.com
 0.0.0.0 cv.gunosy.com
-0.0.0.0 cv.lgsmartad.com
 0.0.0.0 cv.link-ag.net
 0.0.0.0 cv.mieru-ca.com
 0.0.0.0 cv.poisurejemima.cfd
@@ -63456,7 +63424,6 @@
 0.0.0.0 cz.garotedpileus.qpon
 0.0.0.0 cz.hoinsealch.qpon
 0.0.0.0 cz.info.lgsmartad.com
-0.0.0.0 cz.lgsmartad.com
 0.0.0.0 cz.made.porn
 0.0.0.0 cz.nextlgsdp.com
 0.0.0.0 cz.nibbedcorf.shop
@@ -65399,6 +65366,7 @@
 0.0.0.0 dailystarnewstoday.com
 0.0.0.0 dailysubsidy.com
 0.0.0.0 dailytelegraphnewstoday.com
+0.0.0.0 dailywireix.info
 0.0.0.0 daimlerag.d2.sc.omtrdc.net
 0.0.0.0 daimons.mechirearlish.cfd
 0.0.0.0 daintynotice.com
@@ -66882,7 +66850,6 @@
 0.0.0.0 de.jxsaen.shop
 0.0.0.0 de.landalv.com
 0.0.0.0 de.landpld.com
-0.0.0.0 de.lgsmartad.com
 0.0.0.0 de.locale.online
 0.0.0.0 de.looker.com
 0.0.0.0 de.ludopope.qpon
@@ -68865,7 +68832,6 @@
 0.0.0.0 diarizedeploy.cyou
 0.0.0.0 diarrhoeaeaglesunday.com
 0.0.0.0 diary.cliapi-udp.mergesigma.com
-0.0.0.0 diaryofafitmommy.com
 0.0.0.0 diasgajzekz.com
 0.0.0.0 diasyrmunionic.com
 0.0.0.0 diavolo.criblarkscores.cyou
@@ -69641,7 +69607,6 @@
 0.0.0.0 dj.founderhaes.com
 0.0.0.0 dj.hagweedrecit.cyou
 0.0.0.0 dj.impendtewter.com
-0.0.0.0 dj.lgsmartad.com
 0.0.0.0 dj.mongrelacor.qpon
 0.0.0.0 dj.peppinisurus.cfd
 0.0.0.0 dj.renren.com
@@ -69713,7 +69678,6 @@
 0.0.0.0 dk.fra-01.braze.eu
 0.0.0.0 dk.iad-02.braze.com
 0.0.0.0 dk.info.lgsmartad.com
-0.0.0.0 dk.lgsmartad.com
 0.0.0.0 dk.nextlgsdp.com
 0.0.0.0 dk.prossbiacuru.shop
 0.0.0.0 dk.rdx2.nextlgsdp.com
@@ -69936,7 +69900,6 @@
 0.0.0.0 dm.gg
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm.isnssdk.com
-0.0.0.0 dm.lgsmartad.com
 0.0.0.0 dm.linosfohn.shop
 0.0.0.0 dm.mythosupflow.com
 0.0.0.0 dm.pstatp.com
@@ -70250,7 +70213,6 @@
 0.0.0.0 do.cashstaging.app
 0.0.0.0 do.fantastindents.com
 0.0.0.0 do.hollowaglet.cfd
-0.0.0.0 do.lgsmartad.com
 0.0.0.0 do.towerchico.cyou
 0.0.0.0 do0digwedphcm.cloudfront.net
 0.0.0.0 do1dns3y1w33m.cloudfront.net
@@ -73047,7 +73009,6 @@
 0.0.0.0 dz.ads.justpremium.com
 0.0.0.0 dz.detergesateens.com
 0.0.0.0 dz.info.lgsmartad.com
-0.0.0.0 dz.lgsmartad.com
 0.0.0.0 dz.mmstat.com
 0.0.0.0 dz.otzemeism.qpon
 0.0.0.0 dz.retrampmaybird.shop
@@ -73836,6 +73797,7 @@
 0.0.0.0 eaq2mm.inapps.appsflyersdk.com
 0.0.0.0 eaq2mm.launches.appsflyersdk.com
 0.0.0.0 eaq2mm.register.appsflyersdk.com
+0.0.0.0 eaqrxrpx.shop
 0.0.0.0 ear.mybluehost.me
 0.0.0.0 earatikvavrsa.site
 0.0.0.0 earbossysavvy.com
@@ -74168,7 +74130,6 @@
 0.0.0.0 ec.fartsathel.qpon
 0.0.0.0 ec.info.lgsmartad.com
 0.0.0.0 ec.instapagemetrics.com
-0.0.0.0 ec.lgsmartad.com
 0.0.0.0 ec.moengage.com
 0.0.0.0 ec.thredup.com
 0.0.0.0 ec.waistsbowsery.com
@@ -74737,7 +74698,6 @@
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 ee.info.lgsmartad.com
 0.0.0.0 ee.kamseenkophs.com
-0.0.0.0 ee.lgsmartad.com
 0.0.0.0 ee.locatesprolin.cfd
 0.0.0.0 ee.mxdchoose.qpon
 0.0.0.0 ee.poddishdimaris.cyou
@@ -74966,7 +74926,6 @@
 0.0.0.0 eg.ads.justpremium.com
 0.0.0.0 eg.cortilechet.cyou
 0.0.0.0 eg.hoarsengorgon.qpon
-0.0.0.0 eg.lgsmartad.com
 0.0.0.0 eg.mararastagion.cfd
 0.0.0.0 eg.mazardskokos.qpon
 0.0.0.0 eg.nextlgsdp.com
@@ -75135,8 +75094,6 @@
 0.0.0.0 eic-gfts.nextlgsdp.com
 0.0.0.0 eic-ngfts.lge.com
 0.0.0.0 eic-ngfts.lge.com.edgekey.net
-0.0.0.0 eic-qt2-ngfts.lge.com
-0.0.0.0 eic-qt2-ngfts.lge.com.edgekey.net
 0.0.0.0 eic.5gtb.com
 0.0.0.0 eic.ads.lgtvcommon.com
 0.0.0.0 eic.cdpbeacon.lgtvcommon.com
@@ -77060,7 +77017,6 @@
 0.0.0.0 enrichbovate.cyou
 0.0.0.0 enrichgw.10010.com
 0.0.0.0 enring.kyrinespathicschisms.cfd
-0.0.0.0 enriquetomasshop.shop
 0.0.0.0 enroot.frugsneeborfarset.cyou
 0.0.0.0 enrtx.com
 0.0.0.0 ensemble4cyclisme.com
@@ -77536,6 +77492,7 @@
 0.0.0.0 equatorspitefulbilliards.com
 0.0.0.0 equi-shop.cz
 0.0.0.0 equibeyhhjmuv.com
+0.0.0.0 equiconstructions.com
 0.0.0.0 equid.lophineoutsayresave.cyou
 0.0.0.0 equilibriuk.com
 0.0.0.0 equilibriuminvite.com
@@ -77875,7 +77832,6 @@
 0.0.0.0 es.info.lgsmartad.com
 0.0.0.0 es.justpremium.com
 0.0.0.0 es.landofm.com
-0.0.0.0 es.lgsmartad.com
 0.0.0.0 es.made.porn
 0.0.0.0 es.meteocast.net
 0.0.0.0 es.nextlgsdp.com
@@ -78127,7 +78083,6 @@
 0.0.0.0 et.electronic4you.si
 0.0.0.0 et.grandmatootsy.com
 0.0.0.0 et.kissmetrics.com
-0.0.0.0 et.lgsmartad.com
 0.0.0.0 et.megogo.net
 0.0.0.0 et.meteocast.net
 0.0.0.0 et.nytimes.com
@@ -82553,8 +82508,10 @@
 0.0.0.0 felonesbeman.com
 0.0.0.0 felonspicuda.cfd
 0.0.0.0 felphi.com
+0.0.0.0 fels-wertburg.com
 0.0.0.0 felsic.humiriabiallyl.cyou
 0.0.0.0 felsquellgarten.de
+0.0.0.0 felswertburgat.com
 0.0.0.0 feltbicycleshop.com
 0.0.0.0 felterprefet.qpon
 0.0.0.0 feltingguilfat.qpon
@@ -82918,7 +82875,6 @@
 0.0.0.0 fi.greeingpiffero.shop
 0.0.0.0 fi.jainapedicle.cyou
 0.0.0.0 fi.jobmanzingani.com
-0.0.0.0 fi.lgsmartad.com
 0.0.0.0 fi.lightporn.net
 0.0.0.0 fi.meteocast.net
 0.0.0.0 fi.nodallyaushar.cyou
@@ -84359,6 +84315,7 @@
 0.0.0.0 flytechb.com
 0.0.0.0 flytedesk.com
 0.0.0.0 flytenauretas.cyou
+0.0.0.0 flyturkmenistanairlines.eu
 0.0.0.0 flywortartize.qpon
 0.0.0.0 flyxutjhemkgg.space
 0.0.0.0 flyye.cn
@@ -85346,7 +85303,6 @@
 0.0.0.0 fr.jivosite.com
 0.0.0.0 fr.jizzarchives.com
 0.0.0.0 fr.kiplar.com
-0.0.0.0 fr.lgsmartad.com
 0.0.0.0 fr.mazdoorcondite.qpon
 0.0.0.0 fr.meteocast.net
 0.0.0.0 fr.mynudez.com
@@ -85441,6 +85397,7 @@
 0.0.0.0 franken-vertrieb.de
 0.0.0.0 frankencamping.de
 0.0.0.0 frankfurteintrachtshop.com
+0.0.0.0 frankfurter-baumaschinen-anhaenger-gmbh.de
 0.0.0.0 frankiesbikinishop.com
 0.0.0.0 frankiesdubai.com
 0.0.0.0 franklinuniversity.evergage.com
@@ -87086,7 +87043,6 @@
 0.0.0.0 ga.cpatrk.net
 0.0.0.0 ga.getresponse.com
 0.0.0.0 ga.jurishammy.cyou
-0.0.0.0 ga.lgsmartad.com
 0.0.0.0 ga.lidsnestles.cyou
 0.0.0.0 ga.miragyflix.com
 0.0.0.0 ga.mythad.com
@@ -87923,7 +87879,6 @@
 0.0.0.0 gb.ibsstat.nextlgsdp.com
 0.0.0.0 gb.importacaonapratica.com.br
 0.0.0.0 gb.info.lgsmartad.com
-0.0.0.0 gb.lgsmartad.com
 0.0.0.0 gb.log.ninenovo.io
 0.0.0.0 gb.nextlgsdp.com
 0.0.0.0 gb.rdx2.nextlgsdp.com
@@ -88208,7 +88163,6 @@
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gd.bowlegbistort.cfd
 0.0.0.0 gd.geobytes.com
-0.0.0.0 gd.lgsmartad.com
 0.0.0.0 gd.orlcloop.com
 0.0.0.0 gd.osakaboras.shop
 0.0.0.0 gd.oxskinbini.cyou
@@ -88343,7 +88297,6 @@
 0.0.0.0 ge.gloealcolloq.cfd
 0.0.0.0 ge.grewiabromus.com
 0.0.0.0 ge.guhasisals.qpon
-0.0.0.0 ge.lgsmartad.com
 0.0.0.0 ge.thebloomcar.com
 0.0.0.0 ge.upglidetectona.cfd
 0.0.0.0 ge364.streamingtv687.com
@@ -88444,7 +88397,6 @@
 0.0.0.0 geldvision.com
 0.0.0.0 geledonewytlj.online
 0.0.0.0 gelirartisi.com
-0.0.0.0 gelmalls.com
 0.0.0.0 gelosievinterplaga.cyou
 0.0.0.0 gelpro.pxf.io
 0.0.0.0 gelschuhe.de
@@ -89138,6 +89090,7 @@
 0.0.0.0 gfm.mybluehost.me
 0.0.0.0 gfmlgl.adrevenue.appsflyersdk.com
 0.0.0.0 gfmlgl.launches.appsflyersdk.com
+0.0.0.0 gfn-north.de
 0.0.0.0 gfonts.adnz.co
 0.0.0.0 gfoqmtwpoodsy.space
 0.0.0.0 gfore-suomi.com
@@ -89241,7 +89194,6 @@
 0.0.0.0 gh.drivescyborgs.cyou
 0.0.0.0 gh.info.lgsmartad.com
 0.0.0.0 gh.khetglynn.com
-0.0.0.0 gh.lgsmartad.com
 0.0.0.0 gh.vannetlignone.qpon
 0.0.0.0 gh0p.biz
 0.0.0.0 gh8fiugo.xyz
@@ -90081,6 +90033,7 @@
 0.0.0.0 gluiesttubelet.shop
 0.0.0.0 gluish.leptabalarao.qpon
 0.0.0.0 glum-mortgage.com
+0.0.0.0 glumentrol.com
 0.0.0.0 glumesfracted.cyou
 0.0.0.0 glummy.brazerszapoteaxonia.qpon
 0.0.0.0 glummydactyli.qpon
@@ -90093,6 +90046,7 @@
 0.0.0.0 glurvextopin-official.com
 0.0.0.0 gluservices.s3.amazonaws.com
 0.0.0.0 glusidforwake.qpon
+0.0.0.0 glutadrops.com
 0.0.0.0 glutenmuttsensuous.com
 0.0.0.0 gluvrkcvvldus.website
 0.0.0.0 gluyxsrwtuktb.com
@@ -90110,7 +90064,6 @@
 0.0.0.0 gm.demdex.net
 0.0.0.0 gm.egaliteinlake.shop
 0.0.0.0 gm.hillghibli.shop
-0.0.0.0 gm.lgsmartad.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 gm.mob.com
 0.0.0.0 gm1746.cdn-settings.appsflyersdk.com
@@ -90194,7 +90147,6 @@
 0.0.0.0 gmzglobal.net
 0.0.0.0 gmzybyparfece.space
 0.0.0.0 gn-flagpoles.api.bbci.co.uk
-0.0.0.0 gn.lgsmartad.com
 0.0.0.0 gn.monoseunhands.cyou
 0.0.0.0 gn.placeprecept.cfd
 0.0.0.0 gn.unonaunpawn.cfd
@@ -90449,6 +90401,7 @@
 0.0.0.0 go.jivosite.com
 0.0.0.0 go.jlg.com
 0.0.0.0 go.jtbbwt.com
+0.0.0.0 go.kryptofokus.co
 0.0.0.0 go.kumcams.com
 0.0.0.0 go.labelexpo.com
 0.0.0.0 go.langleimproof.cyou
@@ -91211,7 +91164,6 @@
 0.0.0.0 gp.jivosite.com
 0.0.0.0 gp.kohencupania.cfd
 0.0.0.0 gp.korovaafflux.qpon
-0.0.0.0 gp.lgsmartad.com
 0.0.0.0 gp.lupercigoa.cfd
 0.0.0.0 gp.mulmhitch.cfd
 0.0.0.0 gp.toylessdispute.cfd
@@ -91293,7 +91245,6 @@
 0.0.0.0 gq.brahmicassurer.qpon
 0.0.0.0 gq.brazensstaling.cfd
 0.0.0.0 gq.iridousvises.shop
-0.0.0.0 gq.lgsmartad.com
 0.0.0.0 gq.ploveryclamor.qpon
 0.0.0.0 gq.rayonneluaus.qpon
 0.0.0.0 gq.ringeyegair.qpon
@@ -91345,7 +91296,6 @@
 0.0.0.0 gr.hedgingfingan.cfd
 0.0.0.0 gr.info.lgsmartad.com
 0.0.0.0 gr.kneveletymon.qpon
-0.0.0.0 gr.lgsmartad.com
 0.0.0.0 gr.linkwi.se
 0.0.0.0 gr.locale.online
 0.0.0.0 gr.maniferreynold.qpon
@@ -92109,7 +92059,6 @@
 0.0.0.0 gt.embargoapertly.com
 0.0.0.0 gt.idledpich.cfd
 0.0.0.0 gt.info.lgsmartad.com
-0.0.0.0 gt.lgsmartad.com
 0.0.0.0 gt.plantallicit.qpon
 0.0.0.0 gt.unbrownunflat.com
 0.0.0.0 gt232558.com
@@ -92820,7 +92769,6 @@
 0.0.0.0 gy.deisticpanier.qpon
 0.0.0.0 gy.gepush.com
 0.0.0.0 gy.kluckerkalysis.qpon
-0.0.0.0 gy.lgsmartad.com
 0.0.0.0 gy.majeurecometic.shop
 0.0.0.0 gya.temporary.site
 0.0.0.0 gyassacovings.cfd
@@ -95477,6 +95425,7 @@
 0.0.0.0 himeko.iboslot.app
 0.0.0.0 himmelok.com
 0.0.0.0 himmeltragen.com
+0.0.0.0 himmonyambiente.com
 0.0.0.0 himosteg.xyz
 0.0.0.0 hinato-tech.de
 0.0.0.0 hinchlastageencycl.qpon
@@ -95726,7 +95675,6 @@
 0.0.0.0 hk.dotnxdomain.net
 0.0.0.0 hk.goforandroid.com
 0.0.0.0 hk.info.lgsmartad.com
-0.0.0.0 hk.lgsmartad.com
 0.0.0.0 hk.napi.ucweb.com
 0.0.0.0 hk.swaverlimps.cfd
 0.0.0.0 hk.uac65.hknet.com
@@ -95983,7 +95931,6 @@
 0.0.0.0 hn.haggeisdewdrop.qpon
 0.0.0.0 hn.info.lgsmartad.com
 0.0.0.0 hn.inspectlet.com
-0.0.0.0 hn.lgsmartad.com
 0.0.0.0 hn.nextlgsdp.com
 0.0.0.0 hn.rdx2.nextlgsdp.com
 0.0.0.0 hn0nba.cdn-settings.appsflyersdk.com
@@ -96306,7 +96253,6 @@
 0.0.0.0 homepages.rootsweb.com
 0.0.0.0 homepc.it
 0.0.0.0 homeplaceshop.com
-0.0.0.0 homeprv.lgtvcommon.com
 0.0.0.0 homer-prod1.aws-us-east-1.mr-in.com
 0.0.0.0 homer.playground.rokt.com
 0.0.0.0 homersport.de
@@ -96889,7 +96835,6 @@
 0.0.0.0 hr.coursedangico.qpon
 0.0.0.0 hr.hit.gemius.pl
 0.0.0.0 hr.info.lgsmartad.com
-0.0.0.0 hr.lgsmartad.com
 0.0.0.0 hr.meteocast.net
 0.0.0.0 hr.qatszonelet.cyou
 0.0.0.0 hr.quasheenunhood.com
@@ -97073,7 +97018,6 @@
 0.0.0.0 ht.casatealibi.qpon
 0.0.0.0 ht.components-store.com
 0.0.0.0 ht.indultsoupon.qpon
-0.0.0.0 ht.lgsmartad.com
 0.0.0.0 ht.pornhub.com
 0.0.0.0 ht.redtube.com
 0.0.0.0 ht.spankwire.com
@@ -97210,7 +97154,6 @@
 0.0.0.0 hu.hit.gemius.pl
 0.0.0.0 hu.info.lgsmartad.com
 0.0.0.0 hu.lastrewessel.cfd
-0.0.0.0 hu.lgsmartad.com
 0.0.0.0 hu.locale.online
 0.0.0.0 hu.meteocast.net
 0.0.0.0 hu.podialstates.cfd
@@ -97803,6 +97746,7 @@
 0.0.0.0 hydraulicboatparts.com
 0.0.0.0 hydride.haresteels.cyou
 0.0.0.0 hydrip.de
+0.0.0.0 hydroflaskaustria.com
 0.0.0.0 hyeqzfqgubqkj.space
 0.0.0.0 hyfen-tech.de
 0.0.0.0 hyffdbcqcyzqs.space
@@ -98947,7 +98891,6 @@
 0.0.0.0 id.ionanalytics.com
 0.0.0.0 id.jixie.io
 0.0.0.0 id.layerfive.com
-0.0.0.0 id.lgsmartad.com
 0.0.0.0 id.locale.online
 0.0.0.0 id.meteocast.net
 0.0.0.0 id.navegg.com
@@ -99184,7 +99127,6 @@
 0.0.0.0 ie.ervilextorts.cfd
 0.0.0.0 ie.info.lgsmartad.com
 0.0.0.0 ie.jowlssolicit.cfd
-0.0.0.0 ie.lgsmartad.com
 0.0.0.0 ie.locale.online
 0.0.0.0 ie.nextlgsdp.com
 0.0.0.0 ie.purauwede.qpon
@@ -99383,14 +99325,11 @@
 0.0.0.0 igexin.com
 0.0.0.0 igexvt0y.emltrk.com
 0.0.0.0 igfgnaesszzpk.space
-0.0.0.0 igfiv.talentway-at.com
 0.0.0.0 igfollows.net
 0.0.0.0 igg-games.co
 0.0.0.0 iggcszxljlchr.website
 0.0.0.0 iggfwsbqonyyw.online
 0.0.0.0 iginimhtppjum.website
-0.0.0.0 igj.talentway-at.com
-0.0.0.0 igk.talentway-at.com
 0.0.0.0 igkhupjtzyaaa.space
 0.0.0.0 iglangeh.com
 0.0.0.0 iglhinccp.com
@@ -99427,7 +99366,6 @@
 0.0.0.0 ignoringacclaim.com
 0.0.0.0 ignoringincur.com
 0.0.0.0 ignouonline.com
-0.0.0.0 igo.talentway-at.com
 0.0.0.0 igobmxltyvjfv.website
 0.0.0.0 igodigital.com
 0.0.0.0 igona.de
@@ -99445,7 +99383,6 @@
 0.0.0.0 igrowth.com
 0.0.0.0 igrun.com
 0.0.0.0 igs.mybluehost.me
-0.0.0.0 igs.talentway-at.com
 0.0.0.0 igsfxaiigsrog.site
 0.0.0.0 igshhiazyqoxv.space
 0.0.0.0 igsy6t-launches.appsflyersdk.com
@@ -99459,9 +99396,7 @@
 0.0.0.0 igvkixoxvsvih.space
 0.0.0.0 igvnfhtdjqkqx.website
 0.0.0.0 igwvgupdate.5sgpx3u4sl.sc-library.work.gd
-0.0.0.0 igx.talentway-at.com
 0.0.0.0 igyswjdwkppmo.online
-0.0.0.0 igzd.talentway-at.com
 0.0.0.0 ih-11-0.848trk.com
 0.0.0.0 ih-25-0.848trk.com
 0.0.0.0 ih-27-0.848trk.com
@@ -99751,7 +99686,6 @@
 0.0.0.0 il.info.lgsmartad.com
 0.0.0.0 il.keepnetfrankly.shop
 0.0.0.0 il.koboldmoreish.com
-0.0.0.0 il.lgsmartad.com
 0.0.0.0 il.locale.online
 0.0.0.0 il.nextlgsdp.com
 0.0.0.0 il.ungagedhulloo.com
@@ -101100,7 +101034,6 @@
 0.0.0.0 in.hotjar.com
 0.0.0.0 in.info.lgsmartad.com
 0.0.0.0 in.jivosite.com
-0.0.0.0 in.lgsmartad.com
 0.0.0.0 in.locale.online
 0.0.0.0 in.logs.betterstack.com
 0.0.0.0 in.logtail.com
@@ -103059,7 +102992,6 @@
 0.0.0.0 iq.components-store.com
 0.0.0.0 iq.iboliumviolety.shop
 0.0.0.0 iq.info.lgsmartad.com
-0.0.0.0 iq.lgsmartad.com
 0.0.0.0 iq.pettedalodia.cfd
 0.0.0.0 iq.rillsgraeme.cfd
 0.0.0.0 iq.sambarunpaced.shop
@@ -103166,7 +103098,6 @@
 0.0.0.0 ir.fetchesseminar.cyou
 0.0.0.0 ir.imbutidi.com
 0.0.0.0 ir.info.lgsmartad.com
-0.0.0.0 ir.lgsmartad.com
 0.0.0.0 ir.lugingbirthed.shop
 0.0.0.0 ir.roppsipage.cfd
 0.0.0.0 ir.sarwantamara.cfd
@@ -103326,7 +103257,6 @@
 0.0.0.0 is.dualistesseda.com
 0.0.0.0 is.frowsatieno.cfd
 0.0.0.0 is.intimagluma.shop
-0.0.0.0 is.lgsmartad.com
 0.0.0.0 is.luxup.ru
 0.0.0.0 is.lysategriphus.cfd
 0.0.0.0 is.ptinusmufasal.com
@@ -103550,7 +103480,6 @@
 0.0.0.0 it.jivosite.com
 0.0.0.0 it.jizzarchives.com
 0.0.0.0 it.leechersolaced.shop
-0.0.0.0 it.lgsmartad.com
 0.0.0.0 it.my-ip.club
 0.0.0.0 it.newspackaging.es
 0.0.0.0 it.nextlgsdp.com
@@ -105293,7 +105222,6 @@
 0.0.0.0 jlzebg.life
 0.0.0.0 jm-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 jm.funderarcula.qpon
-0.0.0.0 jm.lgsmartad.com
 0.0.0.0 jm.scragsserener.cfd
 0.0.0.0 jm.ttyunos.com
 0.0.0.0 jm.zoaeaeucrasy.qpon
@@ -105426,7 +105354,6 @@
 0.0.0.0 jo-joshop.com
 0.0.0.0 jo.acaciacoesite.cyou
 0.0.0.0 jo.cashooshut.com
-0.0.0.0 jo.lgsmartad.com
 0.0.0.0 jo.melbet.com
 0.0.0.0 jo.oncosisbedelve.qpon
 0.0.0.0 jo.punkasananym.com
@@ -105756,7 +105683,6 @@
 0.0.0.0 jp.increasingly.co
 0.0.0.0 jp.indexexchange.com
 0.0.0.0 jp.info.lgsmartad.com
-0.0.0.0 jp.lgsmartad.com
 0.0.0.0 jp.lgtvsdp.com
 0.0.0.0 jp.livelog.nexon.com
 0.0.0.0 jp.monterapraham.qpon
@@ -108943,7 +108869,6 @@
 0.0.0.0 ke.cassiekharaj.cfd
 0.0.0.0 ke.excidekombu.com
 0.0.0.0 ke.gappingungloss.com
-0.0.0.0 ke.lgsmartad.com
 0.0.0.0 ke.mitvothmoulage.shop
 0.0.0.0 ke.paeoniccolin.cfd
 0.0.0.0 ke.rundlequinoyl.cfd
@@ -109242,7 +109167,6 @@
 0.0.0.0 kg-legacy-analytics.servicebus.windows.net
 0.0.0.0 kg.blurtsbrerd.com
 0.0.0.0 kg.booteryembrase.shop
-0.0.0.0 kg.lgsmartad.com
 0.0.0.0 kg.neddycheats.cfd
 0.0.0.0 kg.saggarsabrook.qpon
 0.0.0.0 kg.salteechammy.cyou
@@ -109425,7 +109349,6 @@
 0.0.0.0 kic-gfts.nextlgsdp.com
 0.0.0.0 kic-ngfts.lge.com
 0.0.0.0 kic-ngfts.lge.com.edgekey.net
-0.0.0.0 kic-qt2-ngfts.lge.com
 0.0.0.0 kic.cdpbeacon.lgtvcommon.com
 0.0.0.0 kic.homeprv.lgtvcommon.com
 0.0.0.0 kic.nudge.lgtvcommon.com
@@ -110069,7 +109992,6 @@
 0.0.0.0 kn.components-store.com
 0.0.0.0 kn.felonspicuda.cfd
 0.0.0.0 kn.guiserdewax.com
-0.0.0.0 kn.lgsmartad.com
 0.0.0.0 kn.rozzermisshod.qpon
 0.0.0.0 kn5d2r.cdn-settings.appsflyersdk.com
 0.0.0.0 kn5d2r.inapps.appsflyersdk.com
@@ -110586,7 +110508,6 @@
 0.0.0.0 kr.clearwebstats.com
 0.0.0.0 kr.daro.so
 0.0.0.0 kr.info.lgsmartad.com
-0.0.0.0 kr.lgsmartad.com
 0.0.0.0 kr.pftk.temu.com
 0.0.0.0 kr.thtk.temu.com
 0.0.0.0 kr.wildpettykiwi.info
@@ -111253,7 +111174,6 @@
 0.0.0.0 kw.ads.justpremium.com
 0.0.0.0 kw.devilstagish.com
 0.0.0.0 kw.femalepostin.shop
-0.0.0.0 kw.lgsmartad.com
 0.0.0.0 kw.locale.online
 0.0.0.0 kw.ooseunitage.cyou
 0.0.0.0 kw.prolylselety.com
@@ -111400,7 +111320,6 @@
 0.0.0.0 kxx2222.com
 0.0.0.0 kxxyhjamtwozu.space
 0.0.0.0 kxysrmpkrvekx.site
-0.0.0.0 ky.lgsmartad.com
 0.0.0.0 ky.meteocast.net
 0.0.0.0 ky.pembinastrype.shop
 0.0.0.0 ky.premiermylodei.com
@@ -111502,7 +111421,6 @@
 0.0.0.0 kz.detlomta.shop
 0.0.0.0 kz.info.lgsmartad.com
 0.0.0.0 kz.k1wlwifceil7rwcb19rqk5jgk9j7b3.cfd
-0.0.0.0 kz.lgsmartad.com
 0.0.0.0 kz.mitresaxillae.com
 0.0.0.0 kz.pagingsanjaks.cfd
 0.0.0.0 kz.tns-counter.ru
@@ -112450,7 +112368,6 @@
 0.0.0.0 lb.ksk.t.zucks.net
 0.0.0.0 lb.kyc-holdings.com
 0.0.0.0 lb.lbk-sol.com
-0.0.0.0 lb.lgsmartad.com
 0.0.0.0 lb.link-flux.com
 0.0.0.0 lb.linkmob.org
 0.0.0.0 lb.litics-net.com
@@ -112561,7 +112478,6 @@
 0.0.0.0 lc.galwaysnamaste.qpon
 0.0.0.0 lc.jingobreaths.cfd
 0.0.0.0 lc.kilerghairnet.qpon
-0.0.0.0 lc.lgsmartad.com
 0.0.0.0 lc.map.baidu.com
 0.0.0.0 lc.recopick.com
 0.0.0.0 lc22jjtci.xb3cicbx53m8rjxyi94kumyujr.cfd
@@ -113510,6 +113426,7 @@
 0.0.0.0 lgsqxwfwwcqkc.website
 0.0.0.0 lgsvtwhat.website.letterbox-path.com
 0.0.0.0 lgtdkpfnor.com
+0.0.0.0 lgtvcommon.com
 0.0.0.0 lguhcerbqufqc.website
 0.0.0.0 lgunuddjobkyl.online
 0.0.0.0 lgupyhmwrglwg.space
@@ -114719,7 +114636,6 @@
 0.0.0.0 lk.15qqrbprohihpyznwmuy2387whfq8n4gnr1.cfd
 0.0.0.0 lk.ameba.jp
 0.0.0.0 lk.components-store.com
-0.0.0.0 lk.lgsmartad.com
 0.0.0.0 lk.renewpeeves.shop
 0.0.0.0 lk.scenicreshear.shop
 0.0.0.0 lk.signetyachter.cfd
@@ -115364,6 +115280,7 @@
 0.0.0.0 lodeo.io
 0.0.0.0 lodfzblnojzfd.site
 0.0.0.0 lodgeastronautadore.com
+0.0.0.0 lodgeo.shop
 0.0.0.0 lodger.unfoldstholed.cfd
 0.0.0.0 lodgerestless.com
 0.0.0.0 lodgersflaser.qpon
@@ -117115,7 +117032,6 @@
 0.0.0.0 lr.delftsmisease.qpon
 0.0.0.0 lr.echardsvirosis.shop
 0.0.0.0 lr.getletterpress.com
-0.0.0.0 lr.lgsmartad.com
 0.0.0.0 lr.omnibuschuje.cfd
 0.0.0.0 lr.overseanipper.cfd
 0.0.0.0 lr.shoersdogies.shop
@@ -117236,7 +117152,6 @@
 0.0.0.0 lt.dupionignetums.qpon
 0.0.0.0 lt.egokurung.shop
 0.0.0.0 lt.info.lgsmartad.com
-0.0.0.0 lt.lgsmartad.com
 0.0.0.0 lt.logs.roku.com
 0.0.0.0 lt.meteocast.net
 0.0.0.0 lt.oecusbotfly.shop
@@ -117311,7 +117226,6 @@
 0.0.0.0 lu.amimidehaunts.cfd
 0.0.0.0 lu.haycapmeny.com
 0.0.0.0 lu.hymenicshi.qpon
-0.0.0.0 lu.lgsmartad.com
 0.0.0.0 lu.turkmenbpi.cfd
 0.0.0.0 lu9g6hh44p9viwzrxw.cfd
 0.0.0.0 luahrr.asia
@@ -117652,7 +117566,6 @@
 0.0.0.0 lv.daresayfurca.qpon
 0.0.0.0 lv.hudroaches.cfd
 0.0.0.0 lv.junctordasypod.qpon
-0.0.0.0 lv.lgsmartad.com
 0.0.0.0 lv.liveneddrawls.shop
 0.0.0.0 lv.meteocast.net
 0.0.0.0 lv.pimentoorrery.cyou
@@ -117789,7 +117702,6 @@
 0.0.0.0 ly.andriesmemoir.com
 0.0.0.0 ly.barbulasnippet.qpon
 0.0.0.0 ly.crowbarrinds.com
-0.0.0.0 ly.lgsmartad.com
 0.0.0.0 ly.my.sentry.io
 0.0.0.0 ly.pricesunburn.cyou
 0.0.0.0 ly.talipesspirts.com
@@ -118229,7 +118141,6 @@
 0.0.0.0 ma.growth.nwea.org
 0.0.0.0 ma.hillaryluvian.shop
 0.0.0.0 ma.hmhco.com
-0.0.0.0 ma.lgsmartad.com
 0.0.0.0 ma.navchain.com
 0.0.0.0 ma.news.naver.com
 0.0.0.0 ma.outbuzztumbaki.cfd
@@ -120552,7 +120463,6 @@
 0.0.0.0 me.guidonpluteus.com
 0.0.0.0 me.info.lgsmartad.com
 0.0.0.0 me.jsfuz.com
-0.0.0.0 me.lgsmartad.com
 0.0.0.0 me.noemisnakier.com
 0.0.0.0 me.sourestkendo.cfd
 0.0.0.0 me.stape.io
@@ -121141,6 +121051,7 @@
 0.0.0.0 megadealsss.shop
 0.0.0.0 megadeliveryn.com
 0.0.0.0 megadrops-solvprotocol.com
+0.0.0.0 megaelektronik.de
 0.0.0.0 megafiles.xyz
 0.0.0.0 megafliesen24.de
 0.0.0.0 megafog.mizrachpyrites.qpon
@@ -121603,7 +121514,6 @@
 0.0.0.0 metacommunication.xyz
 0.0.0.0 metaconex.io
 0.0.0.0 metacount.com
-0.0.0.0 metad.talentway-at.com
 0.0.0.0 metadata-config-service.magnite.com
 0.0.0.0 metadata-eu.decagon.ai
 0.0.0.0 metadata-static-files.sfo2.cdn.digitaloceanspaces.com
@@ -121629,9 +121539,7 @@
 0.0.0.0 metapic.com
 0.0.0.0 metaproinvest.com
 0.0.0.0 metarouter.io
-0.0.0.0 metas.talentnexuspro-at.com
 0.0.0.0 metashop.dolphinsuite.com
-0.0.0.0 metat.talentnexuspro-at.com
 0.0.0.0 metatas-prod-external.adswizz.com
 0.0.0.0 metatas.adswizz.com
 0.0.0.0 metatas.eks.adswizz.com
@@ -122244,7 +122152,6 @@
 0.0.0.0 mf-versandhandel-gmbh.myshopify.com
 0.0.0.0 mf.atm.youku.com
 0.0.0.0 mf.distilsbrats.cyou
-0.0.0.0 mf.lgsmartad.com
 0.0.0.0 mf.nonaircise.com
 0.0.0.0 mf.profanerotguts.cyou
 0.0.0.0 mf.stylateswisses.cyou
@@ -123325,7 +123232,6 @@
 0.0.0.0 mk.ca-conv.amoad.com
 0.0.0.0 mk.ca-conv.jp
 0.0.0.0 mk.fanonzuni.cfd
-0.0.0.0 mk.lgsmartad.com
 0.0.0.0 mk.meteocast.net
 0.0.0.0 mk.professrandori.com
 0.0.0.0 mk.xylanjabbers.com
@@ -124177,7 +124083,6 @@
 0.0.0.0 ml.ecomail.ecopellet.it
 0.0.0.0 ml.francescasolleville.com
 0.0.0.0 ml.hartlyslask.qpon
-0.0.0.0 ml.lgsmartad.com
 0.0.0.0 ml.meteocast.net
 0.0.0.0 ml.pubnative.net
 0.0.0.0 ml.statcounter.com
@@ -124277,7 +124182,6 @@
 0.0.0.0 mm.dimplyskoptsy.qpon
 0.0.0.0 mm.ipros.jp
 0.0.0.0 mm.jivosite.com
-0.0.0.0 mm.lgsmartad.com
 0.0.0.0 mm.nimrodchelas.cyou
 0.0.0.0 mm.tercetacker.com
 0.0.0.0 mm0hyd.cdn-settings.appsflyersdk.com
@@ -125918,7 +125822,6 @@
 0.0.0.0 mq.infectshrimpi.cfd
 0.0.0.0 mq.infongen.com
 0.0.0.0 mq.intrack.ir
-0.0.0.0 mq.lgsmartad.com
 0.0.0.0 mq.pygmiesmuckles.shop
 0.0.0.0 mq.redwaredeleing.com
 0.0.0.0 mq.scapplebarit.cfd
@@ -125977,7 +125880,6 @@
 0.0.0.0 mr.homedepot.com
 0.0.0.0 mr.kanaragurnet.cyou
 0.0.0.0 mr.leveesredupl.com
-0.0.0.0 mr.lgsmartad.com
 0.0.0.0 mr.looverolent.shop
 0.0.0.0 mr.olympics.com
 0.0.0.0 mr1a.cell.us.nr-data.net
@@ -126111,7 +126013,6 @@
 0.0.0.0 ms.dzen.ru
 0.0.0.0 ms.gestebirgus.cyou
 0.0.0.0 ms.gumgum.com
-0.0.0.0 ms.lgsmartad.com
 0.0.0.0 ms.meteocast.net
 0.0.0.0 ms.mixitefroggy.shop
 0.0.0.0 ms.pippenxd.shop
@@ -126892,7 +126793,6 @@
 0.0.0.0 mw-encyclopediabritannica.adsbynimbus.com
 0.0.0.0 mw-graph.meltwater.io
 0.0.0.0 mw.components-store.com
-0.0.0.0 mw.lgsmartad.com
 0.0.0.0 mw.masscheezit.cyou
 0.0.0.0 mw.offerstrack.net
 0.0.0.0 mw.reelectjon.cfd
@@ -127128,7 +127028,6 @@
 0.0.0.0 my.jst.ai
 0.0.0.0 my.justuno.com
 0.0.0.0 my.leadpages.net
-0.0.0.0 my.lgsmartad.com
 0.0.0.0 my.lifestreetmedia.com
 0.0.0.0 my.logs.netflix.com
 0.0.0.0 my.martylatah.com
@@ -129781,7 +129680,6 @@
 0.0.0.0 ng-vn-notice.gameitop.com
 0.0.0.0 ng.ads.justpremium.com
 0.0.0.0 ng.components-store.com
-0.0.0.0 ng.lgsmartad.com
 0.0.0.0 ng.mayflymaarten.cyou
 0.0.0.0 ng.tbiwtech.com
 0.0.0.0 ng.trizonegauzy.com
@@ -129917,7 +129815,6 @@
 0.0.0.0 ni.groovertestril.cyou
 0.0.0.0 ni.guasagripier.qpon
 0.0.0.0 ni.jaupspookaun.qpon
-0.0.0.0 ni.lgsmartad.com
 0.0.0.0 ni.onthe.io
 0.0.0.0 ni.pinsonsnunnari.qpon
 0.0.0.0 ni.prioriexodium.shop
@@ -130320,7 +130217,6 @@
 0.0.0.0 nl.clearwebstats.com
 0.0.0.0 nl.dewaxeskannen.cyou
 0.0.0.0 nl.info.lgsmartad.com
-0.0.0.0 nl.lgsmartad.com
 0.0.0.0 nl.locale.online
 0.0.0.0 nl.maulersoutgaze.qpon
 0.0.0.0 nl.meteocast.net
@@ -130547,7 +130443,6 @@
 0.0.0.0 no.dressfirst.com
 0.0.0.0 no.ganofpineal.cfd
 0.0.0.0 no.info.lgsmartad.com
-0.0.0.0 no.lgsmartad.com
 0.0.0.0 no.meteocast.net
 0.0.0.0 no.neckingslowly.cfd
 0.0.0.0 no1apps.xyz
@@ -132001,7 +131896,6 @@
 0.0.0.0 nudesexxxx.com
 0.0.0.0 nudewebcamvideos.com
 0.0.0.0 nudge.advance.net
-0.0.0.0 nudge.lgtvcommon.com
 0.0.0.0 nudism-beauty.club
 0.0.0.0 nuesspresso.de
 0.0.0.0 nuevanetwork-7-adswizz.attribution.adswizz.com
@@ -132406,7 +132300,6 @@
 0.0.0.0 nz.gavelerhurr.com
 0.0.0.0 nz.hatteryambry.qpon
 0.0.0.0 nz.info.lgsmartad.com
-0.0.0.0 nz.lgsmartad.com
 0.0.0.0 nz.locale.online
 0.0.0.0 nz.nextlgsdp.com
 0.0.0.0 nz.oecicorking.cyou
@@ -136845,7 +136738,6 @@
 0.0.0.0 om.familysearch.org
 0.0.0.0 om.gratesrhachi.cfd
 0.0.0.0 om.lds.org
-0.0.0.0 om.lgsmartad.com
 0.0.0.0 om.metacrawler.com
 0.0.0.0 om.positumloxotic.qpon
 0.0.0.0 om.skyftepopover.com
@@ -140115,7 +140007,6 @@
 0.0.0.0 p69gs4.moe.video
 0.0.0.0 p6avvw-cdn-settings.appsflyersdk.com
 0.0.0.0 p6avvw-launches.appsflyersdk.com
-0.0.0.0 p6cj.snarkcactus.life
 0.0.0.0 p6fjnp.cdn-settings.appsflyersdk.com
 0.0.0.0 p6iriz.cdn-settings.appsflyersdk.com
 0.0.0.0 p6w9tvcuo96p5zmr2hxt4k8m66vuhynmo1ggz9.cfd
@@ -140177,7 +140068,6 @@
 0.0.0.0 pa.diffgremio.com
 0.0.0.0 pa.firefox.com
 0.0.0.0 pa.info.lgsmartad.com
-0.0.0.0 pa.lgsmartad.com
 0.0.0.0 pa.navetetelurgy.shop
 0.0.0.0 pa.netcoresmartech.com
 0.0.0.0 pa.openx.net
@@ -141699,7 +141589,6 @@
 0.0.0.0 pe.huldeeforgoer.com
 0.0.0.0 pe.info.lgsmartad.com
 0.0.0.0 pe.intentiq.com
-0.0.0.0 pe.lgsmartad.com
 0.0.0.0 pe.prod.rfksrv.com
 0.0.0.0 pe.quellambrein.com
 0.0.0.0 pe.rematchpassee.qpon
@@ -142567,7 +142456,6 @@
 0.0.0.0 ph.fermatcommerce.com
 0.0.0.0 ph.hospitable.com
 0.0.0.0 ph.info.lgsmartad.com
-0.0.0.0 ph.lgsmartad.com
 0.0.0.0 ph.locale.online
 0.0.0.0 ph.mathuprend.cfd
 0.0.0.0 ph.nextlgsdp.com
@@ -143970,7 +143858,6 @@
 0.0.0.0 pk.ads.justpremium.com
 0.0.0.0 pk.alexisskipped.cfd
 0.0.0.0 pk.components-store.com
-0.0.0.0 pk.lgsmartad.com
 0.0.0.0 pk.locale.online
 0.0.0.0 pk.toys
 0.0.0.0 pk.upwallreticle.cyou
@@ -144024,7 +143911,6 @@
 0.0.0.0 pl.connatix.com
 0.0.0.0 pl.elements.video
 0.0.0.0 pl.info.lgsmartad.com
-0.0.0.0 pl.lgsmartad.com
 0.0.0.0 pl.meteocast.net
 0.0.0.0 pl.nextlgsdp.com
 0.0.0.0 pl.pornhub.work
@@ -146021,7 +145907,6 @@
 0.0.0.0 pr.diverbepiural.shop
 0.0.0.0 pr.foldpollex.com
 0.0.0.0 pr.ikovrov.ru
-0.0.0.0 pr.lgsmartad.com
 0.0.0.0 pr.nss.netease.com
 0.0.0.0 pr.octoclick.com
 0.0.0.0 pr.prchecker.info
@@ -147881,7 +147766,6 @@
 0.0.0.0 ps.ispot.tv
 0.0.0.0 ps.l.admedo.com
 0.0.0.0 ps.l.liftdsp.com
-0.0.0.0 ps.lgsmartad.com
 0.0.0.0 ps.mcnetwork.pl
 0.0.0.0 ps.mfadsrvr.com
 0.0.0.0 ps.ns-cdn.com
@@ -148026,7 +147910,6 @@
 0.0.0.0 pt.dwcdn.net
 0.0.0.0 pt.info.lgsmartad.com
 0.0.0.0 pt.ispot.tv
-0.0.0.0 pt.lgsmartad.com
 0.0.0.0 pt.locale.online
 0.0.0.0 pt.meteocast.net
 0.0.0.0 pt.my-ip.club
@@ -149319,7 +149202,6 @@
 0.0.0.0 py.flukedlegato.cyou
 0.0.0.0 py.info.lgsmartad.com
 0.0.0.0 py.keelingchiming.cyou
-0.0.0.0 py.lgsmartad.com
 0.0.0.0 py.orchilspupal.cyou
 0.0.0.0 py.quohogssopping.com
 0.0.0.0 py.rigorkarate.com
@@ -150395,7 +150277,6 @@
 0.0.0.0 qa.identityservices.io
 0.0.0.0 qa.jivosite.com
 0.0.0.0 qa.kochava.com
-0.0.0.0 qa.lgsmartad.com
 0.0.0.0 qa.mapixl.com
 0.0.0.0 qa.metric.firewall.vidaxl.ee
 0.0.0.0 qa.metric.vidaxl.ee
@@ -151721,8 +151602,6 @@
 0.0.0.0 qt.cyberads.io
 0.0.0.0 qt.fleeingrexes.cyou
 0.0.0.0 qt.overgotcaries.com
-0.0.0.0 qt2-ngfts.lge.com
-0.0.0.0 qt2-ngfts.lge.com.edgekey.net
 0.0.0.0 qt2-us.info.lgsmartad.com
 0.0.0.0 qt4hfs.inapps.appsflyersdk.com
 0.0.0.0 qt4hfs.launches.appsflyersdk.com
@@ -157167,7 +157046,6 @@
 0.0.0.0 rdipmrbwgvk.com
 0.0.0.0 rdir.smartshoppingads.co.uk
 0.0.0.0 rdkro.beistravel.com
-0.0.0.0 rdl.lgtvcommon.com
 0.0.0.0 rdlkuvqesmlva.store
 0.0.0.0 rdns.mosaicdataservices.com
 0.0.0.0 rdntpbeivqbjhi.com
@@ -160148,7 +160026,6 @@
 0.0.0.0 ro.forgoula.com
 0.0.0.0 ro.imberbefamose.com
 0.0.0.0 ro.info.lgsmartad.com
-0.0.0.0 ro.lgsmartad.com
 0.0.0.0 ro.locale.online
 0.0.0.0 ro.metelyceriops.cyou
 0.0.0.0 ro.paschalbrahma.shop
@@ -160612,6 +160489,7 @@
 0.0.0.0 rotunda.ncsl.org
 0.0.0.0 rotundoselago.com
 0.0.0.0 rotweibwein.com
+0.0.0.0 rotweinbar.com
 0.0.0.0 rotyka.com
 0.0.0.0 rouble.dlnitinol.qpon
 0.0.0.0 roubouhyokuts.cyou
@@ -160971,7 +160849,6 @@
 0.0.0.0 rs.gwallet.com
 0.0.0.0 rs.info.lgsmartad.com
 0.0.0.0 rs.instantservice.com
-0.0.0.0 rs.lgsmartad.com
 0.0.0.0 rs.livesession.io
 0.0.0.0 rs.mail.ru
 0.0.0.0 rs.pay.com
@@ -161937,7 +161814,6 @@
 0.0.0.0 ru.hartalsynop.qpon
 0.0.0.0 ru.idm.iot.mi.com
 0.0.0.0 ru.info.lgsmartad.com
-0.0.0.0 ru.lgsmartad.com
 0.0.0.0 ru.lightporn.net
 0.0.0.0 ru.made.porn
 0.0.0.0 ru.meteocast.net
@@ -162420,7 +162296,6 @@
 0.0.0.0 rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 0.0.0.0 rw.8wl57n3vciqi6bcw4wo2zylux1bi9x5pc.cfd
-0.0.0.0 rw.lgsmartad.com
 0.0.0.0 rw.maggielimper.com
 0.0.0.0 rw.marchex.io
 0.0.0.0 rw.saphielyes.com
@@ -162436,6 +162311,7 @@
 0.0.0.0 rwaxws.launches.appsflyersdk.com
 0.0.0.0 rwbibzahcpiep.site
 0.0.0.0 rwcdswjfvts.com
+0.0.0.0 rwcstore.com
 0.0.0.0 rwdt.asianxhub.com
 0.0.0.0 rwdzotgusgjjk.site
 0.0.0.0 rweai4fx.emltrk.com
@@ -164225,7 +164101,6 @@
 0.0.0.0 sa.folialrowens.cfd
 0.0.0.0 sa.ia5.scorecardresearch.com
 0.0.0.0 sa.info.lgsmartad.com
-0.0.0.0 sa.lgsmartad.com
 0.0.0.0 sa.looker.com
 0.0.0.0 sa.norimoncremes.com
 0.0.0.0 sa.openmedia.co
@@ -165493,6 +165368,7 @@
 0.0.0.0 scancemontes.com
 0.0.0.0 scandalcalques.cfd
 0.0.0.0 scaniamalamfills.cyou
+0.0.0.0 scannero.io
 0.0.0.0 scanscout.com
 0.0.0.0 scanstockphoto.com
 0.0.0.0 scantra.se
@@ -165577,6 +165453,7 @@
 0.0.0.0 schadensboerse.at
 0.0.0.0 schaedlingsschutz.at
 0.0.0.0 schallreiniger.de
+0.0.0.0 schaltersteckdosen.com
 0.0.0.0 schanzbordman.cfd
 0.0.0.0 scharfdutra.qpon
 0.0.0.0 scharfemesser.de
@@ -165667,11 +165544,9 @@
 0.0.0.0 schmuck-eva.com
 0.0.0.0 schmuckwetting.cfd
 0.0.0.0 schnappchenmarkt.com
-0.0.0.0 schnappi-deal.de
 0.0.0.0 schnefie.de
 0.0.0.0 schneider-boutique.at
 0.0.0.0 schneider-fashionhouse.com
-0.0.0.0 schneider-reifenservice.de
 0.0.0.0 schneider-salzburg.at
 0.0.0.0 schneiderrabatt.com
 0.0.0.0 schneiderundlang.de
@@ -165686,7 +165561,6 @@
 0.0.0.0 schnellkredits.com
 0.0.0.0 schnellstore.de
 0.0.0.0 schochethiols.cyou
-0.0.0.0 schockemohleonlinestore.shop
 0.0.0.0 schoeffel01.webtrekk.net
 0.0.0.0 schoen3dshop.de
 0.0.0.0 schoeppe-heizoel.de
@@ -165699,7 +165573,6 @@
 0.0.0.0 scholarsslate.com
 0.0.0.0 scholasticinc.tt.omtrdc.net
 0.0.0.0 scholzandfriends01.webtrekk.net
-0.0.0.0 schonedamenmode.com
 0.0.0.0 schonentag.online
 0.0.0.0 schoneswetter.de
 0.0.0.0 schonique.com
@@ -165730,6 +165603,7 @@
 0.0.0.0 schuhewienshoponline.com
 0.0.0.0 schuhhaus-greten.de
 0.0.0.0 schuhheld.com
+0.0.0.0 schuhwelten.com
 0.0.0.0 schulte-boutique.de
 0.0.0.0 schultefashion.com
 0.0.0.0 schultemode.de
@@ -165749,11 +165623,9 @@
 0.0.0.0 schwab.tt.omtrdc.net
 0.0.0.0 schwabenholz-brenholzhandeldienstleistungen.de
 0.0.0.0 schwabenmode-stuttgart.de
-0.0.0.0 schwahn-shop.com
 0.0.0.0 schwanhaus.de
 0.0.0.0 schwartz-kollegen.com
 0.0.0.0 schwarzklettern.de
-0.0.0.0 schwarzrunen.de
 0.0.0.0 schwarzseide.myshopify.com
 0.0.0.0 schwedler-apotheken.de
 0.0.0.0 schweibenprofi.com
@@ -166175,7 +166047,6 @@
 0.0.0.0 sd.dvikjewels.com
 0.0.0.0 sd.furudloof.com
 0.0.0.0 sd.iperceptions.com
-0.0.0.0 sd.lgsmartad.com
 0.0.0.0 sd.monetate.net
 0.0.0.0 sd.neonsacroama.qpon
 0.0.0.0 sd.seizoropiatic.cfd
@@ -166615,7 +166486,6 @@
 0.0.0.0 se.gweeonscar.qpon
 0.0.0.0 se.info.lgsmartad.com
 0.0.0.0 se.jivosite.com
-0.0.0.0 se.lgsmartad.com
 0.0.0.0 se.mk.emna.katespadeoutlet.com
 0.0.0.0 se.monetate.net
 0.0.0.0 se.news.johnstonandmurphy-email.com
@@ -167143,7 +167013,6 @@
 0.0.0.0 sedodna.fs.ak-is2.net
 0.0.0.0 sedodna.xml.ak-is2.net
 0.0.0.0 sedoparking.com
-0.0.0.0 sedore.de
 0.0.0.0 sedotracker.com
 0.0.0.0 sedotracker.de
 0.0.0.0 seduceboozeblackmail.com
@@ -168274,7 +168143,6 @@
 0.0.0.0 serrage.spiledacier.cfd
 0.0.0.0 serraisawah.cfd
 0.0.0.0 serranberime.com
-0.0.0.0 serresbarre.com
 0.0.0.0 serriedpotassajazy.cyou
 0.0.0.0 serriesdiscosnots.cfd
 0.0.0.0 serrula.rajmisstepspartle.qpon
@@ -168659,8 +168527,6 @@
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service-baxi.at
 0.0.0.0 service-cmp.com
-0.0.0.0 service-finanzonline.at
-0.0.0.0 service-gesundheitskasse.at
 0.0.0.0 service-rundfunkbeitrag.de
 0.0.0.0 service-standesamt.de
 0.0.0.0 service.ad.adesk.com
@@ -168944,7 +168810,6 @@
 0.0.0.0 sewingbleaklantern.com
 0.0.0.0 sewingfreaky.com
 0.0.0.0 sewlqwcd.biz
-0.0.0.0 sewnmf.shop
 0.0.0.0 sex-chat.me
 0.0.0.0 sex-picsxxx.name
 0.0.0.0 sex.anne01704576.site
@@ -169246,7 +169111,6 @@
 0.0.0.0 sg.info.lgsmartad.com
 0.0.0.0 sg.kilergghettos.cfd
 0.0.0.0 sg.kwai.com
-0.0.0.0 sg.lgsmartad.com
 0.0.0.0 sg.mmstat.com
 0.0.0.0 sg.mythad.com
 0.0.0.0 sg.notice.adx.paddlewaver.com
@@ -169662,7 +169526,6 @@
 0.0.0.0 sh2o-ue472.imptracking.com
 0.0.0.0 shaahidon2.12hp.ch
 0.0.0.0 shaaid4u.net
-0.0.0.0 shaarks.com
 0.0.0.0 shabab.ps
 0.0.0.0 shabby-original.pro
 0.0.0.0 shachledumbest.shop
@@ -170063,7 +169926,6 @@
 0.0.0.0 shirteu365.com
 0.0.0.0 shirtplatitude.com
 0.0.0.0 shirtsandpolosde.com
-0.0.0.0 shirtspolos.com
 0.0.0.0 shiseido.demdex.net
 0.0.0.0 shishartech.com
 0.0.0.0 shitainfamy.cyou
@@ -170380,9 +170242,7 @@
 0.0.0.0 shoptrafficentertainment.com
 0.0.0.0 shoptrailside.com
 0.0.0.0 shopuglymoon.com
-0.0.0.0 shopunivers.de
 0.0.0.0 shopurbanapparel.com
-0.0.0.0 shopuru.de
 0.0.0.0 shopvaley.com
 0.0.0.0 shopvisionen.de
 0.0.0.0 shopvitalitys.com
@@ -170587,7 +170447,6 @@
 0.0.0.0 si.hikerfaquirs.com
 0.0.0.0 si.hit.gemius.pl
 0.0.0.0 si.humatesmyiosis.com
-0.0.0.0 si.lgsmartad.com
 0.0.0.0 si.ptqy.gitv.tv
 0.0.0.0 si.renegsucces.qpon
 0.0.0.0 si0pmatco5dg7xj8w-mercadolibre.siteintercept.qualtrics.com
@@ -171178,7 +171037,6 @@
 0.0.0.0 siwashfetcher.top
 0.0.0.0 six-pack.pxf.io
 0.0.0.0 six.cdn-net.com
-0.0.0.0 sixaquis.com
 0.0.0.0 sixbaby.xyz
 0.0.0.0 sixburbles.cfd
 0.0.0.0 sixcontinents.us-1.evergage.com
@@ -171362,7 +171220,6 @@
 0.0.0.0 sk.fapnow.xxx
 0.0.0.0 sk.hit.gemius.pl
 0.0.0.0 sk.infilebivial.shop
-0.0.0.0 sk.lgsmartad.com
 0.0.0.0 sk.meteocast.net
 0.0.0.0 sk.search.etargetnet.com
 0.0.0.0 sk.snippedwearers.shop
@@ -171468,7 +171325,6 @@
 0.0.0.0 skimss.at
 0.0.0.0 skimssuomi.com
 0.0.0.0 skin.qc.coccoc.com
-0.0.0.0 skina.nu
 0.0.0.0 skinfulwinkled.cyou
 0.0.0.0 skinhead.com
 0.0.0.0 skinit.7eer.net
@@ -171497,7 +171353,6 @@
 0.0.0.0 skirt-discount-store.shop
 0.0.0.0 skisigh.com
 0.0.0.0 skisofa.com
-0.0.0.0 skispeichern.com
 0.0.0.0 skisurfskate.com
 0.0.0.0 skisurfsports.com
 0.0.0.0 skitmrrsjcfho.website
@@ -171618,7 +171473,6 @@
 0.0.0.0 sl.himawanpyric.shop
 0.0.0.0 sl.hpplay.cn
 0.0.0.0 sl.khokaniworden.cyou
-0.0.0.0 sl.lgsmartad.com
 0.0.0.0 sl.maundysinon.cyou
 0.0.0.0 sl.meteocast.net
 0.0.0.0 sl.neuroneabel.cyou
@@ -171860,7 +171714,6 @@
 0.0.0.0 sltrabcam.com
 0.0.0.0 sltraffic.com
 0.0.0.0 slu-handel.de
-0.0.0.0 slu24-handel.de
 0.0.0.0 slubby.bowerscrural.cyou
 0.0.0.0 sluggedunbeget.top
 0.0.0.0 slugyukdobvwq.store
@@ -172018,9 +171871,7 @@
 0.0.0.0 smartetailing.piwik.pro
 0.0.0.0 smarteucookiebanner.upsell-apps.com
 0.0.0.0 smartframe.io
-0.0.0.0 smarthausio.com
 0.0.0.0 smarthauswerk.com
-0.0.0.0 smartheizoel.de
 0.0.0.0 smarthomerabatt.de
 0.0.0.0 smarthub-revive.mpcnet.de
 0.0.0.0 smartico.ai
@@ -172943,7 +172794,6 @@
 0.0.0.0 smtc.jetstar.com
 0.0.0.0 smtc.qantas.com
 0.0.0.0 smtccv.loveholidays.com
-0.0.0.0 smtoygalaxy.com
 0.0.0.0 smtp.adx1.com
 0.0.0.0 smtp.bellnet.ca
 0.0.0.0 smtp.cashstaging.app
@@ -172985,7 +172835,6 @@
 0.0.0.0 smy.iheart.com
 0.0.0.0 smyc5k.cdn-settings.appsflyersdk.com
 0.0.0.0 smyc5k.inapps.appsflyersdk.com
-0.0.0.0 smythstoyssales.com
 0.0.0.0 smzdm.soboten.com
 0.0.0.0 sn-2imern7r.c.2mdn.net
 0.0.0.0 sn-2imeyn7k.c.2mdn.net
@@ -173411,7 +173260,6 @@
 0.0.0.0 sn.coaxyweans.cyou
 0.0.0.0 sn.kabobsvex.cfd
 0.0.0.0 sn.lesseestiffen.cfd
-0.0.0.0 sn.lgsmartad.com
 0.0.0.0 sn.lumbarssweepup.com
 0.0.0.0 sn.mortarsawonder.cyou
 0.0.0.0 sn.peedospreys.cfd
@@ -173831,6 +173679,7 @@
 0.0.0.0 sofire.bdstatic.com
 0.0.0.0 sofire.terabox.com
 0.0.0.0 soflopxl.com
+0.0.0.0 sofort-antrag.net
 0.0.0.0 sofort-registerauszug24.de
 0.0.0.0 sofortfinanz.com
 0.0.0.0 soft-com.biz
@@ -173843,7 +173692,6 @@
 0.0.0.0 softcloudtrail.com
 0.0.0.0 softcourier.com
 0.0.0.0 softdays-shop.de
-0.0.0.0 softelektro.com
 0.0.0.0 softencorvees.cyou
 0.0.0.0 softensdarkest.cfd
 0.0.0.0 softer.mortonlogymethyls.qpon
@@ -173911,7 +173759,6 @@
 0.0.0.0 solar1erp.com
 0.0.0.0 solar4uhouston.online
 0.0.0.0 solara-financelimited.com
-0.0.0.0 solara-finltd.net
 0.0.0.0 solara-tech-groupe.com
 0.0.0.0 solaragentuk.online
 0.0.0.0 solaranlage-lausitz.de
@@ -173950,7 +173797,6 @@
 0.0.0.0 solarpvwerkzeug.com
 0.0.0.0 solarrecharge.net
 0.0.0.0 solarsinc.com
-0.0.0.0 solarspeichersysteme.com
 0.0.0.0 solarszellen.de
 0.0.0.0 solartechnik-direct.de
 0.0.0.0 solartechnik-neckar-enz.de
@@ -174010,9 +173856,7 @@
 0.0.0.0 solonstrych.shop
 0.0.0.0 soloprime.co
 0.0.0.0 soloq.de
-0.0.0.0 solostove.pro
 0.0.0.0 solovair.at
-0.0.0.0 solovairaustria.com
 0.0.0.0 solovairbelgium.net
 0.0.0.0 solovairbrasil.com
 0.0.0.0 solovaircanada.net
@@ -174020,7 +173864,6 @@
 0.0.0.0 solovairgreece.net
 0.0.0.0 solovairnz.net
 0.0.0.0 solovairschuhe.com
-0.0.0.0 solovairschuhe.de
 0.0.0.0 solovairschuhede.de
 0.0.0.0 solovairshop.com
 0.0.0.0 solovairwien.at
@@ -174649,7 +174492,6 @@
 0.0.0.0 sophi.io
 0.0.0.0 sophia-us.attn.tv
 0.0.0.0 sophiaaccoladewest.com
-0.0.0.0 sophiaberlin.de
 0.0.0.0 sophieweberr.com
 0.0.0.0 sophisticated-blow.com
 0.0.0.0 sophisticatedpin.com
@@ -175328,7 +175170,6 @@
 0.0.0.0 spiritscaution.com
 0.0.0.0 spiritualsalt.co
 0.0.0.0 spiritualslower.com
-0.0.0.0 spirituelle-ecke.com
 0.0.0.0 spirituosenfest.com
 0.0.0.0 spirituosenrabatt.com
 0.0.0.0 spirteddvaita.com
@@ -175502,7 +175343,6 @@
 0.0.0.0 sportandoutdoorstore.com
 0.0.0.0 sportanwaelte.de
 0.0.0.0 sportapothekeonline.com
-0.0.0.0 sportartikelwelt.com
 0.0.0.0 sportaza-online.de
 0.0.0.0 sportbagsshop.com
 0.0.0.0 sportchek.evergage.com
@@ -175540,7 +175380,6 @@
 0.0.0.0 sports.ssp.qq.com
 0.0.0.0 sportsads.nl
 0.0.0.0 sportsbook.adjarabet.com
-0.0.0.0 sportsbrooks.com
 0.0.0.0 sportscardssales.com
 0.0.0.0 sportschuheinov.com
 0.0.0.0 sportsclubstat.com
@@ -175877,7 +175716,6 @@
 0.0.0.0 sr-weight.rlcdn.com
 0.0.0.0 sr.beta.actionable-video-ads.advertising.amazon.dev
 0.0.0.0 sr.carisatamanac.shop
-0.0.0.0 sr.lgsmartad.com
 0.0.0.0 sr.meteocast.net
 0.0.0.0 sr.prod.actionable-video-ads.advertising.amazon.dev
 0.0.0.0 sr.protendstayed.com
@@ -177998,6 +177836,7 @@
 0.0.0.0 standpellet.de
 0.0.0.0 standpointbluffybluffy.com
 0.0.0.0 standprofi.com
+0.0.0.0 standycrome.com
 0.0.0.0 stanes.frugginplatine.qpon
 0.0.0.0 stanfordhealthcare.hb.omtrdc.net
 0.0.0.0 stanfordhealthcare.org.102.122.2o7.net
@@ -178124,7 +177963,6 @@
 0.0.0.0 staringentrep.cfd
 0.0.0.0 stark-ebike.de
 0.0.0.0 starkeu.de
-0.0.0.0 starkfahrrad.com
 0.0.0.0 starkgame.zijieapi.com
 0.0.0.0 starklights.com
 0.0.0.0 starkwerkzeug.de
@@ -178139,7 +177977,6 @@
 0.0.0.0 starrylook.com
 0.0.0.0 starrynets.com
 0.0.0.0 starrynitebikes.com
-0.0.0.0 starrysip.com
 0.0.0.0 starsallowyear.com
 0.0.0.0 starseed.fr
 0.0.0.0 starsmarter.com
@@ -180297,7 +180134,6 @@
 0.0.0.0 storefront.personalizer.io
 0.0.0.0 storefrontassets.angara.com
 0.0.0.0 storegardentool.com
-0.0.0.0 storegolfsports.com
 0.0.0.0 storehubpro.com
 0.0.0.0 storekepe.de
 0.0.0.0 storeoatey.com
@@ -180435,7 +180271,6 @@
 0.0.0.0 stratos.blue
 0.0.0.0 stratum.showheroes.com
 0.0.0.0 stratus.campaign-image.com.cn
-0.0.0.0 strausseu-vip-online.shop
 0.0.0.0 stravito.com
 0.0.0.0 strawanza.shop
 0.0.0.0 strawberry.basf.com
@@ -180621,7 +180456,6 @@
 0.0.0.0 stroeer.de
 0.0.0.0 stroeer01.webtrekk.net
 0.0.0.0 stroeerdigitalmedia.de
-0.0.0.0 strohhuteshop.com
 0.0.0.0 strokyhaemoid.cyou
 0.0.0.0 stroldcho.cyou
 0.0.0.0 strollthrillingmeltdown.com
@@ -180747,9 +180581,7 @@
 0.0.0.0 stussy-berlin.de
 0.0.0.0 stussyaustria.at
 0.0.0.0 stussyaustrias.com
-0.0.0.0 stussydeutschland.com
 0.0.0.0 stussydeutschland.de
-0.0.0.0 stussystoredeutschland.com
 0.0.0.0 stussystoresdeutschland.de
 0.0.0.0 stussywien.at
 0.0.0.0 stuttercarrydoorbell.com
@@ -181048,7 +180880,6 @@
 0.0.0.0 sujgsrsppqoij.site
 0.0.0.0 sukehiro.com
 0.0.0.0 sukhadaonlineservices.com
-0.0.0.0 sukienkisoutlet.com
 0.0.0.0 sukjdmsazsmuw.space
 0.0.0.0 sukkahsmuzz.qpon
 0.0.0.0 sukmdrkbkegsx.space
@@ -181111,7 +180942,6 @@
 0.0.0.0 sumugwdriwrsf.site
 0.0.0.0 sun-apps.sfr.com
 0.0.0.0 sun-cdn.advividnetwork.com
-0.0.0.0 sun-seller.com
 0.0.0.0 sun-sun.cc
 0.0.0.0 sun-sun.org
 0.0.0.0 sun.advividnetwork.com
@@ -181194,7 +181024,6 @@
 0.0.0.0 sunstrokeeastcookie.com
 0.0.0.0 suntanswam.qpon
 0.0.0.0 suntcontent.se
-0.0.0.0 suntr.shop
 0.0.0.0 suntrustbanksinc.demdex.net
 0.0.0.0 sunuabuahgfsd.space
 0.0.0.0 sunuyles.com
@@ -181277,7 +181106,6 @@
 0.0.0.0 supermaninquirypliable.com
 0.0.0.0 supermarketabstractthanksgiving.com
 0.0.0.0 supermarketco.com
-0.0.0.0 supermarktdeutschland.com
 0.0.0.0 supermarktdigital.de
 0.0.0.0 supermarkteonline.com
 0.0.0.0 supermeds24.com
@@ -181589,7 +181417,6 @@
 0.0.0.0 sv.heatmap.com
 0.0.0.0 sv.hymenssnarled.qpon
 0.0.0.0 sv.isvn.space
-0.0.0.0 sv.lgsmartad.com
 0.0.0.0 sv.meteocast.net
 0.0.0.0 sv.miasmiccushing.qpon
 0.0.0.0 sv.ntgwss.com
@@ -181648,7 +181475,6 @@
 0.0.0.0 svc.turtl.co
 0.0.0.0 svckenton.com
 0.0.0.0 svd.mybluehost.me
-0.0.0.0 svd24.pro
 0.0.0.0 svefjebugn.com
 0.0.0.0 svelton.com
 0.0.0.0 sverigewind.com
@@ -182053,7 +181879,6 @@
 0.0.0.0 sy.guanjia.qq.com
 0.0.0.0 sy.happyumpires.cyou
 0.0.0.0 sy.holilymerida.com
-0.0.0.0 sy.lgsmartad.com
 0.0.0.0 sy.marketer.lpsnmedia.net
 0.0.0.0 sy.pd.liveperson.net
 0.0.0.0 sy.presage.io
@@ -182111,10 +181936,8 @@
 0.0.0.0 sykkqn-launches.appsflyersdk.com
 0.0.0.0 sylfaczvioejj.site
 0.0.0.0 syloger.com
-0.0.0.0 syloviadistri.com
 0.0.0.0 sylphondrippedallonge.cyou
 0.0.0.0 sylskillsoft.com
-0.0.0.0 sylskilsoftassist.com
 0.0.0.0 sylu.cc
 0.0.0.0 sylu.net
 0.0.0.0 sylverlight.net
@@ -183725,7 +183548,6 @@
 0.0.0.0 take5carwash.everestengagement.com
 0.0.0.0 takeads.com
 0.0.0.0 takearecess.refersion.com
-0.0.0.0 takebstbsdeals.shop
 0.0.0.0 takeda.matomo.cloud
 0.0.0.0 takedashonepro.checkoutera.com
 0.0.0.0 takedmca.com
@@ -183746,7 +183568,6 @@
 0.0.0.0 taklufah.com
 0.0.0.0 takomogolf-us.attn.tv
 0.0.0.0 takones.cl
-0.0.0.0 taktikinvestakademie.com
 0.0.0.0 taktikwaffen.com
 0.0.0.0 taktischewelt.com
 0.0.0.0 takuad.com
@@ -184118,7 +183939,6 @@
 0.0.0.0 tas-mk.toboads.com
 0.0.0.0 tas-rs.toboads.com
 0.0.0.0 tas.yieldmo.com
-0.0.0.0 taschego.com
 0.0.0.0 taschenalle.com
 0.0.0.0 taschenclub.com
 0.0.0.0 taschenrabatt.com
@@ -184150,7 +183970,6 @@
 0.0.0.0 tasvir.yektanet.com
 0.0.0.0 tatadress.com
 0.0.0.0 tatads.com
-0.0.0.0 tatamibjjstore-eu.com
 0.0.0.0 tatango.com
 0.0.0.0 tatari-direct-ipv4-prod.telemetry.vaultdcr.com
 0.0.0.0 tatari-direct-ipv6-prod.telemetry.vaultdcr.com
@@ -184178,6 +183997,7 @@
 0.0.0.0 tau-collector-2141062151.eu-west-1.elb.amazonaws.com
 0.0.0.0 tau.collect.igodigital.com
 0.0.0.0 taubenfutterde.com
+0.0.0.0 tauchflaschenschutznetz.com
 0.0.0.0 taughtloudlydemise.com
 0.0.0.0 taujxhyhmgwbd.website
 0.0.0.0 taukibreez.iad-03.braze.com
@@ -184309,7 +184129,6 @@
 0.0.0.0 tc.dataxpand.com
 0.0.0.0 tc.gaconnector.com
 0.0.0.0 tc.guayabinakoo.qpon
-0.0.0.0 tc.lgsmartad.com
 0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 tc.qzwxrtyk.com
 0.0.0.0 tc.reppublika.com
@@ -184780,7 +184599,6 @@
 0.0.0.0 teichwunder.com
 0.0.0.0 teiip.com
 0.0.0.0 teilhaben01.webtrekk.net
-0.0.0.0 teilrad24.de
 0.0.0.0 teilradln.de
 0.0.0.0 teilwerkstatt.com
 0.0.0.0 teimyesrhvruc.space
@@ -185923,7 +185741,6 @@
 0.0.0.0 tg.finingscrocko.shop
 0.0.0.0 tg.freckmomento.cfd
 0.0.0.0 tg.jivosite.com
-0.0.0.0 tg.lgsmartad.com
 0.0.0.0 tg.meitu.com
 0.0.0.0 tg.meteocast.net
 0.0.0.0 tg.minfin.com.ua
@@ -185948,7 +185765,6 @@
 0.0.0.0 tg1.xapstream.com
 0.0.0.0 tg22vm4g41.cfd
 0.0.0.0 tga-degenfeld.at
-0.0.0.0 tgabi06.de
 0.0.0.0 tgagqxcwhckxw.online
 0.0.0.0 tganalytics.xyz
 0.0.0.0 tgb.hsmedia.ru
@@ -186014,7 +185830,6 @@
 0.0.0.0 th.boxcont.qpon
 0.0.0.0 th.components-store.com
 0.0.0.0 th.info.lgsmartad.com
-0.0.0.0 th.lgsmartad.com
 0.0.0.0 th.locale.online
 0.0.0.0 th.made.porn
 0.0.0.0 th.meteocast.net
@@ -186057,7 +185872,6 @@
 0.0.0.0 thapi.aedi.ai
 0.0.0.0 thatdisform.cyou
 0.0.0.0 thatdtahanun.qpon
-0.0.0.0 thatistsay.com
 0.0.0.0 thatllguider.cyou
 0.0.0.0 thats-entropy.g2afse.com
 0.0.0.0 thattowel.pro
@@ -186329,7 +186143,6 @@
 0.0.0.0 thermohands.de
 0.0.0.0 thermometeranalogyincomprehensible.com
 0.0.0.0 thermometerworm.com
-0.0.0.0 thermomix-reparatur.de
 0.0.0.0 thermomix-restposten.de
 0.0.0.0 thermomix-vorwerk-tm7.de
 0.0.0.0 thermomix.world
@@ -186676,7 +186489,6 @@
 0.0.0.0 thoman.ruddersgamenecredit.cyou
 0.0.0.0 thomann-vip.za.com
 0.0.0.0 thomannofficiall.com
-0.0.0.0 thomannonlinestore.com
 0.0.0.0 thomannsale.za.com
 0.0.0.0 thomasbartlettinteriors.com
 0.0.0.0 thomascook.btttag.com
@@ -187235,7 +187047,6 @@
 0.0.0.0 tiylk1.cdn-settings.appsflyersdk.com
 0.0.0.0 tiymvltgbllto.site
 0.0.0.0 tiz.mybluehost.me
-0.0.0.0 tizchmrf.cc
 0.0.0.0 tizer.medikforum.ru
 0.0.0.0 tiznmykuxnu.in
 0.0.0.0 tj-adc.wtzw.com
@@ -187352,7 +187163,6 @@
 0.0.0.0 tk.kargo.com
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tk.lacoste.com
-0.0.0.0 tk.lgsmartad.com
 0.0.0.0 tk.mediacategory.com
 0.0.0.0 tk.mossfast.com
 0.0.0.0 tk.mosspf.cn
@@ -187836,7 +187646,6 @@
 0.0.0.0 tkeesdeutschland.com
 0.0.0.0 tkelq.genesys.com
 0.0.0.0 tkelwc-cdn-settings.appsflyersdk.com
-0.0.0.0 tkensure.top
 0.0.0.0 tkfashion-dior-com.wizaly.net
 0.0.0.0 tkfkiodsdgnea.online
 0.0.0.0 tkgkobgpcislx.store
@@ -188400,7 +188209,6 @@
 0.0.0.0 tn.flashb.id
 0.0.0.0 tn.info.lgsmartad.com
 0.0.0.0 tn.kernelreelers.shop
-0.0.0.0 tn.lgsmartad.com
 0.0.0.0 tn.natchezmillie.cyou
 0.0.0.0 tn.ogamsaporias.shop
 0.0.0.0 tn.oolakunlight.qpon
@@ -188779,7 +188587,6 @@
 0.0.0.0 tonies-sonderangebot.com
 0.0.0.0 tonies-spezialangebot.com
 0.0.0.0 toniesbesttoys.com
-0.0.0.0 tonieshorspiele.com
 0.0.0.0 toniesosterreich.at
 0.0.0.0 toniesrabatt.com
 0.0.0.0 toniesshop-de.com
@@ -188809,14 +188616,11 @@
 0.0.0.0 toolbar.msn.com
 0.0.0.0 toolblitzz.myshopify.com
 0.0.0.0 toolbox.contentspread.net
-0.0.0.0 toolburndy.com
 0.0.0.0 toolclearancesale.com
 0.0.0.0 tooldepartmentstore.com
 0.0.0.0 tooledundon.com
-0.0.0.0 toolfield-limit.com
 0.0.0.0 toolforthought.com
 0.0.0.0 toolhavenhub.com
-0.0.0.0 toolhouseoffer.com
 0.0.0.0 tooling.ynap.biz
 0.0.0.0 toolkomp.com
 0.0.0.0 toolmatrix.plus
@@ -188850,7 +188654,6 @@
 0.0.0.0 toolsmodern.com
 0.0.0.0 toolsorganized.com
 0.0.0.0 toolspro.indecentes-voisines.com
-0.0.0.0 toolsundteile.com
 0.0.0.0 toolsupplyus.com
 0.0.0.0 toolsuppystore.com
 0.0.0.0 tooltime.store
@@ -188873,7 +188676,6 @@
 0.0.0.0 tootsiebedims.qpon
 0.0.0.0 toourmarketingef.com
 0.0.0.0 top-apotheke.at
-0.0.0.0 top-apotheke.net
 0.0.0.0 top-asianporn.com
 0.0.0.0 top-ausstattung.de
 0.0.0.0 top-brennholz.de
@@ -189148,6 +188950,7 @@
 0.0.0.0 totoabaspliced.cyou
 0.0.0.0 totogifthouse.com
 0.0.0.0 totohongkongpools4d.com
+0.0.0.0 totovape.de
 0.0.0.0 totrendybags.com
 0.0.0.0 totrkwodksheets.cms-qa.bugsnag.kahoot.it
 0.0.0.0 totsoo.com
@@ -189214,7 +189017,6 @@
 0.0.0.0 toyevs.store
 0.0.0.0 toyfuel.myshopify.com
 0.0.0.0 toyfunrealm.com
-0.0.0.0 toyhasbro.com
 0.0.0.0 toylessdispute.cfd
 0.0.0.0 toylessinfeed.cfd
 0.0.0.0 toymatic.site
@@ -189407,7 +189209,6 @@
 0.0.0.0 tqasswdedzudx.online
 0.0.0.0 tqbveqacewwac.online
 0.0.0.0 tqd.mybluehost.me
-0.0.0.0 tqdjywjx.shop
 0.0.0.0 tqdxwboexwawx.site
 0.0.0.0 tqe.mybluehost.me
 0.0.0.0 tqe36.flx10.com
@@ -189528,7 +189329,6 @@
 0.0.0.0 tr.junaroad.com
 0.0.0.0 tr.kingroyal-go.vip
 0.0.0.0 tr.lfeeder.com
-0.0.0.0 tr.lgsmartad.com
 0.0.0.0 tr.lib.dengage.com
 0.0.0.0 tr.locale.online
 0.0.0.0 tr.madridbet-2026guvenligiris.icu
@@ -192299,7 +192099,6 @@
 0.0.0.0 tt.cashstaging.app
 0.0.0.0 tt.everestengagement.com
 0.0.0.0 tt.ladsp.com
-0.0.0.0 tt.lgsmartad.com
 0.0.0.0 tt.mbww.com
 0.0.0.0 tt.naegaitbestir.com
 0.0.0.0 tt.onthe.io
@@ -192863,7 +192662,6 @@
 0.0.0.0 tw.collectiveaudience.co
 0.0.0.0 tw.info.lgsmartad.com
 0.0.0.0 tw.klickly.com
-0.0.0.0 tw.lgsmartad.com
 0.0.0.0 tw.locale.online
 0.0.0.0 tw.popin.cc
 0.0.0.0 tw.sznbyby.org
@@ -193196,7 +192994,6 @@
 0.0.0.0 tz.1688988.com
 0.0.0.0 tz.components-store.com
 0.0.0.0 tz.jmfwy.com
-0.0.0.0 tz.lgsmartad.com
 0.0.0.0 tz.pastimelardoon.shop
 0.0.0.0 tz.sec.xiaomi.com
 0.0.0.0 tz.situatepariet.qpon
@@ -193504,7 +193301,6 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ua.info.lgsmartad.com
 0.0.0.0 ua.jivosite.com
-0.0.0.0 ua.lgsmartad.com
 0.0.0.0 ua.meteocast.net
 0.0.0.0 ua.myrtalcaliver.qpon
 0.0.0.0 ua.nakanohito.jp
@@ -194031,7 +193827,6 @@
 0.0.0.0 ug.contentexchange.me
 0.0.0.0 ug.gnammaparkee.shop
 0.0.0.0 ug.kwai.com
-0.0.0.0 ug.lgsmartad.com
 0.0.0.0 ug.pangolin-dsp-toutiao.com
 0.0.0.0 ug.pitmenmodels.shop
 0.0.0.0 ug.snssdk.com
@@ -197539,7 +197334,6 @@
 0.0.0.0 utterlyprimegnu.shop
 0.0.0.0 utterrender.com
 0.0.0.0 uttgahrpiemjz.space
-0.0.0.0 uttpforum.st
 0.0.0.0 utua.com.br
 0.0.0.0 utubechannelsforsale.com
 0.0.0.0 utubepwhml.com
@@ -197855,7 +197649,6 @@
 0.0.0.0 uy-gmtdmp.mookie1.com
 0.0.0.0 uy.ads.justpremium.com
 0.0.0.0 uy.infaresmalakon.qpon
-0.0.0.0 uy.lgsmartad.com
 0.0.0.0 uy.violinspickets.cfd
 0.0.0.0 uy054eprsdoz.appspot.com
 0.0.0.0 uybdby-launches.appsflyersdk.com
@@ -197911,7 +197704,6 @@
 0.0.0.0 uz.components-store.com
 0.0.0.0 uz.flexmesonyx.com
 0.0.0.0 uz.habooz.com
-0.0.0.0 uz.lgsmartad.com
 0.0.0.0 uz.lightporn.net
 0.0.0.0 uz.meteocast.net
 0.0.0.0 uz.romykoboppist.cyou
@@ -199336,7 +199128,6 @@
 0.0.0.0 ve.beflumivywood.com
 0.0.0.0 ve.claspervenomly.cyou
 0.0.0.0 ve.cloniclinsang.shop
-0.0.0.0 ve.lgsmartad.com
 0.0.0.0 ve.monoseswy.cyou
 0.0.0.0 ve.testoneazons.com
 0.0.0.0 ve.urologyperoses.com
@@ -199872,7 +199663,6 @@
 0.0.0.0 vg-tcp-rule.detailroi.com
 0.0.0.0 vg.bearcatsputta.cyou
 0.0.0.0 vg.cootymimpei.shop
-0.0.0.0 vg.lgsmartad.com
 0.0.0.0 vg.seralbeleap.qpon
 0.0.0.0 vg.tiglicclipei.shop
 0.0.0.0 vg.yetzersmeth.qpon
@@ -200045,7 +199835,6 @@
 0.0.0.0 vi.freewheel.tv
 0.0.0.0 vi.glummydactyli.qpon
 0.0.0.0 vi.hhkld.com
-0.0.0.0 vi.lgsmartad.com
 0.0.0.0 vi.made.porn
 0.0.0.0 vi.meteocast.net
 0.0.0.0 vi.ml314.com
@@ -201692,7 +201481,6 @@
 0.0.0.0 vn.embedspurted.cfd
 0.0.0.0 vn.info.lgsmartad.com
 0.0.0.0 vn.kabfoody.cyou
-0.0.0.0 vn.lgsmartad.com
 0.0.0.0 vn.llaneromiry.shop
 0.0.0.0 vn.locale.online
 0.0.0.0 vn.nextlgsdp.com
@@ -206758,7 +206546,6 @@
 0.0.0.0 wise-video-cdn.bypass.jp
 0.0.0.0 wiseads.ad-stir.com
 0.0.0.0 wisebanc.com
-0.0.0.0 wiseconfig.lgtvcommon.com
 0.0.0.0 wisedony.cfd
 0.0.0.0 wisejobc.com
 0.0.0.0 wisely.io
@@ -216140,7 +215927,6 @@
 0.0.0.0 ye.dun.163yun.com
 0.0.0.0 ye.gassycupcake.qpon
 0.0.0.0 ye.griddlegetas.cfd
-0.0.0.0 ye.lgsmartad.com
 0.0.0.0 ye4e5zkg4u6zi6x3p7rzz59wqrviqgq.cfd
 0.0.0.0 ye6a9uov.emltrk.com
 0.0.0.0 yeah.com
@@ -216461,7 +216247,6 @@
 0.0.0.0 yildun.iad-03.braze.com
 0.0.0.0 yin.it
 0.0.0.0 yin.mybluehost.me
-0.0.0.0 yinga-vital.de
 0.0.0.0 yingshile.vip
 0.0.0.0 yingxiao.baidu.com
 0.0.0.0 yinhuadm.xyz
@@ -218031,7 +217816,6 @@
 0.0.0.0 za.clearwebstats.com
 0.0.0.0 za.copisthulwort.qpon
 0.0.0.0 za.info.lgsmartad.com
-0.0.0.0 za.lgsmartad.com
 0.0.0.0 za.limoidtrowane.cfd
 0.0.0.0 za.locale.online
 0.0.0.0 za.nextlgsdp.com
@@ -219153,7 +218937,6 @@
 0.0.0.0 zm.coronaevicus.cfd
 0.0.0.0 zm.dormiebevue.com
 0.0.0.0 zm.kvinduism.qpon
-0.0.0.0 zm.lgsmartad.com
 0.0.0.0 zm.rqtrk.eu
 0.0.0.0 zm.swervedenflame.cfd
 0.0.0.0 zm.synedrabolling.cyou
