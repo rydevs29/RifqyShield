@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-09-11 09:54:34
-# Total Domains: 248,613
+# Last Updated: 2026-09-12 02:22:16
+# Total Domains: 248,626
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -27035,6 +27035,7 @@
 0.0.0.0 4dcrot.org
 0.0.0.0 4des.ru
 0.0.0.0 4dewapoker.com
+0.0.0.0 4dex.io
 0.0.0.0 4dmarkt.de
 0.0.0.0 4dmega.com
 0.0.0.0 4dplay.xyz
@@ -48177,6 +48178,7 @@
 0.0.0.0 absolutematures.com
 0.0.0.0 absoluteo.com
 0.0.0.0 absolutepoker.com
+0.0.0.0 absolutering.com
 0.0.0.0 absolutesex.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absorbpath.com
@@ -61814,6 +61816,7 @@
 0.0.0.0 bastasvenskacasinot.com
 0.0.0.0 bastcasino.pro
 0.0.0.0 bastcasinoonline.com
+0.0.0.0 bastingart.com
 0.0.0.0 bastnatcasino.com
 0.0.0.0 baswad.com
 0.0.0.0 bat.bing.com
@@ -69694,6 +69697,7 @@
 0.0.0.0 bigwinslots.best
 0.0.0.0 bigwinvegas.com
 0.0.0.0 bigwoman.vip
+0.0.0.0 bigworldfashion.com
 0.0.0.0 bigxvideo.com
 0.0.0.0 bigxxx.pet
 0.0.0.0 bigxxxhall.click
@@ -85591,7 +85595,6 @@
 0.0.0.0 clubxcams.com
 0.0.0.0 clubxpornhub.shop
 0.0.0.0 cluset.com
-0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.xhamster.desi
 0.0.0.0 cluster.xhfanclub.com
 0.0.0.0 clustrmaps.com
@@ -103310,6 +103313,7 @@
 0.0.0.0 findcams.live
 0.0.0.0 findcasinobonuscodes.com
 0.0.0.0 findcngays.top
+0.0.0.0 findcommerce.com
 0.0.0.0 finde-dein-bestes-angebot.de
 0.0.0.0 findedeinrad.de
 0.0.0.0 findedstore.com
@@ -132854,6 +132858,7 @@
 0.0.0.0 jewelryclaire.com
 0.0.0.0 jewelrynovainc.com
 0.0.0.0 jewelrynovashop.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jewelsextube.com
 0.0.0.0 jewishdiscoveries.com
 0.0.0.0 jewishfriendfinder.com
@@ -140432,6 +140437,7 @@
 0.0.0.0 kerjalapangan77.xyz
 0.0.0.0 kern-recht.de
 0.0.0.0 kernelgo.com
+0.0.0.0 kernellife.com
 0.0.0.0 kerni.itch.io
 0.0.0.0 kernvogel.com
 0.0.0.0 kero10.life
@@ -163349,6 +163355,7 @@
 0.0.0.0 my.club
 0.0.0.0 my.free-cam.org
 0.0.0.0 my.porno666.sex
+0.0.0.0 my.rtmark.net
 0.0.0.0 my10cric.com
 0.0.0.0 my11circle.com
 0.0.0.0 my188.com
@@ -166303,7 +166310,6 @@
 0.0.0.0 newsviralgo.com
 0.0.0.0 newswank.com
 0.0.0.0 newt1.adultadworld.com
-0.0.0.0 newt1.adultworld.com
 0.0.0.0 newtitsporn.com
 0.0.0.0 newtokyo.net
 0.0.0.0 newton-invest.com
@@ -172248,6 +172254,7 @@
 0.0.0.0 optionet.com
 0.0.0.0 optionside.com
 0.0.0.0 optionsmarter.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 optionsxo.com
 0.0.0.0 optkartina.ru
 0.0.0.0 optmd.com
@@ -172596,6 +172603,7 @@
 0.0.0.0 otha.net
 0.0.0.0 otherhi.xyz
 0.0.0.0 otherstars.com
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 otices.com
 0.0.0.0 otitsvid.com
 0.0.0.0 otkph.com
@@ -173874,6 +173882,7 @@
 0.0.0.0 partnerbayanlar.com
 0.0.0.0 partnerbcgame.com
 0.0.0.0 partnercash.de
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partnermelbet.com
 0.0.0.0 partnernight.club
@@ -193816,6 +193825,7 @@
 0.0.0.0 ro9.landunk.com
 0.0.0.0 roadamavi5d.com
 0.0.0.0 roadboskuvip.xyz
+0.0.0.0 roaddynamics.com
 0.0.0.0 roadkultur.de
 0.0.0.0 roadpornvideo.com
 0.0.0.0 roadsexe.com
@@ -208759,6 +208769,7 @@
 0.0.0.0 spkiller31.itch.io
 0.0.0.0 spl-energie.com
 0.0.0.0 spl-energie.de
+0.0.0.0 spl.zeotap.com
 0.0.0.0 spl168.com
 0.0.0.0 splashamateur.com
 0.0.0.0 splashcoins.com
@@ -219142,6 +219153,7 @@
 0.0.0.0 tr-vcode-or.vivoglobal.com
 0.0.0.0 tr-weather.vivoglobal.com
 0.0.0.0 tr.api.fanbyte.com
+0.0.0.0 tr.p.360.cn
 0.0.0.0 tr48k1m.com
 0.0.0.0 tr88-casino.com
 0.0.0.0 traaawmag.com
@@ -234254,6 +234266,7 @@
 0.0.0.0 wrestlingwithdemons.com
 0.0.0.0 wrightt.shop
 0.0.0.0 writefastmyessay.com
+0.0.0.0 writerhubs.com
 0.0.0.0 written.chat
 0.0.0.0 wrjoejg.com
 0.0.0.0 wrm.casino

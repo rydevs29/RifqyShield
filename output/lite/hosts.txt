@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-11 09:54:31
-# Total Domains: 23,230
+# Last Updated: 2026-09-12 02:22:12
+# Total Domains: 23,243
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -101,6 +101,7 @@
 0.0.0.0 47215.world
 0.0.0.0 4bike.net
 0.0.0.0 4d5.net
+0.0.0.0 4dex.io
 0.0.0.0 4dmarkt.de
 0.0.0.0 4info.com
 0.0.0.0 4jnzhl0d0.com
@@ -296,6 +297,7 @@
 0.0.0.0 abrorabatt.de
 0.0.0.0 absolutelyn.com
 0.0.0.0 absoluteo.com
+0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absorbpath.com
 0.0.0.0 absorrption.com
@@ -2864,6 +2866,7 @@
 0.0.0.0 bassbet1.com
 0.0.0.0 bassbetcasino-online.de
 0.0.0.0 basspool.de
+0.0.0.0 bastingart.com
 0.0.0.0 baswad.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.bing.net
@@ -3333,6 +3336,7 @@
 0.0.0.0 bigskysaunas.com
 0.0.0.0 bigsofasde.de
 0.0.0.0 bigstoregaming.com
+0.0.0.0 bigworldfashion.com
 0.0.0.0 bike-trailer24.de
 0.0.0.0 bike69-shop.de
 0.0.0.0 bikeambulanz-mobil.de
@@ -4877,7 +4881,6 @@
 0.0.0.0 clpmobelrabatt.com
 0.0.0.0 clrstm.com
 0.0.0.0 clubeboss.de
-0.0.0.0 cluster.adultworld.com
 0.0.0.0 clustrmaps.com
 0.0.0.0 cm-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 cmchbhopal.com
@@ -7749,6 +7752,7 @@
 0.0.0.0 findably.myshoplaza.com
 0.0.0.0 findapi.micloud.xiaomi.net
 0.0.0.0 findaten.de
+0.0.0.0 findcommerce.com
 0.0.0.0 finde-dein-bestes-angebot.de
 0.0.0.0 findedeinrad.de
 0.0.0.0 findedstore.com
@@ -11011,6 +11015,7 @@
 0.0.0.0 jewelryclaire.com
 0.0.0.0 jewelrynovainc.com
 0.0.0.0 jewelrynovashop.com
+0.0.0.0 jewelrysprings.com
 0.0.0.0 jfajhkpq.shop
 0.0.0.0 jgfrqhh.top
 0.0.0.0 jh-machines-nord.com
@@ -11472,6 +11477,7 @@
 0.0.0.0 kemptenmodehaus.de
 0.0.0.0 kenotistflowio.digital
 0.0.0.0 kern-recht.de
+0.0.0.0 kernellife.com
 0.0.0.0 kernvogel.com
 0.0.0.0 kersten-maschinenvertriebs-gmbh.de
 0.0.0.0 keterhanova.myshopify.com
@@ -14543,6 +14549,7 @@
 0.0.0.0 my-leyou-online.com
 0.0.0.0 my-pawly.com
 0.0.0.0 my-pills.biz
+0.0.0.0 my.rtmark.net
 0.0.0.0 myads.company
 0.0.0.0 myads.net
 0.0.0.0 myads.telkomsel.com
@@ -14870,7 +14877,6 @@
 0.0.0.0 newsfluxvpo.info
 0.0.0.0 newshopmarket.com
 0.0.0.0 newt1.adultadworld.com
-0.0.0.0 newt1.adultworld.com
 0.0.0.0 newton-invest.com
 0.0.0.0 newtoolstore.com
 0.0.0.0 newworld55.com
@@ -15650,6 +15656,7 @@
 0.0.0.0 optionet.com
 0.0.0.0 optionside.com
 0.0.0.0 optionsmarter.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 optionsxo.com
 0.0.0.0 optmd.com
 0.0.0.0 optmnstr.com
@@ -15760,6 +15767,7 @@
 0.0.0.0 ota.ptqy.gitv.tv
 0.0.0.0 otcantabuse.com
 0.0.0.0 otha.net
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 otkph.com
 0.0.0.0 otomotif-online.com
 0.0.0.0 otp-online.de
@@ -15986,6 +15994,7 @@
 0.0.0.0 partnerad.l.google.com
 0.0.0.0 partnerads.ysm.yahoo.com
 0.0.0.0 partnercash.de
+0.0.0.0 partnerhut.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 partners.priceline.com
 0.0.0.0 partplanes.com
@@ -17609,6 +17618,7 @@
 0.0.0.0 ro10.landunk.com
 0.0.0.0 ro6.landofm.com
 0.0.0.0 ro9.landunk.com
+0.0.0.0 roaddynamics.com
 0.0.0.0 roadkultur.de
 0.0.0.0 roadtrip-camping.com
 0.0.0.0 roar.com
@@ -19342,6 +19352,7 @@
 0.0.0.0 spirituosenrabatt.com
 0.0.0.0 spl-energie.com
 0.0.0.0 spl-energie.de
+0.0.0.0 spl.zeotap.com
 0.0.0.0 splendiday.com
 0.0.0.0 splendorsolar.shop
 0.0.0.0 splendris-pharmaceuticals.de
@@ -20885,6 +20896,7 @@
 0.0.0.0 tr-vcode-or.vivoglobal.com
 0.0.0.0 tr-weather.vivoglobal.com
 0.0.0.0 tr.api.fanbyte.com
+0.0.0.0 tr.p.360.cn
 0.0.0.0 trabo-garten.de
 0.0.0.0 trace-h5sdk.vivo.com.cn
 0.0.0.0 trace.app-performance.music.amazon.dev
@@ -22729,6 +22741,7 @@
 0.0.0.0 wrapsi.shop
 0.0.0.0 wrestle-site.com
 0.0.0.0 wrightt.shop
+0.0.0.0 writerhubs.com
 0.0.0.0 wrtcmme.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-fe.amazon-adsystem.com

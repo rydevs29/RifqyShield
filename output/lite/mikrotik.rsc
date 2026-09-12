@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-11 09:54:31
-# Total Domains: 23,230
+# Last Updated: 2026-09-12 02:22:12
+# Total Domains: 23,243
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -100,6 +100,7 @@ add name="4-pfoten-freizeit.de" address=0.0.0.0
 add name="47215.world" address=0.0.0.0
 add name="4bike.net" address=0.0.0.0
 add name="4d5.net" address=0.0.0.0
+add name="4dex.io" address=0.0.0.0
 add name="4dmarkt.de" address=0.0.0.0
 add name="4info.com" address=0.0.0.0
 add name="4jnzhl0d0.com" address=0.0.0.0
@@ -295,6 +296,7 @@ add name="abroad.api.comm.intl.miui.com" address=0.0.0.0
 add name="abrorabatt.de" address=0.0.0.0
 add name="absolutelyn.com" address=0.0.0.0
 add name="absoluteo.com" address=0.0.0.0
+add name="absolutering.com" address=0.0.0.0
 add name="absorbingband.com" address=0.0.0.0
 add name="absorbpath.com" address=0.0.0.0
 add name="absorrption.com" address=0.0.0.0
@@ -2863,6 +2865,7 @@ add name="basquetestoreacd.com" address=0.0.0.0
 add name="bassbet1.com" address=0.0.0.0
 add name="bassbetcasino-online.de" address=0.0.0.0
 add name="basspool.de" address=0.0.0.0
+add name="bastingart.com" address=0.0.0.0
 add name="baswad.com" address=0.0.0.0
 add name="bat.bing.com" address=0.0.0.0
 add name="bat.bing.net" address=0.0.0.0
@@ -3332,6 +3335,7 @@ add name="bigsex.is" address=0.0.0.0
 add name="bigskysaunas.com" address=0.0.0.0
 add name="bigsofasde.de" address=0.0.0.0
 add name="bigstoregaming.com" address=0.0.0.0
+add name="bigworldfashion.com" address=0.0.0.0
 add name="bike-trailer24.de" address=0.0.0.0
 add name="bike69-shop.de" address=0.0.0.0
 add name="bikeambulanz-mobil.de" address=0.0.0.0
@@ -4876,7 +4880,6 @@ add name="cloudy-with-containers.ch" address=0.0.0.0
 add name="clpmobelrabatt.com" address=0.0.0.0
 add name="clrstm.com" address=0.0.0.0
 add name="clubeboss.de" address=0.0.0.0
-add name="cluster.adultworld.com" address=0.0.0.0
 add name="clustrmaps.com" address=0.0.0.0
 add name="cm-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="cmchbhopal.com" address=0.0.0.0
@@ -7748,6 +7751,7 @@ add name="find-persons.com" address=0.0.0.0
 add name="findably.myshoplaza.com" address=0.0.0.0
 add name="findapi.micloud.xiaomi.net" address=0.0.0.0
 add name="findaten.de" address=0.0.0.0
+add name="findcommerce.com" address=0.0.0.0
 add name="finde-dein-bestes-angebot.de" address=0.0.0.0
 add name="findedeinrad.de" address=0.0.0.0
 add name="findedstore.com" address=0.0.0.0
@@ -11010,6 +11014,7 @@ add name="jewelleryina.com" address=0.0.0.0
 add name="jewelryclaire.com" address=0.0.0.0
 add name="jewelrynovainc.com" address=0.0.0.0
 add name="jewelrynovashop.com" address=0.0.0.0
+add name="jewelrysprings.com" address=0.0.0.0
 add name="jfajhkpq.shop" address=0.0.0.0
 add name="jgfrqhh.top" address=0.0.0.0
 add name="jh-machines-nord.com" address=0.0.0.0
@@ -11471,6 +11476,7 @@ add name="kempia-group.com" address=0.0.0.0
 add name="kemptenmodehaus.de" address=0.0.0.0
 add name="kenotistflowio.digital" address=0.0.0.0
 add name="kern-recht.de" address=0.0.0.0
+add name="kernellife.com" address=0.0.0.0
 add name="kernvogel.com" address=0.0.0.0
 add name="kersten-maschinenvertriebs-gmbh.de" address=0.0.0.0
 add name="keterhanova.myshopify.com" address=0.0.0.0
@@ -14542,6 +14548,7 @@ add name="my-jinsha-online.com" address=0.0.0.0
 add name="my-leyou-online.com" address=0.0.0.0
 add name="my-pawly.com" address=0.0.0.0
 add name="my-pills.biz" address=0.0.0.0
+add name="my.rtmark.net" address=0.0.0.0
 add name="myads.company" address=0.0.0.0
 add name="myads.net" address=0.0.0.0
 add name="myads.telkomsel.com" address=0.0.0.0
@@ -14869,7 +14876,6 @@ add name="newsfinas.de" address=0.0.0.0
 add name="newsfluxvpo.info" address=0.0.0.0
 add name="newshopmarket.com" address=0.0.0.0
 add name="newt1.adultadworld.com" address=0.0.0.0
-add name="newt1.adultworld.com" address=0.0.0.0
 add name="newton-invest.com" address=0.0.0.0
 add name="newtoolstore.com" address=0.0.0.0
 add name="newworld55.com" address=0.0.0.0
@@ -15649,6 +15655,7 @@ add name="optionbanking.com" address=0.0.0.0
 add name="optionet.com" address=0.0.0.0
 add name="optionside.com" address=0.0.0.0
 add name="optionsmarter.com" address=0.0.0.0
+add name="optionsnomad.com" address=0.0.0.0
 add name="optionsxo.com" address=0.0.0.0
 add name="optmd.com" address=0.0.0.0
 add name="optmnstr.com" address=0.0.0.0
@@ -15759,6 +15766,7 @@ add name="ota.cdn.pandora.xiaomi.com" address=0.0.0.0
 add name="ota.ptqy.gitv.tv" address=0.0.0.0
 add name="otcantabuse.com" address=0.0.0.0
 add name="otha.net" address=0.0.0.0
+add name="otheve.beacon.qq.com" address=0.0.0.0
 add name="otkph.com" address=0.0.0.0
 add name="otomotif-online.com" address=0.0.0.0
 add name="otp-online.de" address=0.0.0.0
@@ -15985,6 +15993,7 @@ add name="partner.pelikan.cz" address=0.0.0.0
 add name="partnerad.l.google.com" address=0.0.0.0
 add name="partnerads.ysm.yahoo.com" address=0.0.0.0
 add name="partnercash.de" address=0.0.0.0
+add name="partnerhut.com" address=0.0.0.0
 add name="partnerlinks.io" address=0.0.0.0
 add name="partners.priceline.com" address=0.0.0.0
 add name="partplanes.com" address=0.0.0.0
@@ -17608,6 +17617,7 @@ add name="ro-up.vivoglobal.com" address=0.0.0.0
 add name="ro10.landunk.com" address=0.0.0.0
 add name="ro6.landofm.com" address=0.0.0.0
 add name="ro9.landunk.com" address=0.0.0.0
+add name="roaddynamics.com" address=0.0.0.0
 add name="roadkultur.de" address=0.0.0.0
 add name="roadtrip-camping.com" address=0.0.0.0
 add name="roar.com" address=0.0.0.0
@@ -19341,6 +19351,7 @@ add name="spirituosenfest.com" address=0.0.0.0
 add name="spirituosenrabatt.com" address=0.0.0.0
 add name="spl-energie.com" address=0.0.0.0
 add name="spl-energie.de" address=0.0.0.0
+add name="spl.zeotap.com" address=0.0.0.0
 add name="splendiday.com" address=0.0.0.0
 add name="splendorsolar.shop" address=0.0.0.0
 add name="splendris-pharmaceuticals.de" address=0.0.0.0
@@ -20884,6 +20895,7 @@ add name="tr-vcode-od.vivoglobal.com" address=0.0.0.0
 add name="tr-vcode-or.vivoglobal.com" address=0.0.0.0
 add name="tr-weather.vivoglobal.com" address=0.0.0.0
 add name="tr.api.fanbyte.com" address=0.0.0.0
+add name="tr.p.360.cn" address=0.0.0.0
 add name="trabo-garten.de" address=0.0.0.0
 add name="trace-h5sdk.vivo.com.cn" address=0.0.0.0
 add name="trace.app-performance.music.amazon.dev" address=0.0.0.0
@@ -22728,6 +22740,7 @@ add name="wps-register.com" address=0.0.0.0
 add name="wrapsi.shop" address=0.0.0.0
 add name="wrestle-site.com" address=0.0.0.0
 add name="wrightt.shop" address=0.0.0.0
+add name="writerhubs.com" address=0.0.0.0
 add name="wrtcmme.com" address=0.0.0.0
 add name="ws-eu.amazon-adsystem.com" address=0.0.0.0
 add name="ws-fe.amazon-adsystem.com" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-11 09:54:31
-# Total Domains: 23,230
+# Last Updated: 2026-09-12 02:22:12
+# Total Domains: 23,243
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -99,6 +99,7 @@ DOMAIN-SUFFIX,4-pfoten-freizeit.de,REJECT
 DOMAIN-SUFFIX,47215.world,REJECT
 DOMAIN-SUFFIX,4bike.net,REJECT
 DOMAIN-SUFFIX,4d5.net,REJECT
+DOMAIN-SUFFIX,4dex.io,REJECT
 DOMAIN-SUFFIX,4dmarkt.de,REJECT
 DOMAIN-SUFFIX,4info.com,REJECT
 DOMAIN-SUFFIX,4jnzhl0d0.com,REJECT
@@ -294,6 +295,7 @@ DOMAIN-SUFFIX,abroad.api.comm.intl.miui.com,REJECT
 DOMAIN-SUFFIX,abrorabatt.de,REJECT
 DOMAIN-SUFFIX,absolutelyn.com,REJECT
 DOMAIN-SUFFIX,absoluteo.com,REJECT
+DOMAIN-SUFFIX,absolutering.com,REJECT
 DOMAIN-SUFFIX,absorbingband.com,REJECT
 DOMAIN-SUFFIX,absorbpath.com,REJECT
 DOMAIN-SUFFIX,absorrption.com,REJECT
@@ -2862,6 +2864,7 @@ DOMAIN-SUFFIX,basquetestoreacd.com,REJECT
 DOMAIN-SUFFIX,bassbet1.com,REJECT
 DOMAIN-SUFFIX,bassbetcasino-online.de,REJECT
 DOMAIN-SUFFIX,basspool.de,REJECT
+DOMAIN-SUFFIX,bastingart.com,REJECT
 DOMAIN-SUFFIX,baswad.com,REJECT
 DOMAIN-SUFFIX,bat.bing.com,REJECT
 DOMAIN-SUFFIX,bat.bing.net,REJECT
@@ -3331,6 +3334,7 @@ DOMAIN-SUFFIX,bigsex.is,REJECT
 DOMAIN-SUFFIX,bigskysaunas.com,REJECT
 DOMAIN-SUFFIX,bigsofasde.de,REJECT
 DOMAIN-SUFFIX,bigstoregaming.com,REJECT
+DOMAIN-SUFFIX,bigworldfashion.com,REJECT
 DOMAIN-SUFFIX,bike-trailer24.de,REJECT
 DOMAIN-SUFFIX,bike69-shop.de,REJECT
 DOMAIN-SUFFIX,bikeambulanz-mobil.de,REJECT
@@ -4875,7 +4879,6 @@ DOMAIN-SUFFIX,cloudy-with-containers.ch,REJECT
 DOMAIN-SUFFIX,clpmobelrabatt.com,REJECT
 DOMAIN-SUFFIX,clrstm.com,REJECT
 DOMAIN-SUFFIX,clubeboss.de,REJECT
-DOMAIN-SUFFIX,cluster.adultworld.com,REJECT
 DOMAIN-SUFFIX,clustrmaps.com,REJECT
 DOMAIN-SUFFIX,cm-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,cmchbhopal.com,REJECT
@@ -7747,6 +7750,7 @@ DOMAIN-SUFFIX,find-persons.com,REJECT
 DOMAIN-SUFFIX,findably.myshoplaza.com,REJECT
 DOMAIN-SUFFIX,findapi.micloud.xiaomi.net,REJECT
 DOMAIN-SUFFIX,findaten.de,REJECT
+DOMAIN-SUFFIX,findcommerce.com,REJECT
 DOMAIN-SUFFIX,finde-dein-bestes-angebot.de,REJECT
 DOMAIN-SUFFIX,findedeinrad.de,REJECT
 DOMAIN-SUFFIX,findedstore.com,REJECT
@@ -11009,6 +11013,7 @@ DOMAIN-SUFFIX,jewelleryina.com,REJECT
 DOMAIN-SUFFIX,jewelryclaire.com,REJECT
 DOMAIN-SUFFIX,jewelrynovainc.com,REJECT
 DOMAIN-SUFFIX,jewelrynovashop.com,REJECT
+DOMAIN-SUFFIX,jewelrysprings.com,REJECT
 DOMAIN-SUFFIX,jfajhkpq.shop,REJECT
 DOMAIN-SUFFIX,jgfrqhh.top,REJECT
 DOMAIN-SUFFIX,jh-machines-nord.com,REJECT
@@ -11470,6 +11475,7 @@ DOMAIN-SUFFIX,kempia-group.com,REJECT
 DOMAIN-SUFFIX,kemptenmodehaus.de,REJECT
 DOMAIN-SUFFIX,kenotistflowio.digital,REJECT
 DOMAIN-SUFFIX,kern-recht.de,REJECT
+DOMAIN-SUFFIX,kernellife.com,REJECT
 DOMAIN-SUFFIX,kernvogel.com,REJECT
 DOMAIN-SUFFIX,kersten-maschinenvertriebs-gmbh.de,REJECT
 DOMAIN-SUFFIX,keterhanova.myshopify.com,REJECT
@@ -14541,6 +14547,7 @@ DOMAIN-SUFFIX,my-jinsha-online.com,REJECT
 DOMAIN-SUFFIX,my-leyou-online.com,REJECT
 DOMAIN-SUFFIX,my-pawly.com,REJECT
 DOMAIN-SUFFIX,my-pills.biz,REJECT
+DOMAIN-SUFFIX,my.rtmark.net,REJECT
 DOMAIN-SUFFIX,myads.company,REJECT
 DOMAIN-SUFFIX,myads.net,REJECT
 DOMAIN-SUFFIX,myads.telkomsel.com,REJECT
@@ -14868,7 +14875,6 @@ DOMAIN-SUFFIX,newsfinas.de,REJECT
 DOMAIN-SUFFIX,newsfluxvpo.info,REJECT
 DOMAIN-SUFFIX,newshopmarket.com,REJECT
 DOMAIN-SUFFIX,newt1.adultadworld.com,REJECT
-DOMAIN-SUFFIX,newt1.adultworld.com,REJECT
 DOMAIN-SUFFIX,newton-invest.com,REJECT
 DOMAIN-SUFFIX,newtoolstore.com,REJECT
 DOMAIN-SUFFIX,newworld55.com,REJECT
@@ -15648,6 +15654,7 @@ DOMAIN-SUFFIX,optionbanking.com,REJECT
 DOMAIN-SUFFIX,optionet.com,REJECT
 DOMAIN-SUFFIX,optionside.com,REJECT
 DOMAIN-SUFFIX,optionsmarter.com,REJECT
+DOMAIN-SUFFIX,optionsnomad.com,REJECT
 DOMAIN-SUFFIX,optionsxo.com,REJECT
 DOMAIN-SUFFIX,optmd.com,REJECT
 DOMAIN-SUFFIX,optmnstr.com,REJECT
@@ -15758,6 +15765,7 @@ DOMAIN-SUFFIX,ota.cdn.pandora.xiaomi.com,REJECT
 DOMAIN-SUFFIX,ota.ptqy.gitv.tv,REJECT
 DOMAIN-SUFFIX,otcantabuse.com,REJECT
 DOMAIN-SUFFIX,otha.net,REJECT
+DOMAIN-SUFFIX,otheve.beacon.qq.com,REJECT
 DOMAIN-SUFFIX,otkph.com,REJECT
 DOMAIN-SUFFIX,otomotif-online.com,REJECT
 DOMAIN-SUFFIX,otp-online.de,REJECT
@@ -15984,6 +15992,7 @@ DOMAIN-SUFFIX,partner.pelikan.cz,REJECT
 DOMAIN-SUFFIX,partnerad.l.google.com,REJECT
 DOMAIN-SUFFIX,partnerads.ysm.yahoo.com,REJECT
 DOMAIN-SUFFIX,partnercash.de,REJECT
+DOMAIN-SUFFIX,partnerhut.com,REJECT
 DOMAIN-SUFFIX,partnerlinks.io,REJECT
 DOMAIN-SUFFIX,partners.priceline.com,REJECT
 DOMAIN-SUFFIX,partplanes.com,REJECT
@@ -17607,6 +17616,7 @@ DOMAIN-SUFFIX,ro-up.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,ro10.landunk.com,REJECT
 DOMAIN-SUFFIX,ro6.landofm.com,REJECT
 DOMAIN-SUFFIX,ro9.landunk.com,REJECT
+DOMAIN-SUFFIX,roaddynamics.com,REJECT
 DOMAIN-SUFFIX,roadkultur.de,REJECT
 DOMAIN-SUFFIX,roadtrip-camping.com,REJECT
 DOMAIN-SUFFIX,roar.com,REJECT
@@ -19340,6 +19350,7 @@ DOMAIN-SUFFIX,spirituosenfest.com,REJECT
 DOMAIN-SUFFIX,spirituosenrabatt.com,REJECT
 DOMAIN-SUFFIX,spl-energie.com,REJECT
 DOMAIN-SUFFIX,spl-energie.de,REJECT
+DOMAIN-SUFFIX,spl.zeotap.com,REJECT
 DOMAIN-SUFFIX,splendiday.com,REJECT
 DOMAIN-SUFFIX,splendorsolar.shop,REJECT
 DOMAIN-SUFFIX,splendris-pharmaceuticals.de,REJECT
@@ -20883,6 +20894,7 @@ DOMAIN-SUFFIX,tr-vcode-od.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,tr-vcode-or.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,tr-weather.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,tr.api.fanbyte.com,REJECT
+DOMAIN-SUFFIX,tr.p.360.cn,REJECT
 DOMAIN-SUFFIX,trabo-garten.de,REJECT
 DOMAIN-SUFFIX,trace-h5sdk.vivo.com.cn,REJECT
 DOMAIN-SUFFIX,trace.app-performance.music.amazon.dev,REJECT
@@ -22727,6 +22739,7 @@ DOMAIN-SUFFIX,wps-register.com,REJECT
 DOMAIN-SUFFIX,wrapsi.shop,REJECT
 DOMAIN-SUFFIX,wrestle-site.com,REJECT
 DOMAIN-SUFFIX,wrightt.shop,REJECT
+DOMAIN-SUFFIX,writerhubs.com,REJECT
 DOMAIN-SUFFIX,wrtcmme.com,REJECT
 DOMAIN-SUFFIX,ws-eu.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,ws-fe.amazon-adsystem.com,REJECT

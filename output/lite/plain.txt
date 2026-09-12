@@ -95,6 +95,7 @@
 47215.world
 4bike.net
 4d5.net
+4dex.io
 4dmarkt.de
 4info.com
 4jnzhl0d0.com
@@ -290,6 +291,7 @@ abroad.api.comm.intl.miui.com
 abrorabatt.de
 absolutelyn.com
 absoluteo.com
+absolutering.com
 absorbingband.com
 absorbpath.com
 absorrption.com
@@ -2858,6 +2860,7 @@ basquetestoreacd.com
 bassbet1.com
 bassbetcasino-online.de
 basspool.de
+bastingart.com
 baswad.com
 bat.bing.com
 bat.bing.net
@@ -3327,6 +3330,7 @@ bigsex.is
 bigskysaunas.com
 bigsofasde.de
 bigstoregaming.com
+bigworldfashion.com
 bike-trailer24.de
 bike69-shop.de
 bikeambulanz-mobil.de
@@ -4871,7 +4875,6 @@ cloudy-with-containers.ch
 clpmobelrabatt.com
 clrstm.com
 clubeboss.de
-cluster.adultworld.com
 clustrmaps.com
 cm-ad-lgsmartad-com.aws-prd.net
 cmchbhopal.com
@@ -7743,6 +7746,7 @@ find-persons.com
 findably.myshoplaza.com
 findapi.micloud.xiaomi.net
 findaten.de
+findcommerce.com
 finde-dein-bestes-angebot.de
 findedeinrad.de
 findedstore.com
@@ -11005,6 +11009,7 @@ jewelleryina.com
 jewelryclaire.com
 jewelrynovainc.com
 jewelrynovashop.com
+jewelrysprings.com
 jfajhkpq.shop
 jgfrqhh.top
 jh-machines-nord.com
@@ -11466,6 +11471,7 @@ kempia-group.com
 kemptenmodehaus.de
 kenotistflowio.digital
 kern-recht.de
+kernellife.com
 kernvogel.com
 kersten-maschinenvertriebs-gmbh.de
 keterhanova.myshopify.com
@@ -14537,6 +14543,7 @@ my-jinsha-online.com
 my-leyou-online.com
 my-pawly.com
 my-pills.biz
+my.rtmark.net
 myads.company
 myads.net
 myads.telkomsel.com
@@ -14864,7 +14871,6 @@ newsfinas.de
 newsfluxvpo.info
 newshopmarket.com
 newt1.adultadworld.com
-newt1.adultworld.com
 newton-invest.com
 newtoolstore.com
 newworld55.com
@@ -15644,6 +15650,7 @@ optionbanking.com
 optionet.com
 optionside.com
 optionsmarter.com
+optionsnomad.com
 optionsxo.com
 optmd.com
 optmnstr.com
@@ -15754,6 +15761,7 @@ ota.cdn.pandora.xiaomi.com
 ota.ptqy.gitv.tv
 otcantabuse.com
 otha.net
+otheve.beacon.qq.com
 otkph.com
 otomotif-online.com
 otp-online.de
@@ -15980,6 +15988,7 @@ partner.pelikan.cz
 partnerad.l.google.com
 partnerads.ysm.yahoo.com
 partnercash.de
+partnerhut.com
 partnerlinks.io
 partners.priceline.com
 partplanes.com
@@ -17603,6 +17612,7 @@ ro-up.vivoglobal.com
 ro10.landunk.com
 ro6.landofm.com
 ro9.landunk.com
+roaddynamics.com
 roadkultur.de
 roadtrip-camping.com
 roar.com
@@ -19336,6 +19346,7 @@ spirituosenfest.com
 spirituosenrabatt.com
 spl-energie.com
 spl-energie.de
+spl.zeotap.com
 splendiday.com
 splendorsolar.shop
 splendris-pharmaceuticals.de
@@ -20879,6 +20890,7 @@ tr-vcode-od.vivoglobal.com
 tr-vcode-or.vivoglobal.com
 tr-weather.vivoglobal.com
 tr.api.fanbyte.com
+tr.p.360.cn
 trabo-garten.de
 trace-h5sdk.vivo.com.cn
 trace.app-performance.music.amazon.dev
@@ -22723,6 +22735,7 @@ wps-register.com
 wrapsi.shop
 wrestle-site.com
 wrightt.shop
+writerhubs.com
 wrtcmme.com
 ws-eu.amazon-adsystem.com
 ws-fe.amazon-adsystem.com

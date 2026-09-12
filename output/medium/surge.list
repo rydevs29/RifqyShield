@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-09-11 09:54:34
-# Total Domains: 248,613
+# Last Updated: 2026-09-12 02:22:16
+# Total Domains: 248,626
 # ==========================================
 DOMAIN-SUFFIX,0-8-07c.casino,REJECT
 DOMAIN-SUFFIX,0-bbs.com,REJECT
@@ -27033,6 +27033,7 @@ DOMAIN-SUFFIX,4dbos.shop,REJECT
 DOMAIN-SUFFIX,4dcrot.org,REJECT
 DOMAIN-SUFFIX,4des.ru,REJECT
 DOMAIN-SUFFIX,4dewapoker.com,REJECT
+DOMAIN-SUFFIX,4dex.io,REJECT
 DOMAIN-SUFFIX,4dmarkt.de,REJECT
 DOMAIN-SUFFIX,4dmega.com,REJECT
 DOMAIN-SUFFIX,4dplay.xyz,REJECT
@@ -48175,6 +48176,7 @@ DOMAIN-SUFFIX,absolutelyn.com,REJECT
 DOMAIN-SUFFIX,absolutematures.com,REJECT
 DOMAIN-SUFFIX,absoluteo.com,REJECT
 DOMAIN-SUFFIX,absolutepoker.com,REJECT
+DOMAIN-SUFFIX,absolutering.com,REJECT
 DOMAIN-SUFFIX,absolutesex.com,REJECT
 DOMAIN-SUFFIX,absorbingband.com,REJECT
 DOMAIN-SUFFIX,absorbpath.com,REJECT
@@ -61812,6 +61814,7 @@ DOMAIN-SUFFIX,bastasvenskacasino.se,REJECT
 DOMAIN-SUFFIX,bastasvenskacasinot.com,REJECT
 DOMAIN-SUFFIX,bastcasino.pro,REJECT
 DOMAIN-SUFFIX,bastcasinoonline.com,REJECT
+DOMAIN-SUFFIX,bastingart.com,REJECT
 DOMAIN-SUFFIX,bastnatcasino.com,REJECT
 DOMAIN-SUFFIX,baswad.com,REJECT
 DOMAIN-SUFFIX,bat.bing.com,REJECT
@@ -69692,6 +69695,7 @@ DOMAIN-SUFFIX,bigwins.com,REJECT
 DOMAIN-SUFFIX,bigwinslots.best,REJECT
 DOMAIN-SUFFIX,bigwinvegas.com,REJECT
 DOMAIN-SUFFIX,bigwoman.vip,REJECT
+DOMAIN-SUFFIX,bigworldfashion.com,REJECT
 DOMAIN-SUFFIX,bigxvideo.com,REJECT
 DOMAIN-SUFFIX,bigxxx.pet,REJECT
 DOMAIN-SUFFIX,bigxxxhall.click,REJECT
@@ -85589,7 +85593,6 @@ DOMAIN-SUFFIX,clubwptgold.com,REJECT
 DOMAIN-SUFFIX,clubxcams.com,REJECT
 DOMAIN-SUFFIX,clubxpornhub.shop,REJECT
 DOMAIN-SUFFIX,cluset.com,REJECT
-DOMAIN-SUFFIX,cluster.adultworld.com,REJECT
 DOMAIN-SUFFIX,cluster.xhamster.desi,REJECT
 DOMAIN-SUFFIX,cluster.xhfanclub.com,REJECT
 DOMAIN-SUFFIX,clustrmaps.com,REJECT
@@ -103308,6 +103311,7 @@ DOMAIN-SUFFIX,findcamgirl.com,REJECT
 DOMAIN-SUFFIX,findcams.live,REJECT
 DOMAIN-SUFFIX,findcasinobonuscodes.com,REJECT
 DOMAIN-SUFFIX,findcngays.top,REJECT
+DOMAIN-SUFFIX,findcommerce.com,REJECT
 DOMAIN-SUFFIX,finde-dein-bestes-angebot.de,REJECT
 DOMAIN-SUFFIX,findedeinrad.de,REJECT
 DOMAIN-SUFFIX,findedstore.com,REJECT
@@ -132852,6 +132856,7 @@ DOMAIN-SUFFIX,jewelrybet.com,REJECT
 DOMAIN-SUFFIX,jewelryclaire.com,REJECT
 DOMAIN-SUFFIX,jewelrynovainc.com,REJECT
 DOMAIN-SUFFIX,jewelrynovashop.com,REJECT
+DOMAIN-SUFFIX,jewelrysprings.com,REJECT
 DOMAIN-SUFFIX,jewelsextube.com,REJECT
 DOMAIN-SUFFIX,jewishdiscoveries.com,REJECT
 DOMAIN-SUFFIX,jewishfriendfinder.com,REJECT
@@ -140430,6 +140435,7 @@ DOMAIN-SUFFIX,kerjakeras.xyz,REJECT
 DOMAIN-SUFFIX,kerjalapangan77.xyz,REJECT
 DOMAIN-SUFFIX,kern-recht.de,REJECT
 DOMAIN-SUFFIX,kernelgo.com,REJECT
+DOMAIN-SUFFIX,kernellife.com,REJECT
 DOMAIN-SUFFIX,kerni.itch.io,REJECT
 DOMAIN-SUFFIX,kernvogel.com,REJECT
 DOMAIN-SUFFIX,kero10.life,REJECT
@@ -163347,6 +163353,7 @@ DOMAIN-SUFFIX,my-yoya.com,REJECT
 DOMAIN-SUFFIX,my.club,REJECT
 DOMAIN-SUFFIX,my.free-cam.org,REJECT
 DOMAIN-SUFFIX,my.porno666.sex,REJECT
+DOMAIN-SUFFIX,my.rtmark.net,REJECT
 DOMAIN-SUFFIX,my10cric.com,REJECT
 DOMAIN-SUFFIX,my11circle.com,REJECT
 DOMAIN-SUFFIX,my188.com,REJECT
@@ -166301,7 +166308,6 @@ DOMAIN-SUFFIX,newstar88.store,REJECT
 DOMAIN-SUFFIX,newsviralgo.com,REJECT
 DOMAIN-SUFFIX,newswank.com,REJECT
 DOMAIN-SUFFIX,newt1.adultadworld.com,REJECT
-DOMAIN-SUFFIX,newt1.adultworld.com,REJECT
 DOMAIN-SUFFIX,newtitsporn.com,REJECT
 DOMAIN-SUFFIX,newtokyo.net,REJECT
 DOMAIN-SUFFIX,newton-invest.com,REJECT
@@ -172246,6 +172252,7 @@ DOMAIN-SUFFIX,optionbanking.com,REJECT
 DOMAIN-SUFFIX,optionet.com,REJECT
 DOMAIN-SUFFIX,optionside.com,REJECT
 DOMAIN-SUFFIX,optionsmarter.com,REJECT
+DOMAIN-SUFFIX,optionsnomad.com,REJECT
 DOMAIN-SUFFIX,optionsxo.com,REJECT
 DOMAIN-SUFFIX,optkartina.ru,REJECT
 DOMAIN-SUFFIX,optmd.com,REJECT
@@ -172594,6 +172601,7 @@ DOMAIN-SUFFIX,otgone.com,REJECT
 DOMAIN-SUFFIX,otha.net,REJECT
 DOMAIN-SUFFIX,otherhi.xyz,REJECT
 DOMAIN-SUFFIX,otherstars.com,REJECT
+DOMAIN-SUFFIX,otheve.beacon.qq.com,REJECT
 DOMAIN-SUFFIX,otices.com,REJECT
 DOMAIN-SUFFIX,otitsvid.com,REJECT
 DOMAIN-SUFFIX,otkph.com,REJECT
@@ -173872,6 +173880,7 @@ DOMAIN-SUFFIX,partnerads.ysm.yahoo.com,REJECT
 DOMAIN-SUFFIX,partnerbayanlar.com,REJECT
 DOMAIN-SUFFIX,partnerbcgame.com,REJECT
 DOMAIN-SUFFIX,partnercash.de,REJECT
+DOMAIN-SUFFIX,partnerhut.com,REJECT
 DOMAIN-SUFFIX,partnerlinks.io,REJECT
 DOMAIN-SUFFIX,partnermelbet.com,REJECT
 DOMAIN-SUFFIX,partnernight.club,REJECT
@@ -193814,6 +193823,7 @@ DOMAIN-SUFFIX,ro89.com,REJECT
 DOMAIN-SUFFIX,ro9.landunk.com,REJECT
 DOMAIN-SUFFIX,roadamavi5d.com,REJECT
 DOMAIN-SUFFIX,roadboskuvip.xyz,REJECT
+DOMAIN-SUFFIX,roaddynamics.com,REJECT
 DOMAIN-SUFFIX,roadkultur.de,REJECT
 DOMAIN-SUFFIX,roadpornvideo.com,REJECT
 DOMAIN-SUFFIX,roadsexe.com,REJECT
@@ -208757,6 +208767,7 @@ DOMAIN-SUFFIX,spk2ih.com,REJECT
 DOMAIN-SUFFIX,spkiller31.itch.io,REJECT
 DOMAIN-SUFFIX,spl-energie.com,REJECT
 DOMAIN-SUFFIX,spl-energie.de,REJECT
+DOMAIN-SUFFIX,spl.zeotap.com,REJECT
 DOMAIN-SUFFIX,spl168.com,REJECT
 DOMAIN-SUFFIX,splashamateur.com,REJECT
 DOMAIN-SUFFIX,splashcoins.com,REJECT
@@ -219140,6 +219151,7 @@ DOMAIN-SUFFIX,tr-vcode-od.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,tr-vcode-or.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,tr-weather.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,tr.api.fanbyte.com,REJECT
+DOMAIN-SUFFIX,tr.p.360.cn,REJECT
 DOMAIN-SUFFIX,tr48k1m.com,REJECT
 DOMAIN-SUFFIX,tr88-casino.com,REJECT
 DOMAIN-SUFFIX,traaawmag.com,REJECT
@@ -234252,6 +234264,7 @@ DOMAIN-SUFFIX,wrestlingdommes.com,REJECT
 DOMAIN-SUFFIX,wrestlingwithdemons.com,REJECT
 DOMAIN-SUFFIX,wrightt.shop,REJECT
 DOMAIN-SUFFIX,writefastmyessay.com,REJECT
+DOMAIN-SUFFIX,writerhubs.com,REJECT
 DOMAIN-SUFFIX,written.chat,REJECT
 DOMAIN-SUFFIX,wrjoejg.com,REJECT
 DOMAIN-SUFFIX,wrm.casino,REJECT

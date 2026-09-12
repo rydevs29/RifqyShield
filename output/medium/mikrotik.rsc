@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-09-11 09:54:34
-# Total Domains: 248,613
+# Last Updated: 2026-09-12 02:22:16
+# Total Domains: 248,626
 # ==========================================
 /ip dns static
 add name="0-8-07c.casino" address=0.0.0.0
@@ -27034,6 +27034,7 @@ add name="4dbos.shop" address=0.0.0.0
 add name="4dcrot.org" address=0.0.0.0
 add name="4des.ru" address=0.0.0.0
 add name="4dewapoker.com" address=0.0.0.0
+add name="4dex.io" address=0.0.0.0
 add name="4dmarkt.de" address=0.0.0.0
 add name="4dmega.com" address=0.0.0.0
 add name="4dplay.xyz" address=0.0.0.0
@@ -48176,6 +48177,7 @@ add name="absolutelyn.com" address=0.0.0.0
 add name="absolutematures.com" address=0.0.0.0
 add name="absoluteo.com" address=0.0.0.0
 add name="absolutepoker.com" address=0.0.0.0
+add name="absolutering.com" address=0.0.0.0
 add name="absolutesex.com" address=0.0.0.0
 add name="absorbingband.com" address=0.0.0.0
 add name="absorbpath.com" address=0.0.0.0
@@ -61813,6 +61815,7 @@ add name="bastasvenskacasino.se" address=0.0.0.0
 add name="bastasvenskacasinot.com" address=0.0.0.0
 add name="bastcasino.pro" address=0.0.0.0
 add name="bastcasinoonline.com" address=0.0.0.0
+add name="bastingart.com" address=0.0.0.0
 add name="bastnatcasino.com" address=0.0.0.0
 add name="baswad.com" address=0.0.0.0
 add name="bat.bing.com" address=0.0.0.0
@@ -69693,6 +69696,7 @@ add name="bigwins.com" address=0.0.0.0
 add name="bigwinslots.best" address=0.0.0.0
 add name="bigwinvegas.com" address=0.0.0.0
 add name="bigwoman.vip" address=0.0.0.0
+add name="bigworldfashion.com" address=0.0.0.0
 add name="bigxvideo.com" address=0.0.0.0
 add name="bigxxx.pet" address=0.0.0.0
 add name="bigxxxhall.click" address=0.0.0.0
@@ -85590,7 +85594,6 @@ add name="clubwptgold.com" address=0.0.0.0
 add name="clubxcams.com" address=0.0.0.0
 add name="clubxpornhub.shop" address=0.0.0.0
 add name="cluset.com" address=0.0.0.0
-add name="cluster.adultworld.com" address=0.0.0.0
 add name="cluster.xhamster.desi" address=0.0.0.0
 add name="cluster.xhfanclub.com" address=0.0.0.0
 add name="clustrmaps.com" address=0.0.0.0
@@ -103309,6 +103312,7 @@ add name="findcamgirl.com" address=0.0.0.0
 add name="findcams.live" address=0.0.0.0
 add name="findcasinobonuscodes.com" address=0.0.0.0
 add name="findcngays.top" address=0.0.0.0
+add name="findcommerce.com" address=0.0.0.0
 add name="finde-dein-bestes-angebot.de" address=0.0.0.0
 add name="findedeinrad.de" address=0.0.0.0
 add name="findedstore.com" address=0.0.0.0
@@ -132853,6 +132857,7 @@ add name="jewelrybet.com" address=0.0.0.0
 add name="jewelryclaire.com" address=0.0.0.0
 add name="jewelrynovainc.com" address=0.0.0.0
 add name="jewelrynovashop.com" address=0.0.0.0
+add name="jewelrysprings.com" address=0.0.0.0
 add name="jewelsextube.com" address=0.0.0.0
 add name="jewishdiscoveries.com" address=0.0.0.0
 add name="jewishfriendfinder.com" address=0.0.0.0
@@ -140431,6 +140436,7 @@ add name="kerjakeras.xyz" address=0.0.0.0
 add name="kerjalapangan77.xyz" address=0.0.0.0
 add name="kern-recht.de" address=0.0.0.0
 add name="kernelgo.com" address=0.0.0.0
+add name="kernellife.com" address=0.0.0.0
 add name="kerni.itch.io" address=0.0.0.0
 add name="kernvogel.com" address=0.0.0.0
 add name="kero10.life" address=0.0.0.0
@@ -163348,6 +163354,7 @@ add name="my-yoya.com" address=0.0.0.0
 add name="my.club" address=0.0.0.0
 add name="my.free-cam.org" address=0.0.0.0
 add name="my.porno666.sex" address=0.0.0.0
+add name="my.rtmark.net" address=0.0.0.0
 add name="my10cric.com" address=0.0.0.0
 add name="my11circle.com" address=0.0.0.0
 add name="my188.com" address=0.0.0.0
@@ -166302,7 +166309,6 @@ add name="newstar88.store" address=0.0.0.0
 add name="newsviralgo.com" address=0.0.0.0
 add name="newswank.com" address=0.0.0.0
 add name="newt1.adultadworld.com" address=0.0.0.0
-add name="newt1.adultworld.com" address=0.0.0.0
 add name="newtitsporn.com" address=0.0.0.0
 add name="newtokyo.net" address=0.0.0.0
 add name="newton-invest.com" address=0.0.0.0
@@ -172247,6 +172253,7 @@ add name="optionbanking.com" address=0.0.0.0
 add name="optionet.com" address=0.0.0.0
 add name="optionside.com" address=0.0.0.0
 add name="optionsmarter.com" address=0.0.0.0
+add name="optionsnomad.com" address=0.0.0.0
 add name="optionsxo.com" address=0.0.0.0
 add name="optkartina.ru" address=0.0.0.0
 add name="optmd.com" address=0.0.0.0
@@ -172595,6 +172602,7 @@ add name="otgone.com" address=0.0.0.0
 add name="otha.net" address=0.0.0.0
 add name="otherhi.xyz" address=0.0.0.0
 add name="otherstars.com" address=0.0.0.0
+add name="otheve.beacon.qq.com" address=0.0.0.0
 add name="otices.com" address=0.0.0.0
 add name="otitsvid.com" address=0.0.0.0
 add name="otkph.com" address=0.0.0.0
@@ -173873,6 +173881,7 @@ add name="partnerads.ysm.yahoo.com" address=0.0.0.0
 add name="partnerbayanlar.com" address=0.0.0.0
 add name="partnerbcgame.com" address=0.0.0.0
 add name="partnercash.de" address=0.0.0.0
+add name="partnerhut.com" address=0.0.0.0
 add name="partnerlinks.io" address=0.0.0.0
 add name="partnermelbet.com" address=0.0.0.0
 add name="partnernight.club" address=0.0.0.0
@@ -193815,6 +193824,7 @@ add name="ro89.com" address=0.0.0.0
 add name="ro9.landunk.com" address=0.0.0.0
 add name="roadamavi5d.com" address=0.0.0.0
 add name="roadboskuvip.xyz" address=0.0.0.0
+add name="roaddynamics.com" address=0.0.0.0
 add name="roadkultur.de" address=0.0.0.0
 add name="roadpornvideo.com" address=0.0.0.0
 add name="roadsexe.com" address=0.0.0.0
@@ -208758,6 +208768,7 @@ add name="spk2ih.com" address=0.0.0.0
 add name="spkiller31.itch.io" address=0.0.0.0
 add name="spl-energie.com" address=0.0.0.0
 add name="spl-energie.de" address=0.0.0.0
+add name="spl.zeotap.com" address=0.0.0.0
 add name="spl168.com" address=0.0.0.0
 add name="splashamateur.com" address=0.0.0.0
 add name="splashcoins.com" address=0.0.0.0
@@ -219141,6 +219152,7 @@ add name="tr-vcode-od.vivoglobal.com" address=0.0.0.0
 add name="tr-vcode-or.vivoglobal.com" address=0.0.0.0
 add name="tr-weather.vivoglobal.com" address=0.0.0.0
 add name="tr.api.fanbyte.com" address=0.0.0.0
+add name="tr.p.360.cn" address=0.0.0.0
 add name="tr48k1m.com" address=0.0.0.0
 add name="tr88-casino.com" address=0.0.0.0
 add name="traaawmag.com" address=0.0.0.0
@@ -234253,6 +234265,7 @@ add name="wrestlingdommes.com" address=0.0.0.0
 add name="wrestlingwithdemons.com" address=0.0.0.0
 add name="wrightt.shop" address=0.0.0.0
 add name="writefastmyessay.com" address=0.0.0.0
+add name="writerhubs.com" address=0.0.0.0
 add name="written.chat" address=0.0.0.0
 add name="wrjoejg.com" address=0.0.0.0
 add name="wrm.casino" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-09-11 09:54:34
-# Total Domains: 248,613
+# Last Updated: 2026-09-12 02:22:16
+# Total Domains: 248,626
 # ==========================================
 0-8-07c.casino CNAME .
 0-bbs.com CNAME .
@@ -27033,6 +27033,7 @@
 4dcrot.org CNAME .
 4des.ru CNAME .
 4dewapoker.com CNAME .
+4dex.io CNAME .
 4dmarkt.de CNAME .
 4dmega.com CNAME .
 4dplay.xyz CNAME .
@@ -48175,6 +48176,7 @@ absolutelyn.com CNAME .
 absolutematures.com CNAME .
 absoluteo.com CNAME .
 absolutepoker.com CNAME .
+absolutering.com CNAME .
 absolutesex.com CNAME .
 absorbingband.com CNAME .
 absorbpath.com CNAME .
@@ -61812,6 +61814,7 @@ bastasvenskacasino.se CNAME .
 bastasvenskacasinot.com CNAME .
 bastcasino.pro CNAME .
 bastcasinoonline.com CNAME .
+bastingart.com CNAME .
 bastnatcasino.com CNAME .
 baswad.com CNAME .
 bat.bing.com CNAME .
@@ -69692,6 +69695,7 @@ bigwins.com CNAME .
 bigwinslots.best CNAME .
 bigwinvegas.com CNAME .
 bigwoman.vip CNAME .
+bigworldfashion.com CNAME .
 bigxvideo.com CNAME .
 bigxxx.pet CNAME .
 bigxxxhall.click CNAME .
@@ -85589,7 +85593,6 @@ clubwptgold.com CNAME .
 clubxcams.com CNAME .
 clubxpornhub.shop CNAME .
 cluset.com CNAME .
-cluster.adultworld.com CNAME .
 cluster.xhamster.desi CNAME .
 cluster.xhfanclub.com CNAME .
 clustrmaps.com CNAME .
@@ -103308,6 +103311,7 @@ findcamgirl.com CNAME .
 findcams.live CNAME .
 findcasinobonuscodes.com CNAME .
 findcngays.top CNAME .
+findcommerce.com CNAME .
 finde-dein-bestes-angebot.de CNAME .
 findedeinrad.de CNAME .
 findedstore.com CNAME .
@@ -132852,6 +132856,7 @@ jewelrybet.com CNAME .
 jewelryclaire.com CNAME .
 jewelrynovainc.com CNAME .
 jewelrynovashop.com CNAME .
+jewelrysprings.com CNAME .
 jewelsextube.com CNAME .
 jewishdiscoveries.com CNAME .
 jewishfriendfinder.com CNAME .
@@ -140430,6 +140435,7 @@ kerjakeras.xyz CNAME .
 kerjalapangan77.xyz CNAME .
 kern-recht.de CNAME .
 kernelgo.com CNAME .
+kernellife.com CNAME .
 kerni.itch.io CNAME .
 kernvogel.com CNAME .
 kero10.life CNAME .
@@ -163347,6 +163353,7 @@ my-yoya.com CNAME .
 my.club CNAME .
 my.free-cam.org CNAME .
 my.porno666.sex CNAME .
+my.rtmark.net CNAME .
 my10cric.com CNAME .
 my11circle.com CNAME .
 my188.com CNAME .
@@ -166301,7 +166308,6 @@ newstar88.store CNAME .
 newsviralgo.com CNAME .
 newswank.com CNAME .
 newt1.adultadworld.com CNAME .
-newt1.adultworld.com CNAME .
 newtitsporn.com CNAME .
 newtokyo.net CNAME .
 newton-invest.com CNAME .
@@ -172246,6 +172252,7 @@ optionbanking.com CNAME .
 optionet.com CNAME .
 optionside.com CNAME .
 optionsmarter.com CNAME .
+optionsnomad.com CNAME .
 optionsxo.com CNAME .
 optkartina.ru CNAME .
 optmd.com CNAME .
@@ -172594,6 +172601,7 @@ otgone.com CNAME .
 otha.net CNAME .
 otherhi.xyz CNAME .
 otherstars.com CNAME .
+otheve.beacon.qq.com CNAME .
 otices.com CNAME .
 otitsvid.com CNAME .
 otkph.com CNAME .
@@ -173872,6 +173880,7 @@ partnerads.ysm.yahoo.com CNAME .
 partnerbayanlar.com CNAME .
 partnerbcgame.com CNAME .
 partnercash.de CNAME .
+partnerhut.com CNAME .
 partnerlinks.io CNAME .
 partnermelbet.com CNAME .
 partnernight.club CNAME .
@@ -193814,6 +193823,7 @@ ro89.com CNAME .
 ro9.landunk.com CNAME .
 roadamavi5d.com CNAME .
 roadboskuvip.xyz CNAME .
+roaddynamics.com CNAME .
 roadkultur.de CNAME .
 roadpornvideo.com CNAME .
 roadsexe.com CNAME .
@@ -208757,6 +208767,7 @@ spk2ih.com CNAME .
 spkiller31.itch.io CNAME .
 spl-energie.com CNAME .
 spl-energie.de CNAME .
+spl.zeotap.com CNAME .
 spl168.com CNAME .
 splashamateur.com CNAME .
 splashcoins.com CNAME .
@@ -219140,6 +219151,7 @@ tr-vcode-od.vivoglobal.com CNAME .
 tr-vcode-or.vivoglobal.com CNAME .
 tr-weather.vivoglobal.com CNAME .
 tr.api.fanbyte.com CNAME .
+tr.p.360.cn CNAME .
 tr48k1m.com CNAME .
 tr88-casino.com CNAME .
 traaawmag.com CNAME .
@@ -234252,6 +234264,7 @@ wrestlingdommes.com CNAME .
 wrestlingwithdemons.com CNAME .
 wrightt.shop CNAME .
 writefastmyessay.com CNAME .
+writerhubs.com CNAME .
 written.chat CNAME .
 wrjoejg.com CNAME .
 wrm.casino CNAME .
