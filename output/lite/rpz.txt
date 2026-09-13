@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-12 02:22:12
-# Total Domains: 23,243
+# Last Updated: 2026-09-13 02:19:49
+# Total Domains: 23,321
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -382,6 +382,7 @@ ad-drcn.media.dbankcloud.cn CNAME .
 ad-drcn.media.dbankcloud.ru CNAME .
 ad-format-sg.tiktokv.com CNAME .
 ad-format-ttp2.tiktokv.eu CNAME .
+ad-format.tiktokv.us CNAME .
 ad-format16-normal-useastred.tiktokv.eu CNAME .
 ad-growth-in.heytapmobile.com CNAME .
 ad-growth-ru.heytapmobile.com CNAME .
@@ -1298,6 +1299,7 @@ adzerk.net CNAME .
 adzerk.s3.amazonaws.com CNAME .
 adzestocp.com CNAME .
 ae-ad-lgsmartad-com.aws-prd.net CNAME .
+ae-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 aedes.shop CNAME .
 aedexstore.de CNAME .
 aeg-solutions.com CNAME .
@@ -1422,6 +1424,7 @@ airvaxde.com CNAME .
 airyano.com CNAME .
 airyclub.com CNAME .
 airzuma.at CNAME .
+airzuma.com CNAME .
 aisope.at CNAME .
 aistat.net CNAME .
 aitechinpharma.com CNAME .
@@ -1454,8 +1457,10 @@ aktivimfreien.com CNAME .
 aktivmaxx.com CNAME .
 akustikholz.shop CNAME .
 al-ad-lgsmartad-com.aws-prd.net CNAME .
+al-info-lgsmartad-com.aws-prd.net CNAME .
 al-nassr.shop CNAME .
 al-nassr.store CNAME .
+al-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 al-research.com CNAME .
 alairlenoir.com CNAME .
 albrechtmode.de CNAME .
@@ -2015,6 +2020,7 @@ api.jr.mi.com CNAME .
 api.kameleoon.com CNAME .
 api.lab.amplitude.com CNAME .
 api.launcher.intl.miui.com CNAME .
+api.metrics.eu-central-1.iris.apx.amazon.dev CNAME .
 api.metrics.us-west-2.iris.apx.amazon.dev CNAME .
 api.micloud.xiaomi.net CNAME .
 api.mintbrs.intl.miui.com CNAME .
@@ -2360,7 +2366,9 @@ async.gsyndication.com CNAME .
 at-ad-lgsmartad-com.aws-prd.net CNAME .
 at-beta.amazon-adsystem.com CNAME .
 at-gamma-us-east.amazon-adsystem.com CNAME .
+at-info-lgsmartad-com.aws-prd.net CNAME .
 at-o.net CNAME .
+at-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 at-us-east.amazon-adsystem.com CNAME .
 at.alpine-point.com CNAME .
 at.curalise.com CNAME .
@@ -2420,7 +2428,9 @@ atvelektro.com CNAME .
 atvelektro.de CNAME .
 atwola.com CNAME .
 au-ad-lgsmartad-com.aws-prd.net CNAME .
+au-info-lgsmartad-com.aws-prd.net CNAME .
 au-meds.com CNAME .
+au-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 au.ff.avast.sec.miui.com CNAME .
 auc-visio-telemetry.officeapps.live.com CNAME .
 auctionads.com CNAME .
@@ -2460,6 +2470,7 @@ aurahous.com CNAME .
 aurainfusions.com CNAME .
 auraterraplaza.com CNAME .
 aureamunich.de CNAME .
+aureliustrust.uk CNAME .
 aurelllc.com CNAME .
 aurendal.com CNAME .
 auresthiqan.sbs CNAME .
@@ -2932,6 +2943,7 @@ bbn.img.com.ua CNAME .
 bbqaccessoriessale.com CNAME .
 bccnerty.com CNAME .
 bch-oberursel.de CNAME .
+bcls-assets.com CNAME .
 bcm-shop.de CNAME .
 bcns-shop.com CNAME .
 bcom-solar.de CNAME .
@@ -2944,6 +2956,7 @@ bdscoffee.com CNAME .
 bdv.bidvertiser.com CNAME .
 be-ad-lgsmartad-com.aws-prd.net CNAME .
 be-aetlcnshop.com CNAME .
+be-info-lgsmartad-com.aws-prd.net CNAME .
 beaccustomed.com CNAME .
 beachfront.com CNAME .
 beachitem.com CNAME .
@@ -3183,6 +3196,7 @@ bestelektronicshop.de CNAME .
 bestellen-ciao-ciao-pf.de CNAME .
 bestellundgut.de CNAME .
 bestelnuar.click CNAME .
+bestemed.com CNAME .
 bestemedikamente.com CNAME .
 bestenkaufen.com CNAME .
 bestenwahl.de CNAME .
@@ -3273,9 +3287,9 @@ bforex.com CNAME .
 bftb.org CNAME .
 bfxoption.com CNAME .
 bg-ad-lgsmartad-com.aws-prd.net CNAME .
+bg-info-lgsmartad-com.aws-prd.net CNAME .
 bglshop.at CNAME .
 bgp.fe01.c3.xiaomi.com CNAME .
-bgp.tv.pandora.xiaomi.com CNAME .
 bh-ad-lgsmartad-com.aws-prd.net CNAME .
 bhajandarshan.com CNAME .
 bhcumsc.com CNAME .
@@ -3466,6 +3480,7 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -3603,6 +3618,7 @@ blyss-shop.de CNAME .
 bm.annonce.cz CNAME .
 bmbgreen.com CNAME .
 bmcloth.com CNAME .
+bmfflnanzonline.net CNAME .
 bmgebaeudereinigung.de CNAME .
 bmgvinyl.shop CNAME .
 bmn-online.de CNAME .
@@ -3744,7 +3760,9 @@ bpgroupe.com CNAME .
 bpo-partners.com CNAME .
 bpu.samsungelectronics.com CNAME .
 br-ad-lgsmartad-com.aws-prd.net CNAME .
+br-info-lgsmartad-com.aws-prd.net CNAME .
 br-p.vivoglobal.com CNAME .
+br-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 brabantiadeutschland.de CNAME .
 bracgartenservice.de CNAME .
 brachiumautoteile.de CNAME .
@@ -4022,8 +4040,10 @@ bxhdui.shop CNAME .
 bxrlin.de CNAME .
 by-ad-lgsmartad-com.aws-prd.net CNAME .
 by-emmamuller.de CNAME .
+by-info-lgsmartad-com.aws-prd.net CNAME .
 by-lina.de CNAME .
 by-olana.com CNAME .
+by-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 bybitbaltic.info CNAME .
 bycheri.de CNAME .
 bycicle.net CNAME .
@@ -4094,6 +4114,8 @@ c3-bgp.pandora.xiaomi.com CNAME .
 c3mini.pandora.xiaomi.com CNAME .
 ca-ad-lgsmartad-com.aws-prd.net CNAME .
 ca-agentur.de CNAME .
+ca-info-lgsmartad-com.aws-prd.net CNAME .
+ca-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 caactioncoalition.org CNAME .
 caay-berlin.com CNAME .
 caballde.com CNAME .
@@ -4429,6 +4451,8 @@ cgctv.com CNAME .
 cgicounter.puretec.de CNAME .
 ch-ad-lgsmartad-com.aws-prd.net CNAME .
 ch-asimov-leafs-events-data.trafficmanager.net CNAME .
+ch-info-lgsmartad-com.aws-prd.net CNAME .
+ch-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 ch.gluconv.com CNAME .
 chacos.at CNAME .
 chacosdeutschland.de CNAME .
@@ -4611,6 +4635,7 @@ clarity.microsoft.com CNAME .
 clarks-germany.com CNAME .
 clarks-osterreich.com CNAME .
 clarks-schweiz.com CNAME .
+clarksaustria.at CNAME .
 clarksdeutschland.de CNAME .
 clarksdeutschlandsale.com CNAME .
 clarksgermany.com CNAME .
@@ -4648,6 +4673,7 @@ clearancecurrent.com CNAME .
 clearancegowns.com CNAME .
 clearanceu.com CNAME .
 clearingt.com CNAME .
+clearmarket-europe.com CNAME .
 clearmarketeurope.com CNAME .
 clearstream.fashion CNAME .
 clearstream.xin CNAME .
@@ -5637,9 +5663,11 @@ de-fahrradshop.com CNAME .
 de-filter.com CNAME .
 de-fizzclean.com CNAME .
 de-gdpr-err-up.vivoglobal.com CNAME .
+de-info-lgsmartad-com.aws-prd.net CNAME .
 de-lumelia.com CNAME .
 de-musicshop.com CNAME .
 de-orion.site CNAME .
+de-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 de-schmuckens.com CNAME .
 de-tonies.com CNAME .
 de-toy.com CNAME .
@@ -5736,6 +5764,7 @@ decorstore.club CNAME .
 decorworld.shop CNAME .
 decosplaycartpop.shop CNAME .
 decotik.de CNAME .
+decovividly.com CNAME .
 deepintent.com CNAME .
 deeynee.com CNAME .
 defahrrad.com CNAME .
@@ -6031,6 +6060,7 @@ diandrabeauty.xyz CNAME .
 dianjingniu-online.com CNAME .
 dianomi.com CNAME .
 diantrag.com CNAME .
+diaryofafitmommy.com CNAME .
 dicamgruppe.de CNAME .
 dicecandies.com CNAME .
 dicha-anhaenger.com CNAME .
@@ -6086,6 +6116,7 @@ dinosaurier.store CNAME .
 dinosupplies.to CNAME .
 dionfashion.com CNAME .
 diotrange.com CNAME .
+diploms.de CNAME .
 dirctychop.com CNAME .
 direct-events-collector.spot.im CNAME .
 direct-promo.pro CNAME .
@@ -6607,12 +6638,15 @@ edreamtrips.com CNAME .
 edrxmeds.com CNAME .
 ee-ad-lgsmartad-com.aws-prd.net CNAME .
 ee-fahrrad-handel.de CNAME .
+ee-info-lgsmartad-com.aws-prd.net CNAME .
+ee-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 eew-karriere.de CNAME .
 efeublute.com CNAME .
 effexlaw.com CNAME .
 efficient-flow.solutions CNAME .
 effiziente-taubenabwehr.at CNAME .
 eg-ad-lgsmartad-com.aws-prd.net CNAME .
+eg-info-lgsmartad-com.aws-prd.net CNAME .
 eggelingen.de CNAME .
 egoryspecies.com CNAME .
 egscap.com CNAME .
@@ -6657,7 +6691,6 @@ eku-handel.de CNAME .
 ekzsale.shop CNAME .
 elaines.life CNAME .
 elamriaa.com CNAME .
-elan-monrevo.com CNAME .
 elanova.eu CNAME .
 elansyvor.fr CNAME .
 elasticchange.com CNAME .
@@ -7049,6 +7082,7 @@ etkick.de CNAME .
 etniesshoesireland.com CNAME .
 etrade-securities.com CNAME .
 etradecapitals.com CNAME .
+etrias.de CNAME .
 etrooppisode.com CNAME .
 etropo.com CNAME .
 etsbois-de-chaufage.com CNAME .
@@ -7071,6 +7105,7 @@ eu-pharmacy-online.com CNAME .
 eu-pnrt-stsdk.vivoglobal.com CNAME .
 eu-romsp-unifyconfig.vivoglobal.com CNAME .
 eu-sezane.com CNAME .
+eu-st-exappupgrade.vivoglobal.com CNAME .
 eu-st-sl.vivoglobal.com CNAME .
 eu-stsdk.vivoglobal.com CNAME .
 eu-timesync.vivoglobal.com CNAME .
@@ -7083,6 +7118,7 @@ eu.bagsvalley.cn CNAME .
 eu.cettire.com CNAME .
 eu.goldengoosediscount.com CNAME .
 eu.stanlyss1913.com CNAME .
+eu7-info-lgsmartad-com.aws-prd.net CNAME .
 eubiofficial.com CNAME .
 euc-excel-telemetry.officeapps.live.com CNAME .
 euc-excel-telemetry.wac.trafficmanager.net CNAME .
@@ -7675,10 +7711,11 @@ fewolio.de CNAME .
 fexora.online CNAME .
 ffc-excel-telemetry.officeapps.live.com CNAME .
 ffc-word-telemetry.officeapps.live.com CNAME .
-ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net CNAME .
 ffinasshop.com CNAME .
 fgteu1-word-telemetry-vip.officeapps.live.com CNAME .
 fi-ad-lgsmartad-com.aws-prd.net CNAME .
+fi-info-lgsmartad-com.aws-prd.net CNAME .
+fi-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 fiammshop.eu CNAME .
 fiat-global.com CNAME .
 fiat-transporter.at CNAME .
@@ -8082,8 +8119,9 @@ fqtag.com CNAME .
 fr-ad-lgsmartad-com.aws-prd.net CNAME .
 fr-api.xmpush.global.xiaomi.com CNAME .
 fr-drbright.net CNAME .
+fr-info-lgsmartad-com.aws-prd.net CNAME .
+fr-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 fr-register.xmpush.global.xiaomi.com CNAME .
-fr-totalenergiesinvest.com CNAME .
 fr.brokeragea.com CNAME .
 fr.feedback.xmpush.global.xiaomi.com CNAME .
 fr.finaguide.com CNAME .
@@ -8572,6 +8610,8 @@ gavalda.de CNAME .
 gavvia.com CNAME .
 gaziantepsauna.com CNAME .
 gb-ad-lgsmartad-com.aws-prd.net CNAME .
+gb-info-lgsmartad-com.aws-prd.net CNAME .
+gb-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 gbr-office.de CNAME .
 gbuynix.com CNAME .
 gcash-casino-ph.com CNAME .
@@ -8683,6 +8723,7 @@ germandepartmentstore.com CNAME .
 germanfishinggear.com CNAME .
 germanfurnituremart.com CNAME .
 germangoodsonline.com CNAME .
+germangusto.com CNAME .
 germaniatool.com CNAME .
 germaniatoolshop.com CNAME .
 germanmanufaktur.de CNAME .
@@ -9104,6 +9145,8 @@ gpt55x.io CNAME .
 gq-ad-lgsmartad-com.aws-prd.net CNAME .
 gqaltq.shop CNAME .
 gr-ad-lgsmartad-com.aws-prd.net CNAME .
+gr-info-lgsmartad-com.aws-prd.net CNAME .
+gr-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 gr.gluconv.com CNAME .
 grabpillsusa.com CNAME .
 grace-hawthorne.com CNAME .
@@ -9458,6 +9501,7 @@ handyorten.de CNAME .
 handyprotool.com CNAME .
 handytoolpro.com CNAME .
 haney-university-store.myshopify.com CNAME .
+hanfmeister.at CNAME .
 hanfseedstore.de CNAME .
 hangel-handel.de CNAME .
 hangmats.com CNAME .
@@ -10355,6 +10399,8 @@ ibcfx.com CNAME .
 ibillboard.com CNAME .
 ibler-elektronik.de CNAME .
 ibointernational.com CNAME .
+ibs.nextlgsdp.com CNAME .
+ibsstat.nextlgsdp.com CNAME .
 icarbuddy.com CNAME .
 icatautoteile.de CNAME .
 icebesteck.com CNAME .
@@ -10385,7 +10431,6 @@ icosa-service-sg-02.allawnos.com CNAME .
 icosa-service-sg-03.allawnos.com CNAME .
 icosa-service-sg.allawnos.com CNAME .
 icosa-service-us.allawnos.com CNAME .
-icosa-sg.coloros.com CNAME .
 icota-eu.coloros.com CNAME .
 icota-service-eu.allawnos.com CNAME .
 icota-service-in.allawnos.com CNAME .
@@ -10582,6 +10627,7 @@ in-ctdbprt-stsdk.vivoglobal.com CNAME .
 in-domaincfg.vivoglobal.com CNAME .
 in-errup.vivoglobal.com CNAME .
 in-ex-adlog.vivoglobal.com CNAME .
+in-info-lgsmartad-com.aws-prd.net CNAME .
 in-miuilog.sms.intl.xiaomi.com CNAME .
 in-monitor-stsdk.vivoglobal.com CNAME .
 in-news-abroad-backstage-interface.vivoglobal.com CNAME .
@@ -10861,11 +10907,13 @@ ir-de.amazon-adsystem.com CNAME .
 ir-es.amazon-adsystem.com CNAME .
 ir-fr.amazon-adsystem.com CNAME .
 ir-in.amazon-adsystem.com CNAME .
+ir-info-lgsmartad-com.aws-prd.net CNAME .
 ir-it.amazon-adsystem.com CNAME .
 ir-jp.amazon-adsystem.com CNAME .
 ir-mx.amazon-adsystem.com CNAME .
 ir-na.amazon-adsystem.com CNAME .
 ir-nl.amazon-adsystem.com CNAME .
+ir-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 ir-tracking.trafficmanager.net CNAME .
 ir-uk.amazon-adsystem.com CNAME .
 irchan.com CNAME .
@@ -10908,7 +10956,9 @@ isthebabybornyet.com CNAME .
 iswanan.de CNAME .
 it-ad-lgsmartad-com.aws-prd.net CNAME .
 it-con.org CNAME .
+it-info-lgsmartad-com.aws-prd.net CNAME .
 it-marktblick.de CNAME .
+it-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 it2-use.de CNAME .
 itagprotracker.com CNAME .
 italiannewstoday.com CNAME .
@@ -11187,6 +11237,8 @@ k.iinfo.cz CNAME .
 k4-kulturgarten.de CNAME .
 ka-pharm.com CNAME .
 kabahinfo.net CNAME .
+kabelbund.com CNAME .
+kabelschuhekaufen.com CNAME .
 kabilon.com CNAME .
 kabinett-sales.com CNAME .
 kachi-berlin.de CNAME .
@@ -11876,17 +11928,20 @@ kynaz10fashion.com CNAME .
 kynebeauty.de CNAME .
 kynubeauty.de CNAME .
 kz-ad-lgsmartad-com.aws-prd.net CNAME .
+kz-album-api.vivoglobal.com CNAME .
 kz-cname-sin01-bigdata.vivoglobal.com CNAME .
 kz-err-up.vivoglobal.com CNAME .
 kz-monitor-stsdk.vivoglobal.com CNAME .
 kz-onrt-stsdk.vivoglobal.com CNAME .
 kz-ort-stsdk.vivoglobal.com CNAME .
+kz-p.vivoglobal.com CNAME .
 kz-pnrt-stsdk.vivoglobal.com CNAME .
 kz-prt-stsdk.vivoglobal.com CNAME .
 kz-st-exappupgrade.vivoglobal.com CNAME .
 kz-st-sl.vivoglobal.com CNAME .
 kz-st-sysupgrade.vivoglobal.com CNAME .
 kz-stsdk.vivoglobal.com CNAME .
+kz-timesync.vivoglobal.com CNAME .
 kz-vcode-od.vivoglobal.com CNAME .
 kz-vcode-or.vivoglobal.com CNAME .
 kzlkozlm.shop CNAME .
@@ -12457,6 +12512,7 @@ localgermany.de CNAME .
 locateanyphone.net CNAME .
 location-i18n.tiktokv.com CNAME .
 location-microsoft-com.b-0005.b-msedge.net CNAME .
+location-ru.tiktokv.com CNAME .
 location-sg.tiktokv.com CNAME .
 location-ttp2.tiktokv.eu CNAME .
 location-ttp2.us.tiktokv.com CNAME .
@@ -12594,7 +12650,6 @@ log32-normal-useastred.tiktokv.eu CNAME .
 log32-normal-zr.tiktokv.com CNAME .
 log32-normal.capcutapi.com CNAME .
 log32-normal.tiktokv.com CNAME .
-log53-normal-c-useast1a.tiktokv.com CNAME .
 log58-normal-alisg.tiktokv.com CNAME .
 log58-normal-c-alisg.tiktokv.com CNAME .
 log58-normal-c-useast1a.tiktokv.com CNAME .
@@ -13120,6 +13175,7 @@ marketingsolutions.yahoo.com CNAME .
 marketmarkdowns.com CNAME .
 marketo.com CNAME .
 marketoptions.com CNAME .
+marketpills4you.com CNAME .
 markets-capital.com CNAME .
 markets-investment.com CNAME .
 markets365.net CNAME .
@@ -13496,7 +13552,6 @@ medsinfoshop.com CNAME .
 medyanetads.com CNAME .
 medzrezeptfrei.com CNAME .
 meertickets.de CNAME .
-meetcurve.de CNAME .
 meetfigure.com CNAME .
 meetrics.net CNAME .
 mega-meigaomei-online.com CNAME .
@@ -13640,6 +13695,7 @@ mepalconstructionmodulaire.com CNAME .
 merados.de CNAME .
 merapack.com CNAME .
 merapetfood.shop CNAME .
+mercadobuyprice.com CNAME .
 mercadolibre.at CNAME .
 mercapool.de CNAME .
 mercator.direct CNAME .
@@ -13699,7 +13755,6 @@ metrics.apple.com CNAME .
 metrics.articulate.com CNAME .
 metrics.cnn.com CNAME .
 metrics.dt.dbankcloud.cn CNAME .
-metrics.eu-central-1.iris.apx.amazon.dev CNAME .
 metrics.eu-south-2.iris.apx.amazon.dev CNAME .
 metrics.eu-west-1.iris.apx.amazon.dev CNAME .
 metrics.foxnews.com CNAME .
@@ -14394,6 +14449,7 @@ mssdk-quic-sg.tiktok.com CNAME .
 mssdk-quic-sg.tiktokv.com CNAME .
 mssdk-quic-va.tiktokv.com CNAME .
 mssdk-ru.tiktokv.com CNAME .
+mssdk-ru.tiktokv.com.www.digmawifi.com CNAME .
 mssdk-sg-bu.byteoversea.com CNAME .
 mssdk-sg.byteoversea.com CNAME .
 mssdk-sg.capcutapi.com CNAME .
@@ -14893,13 +14949,13 @@ next-neu.de CNAME .
 next-rehabandperformance.be CNAME .
 nextbinary.com CNAME .
 nextchain.at CNAME .
-nextlgsdp.com CNAME .
 nexus.officeapps.live.com CNAME .
 nexusbids.com CNAME .
 nexusonline.com.br CNAME .
 nexusrules.live.com CNAME .
 nexusrules.officeapps.live.com CNAME .
 nexussolaraus.com CNAME .
+nexuswebshop.com CNAME .
 nexxtv-events.servicebus.windows.net CNAME .
 nflfanaticsstore.com CNAME .
 ng-ad-lgsmartad-com.aws-prd.net CNAME .
@@ -14960,6 +15016,8 @@ nkbiobxn.shop CNAME .
 nkd-store.com CNAME .
 nl-ad-lgsmartad-com.aws-prd.net CNAME .
 nl-fashion.de CNAME .
+nl-info-lgsmartad-com.aws-prd.net CNAME .
+nl-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 nl.rcd.ptqy.gitv.tv CNAME .
 nlmedsusa.com CNAME .
 nloia.shop CNAME .
@@ -14970,6 +15028,8 @@ nms-stmichael.at CNAME .
 nmtracking.netflix.com CNAME .
 no-ad-lgsmartad-com.aws-prd.net CNAME .
 no-bull-deutschland.de CNAME .
+no-info-lgsmartad-com.aws-prd.net CNAME .
+no-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 noanailartandbeauty.com CNAME .
 nobalte.de CNAME .
 noble-alliance.com CNAME .
@@ -15517,7 +15577,6 @@ onlinecash.com CNAME .
 onlinecashmethod.com CNAME .
 onlinecasinoparis.com CNAME .
 onlinecasinositeindia.com CNAME .
-onlinecasinoslasvegas.com CNAME .
 onlinecasinosohneverifizierung.de CNAME .
 onlinedamen.de CNAME .
 onlinedrugsnorx.com CNAME .
@@ -15664,6 +15723,7 @@ optnx.com CNAME .
 opus-mode.com CNAME .
 opyiazki.shop CNAME .
 oralb-austria.com CNAME .
+oranix-de.myshopify.com CNAME .
 orbi-mount.com CNAME .
 orbisolyx.com CNAME .
 orbitdealsflowtoday.online CNAME .
@@ -15951,6 +16011,7 @@ pandoracharms.uk.com CNAME .
 pandorade.de CNAME .
 pandorakorut.com CNAME .
 pandoraringsuk.com CNAME .
+pandoras-outlet.com CNAME .
 panelaeki.de CNAME .
 pangolin.snssdk.com CNAME .
 panickypancake.com CNAME .
@@ -16134,6 +16195,7 @@ performancing.com CNAME .
 perfumology.shop CNAME .
 pergolarabatt.com CNAME .
 pergus-data.de CNAME .
+peripherie-plus.shop CNAME .
 perlatoschuhe.com CNAME .
 perlatoshoe.com CNAME .
 perlenwerk.com CNAME .
@@ -16256,6 +16318,7 @@ pgtus6-word-telemetry-vip.officeapps.live.com CNAME .
 pgz999-online.com CNAME .
 ph-ad-lgsmartad-com.aws-prd.net CNAME .
 ph-gartenmaschinen.de CNAME .
+ph-info-lgsmartad-com.aws-prd.net CNAME .
 phaidon-eu-online.shop CNAME .
 phaidon-online.shop CNAME .
 phamstoretcg.de CNAME .
@@ -16339,6 +16402,7 @@ pills-store-online24.com CNAME .
 pillsshop.live CNAME .
 pillstock.net CNAME .
 pillz888.org CNAME .
+pilotentest-vorbereitung.com CNAME .
 pilotshof.com CNAME .
 pilule-france.com CNAME .
 pilulky-cz.com CNAME .
@@ -16387,6 +16451,8 @@ pizza-blitz-bestellen.de CNAME .
 pk-ad-lgsmartad-com.aws-prd.net CNAME .
 pk.toys CNAME .
 pl-ad-lgsmartad-com.aws-prd.net CNAME .
+pl-info-lgsmartad-com.aws-prd.net CNAME .
+pl-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 pl.vivami.co CNAME .
 placed.com CNAME .
 placeframe.com CNAME .
@@ -16974,6 +17040,7 @@ qiye.xiaomi.com CNAME .
 ql.tc CNAME .
 qlepy.com CNAME .
 qliopbn.forum CNAME .
+qmdhueo.shop CNAME .
 qmds-dev-samsung.com CNAME .
 qmwblnuk.shop CNAME .
 qnesz.shop CNAME .
@@ -17112,6 +17179,7 @@ radbekleidung4u.com CNAME .
 radelhelden.com CNAME .
 radfahrzeit.com CNAME .
 radfit24.com CNAME .
+radhafen.com CNAME .
 radhandel24.de CNAME .
 radiate.com CNAME .
 radiateprose.com CNAME .
@@ -17225,6 +17293,8 @@ rcpartsxpress.com CNAME .
 rcserpent.com CNAME .
 rctoyretail.com CNAME .
 rdoering.de CNAME .
+rdx2.lgtvsdp.com CNAME .
+rdx2.nextlgsdp.com CNAME .
 re-ad-lgsmartad-com.aws-prd.net CNAME .
 re-direct.pl CNAME .
 reachjunction.com CNAME .
@@ -17612,6 +17682,7 @@ rmedia.boston.com CNAME .
 rnd-cbgpas01.huawei.com CNAME .
 rngonline.org CNAME .
 ro-ad-lgsmartad-com.aws-prd.net CNAME .
+ro-info-lgsmartad-com.aws-prd.net CNAME .
 ro-up.vivoglobal.com CNAME .
 ro10.landunk.com CNAME .
 ro6.landofm.com CNAME .
@@ -17678,6 +17749,7 @@ rolex-replica.to CNAME .
 rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
+rolladen-rudolf.at CNAME .
 rolladenreparatur.at CNAME .
 rollandbois.com CNAME .
 rollangel.com CNAME .
@@ -17779,6 +17851,7 @@ rtbpop.com CNAME .
 rtbpopd.com CNAME .
 rtc-logger-i18n.tiktokv.com CNAME .
 rtc-logger-ie.tiktokv.eu CNAME .
+rtc-logger-ttp2.tiktokv.us CNAME .
 rtc-logger-ttp2.us.tiktokv.com CNAME .
 rtc-logger-va.tiktokv.com CNAME .
 rtc-logger.tiktokv.com CNAME .
@@ -17947,6 +18020,7 @@ rvcajapan.net CNAME .
 rw-ad-lgsmartad-com.aws-prd.net CNAME .
 rwcstore.com CNAME .
 rx-budapest.com CNAME .
+rx-discount.com CNAME .
 rx-pharma.net CNAME .
 rx-pharmacies.com CNAME .
 rx-qualityshop.com CNAME .
@@ -18262,6 +18336,7 @@ sbx.pagesjaunes.fr CNAME .
 sc-analytics.appspot.com CNAME .
 sca.samsung.com CNAME .
 scambiobanner.aruba.it CNAME .
+scannero.io CNAME .
 scanscout.com CNAME .
 scarcesign.com CNAME .
 scaredsnakes.com CNAME .
@@ -18430,6 +18505,8 @@ sdk-transport.com CNAME .
 sdk.51.la CNAME .
 sdk.ptqy.gitv.tv CNAME .
 se-ad-lgsmartad-com.aws-prd.net CNAME .
+se-info-lgsmartad-com.aws-prd.net CNAME .
+se-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 se-sthqntm-64.com CNAME .
 se-vignette-france.com CNAME .
 sea-log-rcv.vansound.com CNAME .
@@ -18829,6 +18906,8 @@ shutterlans.myshopify.com CNAME .
 shuttleockstore.com CNAME .
 shxtrk.com CNAME .
 si-ad-lgsmartad-com.aws-prd.net CNAME .
+si-info-lgsmartad-com.aws-prd.net CNAME .
+si-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 si.ptqy.gitv.tv CNAME .
 sia.internet.apps.samsung.com CNAME .
 siaeglisiwoodltd.com CNAME .
@@ -19251,7 +19330,6 @@ souzaeoliveira.com.br CNAME .
 sovectoron-1-naatlasix-losolara.com CNAME .
 sovkonc.ept.se CNAME .
 sovrn.com CNAME .
-sowaswillichauch.de CNAME .
 soxfinancial.com CNAME .
 sozialversicherungsausweisportal.de CNAME .
 sp-a-q-f.ib-game.jp CNAME .
@@ -19295,6 +19373,7 @@ spectarecipe.com CNAME .
 spectrumequitypulse.com CNAME .
 speculaten.com CNAME .
 spedition-thiemann.de CNAME .
+spedition-tml.de CNAME .
 speditionspellets.com CNAME .
 speechfaith.com CNAME .
 speed-gaming.com CNAME .
@@ -20033,6 +20112,7 @@ synthplatformtrust.click CNAME .
 syrokan.com CNAME .
 sys.intl.xiaomi.com CNAME .
 sys.tv.india.xiaomi.com CNAME .
+system-capital.org CNAME .
 systemofdown.com CNAME .
 systemssummit.com CNAME .
 sz-ad-lgsmartad-com.aws-prd.net CNAME .
@@ -20510,9 +20590,7 @@ thirdrespect.com CNAME .
 thl-handel.de CNAME .
 thlifureshop.com CNAME .
 thm.market.xiaomi.com CNAME .
-thomann-vip.za.com CNAME .
 thomannofficiall.com CNAME .
-thomannsale.za.com CNAME .
 thomastorch.com CNAME .
 thompson-sydney.com CNAME .
 thongish.store CNAME .
@@ -20879,6 +20957,7 @@ tr-cota.vivoglobal.com CNAME .
 tr-domaincfg.vivoglobal.com CNAME .
 tr-err-up.vivoglobal.com CNAME .
 tr-gdpr-vgc-datacenter.vivoglobal.com CNAME .
+tr-info-lgsmartad-com.aws-prd.net CNAME .
 tr-onrt-stsdk.vivoglobal.com CNAME .
 tr-ort-stsdk.vivoglobal.com CNAME .
 tr-p.vivoglobal.com CNAME .
@@ -20907,6 +20986,7 @@ track.anchorfree.com CNAME .
 track.canva.com CNAME .
 track.contently.com CNAME .
 track.customer.io CNAME .
+track.dws.com CNAME .
 track.effiliation.com CNAME .
 track.flexlinks.com CNAME .
 track.flexlinkspro.com CNAME .
@@ -21158,6 +21238,7 @@ triptistore.de CNAME .
 triton-online.com CNAME .
 tritoncapitalmarkets.com CNAME .
 trivanode.com CNAME .
+trivio-handel.de CNAME .
 trivona.de CNAME .
 trixupmysleeve.com CNAME .
 trk.4ff.pro CNAME .
@@ -21546,7 +21627,10 @@ urvlentoki.at CNAME .
 urvlentoki.com CNAME .
 us-ad-lgsmartad-com.aws-prd.net CNAME .
 us-east.ono.axp.amazon-adsystem.com CNAME .
+us-info-lgsmartad-com.aws-prd.net CNAME .
 us-mesh-events-data-leafs.trafficmanager.net CNAME .
+us-rdx2-lgtvsdp-com.aws-prd.net CNAME .
+us-report.gras.samsungdm.com CNAME .
 us-shop.online CNAME .
 us-supplements.to CNAME .
 us.a1.yimg.com CNAME .
@@ -22010,6 +22094,7 @@ vitafeetdeu.com CNAME .
 vitafus.com CNAME .
 vital-vibe.com CNAME .
 vitaldelikatesse.com CNAME .
+vitalheldenhub.com CNAME .
 vitalismoemi.com CNAME .
 vitalkompass-de.com CNAME .
 vitalogen.de CNAME .
@@ -22375,7 +22460,6 @@ webtrader.aeratiqos.com CNAME .
 webtrader.aptos-ai.net CNAME .
 webtrader.arvelon-barnyx.com CNAME .
 webtrader.capexgo.net CNAME .
-webtrader.degiropartners.io CNAME .
 webtrader.finaurex.org CNAME .
 webtrader.nuxeros.app CNAME .
 webtrader.quantiumax.net CNAME .
@@ -22888,8 +22972,8 @@ xq1.net CNAME .
 xqnail.com.au CNAME .
 xrivalfitness.com CNAME .
 xshopcloud.com CNAME .
-xsltkprx.shop CNAME .
 xspiegel.de CNAME .
+xsxpswau.shop CNAME .
 xsy198.com CNAME .
 xtb-partner.com CNAME .
 xtendmedia.com CNAME .
@@ -22907,7 +22991,6 @@ y.ibsys.com CNAME .
 yab-adimages.s3.amazonaws.com CNAME .
 yaberauto.com CNAME .
 yachtausstattung.com CNAME .
-yadjmjrx.shop CNAME .
 yadro.ru CNAME .
 yads.tech CNAME .
 yahalom.de CNAME .
@@ -22957,8 +23040,6 @@ yiqixiuba.com CNAME .
 yiyang-solar.com CNAME .
 yjcsundw.com CNAME .
 yjob.ivebelting.com CNAME .
-ykfojdaa.shop CNAME .
-ykwkgndw.shop CNAME .
 ymetrica1.com CNAME .
 ymking.com CNAME .
 yoads.net CNAME .
@@ -23005,7 +23086,6 @@ yukomi.com CNAME .
 yumekatsu.com CNAME .
 yumgo.net CNAME .
 yumgs.holdenouterwear.shop CNAME .
-yummycrystal.com CNAME .
 yvarrd.shop CNAME .
 yvipharmacy.com CNAME .
 yydspan.com CNAME .
@@ -23117,7 +23197,6 @@ zenla.de CNAME .
 zenniagoods.com CNAME .
 zeno-paris.shop CNAME .
 zenoclimat.de CNAME .
-zenospark.top CNAME .
 zenova-shop.de CNAME .
 zenovaa.store CNAME .
 zentempel.com CNAME .
@@ -23235,7 +23314,6 @@ zusammenmitthule.de CNAME .
 zusellmk.click CNAME .
 zuverlassigerkredit.com CNAME .
 zw-ad-lgsmartad-com.aws-prd.net CNAME .
-zwclsaablueashe.shop CNAME .
 zwergspitzpomeranian.com CNAME .
 zxmcm.com CNAME .
 zybux.shop CNAME .

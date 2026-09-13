@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-12 02:22:12
-# Total Domains: 23,243
+# Last Updated: 2026-09-13 02:19:49
+# Total Domains: 23,321
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -383,6 +383,7 @@ payload:
   - DOMAIN-SUFFIX,ad-drcn.media.dbankcloud.ru
   - DOMAIN-SUFFIX,ad-format-sg.tiktokv.com
   - DOMAIN-SUFFIX,ad-format-ttp2.tiktokv.eu
+  - DOMAIN-SUFFIX,ad-format.tiktokv.us
   - DOMAIN-SUFFIX,ad-format16-normal-useastred.tiktokv.eu
   - DOMAIN-SUFFIX,ad-growth-in.heytapmobile.com
   - DOMAIN-SUFFIX,ad-growth-ru.heytapmobile.com
@@ -1299,6 +1300,7 @@ payload:
   - DOMAIN-SUFFIX,adzerk.s3.amazonaws.com
   - DOMAIN-SUFFIX,adzestocp.com
   - DOMAIN-SUFFIX,ae-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,ae-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,aedes.shop
   - DOMAIN-SUFFIX,aedexstore.de
   - DOMAIN-SUFFIX,aeg-solutions.com
@@ -1423,6 +1425,7 @@ payload:
   - DOMAIN-SUFFIX,airyano.com
   - DOMAIN-SUFFIX,airyclub.com
   - DOMAIN-SUFFIX,airzuma.at
+  - DOMAIN-SUFFIX,airzuma.com
   - DOMAIN-SUFFIX,aisope.at
   - DOMAIN-SUFFIX,aistat.net
   - DOMAIN-SUFFIX,aitechinpharma.com
@@ -1455,8 +1458,10 @@ payload:
   - DOMAIN-SUFFIX,aktivmaxx.com
   - DOMAIN-SUFFIX,akustikholz.shop
   - DOMAIN-SUFFIX,al-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,al-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,al-nassr.shop
   - DOMAIN-SUFFIX,al-nassr.store
+  - DOMAIN-SUFFIX,al-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,al-research.com
   - DOMAIN-SUFFIX,alairlenoir.com
   - DOMAIN-SUFFIX,albrechtmode.de
@@ -2016,6 +2021,7 @@ payload:
   - DOMAIN-SUFFIX,api.kameleoon.com
   - DOMAIN-SUFFIX,api.lab.amplitude.com
   - DOMAIN-SUFFIX,api.launcher.intl.miui.com
+  - DOMAIN-SUFFIX,api.metrics.eu-central-1.iris.apx.amazon.dev
   - DOMAIN-SUFFIX,api.metrics.us-west-2.iris.apx.amazon.dev
   - DOMAIN-SUFFIX,api.micloud.xiaomi.net
   - DOMAIN-SUFFIX,api.mintbrs.intl.miui.com
@@ -2361,7 +2367,9 @@ payload:
   - DOMAIN-SUFFIX,at-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,at-beta.amazon-adsystem.com
   - DOMAIN-SUFFIX,at-gamma-us-east.amazon-adsystem.com
+  - DOMAIN-SUFFIX,at-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,at-o.net
+  - DOMAIN-SUFFIX,at-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,at-us-east.amazon-adsystem.com
   - DOMAIN-SUFFIX,at.alpine-point.com
   - DOMAIN-SUFFIX,at.curalise.com
@@ -2421,7 +2429,9 @@ payload:
   - DOMAIN-SUFFIX,atvelektro.de
   - DOMAIN-SUFFIX,atwola.com
   - DOMAIN-SUFFIX,au-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,au-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,au-meds.com
+  - DOMAIN-SUFFIX,au-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,au.ff.avast.sec.miui.com
   - DOMAIN-SUFFIX,auc-visio-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,auctionads.com
@@ -2461,6 +2471,7 @@ payload:
   - DOMAIN-SUFFIX,aurainfusions.com
   - DOMAIN-SUFFIX,auraterraplaza.com
   - DOMAIN-SUFFIX,aureamunich.de
+  - DOMAIN-SUFFIX,aureliustrust.uk
   - DOMAIN-SUFFIX,aurelllc.com
   - DOMAIN-SUFFIX,aurendal.com
   - DOMAIN-SUFFIX,auresthiqan.sbs
@@ -2933,6 +2944,7 @@ payload:
   - DOMAIN-SUFFIX,bbqaccessoriessale.com
   - DOMAIN-SUFFIX,bccnerty.com
   - DOMAIN-SUFFIX,bch-oberursel.de
+  - DOMAIN-SUFFIX,bcls-assets.com
   - DOMAIN-SUFFIX,bcm-shop.de
   - DOMAIN-SUFFIX,bcns-shop.com
   - DOMAIN-SUFFIX,bcom-solar.de
@@ -2945,6 +2957,7 @@ payload:
   - DOMAIN-SUFFIX,bdv.bidvertiser.com
   - DOMAIN-SUFFIX,be-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,be-aetlcnshop.com
+  - DOMAIN-SUFFIX,be-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,beaccustomed.com
   - DOMAIN-SUFFIX,beachfront.com
   - DOMAIN-SUFFIX,beachitem.com
@@ -3184,6 +3197,7 @@ payload:
   - DOMAIN-SUFFIX,bestellen-ciao-ciao-pf.de
   - DOMAIN-SUFFIX,bestellundgut.de
   - DOMAIN-SUFFIX,bestelnuar.click
+  - DOMAIN-SUFFIX,bestemed.com
   - DOMAIN-SUFFIX,bestemedikamente.com
   - DOMAIN-SUFFIX,bestenkaufen.com
   - DOMAIN-SUFFIX,bestenwahl.de
@@ -3274,9 +3288,9 @@ payload:
   - DOMAIN-SUFFIX,bftb.org
   - DOMAIN-SUFFIX,bfxoption.com
   - DOMAIN-SUFFIX,bg-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,bg-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,bglshop.at
   - DOMAIN-SUFFIX,bgp.fe01.c3.xiaomi.com
-  - DOMAIN-SUFFIX,bgp.tv.pandora.xiaomi.com
   - DOMAIN-SUFFIX,bh-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,bhajandarshan.com
   - DOMAIN-SUFFIX,bhcumsc.com
@@ -3467,6 +3481,7 @@ payload:
   - DOMAIN-SUFFIX,bitcoin-everest-ai.fr
   - DOMAIN-SUFFIX,bitcoin-pharmacy.com
   - DOMAIN-SUFFIX,bitcoin-revolution.org
+  - DOMAIN-SUFFIX,bitcoin-up.io
   - DOMAIN-SUFFIX,bitcoin-xact.fr
   - DOMAIN-SUFFIX,bitcoinarchon.com
   - DOMAIN-SUFFIX,bitcoineer.ai
@@ -3604,6 +3619,7 @@ payload:
   - DOMAIN-SUFFIX,bm.annonce.cz
   - DOMAIN-SUFFIX,bmbgreen.com
   - DOMAIN-SUFFIX,bmcloth.com
+  - DOMAIN-SUFFIX,bmfflnanzonline.net
   - DOMAIN-SUFFIX,bmgebaeudereinigung.de
   - DOMAIN-SUFFIX,bmgvinyl.shop
   - DOMAIN-SUFFIX,bmn-online.de
@@ -3745,7 +3761,9 @@ payload:
   - DOMAIN-SUFFIX,bpo-partners.com
   - DOMAIN-SUFFIX,bpu.samsungelectronics.com
   - DOMAIN-SUFFIX,br-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,br-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,br-p.vivoglobal.com
+  - DOMAIN-SUFFIX,br-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,brabantiadeutschland.de
   - DOMAIN-SUFFIX,bracgartenservice.de
   - DOMAIN-SUFFIX,brachiumautoteile.de
@@ -4023,8 +4041,10 @@ payload:
   - DOMAIN-SUFFIX,bxrlin.de
   - DOMAIN-SUFFIX,by-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,by-emmamuller.de
+  - DOMAIN-SUFFIX,by-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,by-lina.de
   - DOMAIN-SUFFIX,by-olana.com
+  - DOMAIN-SUFFIX,by-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,bybitbaltic.info
   - DOMAIN-SUFFIX,bycheri.de
   - DOMAIN-SUFFIX,bycicle.net
@@ -4095,6 +4115,8 @@ payload:
   - DOMAIN-SUFFIX,c3mini.pandora.xiaomi.com
   - DOMAIN-SUFFIX,ca-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,ca-agentur.de
+  - DOMAIN-SUFFIX,ca-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,ca-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,caactioncoalition.org
   - DOMAIN-SUFFIX,caay-berlin.com
   - DOMAIN-SUFFIX,caballde.com
@@ -4430,6 +4452,8 @@ payload:
   - DOMAIN-SUFFIX,cgicounter.puretec.de
   - DOMAIN-SUFFIX,ch-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,ch-asimov-leafs-events-data.trafficmanager.net
+  - DOMAIN-SUFFIX,ch-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,ch-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,ch.gluconv.com
   - DOMAIN-SUFFIX,chacos.at
   - DOMAIN-SUFFIX,chacosdeutschland.de
@@ -4612,6 +4636,7 @@ payload:
   - DOMAIN-SUFFIX,clarks-germany.com
   - DOMAIN-SUFFIX,clarks-osterreich.com
   - DOMAIN-SUFFIX,clarks-schweiz.com
+  - DOMAIN-SUFFIX,clarksaustria.at
   - DOMAIN-SUFFIX,clarksdeutschland.de
   - DOMAIN-SUFFIX,clarksdeutschlandsale.com
   - DOMAIN-SUFFIX,clarksgermany.com
@@ -4649,6 +4674,7 @@ payload:
   - DOMAIN-SUFFIX,clearancegowns.com
   - DOMAIN-SUFFIX,clearanceu.com
   - DOMAIN-SUFFIX,clearingt.com
+  - DOMAIN-SUFFIX,clearmarket-europe.com
   - DOMAIN-SUFFIX,clearmarketeurope.com
   - DOMAIN-SUFFIX,clearstream.fashion
   - DOMAIN-SUFFIX,clearstream.xin
@@ -5638,9 +5664,11 @@ payload:
   - DOMAIN-SUFFIX,de-filter.com
   - DOMAIN-SUFFIX,de-fizzclean.com
   - DOMAIN-SUFFIX,de-gdpr-err-up.vivoglobal.com
+  - DOMAIN-SUFFIX,de-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,de-lumelia.com
   - DOMAIN-SUFFIX,de-musicshop.com
   - DOMAIN-SUFFIX,de-orion.site
+  - DOMAIN-SUFFIX,de-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,de-schmuckens.com
   - DOMAIN-SUFFIX,de-tonies.com
   - DOMAIN-SUFFIX,de-toy.com
@@ -5737,6 +5765,7 @@ payload:
   - DOMAIN-SUFFIX,decorworld.shop
   - DOMAIN-SUFFIX,decosplaycartpop.shop
   - DOMAIN-SUFFIX,decotik.de
+  - DOMAIN-SUFFIX,decovividly.com
   - DOMAIN-SUFFIX,deepintent.com
   - DOMAIN-SUFFIX,deeynee.com
   - DOMAIN-SUFFIX,defahrrad.com
@@ -6032,6 +6061,7 @@ payload:
   - DOMAIN-SUFFIX,dianjingniu-online.com
   - DOMAIN-SUFFIX,dianomi.com
   - DOMAIN-SUFFIX,diantrag.com
+  - DOMAIN-SUFFIX,diaryofafitmommy.com
   - DOMAIN-SUFFIX,dicamgruppe.de
   - DOMAIN-SUFFIX,dicecandies.com
   - DOMAIN-SUFFIX,dicha-anhaenger.com
@@ -6087,6 +6117,7 @@ payload:
   - DOMAIN-SUFFIX,dinosupplies.to
   - DOMAIN-SUFFIX,dionfashion.com
   - DOMAIN-SUFFIX,diotrange.com
+  - DOMAIN-SUFFIX,diploms.de
   - DOMAIN-SUFFIX,dirctychop.com
   - DOMAIN-SUFFIX,direct-events-collector.spot.im
   - DOMAIN-SUFFIX,direct-promo.pro
@@ -6608,12 +6639,15 @@ payload:
   - DOMAIN-SUFFIX,edrxmeds.com
   - DOMAIN-SUFFIX,ee-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,ee-fahrrad-handel.de
+  - DOMAIN-SUFFIX,ee-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,ee-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,eew-karriere.de
   - DOMAIN-SUFFIX,efeublute.com
   - DOMAIN-SUFFIX,effexlaw.com
   - DOMAIN-SUFFIX,efficient-flow.solutions
   - DOMAIN-SUFFIX,effiziente-taubenabwehr.at
   - DOMAIN-SUFFIX,eg-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,eg-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,eggelingen.de
   - DOMAIN-SUFFIX,egoryspecies.com
   - DOMAIN-SUFFIX,egscap.com
@@ -6658,7 +6692,6 @@ payload:
   - DOMAIN-SUFFIX,ekzsale.shop
   - DOMAIN-SUFFIX,elaines.life
   - DOMAIN-SUFFIX,elamriaa.com
-  - DOMAIN-SUFFIX,elan-monrevo.com
   - DOMAIN-SUFFIX,elanova.eu
   - DOMAIN-SUFFIX,elansyvor.fr
   - DOMAIN-SUFFIX,elasticchange.com
@@ -7050,6 +7083,7 @@ payload:
   - DOMAIN-SUFFIX,etniesshoesireland.com
   - DOMAIN-SUFFIX,etrade-securities.com
   - DOMAIN-SUFFIX,etradecapitals.com
+  - DOMAIN-SUFFIX,etrias.de
   - DOMAIN-SUFFIX,etrooppisode.com
   - DOMAIN-SUFFIX,etropo.com
   - DOMAIN-SUFFIX,etsbois-de-chaufage.com
@@ -7072,6 +7106,7 @@ payload:
   - DOMAIN-SUFFIX,eu-pnrt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,eu-romsp-unifyconfig.vivoglobal.com
   - DOMAIN-SUFFIX,eu-sezane.com
+  - DOMAIN-SUFFIX,eu-st-exappupgrade.vivoglobal.com
   - DOMAIN-SUFFIX,eu-st-sl.vivoglobal.com
   - DOMAIN-SUFFIX,eu-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,eu-timesync.vivoglobal.com
@@ -7084,6 +7119,7 @@ payload:
   - DOMAIN-SUFFIX,eu.cettire.com
   - DOMAIN-SUFFIX,eu.goldengoosediscount.com
   - DOMAIN-SUFFIX,eu.stanlyss1913.com
+  - DOMAIN-SUFFIX,eu7-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,eubiofficial.com
   - DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,euc-excel-telemetry.wac.trafficmanager.net
@@ -7676,10 +7712,11 @@ payload:
   - DOMAIN-SUFFIX,fexora.online
   - DOMAIN-SUFFIX,ffc-excel-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,ffc-word-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
   - DOMAIN-SUFFIX,ffinasshop.com
   - DOMAIN-SUFFIX,fgteu1-word-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,fi-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,fi-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,fi-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,fiammshop.eu
   - DOMAIN-SUFFIX,fiat-global.com
   - DOMAIN-SUFFIX,fiat-transporter.at
@@ -8083,8 +8120,9 @@ payload:
   - DOMAIN-SUFFIX,fr-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,fr-api.xmpush.global.xiaomi.com
   - DOMAIN-SUFFIX,fr-drbright.net
+  - DOMAIN-SUFFIX,fr-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,fr-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,fr-register.xmpush.global.xiaomi.com
-  - DOMAIN-SUFFIX,fr-totalenergiesinvest.com
   - DOMAIN-SUFFIX,fr.brokeragea.com
   - DOMAIN-SUFFIX,fr.feedback.xmpush.global.xiaomi.com
   - DOMAIN-SUFFIX,fr.finaguide.com
@@ -8573,6 +8611,8 @@ payload:
   - DOMAIN-SUFFIX,gavvia.com
   - DOMAIN-SUFFIX,gaziantepsauna.com
   - DOMAIN-SUFFIX,gb-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,gb-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,gb-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,gbr-office.de
   - DOMAIN-SUFFIX,gbuynix.com
   - DOMAIN-SUFFIX,gcash-casino-ph.com
@@ -8684,6 +8724,7 @@ payload:
   - DOMAIN-SUFFIX,germanfishinggear.com
   - DOMAIN-SUFFIX,germanfurnituremart.com
   - DOMAIN-SUFFIX,germangoodsonline.com
+  - DOMAIN-SUFFIX,germangusto.com
   - DOMAIN-SUFFIX,germaniatool.com
   - DOMAIN-SUFFIX,germaniatoolshop.com
   - DOMAIN-SUFFIX,germanmanufaktur.de
@@ -9105,6 +9146,8 @@ payload:
   - DOMAIN-SUFFIX,gq-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,gqaltq.shop
   - DOMAIN-SUFFIX,gr-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,gr-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,gr-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,gr.gluconv.com
   - DOMAIN-SUFFIX,grabpillsusa.com
   - DOMAIN-SUFFIX,grace-hawthorne.com
@@ -9459,6 +9502,7 @@ payload:
   - DOMAIN-SUFFIX,handyprotool.com
   - DOMAIN-SUFFIX,handytoolpro.com
   - DOMAIN-SUFFIX,haney-university-store.myshopify.com
+  - DOMAIN-SUFFIX,hanfmeister.at
   - DOMAIN-SUFFIX,hanfseedstore.de
   - DOMAIN-SUFFIX,hangel-handel.de
   - DOMAIN-SUFFIX,hangmats.com
@@ -10356,6 +10400,8 @@ payload:
   - DOMAIN-SUFFIX,ibillboard.com
   - DOMAIN-SUFFIX,ibler-elektronik.de
   - DOMAIN-SUFFIX,ibointernational.com
+  - DOMAIN-SUFFIX,ibs.nextlgsdp.com
+  - DOMAIN-SUFFIX,ibsstat.nextlgsdp.com
   - DOMAIN-SUFFIX,icarbuddy.com
   - DOMAIN-SUFFIX,icatautoteile.de
   - DOMAIN-SUFFIX,icebesteck.com
@@ -10386,7 +10432,6 @@ payload:
   - DOMAIN-SUFFIX,icosa-service-sg-03.allawnos.com
   - DOMAIN-SUFFIX,icosa-service-sg.allawnos.com
   - DOMAIN-SUFFIX,icosa-service-us.allawnos.com
-  - DOMAIN-SUFFIX,icosa-sg.coloros.com
   - DOMAIN-SUFFIX,icota-eu.coloros.com
   - DOMAIN-SUFFIX,icota-service-eu.allawnos.com
   - DOMAIN-SUFFIX,icota-service-in.allawnos.com
@@ -10583,6 +10628,7 @@ payload:
   - DOMAIN-SUFFIX,in-domaincfg.vivoglobal.com
   - DOMAIN-SUFFIX,in-errup.vivoglobal.com
   - DOMAIN-SUFFIX,in-ex-adlog.vivoglobal.com
+  - DOMAIN-SUFFIX,in-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,in-miuilog.sms.intl.xiaomi.com
   - DOMAIN-SUFFIX,in-monitor-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,in-news-abroad-backstage-interface.vivoglobal.com
@@ -10862,11 +10908,13 @@ payload:
   - DOMAIN-SUFFIX,ir-es.amazon-adsystem.com
   - DOMAIN-SUFFIX,ir-fr.amazon-adsystem.com
   - DOMAIN-SUFFIX,ir-in.amazon-adsystem.com
+  - DOMAIN-SUFFIX,ir-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,ir-it.amazon-adsystem.com
   - DOMAIN-SUFFIX,ir-jp.amazon-adsystem.com
   - DOMAIN-SUFFIX,ir-mx.amazon-adsystem.com
   - DOMAIN-SUFFIX,ir-na.amazon-adsystem.com
   - DOMAIN-SUFFIX,ir-nl.amazon-adsystem.com
+  - DOMAIN-SUFFIX,ir-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,ir-tracking.trafficmanager.net
   - DOMAIN-SUFFIX,ir-uk.amazon-adsystem.com
   - DOMAIN-SUFFIX,irchan.com
@@ -10909,7 +10957,9 @@ payload:
   - DOMAIN-SUFFIX,iswanan.de
   - DOMAIN-SUFFIX,it-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,it-con.org
+  - DOMAIN-SUFFIX,it-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,it-marktblick.de
+  - DOMAIN-SUFFIX,it-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,it2-use.de
   - DOMAIN-SUFFIX,itagprotracker.com
   - DOMAIN-SUFFIX,italiannewstoday.com
@@ -11188,6 +11238,8 @@ payload:
   - DOMAIN-SUFFIX,k4-kulturgarten.de
   - DOMAIN-SUFFIX,ka-pharm.com
   - DOMAIN-SUFFIX,kabahinfo.net
+  - DOMAIN-SUFFIX,kabelbund.com
+  - DOMAIN-SUFFIX,kabelschuhekaufen.com
   - DOMAIN-SUFFIX,kabilon.com
   - DOMAIN-SUFFIX,kabinett-sales.com
   - DOMAIN-SUFFIX,kachi-berlin.de
@@ -11877,17 +11929,20 @@ payload:
   - DOMAIN-SUFFIX,kynebeauty.de
   - DOMAIN-SUFFIX,kynubeauty.de
   - DOMAIN-SUFFIX,kz-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,kz-album-api.vivoglobal.com
   - DOMAIN-SUFFIX,kz-cname-sin01-bigdata.vivoglobal.com
   - DOMAIN-SUFFIX,kz-err-up.vivoglobal.com
   - DOMAIN-SUFFIX,kz-monitor-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,kz-onrt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,kz-ort-stsdk.vivoglobal.com
+  - DOMAIN-SUFFIX,kz-p.vivoglobal.com
   - DOMAIN-SUFFIX,kz-pnrt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,kz-prt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,kz-st-exappupgrade.vivoglobal.com
   - DOMAIN-SUFFIX,kz-st-sl.vivoglobal.com
   - DOMAIN-SUFFIX,kz-st-sysupgrade.vivoglobal.com
   - DOMAIN-SUFFIX,kz-stsdk.vivoglobal.com
+  - DOMAIN-SUFFIX,kz-timesync.vivoglobal.com
   - DOMAIN-SUFFIX,kz-vcode-od.vivoglobal.com
   - DOMAIN-SUFFIX,kz-vcode-or.vivoglobal.com
   - DOMAIN-SUFFIX,kzlkozlm.shop
@@ -12458,6 +12513,7 @@ payload:
   - DOMAIN-SUFFIX,locateanyphone.net
   - DOMAIN-SUFFIX,location-i18n.tiktokv.com
   - DOMAIN-SUFFIX,location-microsoft-com.b-0005.b-msedge.net
+  - DOMAIN-SUFFIX,location-ru.tiktokv.com
   - DOMAIN-SUFFIX,location-sg.tiktokv.com
   - DOMAIN-SUFFIX,location-ttp2.tiktokv.eu
   - DOMAIN-SUFFIX,location-ttp2.us.tiktokv.com
@@ -12595,7 +12651,6 @@ payload:
   - DOMAIN-SUFFIX,log32-normal-zr.tiktokv.com
   - DOMAIN-SUFFIX,log32-normal.capcutapi.com
   - DOMAIN-SUFFIX,log32-normal.tiktokv.com
-  - DOMAIN-SUFFIX,log53-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log58-normal-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log58-normal-c-alisg.tiktokv.com
   - DOMAIN-SUFFIX,log58-normal-c-useast1a.tiktokv.com
@@ -13121,6 +13176,7 @@ payload:
   - DOMAIN-SUFFIX,marketmarkdowns.com
   - DOMAIN-SUFFIX,marketo.com
   - DOMAIN-SUFFIX,marketoptions.com
+  - DOMAIN-SUFFIX,marketpills4you.com
   - DOMAIN-SUFFIX,markets-capital.com
   - DOMAIN-SUFFIX,markets-investment.com
   - DOMAIN-SUFFIX,markets365.net
@@ -13497,7 +13553,6 @@ payload:
   - DOMAIN-SUFFIX,medyanetads.com
   - DOMAIN-SUFFIX,medzrezeptfrei.com
   - DOMAIN-SUFFIX,meertickets.de
-  - DOMAIN-SUFFIX,meetcurve.de
   - DOMAIN-SUFFIX,meetfigure.com
   - DOMAIN-SUFFIX,meetrics.net
   - DOMAIN-SUFFIX,mega-meigaomei-online.com
@@ -13641,6 +13696,7 @@ payload:
   - DOMAIN-SUFFIX,merados.de
   - DOMAIN-SUFFIX,merapack.com
   - DOMAIN-SUFFIX,merapetfood.shop
+  - DOMAIN-SUFFIX,mercadobuyprice.com
   - DOMAIN-SUFFIX,mercadolibre.at
   - DOMAIN-SUFFIX,mercapool.de
   - DOMAIN-SUFFIX,mercator.direct
@@ -13700,7 +13756,6 @@ payload:
   - DOMAIN-SUFFIX,metrics.articulate.com
   - DOMAIN-SUFFIX,metrics.cnn.com
   - DOMAIN-SUFFIX,metrics.dt.dbankcloud.cn
-  - DOMAIN-SUFFIX,metrics.eu-central-1.iris.apx.amazon.dev
   - DOMAIN-SUFFIX,metrics.eu-south-2.iris.apx.amazon.dev
   - DOMAIN-SUFFIX,metrics.eu-west-1.iris.apx.amazon.dev
   - DOMAIN-SUFFIX,metrics.foxnews.com
@@ -14395,6 +14450,7 @@ payload:
   - DOMAIN-SUFFIX,mssdk-quic-sg.tiktokv.com
   - DOMAIN-SUFFIX,mssdk-quic-va.tiktokv.com
   - DOMAIN-SUFFIX,mssdk-ru.tiktokv.com
+  - DOMAIN-SUFFIX,mssdk-ru.tiktokv.com.www.digmawifi.com
   - DOMAIN-SUFFIX,mssdk-sg-bu.byteoversea.com
   - DOMAIN-SUFFIX,mssdk-sg.byteoversea.com
   - DOMAIN-SUFFIX,mssdk-sg.capcutapi.com
@@ -14894,13 +14950,13 @@ payload:
   - DOMAIN-SUFFIX,next-rehabandperformance.be
   - DOMAIN-SUFFIX,nextbinary.com
   - DOMAIN-SUFFIX,nextchain.at
-  - DOMAIN-SUFFIX,nextlgsdp.com
   - DOMAIN-SUFFIX,nexus.officeapps.live.com
   - DOMAIN-SUFFIX,nexusbids.com
   - DOMAIN-SUFFIX,nexusonline.com.br
   - DOMAIN-SUFFIX,nexusrules.live.com
   - DOMAIN-SUFFIX,nexusrules.officeapps.live.com
   - DOMAIN-SUFFIX,nexussolaraus.com
+  - DOMAIN-SUFFIX,nexuswebshop.com
   - DOMAIN-SUFFIX,nexxtv-events.servicebus.windows.net
   - DOMAIN-SUFFIX,nflfanaticsstore.com
   - DOMAIN-SUFFIX,ng-ad-lgsmartad-com.aws-prd.net
@@ -14961,6 +15017,8 @@ payload:
   - DOMAIN-SUFFIX,nkd-store.com
   - DOMAIN-SUFFIX,nl-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,nl-fashion.de
+  - DOMAIN-SUFFIX,nl-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,nl-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,nl.rcd.ptqy.gitv.tv
   - DOMAIN-SUFFIX,nlmedsusa.com
   - DOMAIN-SUFFIX,nloia.shop
@@ -14971,6 +15029,8 @@ payload:
   - DOMAIN-SUFFIX,nmtracking.netflix.com
   - DOMAIN-SUFFIX,no-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,no-bull-deutschland.de
+  - DOMAIN-SUFFIX,no-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,no-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,noanailartandbeauty.com
   - DOMAIN-SUFFIX,nobalte.de
   - DOMAIN-SUFFIX,noble-alliance.com
@@ -15518,7 +15578,6 @@ payload:
   - DOMAIN-SUFFIX,onlinecashmethod.com
   - DOMAIN-SUFFIX,onlinecasinoparis.com
   - DOMAIN-SUFFIX,onlinecasinositeindia.com
-  - DOMAIN-SUFFIX,onlinecasinoslasvegas.com
   - DOMAIN-SUFFIX,onlinecasinosohneverifizierung.de
   - DOMAIN-SUFFIX,onlinedamen.de
   - DOMAIN-SUFFIX,onlinedrugsnorx.com
@@ -15665,6 +15724,7 @@ payload:
   - DOMAIN-SUFFIX,opus-mode.com
   - DOMAIN-SUFFIX,opyiazki.shop
   - DOMAIN-SUFFIX,oralb-austria.com
+  - DOMAIN-SUFFIX,oranix-de.myshopify.com
   - DOMAIN-SUFFIX,orbi-mount.com
   - DOMAIN-SUFFIX,orbisolyx.com
   - DOMAIN-SUFFIX,orbitdealsflowtoday.online
@@ -15952,6 +16012,7 @@ payload:
   - DOMAIN-SUFFIX,pandorade.de
   - DOMAIN-SUFFIX,pandorakorut.com
   - DOMAIN-SUFFIX,pandoraringsuk.com
+  - DOMAIN-SUFFIX,pandoras-outlet.com
   - DOMAIN-SUFFIX,panelaeki.de
   - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,panickypancake.com
@@ -16135,6 +16196,7 @@ payload:
   - DOMAIN-SUFFIX,perfumology.shop
   - DOMAIN-SUFFIX,pergolarabatt.com
   - DOMAIN-SUFFIX,pergus-data.de
+  - DOMAIN-SUFFIX,peripherie-plus.shop
   - DOMAIN-SUFFIX,perlatoschuhe.com
   - DOMAIN-SUFFIX,perlatoshoe.com
   - DOMAIN-SUFFIX,perlenwerk.com
@@ -16257,6 +16319,7 @@ payload:
   - DOMAIN-SUFFIX,pgz999-online.com
   - DOMAIN-SUFFIX,ph-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,ph-gartenmaschinen.de
+  - DOMAIN-SUFFIX,ph-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,phaidon-eu-online.shop
   - DOMAIN-SUFFIX,phaidon-online.shop
   - DOMAIN-SUFFIX,phamstoretcg.de
@@ -16340,6 +16403,7 @@ payload:
   - DOMAIN-SUFFIX,pillsshop.live
   - DOMAIN-SUFFIX,pillstock.net
   - DOMAIN-SUFFIX,pillz888.org
+  - DOMAIN-SUFFIX,pilotentest-vorbereitung.com
   - DOMAIN-SUFFIX,pilotshof.com
   - DOMAIN-SUFFIX,pilule-france.com
   - DOMAIN-SUFFIX,pilulky-cz.com
@@ -16388,6 +16452,8 @@ payload:
   - DOMAIN-SUFFIX,pk-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,pk.toys
   - DOMAIN-SUFFIX,pl-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,pl-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,pl-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,pl.vivami.co
   - DOMAIN-SUFFIX,placed.com
   - DOMAIN-SUFFIX,placeframe.com
@@ -16975,6 +17041,7 @@ payload:
   - DOMAIN-SUFFIX,ql.tc
   - DOMAIN-SUFFIX,qlepy.com
   - DOMAIN-SUFFIX,qliopbn.forum
+  - DOMAIN-SUFFIX,qmdhueo.shop
   - DOMAIN-SUFFIX,qmds-dev-samsung.com
   - DOMAIN-SUFFIX,qmwblnuk.shop
   - DOMAIN-SUFFIX,qnesz.shop
@@ -17113,6 +17180,7 @@ payload:
   - DOMAIN-SUFFIX,radelhelden.com
   - DOMAIN-SUFFIX,radfahrzeit.com
   - DOMAIN-SUFFIX,radfit24.com
+  - DOMAIN-SUFFIX,radhafen.com
   - DOMAIN-SUFFIX,radhandel24.de
   - DOMAIN-SUFFIX,radiate.com
   - DOMAIN-SUFFIX,radiateprose.com
@@ -17226,6 +17294,8 @@ payload:
   - DOMAIN-SUFFIX,rcserpent.com
   - DOMAIN-SUFFIX,rctoyretail.com
   - DOMAIN-SUFFIX,rdoering.de
+  - DOMAIN-SUFFIX,rdx2.lgtvsdp.com
+  - DOMAIN-SUFFIX,rdx2.nextlgsdp.com
   - DOMAIN-SUFFIX,re-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,re-direct.pl
   - DOMAIN-SUFFIX,reachjunction.com
@@ -17613,6 +17683,7 @@ payload:
   - DOMAIN-SUFFIX,rnd-cbgpas01.huawei.com
   - DOMAIN-SUFFIX,rngonline.org
   - DOMAIN-SUFFIX,ro-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,ro-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,ro-up.vivoglobal.com
   - DOMAIN-SUFFIX,ro10.landunk.com
   - DOMAIN-SUFFIX,ro6.landofm.com
@@ -17679,6 +17750,7 @@ payload:
   - DOMAIN-SUFFIX,rolexwanduhr.de
   - DOMAIN-SUFFIX,rolexyeals.com
   - DOMAIN-SUFFIX,rolla.store
+  - DOMAIN-SUFFIX,rolladen-rudolf.at
   - DOMAIN-SUFFIX,rolladenreparatur.at
   - DOMAIN-SUFFIX,rollandbois.com
   - DOMAIN-SUFFIX,rollangel.com
@@ -17780,6 +17852,7 @@ payload:
   - DOMAIN-SUFFIX,rtbpopd.com
   - DOMAIN-SUFFIX,rtc-logger-i18n.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-ie.tiktokv.eu
+  - DOMAIN-SUFFIX,rtc-logger-ttp2.tiktokv.us
   - DOMAIN-SUFFIX,rtc-logger-ttp2.us.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger.tiktokv.com
@@ -17948,6 +18021,7 @@ payload:
   - DOMAIN-SUFFIX,rw-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,rwcstore.com
   - DOMAIN-SUFFIX,rx-budapest.com
+  - DOMAIN-SUFFIX,rx-discount.com
   - DOMAIN-SUFFIX,rx-pharma.net
   - DOMAIN-SUFFIX,rx-pharmacies.com
   - DOMAIN-SUFFIX,rx-qualityshop.com
@@ -18263,6 +18337,7 @@ payload:
   - DOMAIN-SUFFIX,sc-analytics.appspot.com
   - DOMAIN-SUFFIX,sca.samsung.com
   - DOMAIN-SUFFIX,scambiobanner.aruba.it
+  - DOMAIN-SUFFIX,scannero.io
   - DOMAIN-SUFFIX,scanscout.com
   - DOMAIN-SUFFIX,scarcesign.com
   - DOMAIN-SUFFIX,scaredsnakes.com
@@ -18431,6 +18506,8 @@ payload:
   - DOMAIN-SUFFIX,sdk.51.la
   - DOMAIN-SUFFIX,sdk.ptqy.gitv.tv
   - DOMAIN-SUFFIX,se-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,se-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,se-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,se-sthqntm-64.com
   - DOMAIN-SUFFIX,se-vignette-france.com
   - DOMAIN-SUFFIX,sea-log-rcv.vansound.com
@@ -18830,6 +18907,8 @@ payload:
   - DOMAIN-SUFFIX,shuttleockstore.com
   - DOMAIN-SUFFIX,shxtrk.com
   - DOMAIN-SUFFIX,si-ad-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,si-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,si-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,si.ptqy.gitv.tv
   - DOMAIN-SUFFIX,sia.internet.apps.samsung.com
   - DOMAIN-SUFFIX,siaeglisiwoodltd.com
@@ -19252,7 +19331,6 @@ payload:
   - DOMAIN-SUFFIX,sovectoron-1-naatlasix-losolara.com
   - DOMAIN-SUFFIX,sovkonc.ept.se
   - DOMAIN-SUFFIX,sovrn.com
-  - DOMAIN-SUFFIX,sowaswillichauch.de
   - DOMAIN-SUFFIX,soxfinancial.com
   - DOMAIN-SUFFIX,sozialversicherungsausweisportal.de
   - DOMAIN-SUFFIX,sp-a-q-f.ib-game.jp
@@ -19296,6 +19374,7 @@ payload:
   - DOMAIN-SUFFIX,spectrumequitypulse.com
   - DOMAIN-SUFFIX,speculaten.com
   - DOMAIN-SUFFIX,spedition-thiemann.de
+  - DOMAIN-SUFFIX,spedition-tml.de
   - DOMAIN-SUFFIX,speditionspellets.com
   - DOMAIN-SUFFIX,speechfaith.com
   - DOMAIN-SUFFIX,speed-gaming.com
@@ -20034,6 +20113,7 @@ payload:
   - DOMAIN-SUFFIX,syrokan.com
   - DOMAIN-SUFFIX,sys.intl.xiaomi.com
   - DOMAIN-SUFFIX,sys.tv.india.xiaomi.com
+  - DOMAIN-SUFFIX,system-capital.org
   - DOMAIN-SUFFIX,systemofdown.com
   - DOMAIN-SUFFIX,systemssummit.com
   - DOMAIN-SUFFIX,sz-ad-lgsmartad-com.aws-prd.net
@@ -20511,9 +20591,7 @@ payload:
   - DOMAIN-SUFFIX,thl-handel.de
   - DOMAIN-SUFFIX,thlifureshop.com
   - DOMAIN-SUFFIX,thm.market.xiaomi.com
-  - DOMAIN-SUFFIX,thomann-vip.za.com
   - DOMAIN-SUFFIX,thomannofficiall.com
-  - DOMAIN-SUFFIX,thomannsale.za.com
   - DOMAIN-SUFFIX,thomastorch.com
   - DOMAIN-SUFFIX,thompson-sydney.com
   - DOMAIN-SUFFIX,thongish.store
@@ -20880,6 +20958,7 @@ payload:
   - DOMAIN-SUFFIX,tr-domaincfg.vivoglobal.com
   - DOMAIN-SUFFIX,tr-err-up.vivoglobal.com
   - DOMAIN-SUFFIX,tr-gdpr-vgc-datacenter.vivoglobal.com
+  - DOMAIN-SUFFIX,tr-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,tr-onrt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,tr-ort-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,tr-p.vivoglobal.com
@@ -20908,6 +20987,7 @@ payload:
   - DOMAIN-SUFFIX,track.canva.com
   - DOMAIN-SUFFIX,track.contently.com
   - DOMAIN-SUFFIX,track.customer.io
+  - DOMAIN-SUFFIX,track.dws.com
   - DOMAIN-SUFFIX,track.effiliation.com
   - DOMAIN-SUFFIX,track.flexlinks.com
   - DOMAIN-SUFFIX,track.flexlinkspro.com
@@ -21159,6 +21239,7 @@ payload:
   - DOMAIN-SUFFIX,triton-online.com
   - DOMAIN-SUFFIX,tritoncapitalmarkets.com
   - DOMAIN-SUFFIX,trivanode.com
+  - DOMAIN-SUFFIX,trivio-handel.de
   - DOMAIN-SUFFIX,trivona.de
   - DOMAIN-SUFFIX,trixupmysleeve.com
   - DOMAIN-SUFFIX,trk.4ff.pro
@@ -21547,7 +21628,10 @@ payload:
   - DOMAIN-SUFFIX,urvlentoki.com
   - DOMAIN-SUFFIX,us-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,us-east.ono.axp.amazon-adsystem.com
+  - DOMAIN-SUFFIX,us-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,us-mesh-events-data-leafs.trafficmanager.net
+  - DOMAIN-SUFFIX,us-rdx2-lgtvsdp-com.aws-prd.net
+  - DOMAIN-SUFFIX,us-report.gras.samsungdm.com
   - DOMAIN-SUFFIX,us-shop.online
   - DOMAIN-SUFFIX,us-supplements.to
   - DOMAIN-SUFFIX,us.a1.yimg.com
@@ -22011,6 +22095,7 @@ payload:
   - DOMAIN-SUFFIX,vitafus.com
   - DOMAIN-SUFFIX,vital-vibe.com
   - DOMAIN-SUFFIX,vitaldelikatesse.com
+  - DOMAIN-SUFFIX,vitalheldenhub.com
   - DOMAIN-SUFFIX,vitalismoemi.com
   - DOMAIN-SUFFIX,vitalkompass-de.com
   - DOMAIN-SUFFIX,vitalogen.de
@@ -22376,7 +22461,6 @@ payload:
   - DOMAIN-SUFFIX,webtrader.aptos-ai.net
   - DOMAIN-SUFFIX,webtrader.arvelon-barnyx.com
   - DOMAIN-SUFFIX,webtrader.capexgo.net
-  - DOMAIN-SUFFIX,webtrader.degiropartners.io
   - DOMAIN-SUFFIX,webtrader.finaurex.org
   - DOMAIN-SUFFIX,webtrader.nuxeros.app
   - DOMAIN-SUFFIX,webtrader.quantiumax.net
@@ -22889,8 +22973,8 @@ payload:
   - DOMAIN-SUFFIX,xqnail.com.au
   - DOMAIN-SUFFIX,xrivalfitness.com
   - DOMAIN-SUFFIX,xshopcloud.com
-  - DOMAIN-SUFFIX,xsltkprx.shop
   - DOMAIN-SUFFIX,xspiegel.de
+  - DOMAIN-SUFFIX,xsxpswau.shop
   - DOMAIN-SUFFIX,xsy198.com
   - DOMAIN-SUFFIX,xtb-partner.com
   - DOMAIN-SUFFIX,xtendmedia.com
@@ -22908,7 +22992,6 @@ payload:
   - DOMAIN-SUFFIX,yab-adimages.s3.amazonaws.com
   - DOMAIN-SUFFIX,yaberauto.com
   - DOMAIN-SUFFIX,yachtausstattung.com
-  - DOMAIN-SUFFIX,yadjmjrx.shop
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,yads.tech
   - DOMAIN-SUFFIX,yahalom.de
@@ -22958,8 +23041,6 @@ payload:
   - DOMAIN-SUFFIX,yiyang-solar.com
   - DOMAIN-SUFFIX,yjcsundw.com
   - DOMAIN-SUFFIX,yjob.ivebelting.com
-  - DOMAIN-SUFFIX,ykfojdaa.shop
-  - DOMAIN-SUFFIX,ykwkgndw.shop
   - DOMAIN-SUFFIX,ymetrica1.com
   - DOMAIN-SUFFIX,ymking.com
   - DOMAIN-SUFFIX,yoads.net
@@ -23006,7 +23087,6 @@ payload:
   - DOMAIN-SUFFIX,yumekatsu.com
   - DOMAIN-SUFFIX,yumgo.net
   - DOMAIN-SUFFIX,yumgs.holdenouterwear.shop
-  - DOMAIN-SUFFIX,yummycrystal.com
   - DOMAIN-SUFFIX,yvarrd.shop
   - DOMAIN-SUFFIX,yvipharmacy.com
   - DOMAIN-SUFFIX,yydspan.com
@@ -23118,7 +23198,6 @@ payload:
   - DOMAIN-SUFFIX,zenniagoods.com
   - DOMAIN-SUFFIX,zeno-paris.shop
   - DOMAIN-SUFFIX,zenoclimat.de
-  - DOMAIN-SUFFIX,zenospark.top
   - DOMAIN-SUFFIX,zenova-shop.de
   - DOMAIN-SUFFIX,zenovaa.store
   - DOMAIN-SUFFIX,zentempel.com
@@ -23236,7 +23315,6 @@ payload:
   - DOMAIN-SUFFIX,zusellmk.click
   - DOMAIN-SUFFIX,zuverlassigerkredit.com
   - DOMAIN-SUFFIX,zw-ad-lgsmartad-com.aws-prd.net
-  - DOMAIN-SUFFIX,zwclsaablueashe.shop
   - DOMAIN-SUFFIX,zwergspitzpomeranian.com
   - DOMAIN-SUFFIX,zxmcm.com
   - DOMAIN-SUFFIX,zybux.shop

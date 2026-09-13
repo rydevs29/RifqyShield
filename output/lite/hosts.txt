@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-12 02:22:12
-# Total Domains: 23,243
+# Last Updated: 2026-09-13 02:19:49
+# Total Domains: 23,321
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -384,6 +384,7 @@
 0.0.0.0 ad-drcn.media.dbankcloud.ru
 0.0.0.0 ad-format-sg.tiktokv.com
 0.0.0.0 ad-format-ttp2.tiktokv.eu
+0.0.0.0 ad-format.tiktokv.us
 0.0.0.0 ad-format16-normal-useastred.tiktokv.eu
 0.0.0.0 ad-growth-in.heytapmobile.com
 0.0.0.0 ad-growth-ru.heytapmobile.com
@@ -1300,6 +1301,7 @@
 0.0.0.0 adzerk.s3.amazonaws.com
 0.0.0.0 adzestocp.com
 0.0.0.0 ae-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 ae-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 aedes.shop
 0.0.0.0 aedexstore.de
 0.0.0.0 aeg-solutions.com
@@ -1424,6 +1426,7 @@
 0.0.0.0 airyano.com
 0.0.0.0 airyclub.com
 0.0.0.0 airzuma.at
+0.0.0.0 airzuma.com
 0.0.0.0 aisope.at
 0.0.0.0 aistat.net
 0.0.0.0 aitechinpharma.com
@@ -1456,8 +1459,10 @@
 0.0.0.0 aktivmaxx.com
 0.0.0.0 akustikholz.shop
 0.0.0.0 al-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 al-info-lgsmartad-com.aws-prd.net
 0.0.0.0 al-nassr.shop
 0.0.0.0 al-nassr.store
+0.0.0.0 al-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 al-research.com
 0.0.0.0 alairlenoir.com
 0.0.0.0 albrechtmode.de
@@ -2017,6 +2022,7 @@
 0.0.0.0 api.kameleoon.com
 0.0.0.0 api.lab.amplitude.com
 0.0.0.0 api.launcher.intl.miui.com
+0.0.0.0 api.metrics.eu-central-1.iris.apx.amazon.dev
 0.0.0.0 api.metrics.us-west-2.iris.apx.amazon.dev
 0.0.0.0 api.micloud.xiaomi.net
 0.0.0.0 api.mintbrs.intl.miui.com
@@ -2362,7 +2368,9 @@
 0.0.0.0 at-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 at-beta.amazon-adsystem.com
 0.0.0.0 at-gamma-us-east.amazon-adsystem.com
+0.0.0.0 at-info-lgsmartad-com.aws-prd.net
 0.0.0.0 at-o.net
+0.0.0.0 at-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 at-us-east.amazon-adsystem.com
 0.0.0.0 at.alpine-point.com
 0.0.0.0 at.curalise.com
@@ -2422,7 +2430,9 @@
 0.0.0.0 atvelektro.de
 0.0.0.0 atwola.com
 0.0.0.0 au-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 au-info-lgsmartad-com.aws-prd.net
 0.0.0.0 au-meds.com
+0.0.0.0 au-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 au.ff.avast.sec.miui.com
 0.0.0.0 auc-visio-telemetry.officeapps.live.com
 0.0.0.0 auctionads.com
@@ -2462,6 +2472,7 @@
 0.0.0.0 aurainfusions.com
 0.0.0.0 auraterraplaza.com
 0.0.0.0 aureamunich.de
+0.0.0.0 aureliustrust.uk
 0.0.0.0 aurelllc.com
 0.0.0.0 aurendal.com
 0.0.0.0 auresthiqan.sbs
@@ -2934,6 +2945,7 @@
 0.0.0.0 bbqaccessoriessale.com
 0.0.0.0 bccnerty.com
 0.0.0.0 bch-oberursel.de
+0.0.0.0 bcls-assets.com
 0.0.0.0 bcm-shop.de
 0.0.0.0 bcns-shop.com
 0.0.0.0 bcom-solar.de
@@ -2946,6 +2958,7 @@
 0.0.0.0 bdv.bidvertiser.com
 0.0.0.0 be-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 be-aetlcnshop.com
+0.0.0.0 be-info-lgsmartad-com.aws-prd.net
 0.0.0.0 beaccustomed.com
 0.0.0.0 beachfront.com
 0.0.0.0 beachitem.com
@@ -3185,6 +3198,7 @@
 0.0.0.0 bestellen-ciao-ciao-pf.de
 0.0.0.0 bestellundgut.de
 0.0.0.0 bestelnuar.click
+0.0.0.0 bestemed.com
 0.0.0.0 bestemedikamente.com
 0.0.0.0 bestenkaufen.com
 0.0.0.0 bestenwahl.de
@@ -3275,9 +3289,9 @@
 0.0.0.0 bftb.org
 0.0.0.0 bfxoption.com
 0.0.0.0 bg-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 bg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 bglshop.at
 0.0.0.0 bgp.fe01.c3.xiaomi.com
-0.0.0.0 bgp.tv.pandora.xiaomi.com
 0.0.0.0 bh-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 bhajandarshan.com
 0.0.0.0 bhcumsc.com
@@ -3468,6 +3482,7 @@
 0.0.0.0 bitcoin-everest-ai.fr
 0.0.0.0 bitcoin-pharmacy.com
 0.0.0.0 bitcoin-revolution.org
+0.0.0.0 bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
 0.0.0.0 bitcoineer.ai
@@ -3605,6 +3620,7 @@
 0.0.0.0 bm.annonce.cz
 0.0.0.0 bmbgreen.com
 0.0.0.0 bmcloth.com
+0.0.0.0 bmfflnanzonline.net
 0.0.0.0 bmgebaeudereinigung.de
 0.0.0.0 bmgvinyl.shop
 0.0.0.0 bmn-online.de
@@ -3746,7 +3762,9 @@
 0.0.0.0 bpo-partners.com
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 br-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 br-info-lgsmartad-com.aws-prd.net
 0.0.0.0 br-p.vivoglobal.com
+0.0.0.0 br-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 brabantiadeutschland.de
 0.0.0.0 bracgartenservice.de
 0.0.0.0 brachiumautoteile.de
@@ -4024,8 +4042,10 @@
 0.0.0.0 bxrlin.de
 0.0.0.0 by-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 by-emmamuller.de
+0.0.0.0 by-info-lgsmartad-com.aws-prd.net
 0.0.0.0 by-lina.de
 0.0.0.0 by-olana.com
+0.0.0.0 by-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 bybitbaltic.info
 0.0.0.0 bycheri.de
 0.0.0.0 bycicle.net
@@ -4096,6 +4116,8 @@
 0.0.0.0 c3mini.pandora.xiaomi.com
 0.0.0.0 ca-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ca-agentur.de
+0.0.0.0 ca-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ca-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 caactioncoalition.org
 0.0.0.0 caay-berlin.com
 0.0.0.0 caballde.com
@@ -4431,6 +4453,8 @@
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 ch-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ch-asimov-leafs-events-data.trafficmanager.net
+0.0.0.0 ch-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ch-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 ch.gluconv.com
 0.0.0.0 chacos.at
 0.0.0.0 chacosdeutschland.de
@@ -4613,6 +4637,7 @@
 0.0.0.0 clarks-germany.com
 0.0.0.0 clarks-osterreich.com
 0.0.0.0 clarks-schweiz.com
+0.0.0.0 clarksaustria.at
 0.0.0.0 clarksdeutschland.de
 0.0.0.0 clarksdeutschlandsale.com
 0.0.0.0 clarksgermany.com
@@ -4650,6 +4675,7 @@
 0.0.0.0 clearancegowns.com
 0.0.0.0 clearanceu.com
 0.0.0.0 clearingt.com
+0.0.0.0 clearmarket-europe.com
 0.0.0.0 clearmarketeurope.com
 0.0.0.0 clearstream.fashion
 0.0.0.0 clearstream.xin
@@ -5639,9 +5665,11 @@
 0.0.0.0 de-filter.com
 0.0.0.0 de-fizzclean.com
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
+0.0.0.0 de-info-lgsmartad-com.aws-prd.net
 0.0.0.0 de-lumelia.com
 0.0.0.0 de-musicshop.com
 0.0.0.0 de-orion.site
+0.0.0.0 de-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 de-schmuckens.com
 0.0.0.0 de-tonies.com
 0.0.0.0 de-toy.com
@@ -5738,6 +5766,7 @@
 0.0.0.0 decorworld.shop
 0.0.0.0 decosplaycartpop.shop
 0.0.0.0 decotik.de
+0.0.0.0 decovividly.com
 0.0.0.0 deepintent.com
 0.0.0.0 deeynee.com
 0.0.0.0 defahrrad.com
@@ -6033,6 +6062,7 @@
 0.0.0.0 dianjingniu-online.com
 0.0.0.0 dianomi.com
 0.0.0.0 diantrag.com
+0.0.0.0 diaryofafitmommy.com
 0.0.0.0 dicamgruppe.de
 0.0.0.0 dicecandies.com
 0.0.0.0 dicha-anhaenger.com
@@ -6088,6 +6118,7 @@
 0.0.0.0 dinosupplies.to
 0.0.0.0 dionfashion.com
 0.0.0.0 diotrange.com
+0.0.0.0 diploms.de
 0.0.0.0 dirctychop.com
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 direct-promo.pro
@@ -6609,12 +6640,15 @@
 0.0.0.0 edrxmeds.com
 0.0.0.0 ee-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ee-fahrrad-handel.de
+0.0.0.0 ee-info-lgsmartad-com.aws-prd.net
+0.0.0.0 ee-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 eew-karriere.de
 0.0.0.0 efeublute.com
 0.0.0.0 effexlaw.com
 0.0.0.0 efficient-flow.solutions
 0.0.0.0 effiziente-taubenabwehr.at
 0.0.0.0 eg-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 eg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 eggelingen.de
 0.0.0.0 egoryspecies.com
 0.0.0.0 egscap.com
@@ -6659,7 +6693,6 @@
 0.0.0.0 ekzsale.shop
 0.0.0.0 elaines.life
 0.0.0.0 elamriaa.com
-0.0.0.0 elan-monrevo.com
 0.0.0.0 elanova.eu
 0.0.0.0 elansyvor.fr
 0.0.0.0 elasticchange.com
@@ -7051,6 +7084,7 @@
 0.0.0.0 etniesshoesireland.com
 0.0.0.0 etrade-securities.com
 0.0.0.0 etradecapitals.com
+0.0.0.0 etrias.de
 0.0.0.0 etrooppisode.com
 0.0.0.0 etropo.com
 0.0.0.0 etsbois-de-chaufage.com
@@ -7073,6 +7107,7 @@
 0.0.0.0 eu-pnrt-stsdk.vivoglobal.com
 0.0.0.0 eu-romsp-unifyconfig.vivoglobal.com
 0.0.0.0 eu-sezane.com
+0.0.0.0 eu-st-exappupgrade.vivoglobal.com
 0.0.0.0 eu-st-sl.vivoglobal.com
 0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
@@ -7085,6 +7120,7 @@
 0.0.0.0 eu.cettire.com
 0.0.0.0 eu.goldengoosediscount.com
 0.0.0.0 eu.stanlyss1913.com
+0.0.0.0 eu7-info-lgsmartad-com.aws-prd.net
 0.0.0.0 eubiofficial.com
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.wac.trafficmanager.net
@@ -7677,10 +7713,11 @@
 0.0.0.0 fexora.online
 0.0.0.0 ffc-excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-word-telemetry.officeapps.live.com
-0.0.0.0 ffg-analyticsk3nvxfne4dp4s.servicebus.windows.net
 0.0.0.0 ffinasshop.com
 0.0.0.0 fgteu1-word-telemetry-vip.officeapps.live.com
 0.0.0.0 fi-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 fi-info-lgsmartad-com.aws-prd.net
+0.0.0.0 fi-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 fiammshop.eu
 0.0.0.0 fiat-global.com
 0.0.0.0 fiat-transporter.at
@@ -8084,8 +8121,9 @@
 0.0.0.0 fr-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 fr-api.xmpush.global.xiaomi.com
 0.0.0.0 fr-drbright.net
+0.0.0.0 fr-info-lgsmartad-com.aws-prd.net
+0.0.0.0 fr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 fr-register.xmpush.global.xiaomi.com
-0.0.0.0 fr-totalenergiesinvest.com
 0.0.0.0 fr.brokeragea.com
 0.0.0.0 fr.feedback.xmpush.global.xiaomi.com
 0.0.0.0 fr.finaguide.com
@@ -8574,6 +8612,8 @@
 0.0.0.0 gavvia.com
 0.0.0.0 gaziantepsauna.com
 0.0.0.0 gb-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 gb-info-lgsmartad-com.aws-prd.net
+0.0.0.0 gb-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 gbr-office.de
 0.0.0.0 gbuynix.com
 0.0.0.0 gcash-casino-ph.com
@@ -8685,6 +8725,7 @@
 0.0.0.0 germanfishinggear.com
 0.0.0.0 germanfurnituremart.com
 0.0.0.0 germangoodsonline.com
+0.0.0.0 germangusto.com
 0.0.0.0 germaniatool.com
 0.0.0.0 germaniatoolshop.com
 0.0.0.0 germanmanufaktur.de
@@ -9106,6 +9147,8 @@
 0.0.0.0 gq-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 gqaltq.shop
 0.0.0.0 gr-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 gr-info-lgsmartad-com.aws-prd.net
+0.0.0.0 gr-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 gr.gluconv.com
 0.0.0.0 grabpillsusa.com
 0.0.0.0 grace-hawthorne.com
@@ -9460,6 +9503,7 @@
 0.0.0.0 handyprotool.com
 0.0.0.0 handytoolpro.com
 0.0.0.0 haney-university-store.myshopify.com
+0.0.0.0 hanfmeister.at
 0.0.0.0 hanfseedstore.de
 0.0.0.0 hangel-handel.de
 0.0.0.0 hangmats.com
@@ -10357,6 +10401,8 @@
 0.0.0.0 ibillboard.com
 0.0.0.0 ibler-elektronik.de
 0.0.0.0 ibointernational.com
+0.0.0.0 ibs.nextlgsdp.com
+0.0.0.0 ibsstat.nextlgsdp.com
 0.0.0.0 icarbuddy.com
 0.0.0.0 icatautoteile.de
 0.0.0.0 icebesteck.com
@@ -10387,7 +10433,6 @@
 0.0.0.0 icosa-service-sg-03.allawnos.com
 0.0.0.0 icosa-service-sg.allawnos.com
 0.0.0.0 icosa-service-us.allawnos.com
-0.0.0.0 icosa-sg.coloros.com
 0.0.0.0 icota-eu.coloros.com
 0.0.0.0 icota-service-eu.allawnos.com
 0.0.0.0 icota-service-in.allawnos.com
@@ -10584,6 +10629,7 @@
 0.0.0.0 in-domaincfg.vivoglobal.com
 0.0.0.0 in-errup.vivoglobal.com
 0.0.0.0 in-ex-adlog.vivoglobal.com
+0.0.0.0 in-info-lgsmartad-com.aws-prd.net
 0.0.0.0 in-miuilog.sms.intl.xiaomi.com
 0.0.0.0 in-monitor-stsdk.vivoglobal.com
 0.0.0.0 in-news-abroad-backstage-interface.vivoglobal.com
@@ -10863,11 +10909,13 @@
 0.0.0.0 ir-es.amazon-adsystem.com
 0.0.0.0 ir-fr.amazon-adsystem.com
 0.0.0.0 ir-in.amazon-adsystem.com
+0.0.0.0 ir-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ir-it.amazon-adsystem.com
 0.0.0.0 ir-jp.amazon-adsystem.com
 0.0.0.0 ir-mx.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 ir-nl.amazon-adsystem.com
+0.0.0.0 ir-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 ir-tracking.trafficmanager.net
 0.0.0.0 ir-uk.amazon-adsystem.com
 0.0.0.0 irchan.com
@@ -10910,7 +10958,9 @@
 0.0.0.0 iswanan.de
 0.0.0.0 it-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 it-con.org
+0.0.0.0 it-info-lgsmartad-com.aws-prd.net
 0.0.0.0 it-marktblick.de
+0.0.0.0 it-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 it2-use.de
 0.0.0.0 itagprotracker.com
 0.0.0.0 italiannewstoday.com
@@ -11189,6 +11239,8 @@
 0.0.0.0 k4-kulturgarten.de
 0.0.0.0 ka-pharm.com
 0.0.0.0 kabahinfo.net
+0.0.0.0 kabelbund.com
+0.0.0.0 kabelschuhekaufen.com
 0.0.0.0 kabilon.com
 0.0.0.0 kabinett-sales.com
 0.0.0.0 kachi-berlin.de
@@ -11878,17 +11930,20 @@
 0.0.0.0 kynebeauty.de
 0.0.0.0 kynubeauty.de
 0.0.0.0 kz-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 kz-album-api.vivoglobal.com
 0.0.0.0 kz-cname-sin01-bigdata.vivoglobal.com
 0.0.0.0 kz-err-up.vivoglobal.com
 0.0.0.0 kz-monitor-stsdk.vivoglobal.com
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com
 0.0.0.0 kz-ort-stsdk.vivoglobal.com
+0.0.0.0 kz-p.vivoglobal.com
 0.0.0.0 kz-pnrt-stsdk.vivoglobal.com
 0.0.0.0 kz-prt-stsdk.vivoglobal.com
 0.0.0.0 kz-st-exappupgrade.vivoglobal.com
 0.0.0.0 kz-st-sl.vivoglobal.com
 0.0.0.0 kz-st-sysupgrade.vivoglobal.com
 0.0.0.0 kz-stsdk.vivoglobal.com
+0.0.0.0 kz-timesync.vivoglobal.com
 0.0.0.0 kz-vcode-od.vivoglobal.com
 0.0.0.0 kz-vcode-or.vivoglobal.com
 0.0.0.0 kzlkozlm.shop
@@ -12459,6 +12514,7 @@
 0.0.0.0 locateanyphone.net
 0.0.0.0 location-i18n.tiktokv.com
 0.0.0.0 location-microsoft-com.b-0005.b-msedge.net
+0.0.0.0 location-ru.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
 0.0.0.0 location-ttp2.tiktokv.eu
 0.0.0.0 location-ttp2.us.tiktokv.com
@@ -12596,7 +12652,6 @@
 0.0.0.0 log32-normal-zr.tiktokv.com
 0.0.0.0 log32-normal.capcutapi.com
 0.0.0.0 log32-normal.tiktokv.com
-0.0.0.0 log53-normal-c-useast1a.tiktokv.com
 0.0.0.0 log58-normal-alisg.tiktokv.com
 0.0.0.0 log58-normal-c-alisg.tiktokv.com
 0.0.0.0 log58-normal-c-useast1a.tiktokv.com
@@ -13122,6 +13177,7 @@
 0.0.0.0 marketmarkdowns.com
 0.0.0.0 marketo.com
 0.0.0.0 marketoptions.com
+0.0.0.0 marketpills4you.com
 0.0.0.0 markets-capital.com
 0.0.0.0 markets-investment.com
 0.0.0.0 markets365.net
@@ -13498,7 +13554,6 @@
 0.0.0.0 medyanetads.com
 0.0.0.0 medzrezeptfrei.com
 0.0.0.0 meertickets.de
-0.0.0.0 meetcurve.de
 0.0.0.0 meetfigure.com
 0.0.0.0 meetrics.net
 0.0.0.0 mega-meigaomei-online.com
@@ -13642,6 +13697,7 @@
 0.0.0.0 merados.de
 0.0.0.0 merapack.com
 0.0.0.0 merapetfood.shop
+0.0.0.0 mercadobuyprice.com
 0.0.0.0 mercadolibre.at
 0.0.0.0 mercapool.de
 0.0.0.0 mercator.direct
@@ -13701,7 +13757,6 @@
 0.0.0.0 metrics.articulate.com
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.dt.dbankcloud.cn
-0.0.0.0 metrics.eu-central-1.iris.apx.amazon.dev
 0.0.0.0 metrics.eu-south-2.iris.apx.amazon.dev
 0.0.0.0 metrics.eu-west-1.iris.apx.amazon.dev
 0.0.0.0 metrics.foxnews.com
@@ -14396,6 +14451,7 @@
 0.0.0.0 mssdk-quic-sg.tiktokv.com
 0.0.0.0 mssdk-quic-va.tiktokv.com
 0.0.0.0 mssdk-ru.tiktokv.com
+0.0.0.0 mssdk-ru.tiktokv.com.www.digmawifi.com
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.capcutapi.com
@@ -14895,13 +14951,13 @@
 0.0.0.0 next-rehabandperformance.be
 0.0.0.0 nextbinary.com
 0.0.0.0 nextchain.at
-0.0.0.0 nextlgsdp.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusbids.com
 0.0.0.0 nexusonline.com.br
 0.0.0.0 nexusrules.live.com
 0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nexussolaraus.com
+0.0.0.0 nexuswebshop.com
 0.0.0.0 nexxtv-events.servicebus.windows.net
 0.0.0.0 nflfanaticsstore.com
 0.0.0.0 ng-ad-lgsmartad-com.aws-prd.net
@@ -14962,6 +15018,8 @@
 0.0.0.0 nkd-store.com
 0.0.0.0 nl-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 nl-fashion.de
+0.0.0.0 nl-info-lgsmartad-com.aws-prd.net
+0.0.0.0 nl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 nl.rcd.ptqy.gitv.tv
 0.0.0.0 nlmedsusa.com
 0.0.0.0 nloia.shop
@@ -14972,6 +15030,8 @@
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 no-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 no-bull-deutschland.de
+0.0.0.0 no-info-lgsmartad-com.aws-prd.net
+0.0.0.0 no-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 noanailartandbeauty.com
 0.0.0.0 nobalte.de
 0.0.0.0 noble-alliance.com
@@ -15519,7 +15579,6 @@
 0.0.0.0 onlinecashmethod.com
 0.0.0.0 onlinecasinoparis.com
 0.0.0.0 onlinecasinositeindia.com
-0.0.0.0 onlinecasinoslasvegas.com
 0.0.0.0 onlinecasinosohneverifizierung.de
 0.0.0.0 onlinedamen.de
 0.0.0.0 onlinedrugsnorx.com
@@ -15666,6 +15725,7 @@
 0.0.0.0 opus-mode.com
 0.0.0.0 opyiazki.shop
 0.0.0.0 oralb-austria.com
+0.0.0.0 oranix-de.myshopify.com
 0.0.0.0 orbi-mount.com
 0.0.0.0 orbisolyx.com
 0.0.0.0 orbitdealsflowtoday.online
@@ -15953,6 +16013,7 @@
 0.0.0.0 pandorade.de
 0.0.0.0 pandorakorut.com
 0.0.0.0 pandoraringsuk.com
+0.0.0.0 pandoras-outlet.com
 0.0.0.0 panelaeki.de
 0.0.0.0 pangolin.snssdk.com
 0.0.0.0 panickypancake.com
@@ -16136,6 +16197,7 @@
 0.0.0.0 perfumology.shop
 0.0.0.0 pergolarabatt.com
 0.0.0.0 pergus-data.de
+0.0.0.0 peripherie-plus.shop
 0.0.0.0 perlatoschuhe.com
 0.0.0.0 perlatoshoe.com
 0.0.0.0 perlenwerk.com
@@ -16258,6 +16320,7 @@
 0.0.0.0 pgz999-online.com
 0.0.0.0 ph-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ph-gartenmaschinen.de
+0.0.0.0 ph-info-lgsmartad-com.aws-prd.net
 0.0.0.0 phaidon-eu-online.shop
 0.0.0.0 phaidon-online.shop
 0.0.0.0 phamstoretcg.de
@@ -16341,6 +16404,7 @@
 0.0.0.0 pillsshop.live
 0.0.0.0 pillstock.net
 0.0.0.0 pillz888.org
+0.0.0.0 pilotentest-vorbereitung.com
 0.0.0.0 pilotshof.com
 0.0.0.0 pilule-france.com
 0.0.0.0 pilulky-cz.com
@@ -16389,6 +16453,8 @@
 0.0.0.0 pk-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 pk.toys
 0.0.0.0 pl-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 pl-info-lgsmartad-com.aws-prd.net
+0.0.0.0 pl-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 pl.vivami.co
 0.0.0.0 placed.com
 0.0.0.0 placeframe.com
@@ -16976,6 +17042,7 @@
 0.0.0.0 ql.tc
 0.0.0.0 qlepy.com
 0.0.0.0 qliopbn.forum
+0.0.0.0 qmdhueo.shop
 0.0.0.0 qmds-dev-samsung.com
 0.0.0.0 qmwblnuk.shop
 0.0.0.0 qnesz.shop
@@ -17114,6 +17181,7 @@
 0.0.0.0 radelhelden.com
 0.0.0.0 radfahrzeit.com
 0.0.0.0 radfit24.com
+0.0.0.0 radhafen.com
 0.0.0.0 radhandel24.de
 0.0.0.0 radiate.com
 0.0.0.0 radiateprose.com
@@ -17227,6 +17295,8 @@
 0.0.0.0 rcserpent.com
 0.0.0.0 rctoyretail.com
 0.0.0.0 rdoering.de
+0.0.0.0 rdx2.lgtvsdp.com
+0.0.0.0 rdx2.nextlgsdp.com
 0.0.0.0 re-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 re-direct.pl
 0.0.0.0 reachjunction.com
@@ -17614,6 +17684,7 @@
 0.0.0.0 rnd-cbgpas01.huawei.com
 0.0.0.0 rngonline.org
 0.0.0.0 ro-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 ro-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ro-up.vivoglobal.com
 0.0.0.0 ro10.landunk.com
 0.0.0.0 ro6.landofm.com
@@ -17680,6 +17751,7 @@
 0.0.0.0 rolexwanduhr.de
 0.0.0.0 rolexyeals.com
 0.0.0.0 rolla.store
+0.0.0.0 rolladen-rudolf.at
 0.0.0.0 rolladenreparatur.at
 0.0.0.0 rollandbois.com
 0.0.0.0 rollangel.com
@@ -17781,6 +17853,7 @@
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
+0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-ttp2.us.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.tiktokv.com
@@ -17949,6 +18022,7 @@
 0.0.0.0 rw-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 rwcstore.com
 0.0.0.0 rx-budapest.com
+0.0.0.0 rx-discount.com
 0.0.0.0 rx-pharma.net
 0.0.0.0 rx-pharmacies.com
 0.0.0.0 rx-qualityshop.com
@@ -18264,6 +18338,7 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 sca.samsung.com
 0.0.0.0 scambiobanner.aruba.it
+0.0.0.0 scannero.io
 0.0.0.0 scanscout.com
 0.0.0.0 scarcesign.com
 0.0.0.0 scaredsnakes.com
@@ -18432,6 +18507,8 @@
 0.0.0.0 sdk.51.la
 0.0.0.0 sdk.ptqy.gitv.tv
 0.0.0.0 se-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 se-info-lgsmartad-com.aws-prd.net
+0.0.0.0 se-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 se-sthqntm-64.com
 0.0.0.0 se-vignette-france.com
 0.0.0.0 sea-log-rcv.vansound.com
@@ -18831,6 +18908,8 @@
 0.0.0.0 shuttleockstore.com
 0.0.0.0 shxtrk.com
 0.0.0.0 si-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 si-info-lgsmartad-com.aws-prd.net
+0.0.0.0 si-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 si.ptqy.gitv.tv
 0.0.0.0 sia.internet.apps.samsung.com
 0.0.0.0 siaeglisiwoodltd.com
@@ -19253,7 +19332,6 @@
 0.0.0.0 sovectoron-1-naatlasix-losolara.com
 0.0.0.0 sovkonc.ept.se
 0.0.0.0 sovrn.com
-0.0.0.0 sowaswillichauch.de
 0.0.0.0 soxfinancial.com
 0.0.0.0 sozialversicherungsausweisportal.de
 0.0.0.0 sp-a-q-f.ib-game.jp
@@ -19297,6 +19375,7 @@
 0.0.0.0 spectrumequitypulse.com
 0.0.0.0 speculaten.com
 0.0.0.0 spedition-thiemann.de
+0.0.0.0 spedition-tml.de
 0.0.0.0 speditionspellets.com
 0.0.0.0 speechfaith.com
 0.0.0.0 speed-gaming.com
@@ -20035,6 +20114,7 @@
 0.0.0.0 syrokan.com
 0.0.0.0 sys.intl.xiaomi.com
 0.0.0.0 sys.tv.india.xiaomi.com
+0.0.0.0 system-capital.org
 0.0.0.0 systemofdown.com
 0.0.0.0 systemssummit.com
 0.0.0.0 sz-ad-lgsmartad-com.aws-prd.net
@@ -20512,9 +20592,7 @@
 0.0.0.0 thl-handel.de
 0.0.0.0 thlifureshop.com
 0.0.0.0 thm.market.xiaomi.com
-0.0.0.0 thomann-vip.za.com
 0.0.0.0 thomannofficiall.com
-0.0.0.0 thomannsale.za.com
 0.0.0.0 thomastorch.com
 0.0.0.0 thompson-sydney.com
 0.0.0.0 thongish.store
@@ -20881,6 +20959,7 @@
 0.0.0.0 tr-domaincfg.vivoglobal.com
 0.0.0.0 tr-err-up.vivoglobal.com
 0.0.0.0 tr-gdpr-vgc-datacenter.vivoglobal.com
+0.0.0.0 tr-info-lgsmartad-com.aws-prd.net
 0.0.0.0 tr-onrt-stsdk.vivoglobal.com
 0.0.0.0 tr-ort-stsdk.vivoglobal.com
 0.0.0.0 tr-p.vivoglobal.com
@@ -20909,6 +20988,7 @@
 0.0.0.0 track.canva.com
 0.0.0.0 track.contently.com
 0.0.0.0 track.customer.io
+0.0.0.0 track.dws.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 track.flexlinks.com
 0.0.0.0 track.flexlinkspro.com
@@ -21160,6 +21240,7 @@
 0.0.0.0 triton-online.com
 0.0.0.0 tritoncapitalmarkets.com
 0.0.0.0 trivanode.com
+0.0.0.0 trivio-handel.de
 0.0.0.0 trivona.de
 0.0.0.0 trixupmysleeve.com
 0.0.0.0 trk.4ff.pro
@@ -21548,7 +21629,10 @@
 0.0.0.0 urvlentoki.com
 0.0.0.0 us-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 us-east.ono.axp.amazon-adsystem.com
+0.0.0.0 us-info-lgsmartad-com.aws-prd.net
 0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net
+0.0.0.0 us-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 us-report.gras.samsungdm.com
 0.0.0.0 us-shop.online
 0.0.0.0 us-supplements.to
 0.0.0.0 us.a1.yimg.com
@@ -22012,6 +22096,7 @@
 0.0.0.0 vitafus.com
 0.0.0.0 vital-vibe.com
 0.0.0.0 vitaldelikatesse.com
+0.0.0.0 vitalheldenhub.com
 0.0.0.0 vitalismoemi.com
 0.0.0.0 vitalkompass-de.com
 0.0.0.0 vitalogen.de
@@ -22377,7 +22462,6 @@
 0.0.0.0 webtrader.aptos-ai.net
 0.0.0.0 webtrader.arvelon-barnyx.com
 0.0.0.0 webtrader.capexgo.net
-0.0.0.0 webtrader.degiropartners.io
 0.0.0.0 webtrader.finaurex.org
 0.0.0.0 webtrader.nuxeros.app
 0.0.0.0 webtrader.quantiumax.net
@@ -22890,8 +22974,8 @@
 0.0.0.0 xqnail.com.au
 0.0.0.0 xrivalfitness.com
 0.0.0.0 xshopcloud.com
-0.0.0.0 xsltkprx.shop
 0.0.0.0 xspiegel.de
+0.0.0.0 xsxpswau.shop
 0.0.0.0 xsy198.com
 0.0.0.0 xtb-partner.com
 0.0.0.0 xtendmedia.com
@@ -22909,7 +22993,6 @@
 0.0.0.0 yab-adimages.s3.amazonaws.com
 0.0.0.0 yaberauto.com
 0.0.0.0 yachtausstattung.com
-0.0.0.0 yadjmjrx.shop
 0.0.0.0 yadro.ru
 0.0.0.0 yads.tech
 0.0.0.0 yahalom.de
@@ -22959,8 +23042,6 @@
 0.0.0.0 yiyang-solar.com
 0.0.0.0 yjcsundw.com
 0.0.0.0 yjob.ivebelting.com
-0.0.0.0 ykfojdaa.shop
-0.0.0.0 ykwkgndw.shop
 0.0.0.0 ymetrica1.com
 0.0.0.0 ymking.com
 0.0.0.0 yoads.net
@@ -23007,7 +23088,6 @@
 0.0.0.0 yumekatsu.com
 0.0.0.0 yumgo.net
 0.0.0.0 yumgs.holdenouterwear.shop
-0.0.0.0 yummycrystal.com
 0.0.0.0 yvarrd.shop
 0.0.0.0 yvipharmacy.com
 0.0.0.0 yydspan.com
@@ -23119,7 +23199,6 @@
 0.0.0.0 zenniagoods.com
 0.0.0.0 zeno-paris.shop
 0.0.0.0 zenoclimat.de
-0.0.0.0 zenospark.top
 0.0.0.0 zenova-shop.de
 0.0.0.0 zenovaa.store
 0.0.0.0 zentempel.com
@@ -23237,7 +23316,6 @@
 0.0.0.0 zusellmk.click
 0.0.0.0 zuverlassigerkredit.com
 0.0.0.0 zw-ad-lgsmartad-com.aws-prd.net
-0.0.0.0 zwclsaablueashe.shop
 0.0.0.0 zwergspitzpomeranian.com
 0.0.0.0 zxmcm.com
 0.0.0.0 zybux.shop
