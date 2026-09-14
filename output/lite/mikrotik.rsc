@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-13 02:19:49
-# Total Domains: 23,321
+# Last Updated: 2026-09-14 02:37:15
+# Total Domains: 23,323
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -2625,6 +2625,7 @@ add name="awstrack.me" address=0.0.0.0
 add name="awsusor0-cdn.fds-ssl.api.xiaomi.com" address=0.0.0.0
 add name="awzbijw.com" address=0.0.0.0
 add name="ax-trading.com" address=0.0.0.0
+add name="axacoins.com" address=0.0.0.0
 add name="axaimarketfx.com" address=0.0.0.0
 add name="axatechviewou.com" address=0.0.0.0
 add name="axel-maschine.de" address=0.0.0.0
@@ -4183,6 +4184,7 @@ add name="campingzubehorhub.com" address=0.0.0.0
 add name="camptool-shop.com" address=0.0.0.0
 add name="camuya.shop" address=0.0.0.0
 add name="canada-pharmacy-24h.com" address=0.0.0.0
+add name="canadadrugstore.com" address=0.0.0.0
 add name="canadanewsreport.com" address=0.0.0.0
 add name="canadapharmacypro.com" address=0.0.0.0
 add name="canadapharmacytrust.net" address=0.0.0.0
@@ -7699,6 +7701,7 @@ add name="festgeldfinder.de" address=0.0.0.0
 add name="festgeldsicher.at" address=0.0.0.0
 add name="festivaldefrente.com" address=0.0.0.0
 add name="festoolz.shop" address=0.0.0.0
+add name="fetishmegastore.com" address=0.0.0.0
 add name="fettabsaugung-in-koeln.de" address=0.0.0.0
 add name="fettverbrenneronline.com" address=0.0.0.0
 add name="feuchtigkeits.de" address=0.0.0.0
@@ -15578,6 +15581,7 @@ add name="onlinecash.com" address=0.0.0.0
 add name="onlinecashmethod.com" address=0.0.0.0
 add name="onlinecasinoparis.com" address=0.0.0.0
 add name="onlinecasinositeindia.com" address=0.0.0.0
+add name="onlinecasinoslasvegas.com" address=0.0.0.0
 add name="onlinecasinosohneverifizierung.de" address=0.0.0.0
 add name="onlinedamen.de" address=0.0.0.0
 add name="onlinedrugsnorx.com" address=0.0.0.0
@@ -17408,7 +17412,6 @@ add name="reindesign-garten.de" address=0.0.0.0
 add name="reindesigner-handel.de" address=0.0.0.0
 add name="reineblume.de" address=0.0.0.0
 add name="reings.store" address=0.0.0.0
-add name="reinholdrasenmaher.com" address=0.0.0.0
 add name="reinholzexpress.com" address=0.0.0.0
 add name="reinigungszubehor.com" address=0.0.0.0
 add name="reinpeptid.de" address=0.0.0.0
@@ -20867,7 +20870,6 @@ add name="topautoteile.com" address=0.0.0.0
 add name="topbaumaschinen.com" address=0.0.0.0
 add name="topbrennstoffe.de" address=0.0.0.0
 add name="topbrokersranking.com" address=0.0.0.0
-add name="topcyclebike.com" address=0.0.0.0
 add name="topdeals-shop.online" address=0.0.0.0
 add name="topeuro-shop.com" address=0.0.0.0
 add name="topeuropenews.com" address=0.0.0.0

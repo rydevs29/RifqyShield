@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-13 02:19:49
-# Total Domains: 23,321
+# Last Updated: 2026-09-14 02:37:15
+# Total Domains: 23,323
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -2624,6 +2624,7 @@ awstrack.me CNAME .
 awsusor0-cdn.fds-ssl.api.xiaomi.com CNAME .
 awzbijw.com CNAME .
 ax-trading.com CNAME .
+axacoins.com CNAME .
 axaimarketfx.com CNAME .
 axatechviewou.com CNAME .
 axel-maschine.de CNAME .
@@ -4182,6 +4183,7 @@ campingzubehorhub.com CNAME .
 camptool-shop.com CNAME .
 camuya.shop CNAME .
 canada-pharmacy-24h.com CNAME .
+canadadrugstore.com CNAME .
 canadanewsreport.com CNAME .
 canadapharmacypro.com CNAME .
 canadapharmacytrust.net CNAME .
@@ -7698,6 +7700,7 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
+fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -15577,6 +15580,7 @@ onlinecash.com CNAME .
 onlinecashmethod.com CNAME .
 onlinecasinoparis.com CNAME .
 onlinecasinositeindia.com CNAME .
+onlinecasinoslasvegas.com CNAME .
 onlinecasinosohneverifizierung.de CNAME .
 onlinedamen.de CNAME .
 onlinedrugsnorx.com CNAME .
@@ -17407,7 +17411,6 @@ reindesign-garten.de CNAME .
 reindesigner-handel.de CNAME .
 reineblume.de CNAME .
 reings.store CNAME .
-reinholdrasenmaher.com CNAME .
 reinholzexpress.com CNAME .
 reinigungszubehor.com CNAME .
 reinpeptid.de CNAME .
@@ -20866,7 +20869,6 @@ topautoteile.com CNAME .
 topbaumaschinen.com CNAME .
 topbrennstoffe.de CNAME .
 topbrokersranking.com CNAME .
-topcyclebike.com CNAME .
 topdeals-shop.online CNAME .
 topeuro-shop.com CNAME .
 topeuropenews.com CNAME .

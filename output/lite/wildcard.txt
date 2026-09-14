@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-13 02:19:49
-# Total Domains: 23,321
+# Last Updated: 2026-09-14 02:37:15
+# Total Domains: 23,323
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -2624,6 +2624,7 @@
 *.awsusor0-cdn.fds-ssl.api.xiaomi.com
 *.awzbijw.com
 *.ax-trading.com
+*.axacoins.com
 *.axaimarketfx.com
 *.axatechviewou.com
 *.axel-maschine.de
@@ -4182,6 +4183,7 @@
 *.camptool-shop.com
 *.camuya.shop
 *.canada-pharmacy-24h.com
+*.canadadrugstore.com
 *.canadanewsreport.com
 *.canadapharmacypro.com
 *.canadapharmacytrust.net
@@ -7698,6 +7700,7 @@
 *.festgeldsicher.at
 *.festivaldefrente.com
 *.festoolz.shop
+*.fetishmegastore.com
 *.fettabsaugung-in-koeln.de
 *.fettverbrenneronline.com
 *.feuchtigkeits.de
@@ -15577,6 +15580,7 @@
 *.onlinecashmethod.com
 *.onlinecasinoparis.com
 *.onlinecasinositeindia.com
+*.onlinecasinoslasvegas.com
 *.onlinecasinosohneverifizierung.de
 *.onlinedamen.de
 *.onlinedrugsnorx.com
@@ -17407,7 +17411,6 @@
 *.reindesigner-handel.de
 *.reineblume.de
 *.reings.store
-*.reinholdrasenmaher.com
 *.reinholzexpress.com
 *.reinigungszubehor.com
 *.reinpeptid.de
@@ -20866,7 +20869,6 @@
 *.topbaumaschinen.com
 *.topbrennstoffe.de
 *.topbrokersranking.com
-*.topcyclebike.com
 *.topdeals-shop.online
 *.topeuro-shop.com
 *.topeuropenews.com
