@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-14 02:37:15
-# Total Domains: 23,323
+# Last Updated: 2026-09-15 02:40:43
+# Total Domains: 23,340
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -2474,6 +2474,9 @@ payload:
   - DOMAIN-SUFFIX,aureliustrust.uk
   - DOMAIN-SUFFIX,aurelllc.com
   - DOMAIN-SUFFIX,aurendal.com
+  - DOMAIN-SUFFIX,aureon-corevix.net
+  - DOMAIN-SUFFIX,aureoncorevix-fr.com
+  - DOMAIN-SUFFIX,aureoncorevix.net
   - DOMAIN-SUFFIX,auresthiqan.sbs
   - DOMAIN-SUFFIX,aurevo-fashion.com
   - DOMAIN-SUFFIX,aurexk-pital.com
@@ -2760,6 +2763,7 @@ payload:
   - DOMAIN-SUFFIX,balkonfix.com
   - DOMAIN-SUFFIX,balloret.com
   - DOMAIN-SUFFIX,ballqen.com
+  - DOMAIN-SUFFIX,ballshops.com
   - DOMAIN-SUFFIX,ballszone.de
   - DOMAIN-SUFFIX,balony.de
   - DOMAIN-SUFFIX,balotracity.com
@@ -3168,6 +3172,7 @@ payload:
   - DOMAIN-SUFFIX,best-good-winery.com
   - DOMAIN-SUFFIX,best-musical-discount.com
   - DOMAIN-SUFFIX,best-parts-warehouse.com
+  - DOMAIN-SUFFIX,best-pdf.com
   - DOMAIN-SUFFIX,best-pharmacy.to
   - DOMAIN-SUFFIX,best-sauna.org
   - DOMAIN-SUFFIX,best-shop-it.com
@@ -3211,6 +3216,7 @@ payload:
   - DOMAIN-SUFFIX,bestes-brennholz-pellets.de
   - DOMAIN-SUFFIX,bestesangebot24.de
   - DOMAIN-SUFFIX,besteschlaftabletten.com
+  - DOMAIN-SUFFIX,bestestrikot.com
   - DOMAIN-SUFFIX,besteuhren.io
   - DOMAIN-SUFFIX,besteuhren.to
   - DOMAIN-SUFFIX,besteware24.de
@@ -3482,7 +3488,6 @@ payload:
   - DOMAIN-SUFFIX,bitcoin-everest-ai.fr
   - DOMAIN-SUFFIX,bitcoin-pharmacy.com
   - DOMAIN-SUFFIX,bitcoin-revolution.org
-  - DOMAIN-SUFFIX,bitcoin-up.io
   - DOMAIN-SUFFIX,bitcoin-xact.fr
   - DOMAIN-SUFFIX,bitcoinarchon.com
   - DOMAIN-SUFFIX,bitcoineer.ai
@@ -4184,7 +4189,6 @@ payload:
   - DOMAIN-SUFFIX,camptool-shop.com
   - DOMAIN-SUFFIX,camuya.shop
   - DOMAIN-SUFFIX,canada-pharmacy-24h.com
-  - DOMAIN-SUFFIX,canadadrugstore.com
   - DOMAIN-SUFFIX,canadanewsreport.com
   - DOMAIN-SUFFIX,canadapharmacypro.com
   - DOMAIN-SUFFIX,canadapharmacytrust.net
@@ -5138,6 +5142,7 @@ payload:
   - DOMAIN-SUFFIX,container-sodex.com
   - DOMAIN-SUFFIX,containerbike.de
   - DOMAIN-SUFFIX,containerbikes.de
+  - DOMAIN-SUFFIX,containerdhggmbh.de
   - DOMAIN-SUFFIX,containerdienst-aur.de
   - DOMAIN-SUFFIX,containerdienstheiliggmbh.de
   - DOMAIN-SUFFIX,containergierichgmbh.de
@@ -5202,6 +5207,7 @@ payload:
   - DOMAIN-SUFFIX,corevitalnutraceuticals.com
   - DOMAIN-SUFFIX,corisfinance.com
   - DOMAIN-SUFFIX,corkandopop.shop
+  - DOMAIN-SUFFIX,corpagenesis-fr.net
   - DOMAIN-SUFFIX,corporationw.com
   - DOMAIN-SUFFIX,corralwestboot.com
   - DOMAIN-SUFFIX,correctedcode.com
@@ -5752,6 +5758,7 @@ payload:
   - DOMAIN-SUFFIX,decknetwork.net
   - DOMAIN-SUFFIX,decohousely.com
   - DOMAIN-SUFFIX,decokento.com
+  - DOMAIN-SUFFIX,deconestprolab.com
   - DOMAIN-SUFFIX,decoopy.com
   - DOMAIN-SUFFIX,decor-muse.com
   - DOMAIN-SUFFIX,decoratetheroom.com
@@ -6791,6 +6798,7 @@ payload:
   - DOMAIN-SUFFIX,elevus.de
   - DOMAIN-SUFFIX,elfbarsvape.com
   - DOMAIN-SUFFIX,elffreundeshop.de
+  - DOMAIN-SUFFIX,eliovence.com
   - DOMAIN-SUFFIX,elipolyse.de
   - DOMAIN-SUFFIX,elisabethwien.at
   - DOMAIN-SUFFIX,elisabethwien.com
@@ -7019,6 +7027,7 @@ payload:
   - DOMAIN-SUFFIX,erzgebirger-uhrwerk.com
   - DOMAIN-SUFFIX,es-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,es-consult.net
+  - DOMAIN-SUFFIX,es-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,es.landofm.com
   - DOMAIN-SUFFIX,esbboisdechauffage.com
   - DOMAIN-SUFFIX,esco-tools.com
@@ -7701,7 +7710,6 @@ payload:
   - DOMAIN-SUFFIX,festgeldsicher.at
   - DOMAIN-SUFFIX,festivaldefrente.com
   - DOMAIN-SUFFIX,festoolz.shop
-  - DOMAIN-SUFFIX,fetishmegastore.com
   - DOMAIN-SUFFIX,fettabsaugung-in-koeln.de
   - DOMAIN-SUFFIX,fettverbrenneronline.com
   - DOMAIN-SUFFIX,feuchtigkeits.de
@@ -8300,6 +8308,7 @@ payload:
   - DOMAIN-SUFFIX,fuehrungszeugnis.at
   - DOMAIN-SUFFIX,fuelglovet.com
   - DOMAIN-SUFFIX,fuelmeister.de
+  - DOMAIN-SUFFIX,fugespace.com
   - DOMAIN-SUFFIX,fuggler.at
   - DOMAIN-SUFFIX,fuhrerschein-kaufenonline.com
   - DOMAIN-SUFFIX,fuhrmann.store
@@ -9922,7 +9931,6 @@ payload:
   - DOMAIN-SUFFIX,hgtyfd.shop
   - DOMAIN-SUFFIX,hi-goeedoo.com
   - DOMAIN-SUFFIX,hibote.de
-  - DOMAIN-SUFFIX,hicity.de
   - DOMAIN-SUFFIX,hico-shop.de
   - DOMAIN-SUFFIX,hiddenbarandgrill.com
   - DOMAIN-SUFFIX,hiddenhertz.com
@@ -10094,6 +10102,7 @@ payload:
   - DOMAIN-SUFFIX,holzhausenug.de
   - DOMAIN-SUFFIX,holzheiz.com
   - DOMAIN-SUFFIX,holzkerssenbrock.de
+  - DOMAIN-SUFFIX,holzklima.de
   - DOMAIN-SUFFIX,holzkraft.pro
   - DOMAIN-SUFFIX,holzlangbau.de
   - DOMAIN-SUFFIX,holzleitnergmbh.de
@@ -10201,6 +10210,7 @@ payload:
   - DOMAIN-SUFFIX,horizontix.de
   - DOMAIN-SUFFIX,hormanns24.de
   - DOMAIN-SUFFIX,hormans.de
+  - DOMAIN-SUFFIX,hornwald.com
   - DOMAIN-SUFFIX,hornwald.de
   - DOMAIN-SUFFIX,horstseefeld.de
   - DOMAIN-SUFFIX,hortmann-gesetz.de
@@ -10403,8 +10413,6 @@ payload:
   - DOMAIN-SUFFIX,ibillboard.com
   - DOMAIN-SUFFIX,ibler-elektronik.de
   - DOMAIN-SUFFIX,ibointernational.com
-  - DOMAIN-SUFFIX,ibs.nextlgsdp.com
-  - DOMAIN-SUFFIX,ibsstat.nextlgsdp.com
   - DOMAIN-SUFFIX,icarbuddy.com
   - DOMAIN-SUFFIX,icatautoteile.de
   - DOMAIN-SUFFIX,icebesteck.com
@@ -12545,6 +12553,7 @@ payload:
   - DOMAIN-SUFFIX,lockerdome.com
   - DOMAIN-SUFFIX,lockpickingstore.de
   - DOMAIN-SUFFIX,locmyparcel.com
+  - DOMAIN-SUFFIX,locmyparcel.info
   - DOMAIN-SUFFIX,locolava.com
   - DOMAIN-SUFFIX,locomotivey.com
   - DOMAIN-SUFFIX,lodgeo.shop
@@ -13179,6 +13188,7 @@ payload:
   - DOMAIN-SUFFIX,marketmarkdowns.com
   - DOMAIN-SUFFIX,marketo.com
   - DOMAIN-SUFFIX,marketoptions.com
+  - DOMAIN-SUFFIX,marketorbitlabs.it.com
   - DOMAIN-SUFFIX,marketpills4you.com
   - DOMAIN-SUFFIX,markets-capital.com
   - DOMAIN-SUFFIX,markets-investment.com
@@ -13910,6 +13920,7 @@ payload:
   - DOMAIN-SUFFIX,minoxidil-shop.cz
   - DOMAIN-SUFFIX,minoxidily.eu
   - DOMAIN-SUFFIX,mintchop.com
+  - DOMAIN-SUFFIX,minteech.com
   - DOMAIN-SUFFIX,mintegral.com
   - DOMAIN-SUFFIX,mintfunnel.co
   - DOMAIN-SUFFIX,miraeeparis.de
@@ -14307,6 +14318,7 @@ payload:
   - DOMAIN-SUFFIX,montivo.de
   - DOMAIN-SUFFIX,montmode.de
   - DOMAIN-SUFFIX,montparvie-v-gestion.com
+  - DOMAIN-SUFFIX,montrereplique.to
   - DOMAIN-SUFFIX,monvada.de
   - DOMAIN-SUFFIX,moodcheerful.com
   - DOMAIN-SUFFIX,moodlily.de
@@ -14788,6 +14800,7 @@ payload:
   - DOMAIN-SUFFIX,near-on-chain.de
   - DOMAIN-SUFFIX,neary.de
   - DOMAIN-SUFFIX,neatherlandnewstoday.com
+  - DOMAIN-SUFFIX,nebelrad.de
   - DOMAIN-SUFFIX,nebula-collector.huawei.com
   - DOMAIN-SUFFIX,nebula-witch-power.com
   - DOMAIN-SUFFIX,nebulacrescent.com
@@ -15759,6 +15772,8 @@ payload:
   - DOMAIN-SUFFIX,originalshrvatska.co
   - DOMAIN-SUFFIX,origincrypto.com
   - DOMAIN-SUFFIX,orileda.de
+  - DOMAIN-SUFFIX,orion-warenhandel.com
+  - DOMAIN-SUFFIX,orion-warenhandel.de
   - DOMAIN-SUFFIX,orionember.com
   - DOMAIN-SUFFIX,orivelle-official.com
   - DOMAIN-SUFFIX,orizo.de
@@ -16016,7 +16031,6 @@ payload:
   - DOMAIN-SUFFIX,pandorade.de
   - DOMAIN-SUFFIX,pandorakorut.com
   - DOMAIN-SUFFIX,pandoraringsuk.com
-  - DOMAIN-SUFFIX,pandoras-outlet.com
   - DOMAIN-SUFFIX,panelaeki.de
   - DOMAIN-SUFFIX,pangolin.snssdk.com
   - DOMAIN-SUFFIX,panickypancake.com
@@ -17361,6 +17375,7 @@ payload:
   - DOMAIN-SUFFIX,redirect.pandora.xiaomi.com
   - DOMAIN-SUFFIX,redirectingat.com
   - DOMAIN-SUFFIX,redirectvoluum.com
+  - DOMAIN-SUFFIX,redlich-becker.de
   - DOMAIN-SUFFIX,redrection.pro
   - DOMAIN-SUFFIX,redshell.io
   - DOMAIN-SUFFIX,redstarchain.com
@@ -19183,7 +19198,6 @@ payload:
   - DOMAIN-SUFFIX,soft-handel.de
   - DOMAIN-SUFFIX,softclick.com.br
   - DOMAIN-SUFFIX,softdays-shop.de
-  - DOMAIN-SUFFIX,softelektro.com
   - DOMAIN-SUFFIX,softgarments.com
   - DOMAIN-SUFFIX,softritualsco.shop
   - DOMAIN-SUFFIX,software-onsale.com
@@ -19585,6 +19599,7 @@ payload:
   - DOMAIN-SUFFIX,stabletrader-ai.net
   - DOMAIN-SUFFIX,stack-sonar.com
   - DOMAIN-SUFFIX,stackadapt.com
+  - DOMAIN-SUFFIX,stadlwerk.de
   - DOMAIN-SUFFIX,stadsug.com
   - DOMAIN-SUFFIX,stadtplan-local.com
   - DOMAIN-SUFFIX,staging-analyze.pt.xiaomi.com
@@ -20061,6 +20076,7 @@ payload:
   - DOMAIN-SUFFIX,surveygizmobeacon.s3.amazonaws.com
   - DOMAIN-SUFFIX,suscap-ag.de
   - DOMAIN-SUFFIX,suveneoutlet.com
+  - DOMAIN-SUFFIX,suxxessfx.com
   - DOMAIN-SUFFIX,sv-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,svelton.com
   - DOMAIN-SUFFIX,sverigewind.com
@@ -21660,6 +21676,7 @@ payload:
   - DOMAIN-SUFFIX,userprofile.push.heytapmobi.com
   - DOMAIN-SUFFIX,userreplay.com
   - DOMAIN-SUFFIX,users.maxcluster.net
+  - DOMAIN-SUFFIX,usezazzi.com
   - DOMAIN-SUFFIX,usezunna.com
   - DOMAIN-SUFFIX,usgolfofficial.com
   - DOMAIN-SUFFIX,ushomeshop.com
