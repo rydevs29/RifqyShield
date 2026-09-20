@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-19 02:26:42
-# Total Domains: 23,838
+# Last Updated: 2026-09-20 02:37:07
+# Total Domains: 23,860
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -363,6 +363,7 @@
 0.0.0.0 active-21.com
 0.0.0.0 active-homes.com
 0.0.0.0 activearly.com
+0.0.0.0 activeelectric.net
 0.0.0.0 activeplanetsale.com
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 activity.hybrid.xiaomi.com
@@ -3753,6 +3754,7 @@
 0.0.0.0 boomads.com
 0.0.0.0 boomaya.com
 0.0.0.0 boombooty.de
+0.0.0.0 boomjoo.co
 0.0.0.0 boomtownstreetwear.de
 0.0.0.0 boomtrain.com
 0.0.0.0 boostedbuys.com
@@ -3914,6 +3916,7 @@
 0.0.0.0 brennholzvidos.at
 0.0.0.0 brennholzweber.de
 0.0.0.0 brennholzwerner.de
+0.0.0.0 brennholzwidmann.de
 0.0.0.0 brenstoffe-versand.de
 0.0.0.0 brenuingerde.com
 0.0.0.0 breuer-boutique.de
@@ -4995,6 +4998,7 @@
 0.0.0.0 clustrmaps.com
 0.0.0.0 cm-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 cmchbhopal.com
+0.0.0.0 cmctradingeu.com
 0.0.0.0 cmdt-sales.com
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cms.sec.miui.com
@@ -5770,6 +5774,7 @@
 0.0.0.0 de-orion.site
 0.0.0.0 de-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 de-schmuckens.com
+0.0.0.0 de-shimano.com
 0.0.0.0 de-tonies.com
 0.0.0.0 de-toy.com
 0.0.0.0 de-vivobarefoots.com
@@ -5848,6 +5853,7 @@
 0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
 0.0.0.0 deckcalmn.com
+0.0.0.0 deckeldrauf.com
 0.0.0.0 decknetwork.net
 0.0.0.0 decohousely.com
 0.0.0.0 decokento.com
@@ -5946,6 +5952,7 @@
 0.0.0.0 deinthuleshop.de
 0.0.0.0 deintrikot.at
 0.0.0.0 dejia.shop
+0.0.0.0 dekantier.de
 0.0.0.0 dekhujoshop.com
 0.0.0.0 dekoartikelrabatt.de
 0.0.0.0 dekogoods.de
@@ -6075,6 +6082,7 @@
 0.0.0.0 deutere.com
 0.0.0.0 deutmart.de
 0.0.0.0 deutsch-brennholz.de
+0.0.0.0 deutschapotheke.com
 0.0.0.0 deutschdeal.com
 0.0.0.0 deutsche-energieoptimierungsgesellschaft.com
 0.0.0.0 deutsche-rentenauskunft.de
@@ -6213,6 +6221,7 @@
 0.0.0.0 digitalmarkt.online
 0.0.0.0 digitalshopbolivia.com
 0.0.0.0 digitalstoreme.com
+0.0.0.0 digitalwertezentrum.de
 0.0.0.0 digitax-solutions.de
 0.0.0.0 digitech-shop.com
 0.0.0.0 digitoption.com
@@ -7148,7 +7157,6 @@
 0.0.0.0 erzgebirger-uhrwerk.com
 0.0.0.0 es-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 es-consult.net
-0.0.0.0 es-info-lgsmartad-com.aws-prd.net
 0.0.0.0 es.landofm.com
 0.0.0.0 esbboisdechauffage.com
 0.0.0.0 esco-tools.com
@@ -8082,6 +8090,7 @@
 0.0.0.0 flextshire.com
 0.0.0.0 flidop.com
 0.0.0.0 fliegen-de.de
+0.0.0.0 flimmenpapst.com
 0.0.0.0 flimsycircle.com
 0.0.0.0 flimsythought.com
 0.0.0.0 flipeak.com
@@ -8956,7 +8965,6 @@
 0.0.0.0 get-purisaki.com
 0.0.0.0 get-rc.to
 0.0.0.0 get-teralin.site
-0.0.0.0 get-wuffy.com
 0.0.0.0 getalliny.com
 0.0.0.0 getanswers.net
 0.0.0.0 getclairu.nomshopper.com
@@ -10105,6 +10113,7 @@
 0.0.0.0 heute-horoskope.de
 0.0.0.0 hevia.finance
 0.0.0.0 hexa-tronic.com
+0.0.0.0 hexadistri.com
 0.0.0.0 hexagonresources.org
 0.0.0.0 hexcan.com
 0.0.0.0 hexoil.de
@@ -10441,6 +10450,7 @@
 0.0.0.0 hotelinphuket.net
 0.0.0.0 hotelladen.com
 0.0.0.0 hotels-colombo.com
+0.0.0.0 hotels-colorado.net
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 hotelsofmenorca.com
 0.0.0.0 hotelwareus.com
@@ -12194,6 +12204,7 @@
 0.0.0.0 kz-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 kz-album-api.vivoglobal.com
 0.0.0.0 kz-cname-sin01-bigdata.vivoglobal.com
+0.0.0.0 kz-cota.vivoglobal.com
 0.0.0.0 kz-err-up.vivoglobal.com
 0.0.0.0 kz-monitor-stsdk.vivoglobal.com
 0.0.0.0 kz-onrt-stsdk.vivoglobal.com
@@ -12505,6 +12516,7 @@
 0.0.0.0 lenaskunst.de
 0.0.0.0 lendowl.co
 0.0.0.0 lenimara.at
+0.0.0.0 lenkerclip.com
 0.0.0.0 lennartkreutz.de
 0.0.0.0 lennys-autoteile.at
 0.0.0.0 lenoxsale.com
@@ -13398,6 +13410,7 @@
 0.0.0.0 manzone.store
 0.0.0.0 mapcommand.com
 0.0.0.0 maracleaning.com
+0.0.0.0 marathonasset.com
 0.0.0.0 marbreeze.com
 0.0.0.0 marc-cain-eu.shop
 0.0.0.0 marcant.store
@@ -14763,7 +14776,6 @@
 0.0.0.0 mssdk-quic-sg.tiktokv.com
 0.0.0.0 mssdk-quic-va.tiktokv.com
 0.0.0.0 mssdk-ru.tiktokv.com
-0.0.0.0 mssdk-ru.tiktokv.com.www.digmawifi.com
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.capcutapi.com
@@ -15189,6 +15201,7 @@
 0.0.0.0 neu-elektrofahrrad.com
 0.0.0.0 neu-spielzeug.com
 0.0.0.0 neubeleuchtung.com
+0.0.0.0 neublasinstrumente.com
 0.0.0.0 neubootsladen.com
 0.0.0.0 neudesicmediagroup.com
 0.0.0.0 neue-online-casinos-2026.de
@@ -16185,6 +16198,7 @@
 0.0.0.0 ottoelektro.de
 0.0.0.0 ottoramed.com
 0.0.0.0 ottowhale.com
+0.0.0.0 ouces.heuristicreview.company
 0.0.0.0 oud.sint-janscollege.be
 0.0.0.0 ount.de
 0.0.0.0 our-deals.de
@@ -16303,7 +16317,7 @@
 0.0.0.0 ozkart.com.au
 0.0.0.0 ozpillsdirect.com
 0.0.0.0 p-bau.at
-0.0.0.0 p-ep.com
+0.0.0.0 p-ep.org
 0.0.0.0 p-n.io
 0.0.0.0 p.sec.miui.com
 0.0.0.0 p.www.xiaomi.com
@@ -16507,6 +16521,7 @@
 0.0.0.0 pellet-bio.company.site
 0.0.0.0 pellet-ecos.company.site
 0.0.0.0 pellet-haus.com
+0.0.0.0 pellet-werk.com
 0.0.0.0 pelletkraft.de
 0.0.0.0 pelletopia.de
 0.0.0.0 pelletor.at
@@ -17052,6 +17067,7 @@
 0.0.0.0 prazisemesser.com
 0.0.0.0 prazisionsteile.com
 0.0.0.0 prchecker.info
+0.0.0.0 prd-qlik-telemetry.servicebus.windows.net
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.net
@@ -17623,6 +17639,7 @@
 0.0.0.0 rapunzelhairextension.com
 0.0.0.0 rare404.com
 0.0.0.0 raresummer.com
+0.0.0.0 rascassesas.com
 0.0.0.0 rasen-matt.eu
 0.0.0.0 rasen-profis.de
 0.0.0.0 rasen-traktor.com
@@ -17880,6 +17897,7 @@
 0.0.0.0 replicahause.is
 0.0.0.0 replicakaufen.de
 0.0.0.0 replicareview.io
+0.0.0.0 replicasrelojes.to
 0.0.0.0 replicaswatches.vip
 0.0.0.0 replicauhren.be
 0.0.0.0 replicauhren.kaufen
@@ -17888,6 +17906,7 @@
 0.0.0.0 replicauhrenx.de
 0.0.0.0 replicawatchtr.com
 0.0.0.0 replika-uhr.to
+0.0.0.0 replikuhrenshop.de
 0.0.0.0 report-1.appmetrica.webvisor.com
 0.0.0.0 report-2.appmetrica.webvisor.com
 0.0.0.0 report-eu.uc.heytapmobile.com
@@ -18142,7 +18161,6 @@
 0.0.0.0 rok.com.com
 0.0.0.0 roleo.net
 0.0.0.0 rolex-replica.to
-0.0.0.0 rolexwanduhr.de
 0.0.0.0 rolexyeals.com
 0.0.0.0 rolla.store
 0.0.0.0 rolladen-rudolf.at
@@ -18251,7 +18269,6 @@
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
-0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-ttp2.us.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.tiktokv.com
@@ -19067,7 +19084,6 @@
 0.0.0.0 seveninter.com
 0.0.0.0 seventeenk.com
 0.0.0.0 sexcounter.com
-0.0.0.0 sexicats.com
 0.0.0.0 sexlist.com
 0.0.0.0 sexpuppenkaufen.at
 0.0.0.0 sextracker.com
@@ -20917,6 +20933,7 @@
 0.0.0.0 thanesar.com
 0.0.0.0 thawindy.store
 0.0.0.0 the-bitcoin-bank.com
+0.0.0.0 the-culinology.com
 0.0.0.0 the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 0.0.0.0 the-gentleman.store
 0.0.0.0 the-immediateconnect.com
@@ -21795,6 +21812,7 @@
 0.0.0.0 trustss.com
 0.0.0.0 trustuu.com
 0.0.0.0 trustx.org
+0.0.0.0 trusty-eu.com
 0.0.0.0 trustydealmarket.com
 0.0.0.0 trustytime888.io
 0.0.0.0 truthaboutyem.com
@@ -22339,6 +22357,7 @@
 0.0.0.0 vemoso-shop.de
 0.0.0.0 vendit24.de
 0.0.0.0 venditt24.de
+0.0.0.0 vendome-logistique.com
 0.0.0.0 vendomeprestige.com
 0.0.0.0 vendorhub.store
 0.0.0.0 vendyle.com
@@ -22604,6 +22623,7 @@
 0.0.0.0 vivagopro.com
 0.0.0.0 vivaharmoni.com
 0.0.0.0 vivaia-schuhe.de
+0.0.0.0 vivaiacollection.com
 0.0.0.0 vivaiaschuhe.at
 0.0.0.0 vivaiaschuhe.com
 0.0.0.0 vivaiaschuhe.de
@@ -22735,6 +22755,7 @@
 0.0.0.0 vpu-hilfe.at
 0.0.0.0 vpu-vorbereitung.com
 0.0.0.0 vpu-vorbereitung.online
+0.0.0.0 vpudoktor.com
 0.0.0.0 vpufuchs.com
 0.0.0.0 vputest.online
 0.0.0.0 vq-eu-west-1.amazon-adsystem.com
@@ -23030,6 +23051,7 @@
 0.0.0.0 wemidwestkids.com
 0.0.0.0 wenked.com
 0.0.0.0 wenlicht.de
+0.0.0.0 wenndennpelletsgmbh.de
 0.0.0.0 weram.shop
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wereldparts.net

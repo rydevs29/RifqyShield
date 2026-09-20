@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-19 02:26:42
-# Total Domains: 23,838
+# Last Updated: 2026-09-20 02:37:07
+# Total Domains: 23,860
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -361,6 +361,7 @@
 *.active-21.com
 *.active-homes.com
 *.activearly.com
+*.activeelectric.net
 *.activeplanetsale.com
 *.activity.browser.intl.miui.com
 *.activity.hybrid.xiaomi.com
@@ -3751,6 +3752,7 @@
 *.boomads.com
 *.boomaya.com
 *.boombooty.de
+*.boomjoo.co
 *.boomtownstreetwear.de
 *.boomtrain.com
 *.boostedbuys.com
@@ -3912,6 +3914,7 @@
 *.brennholzvidos.at
 *.brennholzweber.de
 *.brennholzwerner.de
+*.brennholzwidmann.de
 *.brenstoffe-versand.de
 *.brenuingerde.com
 *.breuer-boutique.de
@@ -4993,6 +4996,7 @@
 *.clustrmaps.com
 *.cm-ad-lgsmartad-com.aws-prd.net
 *.cmchbhopal.com
+*.cmctradingeu.com
 *.cmdt-sales.com
 *.cmp.dmgmediaprivacy.co.uk
 *.cms.sec.miui.com
@@ -5768,6 +5772,7 @@
 *.de-orion.site
 *.de-rdx2-lgtvsdp-com.aws-prd.net
 *.de-schmuckens.com
+*.de-shimano.com
 *.de-tonies.com
 *.de-toy.com
 *.de-vivobarefoots.com
@@ -5846,6 +5851,7 @@
 *.decisivebase.com
 *.decisivedrawer.com
 *.deckcalmn.com
+*.deckeldrauf.com
 *.decknetwork.net
 *.decohousely.com
 *.decokento.com
@@ -5944,6 +5950,7 @@
 *.deinthuleshop.de
 *.deintrikot.at
 *.dejia.shop
+*.dekantier.de
 *.dekhujoshop.com
 *.dekoartikelrabatt.de
 *.dekogoods.de
@@ -6073,6 +6080,7 @@
 *.deutere.com
 *.deutmart.de
 *.deutsch-brennholz.de
+*.deutschapotheke.com
 *.deutschdeal.com
 *.deutsche-energieoptimierungsgesellschaft.com
 *.deutsche-rentenauskunft.de
@@ -6211,6 +6219,7 @@
 *.digitalmarkt.online
 *.digitalshopbolivia.com
 *.digitalstoreme.com
+*.digitalwertezentrum.de
 *.digitax-solutions.de
 *.digitech-shop.com
 *.digitoption.com
@@ -7146,7 +7155,6 @@
 *.erzgebirger-uhrwerk.com
 *.es-ad-lgsmartad-com.aws-prd.net
 *.es-consult.net
-*.es-info-lgsmartad-com.aws-prd.net
 *.es.landofm.com
 *.esbboisdechauffage.com
 *.esco-tools.com
@@ -8080,6 +8088,7 @@
 *.flextshire.com
 *.flidop.com
 *.fliegen-de.de
+*.flimmenpapst.com
 *.flimsycircle.com
 *.flimsythought.com
 *.flipeak.com
@@ -8954,7 +8963,6 @@
 *.get-purisaki.com
 *.get-rc.to
 *.get-teralin.site
-*.get-wuffy.com
 *.getalliny.com
 *.getanswers.net
 *.getclairu.nomshopper.com
@@ -10103,6 +10111,7 @@
 *.heute-horoskope.de
 *.hevia.finance
 *.hexa-tronic.com
+*.hexadistri.com
 *.hexagonresources.org
 *.hexcan.com
 *.hexoil.de
@@ -10439,6 +10448,7 @@
 *.hotelinphuket.net
 *.hotelladen.com
 *.hotels-colombo.com
+*.hotels-colorado.net
 *.hotelsinperm.ru
 *.hotelsofmenorca.com
 *.hotelwareus.com
@@ -12192,6 +12202,7 @@
 *.kz-ad-lgsmartad-com.aws-prd.net
 *.kz-album-api.vivoglobal.com
 *.kz-cname-sin01-bigdata.vivoglobal.com
+*.kz-cota.vivoglobal.com
 *.kz-err-up.vivoglobal.com
 *.kz-monitor-stsdk.vivoglobal.com
 *.kz-onrt-stsdk.vivoglobal.com
@@ -12503,6 +12514,7 @@
 *.lenaskunst.de
 *.lendowl.co
 *.lenimara.at
+*.lenkerclip.com
 *.lennartkreutz.de
 *.lennys-autoteile.at
 *.lenoxsale.com
@@ -13396,6 +13408,7 @@
 *.manzone.store
 *.mapcommand.com
 *.maracleaning.com
+*.marathonasset.com
 *.marbreeze.com
 *.marc-cain-eu.shop
 *.marcant.store
@@ -14761,7 +14774,6 @@
 *.mssdk-quic-sg.tiktokv.com
 *.mssdk-quic-va.tiktokv.com
 *.mssdk-ru.tiktokv.com
-*.mssdk-ru.tiktokv.com.www.digmawifi.com
 *.mssdk-sg-bu.byteoversea.com
 *.mssdk-sg.byteoversea.com
 *.mssdk-sg.capcutapi.com
@@ -15187,6 +15199,7 @@
 *.neu-elektrofahrrad.com
 *.neu-spielzeug.com
 *.neubeleuchtung.com
+*.neublasinstrumente.com
 *.neubootsladen.com
 *.neudesicmediagroup.com
 *.neue-online-casinos-2026.de
@@ -16183,6 +16196,7 @@
 *.ottoelektro.de
 *.ottoramed.com
 *.ottowhale.com
+*.ouces.heuristicreview.company
 *.oud.sint-janscollege.be
 *.ount.de
 *.our-deals.de
@@ -16301,7 +16315,7 @@
 *.ozkart.com.au
 *.ozpillsdirect.com
 *.p-bau.at
-*.p-ep.com
+*.p-ep.org
 *.p-n.io
 *.p.sec.miui.com
 *.p.www.xiaomi.com
@@ -16505,6 +16519,7 @@
 *.pellet-bio.company.site
 *.pellet-ecos.company.site
 *.pellet-haus.com
+*.pellet-werk.com
 *.pelletkraft.de
 *.pelletopia.de
 *.pelletor.at
@@ -17050,6 +17065,7 @@
 *.prazisemesser.com
 *.prazisionsteile.com
 *.prchecker.info
+*.prd-qlik-telemetry.servicebus.windows.net
 *.prd-usw2-requestattribution-iad.apple.com
 *.prderrordumphsm.samsungcloudsolution.com
 *.prderrordumpssm.samsungcloudsolution.net
@@ -17621,6 +17637,7 @@
 *.rapunzelhairextension.com
 *.rare404.com
 *.raresummer.com
+*.rascassesas.com
 *.rasen-matt.eu
 *.rasen-profis.de
 *.rasen-traktor.com
@@ -17878,6 +17895,7 @@
 *.replicahause.is
 *.replicakaufen.de
 *.replicareview.io
+*.replicasrelojes.to
 *.replicaswatches.vip
 *.replicauhren.be
 *.replicauhren.kaufen
@@ -17886,6 +17904,7 @@
 *.replicauhrenx.de
 *.replicawatchtr.com
 *.replika-uhr.to
+*.replikuhrenshop.de
 *.report-1.appmetrica.webvisor.com
 *.report-2.appmetrica.webvisor.com
 *.report-eu.uc.heytapmobile.com
@@ -18140,7 +18159,6 @@
 *.rok.com.com
 *.roleo.net
 *.rolex-replica.to
-*.rolexwanduhr.de
 *.rolexyeals.com
 *.rolla.store
 *.rolladen-rudolf.at
@@ -18249,7 +18267,6 @@
 *.rtbpopd.com
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-ie.tiktokv.eu
-*.rtc-logger-ttp2.tiktokv.us
 *.rtc-logger-ttp2.us.tiktokv.com
 *.rtc-logger-va.tiktokv.com
 *.rtc-logger.tiktokv.com
@@ -19065,7 +19082,6 @@
 *.seveninter.com
 *.seventeenk.com
 *.sexcounter.com
-*.sexicats.com
 *.sexlist.com
 *.sexpuppenkaufen.at
 *.sextracker.com
@@ -20915,6 +20931,7 @@
 *.thanesar.com
 *.thawindy.store
 *.the-bitcoin-bank.com
+*.the-culinology.com
 *.the-garden-pavilions-of-sobranie-russian.eshop.t-online.de
 *.the-gentleman.store
 *.the-immediateconnect.com
@@ -21793,6 +21810,7 @@
 *.trustss.com
 *.trustuu.com
 *.trustx.org
+*.trusty-eu.com
 *.trustydealmarket.com
 *.trustytime888.io
 *.truthaboutyem.com
@@ -22337,6 +22355,7 @@
 *.vemoso-shop.de
 *.vendit24.de
 *.venditt24.de
+*.vendome-logistique.com
 *.vendomeprestige.com
 *.vendorhub.store
 *.vendyle.com
@@ -22602,6 +22621,7 @@
 *.vivagopro.com
 *.vivaharmoni.com
 *.vivaia-schuhe.de
+*.vivaiacollection.com
 *.vivaiaschuhe.at
 *.vivaiaschuhe.com
 *.vivaiaschuhe.de
@@ -22733,6 +22753,7 @@
 *.vpu-hilfe.at
 *.vpu-vorbereitung.com
 *.vpu-vorbereitung.online
+*.vpudoktor.com
 *.vpufuchs.com
 *.vputest.online
 *.vq-eu-west-1.amazon-adsystem.com
@@ -23028,6 +23049,7 @@
 *.wemidwestkids.com
 *.wenked.com
 *.wenlicht.de
+*.wenndennpelletsgmbh.de
 *.weram.shop
 *.werbung.meteoxpress.com
 *.wereldparts.net
