@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-20 02:37:07
-# Total Domains: 23,860
+# Last Updated: 2026-09-21 02:34:29
+# Total Domains: 23,858
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -1830,6 +1830,7 @@
 0.0.0.0 analytics.mpay.samsung.com
 0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.myfinance.com
+0.0.0.0 analytics.org.coveo.com
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.phando.com
 0.0.0.0 analytics.picsart.com
@@ -3386,6 +3387,7 @@
 0.0.0.0 bierbankdruckerei.de
 0.0.0.0 biergarten-am-kuenettegraben.de
 0.0.0.0 biergenusswel.com
+0.0.0.0 bierundgarten.de
 0.0.0.0 big-bang-ads.com
 0.0.0.0 bigagnesoutlet.com
 0.0.0.0 bigbangmedia.com
@@ -3534,7 +3536,6 @@
 0.0.0.0 bitcoin-everest-ai.fr
 0.0.0.0 bitcoin-pharmacy.com
 0.0.0.0 bitcoin-revolution.org
-0.0.0.0 bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
 0.0.0.0 bitcoineer.ai
@@ -3917,6 +3918,7 @@
 0.0.0.0 brennholzweber.de
 0.0.0.0 brennholzwerner.de
 0.0.0.0 brennholzwidmann.de
+0.0.0.0 brennstoffemokstat.shop
 0.0.0.0 brenstoffe-versand.de
 0.0.0.0 brenuingerde.com
 0.0.0.0 breuer-boutique.de
@@ -7282,7 +7284,6 @@
 0.0.0.0 eulerian.net
 0.0.0.0 eumarketstores.com
 0.0.0.0 eumeds24.com
-0.0.0.0 eumedz.com
 0.0.0.0 eunits.de
 0.0.0.0 euonlinedeal.shop
 0.0.0.0 euortovox.shop
@@ -7853,6 +7854,7 @@
 0.0.0.0 festgeldsicher.at
 0.0.0.0 festivaldefrente.com
 0.0.0.0 festoolz.shop
+0.0.0.0 fetishmegastore.com
 0.0.0.0 fettabsaugung-in-koeln.de
 0.0.0.0 fettverbrenneronline.com
 0.0.0.0 feuchtigkeits.de
@@ -10136,7 +10138,6 @@
 0.0.0.0 hgtyfd.shop
 0.0.0.0 hi-goeedoo.com
 0.0.0.0 hibote.de
-0.0.0.0 hicity.de
 0.0.0.0 hico-shop.de
 0.0.0.0 hiddenbarandgrill.com
 0.0.0.0 hiddenhertz.com
@@ -10447,7 +10448,6 @@
 0.0.0.0 hotel-krone-muc.de
 0.0.0.0 hotel-seetal.de
 0.0.0.0 hotelaustralien.de
-0.0.0.0 hotelinphuket.net
 0.0.0.0 hotelladen.com
 0.0.0.0 hotels-colombo.com
 0.0.0.0 hotels-colorado.net
@@ -13841,7 +13841,6 @@
 0.0.0.0 medimaxstore.de
 0.0.0.0 medinelle.com
 0.0.0.0 mediplus-berlin.de
-0.0.0.0 medirao.com
 0.0.0.0 medirezept.net
 0.0.0.0 meditatem.com
 0.0.0.0 medivita-de.com
@@ -14660,7 +14659,6 @@
 0.0.0.0 moonwager.com
 0.0.0.0 moonx.io
 0.0.0.0 mooredvazwe.myshopify.com
-0.0.0.0 mooris.de
 0.0.0.0 moosufergarten.de
 0.0.0.0 mooxishop.de
 0.0.0.0 mopub.com
@@ -15939,7 +15937,6 @@
 0.0.0.0 onlinegoodshub.com
 0.0.0.0 onlinehealthworldtrust.com
 0.0.0.0 onlineindiespiele.de
-0.0.0.0 onlinekamagra.com
 0.0.0.0 onlinekamagrastore.org
 0.0.0.0 onlinekohler.com
 0.0.0.0 onlinelearningquality.org
@@ -18161,6 +18158,7 @@
 0.0.0.0 rok.com.com
 0.0.0.0 roleo.net
 0.0.0.0 rolex-replica.to
+0.0.0.0 rolexwanduhr.de
 0.0.0.0 rolexyeals.com
 0.0.0.0 rolla.store
 0.0.0.0 rolladen-rudolf.at
@@ -21812,7 +21810,6 @@
 0.0.0.0 trustss.com
 0.0.0.0 trustuu.com
 0.0.0.0 trustx.org
-0.0.0.0 trusty-eu.com
 0.0.0.0 trustydealmarket.com
 0.0.0.0 trustytime888.io
 0.0.0.0 truthaboutyem.com
@@ -23052,6 +23049,7 @@
 0.0.0.0 wenked.com
 0.0.0.0 wenlicht.de
 0.0.0.0 wenndennpelletsgmbh.de
+0.0.0.0 wensauer-holz.com
 0.0.0.0 weram.shop
 0.0.0.0 werbung.meteoxpress.com
 0.0.0.0 wereldparts.net

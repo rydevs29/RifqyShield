@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-20 02:37:07
-# Total Domains: 23,860
+# Last Updated: 2026-09-21 02:34:29
+# Total Domains: 23,858
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -1829,6 +1829,7 @@ add name="analytics.momentum-institut.at" address=0.0.0.0
 add name="analytics.mpay.samsung.com" address=0.0.0.0
 add name="analytics.msnbc.msn.com" address=0.0.0.0
 add name="analytics.myfinance.com" address=0.0.0.0
+add name="analytics.org.coveo.com" address=0.0.0.0
 add name="analytics.ostr.io" address=0.0.0.0
 add name="analytics.phando.com" address=0.0.0.0
 add name="analytics.picsart.com" address=0.0.0.0
@@ -3385,6 +3386,7 @@ add name="bier-systeme.com" address=0.0.0.0
 add name="bierbankdruckerei.de" address=0.0.0.0
 add name="biergarten-am-kuenettegraben.de" address=0.0.0.0
 add name="biergenusswel.com" address=0.0.0.0
+add name="bierundgarten.de" address=0.0.0.0
 add name="big-bang-ads.com" address=0.0.0.0
 add name="bigagnesoutlet.com" address=0.0.0.0
 add name="bigbangmedia.com" address=0.0.0.0
@@ -3533,7 +3535,6 @@ add name="bitcodeprime.org" address=0.0.0.0
 add name="bitcoin-everest-ai.fr" address=0.0.0.0
 add name="bitcoin-pharmacy.com" address=0.0.0.0
 add name="bitcoin-revolution.org" address=0.0.0.0
-add name="bitcoin-up.io" address=0.0.0.0
 add name="bitcoin-xact.fr" address=0.0.0.0
 add name="bitcoinarchon.com" address=0.0.0.0
 add name="bitcoineer.ai" address=0.0.0.0
@@ -3916,6 +3917,7 @@ add name="brennholzvidos.at" address=0.0.0.0
 add name="brennholzweber.de" address=0.0.0.0
 add name="brennholzwerner.de" address=0.0.0.0
 add name="brennholzwidmann.de" address=0.0.0.0
+add name="brennstoffemokstat.shop" address=0.0.0.0
 add name="brenstoffe-versand.de" address=0.0.0.0
 add name="brenuingerde.com" address=0.0.0.0
 add name="breuer-boutique.de" address=0.0.0.0
@@ -7281,7 +7283,6 @@ add name="eule1.pmu.fr" address=0.0.0.0
 add name="eulerian.net" address=0.0.0.0
 add name="eumarketstores.com" address=0.0.0.0
 add name="eumeds24.com" address=0.0.0.0
-add name="eumedz.com" address=0.0.0.0
 add name="eunits.de" address=0.0.0.0
 add name="euonlinedeal.shop" address=0.0.0.0
 add name="euortovox.shop" address=0.0.0.0
@@ -7852,6 +7853,7 @@ add name="festgeldfinder.de" address=0.0.0.0
 add name="festgeldsicher.at" address=0.0.0.0
 add name="festivaldefrente.com" address=0.0.0.0
 add name="festoolz.shop" address=0.0.0.0
+add name="fetishmegastore.com" address=0.0.0.0
 add name="fettabsaugung-in-koeln.de" address=0.0.0.0
 add name="fettverbrenneronline.com" address=0.0.0.0
 add name="feuchtigkeits.de" address=0.0.0.0
@@ -10135,7 +10137,6 @@ add name="hgads.com" address=0.0.0.0
 add name="hgtyfd.shop" address=0.0.0.0
 add name="hi-goeedoo.com" address=0.0.0.0
 add name="hibote.de" address=0.0.0.0
-add name="hicity.de" address=0.0.0.0
 add name="hico-shop.de" address=0.0.0.0
 add name="hiddenbarandgrill.com" address=0.0.0.0
 add name="hiddenhertz.com" address=0.0.0.0
@@ -10446,7 +10447,6 @@ add name="hotel-ds.com" address=0.0.0.0
 add name="hotel-krone-muc.de" address=0.0.0.0
 add name="hotel-seetal.de" address=0.0.0.0
 add name="hotelaustralien.de" address=0.0.0.0
-add name="hotelinphuket.net" address=0.0.0.0
 add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotels-colorado.net" address=0.0.0.0
@@ -13840,7 +13840,6 @@ add name="medilifescience.com" address=0.0.0.0
 add name="medimaxstore.de" address=0.0.0.0
 add name="medinelle.com" address=0.0.0.0
 add name="mediplus-berlin.de" address=0.0.0.0
-add name="medirao.com" address=0.0.0.0
 add name="medirezept.net" address=0.0.0.0
 add name="meditatem.com" address=0.0.0.0
 add name="medivita-de.com" address=0.0.0.0
@@ -14659,7 +14658,6 @@ add name="moontod.com" address=0.0.0.0
 add name="moonwager.com" address=0.0.0.0
 add name="moonx.io" address=0.0.0.0
 add name="mooredvazwe.myshopify.com" address=0.0.0.0
-add name="mooris.de" address=0.0.0.0
 add name="moosufergarten.de" address=0.0.0.0
 add name="mooxishop.de" address=0.0.0.0
 add name="mopub.com" address=0.0.0.0
@@ -15938,7 +15936,6 @@ add name="onlinegearwrench.com" address=0.0.0.0
 add name="onlinegoodshub.com" address=0.0.0.0
 add name="onlinehealthworldtrust.com" address=0.0.0.0
 add name="onlineindiespiele.de" address=0.0.0.0
-add name="onlinekamagra.com" address=0.0.0.0
 add name="onlinekamagrastore.org" address=0.0.0.0
 add name="onlinekohler.com" address=0.0.0.0
 add name="onlinelearningquality.org" address=0.0.0.0
@@ -18160,6 +18157,7 @@ add name="roinvest.net" address=0.0.0.0
 add name="rok.com.com" address=0.0.0.0
 add name="roleo.net" address=0.0.0.0
 add name="rolex-replica.to" address=0.0.0.0
+add name="rolexwanduhr.de" address=0.0.0.0
 add name="rolexyeals.com" address=0.0.0.0
 add name="rolla.store" address=0.0.0.0
 add name="rolladen-rudolf.at" address=0.0.0.0
@@ -21811,7 +21809,6 @@ add name="trustpharmsonline.com" address=0.0.0.0
 add name="trustss.com" address=0.0.0.0
 add name="trustuu.com" address=0.0.0.0
 add name="trustx.org" address=0.0.0.0
-add name="trusty-eu.com" address=0.0.0.0
 add name="trustydealmarket.com" address=0.0.0.0
 add name="trustytime888.io" address=0.0.0.0
 add name="truthaboutyem.com" address=0.0.0.0
@@ -23051,6 +23048,7 @@ add name="wemidwestkids.com" address=0.0.0.0
 add name="wenked.com" address=0.0.0.0
 add name="wenlicht.de" address=0.0.0.0
 add name="wenndennpelletsgmbh.de" address=0.0.0.0
+add name="wensauer-holz.com" address=0.0.0.0
 add name="weram.shop" address=0.0.0.0
 add name="werbung.meteoxpress.com" address=0.0.0.0
 add name="wereldparts.net" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-20 02:37:07
-# Total Domains: 23,860
+# Last Updated: 2026-09-21 02:34:29
+# Total Domains: 23,858
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -1828,6 +1828,7 @@ DOMAIN-SUFFIX,analytics.momentum-institut.at,REJECT
 DOMAIN-SUFFIX,analytics.mpay.samsung.com,REJECT
 DOMAIN-SUFFIX,analytics.msnbc.msn.com,REJECT
 DOMAIN-SUFFIX,analytics.myfinance.com,REJECT
+DOMAIN-SUFFIX,analytics.org.coveo.com,REJECT
 DOMAIN-SUFFIX,analytics.ostr.io,REJECT
 DOMAIN-SUFFIX,analytics.phando.com,REJECT
 DOMAIN-SUFFIX,analytics.picsart.com,REJECT
@@ -3384,6 +3385,7 @@ DOMAIN-SUFFIX,bier-systeme.com,REJECT
 DOMAIN-SUFFIX,bierbankdruckerei.de,REJECT
 DOMAIN-SUFFIX,biergarten-am-kuenettegraben.de,REJECT
 DOMAIN-SUFFIX,biergenusswel.com,REJECT
+DOMAIN-SUFFIX,bierundgarten.de,REJECT
 DOMAIN-SUFFIX,big-bang-ads.com,REJECT
 DOMAIN-SUFFIX,bigagnesoutlet.com,REJECT
 DOMAIN-SUFFIX,bigbangmedia.com,REJECT
@@ -3532,7 +3534,6 @@ DOMAIN-SUFFIX,bitcodeprime.org,REJECT
 DOMAIN-SUFFIX,bitcoin-everest-ai.fr,REJECT
 DOMAIN-SUFFIX,bitcoin-pharmacy.com,REJECT
 DOMAIN-SUFFIX,bitcoin-revolution.org,REJECT
-DOMAIN-SUFFIX,bitcoin-up.io,REJECT
 DOMAIN-SUFFIX,bitcoin-xact.fr,REJECT
 DOMAIN-SUFFIX,bitcoinarchon.com,REJECT
 DOMAIN-SUFFIX,bitcoineer.ai,REJECT
@@ -3915,6 +3916,7 @@ DOMAIN-SUFFIX,brennholzvidos.at,REJECT
 DOMAIN-SUFFIX,brennholzweber.de,REJECT
 DOMAIN-SUFFIX,brennholzwerner.de,REJECT
 DOMAIN-SUFFIX,brennholzwidmann.de,REJECT
+DOMAIN-SUFFIX,brennstoffemokstat.shop,REJECT
 DOMAIN-SUFFIX,brenstoffe-versand.de,REJECT
 DOMAIN-SUFFIX,brenuingerde.com,REJECT
 DOMAIN-SUFFIX,breuer-boutique.de,REJECT
@@ -7280,7 +7282,6 @@ DOMAIN-SUFFIX,eule1.pmu.fr,REJECT
 DOMAIN-SUFFIX,eulerian.net,REJECT
 DOMAIN-SUFFIX,eumarketstores.com,REJECT
 DOMAIN-SUFFIX,eumeds24.com,REJECT
-DOMAIN-SUFFIX,eumedz.com,REJECT
 DOMAIN-SUFFIX,eunits.de,REJECT
 DOMAIN-SUFFIX,euonlinedeal.shop,REJECT
 DOMAIN-SUFFIX,euortovox.shop,REJECT
@@ -7851,6 +7852,7 @@ DOMAIN-SUFFIX,festgeldfinder.de,REJECT
 DOMAIN-SUFFIX,festgeldsicher.at,REJECT
 DOMAIN-SUFFIX,festivaldefrente.com,REJECT
 DOMAIN-SUFFIX,festoolz.shop,REJECT
+DOMAIN-SUFFIX,fetishmegastore.com,REJECT
 DOMAIN-SUFFIX,fettabsaugung-in-koeln.de,REJECT
 DOMAIN-SUFFIX,fettverbrenneronline.com,REJECT
 DOMAIN-SUFFIX,feuchtigkeits.de,REJECT
@@ -10134,7 +10136,6 @@ DOMAIN-SUFFIX,hgads.com,REJECT
 DOMAIN-SUFFIX,hgtyfd.shop,REJECT
 DOMAIN-SUFFIX,hi-goeedoo.com,REJECT
 DOMAIN-SUFFIX,hibote.de,REJECT
-DOMAIN-SUFFIX,hicity.de,REJECT
 DOMAIN-SUFFIX,hico-shop.de,REJECT
 DOMAIN-SUFFIX,hiddenbarandgrill.com,REJECT
 DOMAIN-SUFFIX,hiddenhertz.com,REJECT
@@ -10445,7 +10446,6 @@ DOMAIN-SUFFIX,hotel-ds.com,REJECT
 DOMAIN-SUFFIX,hotel-krone-muc.de,REJECT
 DOMAIN-SUFFIX,hotel-seetal.de,REJECT
 DOMAIN-SUFFIX,hotelaustralien.de,REJECT
-DOMAIN-SUFFIX,hotelinphuket.net,REJECT
 DOMAIN-SUFFIX,hotelladen.com,REJECT
 DOMAIN-SUFFIX,hotels-colombo.com,REJECT
 DOMAIN-SUFFIX,hotels-colorado.net,REJECT
@@ -13839,7 +13839,6 @@ DOMAIN-SUFFIX,medilifescience.com,REJECT
 DOMAIN-SUFFIX,medimaxstore.de,REJECT
 DOMAIN-SUFFIX,medinelle.com,REJECT
 DOMAIN-SUFFIX,mediplus-berlin.de,REJECT
-DOMAIN-SUFFIX,medirao.com,REJECT
 DOMAIN-SUFFIX,medirezept.net,REJECT
 DOMAIN-SUFFIX,meditatem.com,REJECT
 DOMAIN-SUFFIX,medivita-de.com,REJECT
@@ -14658,7 +14657,6 @@ DOMAIN-SUFFIX,moontod.com,REJECT
 DOMAIN-SUFFIX,moonwager.com,REJECT
 DOMAIN-SUFFIX,moonx.io,REJECT
 DOMAIN-SUFFIX,mooredvazwe.myshopify.com,REJECT
-DOMAIN-SUFFIX,mooris.de,REJECT
 DOMAIN-SUFFIX,moosufergarten.de,REJECT
 DOMAIN-SUFFIX,mooxishop.de,REJECT
 DOMAIN-SUFFIX,mopub.com,REJECT
@@ -15937,7 +15935,6 @@ DOMAIN-SUFFIX,onlinegearwrench.com,REJECT
 DOMAIN-SUFFIX,onlinegoodshub.com,REJECT
 DOMAIN-SUFFIX,onlinehealthworldtrust.com,REJECT
 DOMAIN-SUFFIX,onlineindiespiele.de,REJECT
-DOMAIN-SUFFIX,onlinekamagra.com,REJECT
 DOMAIN-SUFFIX,onlinekamagrastore.org,REJECT
 DOMAIN-SUFFIX,onlinekohler.com,REJECT
 DOMAIN-SUFFIX,onlinelearningquality.org,REJECT
@@ -18159,6 +18156,7 @@ DOMAIN-SUFFIX,roinvest.net,REJECT
 DOMAIN-SUFFIX,rok.com.com,REJECT
 DOMAIN-SUFFIX,roleo.net,REJECT
 DOMAIN-SUFFIX,rolex-replica.to,REJECT
+DOMAIN-SUFFIX,rolexwanduhr.de,REJECT
 DOMAIN-SUFFIX,rolexyeals.com,REJECT
 DOMAIN-SUFFIX,rolla.store,REJECT
 DOMAIN-SUFFIX,rolladen-rudolf.at,REJECT
@@ -21810,7 +21808,6 @@ DOMAIN-SUFFIX,trustpharmsonline.com,REJECT
 DOMAIN-SUFFIX,trustss.com,REJECT
 DOMAIN-SUFFIX,trustuu.com,REJECT
 DOMAIN-SUFFIX,trustx.org,REJECT
-DOMAIN-SUFFIX,trusty-eu.com,REJECT
 DOMAIN-SUFFIX,trustydealmarket.com,REJECT
 DOMAIN-SUFFIX,trustytime888.io,REJECT
 DOMAIN-SUFFIX,truthaboutyem.com,REJECT
@@ -23050,6 +23047,7 @@ DOMAIN-SUFFIX,wemidwestkids.com,REJECT
 DOMAIN-SUFFIX,wenked.com,REJECT
 DOMAIN-SUFFIX,wenlicht.de,REJECT
 DOMAIN-SUFFIX,wenndennpelletsgmbh.de,REJECT
+DOMAIN-SUFFIX,wensauer-holz.com,REJECT
 DOMAIN-SUFFIX,weram.shop,REJECT
 DOMAIN-SUFFIX,werbung.meteoxpress.com,REJECT
 DOMAIN-SUFFIX,wereldparts.net,REJECT

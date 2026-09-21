@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-09-20 02:37:07
-! Total Domains: 23,860
+! Last Updated: 2026-09-21 02:34:29
+! Total Domains: 23,858
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -1828,6 +1828,7 @@
 ||analytics.mpay.samsung.com^
 ||analytics.msnbc.msn.com^
 ||analytics.myfinance.com^
+||analytics.org.coveo.com^
 ||analytics.ostr.io^
 ||analytics.phando.com^
 ||analytics.picsart.com^
@@ -3384,6 +3385,7 @@
 ||bierbankdruckerei.de^
 ||biergarten-am-kuenettegraben.de^
 ||biergenusswel.com^
+||bierundgarten.de^
 ||big-bang-ads.com^
 ||bigagnesoutlet.com^
 ||bigbangmedia.com^
@@ -3532,7 +3534,6 @@
 ||bitcoin-everest-ai.fr^
 ||bitcoin-pharmacy.com^
 ||bitcoin-revolution.org^
-||bitcoin-up.io^
 ||bitcoin-xact.fr^
 ||bitcoinarchon.com^
 ||bitcoineer.ai^
@@ -3915,6 +3916,7 @@
 ||brennholzweber.de^
 ||brennholzwerner.de^
 ||brennholzwidmann.de^
+||brennstoffemokstat.shop^
 ||brenstoffe-versand.de^
 ||brenuingerde.com^
 ||breuer-boutique.de^
@@ -7280,7 +7282,6 @@
 ||eulerian.net^
 ||eumarketstores.com^
 ||eumeds24.com^
-||eumedz.com^
 ||eunits.de^
 ||euonlinedeal.shop^
 ||euortovox.shop^
@@ -7851,6 +7852,7 @@
 ||festgeldsicher.at^
 ||festivaldefrente.com^
 ||festoolz.shop^
+||fetishmegastore.com^
 ||fettabsaugung-in-koeln.de^
 ||fettverbrenneronline.com^
 ||feuchtigkeits.de^
@@ -10134,7 +10136,6 @@
 ||hgtyfd.shop^
 ||hi-goeedoo.com^
 ||hibote.de^
-||hicity.de^
 ||hico-shop.de^
 ||hiddenbarandgrill.com^
 ||hiddenhertz.com^
@@ -10445,7 +10446,6 @@
 ||hotel-krone-muc.de^
 ||hotel-seetal.de^
 ||hotelaustralien.de^
-||hotelinphuket.net^
 ||hotelladen.com^
 ||hotels-colombo.com^
 ||hotels-colorado.net^
@@ -13839,7 +13839,6 @@
 ||medimaxstore.de^
 ||medinelle.com^
 ||mediplus-berlin.de^
-||medirao.com^
 ||medirezept.net^
 ||meditatem.com^
 ||medivita-de.com^
@@ -14658,7 +14657,6 @@
 ||moonwager.com^
 ||moonx.io^
 ||mooredvazwe.myshopify.com^
-||mooris.de^
 ||moosufergarten.de^
 ||mooxishop.de^
 ||mopub.com^
@@ -15937,7 +15935,6 @@
 ||onlinegoodshub.com^
 ||onlinehealthworldtrust.com^
 ||onlineindiespiele.de^
-||onlinekamagra.com^
 ||onlinekamagrastore.org^
 ||onlinekohler.com^
 ||onlinelearningquality.org^
@@ -18159,6 +18156,7 @@
 ||rok.com.com^
 ||roleo.net^
 ||rolex-replica.to^
+||rolexwanduhr.de^
 ||rolexyeals.com^
 ||rolla.store^
 ||rolladen-rudolf.at^
@@ -21810,7 +21808,6 @@
 ||trustss.com^
 ||trustuu.com^
 ||trustx.org^
-||trusty-eu.com^
 ||trustydealmarket.com^
 ||trustytime888.io^
 ||truthaboutyem.com^
@@ -23050,6 +23047,7 @@
 ||wenked.com^
 ||wenlicht.de^
 ||wenndennpelletsgmbh.de^
+||wensauer-holz.com^
 ||weram.shop^
 ||werbung.meteoxpress.com^
 ||wereldparts.net^

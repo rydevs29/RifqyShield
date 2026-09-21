@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-20 02:37:07
-# Total Domains: 23,860
+# Last Updated: 2026-09-21 02:34:29
+# Total Domains: 23,858
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -1829,6 +1829,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.mpay.samsung.com
   - DOMAIN-SUFFIX,analytics.msnbc.msn.com
   - DOMAIN-SUFFIX,analytics.myfinance.com
+  - DOMAIN-SUFFIX,analytics.org.coveo.com
   - DOMAIN-SUFFIX,analytics.ostr.io
   - DOMAIN-SUFFIX,analytics.phando.com
   - DOMAIN-SUFFIX,analytics.picsart.com
@@ -3385,6 +3386,7 @@ payload:
   - DOMAIN-SUFFIX,bierbankdruckerei.de
   - DOMAIN-SUFFIX,biergarten-am-kuenettegraben.de
   - DOMAIN-SUFFIX,biergenusswel.com
+  - DOMAIN-SUFFIX,bierundgarten.de
   - DOMAIN-SUFFIX,big-bang-ads.com
   - DOMAIN-SUFFIX,bigagnesoutlet.com
   - DOMAIN-SUFFIX,bigbangmedia.com
@@ -3533,7 +3535,6 @@ payload:
   - DOMAIN-SUFFIX,bitcoin-everest-ai.fr
   - DOMAIN-SUFFIX,bitcoin-pharmacy.com
   - DOMAIN-SUFFIX,bitcoin-revolution.org
-  - DOMAIN-SUFFIX,bitcoin-up.io
   - DOMAIN-SUFFIX,bitcoin-xact.fr
   - DOMAIN-SUFFIX,bitcoinarchon.com
   - DOMAIN-SUFFIX,bitcoineer.ai
@@ -3916,6 +3917,7 @@ payload:
   - DOMAIN-SUFFIX,brennholzweber.de
   - DOMAIN-SUFFIX,brennholzwerner.de
   - DOMAIN-SUFFIX,brennholzwidmann.de
+  - DOMAIN-SUFFIX,brennstoffemokstat.shop
   - DOMAIN-SUFFIX,brenstoffe-versand.de
   - DOMAIN-SUFFIX,brenuingerde.com
   - DOMAIN-SUFFIX,breuer-boutique.de
@@ -7281,7 +7283,6 @@ payload:
   - DOMAIN-SUFFIX,eulerian.net
   - DOMAIN-SUFFIX,eumarketstores.com
   - DOMAIN-SUFFIX,eumeds24.com
-  - DOMAIN-SUFFIX,eumedz.com
   - DOMAIN-SUFFIX,eunits.de
   - DOMAIN-SUFFIX,euonlinedeal.shop
   - DOMAIN-SUFFIX,euortovox.shop
@@ -7852,6 +7853,7 @@ payload:
   - DOMAIN-SUFFIX,festgeldsicher.at
   - DOMAIN-SUFFIX,festivaldefrente.com
   - DOMAIN-SUFFIX,festoolz.shop
+  - DOMAIN-SUFFIX,fetishmegastore.com
   - DOMAIN-SUFFIX,fettabsaugung-in-koeln.de
   - DOMAIN-SUFFIX,fettverbrenneronline.com
   - DOMAIN-SUFFIX,feuchtigkeits.de
@@ -10135,7 +10137,6 @@ payload:
   - DOMAIN-SUFFIX,hgtyfd.shop
   - DOMAIN-SUFFIX,hi-goeedoo.com
   - DOMAIN-SUFFIX,hibote.de
-  - DOMAIN-SUFFIX,hicity.de
   - DOMAIN-SUFFIX,hico-shop.de
   - DOMAIN-SUFFIX,hiddenbarandgrill.com
   - DOMAIN-SUFFIX,hiddenhertz.com
@@ -10446,7 +10447,6 @@ payload:
   - DOMAIN-SUFFIX,hotel-krone-muc.de
   - DOMAIN-SUFFIX,hotel-seetal.de
   - DOMAIN-SUFFIX,hotelaustralien.de
-  - DOMAIN-SUFFIX,hotelinphuket.net
   - DOMAIN-SUFFIX,hotelladen.com
   - DOMAIN-SUFFIX,hotels-colombo.com
   - DOMAIN-SUFFIX,hotels-colorado.net
@@ -13840,7 +13840,6 @@ payload:
   - DOMAIN-SUFFIX,medimaxstore.de
   - DOMAIN-SUFFIX,medinelle.com
   - DOMAIN-SUFFIX,mediplus-berlin.de
-  - DOMAIN-SUFFIX,medirao.com
   - DOMAIN-SUFFIX,medirezept.net
   - DOMAIN-SUFFIX,meditatem.com
   - DOMAIN-SUFFIX,medivita-de.com
@@ -14659,7 +14658,6 @@ payload:
   - DOMAIN-SUFFIX,moonwager.com
   - DOMAIN-SUFFIX,moonx.io
   - DOMAIN-SUFFIX,mooredvazwe.myshopify.com
-  - DOMAIN-SUFFIX,mooris.de
   - DOMAIN-SUFFIX,moosufergarten.de
   - DOMAIN-SUFFIX,mooxishop.de
   - DOMAIN-SUFFIX,mopub.com
@@ -15938,7 +15936,6 @@ payload:
   - DOMAIN-SUFFIX,onlinegoodshub.com
   - DOMAIN-SUFFIX,onlinehealthworldtrust.com
   - DOMAIN-SUFFIX,onlineindiespiele.de
-  - DOMAIN-SUFFIX,onlinekamagra.com
   - DOMAIN-SUFFIX,onlinekamagrastore.org
   - DOMAIN-SUFFIX,onlinekohler.com
   - DOMAIN-SUFFIX,onlinelearningquality.org
@@ -18160,6 +18157,7 @@ payload:
   - DOMAIN-SUFFIX,rok.com.com
   - DOMAIN-SUFFIX,roleo.net
   - DOMAIN-SUFFIX,rolex-replica.to
+  - DOMAIN-SUFFIX,rolexwanduhr.de
   - DOMAIN-SUFFIX,rolexyeals.com
   - DOMAIN-SUFFIX,rolla.store
   - DOMAIN-SUFFIX,rolladen-rudolf.at
@@ -21811,7 +21809,6 @@ payload:
   - DOMAIN-SUFFIX,trustss.com
   - DOMAIN-SUFFIX,trustuu.com
   - DOMAIN-SUFFIX,trustx.org
-  - DOMAIN-SUFFIX,trusty-eu.com
   - DOMAIN-SUFFIX,trustydealmarket.com
   - DOMAIN-SUFFIX,trustytime888.io
   - DOMAIN-SUFFIX,truthaboutyem.com
@@ -23051,6 +23048,7 @@ payload:
   - DOMAIN-SUFFIX,wenked.com
   - DOMAIN-SUFFIX,wenlicht.de
   - DOMAIN-SUFFIX,wenndennpelletsgmbh.de
+  - DOMAIN-SUFFIX,wensauer-holz.com
   - DOMAIN-SUFFIX,weram.shop
   - DOMAIN-SUFFIX,werbung.meteoxpress.com
   - DOMAIN-SUFFIX,wereldparts.net

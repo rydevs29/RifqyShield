@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-20 02:37:07
-# Total Domains: 23,860
+# Last Updated: 2026-09-21 02:34:29
+# Total Domains: 23,858
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -1828,6 +1828,7 @@ HOST-SUFFIX,analytics.momentum-institut.at,reject
 HOST-SUFFIX,analytics.mpay.samsung.com,reject
 HOST-SUFFIX,analytics.msnbc.msn.com,reject
 HOST-SUFFIX,analytics.myfinance.com,reject
+HOST-SUFFIX,analytics.org.coveo.com,reject
 HOST-SUFFIX,analytics.ostr.io,reject
 HOST-SUFFIX,analytics.phando.com,reject
 HOST-SUFFIX,analytics.picsart.com,reject
@@ -3384,6 +3385,7 @@ HOST-SUFFIX,bier-systeme.com,reject
 HOST-SUFFIX,bierbankdruckerei.de,reject
 HOST-SUFFIX,biergarten-am-kuenettegraben.de,reject
 HOST-SUFFIX,biergenusswel.com,reject
+HOST-SUFFIX,bierundgarten.de,reject
 HOST-SUFFIX,big-bang-ads.com,reject
 HOST-SUFFIX,bigagnesoutlet.com,reject
 HOST-SUFFIX,bigbangmedia.com,reject
@@ -3532,7 +3534,6 @@ HOST-SUFFIX,bitcodeprime.org,reject
 HOST-SUFFIX,bitcoin-everest-ai.fr,reject
 HOST-SUFFIX,bitcoin-pharmacy.com,reject
 HOST-SUFFIX,bitcoin-revolution.org,reject
-HOST-SUFFIX,bitcoin-up.io,reject
 HOST-SUFFIX,bitcoin-xact.fr,reject
 HOST-SUFFIX,bitcoinarchon.com,reject
 HOST-SUFFIX,bitcoineer.ai,reject
@@ -3915,6 +3916,7 @@ HOST-SUFFIX,brennholzvidos.at,reject
 HOST-SUFFIX,brennholzweber.de,reject
 HOST-SUFFIX,brennholzwerner.de,reject
 HOST-SUFFIX,brennholzwidmann.de,reject
+HOST-SUFFIX,brennstoffemokstat.shop,reject
 HOST-SUFFIX,brenstoffe-versand.de,reject
 HOST-SUFFIX,brenuingerde.com,reject
 HOST-SUFFIX,breuer-boutique.de,reject
@@ -7280,7 +7282,6 @@ HOST-SUFFIX,eule1.pmu.fr,reject
 HOST-SUFFIX,eulerian.net,reject
 HOST-SUFFIX,eumarketstores.com,reject
 HOST-SUFFIX,eumeds24.com,reject
-HOST-SUFFIX,eumedz.com,reject
 HOST-SUFFIX,eunits.de,reject
 HOST-SUFFIX,euonlinedeal.shop,reject
 HOST-SUFFIX,euortovox.shop,reject
@@ -7851,6 +7852,7 @@ HOST-SUFFIX,festgeldfinder.de,reject
 HOST-SUFFIX,festgeldsicher.at,reject
 HOST-SUFFIX,festivaldefrente.com,reject
 HOST-SUFFIX,festoolz.shop,reject
+HOST-SUFFIX,fetishmegastore.com,reject
 HOST-SUFFIX,fettabsaugung-in-koeln.de,reject
 HOST-SUFFIX,fettverbrenneronline.com,reject
 HOST-SUFFIX,feuchtigkeits.de,reject
@@ -10134,7 +10136,6 @@ HOST-SUFFIX,hgads.com,reject
 HOST-SUFFIX,hgtyfd.shop,reject
 HOST-SUFFIX,hi-goeedoo.com,reject
 HOST-SUFFIX,hibote.de,reject
-HOST-SUFFIX,hicity.de,reject
 HOST-SUFFIX,hico-shop.de,reject
 HOST-SUFFIX,hiddenbarandgrill.com,reject
 HOST-SUFFIX,hiddenhertz.com,reject
@@ -10445,7 +10446,6 @@ HOST-SUFFIX,hotel-ds.com,reject
 HOST-SUFFIX,hotel-krone-muc.de,reject
 HOST-SUFFIX,hotel-seetal.de,reject
 HOST-SUFFIX,hotelaustralien.de,reject
-HOST-SUFFIX,hotelinphuket.net,reject
 HOST-SUFFIX,hotelladen.com,reject
 HOST-SUFFIX,hotels-colombo.com,reject
 HOST-SUFFIX,hotels-colorado.net,reject
@@ -13839,7 +13839,6 @@ HOST-SUFFIX,medilifescience.com,reject
 HOST-SUFFIX,medimaxstore.de,reject
 HOST-SUFFIX,medinelle.com,reject
 HOST-SUFFIX,mediplus-berlin.de,reject
-HOST-SUFFIX,medirao.com,reject
 HOST-SUFFIX,medirezept.net,reject
 HOST-SUFFIX,meditatem.com,reject
 HOST-SUFFIX,medivita-de.com,reject
@@ -14658,7 +14657,6 @@ HOST-SUFFIX,moontod.com,reject
 HOST-SUFFIX,moonwager.com,reject
 HOST-SUFFIX,moonx.io,reject
 HOST-SUFFIX,mooredvazwe.myshopify.com,reject
-HOST-SUFFIX,mooris.de,reject
 HOST-SUFFIX,moosufergarten.de,reject
 HOST-SUFFIX,mooxishop.de,reject
 HOST-SUFFIX,mopub.com,reject
@@ -15937,7 +15935,6 @@ HOST-SUFFIX,onlinegearwrench.com,reject
 HOST-SUFFIX,onlinegoodshub.com,reject
 HOST-SUFFIX,onlinehealthworldtrust.com,reject
 HOST-SUFFIX,onlineindiespiele.de,reject
-HOST-SUFFIX,onlinekamagra.com,reject
 HOST-SUFFIX,onlinekamagrastore.org,reject
 HOST-SUFFIX,onlinekohler.com,reject
 HOST-SUFFIX,onlinelearningquality.org,reject
@@ -18159,6 +18156,7 @@ HOST-SUFFIX,roinvest.net,reject
 HOST-SUFFIX,rok.com.com,reject
 HOST-SUFFIX,roleo.net,reject
 HOST-SUFFIX,rolex-replica.to,reject
+HOST-SUFFIX,rolexwanduhr.de,reject
 HOST-SUFFIX,rolexyeals.com,reject
 HOST-SUFFIX,rolla.store,reject
 HOST-SUFFIX,rolladen-rudolf.at,reject
@@ -21810,7 +21808,6 @@ HOST-SUFFIX,trustpharmsonline.com,reject
 HOST-SUFFIX,trustss.com,reject
 HOST-SUFFIX,trustuu.com,reject
 HOST-SUFFIX,trustx.org,reject
-HOST-SUFFIX,trusty-eu.com,reject
 HOST-SUFFIX,trustydealmarket.com,reject
 HOST-SUFFIX,trustytime888.io,reject
 HOST-SUFFIX,truthaboutyem.com,reject
@@ -23050,6 +23047,7 @@ HOST-SUFFIX,wemidwestkids.com,reject
 HOST-SUFFIX,wenked.com,reject
 HOST-SUFFIX,wenlicht.de,reject
 HOST-SUFFIX,wenndennpelletsgmbh.de,reject
+HOST-SUFFIX,wensauer-holz.com,reject
 HOST-SUFFIX,weram.shop,reject
 HOST-SUFFIX,werbung.meteoxpress.com,reject
 HOST-SUFFIX,wereldparts.net,reject

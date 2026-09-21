@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-20 02:37:07
-# Total Domains: 23,860
+# Last Updated: 2026-09-21 02:34:29
+# Total Domains: 23,858
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -1828,6 +1828,7 @@ analytics.momentum-institut.at CNAME .
 analytics.mpay.samsung.com CNAME .
 analytics.msnbc.msn.com CNAME .
 analytics.myfinance.com CNAME .
+analytics.org.coveo.com CNAME .
 analytics.ostr.io CNAME .
 analytics.phando.com CNAME .
 analytics.picsart.com CNAME .
@@ -3384,6 +3385,7 @@ bier-systeme.com CNAME .
 bierbankdruckerei.de CNAME .
 biergarten-am-kuenettegraben.de CNAME .
 biergenusswel.com CNAME .
+bierundgarten.de CNAME .
 big-bang-ads.com CNAME .
 bigagnesoutlet.com CNAME .
 bigbangmedia.com CNAME .
@@ -3532,7 +3534,6 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
-bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -3915,6 +3916,7 @@ brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
 brennholzwidmann.de CNAME .
+brennstoffemokstat.shop CNAME .
 brenstoffe-versand.de CNAME .
 brenuingerde.com CNAME .
 breuer-boutique.de CNAME .
@@ -7280,7 +7282,6 @@ eule1.pmu.fr CNAME .
 eulerian.net CNAME .
 eumarketstores.com CNAME .
 eumeds24.com CNAME .
-eumedz.com CNAME .
 eunits.de CNAME .
 euonlinedeal.shop CNAME .
 euortovox.shop CNAME .
@@ -7851,6 +7852,7 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
+fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -10134,7 +10136,6 @@ hgads.com CNAME .
 hgtyfd.shop CNAME .
 hi-goeedoo.com CNAME .
 hibote.de CNAME .
-hicity.de CNAME .
 hico-shop.de CNAME .
 hiddenbarandgrill.com CNAME .
 hiddenhertz.com CNAME .
@@ -10445,7 +10446,6 @@ hotel-ds.com CNAME .
 hotel-krone-muc.de CNAME .
 hotel-seetal.de CNAME .
 hotelaustralien.de CNAME .
-hotelinphuket.net CNAME .
 hotelladen.com CNAME .
 hotels-colombo.com CNAME .
 hotels-colorado.net CNAME .
@@ -13839,7 +13839,6 @@ medilifescience.com CNAME .
 medimaxstore.de CNAME .
 medinelle.com CNAME .
 mediplus-berlin.de CNAME .
-medirao.com CNAME .
 medirezept.net CNAME .
 meditatem.com CNAME .
 medivita-de.com CNAME .
@@ -14658,7 +14657,6 @@ moontod.com CNAME .
 moonwager.com CNAME .
 moonx.io CNAME .
 mooredvazwe.myshopify.com CNAME .
-mooris.de CNAME .
 moosufergarten.de CNAME .
 mooxishop.de CNAME .
 mopub.com CNAME .
@@ -15937,7 +15935,6 @@ onlinegearwrench.com CNAME .
 onlinegoodshub.com CNAME .
 onlinehealthworldtrust.com CNAME .
 onlineindiespiele.de CNAME .
-onlinekamagra.com CNAME .
 onlinekamagrastore.org CNAME .
 onlinekohler.com CNAME .
 onlinelearningquality.org CNAME .
@@ -18159,6 +18156,7 @@ roinvest.net CNAME .
 rok.com.com CNAME .
 roleo.net CNAME .
 rolex-replica.to CNAME .
+rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
 rolladen-rudolf.at CNAME .
@@ -21810,7 +21808,6 @@ trustpharmsonline.com CNAME .
 trustss.com CNAME .
 trustuu.com CNAME .
 trustx.org CNAME .
-trusty-eu.com CNAME .
 trustydealmarket.com CNAME .
 trustytime888.io CNAME .
 truthaboutyem.com CNAME .
@@ -23050,6 +23047,7 @@ wemidwestkids.com CNAME .
 wenked.com CNAME .
 wenlicht.de CNAME .
 wenndennpelletsgmbh.de CNAME .
+wensauer-holz.com CNAME .
 weram.shop CNAME .
 werbung.meteoxpress.com CNAME .
 wereldparts.net CNAME .
