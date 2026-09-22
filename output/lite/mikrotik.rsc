@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-21 02:34:29
-# Total Domains: 23,858
+# Last Updated: 2026-09-22 02:37:06
+# Total Domains: 23,865
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -1413,6 +1413,7 @@ add name="aim4media.com" address=0.0.0.0
 add name="ainorton.com" address=0.0.0.0
 add name="ainvestments.biz" address=0.0.0.0
 add name="aio-vita.com" address=0.0.0.0
+add name="aios-otel-collector.g.apple.com" address=0.0.0.0
 add name="aipharmaweekly.com" address=0.0.0.0
 add name="air-profits.com" address=0.0.0.0
 add name="air-uposterreich.at" address=0.0.0.0
@@ -3283,6 +3284,7 @@ add name="bestoutlet-tool.com" address=0.0.0.0
 add name="bestpagjkl.com" address=0.0.0.0
 add name="bestpharm-eu.com" address=0.0.0.0
 add name="bestpillpharmacy.com" address=0.0.0.0
+add name="bestpillsnetwork.com" address=0.0.0.0
 add name="bestpricetreatments.com" address=0.0.0.0
 add name="bestproductsonlinestore.com" address=0.0.0.0
 add name="bestprogift.com" address=0.0.0.0
@@ -3336,7 +3338,6 @@ add name="bfmio.com" address=0.0.0.0
 add name="bfmmarkets.com" address=0.0.0.0
 add name="bfmvip.com" address=0.0.0.0
 add name="bforbinary.com" address=0.0.0.0
-add name="bforex.com" address=0.0.0.0
 add name="bftb.org" address=0.0.0.0
 add name="bfxoption.com" address=0.0.0.0
 add name="bg-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -3535,6 +3536,7 @@ add name="bitcodeprime.org" address=0.0.0.0
 add name="bitcoin-everest-ai.fr" address=0.0.0.0
 add name="bitcoin-pharmacy.com" address=0.0.0.0
 add name="bitcoin-revolution.org" address=0.0.0.0
+add name="bitcoin-up.io" address=0.0.0.0
 add name="bitcoin-xact.fr" address=0.0.0.0
 add name="bitcoinarchon.com" address=0.0.0.0
 add name="bitcoineer.ai" address=0.0.0.0
@@ -5844,6 +5846,7 @@ add name="deangelnshop.com" address=0.0.0.0
 add name="deaspierhireworks.works" address=0.0.0.0
 add name="deautorabatt.com" address=0.0.0.0
 add name="debasketball.com" address=0.0.0.0
+add name="debot-maschinen.de" address=0.0.0.0
 add name="dec-visio-telemetry.officeapps.live.com" address=0.0.0.0
 add name="decantersale.com" address=0.0.0.0
 add name="decarba-mann.de" address=0.0.0.0
@@ -7283,6 +7286,7 @@ add name="eule1.pmu.fr" address=0.0.0.0
 add name="eulerian.net" address=0.0.0.0
 add name="eumarketstores.com" address=0.0.0.0
 add name="eumeds24.com" address=0.0.0.0
+add name="eumedz.com" address=0.0.0.0
 add name="eunits.de" address=0.0.0.0
 add name="euonlinedeal.shop" address=0.0.0.0
 add name="euortovox.shop" address=0.0.0.0
@@ -7543,6 +7547,7 @@ add name="f.075756.net" address=0.0.0.0
 add name="f.pie.org" address=0.0.0.0
 add name="f1authentics.shop" address=0.0.0.0
 add name="f7ds.liberation.fr" address=0.0.0.0
+add name="fabecodis.com" address=0.0.0.0
 add name="fabiomontto.com" address=0.0.0.0
 add name="fabric.io" address=0.0.0.0
 add name="fabricatem.com" address=0.0.0.0
@@ -10447,6 +10452,7 @@ add name="hotel-ds.com" address=0.0.0.0
 add name="hotel-krone-muc.de" address=0.0.0.0
 add name="hotel-seetal.de" address=0.0.0.0
 add name="hotelaustralien.de" address=0.0.0.0
+add name="hotelinphuket.net" address=0.0.0.0
 add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotels-colorado.net" address=0.0.0.0
@@ -13149,7 +13155,6 @@ add name="lumawerks.de" address=0.0.0.0
 add name="lumelia-de.com" address=0.0.0.0
 add name="lumendecor.de" address=0.0.0.0
 add name="lumenrosa.de" address=0.0.0.0
-add name="lumentes.com" address=0.0.0.0
 add name="lumerabeautyclub.com" address=0.0.0.0
 add name="lumesdesign.com" address=0.0.0.0
 add name="lumetrix-ai.com" address=0.0.0.0
@@ -14104,7 +14109,6 @@ add name="mfsebike.com" address=0.0.0.0
 add name="mg-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="mg-management.de" address=0.0.0.0
 add name="mg2connext.com" address=0.0.0.0
-add name="mgaffaires.com" address=0.0.0.0
 add name="mgid.com" address=0.0.0.0
 add name="mgmglobal.com" address=0.0.0.0
 add name="mhamzasaleem.com" address=0.0.0.0
@@ -14658,6 +14662,7 @@ add name="moontod.com" address=0.0.0.0
 add name="moonwager.com" address=0.0.0.0
 add name="moonx.io" address=0.0.0.0
 add name="mooredvazwe.myshopify.com" address=0.0.0.0
+add name="mooris.de" address=0.0.0.0
 add name="moosufergarten.de" address=0.0.0.0
 add name="mooxishop.de" address=0.0.0.0
 add name="mopub.com" address=0.0.0.0
@@ -15741,6 +15746,8 @@ add name="offerforge.com" address=0.0.0.0
 add name="offermatica.com" address=0.0.0.0
 add name="offerpaint.com" address=0.0.0.0
 add name="offerphoton.com" address=0.0.0.0
+add name="offers.gateway-lts450.com" address=0.0.0.0
+add name="offers.ltsc-has.com" address=0.0.0.0
 add name="offerscale.store" address=0.0.0.0
 add name="offershop.xyz" address=0.0.0.0
 add name="offerstylehome.com" address=0.0.0.0
@@ -16083,7 +16090,6 @@ add name="orcliacare.com" address=0.0.0.0
 add name="order-cs.eu" address=0.0.0.0
 add name="orderbuycheap.com" address=0.0.0.0
 add name="ordergunmagazinesonline.com" address=0.0.0.0
-add name="orderrxstore.com" address=0.0.0.0
 add name="ordersurfsite.com" address=0.0.0.0
 add name="orderumbrella.com" address=0.0.0.0
 add name="ordinarlim.com" address=0.0.0.0
@@ -18157,7 +18163,6 @@ add name="roinvest.net" address=0.0.0.0
 add name="rok.com.com" address=0.0.0.0
 add name="roleo.net" address=0.0.0.0
 add name="rolex-replica.to" address=0.0.0.0
-add name="rolexwanduhr.de" address=0.0.0.0
 add name="rolexyeals.com" address=0.0.0.0
 add name="rolla.store" address=0.0.0.0
 add name="rolladen-rudolf.at" address=0.0.0.0
@@ -18818,6 +18823,7 @@ add name="schmid-rechtsanwaelte.de" address=0.0.0.0
 add name="schmidt-digital.de" address=0.0.0.0
 add name="schmidt-express.com" address=0.0.0.0
 add name="schmidtiefbaugmbh.de" address=0.0.0.0
+add name="schmidtmaschine.de" address=0.0.0.0
 add name="schmidtmode.de" address=0.0.0.0
 add name="schmidts-handel.de" address=0.0.0.0
 add name="schmidtstil.com" address=0.0.0.0
@@ -19081,6 +19087,7 @@ add name="sevenfiguresolar.com" address=0.0.0.0
 add name="seveninter.com" address=0.0.0.0
 add name="seventeenk.com" address=0.0.0.0
 add name="sexcounter.com" address=0.0.0.0
+add name="sexicats.com" address=0.0.0.0
 add name="sexlist.com" address=0.0.0.0
 add name="sexpuppenkaufen.at" address=0.0.0.0
 add name="sextracker.com" address=0.0.0.0
@@ -21529,6 +21536,7 @@ add name="tracking.cybertips.uk" address=0.0.0.0
 add name="tracking.epicgames.com" address=0.0.0.0
 add name="tracking.eu.miui.com" address=0.0.0.0
 add name="tracking.europe.business.samsung.com" address=0.0.0.0
+add name="tracking.gauchosurf.com" address=0.0.0.0
 add name="tracking.hostgator.com" address=0.0.0.0
 add name="tracking.hyros.com" address=0.0.0.0
 add name="tracking.ibxlink.com" address=0.0.0.0
@@ -22619,7 +22627,6 @@ add name="vivads.net" address=0.0.0.0
 add name="vivagopro.com" address=0.0.0.0
 add name="vivaharmoni.com" address=0.0.0.0
 add name="vivaia-schuhe.de" address=0.0.0.0
-add name="vivaiacollection.com" address=0.0.0.0
 add name="vivaiaschuhe.at" address=0.0.0.0
 add name="vivaiaschuhe.com" address=0.0.0.0
 add name="vivaiaschuhe.de" address=0.0.0.0
