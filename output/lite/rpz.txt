@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-23 02:36:58
-# Total Domains: 23,904
+# Last Updated: 2026-09-24 02:26:23
+# Total Domains: 23,941
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -882,6 +882,7 @@ ads.kompass.com CNAME .
 ads.krawall.de CNAME .
 ads.leovegas.com CNAME .
 ads.lesbianpersonals.com CNAME .
+ads.lgtvcommon.com CNAME .
 ads.liberte.pl CNAME .
 ads.linkedin.com CNAME .
 ads.livenation.com CNAME .
@@ -1187,6 +1188,7 @@ adtrack.voicestar.com CNAME .
 adtraction.com CNAME .
 adtrade.net CNAME .
 adtrk1.com CNAME .
+adts.lgtvcommon.com CNAME .
 adultadvertising.com CNAME .
 adv-adserver.com CNAME .
 adv.freeonline.it CNAME .
@@ -1477,6 +1479,7 @@ al-nassr.store CNAME .
 al-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 al-research.com CNAME .
 alairlenoir.com CNAME .
+albacontainersgmbh.de CNAME .
 albrechtmode.de CNAME .
 album-cn01a.ocloud.heytapmobi.com CNAME .
 album-sg01a.ocloud.heytapmobi.com CNAME .
@@ -1741,6 +1744,7 @@ amsterdam-nl.com CNAME .
 amsterdamluxe.com CNAME .
 amsterdamout.store CNAME .
 amt-wankendorf.de CNAME .
+amtsgerichtfussen.de CNAME .
 amundi-france.com CNAME .
 amundi.cfd CNAME .
 amundi.sbs CNAME .
@@ -2935,6 +2939,7 @@ batsedgx.vip CNAME .
 bau-profis24.de CNAME .
 baubali.com CNAME .
 bauen-shop-de.com CNAME .
+bauer-brennstoffe.com CNAME .
 bauer-parndorf.at CNAME .
 bauergraz.com CNAME .
 bauerngarten-fuehrungen.de CNAME .
@@ -3209,6 +3214,7 @@ besser-heizen.net CNAME .
 bessere-reifen.de CNAME .
 besseregesudheit.com CNAME .
 besseregesundheit.com CNAME .
+besseregesundheitbp-at.com CNAME .
 besseregesunheit.com CNAME .
 best-apotheke.online CNAME .
 best-bike-outdoor.com CNAME .
@@ -3288,6 +3294,7 @@ bestoutlet-tool.com CNAME .
 bestpagjkl.com CNAME .
 bestpharm-eu.com CNAME .
 bestpillpharmacy.com CNAME .
+bestpillsnetwork.com CNAME .
 bestpricetreatments.com CNAME .
 bestproductsonlinestore.com CNAME .
 bestprogift.com CNAME .
@@ -3914,6 +3921,7 @@ brennholzkaufen.shop CNAME .
 brennholzmarkt.com CNAME .
 brennholzmichalhoff.com CNAME .
 brennholzmoorausmoor-de.com CNAME .
+brennholzorgler.at CNAME .
 brennholzruhl.de CNAME .
 brennholzrupp.de CNAME .
 brennholzs.com CNAME .
@@ -4487,6 +4495,8 @@ cdn.smalk.ai CNAME .
 cdn1.static.home.miui.com CNAME .
 cdna.sec.miui.com CNAME .
 cdnondemand.org CNAME .
+cdpbeacon.lgtvcommon.com CNAME .
+cdpbeacon2.lgtvcommon.com CNAME .
 cdr-heizoel.de CNAME .
 cecilewien.at CNAME .
 ceciliagraz.at CNAME .
@@ -5327,7 +5337,6 @@ cosori.at CNAME .
 cosplayverkauf.com CNAME .
 cota-service-sg.allawnos.com CNAME .
 cotige.com CNAME .
-cotosen.com CNAME .
 cotsrabatt.de CNAME .
 cottagoshop.com CNAME .
 cottanest.com CNAME .
@@ -5620,6 +5629,7 @@ daheim-gut.ch CNAME .
 daheimgut.com CNAME .
 dahingplants.shop CNAME .
 dahlmann-scholz.de CNAME .
+daikigreenmart.com CNAME .
 dailog.de CNAME .
 daily-jewelry123.com CNAME .
 daily-outfit.de CNAME .
@@ -6649,6 +6659,7 @@ e37364.dscd.akamaiedge.net CNAME .
 eadexchange.com CNAME .
 eaepp.com CNAME .
 eafengrowkniveshub.com CNAME .
+ealzsidb.shop CNAME .
 eap-log-in.allawnos.com CNAME .
 eap-log-sg.allawnos.com CNAME .
 earlynoon.com CNAME .
@@ -6855,6 +6866,7 @@ electris.shop CNAME .
 electriz.club CNAME .
 electro-market-store.com CNAME .
 electro-redeker.de CNAME .
+electrodinc.com CNAME .
 electrokaufen.de CNAME .
 electrolager.de CNAME .
 electronia24.de CNAME .
@@ -7432,6 +7444,7 @@ eversonehandel.at CNAME .
 everyday-outdoor.de CNAME .
 everyknives.com CNAME .
 eviobaby.com CNAME .
+evisas.travel CNAME .
 evitrol.com CNAME .
 evo-pharmacy.com CNAME .
 evolgrafix.de CNAME .
@@ -8049,6 +8062,7 @@ five-media011.com CNAME .
 fivepillarstoken.com CNAME .
 fivesixgroup.com CNAME .
 fix-finanz.com CNAME .
+fixardo.de CNAME .
 fixedfold.com CNAME .
 fixeklima.de CNAME .
 fixtaxi.at CNAME .
@@ -8739,6 +8753,7 @@ gartenmaxe.de CNAME .
 gartenmoebelangebote.de CNAME .
 gartenmoebelwelt.com CNAME .
 gartenmotor.de CNAME .
+gartenmotoren.de CNAME .
 gartenobstshop.com CNAME .
 gartenpaula.de CNAME .
 gartenpflanzende.com CNAME .
@@ -9019,6 +9034,7 @@ getyourtreatmentshere.com CNAME .
 gewa24.com CNAME .
 gewerbeanmeldung-service.de CNAME .
 gexchain.com CNAME .
+gfadenoaillac.com CNAME .
 gfjnp.com CNAME .
 gfn-north.de CNAME .
 gfore-suomi.com CNAME .
@@ -10650,6 +10666,7 @@ iam-invest.com CNAME .
 iamkamu.de CNAME .
 iancheer.com CNAME .
 iauvon.com CNAME .
+iavkqjlv.shop CNAME .
 ibcfx.com CNAME .
 ibillboard.com CNAME .
 ibler-elektronik.de CNAME .
@@ -11867,6 +11884,7 @@ kimperuecken.de CNAME .
 kincorybeauty.com CNAME .
 kindads.com CNAME .
 kindderstedt.com CNAME .
+kindderstidt.com CNAME .
 kinddeshoprstadt.com CNAME .
 kindduckling.com CNAME .
 kinderanhaengerwelt.de CNAME .
@@ -12248,6 +12266,7 @@ la-sportivas.at CNAME .
 laamcom.com CNAME .
 labelparis.com CNAME .
 labexholzgmbh.de CNAME .
+laboutiqueherbal.store CNAME .
 labq22.in CNAME .
 labubu-box.com CNAME .
 labubu-lounge.de CNAME .
@@ -12395,6 +12414,7 @@ laxnds.com CNAME .
 layda-handel.de CNAME .
 layer-ad.de CNAME .
 layer-ads.de CNAME .
+layer-care.com CNAME .
 layer-shop.com CNAME .
 lazybumblebee.com CNAME .
 lb-ad-lgsmartad-com.aws-prd.net CNAME .
@@ -12593,7 +12613,6 @@ lgads.tv CNAME .
 lgcberlin.de CNAME .
 lgglegrandgroupe.com CNAME .
 lgsmartad.com CNAME .
-lgtvcommon.com CNAME .
 lh-broker.com CNAME .
 lh-crypto.com CNAME .
 lhioz.shop CNAME .
@@ -13251,6 +13270,7 @@ lv-ad-lgsmartad-com.aws-prd.net CNAME .
 lvm-capital.com CNAME .
 lwex.com CNAME .
 lwex02.com CNAME .
+lwf-energy.com CNAME .
 lxcdn.dl.files.xiaomi.net CNAME .
 lxcvt.shop CNAME .
 lxznpo.shop CNAME .
@@ -13915,6 +13935,7 @@ meiergartenbau.de CNAME .
 meiers.eu CNAME .
 meimiou.store CNAME .
 mein-bauhof.de CNAME .
+mein-brennholz-gmbh.de CNAME .
 mein-buch24.de CNAME .
 mein-ebike.de CNAME .
 mein-ebikepro.com CNAME .
@@ -14017,6 +14038,7 @@ mens-health-ph.com CNAME .
 mensbestbasics.at CNAME .
 mensheaven.shop CNAME .
 mensluxuryboutique.com CNAME .
+mensorium.com CNAME .
 menspower.online CNAME .
 menstrualdisc.de CNAME .
 mentech.shop CNAME .
@@ -14078,6 +14100,7 @@ metatrada.com CNAME .
 methodcash.com CNAME .
 metok.sys.miui.com CNAME .
 metoliussale.com CNAME .
+metrapsa.com CNAME .
 metric.account-samsung.com CNAME .
 metric.appex-rf.msn.com CNAME .
 metricgurus.com CNAME .
@@ -14317,6 +14340,7 @@ mkbaudesign.de CNAME .
 mkc-invest.com CNAME .
 mkdfx.fr CNAME .
 mkentertainment.nl CNAME .
+mkkrcwss.shop CNAME .
 mknen.com CNAME .
 mkto-ab410147.com CNAME .
 mktoresp.com CNAME .
@@ -15006,6 +15030,7 @@ mylead-tracking.tracknow.info CNAME .
 mylead.global CNAME .
 myleadcorner.com CNAME .
 mylumenx.com CNAME .
+mymedicalshop365.top CNAME .
 mymedshoplive.com CNAME .
 mynanosparkle.com CNAME .
 mynco.com CNAME .
@@ -15173,6 +15198,7 @@ neolevii.com CNAME .
 neopass.de CNAME .
 neoplacement.com CNAME .
 neot-capital.com CNAME .
+neotechix.com CNAME .
 neptun-media.de CNAME .
 neptuneiva.myshopify.com CNAME .
 neptuneselectronics.com CNAME .
@@ -16112,6 +16138,7 @@ orcliacare.com CNAME .
 order-cs.eu CNAME .
 orderbuycheap.com CNAME .
 ordergunmagazinesonline.com CNAME .
+orderrxstore.com CNAME .
 ordersurfsite.com CNAME .
 orderumbrella.com CNAME .
 ordinarlim.com CNAME .
@@ -16549,6 +16576,7 @@ pellet-werk.com CNAME .
 pelletkraft.de CNAME .
 pelletopia.de CNAME .
 pelletor.at CNAME .
+pelletpoint77gmbh.de CNAME .
 pellets-maschinen.de CNAME .
 pellets-skog.com CNAME .
 pelletsgeschaft.com CNAME .
@@ -17722,6 +17750,7 @@ rcmotorsparts.com CNAME .
 rcpartsxpress.com CNAME .
 rcserpent.com CNAME .
 rctoyretail.com CNAME .
+rdl.lgtvcommon.com CNAME .
 rdoering.de CNAME .
 rdx2.lgtvsdp.com CNAME .
 rdx2.nextlgsdp.com CNAME .
@@ -17775,6 +17804,7 @@ rechtund-gesetz.com CNAME .
 recoco.it CNAME .
 recognitioy.com CNAME .
 recollectk.com CNAME .
+recommend.lgtvcommon.com CNAME .
 record.bonniergaming.com CNAME .
 record.mrwin.com CNAME .
 recordkontor.de CNAME .
@@ -20230,6 +20260,7 @@ sternenschmuck.de CNAME .
 sternestd.de CNAME .
 sternglas.shop CNAME .
 sternstimme.de CNAME .
+steroide-medikamente.com CNAME .
 steroide360.com CNAME .
 sterydy-anaboliczne.net CNAME .
 steyrtracteursgmbh.at CNAME .
@@ -20445,6 +20476,7 @@ sufira-boutique.de CNAME .
 sufrema-kaufen.de CNAME .
 sugex.de CNAME .
 sugoicounter.com CNAME .
+suhrer-law.de CNAME .
 suify.xyz CNAME .
 suisselab.com CNAME .
 suite.kb.help CNAME .
@@ -21105,6 +21137,7 @@ theworkshopoflife.com CNAME .
 thiamtransports.com CNAME .
 thinkcarde.com CNAME .
 thinkitten.com CNAME .
+thinqrecommend.lgtvcommon.com CNAME .
 thirdparty.bnc.lt CNAME .
 thirdrespect.com CNAME .
 thl-handel.de CNAME .
@@ -22540,6 +22573,7 @@ video-stats.video.google.com CNAME .
 video.kts.g.mi.com CNAME .
 video.market.xiaomi.com CNAME .
 videoadex.com CNAME .
+videoads.lgtvcommon.com CNAME .
 videoadstech.org CNAME .
 videoegg.com CNAME .
 videospiel-markt.de CNAME .
@@ -22866,6 +22900,7 @@ walesnewstoday.com CNAME .
 walfa.co CNAME .
 walgfashion.com CNAME .
 walkfit.welltech.com CNAME .
+walkingmats.com CNAME .
 walklux.de CNAME .
 walllampchat.com CNAME .
 wallpilates.com CNAME .
@@ -23278,6 +23313,7 @@ wisdomandprudence.net CNAME .
 wise-banque.com CNAME .
 wise-guys-consulting.de CNAME .
 wisebanc.com CNAME .
+wiseconfig.lgtvcommon.com CNAME .
 wisepops.com CNAME .
 wisevests.com CNAME .
 witch-counter.de CNAME .
@@ -23667,6 +23703,7 @@ yvarrd.shop CNAME .
 yvipharmacy.com CNAME .
 yydspan.com CNAME .
 yyluckbb.com CNAME .
+yznjrzaw.shop CNAME .
 yzyshoes.us.com CNAME .
 z-designz.at CNAME .
 z-eu.amazon-adsystem.com CNAME .

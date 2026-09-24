@@ -878,6 +878,7 @@ ads.kompass.com
 ads.krawall.de
 ads.leovegas.com
 ads.lesbianpersonals.com
+ads.lgtvcommon.com
 ads.liberte.pl
 ads.linkedin.com
 ads.livenation.com
@@ -1183,6 +1184,7 @@ adtrack.voicestar.com
 adtraction.com
 adtrade.net
 adtrk1.com
+adts.lgtvcommon.com
 adultadvertising.com
 adv-adserver.com
 adv.freeonline.it
@@ -1473,6 +1475,7 @@ al-nassr.store
 al-rdx2-lgtvsdp-com.aws-prd.net
 al-research.com
 alairlenoir.com
+albacontainersgmbh.de
 albrechtmode.de
 album-cn01a.ocloud.heytapmobi.com
 album-sg01a.ocloud.heytapmobi.com
@@ -1737,6 +1740,7 @@ amsterdam-nl.com
 amsterdamluxe.com
 amsterdamout.store
 amt-wankendorf.de
+amtsgerichtfussen.de
 amundi-france.com
 amundi.cfd
 amundi.sbs
@@ -2931,6 +2935,7 @@ batsedgx.vip
 bau-profis24.de
 baubali.com
 bauen-shop-de.com
+bauer-brennstoffe.com
 bauer-parndorf.at
 bauergraz.com
 bauerngarten-fuehrungen.de
@@ -3205,6 +3210,7 @@ besser-heizen.net
 bessere-reifen.de
 besseregesudheit.com
 besseregesundheit.com
+besseregesundheitbp-at.com
 besseregesunheit.com
 best-apotheke.online
 best-bike-outdoor.com
@@ -3284,6 +3290,7 @@ bestoutlet-tool.com
 bestpagjkl.com
 bestpharm-eu.com
 bestpillpharmacy.com
+bestpillsnetwork.com
 bestpricetreatments.com
 bestproductsonlinestore.com
 bestprogift.com
@@ -3910,6 +3917,7 @@ brennholzkaufen.shop
 brennholzmarkt.com
 brennholzmichalhoff.com
 brennholzmoorausmoor-de.com
+brennholzorgler.at
 brennholzruhl.de
 brennholzrupp.de
 brennholzs.com
@@ -4483,6 +4491,8 @@ cdn.smalk.ai
 cdn1.static.home.miui.com
 cdna.sec.miui.com
 cdnondemand.org
+cdpbeacon.lgtvcommon.com
+cdpbeacon2.lgtvcommon.com
 cdr-heizoel.de
 cecilewien.at
 ceciliagraz.at
@@ -5323,7 +5333,6 @@ cosori.at
 cosplayverkauf.com
 cota-service-sg.allawnos.com
 cotige.com
-cotosen.com
 cotsrabatt.de
 cottagoshop.com
 cottanest.com
@@ -5616,6 +5625,7 @@ daheim-gut.ch
 daheimgut.com
 dahingplants.shop
 dahlmann-scholz.de
+daikigreenmart.com
 dailog.de
 daily-jewelry123.com
 daily-outfit.de
@@ -6645,6 +6655,7 @@ e37364.dscd.akamaiedge.net
 eadexchange.com
 eaepp.com
 eafengrowkniveshub.com
+ealzsidb.shop
 eap-log-in.allawnos.com
 eap-log-sg.allawnos.com
 earlynoon.com
@@ -6851,6 +6862,7 @@ electris.shop
 electriz.club
 electro-market-store.com
 electro-redeker.de
+electrodinc.com
 electrokaufen.de
 electrolager.de
 electronia24.de
@@ -7428,6 +7440,7 @@ eversonehandel.at
 everyday-outdoor.de
 everyknives.com
 eviobaby.com
+evisas.travel
 evitrol.com
 evo-pharmacy.com
 evolgrafix.de
@@ -8045,6 +8058,7 @@ five-media011.com
 fivepillarstoken.com
 fivesixgroup.com
 fix-finanz.com
+fixardo.de
 fixedfold.com
 fixeklima.de
 fixtaxi.at
@@ -8735,6 +8749,7 @@ gartenmaxe.de
 gartenmoebelangebote.de
 gartenmoebelwelt.com
 gartenmotor.de
+gartenmotoren.de
 gartenobstshop.com
 gartenpaula.de
 gartenpflanzende.com
@@ -9015,6 +9030,7 @@ getyourtreatmentshere.com
 gewa24.com
 gewerbeanmeldung-service.de
 gexchain.com
+gfadenoaillac.com
 gfjnp.com
 gfn-north.de
 gfore-suomi.com
@@ -10646,6 +10662,7 @@ iam-invest.com
 iamkamu.de
 iancheer.com
 iauvon.com
+iavkqjlv.shop
 ibcfx.com
 ibillboard.com
 ibler-elektronik.de
@@ -11863,6 +11880,7 @@ kimperuecken.de
 kincorybeauty.com
 kindads.com
 kindderstedt.com
+kindderstidt.com
 kinddeshoprstadt.com
 kindduckling.com
 kinderanhaengerwelt.de
@@ -12244,6 +12262,7 @@ la-sportivas.at
 laamcom.com
 labelparis.com
 labexholzgmbh.de
+laboutiqueherbal.store
 labq22.in
 labubu-box.com
 labubu-lounge.de
@@ -12391,6 +12410,7 @@ laxnds.com
 layda-handel.de
 layer-ad.de
 layer-ads.de
+layer-care.com
 layer-shop.com
 lazybumblebee.com
 lb-ad-lgsmartad-com.aws-prd.net
@@ -12589,7 +12609,6 @@ lgads.tv
 lgcberlin.de
 lgglegrandgroupe.com
 lgsmartad.com
-lgtvcommon.com
 lh-broker.com
 lh-crypto.com
 lhioz.shop
@@ -13247,6 +13266,7 @@ lv-ad-lgsmartad-com.aws-prd.net
 lvm-capital.com
 lwex.com
 lwex02.com
+lwf-energy.com
 lxcdn.dl.files.xiaomi.net
 lxcvt.shop
 lxznpo.shop
@@ -13911,6 +13931,7 @@ meiergartenbau.de
 meiers.eu
 meimiou.store
 mein-bauhof.de
+mein-brennholz-gmbh.de
 mein-buch24.de
 mein-ebike.de
 mein-ebikepro.com
@@ -14013,6 +14034,7 @@ mens-health-ph.com
 mensbestbasics.at
 mensheaven.shop
 mensluxuryboutique.com
+mensorium.com
 menspower.online
 menstrualdisc.de
 mentech.shop
@@ -14074,6 +14096,7 @@ metatrada.com
 methodcash.com
 metok.sys.miui.com
 metoliussale.com
+metrapsa.com
 metric.account-samsung.com
 metric.appex-rf.msn.com
 metricgurus.com
@@ -14313,6 +14336,7 @@ mkbaudesign.de
 mkc-invest.com
 mkdfx.fr
 mkentertainment.nl
+mkkrcwss.shop
 mknen.com
 mkto-ab410147.com
 mktoresp.com
@@ -15002,6 +15026,7 @@ mylead-tracking.tracknow.info
 mylead.global
 myleadcorner.com
 mylumenx.com
+mymedicalshop365.top
 mymedshoplive.com
 mynanosparkle.com
 mynco.com
@@ -15169,6 +15194,7 @@ neolevii.com
 neopass.de
 neoplacement.com
 neot-capital.com
+neotechix.com
 neptun-media.de
 neptuneiva.myshopify.com
 neptuneselectronics.com
@@ -16108,6 +16134,7 @@ orcliacare.com
 order-cs.eu
 orderbuycheap.com
 ordergunmagazinesonline.com
+orderrxstore.com
 ordersurfsite.com
 orderumbrella.com
 ordinarlim.com
@@ -16545,6 +16572,7 @@ pellet-werk.com
 pelletkraft.de
 pelletopia.de
 pelletor.at
+pelletpoint77gmbh.de
 pellets-maschinen.de
 pellets-skog.com
 pelletsgeschaft.com
@@ -17718,6 +17746,7 @@ rcmotorsparts.com
 rcpartsxpress.com
 rcserpent.com
 rctoyretail.com
+rdl.lgtvcommon.com
 rdoering.de
 rdx2.lgtvsdp.com
 rdx2.nextlgsdp.com
@@ -17771,6 +17800,7 @@ rechtund-gesetz.com
 recoco.it
 recognitioy.com
 recollectk.com
+recommend.lgtvcommon.com
 record.bonniergaming.com
 record.mrwin.com
 recordkontor.de
@@ -20226,6 +20256,7 @@ sternenschmuck.de
 sternestd.de
 sternglas.shop
 sternstimme.de
+steroide-medikamente.com
 steroide360.com
 sterydy-anaboliczne.net
 steyrtracteursgmbh.at
@@ -20441,6 +20472,7 @@ sufira-boutique.de
 sufrema-kaufen.de
 sugex.de
 sugoicounter.com
+suhrer-law.de
 suify.xyz
 suisselab.com
 suite.kb.help
@@ -21101,6 +21133,7 @@ theworkshopoflife.com
 thiamtransports.com
 thinkcarde.com
 thinkitten.com
+thinqrecommend.lgtvcommon.com
 thirdparty.bnc.lt
 thirdrespect.com
 thl-handel.de
@@ -22536,6 +22569,7 @@ video-stats.video.google.com
 video.kts.g.mi.com
 video.market.xiaomi.com
 videoadex.com
+videoads.lgtvcommon.com
 videoadstech.org
 videoegg.com
 videospiel-markt.de
@@ -22862,6 +22896,7 @@ walesnewstoday.com
 walfa.co
 walgfashion.com
 walkfit.welltech.com
+walkingmats.com
 walklux.de
 walllampchat.com
 wallpilates.com
@@ -23274,6 +23309,7 @@ wisdomandprudence.net
 wise-banque.com
 wise-guys-consulting.de
 wisebanc.com
+wiseconfig.lgtvcommon.com
 wisepops.com
 wisevests.com
 witch-counter.de
@@ -23663,6 +23699,7 @@ yvarrd.shop
 yvipharmacy.com
 yydspan.com
 yyluckbb.com
+yznjrzaw.shop
 yzyshoes.us.com
 z-designz.at
 z-eu.amazon-adsystem.com

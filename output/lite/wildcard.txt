@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-23 02:36:58
-# Total Domains: 23,904
+# Last Updated: 2026-09-24 02:26:23
+# Total Domains: 23,941
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -882,6 +882,7 @@
 *.ads.krawall.de
 *.ads.leovegas.com
 *.ads.lesbianpersonals.com
+*.ads.lgtvcommon.com
 *.ads.liberte.pl
 *.ads.linkedin.com
 *.ads.livenation.com
@@ -1187,6 +1188,7 @@
 *.adtraction.com
 *.adtrade.net
 *.adtrk1.com
+*.adts.lgtvcommon.com
 *.adultadvertising.com
 *.adv-adserver.com
 *.adv.freeonline.it
@@ -1477,6 +1479,7 @@
 *.al-rdx2-lgtvsdp-com.aws-prd.net
 *.al-research.com
 *.alairlenoir.com
+*.albacontainersgmbh.de
 *.albrechtmode.de
 *.album-cn01a.ocloud.heytapmobi.com
 *.album-sg01a.ocloud.heytapmobi.com
@@ -1741,6 +1744,7 @@
 *.amsterdamluxe.com
 *.amsterdamout.store
 *.amt-wankendorf.de
+*.amtsgerichtfussen.de
 *.amundi-france.com
 *.amundi.cfd
 *.amundi.sbs
@@ -2935,6 +2939,7 @@
 *.bau-profis24.de
 *.baubali.com
 *.bauen-shop-de.com
+*.bauer-brennstoffe.com
 *.bauer-parndorf.at
 *.bauergraz.com
 *.bauerngarten-fuehrungen.de
@@ -3209,6 +3214,7 @@
 *.bessere-reifen.de
 *.besseregesudheit.com
 *.besseregesundheit.com
+*.besseregesundheitbp-at.com
 *.besseregesunheit.com
 *.best-apotheke.online
 *.best-bike-outdoor.com
@@ -3288,6 +3294,7 @@
 *.bestpagjkl.com
 *.bestpharm-eu.com
 *.bestpillpharmacy.com
+*.bestpillsnetwork.com
 *.bestpricetreatments.com
 *.bestproductsonlinestore.com
 *.bestprogift.com
@@ -3914,6 +3921,7 @@
 *.brennholzmarkt.com
 *.brennholzmichalhoff.com
 *.brennholzmoorausmoor-de.com
+*.brennholzorgler.at
 *.brennholzruhl.de
 *.brennholzrupp.de
 *.brennholzs.com
@@ -4487,6 +4495,8 @@
 *.cdn1.static.home.miui.com
 *.cdna.sec.miui.com
 *.cdnondemand.org
+*.cdpbeacon.lgtvcommon.com
+*.cdpbeacon2.lgtvcommon.com
 *.cdr-heizoel.de
 *.cecilewien.at
 *.ceciliagraz.at
@@ -5327,7 +5337,6 @@
 *.cosplayverkauf.com
 *.cota-service-sg.allawnos.com
 *.cotige.com
-*.cotosen.com
 *.cotsrabatt.de
 *.cottagoshop.com
 *.cottanest.com
@@ -5620,6 +5629,7 @@
 *.daheimgut.com
 *.dahingplants.shop
 *.dahlmann-scholz.de
+*.daikigreenmart.com
 *.dailog.de
 *.daily-jewelry123.com
 *.daily-outfit.de
@@ -6649,6 +6659,7 @@
 *.eadexchange.com
 *.eaepp.com
 *.eafengrowkniveshub.com
+*.ealzsidb.shop
 *.eap-log-in.allawnos.com
 *.eap-log-sg.allawnos.com
 *.earlynoon.com
@@ -6855,6 +6866,7 @@
 *.electriz.club
 *.electro-market-store.com
 *.electro-redeker.de
+*.electrodinc.com
 *.electrokaufen.de
 *.electrolager.de
 *.electronia24.de
@@ -7432,6 +7444,7 @@
 *.everyday-outdoor.de
 *.everyknives.com
 *.eviobaby.com
+*.evisas.travel
 *.evitrol.com
 *.evo-pharmacy.com
 *.evolgrafix.de
@@ -8049,6 +8062,7 @@
 *.fivepillarstoken.com
 *.fivesixgroup.com
 *.fix-finanz.com
+*.fixardo.de
 *.fixedfold.com
 *.fixeklima.de
 *.fixtaxi.at
@@ -8739,6 +8753,7 @@
 *.gartenmoebelangebote.de
 *.gartenmoebelwelt.com
 *.gartenmotor.de
+*.gartenmotoren.de
 *.gartenobstshop.com
 *.gartenpaula.de
 *.gartenpflanzende.com
@@ -9019,6 +9034,7 @@
 *.gewa24.com
 *.gewerbeanmeldung-service.de
 *.gexchain.com
+*.gfadenoaillac.com
 *.gfjnp.com
 *.gfn-north.de
 *.gfore-suomi.com
@@ -10650,6 +10666,7 @@
 *.iamkamu.de
 *.iancheer.com
 *.iauvon.com
+*.iavkqjlv.shop
 *.ibcfx.com
 *.ibillboard.com
 *.ibler-elektronik.de
@@ -11867,6 +11884,7 @@
 *.kincorybeauty.com
 *.kindads.com
 *.kindderstedt.com
+*.kindderstidt.com
 *.kinddeshoprstadt.com
 *.kindduckling.com
 *.kinderanhaengerwelt.de
@@ -12248,6 +12266,7 @@
 *.laamcom.com
 *.labelparis.com
 *.labexholzgmbh.de
+*.laboutiqueherbal.store
 *.labq22.in
 *.labubu-box.com
 *.labubu-lounge.de
@@ -12395,6 +12414,7 @@
 *.layda-handel.de
 *.layer-ad.de
 *.layer-ads.de
+*.layer-care.com
 *.layer-shop.com
 *.lazybumblebee.com
 *.lb-ad-lgsmartad-com.aws-prd.net
@@ -12593,7 +12613,6 @@
 *.lgcberlin.de
 *.lgglegrandgroupe.com
 *.lgsmartad.com
-*.lgtvcommon.com
 *.lh-broker.com
 *.lh-crypto.com
 *.lhioz.shop
@@ -13251,6 +13270,7 @@
 *.lvm-capital.com
 *.lwex.com
 *.lwex02.com
+*.lwf-energy.com
 *.lxcdn.dl.files.xiaomi.net
 *.lxcvt.shop
 *.lxznpo.shop
@@ -13915,6 +13935,7 @@
 *.meiers.eu
 *.meimiou.store
 *.mein-bauhof.de
+*.mein-brennholz-gmbh.de
 *.mein-buch24.de
 *.mein-ebike.de
 *.mein-ebikepro.com
@@ -14017,6 +14038,7 @@
 *.mensbestbasics.at
 *.mensheaven.shop
 *.mensluxuryboutique.com
+*.mensorium.com
 *.menspower.online
 *.menstrualdisc.de
 *.mentech.shop
@@ -14078,6 +14100,7 @@
 *.methodcash.com
 *.metok.sys.miui.com
 *.metoliussale.com
+*.metrapsa.com
 *.metric.account-samsung.com
 *.metric.appex-rf.msn.com
 *.metricgurus.com
@@ -14317,6 +14340,7 @@
 *.mkc-invest.com
 *.mkdfx.fr
 *.mkentertainment.nl
+*.mkkrcwss.shop
 *.mknen.com
 *.mkto-ab410147.com
 *.mktoresp.com
@@ -15006,6 +15030,7 @@
 *.mylead.global
 *.myleadcorner.com
 *.mylumenx.com
+*.mymedicalshop365.top
 *.mymedshoplive.com
 *.mynanosparkle.com
 *.mynco.com
@@ -15173,6 +15198,7 @@
 *.neopass.de
 *.neoplacement.com
 *.neot-capital.com
+*.neotechix.com
 *.neptun-media.de
 *.neptuneiva.myshopify.com
 *.neptuneselectronics.com
@@ -16112,6 +16138,7 @@
 *.order-cs.eu
 *.orderbuycheap.com
 *.ordergunmagazinesonline.com
+*.orderrxstore.com
 *.ordersurfsite.com
 *.orderumbrella.com
 *.ordinarlim.com
@@ -16549,6 +16576,7 @@
 *.pelletkraft.de
 *.pelletopia.de
 *.pelletor.at
+*.pelletpoint77gmbh.de
 *.pellets-maschinen.de
 *.pellets-skog.com
 *.pelletsgeschaft.com
@@ -17722,6 +17750,7 @@
 *.rcpartsxpress.com
 *.rcserpent.com
 *.rctoyretail.com
+*.rdl.lgtvcommon.com
 *.rdoering.de
 *.rdx2.lgtvsdp.com
 *.rdx2.nextlgsdp.com
@@ -17775,6 +17804,7 @@
 *.recoco.it
 *.recognitioy.com
 *.recollectk.com
+*.recommend.lgtvcommon.com
 *.record.bonniergaming.com
 *.record.mrwin.com
 *.recordkontor.de
@@ -20230,6 +20260,7 @@
 *.sternestd.de
 *.sternglas.shop
 *.sternstimme.de
+*.steroide-medikamente.com
 *.steroide360.com
 *.sterydy-anaboliczne.net
 *.steyrtracteursgmbh.at
@@ -20445,6 +20476,7 @@
 *.sufrema-kaufen.de
 *.sugex.de
 *.sugoicounter.com
+*.suhrer-law.de
 *.suify.xyz
 *.suisselab.com
 *.suite.kb.help
@@ -21105,6 +21137,7 @@
 *.thiamtransports.com
 *.thinkcarde.com
 *.thinkitten.com
+*.thinqrecommend.lgtvcommon.com
 *.thirdparty.bnc.lt
 *.thirdrespect.com
 *.thl-handel.de
@@ -22540,6 +22573,7 @@
 *.video.kts.g.mi.com
 *.video.market.xiaomi.com
 *.videoadex.com
+*.videoads.lgtvcommon.com
 *.videoadstech.org
 *.videoegg.com
 *.videospiel-markt.de
@@ -22866,6 +22900,7 @@
 *.walfa.co
 *.walgfashion.com
 *.walkfit.welltech.com
+*.walkingmats.com
 *.walklux.de
 *.walllampchat.com
 *.wallpilates.com
@@ -23278,6 +23313,7 @@
 *.wise-banque.com
 *.wise-guys-consulting.de
 *.wisebanc.com
+*.wiseconfig.lgtvcommon.com
 *.wisepops.com
 *.wisevests.com
 *.witch-counter.de
@@ -23667,6 +23703,7 @@
 *.yvipharmacy.com
 *.yydspan.com
 *.yyluckbb.com
+*.yznjrzaw.shop
 *.yzyshoes.us.com
 *.z-designz.at
 *.z-eu.amazon-adsystem.com
