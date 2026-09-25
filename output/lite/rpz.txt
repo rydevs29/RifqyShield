@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-24 07:39:25
-# Total Domains: 23,941
+# Last Updated: 2026-09-25 02:43:01
+# Total Domains: 23,956
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -1914,6 +1914,7 @@ anhaengers.online CNAME .
 anhaengershopstore.shop CNAME .
 anhaengerverleih-mania.de CNAME .
 anhanger-behalter.de CNAME .
+anhanger-zentrum.de CNAME .
 anhanger.net CNAME .
 anhangercenter.com CNAME .
 anhangerdienst.com CNAME .
@@ -1976,6 +1977,7 @@ anuraclo.com CNAME .
 anwaelte-brinkmann.de CNAME .
 anwalt-sirrenberg.com CNAME .
 anwaltskanzlei-brust.de CNAME .
+anwaltskanzlei-ganzer.de CNAME .
 anxiousapples.com CNAME .
 any-trades.com CNAME .
 anyvibe.de CNAME .
@@ -3286,6 +3288,7 @@ bestlook.store CNAME .
 bestmakeup.club CNAME .
 bestmarkt24.com CNAME .
 bestmedhealth.com CNAME .
+bestmodel-shop.com CNAME .
 bestnutradeals.online CNAME .
 bestoil24.de CNAME .
 bestoil24.net CNAME .
@@ -3926,6 +3929,7 @@ brennholzruhl.de CNAME .
 brennholzrupp.de CNAME .
 brennholzs.com CNAME .
 brennholzstein.de CNAME .
+brennholzullrich.com CNAME .
 brennholzvidos.at CNAME .
 brennholzweber.de CNAME .
 brennholzwerner.de CNAME .
@@ -6199,6 +6203,7 @@ dicamgruppe.de CNAME .
 dicecandies.com CNAME .
 dicha-anhaenger.com CNAME .
 dicha-bike.com CNAME .
+dicha-technik.com CNAME .
 dichzeltstore.com CNAME .
 didro.de CNAME .
 didtheyreadit.com CNAME .
@@ -6526,6 +6531,7 @@ dronityshow.com CNAME .
 droppyx.com CNAME .
 drosselberg-apotheke.de CNAME .
 drovasi.com CNAME .
+drpengermany.com CNAME .
 drscholls.co.za CNAME .
 drspharm.com CNAME .
 druckerpratonen.de CNAME .
@@ -7444,7 +7450,6 @@ eversonehandel.at CNAME .
 everyday-outdoor.de CNAME .
 everyknives.com CNAME .
 eviobaby.com CNAME .
-evisas.travel CNAME .
 evitrol.com CNAME .
 evo-pharmacy.com CNAME .
 evolgrafix.de CNAME .
@@ -7877,6 +7882,7 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
+fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -7951,6 +7957,7 @@ finanzasforex.com CNAME .
 finanzen.075756.net CNAME .
 finanzenexpress.com CNAME .
 finanzonline-gvbmfgv.info CNAME .
+finanzonline.bmf-gvat.com CNAME .
 finanzplanungwittenberg.com CNAME .
 finanzwelt.pro CNAME .
 finapactglobal.net CNAME .
@@ -8392,6 +8399,7 @@ freitag-taschen.com CNAME .
 freiwing.de CNAME .
 freizeitgalerie.com CNAME .
 freizeitjackensalesshop.com CNAME .
+freizeitweltde.com CNAME .
 frenchbulldog.store CNAME .
 frenchjobs.xyz CNAME .
 frenchnewstoday.com CNAME .
@@ -9273,6 +9281,7 @@ goldira.wiki CNAME .
 goldman-capital.com CNAME .
 goldofficemaster.com CNAME .
 goldpromocoes.com CNAME .
+goldreward.io CNAME .
 goldscheideanstalt-seit1970.de CNAME .
 goldschmiede-alpenglanz.at CNAME .
 goldshopsejahtera.com CNAME .
@@ -9663,6 +9672,7 @@ hairive.com CNAME .
 hairlinebeautysalon.de CNAME .
 hakimrazalan.com CNAME .
 halcyoncanyon.com CNAME .
+halcyonlabel.com CNAME .
 haleybaby.com CNAME .
 halipax.com CNAME .
 haller-consulting.net CNAME .
@@ -9923,6 +9933,7 @@ heimeiche.de CNAME .
 heimharmonie.de CNAME .
 heimhof24.de CNAME .
 heimjobfinder.de CNAME .
+heimkauf.com CNAME .
 heimkauf.myshopify.com CNAME .
 heimkuchenwaren.com CNAME .
 heimliebe24.de CNAME .
@@ -13194,6 +13205,7 @@ lumawerks.de CNAME .
 lumelia-de.com CNAME .
 lumendecor.de CNAME .
 lumenrosa.de CNAME .
+lumentes.com CNAME .
 lumerabeautyclub.com CNAME .
 lumesdesign.com CNAME .
 lumetrix-ai.com CNAME .
@@ -14254,6 +14266,7 @@ mineralsolutions.de CNAME .
 minerva.devices.a2z.com CNAME .
 minewhat.com CNAME .
 mini-ecig.com CNAME .
+mini-modellerstellung.com CNAME .
 miniatur-bullterrier-online.de CNAME .
 minibilling.com CNAME .
 miniflix.de CNAME .
@@ -15030,7 +15043,6 @@ mylead-tracking.tracknow.info CNAME .
 mylead.global CNAME .
 myleadcorner.com CNAME .
 mylumenx.com CNAME .
-mymedicalshop365.top CNAME .
 mymedshoplive.com CNAME .
 mynanosparkle.com CNAME .
 mynco.com CNAME .
@@ -16138,7 +16150,6 @@ orcliacare.com CNAME .
 order-cs.eu CNAME .
 orderbuycheap.com CNAME .
 ordergunmagazinesonline.com CNAME .
-orderrxstore.com CNAME .
 ordersurfsite.com CNAME .
 orderumbrella.com CNAME .
 ordinarlim.com CNAME .
@@ -16694,6 +16705,7 @@ pg99.cc CNAME .
 pgddfgqt.shop CNAME .
 pgl.example.com CNAME .
 pgmediaserve.com CNAME .
+pgmgcved.shop CNAME .
 pgmus.net CNAME .
 pgmvip.com CNAME .
 pgpartner.com CNAME .
@@ -18217,6 +18229,7 @@ roinvest.net CNAME .
 rok.com.com CNAME .
 roleo.net CNAME .
 rolex-replica.to CNAME .
+rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
 rolladen-rudolf.at CNAME .
@@ -19401,6 +19414,7 @@ shredlab-bike-academy-sauerland.de CNAME .
 shreedhaonlineparts.com CNAME .
 shrillspoon.com CNAME .
 shujuwang.de CNAME .
+shupnatuvisan.com CNAME .
 shutterlans.myshopify.com CNAME .
 shuttleockstore.com CNAME .
 shxtrk.com CNAME .
@@ -19840,6 +19854,7 @@ sovectoron-1-naatlasix-losolara.com CNAME .
 sovkonc.ept.se CNAME .
 sovrn.com CNAME .
 soxfinancial.com CNAME .
+sozialefinanzen.de CNAME .
 sozialversicherungsausweisportal.de CNAME .
 sp-a-q-f.ib-game.jp CNAME .
 spacash.com CNAME .
