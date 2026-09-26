@@ -816,7 +816,6 @@ ads.electrocelt.com
 ads.emdee.ca
 ads.emirates.net.ae
 ads.epi.sk
-ads.epltalk.com
 ads.eu.msn.com
 ads.fairfax.com.au
 ads.fastcomgroup.it
@@ -1424,6 +1423,7 @@ airjordan.at
 airjordan.com.de
 airmaxsale.de
 airnext.io
+airobotsupplier.com
 airoil.de
 airplanecoffee.com
 airpurifieroutlet.com
@@ -2060,6 +2060,7 @@ api.xmpush.xiaomi.com
 api2.amplitude.com
 apkrep.ff.avast.sec.miui.com
 apkwell.com
+aplamzelte.de
 aplschuhe.at
 aplschuhe.com
 apo-rezeptfrei.com
@@ -2786,6 +2787,7 @@ bake-store.com
 bakerrabatt.de
 bakingmold-shop.com
 bakta8.myshopify.com
+bakuchiol.online
 bakuronel-ai.net
 bakuronel-italy.com
 bakuronel.com
@@ -3545,7 +3547,6 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
-bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -3600,6 +3601,7 @@ black-shepp-gastroservice.com
 blackfridaymegastore.com
 blackgurlzsmagickloset.com
 blacktridentpop.shop
+blacktridents.shop
 blackyakrabatt.com
 bladebasics.com
 blasgarten.de
@@ -3934,6 +3936,7 @@ brennstoffemokstat.shop
 brenstoffe-versand.de
 brenuingerde.com
 breuer-boutique.de
+breuermode.de
 breuninger-berlin.de
 breuninger-stuttgart.de
 brevani.de
@@ -5395,7 +5398,6 @@ cpx.to
 cpxinteractive.com
 cqcounter.com
 cr-ad-lgsmartad-com.aws-prd.net
-crabbychin.com
 craftcraze.shop
 craftoliq.com
 craftrabatt.de
@@ -5533,6 +5535,7 @@ curiosi.shop
 curiousmetal.com
 curotoshop.com
 currentbody-outlet.de
+currentbodyaustria.com
 currext.com
 curtaincows.com
 curtainguess.com
@@ -5559,6 +5562,7 @@ cuttingboarddirect.com
 cv-ad-lgsmartad-com.aws-prd.net
 cv-tech-onlineshop.de
 cvc-capital-partners.com
+cvmaker.de
 cvneed.com
 cwl-experts.org
 cx.gamehander.com
@@ -6540,6 +6544,7 @@ drumcovere.com
 drykorngeschaft.com
 dryredwineshop.com
 dryrosewine.com
+ds24-handel.de
 dsdeinschoenergarten.de
 dsenergieberatung.de
 dshpartners.com
@@ -7270,6 +7275,7 @@ eu-p.vivoglobal.com
 eu-pharmacy-online.com
 eu-pnrt-stsdk.vivoglobal.com
 eu-romsp-unifyconfig.vivoglobal.com
+eu-segway.com
 eu-sezane.com
 eu-st-exappupgrade.vivoglobal.com
 eu-st-sl.vivoglobal.com
@@ -7445,7 +7451,9 @@ evershape.at
 eversonehandel.at
 everyday-outdoor.de
 everyknives.com
+evinjeta-slovenia.listocar.com
 eviobaby.com
+evisas.travel
 evitrol.com
 evo-pharmacy.com
 evolgrafix.de
@@ -7982,6 +7990,7 @@ fine-germa-furniture.com
 finebeachwear.com
 finetero.com
 finetoolstore.com
+fineweine.com
 finewineaccess.com
 finkerkette.de
 finmaxbo.com
@@ -8997,6 +9006,7 @@ get-ozoori.com
 get-purisaki.com
 get-rc.to
 get-teralin.site
+get-wuffy.com
 getalliny.com
 getanswers.net
 getclairu.nomshopper.com
@@ -9234,6 +9244,7 @@ goaper.com
 goball.de
 goblinkcl.shop
 gobuybest.com
+godseedband.com
 goelitemarketing.com
 goetzwache.de
 goforbest.top
@@ -9997,6 +10008,7 @@ heizoel-easy.com
 heizoel-experten.de
 heizoel-freunde.de
 heizoel-fuchs24.de
+heizoel-genial.com
 heizoel-held.de
 heizoel-kalkulator.de
 heizoel-liefern.de
@@ -10834,7 +10846,6 @@ immediate-connect.app
 immediate-coraldex.com
 immediate-dash.de
 immediate-direct.com
-immediate-edge2.com
 immediate-flik.com
 immediate-growth.com
 immediate-momentum.com
@@ -11265,7 +11276,6 @@ ivelay.com
 ivermectin-apotheke.com
 ivermectinkoupit.com
 ivernamart.com
-ivwbox.de
 ivykiosk.com
 iwamonmodeshop.com
 iwildcasinoonline.com
@@ -11613,7 +11623,6 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
-kamagra-pro.online
 kamagra-prodej-levne.cz
 kamagra-prodej.cz
 kamagra-prodej.online
@@ -11682,6 +11691,7 @@ kamiksuomi.com
 kaminexpertstore.com
 kamingmbh.de
 kaminholz-briketts-holzpellets.eu
+kaminholz-erzgebirge.com
 kaminholz-premium.de
 kaminholzbeumer.de
 kaminholzdirekt.ch
@@ -13533,7 +13543,6 @@ marketmarkdowns.com
 marketo.com
 marketoptions.com
 marketorbitlabs.it.com
-marketpills4you.com
 markets-capital.com
 markets-investment.com
 markets365.net
@@ -13579,6 +13588,7 @@ mas-sdk-eu.amazon-adsystem.com
 mas-sdk.amazon-adsystem.com
 mas.sector.sk
 maschinenbau-marketingtranslations.com
+maschinenbau-stripegmbh.de
 maschinenfuergarten.de
 maschinenpreiswert.com
 mascotsmall.com
@@ -14718,7 +14728,6 @@ moontod.com
 moonwager.com
 moonx.io
 mooredvazwe.myshopify.com
-mooris.de
 moosufergarten.de
 mooxishop.de
 mopub.com
@@ -15039,6 +15048,7 @@ mylead-tracking.tracknow.info
 mylead.global
 myleadcorner.com
 mylumenx.com
+mymedicalshop365.top
 mymedshoplive.com
 mynanosparkle.com
 mynco.com
@@ -15993,6 +16003,7 @@ onlinecasinosohneverifizierung.de
 onlinedamen.de
 onlinedrugsnorx.com
 onlineeba.com
+onlineeinkaufswelt.com
 onlinefinanz-bmf.com
 onlineforyou.net
 onlinegearwrench.com
@@ -16146,6 +16157,7 @@ orcliacare.com
 order-cs.eu
 orderbuycheap.com
 ordergunmagazinesonline.com
+orderrxstore.com
 ordersurfsite.com
 orderumbrella.com
 ordinarlim.com
@@ -16701,7 +16713,6 @@ pg99.cc
 pgddfgqt.shop
 pgl.example.com
 pgmediaserve.com
-pgmgcved.shop
 pgmus.net
 pgmvip.com
 pgpartner.com
@@ -17809,7 +17820,6 @@ rechtsanwalt-sirrenberg.de
 rechtsanwalt-wiegmann.de
 rechtskanzlei-karls.de
 rechtund-gesetz.com
-recoco.it
 recognitioy.com
 recollectk.com
 recommend.lgtvcommon.com
@@ -18324,6 +18334,7 @@ rs6.net
 rsc-ads.vidaahub.com
 rsc-mntz.vidaahub.com
 rsellssasu.com
+rsholzgmbh.de
 rta.dailymail.co.uk
 rtb.axp.amazon-adsystem.com
 rtb.gumgum.com
@@ -18331,7 +18342,6 @@ rtbadzesto.com
 rtbflairads.com
 rtbplatform.net
 rtbpop.com
-rtbpopd.com
 rtc-logger-i18n.tiktokv.com
 rtc-logger-ie.tiktokv.eu
 rtc-logger-ttp2.us.tiktokv.com
@@ -18939,6 +18949,7 @@ schuheverkauf-de.com
 schuhewienshoponline.com
 schuhhaus-greten.de
 schuhheld.com
+schuhkomfort.shop
 schuhwelten.com
 schulte-boutique.de
 schultefashion.com
@@ -19070,6 +19081,7 @@ seforimdealsho.shop
 segleruhren.de
 segment-cdn.producthunt.com
 segurofx.com
+seidel-kanzlei.de
 seidl-mode.com
 seidlmodehaus.com
 seidlmodehaus.myshopify.com
@@ -19220,6 +19232,7 @@ shingirl.de
 shinyflakes.de
 shinystat.com
 shinystat.it
+shipafreight.com
 shippills.com
 shirem.com
 shirteu365.com
@@ -19849,6 +19862,7 @@ souzaeoliveira.com.br
 sovectoron-1-naatlasix-losolara.com
 sovkonc.ept.se
 sovrn.com
+sowaswillichauch.de
 soxfinancial.com
 sozialefinanzen.de
 sozialversicherungsausweisportal.de
@@ -20423,6 +20437,7 @@ strongstrongsupply.com
 strongupgear.com
 strumpfkauf.de
 stsdk.vivoglobal.com
+stubenlatschen.com
 studenten-lektor.de
 studententransporter.de
 studio34beautylab.com
@@ -22851,6 +22866,7 @@ vrtil.com
 vruktazelin.at
 vruktazelin.tech
 vs-home.de
+vsgdew.shop
 vssaleonline-us.shop
 vstelemetry.trafficmanager.net
 vswatches.net
@@ -23088,6 +23104,7 @@ weihnachtsdekokaufen.com
 weikershem.de
 weil-handel.de
 weilco.myshopify.com
+weimar-maschine.de
 weimifuwl.com
 weimmer.de
 wein-deluxe.eu

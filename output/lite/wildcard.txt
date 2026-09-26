@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-25 02:43:01
-# Total Domains: 23,956
+# Last Updated: 2026-09-26 02:45:43
+# Total Domains: 23,973
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -820,7 +820,6 @@
 *.ads.emdee.ca
 *.ads.emirates.net.ae
 *.ads.epi.sk
-*.ads.epltalk.com
 *.ads.eu.msn.com
 *.ads.fairfax.com.au
 *.ads.fastcomgroup.it
@@ -1428,6 +1427,7 @@
 *.airjordan.com.de
 *.airmaxsale.de
 *.airnext.io
+*.airobotsupplier.com
 *.airoil.de
 *.airplanecoffee.com
 *.airpurifieroutlet.com
@@ -2064,6 +2064,7 @@
 *.api2.amplitude.com
 *.apkrep.ff.avast.sec.miui.com
 *.apkwell.com
+*.aplamzelte.de
 *.aplschuhe.at
 *.aplschuhe.com
 *.apo-rezeptfrei.com
@@ -2790,6 +2791,7 @@
 *.bakerrabatt.de
 *.bakingmold-shop.com
 *.bakta8.myshopify.com
+*.bakuchiol.online
 *.bakuronel-ai.net
 *.bakuronel-italy.com
 *.bakuronel.com
@@ -3549,7 +3551,6 @@
 *.bitcoin-everest-ai.fr
 *.bitcoin-pharmacy.com
 *.bitcoin-revolution.org
-*.bitcoin-up.io
 *.bitcoin-xact.fr
 *.bitcoinarchon.com
 *.bitcoineer.ai
@@ -3604,6 +3605,7 @@
 *.blackfridaymegastore.com
 *.blackgurlzsmagickloset.com
 *.blacktridentpop.shop
+*.blacktridents.shop
 *.blackyakrabatt.com
 *.bladebasics.com
 *.blasgarten.de
@@ -3938,6 +3940,7 @@
 *.brenstoffe-versand.de
 *.brenuingerde.com
 *.breuer-boutique.de
+*.breuermode.de
 *.breuninger-berlin.de
 *.breuninger-stuttgart.de
 *.brevani.de
@@ -5399,7 +5402,6 @@
 *.cpxinteractive.com
 *.cqcounter.com
 *.cr-ad-lgsmartad-com.aws-prd.net
-*.crabbychin.com
 *.craftcraze.shop
 *.craftoliq.com
 *.craftrabatt.de
@@ -5537,6 +5539,7 @@
 *.curiousmetal.com
 *.curotoshop.com
 *.currentbody-outlet.de
+*.currentbodyaustria.com
 *.currext.com
 *.curtaincows.com
 *.curtainguess.com
@@ -5563,6 +5566,7 @@
 *.cv-ad-lgsmartad-com.aws-prd.net
 *.cv-tech-onlineshop.de
 *.cvc-capital-partners.com
+*.cvmaker.de
 *.cvneed.com
 *.cwl-experts.org
 *.cx.gamehander.com
@@ -6544,6 +6548,7 @@
 *.drykorngeschaft.com
 *.dryredwineshop.com
 *.dryrosewine.com
+*.ds24-handel.de
 *.dsdeinschoenergarten.de
 *.dsenergieberatung.de
 *.dshpartners.com
@@ -7274,6 +7279,7 @@
 *.eu-pharmacy-online.com
 *.eu-pnrt-stsdk.vivoglobal.com
 *.eu-romsp-unifyconfig.vivoglobal.com
+*.eu-segway.com
 *.eu-sezane.com
 *.eu-st-exappupgrade.vivoglobal.com
 *.eu-st-sl.vivoglobal.com
@@ -7449,7 +7455,9 @@
 *.eversonehandel.at
 *.everyday-outdoor.de
 *.everyknives.com
+*.evinjeta-slovenia.listocar.com
 *.eviobaby.com
+*.evisas.travel
 *.evitrol.com
 *.evo-pharmacy.com
 *.evolgrafix.de
@@ -7986,6 +7994,7 @@
 *.finebeachwear.com
 *.finetero.com
 *.finetoolstore.com
+*.fineweine.com
 *.finewineaccess.com
 *.finkerkette.de
 *.finmaxbo.com
@@ -9001,6 +9010,7 @@
 *.get-purisaki.com
 *.get-rc.to
 *.get-teralin.site
+*.get-wuffy.com
 *.getalliny.com
 *.getanswers.net
 *.getclairu.nomshopper.com
@@ -9238,6 +9248,7 @@
 *.goball.de
 *.goblinkcl.shop
 *.gobuybest.com
+*.godseedband.com
 *.goelitemarketing.com
 *.goetzwache.de
 *.goforbest.top
@@ -10001,6 +10012,7 @@
 *.heizoel-experten.de
 *.heizoel-freunde.de
 *.heizoel-fuchs24.de
+*.heizoel-genial.com
 *.heizoel-held.de
 *.heizoel-kalkulator.de
 *.heizoel-liefern.de
@@ -10838,7 +10850,6 @@
 *.immediate-coraldex.com
 *.immediate-dash.de
 *.immediate-direct.com
-*.immediate-edge2.com
 *.immediate-flik.com
 *.immediate-growth.com
 *.immediate-momentum.com
@@ -11269,7 +11280,6 @@
 *.ivermectin-apotheke.com
 *.ivermectinkoupit.com
 *.ivernamart.com
-*.ivwbox.de
 *.ivykiosk.com
 *.iwamonmodeshop.com
 *.iwildcasinoonline.com
@@ -11617,7 +11627,6 @@
 *.kamagra-premium.net
 *.kamagra-pro.com
 *.kamagra-pro.net
-*.kamagra-pro.online
 *.kamagra-prodej-levne.cz
 *.kamagra-prodej.cz
 *.kamagra-prodej.online
@@ -11686,6 +11695,7 @@
 *.kaminexpertstore.com
 *.kamingmbh.de
 *.kaminholz-briketts-holzpellets.eu
+*.kaminholz-erzgebirge.com
 *.kaminholz-premium.de
 *.kaminholzbeumer.de
 *.kaminholzdirekt.ch
@@ -13537,7 +13547,6 @@
 *.marketo.com
 *.marketoptions.com
 *.marketorbitlabs.it.com
-*.marketpills4you.com
 *.markets-capital.com
 *.markets-investment.com
 *.markets365.net
@@ -13583,6 +13592,7 @@
 *.mas-sdk.amazon-adsystem.com
 *.mas.sector.sk
 *.maschinenbau-marketingtranslations.com
+*.maschinenbau-stripegmbh.de
 *.maschinenfuergarten.de
 *.maschinenpreiswert.com
 *.mascotsmall.com
@@ -14722,7 +14732,6 @@
 *.moonwager.com
 *.moonx.io
 *.mooredvazwe.myshopify.com
-*.mooris.de
 *.moosufergarten.de
 *.mooxishop.de
 *.mopub.com
@@ -15043,6 +15052,7 @@
 *.mylead.global
 *.myleadcorner.com
 *.mylumenx.com
+*.mymedicalshop365.top
 *.mymedshoplive.com
 *.mynanosparkle.com
 *.mynco.com
@@ -15997,6 +16007,7 @@
 *.onlinedamen.de
 *.onlinedrugsnorx.com
 *.onlineeba.com
+*.onlineeinkaufswelt.com
 *.onlinefinanz-bmf.com
 *.onlineforyou.net
 *.onlinegearwrench.com
@@ -16150,6 +16161,7 @@
 *.order-cs.eu
 *.orderbuycheap.com
 *.ordergunmagazinesonline.com
+*.orderrxstore.com
 *.ordersurfsite.com
 *.orderumbrella.com
 *.ordinarlim.com
@@ -16705,7 +16717,6 @@
 *.pgddfgqt.shop
 *.pgl.example.com
 *.pgmediaserve.com
-*.pgmgcved.shop
 *.pgmus.net
 *.pgmvip.com
 *.pgpartner.com
@@ -17813,7 +17824,6 @@
 *.rechtsanwalt-wiegmann.de
 *.rechtskanzlei-karls.de
 *.rechtund-gesetz.com
-*.recoco.it
 *.recognitioy.com
 *.recollectk.com
 *.recommend.lgtvcommon.com
@@ -18328,6 +18338,7 @@
 *.rsc-ads.vidaahub.com
 *.rsc-mntz.vidaahub.com
 *.rsellssasu.com
+*.rsholzgmbh.de
 *.rta.dailymail.co.uk
 *.rtb.axp.amazon-adsystem.com
 *.rtb.gumgum.com
@@ -18335,7 +18346,6 @@
 *.rtbflairads.com
 *.rtbplatform.net
 *.rtbpop.com
-*.rtbpopd.com
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-ie.tiktokv.eu
 *.rtc-logger-ttp2.us.tiktokv.com
@@ -18943,6 +18953,7 @@
 *.schuhewienshoponline.com
 *.schuhhaus-greten.de
 *.schuhheld.com
+*.schuhkomfort.shop
 *.schuhwelten.com
 *.schulte-boutique.de
 *.schultefashion.com
@@ -19074,6 +19085,7 @@
 *.segleruhren.de
 *.segment-cdn.producthunt.com
 *.segurofx.com
+*.seidel-kanzlei.de
 *.seidl-mode.com
 *.seidlmodehaus.com
 *.seidlmodehaus.myshopify.com
@@ -19224,6 +19236,7 @@
 *.shinyflakes.de
 *.shinystat.com
 *.shinystat.it
+*.shipafreight.com
 *.shippills.com
 *.shirem.com
 *.shirteu365.com
@@ -19853,6 +19866,7 @@
 *.sovectoron-1-naatlasix-losolara.com
 *.sovkonc.ept.se
 *.sovrn.com
+*.sowaswillichauch.de
 *.soxfinancial.com
 *.sozialefinanzen.de
 *.sozialversicherungsausweisportal.de
@@ -20427,6 +20441,7 @@
 *.strongupgear.com
 *.strumpfkauf.de
 *.stsdk.vivoglobal.com
+*.stubenlatschen.com
 *.studenten-lektor.de
 *.studententransporter.de
 *.studio34beautylab.com
@@ -22855,6 +22870,7 @@
 *.vruktazelin.at
 *.vruktazelin.tech
 *.vs-home.de
+*.vsgdew.shop
 *.vssaleonline-us.shop
 *.vstelemetry.trafficmanager.net
 *.vswatches.net
@@ -23092,6 +23108,7 @@
 *.weikershem.de
 *.weil-handel.de
 *.weilco.myshopify.com
+*.weimar-maschine.de
 *.weimifuwl.com
 *.weimmer.de
 *.wein-deluxe.eu
