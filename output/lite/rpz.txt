@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-26 02:45:43
-# Total Domains: 23,973
+# Last Updated: 2026-09-27 02:46:28
+# Total Domains: 23,989
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -97,7 +97,6 @@
 3sixteenonline.org CNAME .
 4-pfoten-freizeit.de CNAME .
 47215.world CNAME .
-4bike.net CNAME .
 4d5.net CNAME .
 4dex.io CNAME .
 4dmarkt.de CNAME .
@@ -719,6 +718,7 @@ ads-bdapi-ph.heytapmobile.com CNAME .
 ads-bdapi-th.heytapmobile.com CNAME .
 ads-bdapi-vn.heytapmobile.com CNAME .
 ads-bilek.com CNAME .
+ads-cps-in.heytapmobile.com CNAME .
 ads-dev.pinterest.com CNAME .
 ads-dra.platform.hihonorcloud.com CNAME .
 ads-drcn.platform.hihonorcloud.com CNAME .
@@ -2019,7 +2019,6 @@ api.account.preview.n.xiaomi.net CNAME .
 api.ads.xiaomi.com CNAME .
 api.affiliations.site CNAME .
 api.amplitude.com CNAME .
-api.applicationinsights.azure.cn CNAME .
 api.appmetrica.yandex.ru CNAME .
 api.aurogon.intl.miui.com CNAME .
 api.bbs.miui.com CNAME .
@@ -2209,7 +2208,6 @@ arc.msn.com CNAME .
 arc1.msn.com CNAME .
 arc2.msn.com CNAME .
 arc3.msn.com CNAME .
-arc5.msn.com CNAME .
 arc9.msn.com CNAME .
 arcaktuell.de CNAME .
 archeschuheberlin.de CNAME .
@@ -2544,6 +2542,7 @@ austrian-alps-chalets.com CNAME .
 austrianmint-traderzone.com CNAME .
 austrittausderkirche.de CNAME .
 auszeit-seminar.de CNAME .
+aut.oanrp.shop CNAME .
 auth.api.gitv.tv CNAME .
 auth.be.sec.miui.com CNAME .
 auth.ff.avast.sec.miui.com CNAME .
@@ -3551,6 +3550,7 @@ bitcodeprime.org CNAME .
 bitcoin-everest-ai.fr CNAME .
 bitcoin-pharmacy.com CNAME .
 bitcoin-revolution.org CNAME .
+bitcoin-up.io CNAME .
 bitcoin-xact.fr CNAME .
 bitcoinarchon.com CNAME .
 bitcoineer.ai CNAME .
@@ -3594,7 +3594,6 @@ bizrate.com CNAME .
 bizzclick.com CNAME .
 bj-ad-lgsmartad-com.aws-prd.net CNAME .
 bjbta.com CNAME .
-bjmining.com CNAME .
 bjwdpgzv.shop CNAME .
 bk-daten.de CNAME .
 bkaffee.de CNAME .
@@ -3706,6 +3705,7 @@ bmw-bikertreff-bonsberg.de CNAME .
 bmwmt2026online.com CNAME .
 bn-ad-lgsmartad-com.aws-prd.net CNAME .
 bn.bfast.com CNAME .
+bnbsjbir.shop CNAME .
 bnp-coin.com CNAME .
 bnp-otc.com CNAME .
 bnp-otccoin.com CNAME .
@@ -4516,7 +4516,6 @@ celerypets.com CNAME .
 celeste-botanicals.com CNAME .
 celinemichaud.com CNAME .
 celio.com.de CNAME .
-cellpeptides.com CNAME .
 cellphonelocation.net CNAME .
 celmak.de CNAME .
 celorin.com CNAME .
@@ -4740,6 +4739,7 @@ clara-zurich.com CNAME .
 claraberlin.com CNAME .
 claracasperjuwelen.de CNAME .
 clarachristine-wien.at CNAME .
+claragraz.at CNAME .
 claraluzern.ch CNAME .
 clarity.microsoft.com CNAME .
 clarks-germany.com CNAME .
@@ -5051,7 +5051,10 @@ cnt1.pocitadlo.cz CNAME .
 cnvlink.com CNAME .
 cny.yoyo.org CNAME .
 co-ad-lgsmartad-com.aws-prd.net CNAME .
+co-cota.vivoglobal.com CNAME .
 co-domaincfg.vivoglobal.com CNAME .
+co-onrt-stsdk.vivoglobal.com CNAME .
+co-ort-stsdk.vivoglobal.com CNAME .
 co-pnrt-stsdk.vivoglobal.com CNAME .
 co-romsp-unifyconfig.vivoglobal.com CNAME .
 co-st-sl.vivoglobal.com CNAME .
@@ -5059,6 +5062,7 @@ co-stsdk.vivoglobal.com CNAME .
 co-timesync.vivoglobal.com CNAME .
 co-vcode-api.vivoglobal.com CNAME .
 co-vcode-od.vivoglobal.com CNAME .
+co-vcode-or.vivoglobal.com CNAME .
 coach-florian.com CNAME .
 coach-ksa.com CNAME .
 coachoutlet-store.us.org CNAME .
@@ -5566,7 +5570,6 @@ cuttingboarddirect.com CNAME .
 cv-ad-lgsmartad-com.aws-prd.net CNAME .
 cv-tech-onlineshop.de CNAME .
 cvc-capital-partners.com CNAME .
-cvmaker.de CNAME .
 cvneed.com CNAME .
 cwl-experts.org CNAME .
 cx.gamehander.com CNAME .
@@ -5792,6 +5795,7 @@ de-fahrradshop.com CNAME .
 de-filter.com CNAME .
 de-fizzclean.com CNAME .
 de-gdpr-err-up.vivoglobal.com CNAME .
+de-gdpr-vcode-api.vivoglobal.com CNAME .
 de-info-lgsmartad-com.aws-prd.net CNAME .
 de-lumelia.com CNAME .
 de-musicshop.com CNAME .
@@ -10688,6 +10692,7 @@ iadworkbench.apple.com CNAME .
 iam-invest.com CNAME .
 iamkamu.de CNAME .
 iancheer.com CNAME .
+iandamode.com CNAME .
 iauvon.com CNAME .
 iavkqjlv.shop CNAME .
 ibcfx.com CNAME .
@@ -10916,6 +10921,7 @@ in-apponrt-stsdk.vivoglobal.com CNAME .
 in-apport-stsdk.vivoglobal.com CNAME .
 in-apppnrt-stsdk.vivoglobal.com CNAME .
 in-appprt-stsdk.vivoglobal.com CNAME .
+in-cfg-stsdk.vivoglobal.com CNAME .
 in-cota.vivoglobal.com CNAME .
 in-ctdbonrt-stsdk.vivoglobal.com CNAME .
 in-ctdbort-stsdk.vivoglobal.com CNAME .
@@ -11360,6 +11366,7 @@ jerusalemcharity.com CNAME .
 jetprofund.net CNAME .
 jette-handel.de CNAME .
 jetterix.com CNAME .
+jetzt-beantragen.com CNAME .
 jeulia.de CNAME .
 jewellery-palace.com CNAME .
 jewelleryina.com CNAME .
@@ -11627,6 +11634,7 @@ kamagra-original.sk CNAME .
 kamagra-premium.net CNAME .
 kamagra-pro.com CNAME .
 kamagra-pro.net CNAME .
+kamagra-pro.online CNAME .
 kamagra-prodej-levne.cz CNAME .
 kamagra-prodej.cz CNAME .
 kamagra-prodej.online CNAME .
@@ -12881,6 +12889,7 @@ location.microsoft.com CNAME .
 location.tiktok.com CNAME .
 location.tiktokv.com CNAME .
 location.tiktokv.eu CNAME .
+location.tiktokv.us CNAME .
 location.tiktokw.us CNAME .
 location.us.tiktokv.com CNAME .
 location16-normal-useastred.tiktokv.eu CNAME .
@@ -13292,7 +13301,6 @@ lv-ad-lgsmartad-com.aws-prd.net CNAME .
 lvm-capital.com CNAME .
 lwex.com CNAME .
 lwex02.com CNAME .
-lwf-energy.com CNAME .
 lxcdn.dl.files.xiaomi.net CNAME .
 lxcvt.shop CNAME .
 lxznpo.shop CNAME .
@@ -13340,6 +13348,7 @@ macy-outletshop.com CNAME .
 madclient.uimserv.net CNAME .
 madcpms.com CNAME .
 madeleine-issing.com CNAME .
+madelinemunchen.com CNAME .
 madelor.com CNAME .
 madepants.de CNAME .
 madgamings.de CNAME .
@@ -14262,6 +14271,7 @@ milouamsterdam.nl CNAME .
 milouberlin.de CNAME .
 miloujewelrys.com CNAME .
 milyenshop.com CNAME .
+mimicoffee.com CNAME .
 mimty.de CNAME .
 minansecapital.com CNAME .
 minceex.com CNAME .
@@ -14732,6 +14742,7 @@ moontod.com CNAME .
 moonwager.com CNAME .
 moonx.io CNAME .
 mooredvazwe.myshopify.com CNAME .
+mooris.de CNAME .
 moosufergarten.de CNAME .
 mooxishop.de CNAME .
 mopub.com CNAME .
@@ -17241,6 +17252,7 @@ primehealthplus.org CNAME .
 primehouse.store CNAME .
 primekredit.com CNAME .
 primelogisticllc.com CNAME .
+primeoffer.de CNAME .
 primepharm24.com CNAME .
 primeplatform-ai.com CNAME .
 primesupply.shop CNAME .
@@ -22805,6 +22817,7 @@ volthausgeraete.de CNAME .
 voltradbike.de CNAME .
 voltryzapex.at CNAME .
 volture.de CNAME .
+volturexa.de CNAME .
 voltus-elektroshop.de CNAME .
 voluum.com CNAME .
 voluumtrk2.com CNAME .
@@ -23012,6 +23025,7 @@ waworld.de CNAME .
 waxify.de CNAME .
 wayfinderanalytics.servicebus.windows.net CNAME .
 wayofwade.at CNAME .
+wayrates.com CNAME .
 wbdhyer.shop CNAME .
 wbecrisfro.com CNAME .
 wbymall.store CNAME .
@@ -23126,6 +23140,7 @@ weinonlinestore.com CNAME .
 weinrabatt.com CNAME .
 weinshop-de.com CNAME .
 weinundgenusswelt.com CNAME .
+weinvielfalt.shop CNAME .
 weinweltgenuss.com CNAME .
 weissbt.com CNAME .
 weisseres-lacheln.at CNAME .
@@ -23570,6 +23585,7 @@ xlog16-normal-useast8.us.tiktokv.com CNAME .
 xlog16-platform-useast5.us.tiktokv.com CNAME .
 xlog16-platform-ycru.tiktokv.com CNAME .
 xlog16-tmp-normal-useast1a.tiktokv.com CNAME .
+xlorventa.shop CNAME .
 xlumina.at CNAME .
 xlumina.de CNAME .
 xmadramen.club CNAME .

@@ -93,7 +93,6 @@
 3sixteenonline.org
 4-pfoten-freizeit.de
 47215.world
-4bike.net
 4d5.net
 4dex.io
 4dmarkt.de
@@ -715,6 +714,7 @@ ads-bdapi-ph.heytapmobile.com
 ads-bdapi-th.heytapmobile.com
 ads-bdapi-vn.heytapmobile.com
 ads-bilek.com
+ads-cps-in.heytapmobile.com
 ads-dev.pinterest.com
 ads-dra.platform.hihonorcloud.com
 ads-drcn.platform.hihonorcloud.com
@@ -2015,7 +2015,6 @@ api.account.preview.n.xiaomi.net
 api.ads.xiaomi.com
 api.affiliations.site
 api.amplitude.com
-api.applicationinsights.azure.cn
 api.appmetrica.yandex.ru
 api.aurogon.intl.miui.com
 api.bbs.miui.com
@@ -2205,7 +2204,6 @@ arc.msn.com
 arc1.msn.com
 arc2.msn.com
 arc3.msn.com
-arc5.msn.com
 arc9.msn.com
 arcaktuell.de
 archeschuheberlin.de
@@ -2540,6 +2538,7 @@ austrian-alps-chalets.com
 austrianmint-traderzone.com
 austrittausderkirche.de
 auszeit-seminar.de
+aut.oanrp.shop
 auth.api.gitv.tv
 auth.be.sec.miui.com
 auth.ff.avast.sec.miui.com
@@ -3547,6 +3546,7 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
+bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -3590,7 +3590,6 @@ bizrate.com
 bizzclick.com
 bj-ad-lgsmartad-com.aws-prd.net
 bjbta.com
-bjmining.com
 bjwdpgzv.shop
 bk-daten.de
 bkaffee.de
@@ -3702,6 +3701,7 @@ bmw-bikertreff-bonsberg.de
 bmwmt2026online.com
 bn-ad-lgsmartad-com.aws-prd.net
 bn.bfast.com
+bnbsjbir.shop
 bnp-coin.com
 bnp-otc.com
 bnp-otccoin.com
@@ -4512,7 +4512,6 @@ celerypets.com
 celeste-botanicals.com
 celinemichaud.com
 celio.com.de
-cellpeptides.com
 cellphonelocation.net
 celmak.de
 celorin.com
@@ -4736,6 +4735,7 @@ clara-zurich.com
 claraberlin.com
 claracasperjuwelen.de
 clarachristine-wien.at
+claragraz.at
 claraluzern.ch
 clarity.microsoft.com
 clarks-germany.com
@@ -5047,7 +5047,10 @@ cnt1.pocitadlo.cz
 cnvlink.com
 cny.yoyo.org
 co-ad-lgsmartad-com.aws-prd.net
+co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
+co-onrt-stsdk.vivoglobal.com
+co-ort-stsdk.vivoglobal.com
 co-pnrt-stsdk.vivoglobal.com
 co-romsp-unifyconfig.vivoglobal.com
 co-st-sl.vivoglobal.com
@@ -5055,6 +5058,7 @@ co-stsdk.vivoglobal.com
 co-timesync.vivoglobal.com
 co-vcode-api.vivoglobal.com
 co-vcode-od.vivoglobal.com
+co-vcode-or.vivoglobal.com
 coach-florian.com
 coach-ksa.com
 coachoutlet-store.us.org
@@ -5562,7 +5566,6 @@ cuttingboarddirect.com
 cv-ad-lgsmartad-com.aws-prd.net
 cv-tech-onlineshop.de
 cvc-capital-partners.com
-cvmaker.de
 cvneed.com
 cwl-experts.org
 cx.gamehander.com
@@ -5788,6 +5791,7 @@ de-fahrradshop.com
 de-filter.com
 de-fizzclean.com
 de-gdpr-err-up.vivoglobal.com
+de-gdpr-vcode-api.vivoglobal.com
 de-info-lgsmartad-com.aws-prd.net
 de-lumelia.com
 de-musicshop.com
@@ -10684,6 +10688,7 @@ iadworkbench.apple.com
 iam-invest.com
 iamkamu.de
 iancheer.com
+iandamode.com
 iauvon.com
 iavkqjlv.shop
 ibcfx.com
@@ -10912,6 +10917,7 @@ in-apponrt-stsdk.vivoglobal.com
 in-apport-stsdk.vivoglobal.com
 in-apppnrt-stsdk.vivoglobal.com
 in-appprt-stsdk.vivoglobal.com
+in-cfg-stsdk.vivoglobal.com
 in-cota.vivoglobal.com
 in-ctdbonrt-stsdk.vivoglobal.com
 in-ctdbort-stsdk.vivoglobal.com
@@ -11356,6 +11362,7 @@ jerusalemcharity.com
 jetprofund.net
 jette-handel.de
 jetterix.com
+jetzt-beantragen.com
 jeulia.de
 jewellery-palace.com
 jewelleryina.com
@@ -11623,6 +11630,7 @@ kamagra-original.sk
 kamagra-premium.net
 kamagra-pro.com
 kamagra-pro.net
+kamagra-pro.online
 kamagra-prodej-levne.cz
 kamagra-prodej.cz
 kamagra-prodej.online
@@ -12877,6 +12885,7 @@ location.microsoft.com
 location.tiktok.com
 location.tiktokv.com
 location.tiktokv.eu
+location.tiktokv.us
 location.tiktokw.us
 location.us.tiktokv.com
 location16-normal-useastred.tiktokv.eu
@@ -13288,7 +13297,6 @@ lv-ad-lgsmartad-com.aws-prd.net
 lvm-capital.com
 lwex.com
 lwex02.com
-lwf-energy.com
 lxcdn.dl.files.xiaomi.net
 lxcvt.shop
 lxznpo.shop
@@ -13336,6 +13344,7 @@ macy-outletshop.com
 madclient.uimserv.net
 madcpms.com
 madeleine-issing.com
+madelinemunchen.com
 madelor.com
 madepants.de
 madgamings.de
@@ -14258,6 +14267,7 @@ milouamsterdam.nl
 milouberlin.de
 miloujewelrys.com
 milyenshop.com
+mimicoffee.com
 mimty.de
 minansecapital.com
 minceex.com
@@ -14728,6 +14738,7 @@ moontod.com
 moonwager.com
 moonx.io
 mooredvazwe.myshopify.com
+mooris.de
 moosufergarten.de
 mooxishop.de
 mopub.com
@@ -17237,6 +17248,7 @@ primehealthplus.org
 primehouse.store
 primekredit.com
 primelogisticllc.com
+primeoffer.de
 primepharm24.com
 primeplatform-ai.com
 primesupply.shop
@@ -22801,6 +22813,7 @@ volthausgeraete.de
 voltradbike.de
 voltryzapex.at
 volture.de
+volturexa.de
 voltus-elektroshop.de
 voluum.com
 voluumtrk2.com
@@ -23008,6 +23021,7 @@ waworld.de
 waxify.de
 wayfinderanalytics.servicebus.windows.net
 wayofwade.at
+wayrates.com
 wbdhyer.shop
 wbecrisfro.com
 wbymall.store
@@ -23122,6 +23136,7 @@ weinonlinestore.com
 weinrabatt.com
 weinshop-de.com
 weinundgenusswelt.com
+weinvielfalt.shop
 weinweltgenuss.com
 weissbt.com
 weisseres-lacheln.at
@@ -23566,6 +23581,7 @@ xlog16-normal-useast8.us.tiktokv.com
 xlog16-platform-useast5.us.tiktokv.com
 xlog16-platform-ycru.tiktokv.com
 xlog16-tmp-normal-useast1a.tiktokv.com
+xlorventa.shop
 xlumina.at
 xlumina.de
 xmadramen.club
