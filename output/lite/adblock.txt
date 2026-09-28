@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-09-27 02:46:28
-! Total Domains: 23,989
+! Last Updated: 2026-09-28 02:47:52
+! Total Domains: 23,990
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -9,7 +9,7 @@
 ||0dgwn.bemobtrcks.com^
 ||0el-preiswert-kaufen.de^
 ||0hyzxx-rc.myshopify.com^
-||1-rx-shop.com^
+||101apotheek.com^
 ||101com.com^
 ||101vectorcenter.sbs^
 ||10xdealership.com^
@@ -172,7 +172,6 @@
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.recruit-card.jp^
 ||aa-metrics.trip-ai.jp^
-||aaaclothing.ru^
 ||aachentag.com^
 ||aacreek-ranch.de^
 ||aaddzz.com^
@@ -3298,7 +3297,6 @@
 ||bestpagjkl.com^
 ||bestpharm-eu.com^
 ||bestpillpharmacy.com^
-||bestpillsnetwork.com^
 ||bestpricetreatments.com^
 ||bestproductsonlinestore.com^
 ||bestprogift.com^
@@ -4060,6 +4058,7 @@
 ||buckbasil.com^
 ||buckbirch.com^
 ||buckleybelts.de^
+||buddhapowerstore.com^
 ||buddingscholarsonline.com^
 ||buddycanvas.com^
 ||budgetburstdeals.com^
@@ -4601,7 +4600,6 @@
 ||chaussuressimple.com^
 ||chc-visio-telemetry.officeapps.live.com^
 ||chcierekci.cc^
-||che.com^
 ||cheapcharly.de^
 ||cheapestcosmetic.com^
 ||cheapmondo.com^
@@ -4798,6 +4796,7 @@
 ||clicfenetres-sarl.de^
 ||click-1.pl^
 ||click-earn.to^
+||click-v4.expclknb.com^
 ||click-zigaretten.com^
 ||click.airmalta-mail.com^
 ||click.aliexpress.com^
@@ -10196,7 +10195,6 @@
 ||hgtyfd.shop^
 ||hi-goeedoo.com^
 ||hibote.de^
-||hicity.de^
 ||hico-shop.de^
 ||hiddenbarandgrill.com^
 ||hiddenhertz.com^
@@ -10337,7 +10335,6 @@
 ||hokarunnershungary.com^
 ||hokasale.de^
 ||hokastyle.com^
-||holapick.com^
 ||holda-konigsallee.de^
 ||holdinggb.com^
 ||holdirwerkzeug.de^
@@ -10512,6 +10509,7 @@
 ||hotels-colombo.com^
 ||hotels-colorado.net^
 ||hotelsinperm.ru^
+||hotelsinvienna.org^
 ||hotelsofmenorca.com^
 ||hotelwareus.com^
 ||hotelwhales.com^
@@ -14186,6 +14184,7 @@
 ||mg-ad-lgsmartad-com.aws-prd.net^
 ||mg-management.de^
 ||mg2connext.com^
+||mgaffaires.com^
 ||mgid.com^
 ||mgmglobal.com^
 ||mhamzasaleem.com^
@@ -15536,6 +15535,7 @@
 ||norya.de^
 ||not-bad.shop^
 ||notationi.com^
+||notebookakku.at^
 ||notebooknetzteileshop.de^
 ||notenweltde.com^
 ||notes-analytics-events.apple.com^
@@ -15847,7 +15847,6 @@
 ||officialyeti.com^
 ||officiellejordan.eu.com^
 ||offizieller-iq-test.com^
-||offshorecheapmeds.com^
 ||offshoregeology.com^
 ||offsidegiugliano.shop^
 ||offup-vip.za.com^
@@ -16025,6 +16024,7 @@
 ||onlinegoodshub.com^
 ||onlinehealthworldtrust.com^
 ||onlineindiespiele.de^
+||onlinekamagra.com^
 ||onlinekamagrastore.org^
 ||onlinekohler.com^
 ||onlinelearningquality.org^
@@ -16338,6 +16338,7 @@
 ||outletjoma.com^
 ||outletlivingstore.com^
 ||outletnewin.com^
+||outletpc.de^
 ||outletpickleball.com^
 ||outletrevel.com^
 ||outletsadv.com^
@@ -16808,7 +16809,6 @@
 ||pharmaplax.com^
 ||pharmaracapital.com^
 ||pharmaright.vu^
-||pharmaris.net^
 ||pharmaserve.com^
 ||pharmatheke-europe.com^
 ||pharmrx-1.com^
@@ -22736,6 +22736,7 @@
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
+||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^

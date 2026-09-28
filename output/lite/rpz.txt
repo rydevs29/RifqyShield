@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-27 02:46:28
-# Total Domains: 23,989
+# Last Updated: 2026-09-28 02:47:52
+# Total Domains: 23,990
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -9,7 +9,7 @@
 0dgwn.bemobtrcks.com CNAME .
 0el-preiswert-kaufen.de CNAME .
 0hyzxx-rc.myshopify.com CNAME .
-1-rx-shop.com CNAME .
+101apotheek.com CNAME .
 101com.com CNAME .
 101vectorcenter.sbs CNAME .
 10xdealership.com CNAME .
@@ -172,7 +172,6 @@ a64ad4-3.myshopify.com CNAME .
 aa-metrics.beauty.hotpepper.jp CNAME .
 aa-metrics.recruit-card.jp CNAME .
 aa-metrics.trip-ai.jp CNAME .
-aaaclothing.ru CNAME .
 aachentag.com CNAME .
 aacreek-ranch.de CNAME .
 aaddzz.com CNAME .
@@ -3298,7 +3297,6 @@ bestoutlet-tool.com CNAME .
 bestpagjkl.com CNAME .
 bestpharm-eu.com CNAME .
 bestpillpharmacy.com CNAME .
-bestpillsnetwork.com CNAME .
 bestpricetreatments.com CNAME .
 bestproductsonlinestore.com CNAME .
 bestprogift.com CNAME .
@@ -4060,6 +4058,7 @@ bucinator.shop CNAME .
 buckbasil.com CNAME .
 buckbirch.com CNAME .
 buckleybelts.de CNAME .
+buddhapowerstore.com CNAME .
 buddingscholarsonline.com CNAME .
 buddycanvas.com CNAME .
 budgetburstdeals.com CNAME .
@@ -4601,7 +4600,6 @@ chauffage-energie.com CNAME .
 chaussuressimple.com CNAME .
 chc-visio-telemetry.officeapps.live.com CNAME .
 chcierekci.cc CNAME .
-che.com CNAME .
 cheapcharly.de CNAME .
 cheapestcosmetic.com CNAME .
 cheapmondo.com CNAME .
@@ -4798,6 +4796,7 @@ clic-fenetressarl.de CNAME .
 clicfenetres-sarl.de CNAME .
 click-1.pl CNAME .
 click-earn.to CNAME .
+click-v4.expclknb.com CNAME .
 click-zigaretten.com CNAME .
 click.airmalta-mail.com CNAME .
 click.aliexpress.com CNAME .
@@ -10196,7 +10195,6 @@ hgads.com CNAME .
 hgtyfd.shop CNAME .
 hi-goeedoo.com CNAME .
 hibote.de CNAME .
-hicity.de CNAME .
 hico-shop.de CNAME .
 hiddenbarandgrill.com CNAME .
 hiddenhertz.com CNAME .
@@ -10337,7 +10335,6 @@ hokadeutschland.de CNAME .
 hokarunnershungary.com CNAME .
 hokasale.de CNAME .
 hokastyle.com CNAME .
-holapick.com CNAME .
 holda-konigsallee.de CNAME .
 holdinggb.com CNAME .
 holdirwerkzeug.de CNAME .
@@ -10512,6 +10509,7 @@ hotelladen.com CNAME .
 hotels-colombo.com CNAME .
 hotels-colorado.net CNAME .
 hotelsinperm.ru CNAME .
+hotelsinvienna.org CNAME .
 hotelsofmenorca.com CNAME .
 hotelwareus.com CNAME .
 hotelwhales.com CNAME .
@@ -14186,6 +14184,7 @@ mfsebike.com CNAME .
 mg-ad-lgsmartad-com.aws-prd.net CNAME .
 mg-management.de CNAME .
 mg2connext.com CNAME .
+mgaffaires.com CNAME .
 mgid.com CNAME .
 mgmglobal.com CNAME .
 mhamzasaleem.com CNAME .
@@ -15536,6 +15535,7 @@ norxonline.biz CNAME .
 norya.de CNAME .
 not-bad.shop CNAME .
 notationi.com CNAME .
+notebookakku.at CNAME .
 notebooknetzteileshop.de CNAME .
 notenweltde.com CNAME .
 notes-analytics-events.apple.com CNAME .
@@ -15847,7 +15847,6 @@ officialrenewritualsupplement.shop CNAME .
 officialyeti.com CNAME .
 officiellejordan.eu.com CNAME .
 offizieller-iq-test.com CNAME .
-offshorecheapmeds.com CNAME .
 offshoregeology.com CNAME .
 offsidegiugliano.shop CNAME .
 offup-vip.za.com CNAME .
@@ -16025,6 +16024,7 @@ onlinegearwrench.com CNAME .
 onlinegoodshub.com CNAME .
 onlinehealthworldtrust.com CNAME .
 onlineindiespiele.de CNAME .
+onlinekamagra.com CNAME .
 onlinekamagrastore.org CNAME .
 onlinekohler.com CNAME .
 onlinelearningquality.org CNAME .
@@ -16338,6 +16338,7 @@ outlethikingtentde.com CNAME .
 outletjoma.com CNAME .
 outletlivingstore.com CNAME .
 outletnewin.com CNAME .
+outletpc.de CNAME .
 outletpickleball.com CNAME .
 outletrevel.com CNAME .
 outletsadv.com CNAME .
@@ -16808,7 +16809,6 @@ pharmapillen.de CNAME .
 pharmaplax.com CNAME .
 pharmaracapital.com CNAME .
 pharmaright.vu CNAME .
-pharmaris.net CNAME .
 pharmaserve.com CNAME .
 pharmatheke-europe.com CNAME .
 pharmrx-1.com CNAME .
@@ -22736,6 +22736,7 @@ vivads.net CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .

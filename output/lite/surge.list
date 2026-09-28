@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-27 02:46:28
-# Total Domains: 23,989
+# Last Updated: 2026-09-28 02:47:52
+# Total Domains: 23,990
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,01crypto.com,REJECT
 DOMAIN-SUFFIX,0dgwn.bemobtrcks.com,REJECT
 DOMAIN-SUFFIX,0el-preiswert-kaufen.de,REJECT
 DOMAIN-SUFFIX,0hyzxx-rc.myshopify.com,REJECT
-DOMAIN-SUFFIX,1-rx-shop.com,REJECT
+DOMAIN-SUFFIX,101apotheek.com,REJECT
 DOMAIN-SUFFIX,101com.com,REJECT
 DOMAIN-SUFFIX,101vectorcenter.sbs,REJECT
 DOMAIN-SUFFIX,10xdealership.com,REJECT
@@ -172,7 +172,6 @@ DOMAIN-SUFFIX,a64ad4-3.myshopify.com,REJECT
 DOMAIN-SUFFIX,aa-metrics.beauty.hotpepper.jp,REJECT
 DOMAIN-SUFFIX,aa-metrics.recruit-card.jp,REJECT
 DOMAIN-SUFFIX,aa-metrics.trip-ai.jp,REJECT
-DOMAIN-SUFFIX,aaaclothing.ru,REJECT
 DOMAIN-SUFFIX,aachentag.com,REJECT
 DOMAIN-SUFFIX,aacreek-ranch.de,REJECT
 DOMAIN-SUFFIX,aaddzz.com,REJECT
@@ -3298,7 +3297,6 @@ DOMAIN-SUFFIX,bestoutlet-tool.com,REJECT
 DOMAIN-SUFFIX,bestpagjkl.com,REJECT
 DOMAIN-SUFFIX,bestpharm-eu.com,REJECT
 DOMAIN-SUFFIX,bestpillpharmacy.com,REJECT
-DOMAIN-SUFFIX,bestpillsnetwork.com,REJECT
 DOMAIN-SUFFIX,bestpricetreatments.com,REJECT
 DOMAIN-SUFFIX,bestproductsonlinestore.com,REJECT
 DOMAIN-SUFFIX,bestprogift.com,REJECT
@@ -4060,6 +4058,7 @@ DOMAIN-SUFFIX,bucinator.shop,REJECT
 DOMAIN-SUFFIX,buckbasil.com,REJECT
 DOMAIN-SUFFIX,buckbirch.com,REJECT
 DOMAIN-SUFFIX,buckleybelts.de,REJECT
+DOMAIN-SUFFIX,buddhapowerstore.com,REJECT
 DOMAIN-SUFFIX,buddingscholarsonline.com,REJECT
 DOMAIN-SUFFIX,buddycanvas.com,REJECT
 DOMAIN-SUFFIX,budgetburstdeals.com,REJECT
@@ -4601,7 +4600,6 @@ DOMAIN-SUFFIX,chauffage-energie.com,REJECT
 DOMAIN-SUFFIX,chaussuressimple.com,REJECT
 DOMAIN-SUFFIX,chc-visio-telemetry.officeapps.live.com,REJECT
 DOMAIN-SUFFIX,chcierekci.cc,REJECT
-DOMAIN-SUFFIX,che.com,REJECT
 DOMAIN-SUFFIX,cheapcharly.de,REJECT
 DOMAIN-SUFFIX,cheapestcosmetic.com,REJECT
 DOMAIN-SUFFIX,cheapmondo.com,REJECT
@@ -4798,6 +4796,7 @@ DOMAIN-SUFFIX,clic-fenetressarl.de,REJECT
 DOMAIN-SUFFIX,clicfenetres-sarl.de,REJECT
 DOMAIN-SUFFIX,click-1.pl,REJECT
 DOMAIN-SUFFIX,click-earn.to,REJECT
+DOMAIN-SUFFIX,click-v4.expclknb.com,REJECT
 DOMAIN-SUFFIX,click-zigaretten.com,REJECT
 DOMAIN-SUFFIX,click.airmalta-mail.com,REJECT
 DOMAIN-SUFFIX,click.aliexpress.com,REJECT
@@ -10196,7 +10195,6 @@ DOMAIN-SUFFIX,hgads.com,REJECT
 DOMAIN-SUFFIX,hgtyfd.shop,REJECT
 DOMAIN-SUFFIX,hi-goeedoo.com,REJECT
 DOMAIN-SUFFIX,hibote.de,REJECT
-DOMAIN-SUFFIX,hicity.de,REJECT
 DOMAIN-SUFFIX,hico-shop.de,REJECT
 DOMAIN-SUFFIX,hiddenbarandgrill.com,REJECT
 DOMAIN-SUFFIX,hiddenhertz.com,REJECT
@@ -10337,7 +10335,6 @@ DOMAIN-SUFFIX,hokadeutschland.de,REJECT
 DOMAIN-SUFFIX,hokarunnershungary.com,REJECT
 DOMAIN-SUFFIX,hokasale.de,REJECT
 DOMAIN-SUFFIX,hokastyle.com,REJECT
-DOMAIN-SUFFIX,holapick.com,REJECT
 DOMAIN-SUFFIX,holda-konigsallee.de,REJECT
 DOMAIN-SUFFIX,holdinggb.com,REJECT
 DOMAIN-SUFFIX,holdirwerkzeug.de,REJECT
@@ -10512,6 +10509,7 @@ DOMAIN-SUFFIX,hotelladen.com,REJECT
 DOMAIN-SUFFIX,hotels-colombo.com,REJECT
 DOMAIN-SUFFIX,hotels-colorado.net,REJECT
 DOMAIN-SUFFIX,hotelsinperm.ru,REJECT
+DOMAIN-SUFFIX,hotelsinvienna.org,REJECT
 DOMAIN-SUFFIX,hotelsofmenorca.com,REJECT
 DOMAIN-SUFFIX,hotelwareus.com,REJECT
 DOMAIN-SUFFIX,hotelwhales.com,REJECT
@@ -14186,6 +14184,7 @@ DOMAIN-SUFFIX,mfsebike.com,REJECT
 DOMAIN-SUFFIX,mg-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,mg-management.de,REJECT
 DOMAIN-SUFFIX,mg2connext.com,REJECT
+DOMAIN-SUFFIX,mgaffaires.com,REJECT
 DOMAIN-SUFFIX,mgid.com,REJECT
 DOMAIN-SUFFIX,mgmglobal.com,REJECT
 DOMAIN-SUFFIX,mhamzasaleem.com,REJECT
@@ -15536,6 +15535,7 @@ DOMAIN-SUFFIX,norxonline.biz,REJECT
 DOMAIN-SUFFIX,norya.de,REJECT
 DOMAIN-SUFFIX,not-bad.shop,REJECT
 DOMAIN-SUFFIX,notationi.com,REJECT
+DOMAIN-SUFFIX,notebookakku.at,REJECT
 DOMAIN-SUFFIX,notebooknetzteileshop.de,REJECT
 DOMAIN-SUFFIX,notenweltde.com,REJECT
 DOMAIN-SUFFIX,notes-analytics-events.apple.com,REJECT
@@ -15847,7 +15847,6 @@ DOMAIN-SUFFIX,officialrenewritualsupplement.shop,REJECT
 DOMAIN-SUFFIX,officialyeti.com,REJECT
 DOMAIN-SUFFIX,officiellejordan.eu.com,REJECT
 DOMAIN-SUFFIX,offizieller-iq-test.com,REJECT
-DOMAIN-SUFFIX,offshorecheapmeds.com,REJECT
 DOMAIN-SUFFIX,offshoregeology.com,REJECT
 DOMAIN-SUFFIX,offsidegiugliano.shop,REJECT
 DOMAIN-SUFFIX,offup-vip.za.com,REJECT
@@ -16025,6 +16024,7 @@ DOMAIN-SUFFIX,onlinegearwrench.com,REJECT
 DOMAIN-SUFFIX,onlinegoodshub.com,REJECT
 DOMAIN-SUFFIX,onlinehealthworldtrust.com,REJECT
 DOMAIN-SUFFIX,onlineindiespiele.de,REJECT
+DOMAIN-SUFFIX,onlinekamagra.com,REJECT
 DOMAIN-SUFFIX,onlinekamagrastore.org,REJECT
 DOMAIN-SUFFIX,onlinekohler.com,REJECT
 DOMAIN-SUFFIX,onlinelearningquality.org,REJECT
@@ -16338,6 +16338,7 @@ DOMAIN-SUFFIX,outlethikingtentde.com,REJECT
 DOMAIN-SUFFIX,outletjoma.com,REJECT
 DOMAIN-SUFFIX,outletlivingstore.com,REJECT
 DOMAIN-SUFFIX,outletnewin.com,REJECT
+DOMAIN-SUFFIX,outletpc.de,REJECT
 DOMAIN-SUFFIX,outletpickleball.com,REJECT
 DOMAIN-SUFFIX,outletrevel.com,REJECT
 DOMAIN-SUFFIX,outletsadv.com,REJECT
@@ -16808,7 +16809,6 @@ DOMAIN-SUFFIX,pharmapillen.de,REJECT
 DOMAIN-SUFFIX,pharmaplax.com,REJECT
 DOMAIN-SUFFIX,pharmaracapital.com,REJECT
 DOMAIN-SUFFIX,pharmaright.vu,REJECT
-DOMAIN-SUFFIX,pharmaris.net,REJECT
 DOMAIN-SUFFIX,pharmaserve.com,REJECT
 DOMAIN-SUFFIX,pharmatheke-europe.com,REJECT
 DOMAIN-SUFFIX,pharmrx-1.com,REJECT
@@ -22736,6 +22736,7 @@ DOMAIN-SUFFIX,vivads.net,REJECT
 DOMAIN-SUFFIX,vivagopro.com,REJECT
 DOMAIN-SUFFIX,vivaharmoni.com,REJECT
 DOMAIN-SUFFIX,vivaia-schuhe.de,REJECT
+DOMAIN-SUFFIX,vivaiacollection.com,REJECT
 DOMAIN-SUFFIX,vivaiaschuhe.at,REJECT
 DOMAIN-SUFFIX,vivaiaschuhe.com,REJECT
 DOMAIN-SUFFIX,vivaiaschuhe.de,REJECT

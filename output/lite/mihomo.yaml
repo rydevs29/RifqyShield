@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-27 02:46:28
-# Total Domains: 23,989
+# Last Updated: 2026-09-28 02:47:52
+# Total Domains: 23,990
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -10,7 +10,7 @@ payload:
   - DOMAIN-SUFFIX,0dgwn.bemobtrcks.com
   - DOMAIN-SUFFIX,0el-preiswert-kaufen.de
   - DOMAIN-SUFFIX,0hyzxx-rc.myshopify.com
-  - DOMAIN-SUFFIX,1-rx-shop.com
+  - DOMAIN-SUFFIX,101apotheek.com
   - DOMAIN-SUFFIX,101com.com
   - DOMAIN-SUFFIX,101vectorcenter.sbs
   - DOMAIN-SUFFIX,10xdealership.com
@@ -173,7 +173,6 @@ payload:
   - DOMAIN-SUFFIX,aa-metrics.beauty.hotpepper.jp
   - DOMAIN-SUFFIX,aa-metrics.recruit-card.jp
   - DOMAIN-SUFFIX,aa-metrics.trip-ai.jp
-  - DOMAIN-SUFFIX,aaaclothing.ru
   - DOMAIN-SUFFIX,aachentag.com
   - DOMAIN-SUFFIX,aacreek-ranch.de
   - DOMAIN-SUFFIX,aaddzz.com
@@ -3299,7 +3298,6 @@ payload:
   - DOMAIN-SUFFIX,bestpagjkl.com
   - DOMAIN-SUFFIX,bestpharm-eu.com
   - DOMAIN-SUFFIX,bestpillpharmacy.com
-  - DOMAIN-SUFFIX,bestpillsnetwork.com
   - DOMAIN-SUFFIX,bestpricetreatments.com
   - DOMAIN-SUFFIX,bestproductsonlinestore.com
   - DOMAIN-SUFFIX,bestprogift.com
@@ -4061,6 +4059,7 @@ payload:
   - DOMAIN-SUFFIX,buckbasil.com
   - DOMAIN-SUFFIX,buckbirch.com
   - DOMAIN-SUFFIX,buckleybelts.de
+  - DOMAIN-SUFFIX,buddhapowerstore.com
   - DOMAIN-SUFFIX,buddingscholarsonline.com
   - DOMAIN-SUFFIX,buddycanvas.com
   - DOMAIN-SUFFIX,budgetburstdeals.com
@@ -4602,7 +4601,6 @@ payload:
   - DOMAIN-SUFFIX,chaussuressimple.com
   - DOMAIN-SUFFIX,chc-visio-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,chcierekci.cc
-  - DOMAIN-SUFFIX,che.com
   - DOMAIN-SUFFIX,cheapcharly.de
   - DOMAIN-SUFFIX,cheapestcosmetic.com
   - DOMAIN-SUFFIX,cheapmondo.com
@@ -4799,6 +4797,7 @@ payload:
   - DOMAIN-SUFFIX,clicfenetres-sarl.de
   - DOMAIN-SUFFIX,click-1.pl
   - DOMAIN-SUFFIX,click-earn.to
+  - DOMAIN-SUFFIX,click-v4.expclknb.com
   - DOMAIN-SUFFIX,click-zigaretten.com
   - DOMAIN-SUFFIX,click.airmalta-mail.com
   - DOMAIN-SUFFIX,click.aliexpress.com
@@ -10197,7 +10196,6 @@ payload:
   - DOMAIN-SUFFIX,hgtyfd.shop
   - DOMAIN-SUFFIX,hi-goeedoo.com
   - DOMAIN-SUFFIX,hibote.de
-  - DOMAIN-SUFFIX,hicity.de
   - DOMAIN-SUFFIX,hico-shop.de
   - DOMAIN-SUFFIX,hiddenbarandgrill.com
   - DOMAIN-SUFFIX,hiddenhertz.com
@@ -10338,7 +10336,6 @@ payload:
   - DOMAIN-SUFFIX,hokarunnershungary.com
   - DOMAIN-SUFFIX,hokasale.de
   - DOMAIN-SUFFIX,hokastyle.com
-  - DOMAIN-SUFFIX,holapick.com
   - DOMAIN-SUFFIX,holda-konigsallee.de
   - DOMAIN-SUFFIX,holdinggb.com
   - DOMAIN-SUFFIX,holdirwerkzeug.de
@@ -10513,6 +10510,7 @@ payload:
   - DOMAIN-SUFFIX,hotels-colombo.com
   - DOMAIN-SUFFIX,hotels-colorado.net
   - DOMAIN-SUFFIX,hotelsinperm.ru
+  - DOMAIN-SUFFIX,hotelsinvienna.org
   - DOMAIN-SUFFIX,hotelsofmenorca.com
   - DOMAIN-SUFFIX,hotelwareus.com
   - DOMAIN-SUFFIX,hotelwhales.com
@@ -14187,6 +14185,7 @@ payload:
   - DOMAIN-SUFFIX,mg-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,mg-management.de
   - DOMAIN-SUFFIX,mg2connext.com
+  - DOMAIN-SUFFIX,mgaffaires.com
   - DOMAIN-SUFFIX,mgid.com
   - DOMAIN-SUFFIX,mgmglobal.com
   - DOMAIN-SUFFIX,mhamzasaleem.com
@@ -15537,6 +15536,7 @@ payload:
   - DOMAIN-SUFFIX,norya.de
   - DOMAIN-SUFFIX,not-bad.shop
   - DOMAIN-SUFFIX,notationi.com
+  - DOMAIN-SUFFIX,notebookakku.at
   - DOMAIN-SUFFIX,notebooknetzteileshop.de
   - DOMAIN-SUFFIX,notenweltde.com
   - DOMAIN-SUFFIX,notes-analytics-events.apple.com
@@ -15848,7 +15848,6 @@ payload:
   - DOMAIN-SUFFIX,officialyeti.com
   - DOMAIN-SUFFIX,officiellejordan.eu.com
   - DOMAIN-SUFFIX,offizieller-iq-test.com
-  - DOMAIN-SUFFIX,offshorecheapmeds.com
   - DOMAIN-SUFFIX,offshoregeology.com
   - DOMAIN-SUFFIX,offsidegiugliano.shop
   - DOMAIN-SUFFIX,offup-vip.za.com
@@ -16026,6 +16025,7 @@ payload:
   - DOMAIN-SUFFIX,onlinegoodshub.com
   - DOMAIN-SUFFIX,onlinehealthworldtrust.com
   - DOMAIN-SUFFIX,onlineindiespiele.de
+  - DOMAIN-SUFFIX,onlinekamagra.com
   - DOMAIN-SUFFIX,onlinekamagrastore.org
   - DOMAIN-SUFFIX,onlinekohler.com
   - DOMAIN-SUFFIX,onlinelearningquality.org
@@ -16339,6 +16339,7 @@ payload:
   - DOMAIN-SUFFIX,outletjoma.com
   - DOMAIN-SUFFIX,outletlivingstore.com
   - DOMAIN-SUFFIX,outletnewin.com
+  - DOMAIN-SUFFIX,outletpc.de
   - DOMAIN-SUFFIX,outletpickleball.com
   - DOMAIN-SUFFIX,outletrevel.com
   - DOMAIN-SUFFIX,outletsadv.com
@@ -16809,7 +16810,6 @@ payload:
   - DOMAIN-SUFFIX,pharmaplax.com
   - DOMAIN-SUFFIX,pharmaracapital.com
   - DOMAIN-SUFFIX,pharmaright.vu
-  - DOMAIN-SUFFIX,pharmaris.net
   - DOMAIN-SUFFIX,pharmaserve.com
   - DOMAIN-SUFFIX,pharmatheke-europe.com
   - DOMAIN-SUFFIX,pharmrx-1.com
@@ -22737,6 +22737,7 @@ payload:
   - DOMAIN-SUFFIX,vivagopro.com
   - DOMAIN-SUFFIX,vivaharmoni.com
   - DOMAIN-SUFFIX,vivaia-schuhe.de
+  - DOMAIN-SUFFIX,vivaiacollection.com
   - DOMAIN-SUFFIX,vivaiaschuhe.at
   - DOMAIN-SUFFIX,vivaiaschuhe.com
   - DOMAIN-SUFFIX,vivaiaschuhe.de

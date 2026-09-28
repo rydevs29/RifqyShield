@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-27 02:46:28
-# Total Domains: 23,989
+# Last Updated: 2026-09-28 02:47:52
+# Total Domains: 23,990
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -10,7 +10,7 @@ add name="01crypto.com" address=0.0.0.0
 add name="0dgwn.bemobtrcks.com" address=0.0.0.0
 add name="0el-preiswert-kaufen.de" address=0.0.0.0
 add name="0hyzxx-rc.myshopify.com" address=0.0.0.0
-add name="1-rx-shop.com" address=0.0.0.0
+add name="101apotheek.com" address=0.0.0.0
 add name="101com.com" address=0.0.0.0
 add name="101vectorcenter.sbs" address=0.0.0.0
 add name="10xdealership.com" address=0.0.0.0
@@ -173,7 +173,6 @@ add name="a64ad4-3.myshopify.com" address=0.0.0.0
 add name="aa-metrics.beauty.hotpepper.jp" address=0.0.0.0
 add name="aa-metrics.recruit-card.jp" address=0.0.0.0
 add name="aa-metrics.trip-ai.jp" address=0.0.0.0
-add name="aaaclothing.ru" address=0.0.0.0
 add name="aachentag.com" address=0.0.0.0
 add name="aacreek-ranch.de" address=0.0.0.0
 add name="aaddzz.com" address=0.0.0.0
@@ -3299,7 +3298,6 @@ add name="bestoutlet-tool.com" address=0.0.0.0
 add name="bestpagjkl.com" address=0.0.0.0
 add name="bestpharm-eu.com" address=0.0.0.0
 add name="bestpillpharmacy.com" address=0.0.0.0
-add name="bestpillsnetwork.com" address=0.0.0.0
 add name="bestpricetreatments.com" address=0.0.0.0
 add name="bestproductsonlinestore.com" address=0.0.0.0
 add name="bestprogift.com" address=0.0.0.0
@@ -4061,6 +4059,7 @@ add name="bucinator.shop" address=0.0.0.0
 add name="buckbasil.com" address=0.0.0.0
 add name="buckbirch.com" address=0.0.0.0
 add name="buckleybelts.de" address=0.0.0.0
+add name="buddhapowerstore.com" address=0.0.0.0
 add name="buddingscholarsonline.com" address=0.0.0.0
 add name="buddycanvas.com" address=0.0.0.0
 add name="budgetburstdeals.com" address=0.0.0.0
@@ -4602,7 +4601,6 @@ add name="chauffage-energie.com" address=0.0.0.0
 add name="chaussuressimple.com" address=0.0.0.0
 add name="chc-visio-telemetry.officeapps.live.com" address=0.0.0.0
 add name="chcierekci.cc" address=0.0.0.0
-add name="che.com" address=0.0.0.0
 add name="cheapcharly.de" address=0.0.0.0
 add name="cheapestcosmetic.com" address=0.0.0.0
 add name="cheapmondo.com" address=0.0.0.0
@@ -4799,6 +4797,7 @@ add name="clic-fenetressarl.de" address=0.0.0.0
 add name="clicfenetres-sarl.de" address=0.0.0.0
 add name="click-1.pl" address=0.0.0.0
 add name="click-earn.to" address=0.0.0.0
+add name="click-v4.expclknb.com" address=0.0.0.0
 add name="click-zigaretten.com" address=0.0.0.0
 add name="click.airmalta-mail.com" address=0.0.0.0
 add name="click.aliexpress.com" address=0.0.0.0
@@ -10197,7 +10196,6 @@ add name="hgads.com" address=0.0.0.0
 add name="hgtyfd.shop" address=0.0.0.0
 add name="hi-goeedoo.com" address=0.0.0.0
 add name="hibote.de" address=0.0.0.0
-add name="hicity.de" address=0.0.0.0
 add name="hico-shop.de" address=0.0.0.0
 add name="hiddenbarandgrill.com" address=0.0.0.0
 add name="hiddenhertz.com" address=0.0.0.0
@@ -10338,7 +10336,6 @@ add name="hokadeutschland.de" address=0.0.0.0
 add name="hokarunnershungary.com" address=0.0.0.0
 add name="hokasale.de" address=0.0.0.0
 add name="hokastyle.com" address=0.0.0.0
-add name="holapick.com" address=0.0.0.0
 add name="holda-konigsallee.de" address=0.0.0.0
 add name="holdinggb.com" address=0.0.0.0
 add name="holdirwerkzeug.de" address=0.0.0.0
@@ -10513,6 +10510,7 @@ add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotels-colorado.net" address=0.0.0.0
 add name="hotelsinperm.ru" address=0.0.0.0
+add name="hotelsinvienna.org" address=0.0.0.0
 add name="hotelsofmenorca.com" address=0.0.0.0
 add name="hotelwareus.com" address=0.0.0.0
 add name="hotelwhales.com" address=0.0.0.0
@@ -14187,6 +14185,7 @@ add name="mfsebike.com" address=0.0.0.0
 add name="mg-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="mg-management.de" address=0.0.0.0
 add name="mg2connext.com" address=0.0.0.0
+add name="mgaffaires.com" address=0.0.0.0
 add name="mgid.com" address=0.0.0.0
 add name="mgmglobal.com" address=0.0.0.0
 add name="mhamzasaleem.com" address=0.0.0.0
@@ -15537,6 +15536,7 @@ add name="norxonline.biz" address=0.0.0.0
 add name="norya.de" address=0.0.0.0
 add name="not-bad.shop" address=0.0.0.0
 add name="notationi.com" address=0.0.0.0
+add name="notebookakku.at" address=0.0.0.0
 add name="notebooknetzteileshop.de" address=0.0.0.0
 add name="notenweltde.com" address=0.0.0.0
 add name="notes-analytics-events.apple.com" address=0.0.0.0
@@ -15848,7 +15848,6 @@ add name="officialrenewritualsupplement.shop" address=0.0.0.0
 add name="officialyeti.com" address=0.0.0.0
 add name="officiellejordan.eu.com" address=0.0.0.0
 add name="offizieller-iq-test.com" address=0.0.0.0
-add name="offshorecheapmeds.com" address=0.0.0.0
 add name="offshoregeology.com" address=0.0.0.0
 add name="offsidegiugliano.shop" address=0.0.0.0
 add name="offup-vip.za.com" address=0.0.0.0
@@ -16026,6 +16025,7 @@ add name="onlinegearwrench.com" address=0.0.0.0
 add name="onlinegoodshub.com" address=0.0.0.0
 add name="onlinehealthworldtrust.com" address=0.0.0.0
 add name="onlineindiespiele.de" address=0.0.0.0
+add name="onlinekamagra.com" address=0.0.0.0
 add name="onlinekamagrastore.org" address=0.0.0.0
 add name="onlinekohler.com" address=0.0.0.0
 add name="onlinelearningquality.org" address=0.0.0.0
@@ -16339,6 +16339,7 @@ add name="outlethikingtentde.com" address=0.0.0.0
 add name="outletjoma.com" address=0.0.0.0
 add name="outletlivingstore.com" address=0.0.0.0
 add name="outletnewin.com" address=0.0.0.0
+add name="outletpc.de" address=0.0.0.0
 add name="outletpickleball.com" address=0.0.0.0
 add name="outletrevel.com" address=0.0.0.0
 add name="outletsadv.com" address=0.0.0.0
@@ -16809,7 +16810,6 @@ add name="pharmapillen.de" address=0.0.0.0
 add name="pharmaplax.com" address=0.0.0.0
 add name="pharmaracapital.com" address=0.0.0.0
 add name="pharmaright.vu" address=0.0.0.0
-add name="pharmaris.net" address=0.0.0.0
 add name="pharmaserve.com" address=0.0.0.0
 add name="pharmatheke-europe.com" address=0.0.0.0
 add name="pharmrx-1.com" address=0.0.0.0
@@ -22737,6 +22737,7 @@ add name="vivads.net" address=0.0.0.0
 add name="vivagopro.com" address=0.0.0.0
 add name="vivaharmoni.com" address=0.0.0.0
 add name="vivaia-schuhe.de" address=0.0.0.0
+add name="vivaiacollection.com" address=0.0.0.0
 add name="vivaiaschuhe.at" address=0.0.0.0
 add name="vivaiaschuhe.com" address=0.0.0.0
 add name="vivaiaschuhe.de" address=0.0.0.0

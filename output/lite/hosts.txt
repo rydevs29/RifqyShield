@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-27 02:46:28
-# Total Domains: 23,989
+# Last Updated: 2026-09-28 02:47:52
+# Total Domains: 23,990
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -11,7 +11,7 @@
 0.0.0.0 0dgwn.bemobtrcks.com
 0.0.0.0 0el-preiswert-kaufen.de
 0.0.0.0 0hyzxx-rc.myshopify.com
-0.0.0.0 1-rx-shop.com
+0.0.0.0 101apotheek.com
 0.0.0.0 101com.com
 0.0.0.0 101vectorcenter.sbs
 0.0.0.0 10xdealership.com
@@ -174,7 +174,6 @@
 0.0.0.0 aa-metrics.beauty.hotpepper.jp
 0.0.0.0 aa-metrics.recruit-card.jp
 0.0.0.0 aa-metrics.trip-ai.jp
-0.0.0.0 aaaclothing.ru
 0.0.0.0 aachentag.com
 0.0.0.0 aacreek-ranch.de
 0.0.0.0 aaddzz.com
@@ -3300,7 +3299,6 @@
 0.0.0.0 bestpagjkl.com
 0.0.0.0 bestpharm-eu.com
 0.0.0.0 bestpillpharmacy.com
-0.0.0.0 bestpillsnetwork.com
 0.0.0.0 bestpricetreatments.com
 0.0.0.0 bestproductsonlinestore.com
 0.0.0.0 bestprogift.com
@@ -4062,6 +4060,7 @@
 0.0.0.0 buckbasil.com
 0.0.0.0 buckbirch.com
 0.0.0.0 buckleybelts.de
+0.0.0.0 buddhapowerstore.com
 0.0.0.0 buddingscholarsonline.com
 0.0.0.0 buddycanvas.com
 0.0.0.0 budgetburstdeals.com
@@ -4603,7 +4602,6 @@
 0.0.0.0 chaussuressimple.com
 0.0.0.0 chc-visio-telemetry.officeapps.live.com
 0.0.0.0 chcierekci.cc
-0.0.0.0 che.com
 0.0.0.0 cheapcharly.de
 0.0.0.0 cheapestcosmetic.com
 0.0.0.0 cheapmondo.com
@@ -4800,6 +4798,7 @@
 0.0.0.0 clicfenetres-sarl.de
 0.0.0.0 click-1.pl
 0.0.0.0 click-earn.to
+0.0.0.0 click-v4.expclknb.com
 0.0.0.0 click-zigaretten.com
 0.0.0.0 click.airmalta-mail.com
 0.0.0.0 click.aliexpress.com
@@ -10198,7 +10197,6 @@
 0.0.0.0 hgtyfd.shop
 0.0.0.0 hi-goeedoo.com
 0.0.0.0 hibote.de
-0.0.0.0 hicity.de
 0.0.0.0 hico-shop.de
 0.0.0.0 hiddenbarandgrill.com
 0.0.0.0 hiddenhertz.com
@@ -10339,7 +10337,6 @@
 0.0.0.0 hokarunnershungary.com
 0.0.0.0 hokasale.de
 0.0.0.0 hokastyle.com
-0.0.0.0 holapick.com
 0.0.0.0 holda-konigsallee.de
 0.0.0.0 holdinggb.com
 0.0.0.0 holdirwerkzeug.de
@@ -10514,6 +10511,7 @@
 0.0.0.0 hotels-colombo.com
 0.0.0.0 hotels-colorado.net
 0.0.0.0 hotelsinperm.ru
+0.0.0.0 hotelsinvienna.org
 0.0.0.0 hotelsofmenorca.com
 0.0.0.0 hotelwareus.com
 0.0.0.0 hotelwhales.com
@@ -14188,6 +14186,7 @@
 0.0.0.0 mg-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 mg-management.de
 0.0.0.0 mg2connext.com
+0.0.0.0 mgaffaires.com
 0.0.0.0 mgid.com
 0.0.0.0 mgmglobal.com
 0.0.0.0 mhamzasaleem.com
@@ -15538,6 +15537,7 @@
 0.0.0.0 norya.de
 0.0.0.0 not-bad.shop
 0.0.0.0 notationi.com
+0.0.0.0 notebookakku.at
 0.0.0.0 notebooknetzteileshop.de
 0.0.0.0 notenweltde.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -15849,7 +15849,6 @@
 0.0.0.0 officialyeti.com
 0.0.0.0 officiellejordan.eu.com
 0.0.0.0 offizieller-iq-test.com
-0.0.0.0 offshorecheapmeds.com
 0.0.0.0 offshoregeology.com
 0.0.0.0 offsidegiugliano.shop
 0.0.0.0 offup-vip.za.com
@@ -16027,6 +16026,7 @@
 0.0.0.0 onlinegoodshub.com
 0.0.0.0 onlinehealthworldtrust.com
 0.0.0.0 onlineindiespiele.de
+0.0.0.0 onlinekamagra.com
 0.0.0.0 onlinekamagrastore.org
 0.0.0.0 onlinekohler.com
 0.0.0.0 onlinelearningquality.org
@@ -16340,6 +16340,7 @@
 0.0.0.0 outletjoma.com
 0.0.0.0 outletlivingstore.com
 0.0.0.0 outletnewin.com
+0.0.0.0 outletpc.de
 0.0.0.0 outletpickleball.com
 0.0.0.0 outletrevel.com
 0.0.0.0 outletsadv.com
@@ -16810,7 +16811,6 @@
 0.0.0.0 pharmaplax.com
 0.0.0.0 pharmaracapital.com
 0.0.0.0 pharmaright.vu
-0.0.0.0 pharmaris.net
 0.0.0.0 pharmaserve.com
 0.0.0.0 pharmatheke-europe.com
 0.0.0.0 pharmrx-1.com
@@ -22738,6 +22738,7 @@
 0.0.0.0 vivagopro.com
 0.0.0.0 vivaharmoni.com
 0.0.0.0 vivaia-schuhe.de
+0.0.0.0 vivaiacollection.com
 0.0.0.0 vivaiaschuhe.at
 0.0.0.0 vivaiaschuhe.com
 0.0.0.0 vivaiaschuhe.de
