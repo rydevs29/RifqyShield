@@ -5,6 +5,7 @@
 0dgwn.bemobtrcks.com
 0el-preiswert-kaufen.de
 0hyzxx-rc.myshopify.com
+1-rx-shop.com
 101apotheek.com
 101com.com
 101vectorcenter.sbs
@@ -213,6 +214,7 @@ aax-fe-sin.amazon-adsystem.com
 aax-fe.amazon-adsystem.com
 aax-gamma-us-east.axp.amazon-adsystem.com
 aax-ott-c2s.amazon-adsystem.com
+aax-ott-sdk.amazon-adsystem.amazon.com
 aax-ott-sdk.amazon-adsystem.com
 aax-ott.amazon-adsystem.amazon.com
 aax-ott.amazon-adsystem.com
@@ -2288,6 +2290,7 @@ asas-store.com
 asbeconcerned.com
 ascelteria.com
 aschenbecher-deutschland.de
+ascherslebener-holzhandel.de
 asci-ipy.de
 ascreationdecor.com
 asd-rechtsanwaelte.de
@@ -3773,6 +3776,7 @@ booster-lastminute.com
 bootsde.com
 bootsoutlet.shop
 bootsprofi.com
+borde-brennholzpaulusgmbh.com
 boredcrown.com
 boridashop.de
 borneprodukter.com
@@ -3835,6 +3839,7 @@ bpgroupe.com
 bpo-partners.com
 bpu.samsungelectronics.com
 br-ad-lgsmartad-com.aws-prd.net
+br-cota.vivoglobal.com
 br-info-lgsmartad-com.aws-prd.net
 br-p.vivoglobal.com
 br-rdx2-lgtvsdp-com.aws-prd.net
@@ -3907,6 +3912,7 @@ brennholz-quelle.de
 brennholz-widmanngmbh.com
 brennholz-world.at
 brennholz-ws.de
+brennholzangebot.com
 brennholzanhanger.de
 brennholzauswahl.de
 brennholzboersch.com
@@ -3915,6 +3921,7 @@ brennholzdge.com
 brennholzdirekt.com
 brennholzgarten.de
 brennholzhaus.de
+brennholzhochwald-de.com
 brennholzkamin.de
 brennholzkaufen.shop
 brennholzmarkt.com
@@ -4511,6 +4518,7 @@ celerypets.com
 celeste-botanicals.com
 celinemichaud.com
 celio.com.de
+cellpeptides.com
 cellphonelocation.net
 celmak.de
 celorin.com
@@ -7188,6 +7196,7 @@ eryxavin.com
 erzgebirger-uhrwerk.com
 es-ad-lgsmartad-com.aws-prd.net
 es-consult.net
+es-info-lgsmartad-com.aws-prd.net
 es.landofm.com
 esbboisdechauffage.com
 esco-tools.com
@@ -7456,7 +7465,6 @@ everyday-outdoor.de
 everyknives.com
 evinjeta-slovenia.listocar.com
 eviobaby.com
-evisas.travel
 evitrol.com
 evo-pharmacy.com
 evolgrafix.de
@@ -9638,16 +9646,16 @@ h1.msn.com
 h2.msn.com
 h25casinoonline.org
 h4g3z1-fake.web.app
-h4g3z1-native.amazon.web.app
-h4g3z1-native.apple.web.app
-h4g3z1-native.huawei.web.app
-h4g3z1-native.lgwebos.web.app
-h4g3z1-native.oppo-realme.web.app
-h4g3z1-native.samsung.web.app
-h4g3z1-native.tiktok.extended.web.app
-h4g3z1-native.vivo.web.app
-h4g3z1-native.winoffice.web.app
-h4g3z1-native.xiaomi.web.app
+h4g3z1-native-amazon.web.app
+h4g3z1-native-apple.web.app
+h4g3z1-native-huawei.web.app
+h4g3z1-native-lgwebos.web.app
+h4g3z1-native-oppo-realme.web.app
+h4g3z1-native-samsung.web.app
+h4g3z1-native-tiktok-extended.web.app
+h4g3z1-native-vivo.web.app
+h4g3z1-native-winoffice.web.app
+h4g3z1-native-xiaomi.web.app
 h5-ru.video.intl.xiaomi.com
 h5.ecoinf.vip
 h5.tv.mi.com
@@ -10340,6 +10348,7 @@ hollister.com.de
 hollowafterthought.com
 hollylollies.com
 holsteinerblumenservice.de
+holz-abl-zentrale.de
 holz-brennholzhandel.de
 holz-deal24.de
 holz-discounter.com
@@ -10360,6 +10369,7 @@ holzd24.com
 holzerneblocke.com
 holzfursfeuer.de
 holzgartenprofi.de
+holzgluck.de
 holzhack-schnitzel.de
 holzhambach.com
 holzhandelhensel.com
@@ -10373,6 +10383,7 @@ holzkraft.pro
 holzlangbau.de
 holzleitnergmbh.de
 holzliefer.com
+holzliefernexpress.de
 holzmarkte.de
 holzmoebelkaufen.de
 holznotenpulte.de
@@ -10675,7 +10686,6 @@ ia.iinfo.cz
 iad-apple.com.akadns.net
 iad.anm.co.uk
 iad.apple.com
-iadcontent-lb.apple.com.akadns.net
 iadcontent.apple.com
 iadmoo.apple.com
 iadnet.com
@@ -11348,6 +11358,7 @@ jefercopellets.com
 jeffora.de
 jeffspoolservice.com
 jehmrxht.shop
+jeinn.com
 jellycats.de
 jellylight.at
 jelvruvozan-ie.com
@@ -13247,6 +13258,7 @@ luscherhaus.de
 lushdream.de
 lusto.de
 lutona.de
+lutus-containers-gmbh.de
 luuckylinen.com
 luvelle.de
 luvemo.de
@@ -13927,6 +13939,7 @@ meds-tabs.com
 medsaurora.com
 medshopcpl.com
 medsinfoshop.com
+medunakpelletsgmbh.de
 medyanetads.com
 medzrezeptfrei.com
 meertickets.de
@@ -15601,6 +15614,7 @@ novolo.shop
 novores.de
 nowadayse.com
 nowaymail.com
+nowfahrrad.de
 nowgreenhealthes.com
 nowistherevolution.com
 nowoption.com
@@ -15874,6 +15888,7 @@ oins.shop
 ojrq.net
 okatode.com
 okbon.de
+oko-spechtbrennholzgmbh.de
 okohausplus.com
 okun.shop
 okuracookware.ch
@@ -16986,6 +17001,7 @@ pmpkp.com
 pmtinnova.com
 pn-parfum.com
 pn99.cc
+pncontainerlogistik-gmbh.de
 png-group.net
 pnl-holding.com
 pnladvanced.com
@@ -17150,7 +17166,6 @@ praxis-natuerlichgesund.de
 prazisemesser.com
 prazisionsteile.com
 prchecker.info
-prd-qlik-telemetry.servicebus.windows.net
 prd-usw2-requestattribution-iad.apple.com
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
@@ -18315,6 +18330,7 @@ rotweibwein.com
 rotweinbar.com
 rotyka.com
 roulettegem.com
+roussebois.com
 routehygge.co
 routermeister24.myshopify.com
 routinefashiones.com
@@ -20851,6 +20867,7 @@ tauchflaschenschutznetz.com
 taurachbahn.at
 tavaresautopecas.com
 tavoloni.myshopify.com
+tavorello.net
 tawdryson.com
 tax.crypto.com
 taxoflex.de
@@ -20940,7 +20957,6 @@ telemetry.goodlifefitness.com
 telemetry.malwarebytes.com
 telemetry.microsoft.com
 telemetry.microsoft.us
-telemetry.officeapps.live.com
 telemetry.urs.microsoft.com
 telemetry.v.dropbox.com
 telemetry.visualstudio.microsoft.com
@@ -22732,7 +22748,6 @@ vivads.net
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de
@@ -22970,6 +22985,7 @@ warevo.de
 waris-solar.de
 warmafterthought.com
 warme-quelle.com
+warmeholze.de
 warmeholzhaus.com
 warmeluxe.com
 warmethuis.com

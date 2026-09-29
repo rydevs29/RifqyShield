@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-28 02:47:52
-# Total Domains: 23,990
+# Last Updated: 2026-09-29 03:29:53
+# Total Domains: 24,006
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -11,6 +11,7 @@
 0.0.0.0 0dgwn.bemobtrcks.com
 0.0.0.0 0el-preiswert-kaufen.de
 0.0.0.0 0hyzxx-rc.myshopify.com
+0.0.0.0 1-rx-shop.com
 0.0.0.0 101apotheek.com
 0.0.0.0 101com.com
 0.0.0.0 101vectorcenter.sbs
@@ -219,6 +220,7 @@
 0.0.0.0 aax-fe.amazon-adsystem.com
 0.0.0.0 aax-gamma-us-east.axp.amazon-adsystem.com
 0.0.0.0 aax-ott-c2s.amazon-adsystem.com
+0.0.0.0 aax-ott-sdk.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott-sdk.amazon-adsystem.com
 0.0.0.0 aax-ott.amazon-adsystem.amazon.com
 0.0.0.0 aax-ott.amazon-adsystem.com
@@ -2294,6 +2296,7 @@
 0.0.0.0 asbeconcerned.com
 0.0.0.0 ascelteria.com
 0.0.0.0 aschenbecher-deutschland.de
+0.0.0.0 ascherslebener-holzhandel.de
 0.0.0.0 asci-ipy.de
 0.0.0.0 ascreationdecor.com
 0.0.0.0 asd-rechtsanwaelte.de
@@ -3779,6 +3782,7 @@
 0.0.0.0 bootsde.com
 0.0.0.0 bootsoutlet.shop
 0.0.0.0 bootsprofi.com
+0.0.0.0 borde-brennholzpaulusgmbh.com
 0.0.0.0 boredcrown.com
 0.0.0.0 boridashop.de
 0.0.0.0 borneprodukter.com
@@ -3841,6 +3845,7 @@
 0.0.0.0 bpo-partners.com
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 br-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 br-cota.vivoglobal.com
 0.0.0.0 br-info-lgsmartad-com.aws-prd.net
 0.0.0.0 br-p.vivoglobal.com
 0.0.0.0 br-rdx2-lgtvsdp-com.aws-prd.net
@@ -3913,6 +3918,7 @@
 0.0.0.0 brennholz-widmanngmbh.com
 0.0.0.0 brennholz-world.at
 0.0.0.0 brennholz-ws.de
+0.0.0.0 brennholzangebot.com
 0.0.0.0 brennholzanhanger.de
 0.0.0.0 brennholzauswahl.de
 0.0.0.0 brennholzboersch.com
@@ -3921,6 +3927,7 @@
 0.0.0.0 brennholzdirekt.com
 0.0.0.0 brennholzgarten.de
 0.0.0.0 brennholzhaus.de
+0.0.0.0 brennholzhochwald-de.com
 0.0.0.0 brennholzkamin.de
 0.0.0.0 brennholzkaufen.shop
 0.0.0.0 brennholzmarkt.com
@@ -4517,6 +4524,7 @@
 0.0.0.0 celeste-botanicals.com
 0.0.0.0 celinemichaud.com
 0.0.0.0 celio.com.de
+0.0.0.0 cellpeptides.com
 0.0.0.0 cellphonelocation.net
 0.0.0.0 celmak.de
 0.0.0.0 celorin.com
@@ -7194,6 +7202,7 @@
 0.0.0.0 erzgebirger-uhrwerk.com
 0.0.0.0 es-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 es-consult.net
+0.0.0.0 es-info-lgsmartad-com.aws-prd.net
 0.0.0.0 es.landofm.com
 0.0.0.0 esbboisdechauffage.com
 0.0.0.0 esco-tools.com
@@ -7462,7 +7471,6 @@
 0.0.0.0 everyknives.com
 0.0.0.0 evinjeta-slovenia.listocar.com
 0.0.0.0 eviobaby.com
-0.0.0.0 evisas.travel
 0.0.0.0 evitrol.com
 0.0.0.0 evo-pharmacy.com
 0.0.0.0 evolgrafix.de
@@ -9644,16 +9652,16 @@
 0.0.0.0 h2.msn.com
 0.0.0.0 h25casinoonline.org
 0.0.0.0 h4g3z1-fake.web.app
-0.0.0.0 h4g3z1-native.amazon.web.app
-0.0.0.0 h4g3z1-native.apple.web.app
-0.0.0.0 h4g3z1-native.huawei.web.app
-0.0.0.0 h4g3z1-native.lgwebos.web.app
-0.0.0.0 h4g3z1-native.oppo-realme.web.app
-0.0.0.0 h4g3z1-native.samsung.web.app
-0.0.0.0 h4g3z1-native.tiktok.extended.web.app
-0.0.0.0 h4g3z1-native.vivo.web.app
-0.0.0.0 h4g3z1-native.winoffice.web.app
-0.0.0.0 h4g3z1-native.xiaomi.web.app
+0.0.0.0 h4g3z1-native-amazon.web.app
+0.0.0.0 h4g3z1-native-apple.web.app
+0.0.0.0 h4g3z1-native-huawei.web.app
+0.0.0.0 h4g3z1-native-lgwebos.web.app
+0.0.0.0 h4g3z1-native-oppo-realme.web.app
+0.0.0.0 h4g3z1-native-samsung.web.app
+0.0.0.0 h4g3z1-native-tiktok-extended.web.app
+0.0.0.0 h4g3z1-native-vivo.web.app
+0.0.0.0 h4g3z1-native-winoffice.web.app
+0.0.0.0 h4g3z1-native-xiaomi.web.app
 0.0.0.0 h5-ru.video.intl.xiaomi.com
 0.0.0.0 h5.ecoinf.vip
 0.0.0.0 h5.tv.mi.com
@@ -10346,6 +10354,7 @@
 0.0.0.0 hollowafterthought.com
 0.0.0.0 hollylollies.com
 0.0.0.0 holsteinerblumenservice.de
+0.0.0.0 holz-abl-zentrale.de
 0.0.0.0 holz-brennholzhandel.de
 0.0.0.0 holz-deal24.de
 0.0.0.0 holz-discounter.com
@@ -10366,6 +10375,7 @@
 0.0.0.0 holzerneblocke.com
 0.0.0.0 holzfursfeuer.de
 0.0.0.0 holzgartenprofi.de
+0.0.0.0 holzgluck.de
 0.0.0.0 holzhack-schnitzel.de
 0.0.0.0 holzhambach.com
 0.0.0.0 holzhandelhensel.com
@@ -10379,6 +10389,7 @@
 0.0.0.0 holzlangbau.de
 0.0.0.0 holzleitnergmbh.de
 0.0.0.0 holzliefer.com
+0.0.0.0 holzliefernexpress.de
 0.0.0.0 holzmarkte.de
 0.0.0.0 holzmoebelkaufen.de
 0.0.0.0 holznotenpulte.de
@@ -10681,7 +10692,6 @@
 0.0.0.0 iad-apple.com.akadns.net
 0.0.0.0 iad.anm.co.uk
 0.0.0.0 iad.apple.com
-0.0.0.0 iadcontent-lb.apple.com.akadns.net
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadmoo.apple.com
 0.0.0.0 iadnet.com
@@ -11354,6 +11364,7 @@
 0.0.0.0 jeffora.de
 0.0.0.0 jeffspoolservice.com
 0.0.0.0 jehmrxht.shop
+0.0.0.0 jeinn.com
 0.0.0.0 jellycats.de
 0.0.0.0 jellylight.at
 0.0.0.0 jelvruvozan-ie.com
@@ -13253,6 +13264,7 @@
 0.0.0.0 lushdream.de
 0.0.0.0 lusto.de
 0.0.0.0 lutona.de
+0.0.0.0 lutus-containers-gmbh.de
 0.0.0.0 luuckylinen.com
 0.0.0.0 luvelle.de
 0.0.0.0 luvemo.de
@@ -13933,6 +13945,7 @@
 0.0.0.0 medsaurora.com
 0.0.0.0 medshopcpl.com
 0.0.0.0 medsinfoshop.com
+0.0.0.0 medunakpelletsgmbh.de
 0.0.0.0 medyanetads.com
 0.0.0.0 medzrezeptfrei.com
 0.0.0.0 meertickets.de
@@ -15607,6 +15620,7 @@
 0.0.0.0 novores.de
 0.0.0.0 nowadayse.com
 0.0.0.0 nowaymail.com
+0.0.0.0 nowfahrrad.de
 0.0.0.0 nowgreenhealthes.com
 0.0.0.0 nowistherevolution.com
 0.0.0.0 nowoption.com
@@ -15880,6 +15894,7 @@
 0.0.0.0 ojrq.net
 0.0.0.0 okatode.com
 0.0.0.0 okbon.de
+0.0.0.0 oko-spechtbrennholzgmbh.de
 0.0.0.0 okohausplus.com
 0.0.0.0 okun.shop
 0.0.0.0 okuracookware.ch
@@ -16992,6 +17007,7 @@
 0.0.0.0 pmtinnova.com
 0.0.0.0 pn-parfum.com
 0.0.0.0 pn99.cc
+0.0.0.0 pncontainerlogistik-gmbh.de
 0.0.0.0 png-group.net
 0.0.0.0 pnl-holding.com
 0.0.0.0 pnladvanced.com
@@ -17156,7 +17172,6 @@
 0.0.0.0 prazisemesser.com
 0.0.0.0 prazisionsteile.com
 0.0.0.0 prchecker.info
-0.0.0.0 prd-qlik-telemetry.servicebus.windows.net
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
 0.0.0.0 prderrordumphsm.samsungcloudsolution.com
 0.0.0.0 prderrordumpssm.samsungcloudsolution.net
@@ -18321,6 +18336,7 @@
 0.0.0.0 rotweinbar.com
 0.0.0.0 rotyka.com
 0.0.0.0 roulettegem.com
+0.0.0.0 roussebois.com
 0.0.0.0 routehygge.co
 0.0.0.0 routermeister24.myshopify.com
 0.0.0.0 routinefashiones.com
@@ -20857,6 +20873,7 @@
 0.0.0.0 taurachbahn.at
 0.0.0.0 tavaresautopecas.com
 0.0.0.0 tavoloni.myshopify.com
+0.0.0.0 tavorello.net
 0.0.0.0 tawdryson.com
 0.0.0.0 tax.crypto.com
 0.0.0.0 taxoflex.de
@@ -20946,7 +20963,6 @@
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.microsoft.us
-0.0.0.0 telemetry.officeapps.live.com
 0.0.0.0 telemetry.urs.microsoft.com
 0.0.0.0 telemetry.v.dropbox.com
 0.0.0.0 telemetry.visualstudio.microsoft.com
@@ -22738,7 +22754,6 @@
 0.0.0.0 vivagopro.com
 0.0.0.0 vivaharmoni.com
 0.0.0.0 vivaia-schuhe.de
-0.0.0.0 vivaiacollection.com
 0.0.0.0 vivaiaschuhe.at
 0.0.0.0 vivaiaschuhe.com
 0.0.0.0 vivaiaschuhe.de
@@ -22976,6 +22991,7 @@
 0.0.0.0 waris-solar.de
 0.0.0.0 warmafterthought.com
 0.0.0.0 warme-quelle.com
+0.0.0.0 warmeholze.de
 0.0.0.0 warmeholzhaus.com
 0.0.0.0 warmeluxe.com
 0.0.0.0 warmethuis.com
