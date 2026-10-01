@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-30 03:13:44
-# Total Domains: 24,037
+# Last Updated: 2026-10-01 03:20:21
+# Total Domains: 24,073
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -1192,6 +1192,7 @@
 *.adtrk1.com
 *.adts.lgtvcommon.com
 *.adultadvertising.com
+*.aduno-agentur.de
 *.adv-adserver.com
 *.adv.freeonline.it
 *.adv.hwupgrade.it
@@ -1460,6 +1461,7 @@
 *.akku-laden.at
 *.akku-staubsauger.eu
 *.akkuschrauber-heinrich.com
+*.akkusmir.de
 *.akkusnotebook.at
 *.aksportsup.com
 *.akstat.io
@@ -1917,10 +1919,12 @@
 *.anhaengershopstore.shop
 *.anhaengerverleih-mania.de
 *.anhanger-behalter.de
+*.anhanger-shopsey.com
 *.anhanger-zentrum.de
 *.anhanger.net
 *.anhangercenter.com
 *.anhangerdienst.com
+*.anhangermarkt.com
 *.anhangermaschinen.de
 *.anhangerr.com
 *.anhangershop24.com
@@ -2064,6 +2068,7 @@
 *.api.xmpush.global.xiaomi.com
 *.api.xmpush.xiaomi.com
 *.api2.amplitude.com
+*.apisnd.heytapmobi.com
 *.apkrep.ff.avast.sec.miui.com
 *.apkwell.com
 *.aplamzelte.de
@@ -2505,6 +2510,7 @@
 *.auonlinegamestar.com
 *.aupair-mama.de
 *.aupills.net
+*.aura-epargne.com
 *.auraboutique-shop.com
 *.auradeals.shop
 *.aurafior.shop
@@ -2909,6 +2915,7 @@
 *.barlleiy.com
 *.barnesandnoble.bfast.com
 *.barnierboutique.com
+*.barnkingvolksbank-at.org
 *.baronweb.de
 *.barracudca.com
 *.barrelcraft.store
@@ -3011,6 +3018,7 @@
 *.bd222-online.com
 *.bdapi-ads-sg.heytapmobile.com
 *.bdhw-insolvenz.de
+*.bdlcic.com
 *.bds.snssdk.com
 *.bdscoffee.com
 *.bdv.bidvertiser.com
@@ -3368,6 +3376,7 @@
 *.bhcumsc.com
 *.bhmbp.com
 *.bhuvikasolar.online
+*.bi-vert.com
 *.biabe.de
 *.bialettiaustria.com
 *.bici-vience.com
@@ -3939,6 +3948,7 @@
 *.brennholzruhl.de
 *.brennholzrupp.de
 *.brennholzs.com
+*.brennholzschneble.de
 *.brennholzstein.de
 *.brennholzullrich.com
 *.brennholzvidos.at
@@ -4526,7 +4536,6 @@
 *.celeste-botanicals.com
 *.celinemichaud.com
 *.celio.com.de
-*.cellpeptides.com
 *.cellphonelocation.net
 *.celmak.de
 *.celorin.com
@@ -4591,6 +4600,7 @@
 *.chaps-herrenmode.de
 *.chapterrest.store
 *.characterh.com
+*.charentesalliance.com
 *.chargecracker.com
 *.charj7.myshopify.com
 *.charlesashford.shop
@@ -4910,6 +4920,7 @@
 *.clksite.com
 *.cllusatoam.com
 *.clockwisek.com
+*.clogsaleuuu.click
 *.clorislife.com
 *.closeery.top
 *.closeoutstore.de
@@ -6172,7 +6183,6 @@
 *.dewello-shop.de
 *.dewglam.com
 *.dewohntraum.com
-*.dewskdt.shop
 *.dexer-handel.de
 *.dexoraoutlet.com
 *.dexxxlutz.shop
@@ -6508,6 +6518,7 @@
 *.drechselmaschinenrabatt.com
 *.drechselwebshop.com
 *.drehfutterverkauf.com
+*.drehmoment-shop.com
 *.drelkuvizen-at.net
 *.drelkuvizen-austria.at
 *.drelkuvizen-ca.com
@@ -6733,6 +6744,7 @@
 *.ebikescooterfix.com
 *.ebiketeilekauf.com
 *.ebiketeileverkaufe.com
+*.ebikezeit-fahrrad.de
 *.ebikezubehoer.com
 *.ebm-heimwerk.com
 *.ebooklyn.net
@@ -7167,6 +7179,7 @@
 *.equilibriuk.com
 *.equipamentoscasarejos.com.br
 *.equipdiscount24.com
+*.equity-cap.com
 *.equitycapitals.com
 *.equivalenh.com
 *.equivalenu.com
@@ -7986,6 +7999,7 @@
 *.finanzen.075756.net
 *.finanzenexpress.com
 *.finanzonline-gvbmfgv.info
+*.finanzonline-portal4.net
 *.finanzonline.bmf-gvat.com
 *.finanzplanungwittenberg.com
 *.finanzwelt.pro
@@ -9247,7 +9261,6 @@
 *.gmbh2go.de
 *.gml.email
 *.gmmplatform.co
-*.gmpdgagv.shop
 *.gmzglobal.net
 *.gnope.com
 *.go-campingmaster.com
@@ -9307,6 +9320,7 @@
 *.goldenngoosee.com
 *.goldenpandacasino-online.de
 *.goldenpassmedia.com
+*.goldenpump.de
 *.goldenretrievervompfarrgarten.de
 *.golderstarbeer.com
 *.goldhandel-degussa.com
@@ -9708,6 +9722,7 @@
 *.hairive.com
 *.hairlinebeautysalon.de
 *.hakimrazalan.com
+*.hakisition.co
 *.halcyoncanyon.com
 *.halcyonlabel.com
 *.haleybaby.com
@@ -9832,6 +9847,7 @@
 *.harleysaleoutlets.com
 *.harmoniouy.com
 *.harmonyalmbienteoutlet.shop
+*.harmtonyambientehot.com
 *.harpercollins.shop
 *.harrenmedia.com
 *.harrenmedianetwork.com
@@ -10922,6 +10938,7 @@
 *.imp.i312864.net
 *.impellerverkauf.com
 *.imperial-craft.com
+*.imperial-finance.ltd
 *.imperial-hamburg.de
 *.imperialpharmaceutical.com
 *.implicationi.com
@@ -11189,6 +11206,7 @@
 *.investmentswiss.com
 *.investproai.fr
 *.investsecuritiesgroup.com
+*.invexxia.com
 *.invisiblen.com
 *.invisishieldlab.com
 *.invitation.samsungiotcloud.com
@@ -11283,6 +11301,7 @@
 *.isolierbecher.com
 *.isosmart.de
 *.isotrader.cc
+*.israelpharm.com
 *.issamtransports.com
 *.issuvd.com
 *.isthebabybornyet.com
@@ -12221,6 +12240,7 @@
 *.kruger-mode.de
 *.krugerdirndlssale.shop
 *.krxd.net
+*.kry.fewxc.com
 *.kryostore.store
 *.kryptod.com
 *.kryptofx.com
@@ -13538,6 +13558,7 @@
 *.margarethes-garten.com
 *.marginalk.com
 *.marginelite.com
+*.margissance.fr
 *.mariaeva-wien.at
 *.marialina-juwelen.de
 *.mariandmaison.com
@@ -13661,6 +13682,7 @@
 *.mathelin-rimoulko.com
 *.matheranalytics.com
 *.mathtag.com
+*.matinvestgroup.com
 *.matomo.activate.cz
 *.matomo.crossiety.app
 *.matomo.samsungsdibs.at
@@ -13717,6 +13739,7 @@
 *.maytenstudio.com
 *.mazu.sec.miui.com
 *.mb-hindernisse.de
+*.mb-trailer-shop.com
 *.mbel-setsprize.com
 *.mbh-container.de
 *.mbike-jena.de
@@ -13726,6 +13749,7 @@
 *.mc-bau.at
 *.mc-brennholz.com
 *.mcafinances.com
+*.mcbrennholzgifhorn.com
 *.mcc.miui.com
 *.mccoyn.com
 *.mcdlks.com
@@ -14778,7 +14802,6 @@
 *.moonwager.com
 *.moonx.io
 *.mooredvazwe.myshopify.com
-*.mooris.de
 *.moosufergarten.de
 *.mooxishop.de
 *.mopub.com
@@ -17065,6 +17088,7 @@
 *.pokkt.com
 *.polarbtc.com
 *.polaroid.com.de
+*.polaroids.at
 *.polenboeller-deutschland.com
 *.polene-osterreich.com
 *.polene-shop.com
@@ -17158,6 +17182,7 @@
 *.potenzmittel-kaufen-deutschland.com
 *.potenzmittel-schweiz.com
 *.potenzmittel50.com
+*.potenzmittelapotheke24at.com
 *.potenzmittelbestellen.at
 *.potenzmittelonlinekaufen.org
 *.potenzpillenschweiz.com
@@ -17272,6 +17297,7 @@
 *.pricklydebt.com
 *.prideproms.com
 *.pridesaunaclub.com
+*.prikoqueron.com
 *.primada.de
 *.primalekarna.com
 *.primary-markets.com
@@ -17322,6 +17348,7 @@
 *.pro-market.net
 *.pro-talentsycner.online
 *.pro-truckmarket.com
+*.pro-trx.com
 *.proactiveping.com
 *.probablepartner.com
 *.probikezubehor.com
@@ -17773,6 +17800,7 @@
 *.rasen-profis.de
 *.rasen-traktor.com
 *.rasen24.com
+*.rasengereate.com
 *.rasenmahen24.com
 *.rasenmaherwendik.de
 *.rasenmarkt.com
@@ -17887,6 +17915,7 @@
 *.red-dust.de
 *.red-ph-market.com
 *.reda-prikolica.com
+*.redas-prikolica.com
 *.redaut.cc
 *.redbeautysalon.com
 *.redbullosterreich.at
@@ -19210,6 +19239,7 @@
 *.service-standesamt.de
 *.servicegartenpflegesaleh.de
 *.serviceheft24.com
+*.servicejardina.com
 *.servicepharmaceutique.net
 *.services.hearstmags.com
 *.servicesdentaire.com
@@ -19887,6 +19917,7 @@
 *.sonnensparo.com
 *.sonnesucht.de
 *.sonnighof.de
+*.sonnwerkshop.de
 *.sonnyangelshops.com
 *.sonobi.com
 *.sonogo.net
@@ -21103,6 +21134,7 @@
 *.thebalancingmom.com
 *.thebeautyfilter.com
 *.thebellabelle.com
+*.thebicyclehut.com
 *.thebigmart.shop
 *.thebikeapparel.com
 *.thebikeparts.com
@@ -21405,6 +21437,7 @@
 *.tnc31-platform-useast2a.tiktokv.com
 *.tnc58-platform-ycru.tiktokv.com
 *.tnkexchange.com
+*.tnlinvesting.co
 *.tns-counter.ru
 *.tntroyal.com
 *.tobapplog.snssdk.com
@@ -21460,6 +21493,7 @@
 *.toniesbesttoys.com
 *.toniesosterreich.at
 *.toniesrabatt.com
+*.toniesrabattde.com
 *.toniesshop-de.com
 *.toniesspielzeug.com
 *.toniesverkauf-de.com
@@ -21522,6 +21556,7 @@
 *.topgartenservice.de
 *.topgood.xyz
 *.topheizlosungen.com
+*.tophomeonlineshop.com
 *.tophousesgoods.com
 *.tophoven-teilekfz.de
 *.topideaberlin.com
@@ -21927,7 +21962,6 @@
 *.true-pp.com
 *.true-tab.com
 *.true-weightlose.com
-*.truedrugz.com
 *.truefitposture.com
 *.trueglow.de
 *.truehits.net
@@ -22944,6 +22978,7 @@
 *.vumonvision.com
 *.vungle.com
 *.vutereck.com
+*.vuxocap-vip.io
 *.vwutaq.com
 *.vxjskiy.shop
 *.vyjak.com
@@ -23513,6 +23548,7 @@
 *.wotoba.de
 *.wowfunnow.com
 *.wowgyu.com
+*.wowperucken.de
 *.woyuosn.com
 *.wp-welt-pelletsgmbh.de
 *.wpautopecas.com
@@ -23690,7 +23726,6 @@
 *.xxxlutz-eu.shop
 *.xxxmyself.com
 *.xxxxlutz.shop
-*.xydsowyz.shop
 *.xyiyi.com
 *.y-stop.com
 *.y.ibsys.com
@@ -23705,6 +23740,7 @@
 *.yandexmetrica.com
 *.yangibeauty.com
 *.yangzhi.de
+*.yanitransport.com
 *.yanjushop.com
 *.yannelli.net
 *.yardigen.store

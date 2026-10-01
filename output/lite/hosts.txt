@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-09-30 03:13:44
-# Total Domains: 24,037
+# Last Updated: 2026-10-01 03:20:21
+# Total Domains: 24,073
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -1194,6 +1194,7 @@
 0.0.0.0 adtrk1.com
 0.0.0.0 adts.lgtvcommon.com
 0.0.0.0 adultadvertising.com
+0.0.0.0 aduno-agentur.de
 0.0.0.0 adv-adserver.com
 0.0.0.0 adv.freeonline.it
 0.0.0.0 adv.hwupgrade.it
@@ -1462,6 +1463,7 @@
 0.0.0.0 akku-laden.at
 0.0.0.0 akku-staubsauger.eu
 0.0.0.0 akkuschrauber-heinrich.com
+0.0.0.0 akkusmir.de
 0.0.0.0 akkusnotebook.at
 0.0.0.0 aksportsup.com
 0.0.0.0 akstat.io
@@ -1919,10 +1921,12 @@
 0.0.0.0 anhaengershopstore.shop
 0.0.0.0 anhaengerverleih-mania.de
 0.0.0.0 anhanger-behalter.de
+0.0.0.0 anhanger-shopsey.com
 0.0.0.0 anhanger-zentrum.de
 0.0.0.0 anhanger.net
 0.0.0.0 anhangercenter.com
 0.0.0.0 anhangerdienst.com
+0.0.0.0 anhangermarkt.com
 0.0.0.0 anhangermaschinen.de
 0.0.0.0 anhangerr.com
 0.0.0.0 anhangershop24.com
@@ -2066,6 +2070,7 @@
 0.0.0.0 api.xmpush.global.xiaomi.com
 0.0.0.0 api.xmpush.xiaomi.com
 0.0.0.0 api2.amplitude.com
+0.0.0.0 apisnd.heytapmobi.com
 0.0.0.0 apkrep.ff.avast.sec.miui.com
 0.0.0.0 apkwell.com
 0.0.0.0 aplamzelte.de
@@ -2507,6 +2512,7 @@
 0.0.0.0 auonlinegamestar.com
 0.0.0.0 aupair-mama.de
 0.0.0.0 aupills.net
+0.0.0.0 aura-epargne.com
 0.0.0.0 auraboutique-shop.com
 0.0.0.0 auradeals.shop
 0.0.0.0 aurafior.shop
@@ -2911,6 +2917,7 @@
 0.0.0.0 barlleiy.com
 0.0.0.0 barnesandnoble.bfast.com
 0.0.0.0 barnierboutique.com
+0.0.0.0 barnkingvolksbank-at.org
 0.0.0.0 baronweb.de
 0.0.0.0 barracudca.com
 0.0.0.0 barrelcraft.store
@@ -3013,6 +3020,7 @@
 0.0.0.0 bd222-online.com
 0.0.0.0 bdapi-ads-sg.heytapmobile.com
 0.0.0.0 bdhw-insolvenz.de
+0.0.0.0 bdlcic.com
 0.0.0.0 bds.snssdk.com
 0.0.0.0 bdscoffee.com
 0.0.0.0 bdv.bidvertiser.com
@@ -3370,6 +3378,7 @@
 0.0.0.0 bhcumsc.com
 0.0.0.0 bhmbp.com
 0.0.0.0 bhuvikasolar.online
+0.0.0.0 bi-vert.com
 0.0.0.0 biabe.de
 0.0.0.0 bialettiaustria.com
 0.0.0.0 bici-vience.com
@@ -3941,6 +3950,7 @@
 0.0.0.0 brennholzruhl.de
 0.0.0.0 brennholzrupp.de
 0.0.0.0 brennholzs.com
+0.0.0.0 brennholzschneble.de
 0.0.0.0 brennholzstein.de
 0.0.0.0 brennholzullrich.com
 0.0.0.0 brennholzvidos.at
@@ -4528,7 +4538,6 @@
 0.0.0.0 celeste-botanicals.com
 0.0.0.0 celinemichaud.com
 0.0.0.0 celio.com.de
-0.0.0.0 cellpeptides.com
 0.0.0.0 cellphonelocation.net
 0.0.0.0 celmak.de
 0.0.0.0 celorin.com
@@ -4593,6 +4602,7 @@
 0.0.0.0 chaps-herrenmode.de
 0.0.0.0 chapterrest.store
 0.0.0.0 characterh.com
+0.0.0.0 charentesalliance.com
 0.0.0.0 chargecracker.com
 0.0.0.0 charj7.myshopify.com
 0.0.0.0 charlesashford.shop
@@ -4912,6 +4922,7 @@
 0.0.0.0 clksite.com
 0.0.0.0 cllusatoam.com
 0.0.0.0 clockwisek.com
+0.0.0.0 clogsaleuuu.click
 0.0.0.0 clorislife.com
 0.0.0.0 closeery.top
 0.0.0.0 closeoutstore.de
@@ -6174,7 +6185,6 @@
 0.0.0.0 dewello-shop.de
 0.0.0.0 dewglam.com
 0.0.0.0 dewohntraum.com
-0.0.0.0 dewskdt.shop
 0.0.0.0 dexer-handel.de
 0.0.0.0 dexoraoutlet.com
 0.0.0.0 dexxxlutz.shop
@@ -6510,6 +6520,7 @@
 0.0.0.0 drechselmaschinenrabatt.com
 0.0.0.0 drechselwebshop.com
 0.0.0.0 drehfutterverkauf.com
+0.0.0.0 drehmoment-shop.com
 0.0.0.0 drelkuvizen-at.net
 0.0.0.0 drelkuvizen-austria.at
 0.0.0.0 drelkuvizen-ca.com
@@ -6735,6 +6746,7 @@
 0.0.0.0 ebikescooterfix.com
 0.0.0.0 ebiketeilekauf.com
 0.0.0.0 ebiketeileverkaufe.com
+0.0.0.0 ebikezeit-fahrrad.de
 0.0.0.0 ebikezubehoer.com
 0.0.0.0 ebm-heimwerk.com
 0.0.0.0 ebooklyn.net
@@ -7169,6 +7181,7 @@
 0.0.0.0 equilibriuk.com
 0.0.0.0 equipamentoscasarejos.com.br
 0.0.0.0 equipdiscount24.com
+0.0.0.0 equity-cap.com
 0.0.0.0 equitycapitals.com
 0.0.0.0 equivalenh.com
 0.0.0.0 equivalenu.com
@@ -7988,6 +8001,7 @@
 0.0.0.0 finanzen.075756.net
 0.0.0.0 finanzenexpress.com
 0.0.0.0 finanzonline-gvbmfgv.info
+0.0.0.0 finanzonline-portal4.net
 0.0.0.0 finanzonline.bmf-gvat.com
 0.0.0.0 finanzplanungwittenberg.com
 0.0.0.0 finanzwelt.pro
@@ -9249,7 +9263,6 @@
 0.0.0.0 gmbh2go.de
 0.0.0.0 gml.email
 0.0.0.0 gmmplatform.co
-0.0.0.0 gmpdgagv.shop
 0.0.0.0 gmzglobal.net
 0.0.0.0 gnope.com
 0.0.0.0 go-campingmaster.com
@@ -9309,6 +9322,7 @@
 0.0.0.0 goldenngoosee.com
 0.0.0.0 goldenpandacasino-online.de
 0.0.0.0 goldenpassmedia.com
+0.0.0.0 goldenpump.de
 0.0.0.0 goldenretrievervompfarrgarten.de
 0.0.0.0 golderstarbeer.com
 0.0.0.0 goldhandel-degussa.com
@@ -9710,6 +9724,7 @@
 0.0.0.0 hairive.com
 0.0.0.0 hairlinebeautysalon.de
 0.0.0.0 hakimrazalan.com
+0.0.0.0 hakisition.co
 0.0.0.0 halcyoncanyon.com
 0.0.0.0 halcyonlabel.com
 0.0.0.0 haleybaby.com
@@ -9834,6 +9849,7 @@
 0.0.0.0 harleysaleoutlets.com
 0.0.0.0 harmoniouy.com
 0.0.0.0 harmonyalmbienteoutlet.shop
+0.0.0.0 harmtonyambientehot.com
 0.0.0.0 harpercollins.shop
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
@@ -10924,6 +10940,7 @@
 0.0.0.0 imp.i312864.net
 0.0.0.0 impellerverkauf.com
 0.0.0.0 imperial-craft.com
+0.0.0.0 imperial-finance.ltd
 0.0.0.0 imperial-hamburg.de
 0.0.0.0 imperialpharmaceutical.com
 0.0.0.0 implicationi.com
@@ -11191,6 +11208,7 @@
 0.0.0.0 investmentswiss.com
 0.0.0.0 investproai.fr
 0.0.0.0 investsecuritiesgroup.com
+0.0.0.0 invexxia.com
 0.0.0.0 invisiblen.com
 0.0.0.0 invisishieldlab.com
 0.0.0.0 invitation.samsungiotcloud.com
@@ -11285,6 +11303,7 @@
 0.0.0.0 isolierbecher.com
 0.0.0.0 isosmart.de
 0.0.0.0 isotrader.cc
+0.0.0.0 israelpharm.com
 0.0.0.0 issamtransports.com
 0.0.0.0 issuvd.com
 0.0.0.0 isthebabybornyet.com
@@ -12223,6 +12242,7 @@
 0.0.0.0 kruger-mode.de
 0.0.0.0 krugerdirndlssale.shop
 0.0.0.0 krxd.net
+0.0.0.0 kry.fewxc.com
 0.0.0.0 kryostore.store
 0.0.0.0 kryptod.com
 0.0.0.0 kryptofx.com
@@ -13540,6 +13560,7 @@
 0.0.0.0 margarethes-garten.com
 0.0.0.0 marginalk.com
 0.0.0.0 marginelite.com
+0.0.0.0 margissance.fr
 0.0.0.0 mariaeva-wien.at
 0.0.0.0 marialina-juwelen.de
 0.0.0.0 mariandmaison.com
@@ -13663,6 +13684,7 @@
 0.0.0.0 mathelin-rimoulko.com
 0.0.0.0 matheranalytics.com
 0.0.0.0 mathtag.com
+0.0.0.0 matinvestgroup.com
 0.0.0.0 matomo.activate.cz
 0.0.0.0 matomo.crossiety.app
 0.0.0.0 matomo.samsungsdibs.at
@@ -13719,6 +13741,7 @@
 0.0.0.0 maytenstudio.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb-hindernisse.de
+0.0.0.0 mb-trailer-shop.com
 0.0.0.0 mbel-setsprize.com
 0.0.0.0 mbh-container.de
 0.0.0.0 mbike-jena.de
@@ -13728,6 +13751,7 @@
 0.0.0.0 mc-bau.at
 0.0.0.0 mc-brennholz.com
 0.0.0.0 mcafinances.com
+0.0.0.0 mcbrennholzgifhorn.com
 0.0.0.0 mcc.miui.com
 0.0.0.0 mccoyn.com
 0.0.0.0 mcdlks.com
@@ -14780,7 +14804,6 @@
 0.0.0.0 moonwager.com
 0.0.0.0 moonx.io
 0.0.0.0 mooredvazwe.myshopify.com
-0.0.0.0 mooris.de
 0.0.0.0 moosufergarten.de
 0.0.0.0 mooxishop.de
 0.0.0.0 mopub.com
@@ -17067,6 +17090,7 @@
 0.0.0.0 pokkt.com
 0.0.0.0 polarbtc.com
 0.0.0.0 polaroid.com.de
+0.0.0.0 polaroids.at
 0.0.0.0 polenboeller-deutschland.com
 0.0.0.0 polene-osterreich.com
 0.0.0.0 polene-shop.com
@@ -17160,6 +17184,7 @@
 0.0.0.0 potenzmittel-kaufen-deutschland.com
 0.0.0.0 potenzmittel-schweiz.com
 0.0.0.0 potenzmittel50.com
+0.0.0.0 potenzmittelapotheke24at.com
 0.0.0.0 potenzmittelbestellen.at
 0.0.0.0 potenzmittelonlinekaufen.org
 0.0.0.0 potenzpillenschweiz.com
@@ -17274,6 +17299,7 @@
 0.0.0.0 pricklydebt.com
 0.0.0.0 prideproms.com
 0.0.0.0 pridesaunaclub.com
+0.0.0.0 prikoqueron.com
 0.0.0.0 primada.de
 0.0.0.0 primalekarna.com
 0.0.0.0 primary-markets.com
@@ -17324,6 +17350,7 @@
 0.0.0.0 pro-market.net
 0.0.0.0 pro-talentsycner.online
 0.0.0.0 pro-truckmarket.com
+0.0.0.0 pro-trx.com
 0.0.0.0 proactiveping.com
 0.0.0.0 probablepartner.com
 0.0.0.0 probikezubehor.com
@@ -17775,6 +17802,7 @@
 0.0.0.0 rasen-profis.de
 0.0.0.0 rasen-traktor.com
 0.0.0.0 rasen24.com
+0.0.0.0 rasengereate.com
 0.0.0.0 rasenmahen24.com
 0.0.0.0 rasenmaherwendik.de
 0.0.0.0 rasenmarkt.com
@@ -17889,6 +17917,7 @@
 0.0.0.0 red-dust.de
 0.0.0.0 red-ph-market.com
 0.0.0.0 reda-prikolica.com
+0.0.0.0 redas-prikolica.com
 0.0.0.0 redaut.cc
 0.0.0.0 redbeautysalon.com
 0.0.0.0 redbullosterreich.at
@@ -19212,6 +19241,7 @@
 0.0.0.0 service-standesamt.de
 0.0.0.0 servicegartenpflegesaleh.de
 0.0.0.0 serviceheft24.com
+0.0.0.0 servicejardina.com
 0.0.0.0 servicepharmaceutique.net
 0.0.0.0 services.hearstmags.com
 0.0.0.0 servicesdentaire.com
@@ -19889,6 +19919,7 @@
 0.0.0.0 sonnensparo.com
 0.0.0.0 sonnesucht.de
 0.0.0.0 sonnighof.de
+0.0.0.0 sonnwerkshop.de
 0.0.0.0 sonnyangelshops.com
 0.0.0.0 sonobi.com
 0.0.0.0 sonogo.net
@@ -21105,6 +21136,7 @@
 0.0.0.0 thebalancingmom.com
 0.0.0.0 thebeautyfilter.com
 0.0.0.0 thebellabelle.com
+0.0.0.0 thebicyclehut.com
 0.0.0.0 thebigmart.shop
 0.0.0.0 thebikeapparel.com
 0.0.0.0 thebikeparts.com
@@ -21407,6 +21439,7 @@
 0.0.0.0 tnc31-platform-useast2a.tiktokv.com
 0.0.0.0 tnc58-platform-ycru.tiktokv.com
 0.0.0.0 tnkexchange.com
+0.0.0.0 tnlinvesting.co
 0.0.0.0 tns-counter.ru
 0.0.0.0 tntroyal.com
 0.0.0.0 tobapplog.snssdk.com
@@ -21462,6 +21495,7 @@
 0.0.0.0 toniesbesttoys.com
 0.0.0.0 toniesosterreich.at
 0.0.0.0 toniesrabatt.com
+0.0.0.0 toniesrabattde.com
 0.0.0.0 toniesshop-de.com
 0.0.0.0 toniesspielzeug.com
 0.0.0.0 toniesverkauf-de.com
@@ -21524,6 +21558,7 @@
 0.0.0.0 topgartenservice.de
 0.0.0.0 topgood.xyz
 0.0.0.0 topheizlosungen.com
+0.0.0.0 tophomeonlineshop.com
 0.0.0.0 tophousesgoods.com
 0.0.0.0 tophoven-teilekfz.de
 0.0.0.0 topideaberlin.com
@@ -21929,7 +21964,6 @@
 0.0.0.0 true-pp.com
 0.0.0.0 true-tab.com
 0.0.0.0 true-weightlose.com
-0.0.0.0 truedrugz.com
 0.0.0.0 truefitposture.com
 0.0.0.0 trueglow.de
 0.0.0.0 truehits.net
@@ -22946,6 +22980,7 @@
 0.0.0.0 vumonvision.com
 0.0.0.0 vungle.com
 0.0.0.0 vutereck.com
+0.0.0.0 vuxocap-vip.io
 0.0.0.0 vwutaq.com
 0.0.0.0 vxjskiy.shop
 0.0.0.0 vyjak.com
@@ -23515,6 +23550,7 @@
 0.0.0.0 wotoba.de
 0.0.0.0 wowfunnow.com
 0.0.0.0 wowgyu.com
+0.0.0.0 wowperucken.de
 0.0.0.0 woyuosn.com
 0.0.0.0 wp-welt-pelletsgmbh.de
 0.0.0.0 wpautopecas.com
@@ -23692,7 +23728,6 @@
 0.0.0.0 xxxlutz-eu.shop
 0.0.0.0 xxxmyself.com
 0.0.0.0 xxxxlutz.shop
-0.0.0.0 xydsowyz.shop
 0.0.0.0 xyiyi.com
 0.0.0.0 y-stop.com
 0.0.0.0 y.ibsys.com
@@ -23707,6 +23742,7 @@
 0.0.0.0 yandexmetrica.com
 0.0.0.0 yangibeauty.com
 0.0.0.0 yangzhi.de
+0.0.0.0 yanitransport.com
 0.0.0.0 yanjushop.com
 0.0.0.0 yannelli.net
 0.0.0.0 yardigen.store
