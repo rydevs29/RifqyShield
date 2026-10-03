@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-02 03:21:15
-# Total Domains: 23,811
+# Last Updated: 2026-10-03 03:06:36
+# Total Domains: 23,809
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -105,6 +105,7 @@ add name="4rainfast.shop" address=0.0.0.0
 add name="4rxofficial.com" address=0.0.0.0
 add name="5-c3.bigdata.ctc.neo.xiaomi.com" address=0.0.0.0
 add name="5-pocketjeans.com" address=0.0.0.0
+add name="50websads.com" address=0.0.0.0
 add name="51-sports.com" address=0.0.0.0
 add name="51.la" address=0.0.0.0
 add name="518ad.com" address=0.0.0.0
@@ -1182,6 +1183,7 @@ add name="adts.lgtvcommon.com" address=0.0.0.0
 add name="adultadvertising.com" address=0.0.0.0
 add name="aduno-agentur.de" address=0.0.0.0
 add name="adv-adserver.com" address=0.0.0.0
+add name="adv.donejty.pl" address=0.0.0.0
 add name="adv.freeonline.it" address=0.0.0.0
 add name="adv.hwupgrade.it" address=0.0.0.0
 add name="adv.l7.34.sec.miui.com" address=0.0.0.0
@@ -1332,7 +1334,6 @@ add name="affenzahn-schuhe.com" address=0.0.0.0
 add name="affili.net" address=0.0.0.0
 add name="affiliate.1800flowers.com" address=0.0.0.0
 add name="affiliate.dtiserv.com" address=0.0.0.0
-add name="affiliate.travelnow.com" address=0.0.0.0
 add name="affiliate.treated.com" address=0.0.0.0
 add name="affiliatefuture.com" address=0.0.0.0
 add name="affiliates.allposters.com" address=0.0.0.0
@@ -1677,11 +1678,8 @@ add name="aluhsda.com" address=0.0.0.0
 add name="alumodus.com" address=0.0.0.0
 add name="alunaclo.de" address=0.0.0.0
 add name="aluvea.de" address=0.0.0.0
-add name="alvara-zurich.ch" address=0.0.0.0
 add name="alverogmbh.myshopify.com" address=0.0.0.0
 add name="alvinegroup.com" address=0.0.0.0
-add name="alwansolarhq.shop" address=0.0.0.0
-add name="alyatransports.com" address=0.0.0.0
 add name="alzaccess.com" address=0.0.0.0
 add name="am-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="am-onlinehandel.de" address=0.0.0.0
@@ -1753,6 +1751,7 @@ add name="amuseliebe.shop" address=0.0.0.0
 add name="amuseliebedirndl.com" address=0.0.0.0
 add name="amznreturnsale.com" address=0.0.0.0
 add name="anabolic-steroids-online.com" address=0.0.0.0
+add name="anabolikaonlinedeutschland.com" address=0.0.0.0
 add name="analyticg.com" address=0.0.0.0
 add name="analyticn.com" address=0.0.0.0
 add name="analytics-api.samsunghealthcn.com" address=0.0.0.0
@@ -1881,7 +1880,6 @@ add name="angelcindy.com" address=0.0.0.0
 add name="angelenita.com" address=0.0.0.0
 add name="angelnentdecken.com" address=0.0.0.0
 add name="angelnmitchell.com" address=0.0.0.0
-add name="angelzubehoerladen.com" address=0.0.0.0
 add name="angenehme.de" address=0.0.0.0
 add name="angermaierwiesn.de" address=0.0.0.0
 add name="angstrom-vos.de" address=0.0.0.0
@@ -1919,7 +1917,6 @@ add name="animefigureworld.com" address=0.0.0.0
 add name="aniview.com" address=0.0.0.0
 add name="ankauf-neodym-magnete.de" address=0.0.0.0
 add name="ankelinerherz.com" address=0.0.0.0
-add name="ankerflowtech.shop" address=0.0.0.0
 add name="ankerkrautde.shop" address=0.0.0.0
 add name="ankotec.de" address=0.0.0.0
 add name="anlage-kauf.de" address=0.0.0.0
@@ -2056,7 +2053,6 @@ add name="aplschuhe.at" address=0.0.0.0
 add name="aplschuhe.com" address=0.0.0.0
 add name="apo-rezeptfrei.com" address=0.0.0.0
 add name="apolloprogram.io" address=0.0.0.0
-add name="apollus24.com" address=0.0.0.0
 add name="apollus24.com.com" address=0.0.0.0
 add name="apotek-no24.com" address=0.0.0.0
 add name="apotek-norge24.com" address=0.0.0.0
@@ -2074,7 +2070,6 @@ add name="apotheke-neu.com" address=0.0.0.0
 add name="apotheke-rezeptfrei.com" address=0.0.0.0
 add name="apotheke-schweiz.net" address=0.0.0.0
 add name="apotheke-windischgarsten.com" address=0.0.0.0
-add name="apotheke-zaversko.shop" address=0.0.0.0
 add name="apotheke.buzz" address=0.0.0.0
 add name="apotheke24eu.de" address=0.0.0.0
 add name="apothekedeutsche.de" address=0.0.0.0
@@ -2123,7 +2118,6 @@ add name="applab-sdk.amazon.com" address=0.0.0.0
 add name="applauseud.com" address=0.0.0.0
 add name="applausey.com" address=0.0.0.0
 add name="apple-pay-casino.de" address=0.0.0.0
-add name="apple-ui.com" address=0.0.0.0
 add name="appleeden.de" address=0.0.0.0
 add name="applemarket.de" address=0.0.0.0
 add name="applemediaservices.com" address=0.0.0.0
@@ -2264,7 +2258,6 @@ add name="arvulonikanz-netherlands.com" address=0.0.0.0
 add name="arvulonikanz.com" address=0.0.0.0
 add name="arvulonikanz.net" address=0.0.0.0
 add name="arvulonikanz.org" address=0.0.0.0
-add name="arvulonikanz.tech" address=0.0.0.0
 add name="arwanagamingzpt.site" address=0.0.0.0
 add name="arwibon.us" address=0.0.0.0
 add name="arzi.de" address=0.0.0.0
@@ -2350,7 +2343,6 @@ add name="aso1.net" address=0.0.0.0
 add name="asomch.com" address=0.0.0.0
 add name="asse-groupe.com" address=0.0.0.0
 add name="assemblytoolprada.com" address=0.0.0.0
-add name="assess-health.com" address=0.0.0.0
 add name="asset-ace.org" address=0.0.0.0
 add name="assetimperial.com" address=0.0.0.0
 add name="assetonehub.com" address=0.0.0.0
@@ -2368,7 +2360,6 @@ add name="assoc-msdk-cn.amazon-adsystem.com" address=0.0.0.0
 add name="assoc-msdk-eu.amazon-adsystem.com" address=0.0.0.0
 add name="assoc-msdk-us.amazon-adsystem.com" address=0.0.0.0
 add name="assortedfurniture.com" address=0.0.0.0
-add name="assoulinesales.shop" address=0.0.0.0
 add name="astbrennholz.com" address=0.0.0.0
 add name="astelia.de" address=0.0.0.0
 add name="astonforex.com" address=0.0.0.0
@@ -3915,6 +3906,7 @@ add name="brennholzvidos.at" address=0.0.0.0
 add name="brennholzweber.de" address=0.0.0.0
 add name="brennholzwerner.de" address=0.0.0.0
 add name="brennholzwidmann.de" address=0.0.0.0
+add name="brennkiste.de" address=0.0.0.0
 add name="brennstoffemokstat.shop" address=0.0.0.0
 add name="brenstoffe-versand.de" address=0.0.0.0
 add name="brenuingerde.com" address=0.0.0.0
@@ -5352,7 +5344,6 @@ add name="coverfrot.com" address=0.0.0.0
 add name="coveshe.com" address=0.0.0.0
 add name="coviviocapital.com" address=0.0.0.0
 add name="covshop.de" address=0.0.0.0
-add name="cowbelltime.com" address=0.0.0.0
 add name="cowboybootsnew.com" address=0.0.0.0
 add name="coxmt.com" address=0.0.0.0
 add name="coyojo.com" address=0.0.0.0
@@ -6180,7 +6171,6 @@ add name="dianomi.com" address=0.0.0.0
 add name="diantrag.com" address=0.0.0.0
 add name="diaryofafitmommy.com" address=0.0.0.0
 add name="dicamgruppe.de" address=0.0.0.0
-add name="dicecandies.com" address=0.0.0.0
 add name="dicha-anhaenger.com" address=0.0.0.0
 add name="dicha-bike.com" address=0.0.0.0
 add name="dicha-technik.com" address=0.0.0.0
@@ -7851,6 +7841,7 @@ add name="fettverbrenneronline.com" address=0.0.0.0
 add name="feuchtigkeits.de" address=0.0.0.0
 add name="feuerbergplus.com" address=0.0.0.0
 add name="feuerholzexpress.de" address=0.0.0.0
+add name="feuerholzliebe.de" address=0.0.0.0
 add name="feuerundgrill.myshopify.com" address=0.0.0.0
 add name="feuerwehr-vehlen.de" address=0.0.0.0
 add name="fewleadca.com" address=0.0.0.0
@@ -8597,6 +8588,7 @@ add name="gainexo.com" address=0.0.0.0
 add name="gaingeneratorpro.de" address=0.0.0.0
 add name="galactict.com" address=0.0.0.0
 add name="galaxien.com" address=0.0.0.0
+add name="galaxyfox.io" address=0.0.0.0
 add name="galaxylicht.shop" address=0.0.0.0
 add name="galeme.com" address=0.0.0.0
 add name="galera-markt.com" address=0.0.0.0
@@ -9491,6 +9483,7 @@ add name="grunraum.myshopify.com" address=0.0.0.0
 add name="gruntechde.com" address=0.0.0.0
 add name="gruntmuzicz.com" address=0.0.0.0
 add name="grunzauber.com" address=0.0.0.0
+add name="gsb-grosshandel.com" address=0.0.0.0
 add name="gscontxt.net" address=0.0.0.0
 add name="gshandels.com" address=0.0.0.0
 add name="gsib-partner.com" address=0.0.0.0
@@ -10138,6 +10131,7 @@ add name="hgads.com" address=0.0.0.0
 add name="hgtyfd.shop" address=0.0.0.0
 add name="hi-goeedoo.com" address=0.0.0.0
 add name="hibote.de" address=0.0.0.0
+add name="hicity.de" address=0.0.0.0
 add name="hico-shop.de" address=0.0.0.0
 add name="hiddenbarandgrill.com" address=0.0.0.0
 add name="hidra-pool.com" address=0.0.0.0
@@ -10324,6 +10318,7 @@ add name="holznotenpulte.de" address=0.0.0.0
 add name="holzpelletshop.com" address=0.0.0.0
 add name="holzpuzzlez.com" address=0.0.0.0
 add name="holzqualitat.de" address=0.0.0.0
+add name="holzregional.de" address=0.0.0.0
 add name="holzti.com" address=0.0.0.0
 add name="holzundheizungkontor.de" address=0.0.0.0
 add name="holzundkunststueble.de" address=0.0.0.0
@@ -10447,7 +10442,6 @@ add name="hotelaustralien.de" address=0.0.0.0
 add name="hotelinphuket.net" address=0.0.0.0
 add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
-add name="hotels-colorado.net" address=0.0.0.0
 add name="hotelsinperm.ru" address=0.0.0.0
 add name="hotelsinvienna.org" address=0.0.0.0
 add name="hotelsofmenorca.com" address=0.0.0.0
@@ -10487,6 +10481,7 @@ add name="hs-banner.com" address=0.0.0.0
 add name="hsadspixel.net" address=0.0.0.0
 add name="hsc-brunner.at" address=0.0.0.0
 add name="hsdienst.at" address=0.0.0.0
+add name="hselbe-fahrrad.de" address=0.0.0.0
 add name="hshndxdi.shop" address=0.0.0.0
 add name="hsk-bessel.de" address=0.0.0.0
 add name="hsleadflows.net" address=0.0.0.0
@@ -10839,7 +10834,6 @@ add name="implicationi.com" address=0.0.0.0
 add name="import-export.website" address=0.0.0.0
 add name="importstoree.com" address=0.0.0.0
 add name="impossibleexpansion.com" address=0.0.0.0
-add name="imprese.cz" address=0.0.0.0
 add name="impressionmedia.cz" address=0.0.0.0
 add name="impressionmonster.com" address=0.0.0.0
 add name="improbuehne.de" address=0.0.0.0
@@ -11222,6 +11216,7 @@ add name="ivelay.com" address=0.0.0.0
 add name="ivermectin-apotheke.com" address=0.0.0.0
 add name="ivermectinkoupit.com" address=0.0.0.0
 add name="ivernamart.com" address=0.0.0.0
+add name="ivwbox.de" address=0.0.0.0
 add name="ivykiosk.com" address=0.0.0.0
 add name="iwamonmodeshop.com" address=0.0.0.0
 add name="iwildcasinoonline.com" address=0.0.0.0
@@ -15742,6 +15737,7 @@ add name="officialdtspharmacy.shop" address=0.0.0.0
 add name="officialdubaichocolate.shop" address=0.0.0.0
 add name="officialfixdessertchocolatier.com" address=0.0.0.0
 add name="officialmenu.com" address=0.0.0.0
+add name="officialpaint.com" address=0.0.0.0
 add name="officialrebrand.shop" address=0.0.0.0
 add name="officialrenewritualsupplement.shop" address=0.0.0.0
 add name="officialyeti.com" address=0.0.0.0
@@ -15985,6 +15981,7 @@ add name="oofos--canada.com" address=0.0.0.0
 add name="oofossingaporestore.com" address=0.0.0.0
 add name="oolongtime.com" address=0.0.0.0
 add name="oonide.shop" address=0.0.0.0
+add name="ooniuk.shop" address=0.0.0.0
 add name="oonowa.myshopify.com" address=0.0.0.0
 add name="oops-clubsauna.com" address=0.0.0.0
 add name="opabitcoin.com" address=0.0.0.0
@@ -18132,7 +18129,6 @@ add name="roinvest.net" address=0.0.0.0
 add name="rok.com.com" address=0.0.0.0
 add name="roleo.net" address=0.0.0.0
 add name="rolex-replica.to" address=0.0.0.0
-add name="rolexwanduhr.de" address=0.0.0.0
 add name="rolexyeals.com" address=0.0.0.0
 add name="rolla.store" address=0.0.0.0
 add name="rolladen-rudolf.at" address=0.0.0.0
@@ -18412,6 +18408,7 @@ add name="rx-discount.com" address=0.0.0.0
 add name="rx-pharma.net" address=0.0.0.0
 add name="rx-pharmacies.com" address=0.0.0.0
 add name="rx-qualityshop.com" address=0.0.0.0
+add name="rx-true.com" address=0.0.0.0
 add name="rxapothekefursie.com" address=0.0.0.0
 add name="rxappfree.com" address=0.0.0.0
 add name="rxcash.biz" address=0.0.0.0
@@ -20176,6 +20173,7 @@ add name="stickyadstv.com" address=0.0.0.0
 add name="stiefelvia.com" address=0.0.0.0
 add name="stienen-damast.de" address=0.0.0.0
 add name="stiffgame.com" address=0.0.0.0
+add name="stig-international.com" address=0.0.0.0
 add name="stijn-outlet.com" address=0.0.0.0
 add name="stil-mode.de" address=0.0.0.0
 add name="stilberlin.com" address=0.0.0.0
@@ -20522,6 +20520,7 @@ add name="swissbitcoins.com" address=0.0.0.0
 add name="swisscapitalhub.com" address=0.0.0.0
 add name="swissclaim-ag.ch" address=0.0.0.0
 add name="swisscoinco.com" address=0.0.0.0
+add name="swisscorummanagement.com" address=0.0.0.0
 add name="swissepargne.com" address=0.0.0.0
 add name="swisslona.ch" address=0.0.0.0
 add name="swisslosonline.com" address=0.0.0.0
@@ -22563,7 +22562,6 @@ add name="vivads.net" address=0.0.0.0
 add name="vivagopro.com" address=0.0.0.0
 add name="vivaharmoni.com" address=0.0.0.0
 add name="vivaia-schuhe.de" address=0.0.0.0
-add name="vivaiacollection.com" address=0.0.0.0
 add name="vivaiaschuhe.at" address=0.0.0.0
 add name="vivaiaschuhe.com" address=0.0.0.0
 add name="vivaiaschuhe.de" address=0.0.0.0

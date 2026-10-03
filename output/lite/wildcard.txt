@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-02 03:21:15
-# Total Domains: 23,811
+# Last Updated: 2026-10-03 03:06:36
+# Total Domains: 23,809
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -104,6 +104,7 @@
 *.4rxofficial.com
 *.5-c3.bigdata.ctc.neo.xiaomi.com
 *.5-pocketjeans.com
+*.50websads.com
 *.51-sports.com
 *.51.la
 *.518ad.com
@@ -1181,6 +1182,7 @@
 *.adultadvertising.com
 *.aduno-agentur.de
 *.adv-adserver.com
+*.adv.donejty.pl
 *.adv.freeonline.it
 *.adv.hwupgrade.it
 *.adv.l7.34.sec.miui.com
@@ -1331,7 +1333,6 @@
 *.affili.net
 *.affiliate.1800flowers.com
 *.affiliate.dtiserv.com
-*.affiliate.travelnow.com
 *.affiliate.treated.com
 *.affiliatefuture.com
 *.affiliates.allposters.com
@@ -1676,11 +1677,8 @@
 *.alumodus.com
 *.alunaclo.de
 *.aluvea.de
-*.alvara-zurich.ch
 *.alverogmbh.myshopify.com
 *.alvinegroup.com
-*.alwansolarhq.shop
-*.alyatransports.com
 *.alzaccess.com
 *.am-ad-lgsmartad-com.aws-prd.net
 *.am-onlinehandel.de
@@ -1752,6 +1750,7 @@
 *.amuseliebedirndl.com
 *.amznreturnsale.com
 *.anabolic-steroids-online.com
+*.anabolikaonlinedeutschland.com
 *.analyticg.com
 *.analyticn.com
 *.analytics-api.samsunghealthcn.com
@@ -1880,7 +1879,6 @@
 *.angelenita.com
 *.angelnentdecken.com
 *.angelnmitchell.com
-*.angelzubehoerladen.com
 *.angenehme.de
 *.angermaierwiesn.de
 *.angstrom-vos.de
@@ -1918,7 +1916,6 @@
 *.aniview.com
 *.ankauf-neodym-magnete.de
 *.ankelinerherz.com
-*.ankerflowtech.shop
 *.ankerkrautde.shop
 *.ankotec.de
 *.anlage-kauf.de
@@ -2055,7 +2052,6 @@
 *.aplschuhe.com
 *.apo-rezeptfrei.com
 *.apolloprogram.io
-*.apollus24.com
 *.apollus24.com.com
 *.apotek-no24.com
 *.apotek-norge24.com
@@ -2073,7 +2069,6 @@
 *.apotheke-rezeptfrei.com
 *.apotheke-schweiz.net
 *.apotheke-windischgarsten.com
-*.apotheke-zaversko.shop
 *.apotheke.buzz
 *.apotheke24eu.de
 *.apothekedeutsche.de
@@ -2122,7 +2117,6 @@
 *.applauseud.com
 *.applausey.com
 *.apple-pay-casino.de
-*.apple-ui.com
 *.appleeden.de
 *.applemarket.de
 *.applemediaservices.com
@@ -2263,7 +2257,6 @@
 *.arvulonikanz.com
 *.arvulonikanz.net
 *.arvulonikanz.org
-*.arvulonikanz.tech
 *.arwanagamingzpt.site
 *.arwibon.us
 *.arzi.de
@@ -2349,7 +2342,6 @@
 *.asomch.com
 *.asse-groupe.com
 *.assemblytoolprada.com
-*.assess-health.com
 *.asset-ace.org
 *.assetimperial.com
 *.assetonehub.com
@@ -2367,7 +2359,6 @@
 *.assoc-msdk-eu.amazon-adsystem.com
 *.assoc-msdk-us.amazon-adsystem.com
 *.assortedfurniture.com
-*.assoulinesales.shop
 *.astbrennholz.com
 *.astelia.de
 *.astonforex.com
@@ -3914,6 +3905,7 @@
 *.brennholzweber.de
 *.brennholzwerner.de
 *.brennholzwidmann.de
+*.brennkiste.de
 *.brennstoffemokstat.shop
 *.brenstoffe-versand.de
 *.brenuingerde.com
@@ -5351,7 +5343,6 @@
 *.coveshe.com
 *.coviviocapital.com
 *.covshop.de
-*.cowbelltime.com
 *.cowboybootsnew.com
 *.coxmt.com
 *.coyojo.com
@@ -6179,7 +6170,6 @@
 *.diantrag.com
 *.diaryofafitmommy.com
 *.dicamgruppe.de
-*.dicecandies.com
 *.dicha-anhaenger.com
 *.dicha-bike.com
 *.dicha-technik.com
@@ -7850,6 +7840,7 @@
 *.feuchtigkeits.de
 *.feuerbergplus.com
 *.feuerholzexpress.de
+*.feuerholzliebe.de
 *.feuerundgrill.myshopify.com
 *.feuerwehr-vehlen.de
 *.fewleadca.com
@@ -8596,6 +8587,7 @@
 *.gaingeneratorpro.de
 *.galactict.com
 *.galaxien.com
+*.galaxyfox.io
 *.galaxylicht.shop
 *.galeme.com
 *.galera-markt.com
@@ -9490,6 +9482,7 @@
 *.gruntechde.com
 *.gruntmuzicz.com
 *.grunzauber.com
+*.gsb-grosshandel.com
 *.gscontxt.net
 *.gshandels.com
 *.gsib-partner.com
@@ -10137,6 +10130,7 @@
 *.hgtyfd.shop
 *.hi-goeedoo.com
 *.hibote.de
+*.hicity.de
 *.hico-shop.de
 *.hiddenbarandgrill.com
 *.hidra-pool.com
@@ -10323,6 +10317,7 @@
 *.holzpelletshop.com
 *.holzpuzzlez.com
 *.holzqualitat.de
+*.holzregional.de
 *.holzti.com
 *.holzundheizungkontor.de
 *.holzundkunststueble.de
@@ -10446,7 +10441,6 @@
 *.hotelinphuket.net
 *.hotelladen.com
 *.hotels-colombo.com
-*.hotels-colorado.net
 *.hotelsinperm.ru
 *.hotelsinvienna.org
 *.hotelsofmenorca.com
@@ -10486,6 +10480,7 @@
 *.hsadspixel.net
 *.hsc-brunner.at
 *.hsdienst.at
+*.hselbe-fahrrad.de
 *.hshndxdi.shop
 *.hsk-bessel.de
 *.hsleadflows.net
@@ -10838,7 +10833,6 @@
 *.import-export.website
 *.importstoree.com
 *.impossibleexpansion.com
-*.imprese.cz
 *.impressionmedia.cz
 *.impressionmonster.com
 *.improbuehne.de
@@ -11221,6 +11215,7 @@
 *.ivermectin-apotheke.com
 *.ivermectinkoupit.com
 *.ivernamart.com
+*.ivwbox.de
 *.ivykiosk.com
 *.iwamonmodeshop.com
 *.iwildcasinoonline.com
@@ -15741,6 +15736,7 @@
 *.officialdubaichocolate.shop
 *.officialfixdessertchocolatier.com
 *.officialmenu.com
+*.officialpaint.com
 *.officialrebrand.shop
 *.officialrenewritualsupplement.shop
 *.officialyeti.com
@@ -15984,6 +15980,7 @@
 *.oofossingaporestore.com
 *.oolongtime.com
 *.oonide.shop
+*.ooniuk.shop
 *.oonowa.myshopify.com
 *.oops-clubsauna.com
 *.opabitcoin.com
@@ -18131,7 +18128,6 @@
 *.rok.com.com
 *.roleo.net
 *.rolex-replica.to
-*.rolexwanduhr.de
 *.rolexyeals.com
 *.rolla.store
 *.rolladen-rudolf.at
@@ -18411,6 +18407,7 @@
 *.rx-pharma.net
 *.rx-pharmacies.com
 *.rx-qualityshop.com
+*.rx-true.com
 *.rxapothekefursie.com
 *.rxappfree.com
 *.rxcash.biz
@@ -20175,6 +20172,7 @@
 *.stiefelvia.com
 *.stienen-damast.de
 *.stiffgame.com
+*.stig-international.com
 *.stijn-outlet.com
 *.stil-mode.de
 *.stilberlin.com
@@ -20521,6 +20519,7 @@
 *.swisscapitalhub.com
 *.swissclaim-ag.ch
 *.swisscoinco.com
+*.swisscorummanagement.com
 *.swissepargne.com
 *.swisslona.ch
 *.swisslosonline.com
@@ -22562,7 +22561,6 @@
 *.vivagopro.com
 *.vivaharmoni.com
 *.vivaia-schuhe.de
-*.vivaiacollection.com
 *.vivaiaschuhe.at
 *.vivaiaschuhe.com
 *.vivaiaschuhe.de
