@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-05 03:16:33
-# Total Domains: 23,737
+# Last Updated: 2026-10-06 04:04:10
+# Total Domains: 23,732
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -3246,7 +3246,6 @@
 0.0.0.0 bestpagjkl.com
 0.0.0.0 bestpharm-eu.com
 0.0.0.0 bestpillpharmacy.com
-0.0.0.0 bestpillsnetwork.com
 0.0.0.0 bestpricetreatments.com
 0.0.0.0 bestproductsonlinestore.com
 0.0.0.0 bestprogift.com
@@ -3802,6 +3801,7 @@
 0.0.0.0 braunsale.de
 0.0.0.0 bravedrawer.com
 0.0.0.0 braviamarket.com
+0.0.0.0 brawlstars.store
 0.0.0.0 braze.eu
 0.0.0.0 brazillo.store
 0.0.0.0 brazuque.com.br
@@ -5474,6 +5474,7 @@
 0.0.0.0 cv-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 cv-tech-onlineshop.de
 0.0.0.0 cvc-capital-partners.com
+0.0.0.0 cvmaker.de
 0.0.0.0 cvneed.com
 0.0.0.0 cwl-experts.org
 0.0.0.0 cx.gamehander.com
@@ -6553,7 +6554,6 @@
 0.0.0.0 eadexchange.com
 0.0.0.0 eaepp.com
 0.0.0.0 eafengrowkniveshub.com
-0.0.0.0 ealzsidb.shop
 0.0.0.0 eap-log-in.allawnos.com
 0.0.0.0 eap-log-sg.allawnos.com
 0.0.0.0 earlynoon.com
@@ -6623,7 +6623,6 @@
 0.0.0.0 ecoalfosterreich.at
 0.0.0.0 ecohabitsy.com
 0.0.0.0 ecohubfast.com
-0.0.0.0 ecohubfast.shop
 0.0.0.0 ecompinnacle.co.uk
 0.0.0.0 ecomtrade24.com
 0.0.0.0 econicosus.de
@@ -6651,7 +6650,6 @@
 0.0.0.0 edeka24de.com
 0.0.0.0 edelina.de
 0.0.0.0 edelkakao.com
-0.0.0.0 edelkatzenzucht.com
 0.0.0.0 edelmar.de
 0.0.0.0 edelmetall-koeppen.de
 0.0.0.0 edelraum.com
@@ -6661,7 +6659,6 @@
 0.0.0.0 edelynklein.de
 0.0.0.0 edexpert.de
 0.0.0.0 edexpress24.com
-0.0.0.0 edfarm.it
 0.0.0.0 edgecapitalfunds.com
 0.0.0.0 edgestan.com
 0.0.0.0 edgexads.com
@@ -6764,7 +6761,6 @@
 0.0.0.0 electronw.com
 0.0.0.0 electroshop24.de
 0.0.0.0 elecx.de
-0.0.0.0 elegance-maison.fr
 0.0.0.0 elegant-leben.de
 0.0.0.0 elegantmobel.com
 0.0.0.0 elegantseatcover.com
@@ -6791,7 +6787,6 @@
 0.0.0.0 elektro-oase.de
 0.0.0.0 elektro-outlet24.myshopify.com
 0.0.0.0 elektro-rock.com
-0.0.0.0 elektro-soforthilfe.at
 0.0.0.0 elektro-stern.com
 0.0.0.0 elektro-titan.de
 0.0.0.0 elektro-willi.de
@@ -6854,7 +6849,6 @@
 0.0.0.0 ellabelle.de
 0.0.0.0 ellada-farmakeio.com
 0.0.0.0 ellameyer.de
-0.0.0.0 ellanorahamburg.com
 0.0.0.0 elle-zurich.com
 0.0.0.0 ellenperuecken.de
 0.0.0.0 ellerne.com
@@ -6883,7 +6877,6 @@
 0.0.0.0 elyvanedepot.com
 0.0.0.0 elzaros.com
 0.0.0.0 em1.yoursantander.co.uk
-0.0.0.0 ema-schmuck.com
 0.0.0.0 email-link.adtidy.info
 0.0.0.0 email-link.adtidy.net
 0.0.0.0 email-link.adtidy.org
@@ -7075,7 +7068,6 @@
 0.0.0.0 esn-fitness.com
 0.0.0.0 esnoutleteur.com
 0.0.0.0 esnsupply.shop
-0.0.0.0 esoqoklb.shop
 0.0.0.0 esotecde.shop
 0.0.0.0 esotecs.com
 0.0.0.0 espacedblc.com
@@ -7096,7 +7088,6 @@
 0.0.0.0 essentialoilnew.com
 0.0.0.0 essentials-osterreich.at
 0.0.0.0 essenundgenuss.com
-0.0.0.0 essor-invexaro.fr
 0.0.0.0 essorinvexaro.fr
 0.0.0.0 esszimmerery.com
 0.0.0.0 establishg.com
@@ -7156,7 +7147,6 @@
 0.0.0.0 eu-st-sl.vivoglobal.com
 0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-timesync.vivoglobal.com
-0.0.0.0 eu-trader.io
 0.0.0.0 eu-vcode-api.vivoglobal.com
 0.0.0.0 eu-vcode-od.vivoglobal.com
 0.0.0.0 eu-vcode-or.vivoglobal.com
@@ -7176,7 +7166,6 @@
 0.0.0.0 euc-word-telemetry.officeapps.live.com
 0.0.0.0 euc-word-telemetry.wac.trafficmanager.net
 0.0.0.0 euchems.me
-0.0.0.0 eucloseoutue.com
 0.0.0.0 euergutesbrennholz.com
 0.0.0.0 eufm.eu
 0.0.0.0 eugenefieldpac.com
@@ -7186,8 +7175,6 @@
 0.0.0.0 eumarketstores.com
 0.0.0.0 eumeds24.com
 0.0.0.0 eunits.de
-0.0.0.0 euonlinedeal.shop
-0.0.0.0 euortovox.shop
 0.0.0.0 eupills.com
 0.0.0.0 eurekster.com
 0.0.0.0 eurenzo.com
@@ -7236,7 +7223,6 @@
 0.0.0.0 europeangeneric.com
 0.0.0.0 europeannewstoday.com
 0.0.0.0 europeanpharm.net
-0.0.0.0 europecapitalmarkets.com
 0.0.0.0 europharmacy.net
 0.0.0.0 europharmacyonline.com
 0.0.0.0 europharms.com
@@ -7312,7 +7298,6 @@
 0.0.0.0 everestrust.com
 0.0.0.0 everesttech.net
 0.0.0.0 evergage.com
-0.0.0.0 evergreen-herne.com
 0.0.0.0 everhandmade.com
 0.0.0.0 everlast.fund
 0.0.0.0 everlastosterreich.at
@@ -7328,7 +7313,6 @@
 0.0.0.0 evitrol.com
 0.0.0.0 evo-pharmacy.com
 0.0.0.0 evolgrafix.de
-0.0.0.0 evolveasialtd.co
 0.0.0.0 evoqueebikeshop.shop
 0.0.0.0 evoragaming.com
 0.0.0.0 evosgaming-15l.site
@@ -7361,7 +7345,6 @@
 0.0.0.0 exclusivewears.com
 0.0.0.0 exelate.com
 0.0.0.0 exelator.com
-0.0.0.0 exeloniq.org
 0.0.0.0 exhibitsneeze.com
 0.0.0.0 exit76.com
 0.0.0.0 exitexchange.com
@@ -7433,7 +7416,6 @@
 0.0.0.0 eyewonder.com
 0.0.0.0 ezbuyremedieshere24.com
 0.0.0.0 ezcustombikes.com
-0.0.0.0 ezigaretteplus.com
 0.0.0.0 ezigarettestore.com
 0.0.0.0 ezonesglobal.com
 0.0.0.0 ezoom.top
@@ -7464,7 +7446,6 @@
 0.0.0.0 fahrrad-hess.de
 0.0.0.0 fahrrad-jung.de
 0.0.0.0 fahrrad-sparwelt.de
-0.0.0.0 fahrrad-versand.com
 0.0.0.0 fahrrad-zukunft.de
 0.0.0.0 fahrradangebotede.com
 0.0.0.0 fahrradbulls.com
@@ -7509,7 +7490,6 @@
 0.0.0.0 fahrradteileladen.com
 0.0.0.0 fahrradteilesoldes.com
 0.0.0.0 fahrradverleih-binz.de
-0.0.0.0 fahrradweltangebote.com
 0.0.0.0 fahrradwerkzeuge-de.com
 0.0.0.0 fahrradzubehor-neu.com
 0.0.0.0 fahrradzubehor-prada.com
@@ -9305,6 +9285,7 @@
 0.0.0.0 greentuning-de.com
 0.0.0.0 greermy.com
 0.0.0.0 greesioun.com
+0.0.0.0 greiner-brennholz.com
 0.0.0.0 greiner-marktanalyse.de
 0.0.0.0 grekkstore.com
 0.0.0.0 greystripe.com
@@ -9508,7 +9489,6 @@
 0.0.0.0 h4g3z1-native-winoffice.web.app
 0.0.0.0 h4g3z1-native-xiaomi.web.app
 0.0.0.0 h5-ru.video.intl.xiaomi.com
-0.0.0.0 h5.ecoinf.vip
 0.0.0.0 h5.tv.mi.com
 0.0.0.0 h6.msn.com
 0.0.0.0 haarpflegehaut.com
@@ -10206,6 +10186,7 @@
 0.0.0.0 holz-deal24.de
 0.0.0.0 holz-discounter.com
 0.0.0.0 holz-hambach.com
+0.0.0.0 holz-market.com
 0.0.0.0 holz-pellet-bestequalitat.de
 0.0.0.0 holz-pellets24.com
 0.0.0.0 holz-premium.de
@@ -10223,6 +10204,7 @@
 0.0.0.0 holzfursfeuer.de
 0.0.0.0 holzgartenprofi.de
 0.0.0.0 holzgluck.de
+0.0.0.0 holzgutexpress.de
 0.0.0.0 holzhack-schnitzel.de
 0.0.0.0 holzhambach.com
 0.0.0.0 holzhandelhensel.com
@@ -10248,6 +10230,7 @@
 0.0.0.0 holzundpellets.com
 0.0.0.0 holzundwerkzeug-bestequalitat.de
 0.0.0.0 holzvomland.de
+0.0.0.0 holzwaermedirekt.de
 0.0.0.0 holzwerke-unikat.de
 0.0.0.0 holzwerks.de
 0.0.0.0 holzwerkzeugekaufen.com
@@ -11877,6 +11860,7 @@
 0.0.0.0 kleversholz.com
 0.0.0.0 kley-kanzlei.com
 0.0.0.0 kliks.nl
+0.0.0.0 klima-zuschuss-2026.cc
 0.0.0.0 klima.bonus-gutschrift.cc
 0.0.0.0 klimaanlageportal.de
 0.0.0.0 klimabonus-2026.net
@@ -12445,6 +12429,7 @@
 0.0.0.0 lernkompass24.de
 0.0.0.0 lernspielzeugneu.de
 0.0.0.0 les-bons-prix.com
+0.0.0.0 lesboisdubreuil.com
 0.0.0.0 lesburst.shop
 0.0.0.0 lescocosecolos.com
 0.0.0.0 lesculturelles.com
@@ -13104,6 +13089,7 @@
 0.0.0.0 luvona.de
 0.0.0.0 luvori.de
 0.0.0.0 luvqx.com
+0.0.0.0 luvyle.com
 0.0.0.0 luwander.shop
 0.0.0.0 lux-clubx.za.com
 0.0.0.0 luxeberlin.de
@@ -14406,6 +14392,7 @@
 0.0.0.0 mokuhashop.com
 0.0.0.0 molaro.de
 0.0.0.0 molilulu.com
+0.0.0.0 mollerbrennholzhandelgmbh.de
 0.0.0.0 molnyonon.com
 0.0.0.0 molveschuhe.de
 0.0.0.0 momentsofharmony.de
@@ -15351,7 +15338,6 @@
 0.0.0.0 norvahaus.de
 0.0.0.0 norvexapharma.com
 0.0.0.0 norvielle.de
-0.0.0.0 norwayhotel.net
 0.0.0.0 norwaynewstoday.com
 0.0.0.0 norwiss.de
 0.0.0.0 norxonline.biz
@@ -16070,6 +16056,7 @@
 0.0.0.0 osteopathiehamburgterminonline.de
 0.0.0.0 ostergartenhermesdorf.de
 0.0.0.0 osterhagen-partner.com
+0.0.0.0 ostermaierbrennholz.de
 0.0.0.0 osternbackenverkaufsshop.com
 0.0.0.0 osterreichapotheke.at
 0.0.0.0 osterreichgeldwert.com
@@ -17418,6 +17405,7 @@
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.marketing.dubaisothebys.com
 0.0.0.0 r.msn.com
+0.0.0.0 r.openai.com
 0.0.0.0 r.scoota.co
 0.0.0.0 r.sg.sec.miui.com
 0.0.0.0 r.sibmail.havasit.com
@@ -17943,6 +17931,7 @@
 0.0.0.0 riekeroutlet.de
 0.0.0.0 riekerschuhe.at
 0.0.0.0 rightstats.com
+0.0.0.0 rigotkamin.com
 0.0.0.0 rihilozavoradvisorynet.digital
 0.0.0.0 rileyheftman.shop
 0.0.0.0 rilladesjab.com
@@ -18306,6 +18295,7 @@
 0.0.0.0 rundfunkbeitragportal.de
 0.0.0.0 rundfunkbeitragsserviceonline.de
 0.0.0.0 rundfunkportal.de
+0.0.0.0 rundholzdirekt.de
 0.0.0.0 rundsp.com
 0.0.0.0 rundumstrikot.de
 0.0.0.0 runecasa.com
@@ -18335,6 +18325,7 @@
 0.0.0.0 rx-pharma.net
 0.0.0.0 rx-pharmacies.com
 0.0.0.0 rx-qualityshop.com
+0.0.0.0 rx-true.com
 0.0.0.0 rxapothekefursie.com
 0.0.0.0 rxappfree.com
 0.0.0.0 rxcash.biz
@@ -18792,6 +18783,7 @@
 0.0.0.0 schwimmschuh.com
 0.0.0.0 scidetrezenvy.com
 0.0.0.0 sciencefactoryshop.de
+0.0.0.0 scieriesaugues.de
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
 0.0.0.0 scissorsstatement.com
@@ -19270,6 +19262,7 @@
 0.0.0.0 silveraureus.com
 0.0.0.0 silvermob.com
 0.0.0.0 simabrasil.com.br
+0.0.0.0 simex24shop.com
 0.0.0.0 simikj.com
 0.0.0.0 simonbois.de
 0.0.0.0 simpfit.com
@@ -21038,6 +21031,7 @@
 0.0.0.0 tischlampenstore.com
 0.0.0.0 tischlerei-brouns.de
 0.0.0.0 tischlerei-eckart.de
+0.0.0.0 tischlereijache-shop.de
 0.0.0.0 tischtennisde.com
 0.0.0.0 tischtennisrabatt.com
 0.0.0.0 titan-nxl.myshopify.com
@@ -23466,6 +23460,7 @@
 0.0.0.0 yonexdeutschland.de
 0.0.0.0 yonexs.at
 0.0.0.0 yoocaa.com
+0.0.0.0 yoohal.com
 0.0.0.0 yooofa.com
 0.0.0.0 yootet.com
 0.0.0.0 yorkbootsshop.de

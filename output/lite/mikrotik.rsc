@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-05 03:16:33
-# Total Domains: 23,737
+# Last Updated: 2026-10-06 04:04:10
+# Total Domains: 23,732
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -3245,7 +3245,6 @@ add name="bestoutlet-tool.com" address=0.0.0.0
 add name="bestpagjkl.com" address=0.0.0.0
 add name="bestpharm-eu.com" address=0.0.0.0
 add name="bestpillpharmacy.com" address=0.0.0.0
-add name="bestpillsnetwork.com" address=0.0.0.0
 add name="bestpricetreatments.com" address=0.0.0.0
 add name="bestproductsonlinestore.com" address=0.0.0.0
 add name="bestprogift.com" address=0.0.0.0
@@ -3801,6 +3800,7 @@ add name="braunboutique.com" address=0.0.0.0
 add name="braunsale.de" address=0.0.0.0
 add name="bravedrawer.com" address=0.0.0.0
 add name="braviamarket.com" address=0.0.0.0
+add name="brawlstars.store" address=0.0.0.0
 add name="braze.eu" address=0.0.0.0
 add name="brazillo.store" address=0.0.0.0
 add name="brazuque.com.br" address=0.0.0.0
@@ -5473,6 +5473,7 @@ add name="cuttingboarddirect.com" address=0.0.0.0
 add name="cv-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="cv-tech-onlineshop.de" address=0.0.0.0
 add name="cvc-capital-partners.com" address=0.0.0.0
+add name="cvmaker.de" address=0.0.0.0
 add name="cvneed.com" address=0.0.0.0
 add name="cwl-experts.org" address=0.0.0.0
 add name="cx.gamehander.com" address=0.0.0.0
@@ -6552,7 +6553,6 @@ add name="e37364.dscd.akamaiedge.net" address=0.0.0.0
 add name="eadexchange.com" address=0.0.0.0
 add name="eaepp.com" address=0.0.0.0
 add name="eafengrowkniveshub.com" address=0.0.0.0
-add name="ealzsidb.shop" address=0.0.0.0
 add name="eap-log-in.allawnos.com" address=0.0.0.0
 add name="eap-log-sg.allawnos.com" address=0.0.0.0
 add name="earlynoon.com" address=0.0.0.0
@@ -6622,7 +6622,6 @@ add name="eco-pellet.company.site" address=0.0.0.0
 add name="ecoalfosterreich.at" address=0.0.0.0
 add name="ecohabitsy.com" address=0.0.0.0
 add name="ecohubfast.com" address=0.0.0.0
-add name="ecohubfast.shop" address=0.0.0.0
 add name="ecompinnacle.co.uk" address=0.0.0.0
 add name="ecomtrade24.com" address=0.0.0.0
 add name="econicosus.de" address=0.0.0.0
@@ -6650,7 +6649,6 @@ add name="edecon.net" address=0.0.0.0
 add name="edeka24de.com" address=0.0.0.0
 add name="edelina.de" address=0.0.0.0
 add name="edelkakao.com" address=0.0.0.0
-add name="edelkatzenzucht.com" address=0.0.0.0
 add name="edelmar.de" address=0.0.0.0
 add name="edelmetall-koeppen.de" address=0.0.0.0
 add name="edelraum.com" address=0.0.0.0
@@ -6660,7 +6658,6 @@ add name="edelstil.shop" address=0.0.0.0
 add name="edelynklein.de" address=0.0.0.0
 add name="edexpert.de" address=0.0.0.0
 add name="edexpress24.com" address=0.0.0.0
-add name="edfarm.it" address=0.0.0.0
 add name="edgecapitalfunds.com" address=0.0.0.0
 add name="edgestan.com" address=0.0.0.0
 add name="edgexads.com" address=0.0.0.0
@@ -6763,7 +6760,6 @@ add name="electronikshops.com" address=0.0.0.0
 add name="electronw.com" address=0.0.0.0
 add name="electroshop24.de" address=0.0.0.0
 add name="elecx.de" address=0.0.0.0
-add name="elegance-maison.fr" address=0.0.0.0
 add name="elegant-leben.de" address=0.0.0.0
 add name="elegantmobel.com" address=0.0.0.0
 add name="elegantseatcover.com" address=0.0.0.0
@@ -6790,7 +6786,6 @@ add name="elektro-meisner.com" address=0.0.0.0
 add name="elektro-oase.de" address=0.0.0.0
 add name="elektro-outlet24.myshopify.com" address=0.0.0.0
 add name="elektro-rock.com" address=0.0.0.0
-add name="elektro-soforthilfe.at" address=0.0.0.0
 add name="elektro-stern.com" address=0.0.0.0
 add name="elektro-titan.de" address=0.0.0.0
 add name="elektro-willi.de" address=0.0.0.0
@@ -6853,7 +6848,6 @@ add name="elkhartrvparts.shop" address=0.0.0.0
 add name="ellabelle.de" address=0.0.0.0
 add name="ellada-farmakeio.com" address=0.0.0.0
 add name="ellameyer.de" address=0.0.0.0
-add name="ellanorahamburg.com" address=0.0.0.0
 add name="elle-zurich.com" address=0.0.0.0
 add name="ellenperuecken.de" address=0.0.0.0
 add name="ellerne.com" address=0.0.0.0
@@ -6882,7 +6876,6 @@ add name="elysiumcycles.com" address=0.0.0.0
 add name="elyvanedepot.com" address=0.0.0.0
 add name="elzaros.com" address=0.0.0.0
 add name="em1.yoursantander.co.uk" address=0.0.0.0
-add name="ema-schmuck.com" address=0.0.0.0
 add name="email-link.adtidy.info" address=0.0.0.0
 add name="email-link.adtidy.net" address=0.0.0.0
 add name="email-link.adtidy.org" address=0.0.0.0
@@ -7074,7 +7067,6 @@ add name="esn-eu.com" address=0.0.0.0
 add name="esn-fitness.com" address=0.0.0.0
 add name="esnoutleteur.com" address=0.0.0.0
 add name="esnsupply.shop" address=0.0.0.0
-add name="esoqoklb.shop" address=0.0.0.0
 add name="esotecde.shop" address=0.0.0.0
 add name="esotecs.com" address=0.0.0.0
 add name="espacedblc.com" address=0.0.0.0
@@ -7095,7 +7087,6 @@ add name="essensverkaufs.com" address=0.0.0.0
 add name="essentialoilnew.com" address=0.0.0.0
 add name="essentials-osterreich.at" address=0.0.0.0
 add name="essenundgenuss.com" address=0.0.0.0
-add name="essor-invexaro.fr" address=0.0.0.0
 add name="essorinvexaro.fr" address=0.0.0.0
 add name="esszimmerery.com" address=0.0.0.0
 add name="establishg.com" address=0.0.0.0
@@ -7155,7 +7146,6 @@ add name="eu-st-exappupgrade.vivoglobal.com" address=0.0.0.0
 add name="eu-st-sl.vivoglobal.com" address=0.0.0.0
 add name="eu-stsdk.vivoglobal.com" address=0.0.0.0
 add name="eu-timesync.vivoglobal.com" address=0.0.0.0
-add name="eu-trader.io" address=0.0.0.0
 add name="eu-vcode-api.vivoglobal.com" address=0.0.0.0
 add name="eu-vcode-od.vivoglobal.com" address=0.0.0.0
 add name="eu-vcode-or.vivoglobal.com" address=0.0.0.0
@@ -7175,7 +7165,6 @@ add name="euc-visio-telemetry.officeapps.live.com" address=0.0.0.0
 add name="euc-word-telemetry.officeapps.live.com" address=0.0.0.0
 add name="euc-word-telemetry.wac.trafficmanager.net" address=0.0.0.0
 add name="euchems.me" address=0.0.0.0
-add name="eucloseoutue.com" address=0.0.0.0
 add name="euergutesbrennholz.com" address=0.0.0.0
 add name="eufm.eu" address=0.0.0.0
 add name="eugenefieldpac.com" address=0.0.0.0
@@ -7185,8 +7174,6 @@ add name="eulerian.net" address=0.0.0.0
 add name="eumarketstores.com" address=0.0.0.0
 add name="eumeds24.com" address=0.0.0.0
 add name="eunits.de" address=0.0.0.0
-add name="euonlinedeal.shop" address=0.0.0.0
-add name="euortovox.shop" address=0.0.0.0
 add name="eupills.com" address=0.0.0.0
 add name="eurekster.com" address=0.0.0.0
 add name="eurenzo.com" address=0.0.0.0
@@ -7235,7 +7222,6 @@ add name="european-pharmacy.online" address=0.0.0.0
 add name="europeangeneric.com" address=0.0.0.0
 add name="europeannewstoday.com" address=0.0.0.0
 add name="europeanpharm.net" address=0.0.0.0
-add name="europecapitalmarkets.com" address=0.0.0.0
 add name="europharmacy.net" address=0.0.0.0
 add name="europharmacyonline.com" address=0.0.0.0
 add name="europharms.com" address=0.0.0.0
@@ -7311,7 +7297,6 @@ add name="everestrestores.com" address=0.0.0.0
 add name="everestrust.com" address=0.0.0.0
 add name="everesttech.net" address=0.0.0.0
 add name="evergage.com" address=0.0.0.0
-add name="evergreen-herne.com" address=0.0.0.0
 add name="everhandmade.com" address=0.0.0.0
 add name="everlast.fund" address=0.0.0.0
 add name="everlastosterreich.at" address=0.0.0.0
@@ -7327,7 +7312,6 @@ add name="evisas.travel" address=0.0.0.0
 add name="evitrol.com" address=0.0.0.0
 add name="evo-pharmacy.com" address=0.0.0.0
 add name="evolgrafix.de" address=0.0.0.0
-add name="evolveasialtd.co" address=0.0.0.0
 add name="evoqueebikeshop.shop" address=0.0.0.0
 add name="evoragaming.com" address=0.0.0.0
 add name="evosgaming-15l.site" address=0.0.0.0
@@ -7360,7 +7344,6 @@ add name="exclusiveskis.com" address=0.0.0.0
 add name="exclusivewears.com" address=0.0.0.0
 add name="exelate.com" address=0.0.0.0
 add name="exelator.com" address=0.0.0.0
-add name="exeloniq.org" address=0.0.0.0
 add name="exhibitsneeze.com" address=0.0.0.0
 add name="exit76.com" address=0.0.0.0
 add name="exitexchange.com" address=0.0.0.0
@@ -7432,7 +7415,6 @@ add name="eyewearandframes.com" address=0.0.0.0
 add name="eyewonder.com" address=0.0.0.0
 add name="ezbuyremedieshere24.com" address=0.0.0.0
 add name="ezcustombikes.com" address=0.0.0.0
-add name="ezigaretteplus.com" address=0.0.0.0
 add name="ezigarettestore.com" address=0.0.0.0
 add name="ezonesglobal.com" address=0.0.0.0
 add name="ezoom.top" address=0.0.0.0
@@ -7463,7 +7445,6 @@ add name="fahrrad-herrmans.de" address=0.0.0.0
 add name="fahrrad-hess.de" address=0.0.0.0
 add name="fahrrad-jung.de" address=0.0.0.0
 add name="fahrrad-sparwelt.de" address=0.0.0.0
-add name="fahrrad-versand.com" address=0.0.0.0
 add name="fahrrad-zukunft.de" address=0.0.0.0
 add name="fahrradangebotede.com" address=0.0.0.0
 add name="fahrradbulls.com" address=0.0.0.0
@@ -7508,7 +7489,6 @@ add name="fahrradt.de" address=0.0.0.0
 add name="fahrradteileladen.com" address=0.0.0.0
 add name="fahrradteilesoldes.com" address=0.0.0.0
 add name="fahrradverleih-binz.de" address=0.0.0.0
-add name="fahrradweltangebote.com" address=0.0.0.0
 add name="fahrradwerkzeuge-de.com" address=0.0.0.0
 add name="fahrradzubehor-neu.com" address=0.0.0.0
 add name="fahrradzubehor-prada.com" address=0.0.0.0
@@ -9304,6 +9284,7 @@ add name="greentrimmer.de" address=0.0.0.0
 add name="greentuning-de.com" address=0.0.0.0
 add name="greermy.com" address=0.0.0.0
 add name="greesioun.com" address=0.0.0.0
+add name="greiner-brennholz.com" address=0.0.0.0
 add name="greiner-marktanalyse.de" address=0.0.0.0
 add name="grekkstore.com" address=0.0.0.0
 add name="greystripe.com" address=0.0.0.0
@@ -9507,7 +9488,6 @@ add name="h4g3z1-native-vivo.web.app" address=0.0.0.0
 add name="h4g3z1-native-winoffice.web.app" address=0.0.0.0
 add name="h4g3z1-native-xiaomi.web.app" address=0.0.0.0
 add name="h5-ru.video.intl.xiaomi.com" address=0.0.0.0
-add name="h5.ecoinf.vip" address=0.0.0.0
 add name="h5.tv.mi.com" address=0.0.0.0
 add name="h6.msn.com" address=0.0.0.0
 add name="haarpflegehaut.com" address=0.0.0.0
@@ -10205,6 +10185,7 @@ add name="holz-brennholzhandel.de" address=0.0.0.0
 add name="holz-deal24.de" address=0.0.0.0
 add name="holz-discounter.com" address=0.0.0.0
 add name="holz-hambach.com" address=0.0.0.0
+add name="holz-market.com" address=0.0.0.0
 add name="holz-pellet-bestequalitat.de" address=0.0.0.0
 add name="holz-pellets24.com" address=0.0.0.0
 add name="holz-premium.de" address=0.0.0.0
@@ -10222,6 +10203,7 @@ add name="holzerneblocke.com" address=0.0.0.0
 add name="holzfursfeuer.de" address=0.0.0.0
 add name="holzgartenprofi.de" address=0.0.0.0
 add name="holzgluck.de" address=0.0.0.0
+add name="holzgutexpress.de" address=0.0.0.0
 add name="holzhack-schnitzel.de" address=0.0.0.0
 add name="holzhambach.com" address=0.0.0.0
 add name="holzhandelhensel.com" address=0.0.0.0
@@ -10247,6 +10229,7 @@ add name="holzundkunststueble.de" address=0.0.0.0
 add name="holzundpellets.com" address=0.0.0.0
 add name="holzundwerkzeug-bestequalitat.de" address=0.0.0.0
 add name="holzvomland.de" address=0.0.0.0
+add name="holzwaermedirekt.de" address=0.0.0.0
 add name="holzwerke-unikat.de" address=0.0.0.0
 add name="holzwerks.de" address=0.0.0.0
 add name="holzwerkzeugekaufen.com" address=0.0.0.0
@@ -11876,6 +11859,7 @@ add name="kleurrijkedame.com" address=0.0.0.0
 add name="kleversholz.com" address=0.0.0.0
 add name="kley-kanzlei.com" address=0.0.0.0
 add name="kliks.nl" address=0.0.0.0
+add name="klima-zuschuss-2026.cc" address=0.0.0.0
 add name="klima.bonus-gutschrift.cc" address=0.0.0.0
 add name="klimaanlageportal.de" address=0.0.0.0
 add name="klimabonus-2026.net" address=0.0.0.0
@@ -12444,6 +12428,7 @@ add name="lernerei.at" address=0.0.0.0
 add name="lernkompass24.de" address=0.0.0.0
 add name="lernspielzeugneu.de" address=0.0.0.0
 add name="les-bons-prix.com" address=0.0.0.0
+add name="lesboisdubreuil.com" address=0.0.0.0
 add name="lesburst.shop" address=0.0.0.0
 add name="lescocosecolos.com" address=0.0.0.0
 add name="lesculturelles.com" address=0.0.0.0
@@ -13103,6 +13088,7 @@ add name="luvness.de" address=0.0.0.0
 add name="luvona.de" address=0.0.0.0
 add name="luvori.de" address=0.0.0.0
 add name="luvqx.com" address=0.0.0.0
+add name="luvyle.com" address=0.0.0.0
 add name="luwander.shop" address=0.0.0.0
 add name="lux-clubx.za.com" address=0.0.0.0
 add name="luxeberlin.de" address=0.0.0.0
@@ -14405,6 +14391,7 @@ add name="mokasy.de" address=0.0.0.0
 add name="mokuhashop.com" address=0.0.0.0
 add name="molaro.de" address=0.0.0.0
 add name="molilulu.com" address=0.0.0.0
+add name="mollerbrennholzhandelgmbh.de" address=0.0.0.0
 add name="molnyonon.com" address=0.0.0.0
 add name="molveschuhe.de" address=0.0.0.0
 add name="momentsofharmony.de" address=0.0.0.0
@@ -15350,7 +15337,6 @@ add name="northmd.com" address=0.0.0.0
 add name="norvahaus.de" address=0.0.0.0
 add name="norvexapharma.com" address=0.0.0.0
 add name="norvielle.de" address=0.0.0.0
-add name="norwayhotel.net" address=0.0.0.0
 add name="norwaynewstoday.com" address=0.0.0.0
 add name="norwiss.de" address=0.0.0.0
 add name="norxonline.biz" address=0.0.0.0
@@ -16069,6 +16055,7 @@ add name="ospreysuomi.net" address=0.0.0.0
 add name="osteopathiehamburgterminonline.de" address=0.0.0.0
 add name="ostergartenhermesdorf.de" address=0.0.0.0
 add name="osterhagen-partner.com" address=0.0.0.0
+add name="ostermaierbrennholz.de" address=0.0.0.0
 add name="osternbackenverkaufsshop.com" address=0.0.0.0
 add name="osterreichapotheke.at" address=0.0.0.0
 add name="osterreichgeldwert.com" address=0.0.0.0
@@ -17417,6 +17404,7 @@ add name="r.drinksdirect.net" address=0.0.0.0
 add name="r.logrocket.io" address=0.0.0.0
 add name="r.marketing.dubaisothebys.com" address=0.0.0.0
 add name="r.msn.com" address=0.0.0.0
+add name="r.openai.com" address=0.0.0.0
 add name="r.scoota.co" address=0.0.0.0
 add name="r.sg.sec.miui.com" address=0.0.0.0
 add name="r.sibmail.havasit.com" address=0.0.0.0
@@ -17942,6 +17930,7 @@ add name="riekeroutlet.at" address=0.0.0.0
 add name="riekeroutlet.de" address=0.0.0.0
 add name="riekerschuhe.at" address=0.0.0.0
 add name="rightstats.com" address=0.0.0.0
+add name="rigotkamin.com" address=0.0.0.0
 add name="rihilozavoradvisorynet.digital" address=0.0.0.0
 add name="rileyheftman.shop" address=0.0.0.0
 add name="rilladesjab.com" address=0.0.0.0
@@ -18305,6 +18294,7 @@ add name="rundfunkbeitragonline.de" address=0.0.0.0
 add name="rundfunkbeitragportal.de" address=0.0.0.0
 add name="rundfunkbeitragsserviceonline.de" address=0.0.0.0
 add name="rundfunkportal.de" address=0.0.0.0
+add name="rundholzdirekt.de" address=0.0.0.0
 add name="rundsp.com" address=0.0.0.0
 add name="rundumstrikot.de" address=0.0.0.0
 add name="runecasa.com" address=0.0.0.0
@@ -18334,6 +18324,7 @@ add name="rx-discount.com" address=0.0.0.0
 add name="rx-pharma.net" address=0.0.0.0
 add name="rx-pharmacies.com" address=0.0.0.0
 add name="rx-qualityshop.com" address=0.0.0.0
+add name="rx-true.com" address=0.0.0.0
 add name="rxapothekefursie.com" address=0.0.0.0
 add name="rxappfree.com" address=0.0.0.0
 add name="rxcash.biz" address=0.0.0.0
@@ -18791,6 +18782,7 @@ add name="schwiha.ai" address=0.0.0.0
 add name="schwimmschuh.com" address=0.0.0.0
 add name="scidetrezenvy.com" address=0.0.0.0
 add name="sciencefactoryshop.de" address=0.0.0.0
+add name="scieriesaugues.de" address=0.0.0.0
 add name="scintillatingscissors.com" address=0.0.0.0
 add name="scintillatingsilver.com" address=0.0.0.0
 add name="scissorsstatement.com" address=0.0.0.0
@@ -19269,6 +19261,7 @@ add name="silvanass.co.uk" address=0.0.0.0
 add name="silveraureus.com" address=0.0.0.0
 add name="silvermob.com" address=0.0.0.0
 add name="simabrasil.com.br" address=0.0.0.0
+add name="simex24shop.com" address=0.0.0.0
 add name="simikj.com" address=0.0.0.0
 add name="simonbois.de" address=0.0.0.0
 add name="simpfit.com" address=0.0.0.0
@@ -21037,6 +21030,7 @@ add name="tirzepatyd.eu" address=0.0.0.0
 add name="tischlampenstore.com" address=0.0.0.0
 add name="tischlerei-brouns.de" address=0.0.0.0
 add name="tischlerei-eckart.de" address=0.0.0.0
+add name="tischlereijache-shop.de" address=0.0.0.0
 add name="tischtennisde.com" address=0.0.0.0
 add name="tischtennisrabatt.com" address=0.0.0.0
 add name="titan-nxl.myshopify.com" address=0.0.0.0
@@ -23465,6 +23459,7 @@ add name="yonexdeutschland.com" address=0.0.0.0
 add name="yonexdeutschland.de" address=0.0.0.0
 add name="yonexs.at" address=0.0.0.0
 add name="yoocaa.com" address=0.0.0.0
+add name="yoohal.com" address=0.0.0.0
 add name="yooofa.com" address=0.0.0.0
 add name="yootet.com" address=0.0.0.0
 add name="yorkbootsshop.de" address=0.0.0.0
