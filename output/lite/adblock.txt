@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-10-07 03:31:29
-! Total Domains: 23,729
+! Last Updated: 2026-10-08 03:46:27
+! Total Domains: 23,736
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -168,6 +168,7 @@
 ||aa-metrics.beauty.hotpepper.jp^
 ||aa-metrics.recruit-card.jp^
 ||aa-metrics.trip-ai.jp^
+||aaaclothing.ru^
 ||aachentag.com^
 ||aacreek-ranch.de^
 ||aaddzz.com^
@@ -2787,6 +2788,7 @@
 ||bamboolikes.com^
 ||bancmarkets.com^
 ||bandar.shop^
+||bandlundpartner.de^
 ||banhban.de^
 ||banik.redigy.cz^
 ||bank-crypto.com^
@@ -3202,6 +3204,7 @@
 ||bestbuy.7tiv.net^
 ||bestchoicepills.com^
 ||bestclothes.club^
+||bestcoiffureshop.com^
 ||bestdealtoday.net^
 ||bestdrugstore247.com^
 ||beste-anhaenger.de^
@@ -3377,6 +3380,7 @@
 ||bike-trailer24.de^
 ||bike69-shop.de^
 ||bikeambulanz-mobil.de^
+||bikeanbauteile.com^
 ||bikeauction.de^
 ||bikebabyseatde.com^
 ||bikebitsde.com^
@@ -4446,6 +4450,7 @@
 ||celinemichaud.com^
 ||celio.com.de^
 ||cellphonelocation.net^
+||celluweg.de^
 ||celmak.de^
 ||celorin.com^
 ||celtra.com^
@@ -5022,6 +5027,7 @@
 ||coincorex.com^
 ||coinentvklp.top^
 ||coinmarketfeed.net^
+||coinmindz.com^
 ||coinmoh.com^
 ||coinmyo.com^
 ||coinspayworld.com^
@@ -6143,6 +6149,7 @@
 ||digestiondrawer.com^
 ||digi-markets.de^
 ||digiclass.ma^
+||digimotive.store^
 ||digipoint.org^
 ||digipulse.online^
 ||digital-ads.s3.amazonaws.com^
@@ -7637,6 +7644,7 @@
 ||fastenerk.com^
 ||fasteupills.shop^
 ||fastfatbike.de^
+||fastgerm.com^
 ||fastigeriptv.live^
 ||fastly-insights.com^
 ||fastmarket.store^
@@ -8583,6 +8591,7 @@
 ||gartenesstisch.com^
 ||gartenexperte24.com^
 ||gartenfarbewelt.com^
+||gartenfee.shop^
 ||gartenfeiern.de^
 ||gartenflamme24.de^
 ||gartenforstgerate.com^
@@ -10854,7 +10863,6 @@
 ||inspectiony.com^
 ||inspectlet.com^
 ||inspirationalgadget.com^
-||inspirelf.com^
 ||insta-trading.com^
 ||instahauls.com^
 ||install-gwh.at^
@@ -11032,7 +11040,6 @@
 ||irrigationprostore.com^
 ||is-ad-lgsmartad-com.aws-prd.net^
 ||is-tracking-pixel-api-prod.appspot.com^
-||isabel-modehaus.de^
 ||isaloge-investissement.com^
 ||iscop.it^
 ||isipisi.online^
@@ -11088,7 +11095,6 @@
 ||izidiscount.com^
 ||iziwallet.io^
 ||izxinet.com^
-||j-lautosales.com^
 ||j93557g.com^
 ||jabany.at^
 ||jackjonesbootmaker.com^
@@ -11119,7 +11125,6 @@
 ||jazzfantasy.it^
 ||jazzzcity.com^
 ||jb-health.de^
-||jb-store.de^
 ||jbcapitals.com^
 ||jbigrwl.casa^
 ||jblat.at^
@@ -11155,7 +11160,6 @@
 ||jetprofund.net^
 ||jette-handel.de^
 ||jetterix.com^
-||jetzt-beantragen.com^
 ||jeulia.de^
 ||jewellery-palace.com^
 ||jewelleryina.com^
@@ -11191,13 +11195,11 @@
 ||jmilyshop.com^
 ||jn-recruitment.at^
 ||jncojeans.de^
-||jnhgfy.shop^
 ||jo-ad-lgsmartad-com.aws-prd.net^
 ||jo-joshop.com^
 ||joachim-gartengeraete.de^
 ||joaostoreoficial.com^
 ||jobam.shop^
-||jobdreamonline.com^
 ||jobhelden.com^
 ||jobobike.de^
 ||jobparadies.de^
@@ -11214,7 +11216,6 @@
 ||johannis-apotheke-bielefeld.de^
 ||johannisstein.eu^
 ||johannsenpellets.eu^
-||johdorbrennholz.com^
 ||johnstonmurphycapital.com^
 ||joinherdeal.com^
 ||joinsdaily.com^
@@ -11255,7 +11256,6 @@
 ||joyaschoenen.com^
 ||joyaschuhedeutschland.com^
 ||joycap.net^
-||joyeeshop.com^
 ||joyoussurprise.com^
 ||joyshoetique.com^
 ||joystar.top^
@@ -11337,7 +11337,6 @@
 ||k-ring.msedge.net^
 ||k.iinfo.cz^
 ||k4-kulturgarten.de^
-||ka-pharm.com^
 ||kabahinfo.net^
 ||kabelbund.com^
 ||kabelschuhekaufen.com^
@@ -11359,6 +11358,7 @@
 ||kaffee-sofort.de^
 ||kaffee-tee-erleben.com^
 ||kaffee-teeshopde.com^
+||kaffeeaktionen.com^
 ||kaffeealternative.de^
 ||kaffeeangebote.com^
 ||kaffeeautomat-tests.de^
@@ -11390,7 +11390,6 @@
 ||kagokamin.de^
 ||kahmannskaffee.de^
 ||kahrmannsown.de^
-||kaisermodehaus.de^
 ||kaiserstuhl-exotengarten.de^
 ||kaizensama.com^
 ||kaktusgarten24.de^
@@ -11401,7 +11400,6 @@
 ||kaliyra.shop^
 ||kalkar-handel.com^
 ||kalkhofffahrrader.de^
-||kaloszehunter.com^
 ||kaltesholz.de^
 ||kama-kral.cz^
 ||kamagar-pro.online^
@@ -11445,12 +11443,10 @@
 ||kamagra1.cz^
 ||kamagra365.cz^
 ||kamagra4australia.com^
-||kamagraakcio.com^
 ||kamagrabestellenshop.to^
 ||kamagraboutique.com^
 ||kamagracz.cz^
 ||kamagrae-shop.eu^
-||kamagraelite.shop^
 ||kamagraeshop.eu^
 ||kamagraeu.de^
 ||kamagraeu.net^
@@ -11458,17 +11454,13 @@
 ||kamagrakaufen24.net^
 ||kamagralevne.net^
 ||kamagralove.cc^
-||kamagralove.co^
 ||kamagralove.com^
 ||kamagralove.cz^
 ||kamagralove.pro^
-||kamagralove.store^
 ||kamagraman.cz^
 ||kamagranadobirku.com^
 ||kamagraonline.sk^
 ||kamagrapreis.de^
-||kamagraprodej.net^
-||kamagrashop.online^
 ||kamagrashop.sk^
 ||kamagrastore24.org^
 ||kamagratrade.cc^
@@ -11482,7 +11474,6 @@
 ||kamerarabatt.de^
 ||kamerasecure.de^
 ||kamerasistemikur.net^
-||kamerastoregear.shop^
 ||kameratraum.de^
 ||kamerino.de^
 ||kamextrading.com^
@@ -11494,7 +11485,6 @@
 ||kaminholz-briketts-holzpellets.eu^
 ||kaminholz-erzgebirge.com^
 ||kaminholz-premium.de^
-||kaminholzdirekt.ch^
 ||kaminholzkonig.de^
 ||kaminholzmoppel-de.com^
 ||kaminkehrer-dachau.com^
@@ -11505,7 +11495,6 @@
 ||kammerjaeger-rothschild.de^
 ||kamoni.de^
 ||kamuhane.com^
-||kanal-fuchs.at^
 ||kanalreinigung-hilfe.at^
 ||kanaren-shop.com^
 ||kangaltree.com^
@@ -11520,7 +11509,6 @@
 ||kanuonlineshop.com^
 ||kanyecharms.store^
 ||kanziii.net^
-||kanzlei-focken.de^
 ||kanzlei-guehmann.de^
 ||kanzlei-helmut-kuhn.de^
 ||kanzlei-hornberger.de^
@@ -11560,7 +11548,6 @@
 ||karpfenrutenneu.com^
 ||karrierevonzuhause.de^
 ||karroc.de^
-||kartgearshop.nl^
 ||karylite.com^
 ||kasami.shop^
 ||kash-leone.fr^
@@ -11774,6 +11761,7 @@
 ||klangaeder.com^
 ||klangatem.com^
 ||klangfluss.com^
+||klangmosaik.com^
 ||klar-haus.de^
 ||klarako.com^
 ||klaria.de^
@@ -11784,6 +11772,7 @@
 ||klarvi.de^
 ||klarwise.de^
 ||klassealltagsport.com^
+||klassereparaturmontage.com^
 ||klassischelichter.com^
 ||klassischesfahrradneu.com^
 ||klaudora.com^
@@ -11906,6 +11895,7 @@
 ||kontera.com^
 ||koozmotor.com^
 ||kopfwaermer.com^
+||koppe-collegen.de^
 ||koppermuller-markt.de^
 ||koppermuller-shop.de^
 ||kora-store.de^
@@ -12394,6 +12384,7 @@
 ||lesculturelles.com^
 ||lesphacocheres.com^
 ||lesrouleaux.com^
+||lessismoro.shop^
 ||let-glam.com^
 ||letfli.com^
 ||letsgoshop.de^
@@ -13049,6 +13040,7 @@
 ||luvona.de^
 ||luvori.de^
 ||luvqx.com^
+||luvyle.com^
 ||luwander.shop^
 ||lux-clubx.za.com^
 ||luxeberlin.de^
@@ -14755,6 +14747,7 @@
 ||musikhaus-neumann.de^
 ||musikhaus.neumann.de^
 ||musikinstrumenteland.com^
+||musikinstrumentes.com^
 ||musikkeim.com^
 ||musiknotenmarkt.com^
 ||musikprofi.com^
@@ -14794,6 +14787,7 @@
 ||mxptint.net^
 ||my-ad-lgsmartad-com.aws-prd.net^
 ||my-benovation.com^
+||my-garden-store.com^
 ||my-jinsha-online.com^
 ||my-leyou-online.com^
 ||my-pawly.com^
@@ -16298,6 +16292,7 @@
 ||patrioticy.com^
 ||paul-joses.de^
 ||paulgreenosterreich.com^
+||paulgreensale.com^
 ||paulinacasmur.com^
 ||paulinasinger.com^
 ||paulmachtenergiewende.de^
@@ -16580,6 +16575,7 @@
 ||pharmaplax.com^
 ||pharmaracapital.com^
 ||pharmaright.vu^
+||pharmaris.net^
 ||pharmaserve.com^
 ||pharmatheke-europe.com^
 ||pharmrx-1.com^
@@ -17088,6 +17084,7 @@
 ||proficienct.com^
 ||profikueche.com^
 ||profile-bitstamp.net^
+||profiswerkzeuge.com^
 ||profitipp5.de^
 ||profititerra.co^
 ||profitrumour.com^
@@ -17150,6 +17147,7 @@
 ||protectgreen.de^
 ||protectpool.com^
 ||protectsubrev.com^
+||protektorenprofi.shop^
 ||protestcopy.com^
 ||protetorsolarproacd.com^
 ||prothermwoodpellets.com^
@@ -17560,6 +17558,7 @@
 ||rdx2.nextlgsdp.com^
 ||re-ad-lgsmartad-com.aws-prd.net^
 ||re-direct.pl^
+||re-hartmann.de^
 ||reachjunction.com^
 ||reactx.com^
 ||readingguilt.com^
@@ -18248,6 +18247,7 @@
 ||ruhepolemet.de^
 ||ruhigermond.de^
 ||ruhrgenuss.de^
+||rullendiscount.com^
 ||rum-http-intake.logs.datadoghq.com^
 ||rum-http-intake.logs.datadoghq.eu^
 ||rum-openway.guance.com^
@@ -19228,11 +19228,13 @@
 ||siko-handel.de^
 ||silbergipfel.de^
 ||silberschmuckpro.com^
+||silberthil.com^
 ||silimex24.de^
 ||silkbers.com^
 ||silkstocking.de^
 ||silkysmoothhobbeautyandbabershop.com^
 ||sillyscrew.com^
+||silmerthal.com^
 ||silnymuz.com^
 ||silux.shop^
 ||silvanass.co.uk^
@@ -21015,6 +21017,7 @@
 ||tischlerei-brouns.de^
 ||tischlerei-eckart.de^
 ||tischlereijache-shop.de^
+||tischprofi.com^
 ||tischtennisde.com^
 ||tischtennisrabatt.com^
 ||titan-nxl.myshopify.com^
@@ -21835,6 +21838,7 @@
 ||umbrellacorp.fr^
 ||umbro-deutschland.de^
 ||umdm.org^
+||umrechnung.mdhsh.com^
 ||ums-rum-cn.heytapimage.com^
 ||ums-rum-global.heytapimage.com^
 ||ums-telemetry-cn.heytapmobi.com^
@@ -22472,7 +22476,7 @@
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
-||vivaiaschuhe.at^
+||vivaiacollection.com^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
 ||vivaiaschuhesale.de^
@@ -22667,6 +22671,7 @@
 ||wakato-online.net^
 ||wakesportsshop.com^
 ||wakritransport.com^
+||wakudelou.com^
 ||waldesstille.com^
 ||waldgewandt.de^
 ||waldmannmode.de^
@@ -23109,6 +23114,7 @@
 ||wittypopcorn.com^
 ||wivaro.de^
 ||wizaly.com^
+||wko.com^
 ||wl.spotify.com^
 ||wl.voip.game.xiaomi.com^
 ||wlandrucker-tests.de^
@@ -23307,6 +23313,7 @@
 ||xiruilai.com^
 ||xiti.com^
 ||xjyehli.shop^
+||xkmtmsgm.shop^
 ||xkolzxhs.shop^
 ||xlmc.sec.miui.com^
 ||xlog-o.byteoversea.com^
