@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-08 03:46:27
-# Total Domains: 23,736
+# Last Updated: 2026-10-09 03:51:26
+# Total Domains: 23,699
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -1933,6 +1933,7 @@ DOMAIN-SUFFIX,annafieldonlineshop.de,REJECT
 DOMAIN-SUFFIX,annafieldshop.de,REJECT
 DOMAIN-SUFFIX,annafieldshop.fr,REJECT
 DOMAIN-SUFFIX,annafieldwien.at,REJECT
+DOMAIN-SUFFIX,annaijofficial.shop,REJECT
 DOMAIN-SUFFIX,annakacishop.com,REJECT
 DOMAIN-SUFFIX,annakatharina-wien.at,REJECT
 DOMAIN-SUFFIX,annamodehaus.ch,REJECT
@@ -2223,7 +2224,6 @@ DOMAIN-SUFFIX,arkamgym.com,REJECT
 DOMAIN-SUFFIX,arkcoin.cc,REJECT
 DOMAIN-SUFFIX,arkenberlin.de,REJECT
 DOMAIN-SUFFIX,arketrabatt.de,REJECT
-DOMAIN-SUFFIX,arkload.com,REJECT
 DOMAIN-SUFFIX,arlbergatelier.at,REJECT
 DOMAIN-SUFFIX,arlequininvest.io,REJECT
 DOMAIN-SUFFIX,armedangelsoutlet.com,REJECT
@@ -3242,7 +3242,6 @@ DOMAIN-SUFFIX,bestgamestopshop.de,REJECT
 DOMAIN-SUFFIX,bestgenericonline.com,REJECT
 DOMAIN-SUFFIX,besthealthsup.com,REJECT
 DOMAIN-SUFFIX,besthomeship.com,REJECT
-DOMAIN-SUFFIX,besthunny.com,REJECT
 DOMAIN-SUFFIX,bestkitchenwarede.com,REJECT
 DOMAIN-SUFFIX,bestknifeworld.com,REJECT
 DOMAIN-SUFFIX,bestlook.store,REJECT
@@ -3395,6 +3394,7 @@ DOMAIN-SUFFIX,bikeeinnertubede.com,REJECT
 DOMAIN-SUFFIX,bikefactoryplus.shop,REJECT
 DOMAIN-SUFFIX,bikegadgetde.com,REJECT
 DOMAIN-SUFFIX,bikegearsupply.com,REJECT
+DOMAIN-SUFFIX,bikehelfer.com,REJECT
 DOMAIN-SUFFIX,bikelight.de,REJECT
 DOMAIN-SUFFIX,bikelightneu.com,REJECT
 DOMAIN-SUFFIX,bikelovershop.com,REJECT
@@ -3469,6 +3469,7 @@ DOMAIN-SUFFIX,bingads.trafficmanager.net,REJECT
 DOMAIN-SUFFIX,binoa.com,REJECT
 DOMAIN-SUFFIX,binomst.com,REJECT
 DOMAIN-SUFFIX,binotrader.com,REJECT
+DOMAIN-SUFFIX,bio-apode.com,REJECT
 DOMAIN-SUFFIX,bio-brennholz.de,REJECT
 DOMAIN-SUFFIX,bio-stefano.shop,REJECT
 DOMAIN-SUFFIX,bioaestheticshop.com,REJECT
@@ -4373,7 +4374,6 @@ DOMAIN-SUFFIX,castolonios.de,REJECT
 DOMAIN-SUFFIX,casualstore77.de,REJECT
 DOMAIN-SUFFIX,casualstreet.de,REJECT
 DOMAIN-SUFFIX,cat2fip.co,REJECT
-DOMAIN-SUFFIX,catalunyafarm.com,REJECT
 DOMAIN-SUFFIX,catatic.de,REJECT
 DOMAIN-SUFFIX,cateringvogue.com,REJECT
 DOMAIN-SUFFIX,caterpillar-finland.com,REJECT
@@ -6661,7 +6661,6 @@ DOMAIN-SUFFIX,ecs-solutions.net,REJECT
 DOMAIN-SUFFIX,ecstasy-baby.net,REJECT
 DOMAIN-SUFFIX,ecxtrade.com,REJECT
 DOMAIN-SUFFIX,ed-apotheke.de,REJECT
-DOMAIN-SUFFIX,ed-hrvatski.com,REJECT
 DOMAIN-SUFFIX,edaa.eu,REJECT
 DOMAIN-SUFFIX,edapotheke.store,REJECT
 DOMAIN-SUFFIX,edavo.de,REJECT
@@ -6704,6 +6703,7 @@ DOMAIN-SUFFIX,ee-fahrrad-handel.de,REJECT
 DOMAIN-SUFFIX,ee-info-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,ee-rdx2-lgtvsdp-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,eew-karriere.de,REJECT
+DOMAIN-SUFFIX,efcanews.de,REJECT
 DOMAIN-SUFFIX,efeublute.com,REJECT
 DOMAIN-SUFFIX,effexlaw.com,REJECT
 DOMAIN-SUFFIX,efficient-flow.solutions,REJECT
@@ -7268,7 +7268,6 @@ DOMAIN-SUFFIX,eusta.de,REJECT
 DOMAIN-SUFFIX,eusuperstores.com,REJECT
 DOMAIN-SUFFIX,euvalentinogaravani.de,REJECT
 DOMAIN-SUFFIX,euvendorshub.online,REJECT
-DOMAIN-SUFFIX,euvitafarm.com,REJECT
 DOMAIN-SUFFIX,ev-farm.com,REJECT
 DOMAIN-SUFFIX,evaam.de,REJECT
 DOMAIN-SUFFIX,evadav.com,REJECT
@@ -7649,7 +7648,6 @@ DOMAIN-SUFFIX,fastigeriptv.live,REJECT
 DOMAIN-SUFFIX,fastly-insights.com,REJECT
 DOMAIN-SUFFIX,fastmarket.store,REJECT
 DOMAIN-SUFFIX,faszinationholz-salzmann.de,REJECT
-DOMAIN-SUFFIX,fat.lwesll.top,REJECT
 DOMAIN-SUFFIX,fatburner-guru.de,REJECT
 DOMAIN-SUFFIX,fatburnerking.at,REJECT
 DOMAIN-SUFFIX,fatthqbe.garden,REJECT
@@ -7789,7 +7787,6 @@ DOMAIN-SUFFIX,fidexico.eu,REJECT
 DOMAIN-SUFFIX,fidsonline.org,REJECT
 DOMAIN-SUFFIX,fiduciacarepartners.com,REJECT
 DOMAIN-SUFFIX,fiduciaops.com,REJECT
-DOMAIN-SUFFIX,fiercehealthfinance.com,REJECT
 DOMAIN-SUFFIX,fiesefalle.de,REJECT
 DOMAIN-SUFFIX,fightfairtex.com,REJECT
 DOMAIN-SUFFIX,fightsolong.com,REJECT
@@ -7862,7 +7859,6 @@ DOMAIN-SUFFIX,finetoolstore.com,REJECT
 DOMAIN-SUFFIX,fineweine.com,REJECT
 DOMAIN-SUFFIX,finewineaccess.com,REJECT
 DOMAIN-SUFFIX,finkerkette.de,REJECT
-DOMAIN-SUFFIX,finmaxbo.com,REJECT
 DOMAIN-SUFFIX,finnexbot.com,REJECT
 DOMAIN-SUFFIX,finnflarede.shop,REJECT
 DOMAIN-SUFFIX,finosfin.com,REJECT
@@ -9175,6 +9171,7 @@ DOMAIN-SUFFIX,goodmecar.click,REJECT
 DOMAIN-SUFFIX,goodotisnop.click,REJECT
 DOMAIN-SUFFIX,goodpriceclothes.com,REJECT
 DOMAIN-SUFFIX,goodpricedrugs.com,REJECT
+DOMAIN-SUFFIX,goodrumnhits.shop,REJECT
 DOMAIN-SUFFIX,goods-shopgreener.com,REJECT
 DOMAIN-SUFFIX,goodstufftool.com,REJECT
 DOMAIN-SUFFIX,goodthingsstore.shop,REJECT
@@ -10161,6 +10158,7 @@ DOMAIN-SUFFIX,holz-winterhoff.de,REJECT
 DOMAIN-SUFFIX,holzabsatzfonds.de,REJECT
 DOMAIN-SUFFIX,holzanatomie.de,REJECT
 DOMAIN-SUFFIX,holzbaubillig.com,REJECT
+DOMAIN-SUFFIX,holzbrenn-stoffe.com,REJECT
 DOMAIN-SUFFIX,holzbrenn.de,REJECT
 DOMAIN-SUFFIX,holzbriketts-kaufen.com,REJECT
 DOMAIN-SUFFIX,holzbriketts-profi.de,REJECT
@@ -10455,7 +10453,6 @@ DOMAIN-SUFFIX,hype-hoodies.com,REJECT
 DOMAIN-SUFFIX,hypedrip.top,REJECT
 DOMAIN-SUFFIX,hyper-pools.com,REJECT
 DOMAIN-SUFFIX,hyperbanner.net,REJECT
-DOMAIN-SUFFIX,hyperstech.com,REJECT
 DOMAIN-SUFFIX,hypertracker.com,REJECT
 DOMAIN-SUFFIX,hyperx-pool.com,REJECT
 DOMAIN-SUFFIX,hypescrape.com,REJECT
@@ -10805,7 +10802,6 @@ DOMAIN-SUFFIX,inflatablenshow.com,REJECT
 DOMAIN-SUFFIX,influenzerstore.de,REJECT
 DOMAIN-SUFFIX,info-euservice.com,REJECT
 DOMAIN-SUFFIX,info-shop-online.com,REJECT
-DOMAIN-SUFFIX,info.kompressify.com,REJECT
 DOMAIN-SUFFIX,infodir.net,REJECT
 DOMAIN-SUFFIX,infodux.de,REJECT
 DOMAIN-SUFFIX,infoevent.startappservice.com,REJECT
@@ -11554,7 +11550,6 @@ DOMAIN-SUFFIX,kash-leone.fr,REJECT
 DOMAIN-SUFFIX,kashefcog.com,REJECT
 DOMAIN-SUFFIX,kashkeman-handel.de,REJECT
 DOMAIN-SUFFIX,kasperfit.com,REJECT
-DOMAIN-SUFFIX,kastneroehlersde.com,REJECT
 DOMAIN-SUFFIX,kasynaonlineranking.net,REJECT
 DOMAIN-SUFFIX,katana-deutschland.de,REJECT
 DOMAIN-SUFFIX,katemond.de,REJECT
@@ -11643,7 +11638,6 @@ DOMAIN-SUFFIX,keyblissboutique.com,REJECT
 DOMAIN-SUFFIX,keycaps-vibe.com,REJECT
 DOMAIN-SUFFIX,keyom.de,REJECT
 DOMAIN-SUFFIX,kezono.com,REJECT
-DOMAIN-SUFFIX,kfmdso.com,REJECT
 DOMAIN-SUFFIX,kfz-ersatzteile-schuster.de,REJECT
 DOMAIN-SUFFIX,kfznachweis.de,REJECT
 DOMAIN-SUFFIX,kfzonlineabmelden.de,REJECT
@@ -11654,7 +11648,6 @@ DOMAIN-SUFFIX,kg-legacy-analytics.servicebus.windows.net,REJECT
 DOMAIN-SUFFIX,kgfghij.com,REJECT
 DOMAIN-SUFFIX,kh-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,khandokerrestaurantonline.com,REJECT
-DOMAIN-SUFFIX,khjugyu.shop,REJECT
 DOMAIN-SUFFIX,khoshbrands.com,REJECT
 DOMAIN-SUFFIX,khujo.shop,REJECT
 DOMAIN-SUFFIX,khujoangebote.com,REJECT
@@ -11686,7 +11679,6 @@ DOMAIN-SUFFIX,kimperuecken.de,REJECT
 DOMAIN-SUFFIX,kincorybeauty.com,REJECT
 DOMAIN-SUFFIX,kindads.com,REJECT
 DOMAIN-SUFFIX,kindderstedt.com,REJECT
-DOMAIN-SUFFIX,kindderstidt.com,REJECT
 DOMAIN-SUFFIX,kinddeshoprstadt.com,REJECT
 DOMAIN-SUFFIX,kindduckling.com,REJECT
 DOMAIN-SUFFIX,kinderanhaengerwelt.de,REJECT
@@ -11909,7 +11901,6 @@ DOMAIN-SUFFIX,korummainlinebait.com,REJECT
 DOMAIN-SUFFIX,kosecikva.com,REJECT
 DOMAIN-SUFFIX,kost.tv,REJECT
 DOMAIN-SUFFIX,kostuemfest.com,REJECT
-DOMAIN-SUFFIX,kostumparty.com,REJECT
 DOMAIN-SUFFIX,kotropfenwelt.com,REJECT
 DOMAIN-SUFFIX,koucy.com,REJECT
 DOMAIN-SUFFIX,koupit-kamagra-viagra.online,REJECT
@@ -11976,7 +11967,6 @@ DOMAIN-SUFFIX,kryptographen.de,REJECT
 DOMAIN-SUFFIX,kryptoneo.com,REJECT
 DOMAIN-SUFFIX,ks-baumarkt.com,REJECT
 DOMAIN-SUFFIX,ksftrade.com,REJECT
-DOMAIN-SUFFIX,ksruidafei.com,REJECT
 DOMAIN-SUFFIX,kstellar.io,REJECT
 DOMAIN-SUFFIX,kstil.de,REJECT
 DOMAIN-SUFFIX,ktl-consulting.de,REJECT
@@ -12075,7 +12065,6 @@ DOMAIN-SUFFIX,laamcom.com,REJECT
 DOMAIN-SUFFIX,labelparis.com,REJECT
 DOMAIN-SUFFIX,labexholzgmbh.de,REJECT
 DOMAIN-SUFFIX,laboutiqueherbal.store,REJECT
-DOMAIN-SUFFIX,labq22.in,REJECT
 DOMAIN-SUFFIX,labubu-box.com,REJECT
 DOMAIN-SUFFIX,labubu-lounge.de,REJECT
 DOMAIN-SUFFIX,labubu-popmart.de,REJECT
@@ -12115,6 +12104,7 @@ DOMAIN-SUFFIX,lameletters.com,REJECT
 DOMAIN-SUFFIX,lamena.de,REJECT
 DOMAIN-SUFFIX,lamiva.de,REJECT
 DOMAIN-SUFFIX,lamodeshop.com,REJECT
+DOMAIN-SUFFIX,lamp-laboratory.com,REJECT
 DOMAIN-SUFFIX,lampenbillig.com,REJECT
 DOMAIN-SUFFIX,lampendream.com,REJECT
 DOMAIN-SUFFIX,lampenreich.com,REJECT
@@ -12195,7 +12185,6 @@ DOMAIN-SUFFIX,latestparts.com,REJECT
 DOMAIN-SUFFIX,latestperfume.com,REJECT
 DOMAIN-SUFFIX,latisse-wimpernserum.com,REJECT
 DOMAIN-SUFFIX,latoo.de,REJECT
-DOMAIN-SUFFIX,latraininghub.com,REJECT
 DOMAIN-SUFFIX,lauensteingarten.de,REJECT
 DOMAIN-SUFFIX,laufenalltagnatur.com,REJECT
 DOMAIN-SUFFIX,laufenlust.com,REJECT
@@ -12206,7 +12195,6 @@ DOMAIN-SUFFIX,laughcloth.com,REJECT
 DOMAIN-SUFFIX,launch.apple.com,REJECT
 DOMAIN-SUFFIX,launchbit.com,REJECT
 DOMAIN-SUFFIX,lauradiva.de,REJECT
-DOMAIN-SUFFIX,lauradiva.shop,REJECT
 DOMAIN-SUFFIX,lautenberg-mode.de,REJECT
 DOMAIN-SUFFIX,lautisbikeshop.de,REJECT
 DOMAIN-SUFFIX,lautsprechersale.com,REJECT
@@ -12218,7 +12206,6 @@ DOMAIN-SUFFIX,lavetir.at,REJECT
 DOMAIN-SUFFIX,lavianie.com,REJECT
 DOMAIN-SUFFIX,lavina-berlin.de,REJECT
 DOMAIN-SUFFIX,laviza.de,REJECT
-DOMAIN-SUFFIX,laxnds.com,REJECT
 DOMAIN-SUFFIX,layda-handel.de,REJECT
 DOMAIN-SUFFIX,layer-ad.de,REJECT
 DOMAIN-SUFFIX,layer-ads.de,REJECT
@@ -12237,6 +12224,7 @@ DOMAIN-SUFFIX,lcm-markets.com,REJECT
 DOMAIN-SUFFIX,lcxholz.de,REJECT
 DOMAIN-SUFFIX,le-cartier.com,REJECT
 DOMAIN-SUFFIX,le-labo.at,REJECT
+DOMAIN-SUFFIX,lea-frankfurt.com,REJECT
 DOMAIN-SUFFIX,lead02.com,REJECT
 DOMAIN-SUFFIX,leadboltads.net,REJECT
 DOMAIN-SUFFIX,leadbrass.com,REJECT
@@ -12248,10 +12236,8 @@ DOMAIN-SUFFIX,leadplace.fr,REJECT
 DOMAIN-SUFFIX,leadspace.com,REJECT
 DOMAIN-SUFFIX,leadzupc.com,REJECT
 DOMAIN-SUFFIX,leahideas.com,REJECT
-DOMAIN-SUFFIX,lealbys.com,REJECT
 DOMAIN-SUFFIX,leaplunchroom.com,REJECT
 DOMAIN-SUFFIX,learn.atdaslelabor.com,REJECT
-DOMAIN-SUFFIX,learn.kompressify.com,REJECT
 DOMAIN-SUFFIX,learn.physio,REJECT
 DOMAIN-SUFFIX,learnshopifydevelopment.com,REJECT
 DOMAIN-SUFFIX,leaseabike-mitarbeiter.de,REJECT
@@ -12261,7 +12247,6 @@ DOMAIN-SUFFIX,leatherjacketgear.com,REJECT
 DOMAIN-SUFFIX,leathershire.co.uk,REJECT
 DOMAIN-SUFFIX,lebanonmbstore.com,REJECT
 DOMAIN-SUFFIX,lebens-traum.at,REJECT
-DOMAIN-SUFFIX,lebenskernde.com,REJECT
 DOMAIN-SUFFIX,lebensmittelgeschaft.com,REJECT
 DOMAIN-SUFFIX,lebensmittelgeschafte.com,REJECT
 DOMAIN-SUFFIX,lebenwertebauen.com,REJECT
@@ -12358,11 +12343,9 @@ DOMAIN-SUFFIX,lemnisk.co,REJECT
 DOMAIN-SUFFIX,lempirecrypto.com,REJECT
 DOMAIN-SUFFIX,lems-deutschland.de,REJECT
 DOMAIN-SUFFIX,lems.com.de,REJECT
-DOMAIN-SUFFIX,lemsdeutschland.com,REJECT
 DOMAIN-SUFFIX,lemsdeutschland.top,REJECT
 DOMAIN-SUFFIX,lemsschuhedeutschland.de,REJECT
 DOMAIN-SUFFIX,lena-boutique.de,REJECT
-DOMAIN-SUFFIX,lenahockson.com,REJECT
 DOMAIN-SUFFIX,lenaskunst.de,REJECT
 DOMAIN-SUFFIX,lenimara.at,REJECT
 DOMAIN-SUFFIX,lenkerclip.com,REJECT
@@ -12497,8 +12480,6 @@ DOMAIN-SUFFIX,lightspeedcash.com,REJECT
 DOMAIN-SUFFIX,lightstep.medium.systems,REJECT
 DOMAIN-SUFFIX,lignor-brennholzde.com,REJECT
 DOMAIN-SUFFIX,lijit.com,REJECT
-DOMAIN-SUFFIX,likdl.shop,REJECT
-DOMAIN-SUFFIX,likds.shop,REJECT
 DOMAIN-SUFFIX,likeceosk.click,REJECT
 DOMAIN-SUFFIX,likelyon.com,REJECT
 DOMAIN-SUFFIX,likes-kopen.nl,REJECT
@@ -12581,7 +12562,6 @@ DOMAIN-SUFFIX,liquidpoolservice.com,REJECT
 DOMAIN-SUFFIX,lirunqiu.com,REJECT
 DOMAIN-SUFFIX,lisach.com,REJECT
 DOMAIN-SUFFIX,lisalerose.com,REJECT
-DOMAIN-SUFFIX,lisft.shop,REJECT
 DOMAIN-SUFFIX,lissomesmart.com,REJECT
 DOMAIN-SUFFIX,literalsmon.com,REJECT
 DOMAIN-SUFFIX,literaryi.com,REJECT
@@ -12624,7 +12604,6 @@ DOMAIN-SUFFIX,lizabete.com,REJECT
 DOMAIN-SUFFIX,lizardslaugh.com,REJECT
 DOMAIN-SUFFIX,ljekarna-osijek.com,REJECT
 DOMAIN-SUFFIX,ljekarnacroatia.com,REJECT
-DOMAIN-SUFFIX,ljekarnahrvatska.com,REJECT
 DOMAIN-SUFFIX,lk-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,lkntransport.com,REJECT
 DOMAIN-SUFFIX,lkqd.com,REJECT
@@ -12891,7 +12870,6 @@ DOMAIN-SUFFIX,lottonorway.net,REJECT
 DOMAIN-SUFFIX,lottoportugal.net,REJECT
 DOMAIN-SUFFIX,lottoslovakia.sk,REJECT
 DOMAIN-SUFFIX,lottosouthafrica.net,REJECT
-DOMAIN-SUFFIX,lotus-handeln.com,REJECT
 DOMAIN-SUFFIX,lotusgaminglive.com,REJECT
 DOMAIN-SUFFIX,lotz-container.com,REJECT
 DOMAIN-SUFFIX,loudlunch.com,REJECT
@@ -12900,14 +12878,12 @@ DOMAIN-SUFFIX,louise-perrin.de,REJECT
 DOMAIN-SUFFIX,louissheshop.com,REJECT
 DOMAIN-SUFFIX,louisvilledentures.com,REJECT
 DOMAIN-SUFFIX,loulistore.com,REJECT
-DOMAIN-SUFFIX,loumani.de,REJECT
 DOMAIN-SUFFIX,loumo-shop.de,REJECT
 DOMAIN-SUFFIX,louvana.de,REJECT
 DOMAIN-SUFFIX,lovandi.eu,REJECT
 DOMAIN-SUFFIX,lovaric.co,REJECT
 DOMAIN-SUFFIX,love-roses.com,REJECT
 DOMAIN-SUFFIX,lovea.co,REJECT
-DOMAIN-SUFFIX,loveandbumpshop.com,REJECT
 DOMAIN-SUFFIX,lovebikestore.com,REJECT
 DOMAIN-SUFFIX,lovefortennis.com,REJECT
 DOMAIN-SUFFIX,lovefransk.click,REJECT
@@ -13019,7 +12995,6 @@ DOMAIN-SUFFIX,lunaseacoffees.com,REJECT
 DOMAIN-SUFFIX,lunaxadv.myshopify.com,REJECT
 DOMAIN-SUFFIX,lunevio.com,REJECT
 DOMAIN-SUFFIX,lunion.ch,REJECT
-DOMAIN-SUFFIX,lunoralivingshop.com,REJECT
 DOMAIN-SUFFIX,lunvia.de,REJECT
 DOMAIN-SUFFIX,luovu.de,REJECT
 DOMAIN-SUFFIX,lupinebike.com,REJECT
@@ -13040,7 +13015,6 @@ DOMAIN-SUFFIX,luvness.de,REJECT
 DOMAIN-SUFFIX,luvona.de,REJECT
 DOMAIN-SUFFIX,luvori.de,REJECT
 DOMAIN-SUFFIX,luvqx.com,REJECT
-DOMAIN-SUFFIX,luvyle.com,REJECT
 DOMAIN-SUFFIX,luwander.shop,REJECT
 DOMAIN-SUFFIX,lux-clubx.za.com,REJECT
 DOMAIN-SUFFIX,luxeberlin.de,REJECT
@@ -13141,7 +13115,6 @@ DOMAIN-SUFFIX,magag.de,REJECT
 DOMAIN-SUFFIX,magalistore.com,REJECT
 DOMAIN-SUFFIX,magasset.com,REJECT
 DOMAIN-SUFFIX,magenta-oat.com,REJECT
-DOMAIN-SUFFIX,magentaappat.top,REJECT
 DOMAIN-SUFFIX,magicadz.co,REJECT
 DOMAIN-SUFFIX,magicaldeals.shop,REJECT
 DOMAIN-SUFFIX,magicaljoin.com,REJECT
@@ -13179,7 +13152,6 @@ DOMAIN-SUFFIX,main-btc.com,REJECT
 DOMAIN-SUFFIX,main-garten.at,REJECT
 DOMAIN-SUFFIX,main-mokassin.de,REJECT
 DOMAIN-SUFFIX,mainet.business,REJECT
-DOMAIN-SUFFIX,maingoldfrankfurt.com,REJECT
 DOMAIN-SUFFIX,maintainel.com,REJECT
 DOMAIN-SUFFIX,maintenanceh.com,REJECT
 DOMAIN-SUFFIX,mainz-mode.de,REJECT
@@ -13289,8 +13261,6 @@ DOMAIN-SUFFIX,mariela-beauty-studio.com,REJECT
 DOMAIN-SUFFIX,mariemero-salestore.shop,REJECT
 DOMAIN-SUFFIX,marien-apotheke-elstra.de,REJECT
 DOMAIN-SUFFIX,marievonmallwitzverlag.de,REJECT
-DOMAIN-SUFFIX,marimekko-hots.com,REJECT
-DOMAIN-SUFFIX,marineausstattung.com,REJECT
 DOMAIN-SUFFIX,marinepartde.com,REJECT
 DOMAIN-SUFFIX,marinepartdepots.com,REJECT
 DOMAIN-SUFFIX,marinesafetygear.com,REJECT
@@ -13338,7 +13308,6 @@ DOMAIN-SUFFIX,marketsbroker.com,REJECT
 DOMAIN-SUFFIX,marketsinvest.com,REJECT
 DOMAIN-SUFFIX,marketsview.io,REJECT
 DOMAIN-SUFFIX,marketxarproducts.shop,REJECT
-DOMAIN-SUFFIX,markezia.com,REJECT
 DOMAIN-SUFFIX,markierskibindungen.com,REJECT
 DOMAIN-SUFFIX,markisenrabatt.com,REJECT
 DOMAIN-SUFFIX,markt-shop.com,REJECT
@@ -13361,7 +13330,6 @@ DOMAIN-SUFFIX,marriedbelief.com,REJECT
 DOMAIN-SUFFIX,marstenwear.com,REJECT
 DOMAIN-SUFFIX,martin-luther-kindergarten-arnsberg.de,REJECT
 DOMAIN-SUFFIX,martincouture.ch,REJECT
-DOMAIN-SUFFIX,martinundjulia.com,REJECT
 DOMAIN-SUFFIX,martml.com,REJECT
 DOMAIN-SUFFIX,marvelcasino-online.de,REJECT
 DOMAIN-SUFFIX,marveliona.com,REJECT
@@ -13374,7 +13342,6 @@ DOMAIN-SUFFIX,mas-sdk-eu.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,mas-sdk.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,mas.sector.sk,REJECT
 DOMAIN-SUFFIX,maschinenbau-marketingtranslations.com,REJECT
-DOMAIN-SUFFIX,maschinenbau-stripegmbh.de,REJECT
 DOMAIN-SUFFIX,maschinenfuergarten.de,REJECT
 DOMAIN-SUFFIX,maschinenpreiswert.com,REJECT
 DOMAIN-SUFFIX,mascotsmall.com,REJECT
@@ -13390,7 +13357,6 @@ DOMAIN-SUFFIX,masterbaushop.de,REJECT
 DOMAIN-SUFFIX,masterofmalteu.shop,REJECT
 DOMAIN-SUFFIX,masters-dipl-kfm.de,REJECT
 DOMAIN-SUFFIX,masti.store,REJECT
-DOMAIN-SUFFIX,mataoriginkids.shop,REJECT
 DOMAIN-SUFFIX,mataporkoz.com,REJECT
 DOMAIN-SUFFIX,matcha-sllim.cc,REJECT
 DOMAIN-SUFFIX,matchcraft.com,REJECT
@@ -13436,7 +13402,6 @@ DOMAIN-SUFFIX,maws-aax-us-east-test4.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,maws-aax-us-east.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,maws-aax-us-pdx-rtb.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,max-apteka.pl,REJECT
-DOMAIN-SUFFIX,max-berg.com,REJECT
 DOMAIN-SUFFIX,max-healthcarerx.com,REJECT
 DOMAIN-SUFFIX,max-steroids.com,REJECT
 DOMAIN-SUFFIX,max.i12.de,REJECT
@@ -13676,11 +13641,9 @@ DOMAIN-SUFFIX,mediaserver.bwinpartypartners.it,REJECT
 DOMAIN-SUFFIX,mediasmart.io,REJECT
 DOMAIN-SUFFIX,mediasquare.fr,REJECT
 DOMAIN-SUFFIX,mediastore.tech,REJECT
-DOMAIN-SUFFIX,mediatech-shop.com,REJECT
 DOMAIN-SUFFIX,mediatext.com,REJECT
 DOMAIN-SUFFIX,mediavine.com,REJECT
 DOMAIN-SUFFIX,mediavoice.com,REJECT
-DOMAIN-SUFFIX,mediaxim.com,REJECT
 DOMAIN-SUFFIX,medicalgroupsk.sk,REJECT
 DOMAIN-SUFFIX,medicalsupportsale.com,REJECT
 DOMAIN-SUFFIX,medicamententreparticulier.com,REJECT
@@ -13699,7 +13662,6 @@ DOMAIN-SUFFIX,medirao.com,REJECT
 DOMAIN-SUFFIX,medirezept.net,REJECT
 DOMAIN-SUFFIX,meditatem.com,REJECT
 DOMAIN-SUFFIX,medivita-de.com,REJECT
-DOMAIN-SUFFIX,medizinversand24.com,REJECT
 DOMAIN-SUFFIX,medleyads.com,REJECT
 DOMAIN-SUFFIX,medosashop.de,REJECT
 DOMAIN-SUFFIX,medpets-de.com,REJECT
@@ -13786,7 +13748,6 @@ DOMAIN-SUFFIX,meinesafebox.com,REJECT
 DOMAIN-SUFFIX,meinetiermarken.at,REJECT
 DOMAIN-SUFFIX,meingartenhimmel.de,REJECT
 DOMAIN-SUFFIX,meingartenwelt.com,REJECT
-DOMAIN-SUFFIX,meinhuggies.com,REJECT
 DOMAIN-SUFFIX,meinkleinerhuhnerstall-at.com,REJECT
 DOMAIN-SUFFIX,meinkofferde.com,REJECT
 DOMAIN-SUFFIX,meinkrimskrams.de,REJECT
@@ -13873,9 +13834,7 @@ DOMAIN-SUFFIX,meridianfinance.pro,REJECT
 DOMAIN-SUFFIX,meridianunitedholdingsnet.digital,REJECT
 DOMAIN-SUFFIX,meritdeteno.com,REJECT
 DOMAIN-SUFFIX,merlin-apotheke.com,REJECT
-DOMAIN-SUFFIX,merova-shop.com,REJECT
 DOMAIN-SUFFIX,merrell-deutschland.de,REJECT
-DOMAIN-SUFFIX,merrellbarbati.com,REJECT
 DOMAIN-SUFFIX,merrelldeutschland.com,REJECT
 DOMAIN-SUFFIX,merrelloutletonline.de,REJECT
 DOMAIN-SUFFIX,merrells.co.at,REJECT
@@ -13948,8 +13907,6 @@ DOMAIN-SUFFIX,mexicotabs.com,REJECT
 DOMAIN-SUFFIX,meyerenergie.com,REJECT
 DOMAIN-SUFFIX,meyerpoolwelt.com,REJECT
 DOMAIN-SUFFIX,mezam.dk,REJECT
-DOMAIN-SUFFIX,mezzaninfinanz.com,REJECT
-DOMAIN-SUFFIX,mezzaninfintech.com,REJECT
 DOMAIN-SUFFIX,mf-versandhandel-gmbh.myshopify.com,REJECT
 DOMAIN-SUFFIX,mfadsrvr.com,REJECT
 DOMAIN-SUFFIX,mfboutiquestore.tools,REJECT
@@ -14519,6 +14476,7 @@ DOMAIN-SUFFIX,mooxishop.de,REJECT
 DOMAIN-SUFFIX,mopub.com,REJECT
 DOMAIN-SUFFIX,more2water.onshopbase.com,REJECT
 DOMAIN-SUFFIX,morefolks.com,REJECT
+DOMAIN-SUFFIX,morenutritionde.store,REJECT
 DOMAIN-SUFFIX,moreviabeauty.com,REJECT
 DOMAIN-SUFFIX,moriaccessoires.com,REJECT
 DOMAIN-SUFFIX,morii.nl,REJECT
@@ -14763,7 +14721,6 @@ DOMAIN-SUFFIX,muttermode.de,REJECT
 DOMAIN-SUFFIX,muumall.com,REJECT
 DOMAIN-SUFFIX,muwmedia.com,REJECT
 DOMAIN-SUFFIX,muzam.de,REJECT
-DOMAIN-SUFFIX,muzenaudio.com,REJECT
 DOMAIN-SUFFIX,mvfurs.com,REJECT
 DOMAIN-SUFFIX,mvhulvrd.shop,REJECT
 DOMAIN-SUFFIX,mvleingarten.de,REJECT
@@ -15179,6 +15136,7 @@ DOMAIN-SUFFIX,nicolasdelattre.com,REJECT
 DOMAIN-SUFFIX,nicole-mahler.de,REJECT
 DOMAIN-SUFFIX,nidworkers.com,REJECT
 DOMAIN-SUFFIX,niederlandeshop.de,REJECT
+DOMAIN-SUFFIX,niemann-kollegen.com,REJECT
 DOMAIN-SUFFIX,nifdthhe.shop,REJECT
 DOMAIN-SUFFIX,nifyanifest.com,REJECT
 DOMAIN-SUFFIX,nig.com,REJECT
@@ -15618,6 +15576,7 @@ DOMAIN-SUFFIX,officialrenewritualsupplement.shop,REJECT
 DOMAIN-SUFFIX,officialyeti.com,REJECT
 DOMAIN-SUFFIX,officiellejordan.eu.com,REJECT
 DOMAIN-SUFFIX,offizieller-iq-test.com,REJECT
+DOMAIN-SUFFIX,offshorecheapmeds.com,REJECT
 DOMAIN-SUFFIX,offshoregeology.com,REJECT
 DOMAIN-SUFFIX,offsidegiugliano.shop,REJECT
 DOMAIN-SUFFIX,offup-vip.za.com,REJECT
@@ -16055,6 +16014,7 @@ DOMAIN-SUFFIX,ottoramed.com,REJECT
 DOMAIN-SUFFIX,ottowhale.com,REJECT
 DOMAIN-SUFFIX,ouces.heuristicreview.company,REJECT
 DOMAIN-SUFFIX,oud.sint-janscollege.be,REJECT
+DOMAIN-SUFFIX,ouinex.com,REJECT
 DOMAIN-SUFFIX,ount.de,REJECT
 DOMAIN-SUFFIX,our-deals.de,REJECT
 DOMAIN-SUFFIX,ouraltis.de,REJECT
@@ -18724,6 +18684,7 @@ DOMAIN-SUFFIX,schuhegiesswein.com,REJECT
 DOMAIN-SUFFIX,schuhegunstignice.de,REJECT
 DOMAIN-SUFFIX,schuhehoka.de,REJECT
 DOMAIN-SUFFIX,schuhejordan.de.com,REJECT
+DOMAIN-SUFFIX,schuhelueke.com,REJECT
 DOMAIN-SUFFIX,schuhescarpa.com,REJECT
 DOMAIN-SUFFIX,schuheverkauf-de.com,REJECT
 DOMAIN-SUFFIX,schuhewienshoponline.com,REJECT
@@ -19486,7 +19447,6 @@ DOMAIN-SUFFIX,sofortfinanz.com,REJECT
 DOMAIN-SUFFIX,soft-handel.de,REJECT
 DOMAIN-SUFFIX,softclick.com.br,REJECT
 DOMAIN-SUFFIX,softdays-shop.de,REJECT
-DOMAIN-SUFFIX,softelektro.com,REJECT
 DOMAIN-SUFFIX,softgarments.com,REJECT
 DOMAIN-SUFFIX,softritualsco.shop,REJECT
 DOMAIN-SUFFIX,software-onsale.com,REJECT
@@ -20131,7 +20091,7 @@ DOMAIN-SUFFIX,store.aeotec.com,REJECT
 DOMAIN-SUFFIX,store.aktuellerezensionen.de,REJECT
 DOMAIN-SUFFIX,store.jorbray.com,REJECT
 DOMAIN-SUFFIX,store.kestrelby.com,REJECT
-DOMAIN-SUFFIX,store.kingslora.com,REJECT
+DOMAIN-SUFFIX,store.mavelimira.com,REJECT
 DOMAIN-SUFFIX,store.promomesh.com,REJECT
 DOMAIN-SUFFIX,store.rensby.com,REJECT
 DOMAIN-SUFFIX,store.rosebournea.com,REJECT
@@ -20744,6 +20704,7 @@ DOMAIN-SUFFIX,terraviva-gartenbau.de,REJECT
 DOMAIN-SUFFIX,terremassif.com,REJECT
 DOMAIN-SUFFIX,terriblethumb.com,REJECT
 DOMAIN-SUFFIX,teslacoin.io,REJECT
+DOMAIN-SUFFIX,teslacoininc.org,REJECT
 DOMAIN-SUFFIX,teslarea.com,REJECT
 DOMAIN-SUFFIX,teslaxtrading.com,REJECT
 DOMAIN-SUFFIX,tesler.software,REJECT
@@ -21017,7 +20978,6 @@ DOMAIN-SUFFIX,tischlampenstore.com,REJECT
 DOMAIN-SUFFIX,tischlerei-brouns.de,REJECT
 DOMAIN-SUFFIX,tischlerei-eckart.de,REJECT
 DOMAIN-SUFFIX,tischlereijache-shop.de,REJECT
-DOMAIN-SUFFIX,tischprofi.com,REJECT
 DOMAIN-SUFFIX,tischtennisde.com,REJECT
 DOMAIN-SUFFIX,tischtennisrabatt.com,REJECT
 DOMAIN-SUFFIX,titan-nxl.myshopify.com,REJECT
@@ -21545,7 +21505,6 @@ DOMAIN-SUFFIX,treasurypool-spectra.xyz,REJECT
 DOMAIN-SUFFIX,treatstoreweb.com,REJECT
 DOMAIN-SUFFIX,treemexholz.de,REJECT
 DOMAIN-SUFFIX,trekdata.com,REJECT
-DOMAIN-SUFFIX,tremel.at,REJECT
 DOMAIN-SUFFIX,tremendoustime.com,REJECT
 DOMAIN-SUFFIX,tremorhub.com,REJECT
 DOMAIN-SUFFIX,trencystore.com,REJECT
@@ -21838,7 +21797,6 @@ DOMAIN-SUFFIX,umbfinancialgroup.com,REJECT
 DOMAIN-SUFFIX,umbrellacorp.fr,REJECT
 DOMAIN-SUFFIX,umbro-deutschland.de,REJECT
 DOMAIN-SUFFIX,umdm.org,REJECT
-DOMAIN-SUFFIX,umrechnung.mdhsh.com,REJECT
 DOMAIN-SUFFIX,ums-rum-cn.heytapimage.com,REJECT
 DOMAIN-SUFFIX,ums-rum-global.heytapimage.com,REJECT
 DOMAIN-SUFFIX,ums-telemetry-cn.heytapmobi.com,REJECT
@@ -21979,6 +21937,7 @@ DOMAIN-SUFFIX,urgalaxy.com,REJECT
 DOMAIN-SUFFIX,urhenwchmuckrosel.de,REJECT
 DOMAIN-SUFFIX,url9467.comms-2.zoopla.co.uk,REJECT
 DOMAIN-SUFFIX,urlcash.net,REJECT
+DOMAIN-SUFFIX,ursime.com,REJECT
 DOMAIN-SUFFIX,ursulam.com,REJECT
 DOMAIN-SUFFIX,urvlentoki-at.com,REJECT
 DOMAIN-SUFFIX,urvlentoki-ie.com,REJECT
@@ -22560,6 +22519,7 @@ DOMAIN-SUFFIX,voluum.com,REJECT
 DOMAIN-SUFFIX,voluumtrk2.com,REJECT
 DOMAIN-SUFFIX,volvax.de,REJECT
 DOMAIN-SUFFIX,vonauto.de,REJECT
+DOMAIN-SUFFIX,voncleir.com,REJECT
 DOMAIN-SUFFIX,vondacoco.com,REJECT
 DOMAIN-SUFFIX,vondaro.de,REJECT
 DOMAIN-SUFFIX,vone-shop.com,REJECT
@@ -22731,6 +22691,7 @@ DOMAIN-SUFFIX,wasserbetten-centrum.at,REJECT
 DOMAIN-SUFFIX,wasserflorade.com,REJECT
 DOMAIN-SUFFIX,wasserflorashop.com,REJECT
 DOMAIN-SUFFIX,wasserpflegede.com,REJECT
+DOMAIN-SUFFIX,wasserruderangebote.com,REJECT
 DOMAIN-SUFFIX,wasserspender-deutschland.de,REJECT
 DOMAIN-SUFFIX,wassersportwert.com,REJECT
 DOMAIN-SUFFIX,wasserwelpen.de,REJECT
@@ -22922,6 +22883,7 @@ DOMAIN-SUFFIX,werke-anhangers.com,REJECT
 DOMAIN-SUFFIX,werkerswelt-moelln.de,REJECT
 DOMAIN-SUFFIX,werkgeist.com,REJECT
 DOMAIN-SUFFIX,werkora-industrial.com,REJECT
+DOMAIN-SUFFIX,werkstatt-teile.com,REJECT
 DOMAIN-SUFFIX,werkstattgerateprofi.com,REJECT
 DOMAIN-SUFFIX,werkstattgitter.com,REJECT
 DOMAIN-SUFFIX,werkstattmaschinen.com,REJECT
@@ -23694,6 +23656,7 @@ DOMAIN-SUFFIX,zonetrove.com,REJECT
 DOMAIN-SUFFIX,zonewedgeshaft.com,REJECT
 DOMAIN-SUFFIX,zonixwater.com,REJECT
 DOMAIN-SUFFIX,zonnishop.com,REJECT
+DOMAIN-SUFFIX,zoogwshu.shop,REJECT
 DOMAIN-SUFFIX,zookatzeshop.com,REJECT
 DOMAIN-SUFFIX,zoomil.de,REJECT
 DOMAIN-SUFFIX,zoomoption.com,REJECT
