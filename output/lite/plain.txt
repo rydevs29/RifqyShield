@@ -283,6 +283,7 @@ abrahamr.com
 abroad.api.comm.intl.miui.com
 abrorabatt.de
 abschminken.com
+absjdte.shop
 absolutelyn.com
 absoluteo.com
 absolutering.com
@@ -436,7 +437,6 @@ ad.lgappstv.com
 ad.liveinternet.ru
 ad.lupa.cz
 ad.mediastorm.hu
-ad.mg
 ad.mi.com
 ad.missena.io
 ad.miui.com
@@ -507,7 +507,6 @@ adbrite.com
 adbroker.de
 adbutler.com
 adc0219647979.page.link
-adcampo.com
 adcannyads.com
 adcash.com
 adcast.deviantart.com
@@ -1114,7 +1113,6 @@ adservrs.com
 adservrs.com.edgekey.net
 adsfac.eu
 adsfac.net
-adsfac.us
 adsflowprime.top
 adsfs-sdkconfig.heytapimage.com
 adsfs.oppomobile.com
@@ -1180,7 +1178,6 @@ adts.lgtvcommon.com
 adultadvertising.com
 aduno-agentur.de
 adv-adserver.com
-adv.donejty.pl
 adv.freeonline.it
 adv.hwupgrade.it
 adv.l7.34.sec.miui.com
@@ -1722,7 +1719,6 @@ amouravienna.com
 amp-finance.com
 amplearctic.com
 amprisiaenergies.com
-ampscamp.net
 amsterdam-nl.com
 amsterdamluxe.com
 amsterdamout.store
@@ -2654,6 +2650,7 @@ axonix.com
 axpsv.com
 ay.delivery
 ayads.co
+ayadyiyq.shop
 aybl.at
 aybl.pl
 aydinahbeauty.com
@@ -3050,6 +3047,7 @@ beinfit-official.de
 beinfit.de
 beipartners.com
 beja.shop
+beker-technik24.com
 bekleidunggadgets.com
 bekleidungsoutlet.com
 bekos.at
@@ -3467,6 +3465,7 @@ binomst.com
 binotrader.com
 bio-apode.com
 bio-brennholz.de
+bio-epelletgmbh.de
 bio-stefano.shop
 bioaestheticshop.com
 bioapoteka.store
@@ -3500,7 +3499,6 @@ bitcodeprime.org
 bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
-bitcoin-up.io
 bitcoin-xact.fr
 bitcoinarchon.com
 bitcoineer.ai
@@ -3812,7 +3810,6 @@ braunboutique.com
 braunsale.de
 bravedrawer.com
 braviamarket.com
-brawlstars.store
 braze.eu
 brazillo.store
 brazuque.com.br
@@ -3859,6 +3856,7 @@ brennholzboersch.com
 brennholzbredemeier.com
 brennholzdirekt.com
 brennholzgarten.de
+brennholzgigant.de
 brennholzhaus.de
 brennholzhochwald-de.com
 brennholzkamin.de
@@ -3965,6 +3963,7 @@ brunateschuhewerksverkauf.de
 brunboisdechauffage.at
 brunnercampen.com
 brunnerluzern.com
+brunnerversand.at
 brunoberg.com
 brunosboxers.de
 brutaka.com
@@ -4974,6 +4973,7 @@ cnt1.pocitadlo.cz
 cnvlink.com
 cny.yoyo.org
 co-ad-lgsmartad-com.aws-prd.net
+co-album-api.vivoglobal.com
 co-cota.vivoglobal.com
 co-domaincfg.vivoglobal.com
 co-onrt-stsdk.vivoglobal.com
@@ -5189,6 +5189,7 @@ containerschiffsreedereigmbh.de
 containerslager.com
 containersparks.com
 containerwelt24.com
+containerworldllc.store
 content.acc-hd.de
 content.ad
 content22.online.citi.com
@@ -5409,7 +5410,6 @@ cryptoassetscontrol.com
 cryptobullbear.com
 cryptocase.online
 cryptocash24.com
-cryptoeasily.com
 cryptofast.net
 cryptofundfx.com
 cryptomoney888.com
@@ -5520,6 +5520,7 @@ cymgrup.com
 cyno-sainti.ch
 cyrarise.com
 cyrosalnix.com
+cyrus-nyc.eu.cc
 cz-ad-lgsmartad-com.aws-prd.net
 cz-kamagra.com
 cz-lekarna.com
@@ -5944,6 +5945,7 @@ demoniasuomi.com
 demontagedesgetriebes.com
 den-home.com
 denaturkosmetik.com
+denbypotteryuk.com
 denkashop.com
 dennisbecker-ra.de
 denuvostore.com
@@ -6369,6 +6371,7 @@ dragate-in.dc.heytapmobi.com
 dragate-sg.dc.heytapmobi.com
 dragate-sg.dc.oppomobile.com
 dragate.dc.oppomobile.com
+dragonbats.com
 dragonia-casino-online.com
 dragxel.store
 drahtloseenergie.com
@@ -6897,7 +6900,6 @@ elysiumbikes.com
 elysiumcycles.com
 elyvanedepot.com
 elzaros.com
-em1.yoursantander.co.uk
 email-link.adtidy.info
 email-link.adtidy.net
 email-link.adtidy.org
@@ -7323,6 +7325,7 @@ everlast.fund
 everlastosterreich.at
 everlodge.io
 evermily.com
+eversales.space
 evershape.at
 eversonehandel.at
 everyday-outdoor.de
@@ -8200,6 +8203,7 @@ fr1.landomr.com
 fractionevr.com
 fractionu.com
 fragfinanz.com
+fragonard.co.at
 fragrance-proben.com
 fragrantanal.com
 framezegame.com
@@ -8254,6 +8258,7 @@ freiemarkt.de
 freietaube.de
 freigardenstyle.com
 freigexact.com
+freiluftdeck.de
 freischlafen-de.myshopify.com
 freitag-taschen.com
 freiwing.de
@@ -8713,7 +8718,6 @@ gefrints.com
 geldermans.com
 geldpro.ai
 geldvision.com
-gelmalls.com
 gelschuhe.de
 gelvibe.de
 gemeinderosengarten.de
@@ -8844,8 +8848,10 @@ get-curaball.com
 get-epicooler.com
 get-fizzclean.com
 get-hydrogenwaterbottle.com
+get-kinzeno.com
 get-klaudena.com
 get-male-meds.net
+get-matsato-osuren.com
 get-mens-meds.com
 get-nuro.com
 get-omnihear.com
@@ -9090,6 +9096,7 @@ gogistar.com
 gogooption.com
 gogumus.com
 gohuntsport.myshoplaza.com
+goillo.com
 goingplatinum.com
 gojodns.com
 gokoelectricinc.com
@@ -9167,7 +9174,6 @@ goodmecar.click
 goodotisnop.click
 goodpriceclothes.com
 goodpricedrugs.com
-goodrumnhits.shop
 goods-shopgreener.com
 goodstufftool.com
 goodthingsstore.shop
@@ -10525,7 +10531,6 @@ icota-eu.coloros.com
 icota-service-eu.allawnos.com
 icota-service-in.allawnos.com
 icptrack.com
-icywinter.com
 id-ad-lgsmartad-com.aws-prd.net
 id-analyzer-appstore.vivoglobal.com
 id-austria.at-bmf-gv-uberprufung.com
@@ -10693,6 +10698,7 @@ implicationi.com
 import-export.website
 importstoree.com
 impossibleexpansion.com
+imprese.cz
 impressionmedia.cz
 impressionmonster.com
 improbuehne.de
@@ -10855,6 +10861,7 @@ insolvenz-verkauf.net
 inspectiony.com
 inspectlet.com
 inspirationalgadget.com
+inspoy.com
 insta-trading.com
 instahauls.com
 install-gwh.at
@@ -10873,7 +10880,6 @@ installateur-profis24.at
 installateur-rudolf.at
 installateur-top.at
 installateur.lindens.at
-installateur.prs247.tech
 instantfundedaccount.com
 instantmadness.com
 instantpoolquote.site
@@ -11686,6 +11692,7 @@ kindergartenpaedergogik.de
 kinderglitzern.de
 kinderlichtblicke.de
 kindermobelre.com
+kinderschatz.com
 kinderspielzeugangebote.com
 kindertische.com
 kindlereunion.com
@@ -12027,6 +12034,7 @@ kvp0fw-hi.myshopify.com
 kvsadman.com
 kw-ad-lgsmartad-com.aws-prd.net
 kwardany.com
+kwaypromo-uk.com
 kwikkards.com
 kx-consulting.com
 kygamingvip.com
@@ -12605,6 +12613,7 @@ lkntransport.com
 lkqd.com
 lkw-mieten-wien.at
 lkw-reifenpanne.com
+lkwpetru-shop.com
 ller.net
 lloyd.co.at
 lloydschuhesale.de
@@ -12988,6 +12997,7 @@ lunarelleberlin.de
 lunarr-solar-systems.xyz
 lunaryfinance.com
 lunaseacoffees.com
+lunavelle-official.com
 lunaxadv.myshopify.com
 lunevio.com
 lunion.ch
@@ -13276,6 +13286,7 @@ market.livaxxen.org
 market.silverbournea.com
 market.stonebournea.com
 market.westfieldon.com
+market.yestonby.com
 market24prime.shop
 market2trade.com
 marketbarogmbh.de
@@ -13439,7 +13450,6 @@ mcs-i18n.tiktok.com.edgekey.net
 mcs-ie.tiktokw.eu
 mcs-ie.tiktokw.eu.ttdns3.com
 mcs-ie2.tiktokw.eu
-mcs-ie2.tiktokw.eu.dvaitas.lt
 mcs-ie2.tiktokw.eu.edgesuite.net
 mcs-ie2.tiktokw.eu.ttdns3.com
 mcs-normal-sg.capcutapi.com
@@ -13475,7 +13485,6 @@ mcs.us.tiktok.com.edgesuite.net
 mcs.us.tiktokv.com
 mcs.us.tiktokv.com.edgesuite.net
 mcs16-normal-no1a.tiktokw.eu
-mcs16-normal-no1a.tiktokw.eu.dvaitas.lt
 mcs16-normal-no1a.tiktokw.eu.edgesuite.net
 mcs16-normal-us-ttp.capcutapi.us
 mcs16-normal-useastred.tiktokw.eu
@@ -13765,6 +13774,7 @@ meiteshop.com
 mekikb.com
 meladen.de
 melanca.de
+melaramax.com
 melbouqueterie.com
 meldebescheinigung.eu
 meldezettel-digital.at
@@ -13936,8 +13946,6 @@ michaelis-technik.com
 michaelkors-osterreich.com
 michaelkorsberlin.de
 michaelkorsosterreich.com
-michaelkorssuisse.net
-michel-auto-concpt.com
 michelinsuisse.com
 micloudevents.preview.n.xiaomi.com
 micro-spiele.de
@@ -13994,7 +14002,6 @@ millwoodshomege.com
 milono.de
 milotree.com
 milouamsterdam.nl
-milouberlin.de
 miloujewelrys.com
 milyenshop.com
 mimicoffee.com
@@ -14035,11 +14042,11 @@ mirainvestments.ltd
 miraiweb.org
 miralosa.com
 mirandahstore.com
+miravago.com
 miravoshop.de
 mirellavilla.com
 mirtarbeiterangebote.de
 mis.g.mi.com
-misalena.com
 misc.pandora.xiaomi.com
 misciron.com
 miscota.de
@@ -14099,14 +14106,12 @@ mkbaudesign.de
 mkc-invest.com
 mkdfx.fr
 mkentertainment.nl
-mkkrcwss.shop
 mknen.com
 mkto-ab410147.com
 mktoresp.com
 ml-ad-lgsmartad-com.aws-prd.net
 ml314.com
 mlbhungary.com
-mlcodwhz.shop
 mlkvip.com
 mlm.de
 mlog.search.xiaomi.net
@@ -14122,7 +14127,6 @@ mmtro.com
 mn-ad-lgsmartad-com.aws-prd.net
 mn.magazinmodern.de
 mngaristastore.de
-mnsnyavp.shop
 mntasest.lol
 mntzrlt.net
 mo-ad-lgsmartad-com.aws-prd.net
@@ -14148,7 +14152,6 @@ mobel-wahls.shop
 mobelimfreien.com
 mobelmagie.com
 mobelmomente.com
-mobelprada-de.com
 mobelsverkauf.com
 mobelwohnen.com
 mobelzauber.com
@@ -14172,7 +14175,6 @@ mobilizex.com
 mobilsmarkt.de
 mobischule.com
 mobitracker.org
-mobivita.de
 mobixstore.com
 mochathedogstore.de
 mocne-suple.com
@@ -14187,7 +14189,6 @@ modbrix.shop
 mode-boutiek.com
 mode-engel.de
 mode-lizzy.com
-mode-lizzy.de
 mode-meister.com
 mode-shop-1.de
 mode-wunder.de
@@ -14200,13 +14201,11 @@ modeboutiquederherzen.com
 modeboutiqueweber.de
 modedeu.com
 modedisne.de
-modeengels.de
 modehaus-dresden.com
 modehaus-dusseldorf.de
 modehaus-kaiser.de
 modehaus-meyer.de
 modehaus-schroers.com
-modehaus-valentin.de
 modehausbrandt.com
 modehausedelweis.com
 modehausessen.de
@@ -14229,7 +14228,6 @@ modellbaubasis.com
 modellbaubillig.com
 modellbauguenstig.com
 modellbauwerke.de
-modellde.com
 modelleisenbahnrabatt.com
 modellsupplystore.com
 modeltoys-new.com
@@ -14249,7 +14247,6 @@ moderwear.shop
 modeschulte.de
 modestylebay.com
 modetalente.com
-modethermoskanne.com
 modetraum.com
 modetrendhaus.de
 modetrends-munchen.com
@@ -14268,7 +14265,6 @@ moebel-haushalt.de
 moebel-onlineshop.com
 moebel-rieder-abverkauf.de
 moebelcenterremscheid.de
-moebelfertigung-sandig.de
 moebelkick.de
 moebelmaerki-mtb.ch
 moebelonline24.com
@@ -14312,7 +14308,6 @@ mon-boot.tiktokv.com.edgekey.net
 mon-csj-maliva-ios.byteoversea.com
 mon-hl.snssdk.com
 mon-i18n.tiktokv.com
-mon-i18n.tiktokv.com.dvaitas.lt
 mon-phx.tiktokv.com
 mon-ru.tiktokv.com
 mon-sg.capcutapi.com
@@ -14329,7 +14324,6 @@ mon-va.byteoversea.com
 mon-va.capcutapi.com
 mon-va.capcutapi.com.ttdns2.com
 mon-va.tiktokv.com
-mon-vaul.com
 mon.be.xiaomi.com
 mon.byteoversea.com
 mon.capcutapi.us
@@ -14352,8 +14346,6 @@ mon16-normal-alisg.tiktokv.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-no1a.tiktokv.eu
-mon16-normal-no1a.tiktokv.eu.dvaitas.lt
-mon16-normal-no1a.tiktokv.eu.numericable.fr
 mon16-normal-sg.capcutapi.com
 mon16-normal-sg.capcutapi.com.edgesuite.net
 mon16-normal-us-ttp.capcutapi.us
@@ -14365,7 +14357,6 @@ mon16-normal-useast5.tiktokv.us
 mon16-normal-useast8.tiktokv.us
 mon16-normal-useast8.us.tiktokv.com
 mon16-normal-useastred.tiktokv.eu
-mon16-normal-useastred.tiktokv.eu.dvaitas.lt
 mon16-normal-zr-useast1a.tiktokv.com
 mon16-normal.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
@@ -14400,7 +14391,6 @@ monecoplus.com
 monetate.net
 monetizer101.com
 monexis.co
-moneysupermarkt.de
 mongi.at
 monicasneaker.cc
 monido.de
@@ -14431,7 +14421,6 @@ montgerrard.com
 monthlyi.com
 montivo.de
 montmode.de
-montparvie-v-gestion.com
 montrereplique.to
 monvada.de
 moodcheerful.com
@@ -14487,7 +14476,6 @@ mosano.de
 mosbax.com
 moschinosale.de
 moscotberlin.de
-moser-wien.com
 moserwiesn.de
 mosessions.com
 mosmankoch.de
@@ -14503,7 +14491,6 @@ motherbabydoulaservices.com
 motionlessmeeting.com
 motionspots.com
 motionwish.com
-motivoebike.com
 moto-discounts-germany.com
 moto-teile24.com
 motoculturedirecte.com
@@ -14517,10 +14504,8 @@ motorraderhelme.de
 motorraders.de
 motorradking.com
 motorradoutfit.com
-motorradsshop.com
 motorradwelt24.com
 motorsensen-shop.com
-mototeilecenter.com
 mouldkingbausteine.com
 mounjaflow.de
 mountainbike-hotel-harz.de
@@ -14635,7 +14620,7 @@ mt-ad-lgsmartad-com.aws-prd.net
 mt4gestion.com
 mt4invest.com
 mtbandroad.com
-mtbcapitals.com
+mtbrennholz.com
 mth14.at
 mto-service.com
 mtquality.com
@@ -14649,7 +14634,6 @@ muckbootsoutletstore.de
 muckbootssverige.com
 mudanzasideal.com
 mudismud.com
-muehle-gladen-de.com
 mueller-investment.com
 muenzenangebot24.com
 muenzenexpertshop.com
@@ -14689,13 +14673,11 @@ mur-shop.com
 museopradotickets.com
 mushroomgods.com
 musicalvortex.com
-musicgearcenter.com
 musicgearfashion.com
 musicianshop.de
 musicworldde.com
 musik-laden.com
 musik-planet.com
-musikgarage.com
 musikgearhub.com
 musikgermany.com
 musikhaus-neumann.de
@@ -14802,7 +14784,6 @@ myonepieceshop.de
 myonlyshop.de
 myopaline.com
 mypagerank.net
-myperiodproject.com
 myplayground.store
 mypookino.com
 mypowermall.com
@@ -14843,7 +14824,6 @@ naharbeiten.com
 nahenwebshop.de
 nailissimi.com
 nailsmith.co
-naiora.de
 naj.sk
 nakedly.ai
 nakitrade.com
@@ -14887,7 +14867,6 @@ naturalzuda.de
 naturcontact.de
 natureglanz.com
 naturelabs.store
-naturemarksale.shop
 naturenergie.shop
 naturkraft-express.de
 naturpurshop.com
@@ -14896,14 +14875,12 @@ naturstep.de
 naturwaerme-karow.de
 naturwide.com
 naturwide.de
-naturzadedea.shop
 natuuroutlet.com
 nauticalpartsstore.com
 nauticaromania.com
 nauticasdeutschland.de
 nauticaukwebsite.com
 nauticwerk.com
-nautikbedarf.com
 nav.sec.miui.com
 nava-shop.com
 navantepharmaceuticals.com
@@ -14911,7 +14888,6 @@ navaro-shop.de
 navaru.de
 navegg.com
 navessaa.com
-navigatil.store
 navigator.io
 navirexep.de
 navisdkarten.de
@@ -14928,7 +14904,6 @@ ncaudienceexchange.com
 nchen.de
 ndfinitee.com
 ndparking.com
-near-on-chain.de
 neary.de
 neatherlandnewstoday.com
 nebelrad.de
@@ -15020,9 +14995,7 @@ neueberlin.de
 neuedamen.de
 neuertm7-vorwerk.com
 neueseudokument.com
-neuesteprodukte.com
 neuewohnaccessoires.de
-neufahrradladende.com
 neufahrradprada.com
 neuleben.co
 neumann-handel.de
@@ -15030,9 +15003,7 @@ neumann-mobel.de
 neumann-mode.de
 neunagel.de
 neurath.net
-neurotweinrabatt.com
 neutrino-energy-coin.com
-neuve-markvere.com
 nevari.de
 nevermindshoes.com
 nevolas.com
@@ -15055,7 +15026,6 @@ newchrisreeve.com
 neweary.com
 neweuropetoday.com
 newfulfilment.com
-newgocontainers.com
 newinmountain.com
 newinsnowboard.com
 newkidsinc.com
@@ -15115,7 +15085,6 @@ ng3.ads.warnerbros.com
 nger.de
 nginx.34.sec.miui.com
 nguebelipharma.com
-nhbdgy.shop
 nhcol.com
 nhltrikotde.com
 nholz.com
@@ -15135,7 +15104,6 @@ niederlandeshop.de
 niemann-kollegen.com
 nifdthhe.shop
 nifyanifest.com
-nig.com
 nightskyshop.de
 niholss.store
 nikeinsuomi.com
@@ -15157,7 +15125,6 @@ nioekure.com
 nirana.de
 nitroclicks.com
 nittogeschaft.com
-nivela.de
 nixbetonline.com
 nixse.com
 nizle.shop
@@ -15182,7 +15149,6 @@ no-info-lgsmartad-com.aws-prd.net
 no-rdx2-lgtvsdp-com.aws-prd.net
 noanailartandbeauty.com
 nobalte.de
-nobilis-kredit.com
 noble-alliance.com
 noblepawz.com
 nobulldeutschland.de
@@ -15215,7 +15181,6 @@ nordevantis.de
 nordhaus-handel.de
 nordheimhausgmbh.myshopify.com
 nordic-pellets.de
-nordicasaunashop.shop
 nordicasaunastore.shop
 nordicdecor.de
 nordicdrop.de
@@ -15268,12 +15233,10 @@ notfall-installateur.at
 notgas-installationen.at
 noticabreal.com
 notice.game.xiaomi.com
-notionmist.com
 notionnovel.com
 noucadeaux.fr
 nouveauveloventefr.com
 nouwd.com
-nova-dusseldorf.de
 nova-eu.com
 nova-finance.net
 nova-mia.de
@@ -15288,7 +15251,6 @@ novambients.de
 novamenstruhilfe.de
 novamoda.de
 novando.de
-novant.fr
 novaoutletshopcheckout.online
 novaoutletshopcheckout.site
 novaoutletshopcheckoutpay.site
@@ -15314,14 +15276,12 @@ novavitalia.io
 novelbuys.com
 novele.de
 novem.pl
-noventracapitals.com
 noveraxcapital.com
 novermessen.de
 novestas.de
 noveteadram.com
 noviestore.com
 novifashion.de
-novintra.shop
 novintraa.myshopify.com
 novira-berlin.com
 novirastore.com
@@ -15343,7 +15303,6 @@ nrer.shop
 nrg-company-energie.de
 nrgbinary.co
 ns1p.net
-nsjuef.shop
 nsk-gmbh.myshopify.com
 nsp-logservice-hiview-p01-drru.obs.ru-northwest-2.myhuaweicloud.ru
 nsp-logservice-hiview-p05-dra.obs.ap-southeast-3.myhuaweicloud.com
@@ -15423,7 +15382,6 @@ objecthero.com
 objectivew.com
 objektiverklick.de
 obmarkets.com
-obolapvw.shop
 obozboots.com
 obroker.com
 obs.sd4823.spglobal.com
@@ -15474,11 +15432,11 @@ occasionak.com
 occasionk.com
 oceancloudhosts.com
 ocevashop.de
-ocinboutique.de
 octeno.de
 octirtast.shop
 octora.de
 ocycling.com
+odagyock.shop
 odbierz-bony.ovp.pl
 odin-signals.apple.com
 odiom-sunglasses.com
@@ -15493,13 +15451,11 @@ oelbonus.de
 oelfast.com
 oelfast.de
 oelfuel.de
-oelgo.de
 oelhanse.com
 oelhub.com
 oelhub.de
 oelify.com
 oelino.de
-oelit.de
 oelity.de
 oeliva.de
 oelixa.de
@@ -15532,7 +15488,6 @@ oelvia.de
 oelvio.de
 oelwert.de
 oelza.de
-oelzone.de
 oelzy.de
 oermiant.com
 oesterreichischeapotheke.com
@@ -15622,7 +15577,6 @@ ole-handel.de
 ole-musik.de
 oleaia.com
 oliver-schwarzer-shop.de
-olivercabelldeutschland.de
 olivespielzeug.com
 oliviamoreau.de
 olivias-horoskope.de
@@ -15631,7 +15585,6 @@ om-ad-lgsmartad-com.aws-prd.net
 omecyer.com
 omega-technik.de
 omegainvestment.de
-omenyxgroup.com
 omes-sec.heytapmobi.com
 omes-sec.heytapmobile.com
 omg10.com
@@ -15644,7 +15597,6 @@ oms-analytics.trafficmanager.net
 omtrdc.net
 on-at.com
 on-at.myshoplaza.com
-on-handel.com
 on-osterreich.at
 on-runningdeutschland.de
 on-runningschweiz.com
@@ -15654,7 +15606,6 @@ on3.myshoplaza.com
 on4.myshoplaza.com
 onaudience.com
 onaustria.at
-onavira.com
 onbestsellprods.com
 onceupontim.com
 onclickads.net
@@ -15662,7 +15613,6 @@ oncloud-sneakers.com
 oncloud-turkey.com
 oncloudboty.cz
 onclouddeutschlande.com
-onclouddubai.com
 oncloudoutlet.at
 oncloudschuhe.at
 oncloudshoes.de
@@ -15708,15 +15658,12 @@ online-douyin.com
 online-file-converter.com
 online-finanz.com
 online-gambling-rules.org
-online-health-pharm.com
 online-indiegames.de
 online-indiespiele.de
 online-jobs.pro
 online-metrix.net
 online-monlnverlfricationsarciving837817188292.com
 online-ph.com
-online-pharmacy365.com
-online-pills.com
 online-poker-jigsaw-puzzle-games.com
 online-seva.com
 online-sjb.com
@@ -15782,7 +15729,6 @@ onmycat.com
 onnutritionatshop.com
 onosterreich.at
 onrt-stsdk.vivoglobal.com
-onruneu.com
 onrunning-at.myshoplaza.com
 onrunning-eu.myshoplaza.com
 onrunning-shop.myshoplaza.com
@@ -16007,10 +15953,8 @@ otto-retouren.de
 otto.us.com
 ottoelektro.de
 ottoramed.com
-ottowhale.com
 ouces.heuristicreview.company
 oud.sint-janscollege.be
-ouinex.com
 ount.de
 our-deals.de
 ouraltis.de
@@ -16025,16 +15969,13 @@ outdoor-mall.de
 outdoor-testsieger-gartenschlauch-5gruende.de
 outdoor-testsieger-vergleich-gartenschlauch.de
 outdoor-venturesllc.com
-outdoorbillig.com
 outdoorerfahrung.com
-outdoorflow-gmbh.de
 outdoorheld.at
 outdoorhosensalestore.com
 outdoorio.de
 outdoorkleidungs.com
 outdoorloungefurnitures.com
 outdoorpetzl.com
-outdoorreich.de
 outdoorscooks.com
 outdoorsdeals.com
 outdoorshirtde.com
@@ -16076,7 +16017,6 @@ outletvitra.com
 outlivrabatt.com
 outlookads.live.com
 outmana.com
-outwardap.com
 ovalball.com
 ovalestore.com
 overconfidentfood.com
@@ -16113,7 +16053,6 @@ oxcash.com
 oxelvian.com
 oxfordmarkets.com
 oxfordnewstoday.com
-oxlora.shop
 oxtrades.com
 oyamakagu.com
 oyemas.com
@@ -16161,14 +16100,12 @@ paito-hkpools.store
 paitohkpools.site
 paket-de.com
 paleleaf.com
-paletten-pellets-dienstleistung.de
 paliodisiena.net
 palladiumargentina.com
 palletssale.com
 palmarkt.de
 palomina.de
 palorion.com
-palpaws.store
 pamphlety.com
 pamura.com
 panamajack-france.fr
@@ -16206,7 +16143,6 @@ paragonixedge.app
 paragonshop.de
 parakonz.de
 paramdionline.com
-paramount668.com
 parcel.deliv.com
 parchedsofa.com
 pardiar.com
@@ -16229,6 +16165,7 @@ partner.pelikan.cz
 partnerad.l.google.com
 partnerads.ysm.yahoo.com
 partnercash.de
+partnerfraudevents.trafficmanager.net
 partnerhut.com
 partnerlinks.io
 partners.priceline.com
@@ -16252,7 +16189,6 @@ paulgreensale.com
 paulinacasmur.com
 paulinasinger.com
 paulmachtenergiewende.de
-paulusbrennholz.com
 pauseimbiergarten.de
 pavan.top
 pawfurbaby.com
@@ -16318,7 +16254,6 @@ pedalbliss.com
 pedale-onshop.com
 pedalfreunde.de
 pedalpalast.de
-pedalprofi.de
 pedalyst.com
 peekcloppenburg-berlin.de
 peelerrabatt.de
@@ -16339,7 +16274,6 @@ pelletpoint77gmbh.de
 pellets-maschinen.de
 pellets-skog.com
 pelletsgeschaft.com
-pelletwerk.com
 pelopel.com
 peluxiv.at
 peluxiv.com
@@ -16415,7 +16349,6 @@ petrobas.ch
 petronpay.com
 petrovia.de
 petroya.de
-petshippingltd.com
 petshops1.com
 petsupply.life
 pettnicey.com
@@ -16518,7 +16451,6 @@ pharmacie-principale.net
 pharmacieamour.fr
 pharmacieenlignefrance.com
 pharmacy-europe.com
-pharmacyeurope24.com
 pharmacyinventory.org
 pharmacymarketonline.com
 pharmacyonline24.com
@@ -16543,7 +16475,6 @@ pheobes.com
 philippsthomas.com
 philosophyk.com
 phippstrailer.com
-phmall.org
 phoenix-adrunner.mycomputer.com
 phoenix-elektro.com
 phone-pool.de
@@ -16588,7 +16519,6 @@ pillz888.org
 pilotentest-vorbereitung.com
 pilotshof.com
 pilule-france.com
-pilulky-cz.com
 pimdy.com
 pimproll.com
 pinewoodsell.com
@@ -16685,7 +16615,6 @@ pleasantk.com
 pleasantpump.com
 pleaserchaussures.com
 pleaserdeutschland.de
-pleaserssuomi.com
 pleasersuomi.com
 plexiglass.nl
 plh-harz.de
@@ -16709,7 +16638,6 @@ plutogdx.com
 pmir.sec.miui.com
 pmpkp.com
 pmtinnova.com
-pn-parfum.com
 pn99.cc
 pncontainerlogistik-gmbh.de
 png-group.net
@@ -16753,7 +16681,6 @@ polene.co.at
 polenegermany.de
 poleneoutlet.de
 poleneparis.at
-polenetasche.de
 polishedfolly.com
 polklabs.click
 polluxer.com
@@ -16845,8 +16772,7 @@ potflourri.shop
 potsdampal.de
 powderxpirit.at
 power-efficiency.info
-power-laden.store
-poweromasch.shop
+powerigo.shop
 powerpoint-telemetry.officeapps.live.com
 powerpoint-telemetry.wac.trafficmanager.net
 powersebike.com
@@ -16876,6 +16802,7 @@ praxis-natuerlichgesund.de
 prazisemesser.com
 prazisionsteile.com
 prchecker.info
+prd-qlik-telemetry.servicebus.windows.net
 prd-usw2-requestattribution-iad.apple.com
 prderrordumphsm.samsungcloudsolution.com
 prderrordumpssm.samsungcloudsolution.net
@@ -16911,7 +16838,6 @@ premiumfeuer.com
 premiumfunds.com
 premiumpricepills.com
 premiumpricepills24hr.com
-premiumvip-spot.com
 presale-amswallet.replit.app
 presalesxai.com
 prescribet.com
@@ -17065,7 +16991,6 @@ promobenef.com
 promoclicks.digital
 promodosterreich.at
 promologichub.com
-promoprism.com
 promorin.com
 promos.bwin.it
 promos.fling.com
@@ -17091,7 +17016,6 @@ proridegear.com
 proridergear.com
 proshopsupport.de
 prosleepy.com
-prosolargen-strip.de
 prosperi.academy
 prosperi.io
 prosperousk.com
@@ -17125,7 +17049,6 @@ proxy-skadnetwork.apple.com
 proxy.sec.miui.com
 prozess-profi.de
 prpops.com
-prs-installateur.at
 prsitecheck.com
 prt-stsdk.vivoglobal.com
 pruefautomation.de
@@ -17599,6 +17522,7 @@ rees-elektro.de
 referralware.com
 referrer.disqus.com
 refinedoutlet.de
+reflaufwester.com
 reflexionm.com
 reformationkleiddeutschland.com
 reformationosterreich.com
@@ -17631,6 +17555,7 @@ reindesign-garten.de
 reindesigner-handel.de
 reineblume.de
 reings.store
+reinholdrasenmaher.com
 reinholzexpress.com
 reinigungszubehor.com
 reinpeptid.de
@@ -18950,7 +18875,6 @@ shellandsproutshop.com
 shelterene.com
 sher.index.hu
 sheremart.com
-sherum.com
 shesubscriptions.com
 shevode.com
 shewaves.com
@@ -19135,6 +19059,7 @@ shopurbanapparel.com
 shopvaley.com
 shopvisionen.de
 shopvitalitys.com
+shopvivar.ch
 shopwa.net
 shopwesternhats.com
 shopwineoutlet.com
@@ -19148,6 +19073,7 @@ shortsoff.com
 showads.pubmatic.com
 showerheadmr.com
 showerroomshops.com
+shredform.com
 shredlab-bike-academy-sauerland.de
 shreedhaonlineparts.com
 shrillspoon.com
@@ -19974,6 +19900,7 @@ staud.co.at
 stclik.com
 steadfastsound.com
 steadfastsystem.com
+steadyhandtooling.com
 steampunk-xix.de
 steeg-handel.de
 steelhouse.com
@@ -19988,6 +19915,7 @@ steinberg-modehaus.de
 steinberg-munchen.com
 steinbichler-online.de
 steinbohrershop.com
+steinbrennholz.de
 steiner-kg.at
 steiner-wien.at
 steinermode.at
@@ -20956,6 +20884,7 @@ timberlandde.de
 timberlandhelsinki.com
 timberrtech.myshopify.com
 timbuk2.co.at
+timbuk2.com.de
 timbuktours.de
 time.video.ptqy.gitv.tv
 timesofnaukri.com
@@ -21366,7 +21295,6 @@ tracking.mkt-email.samsungsds.com
 tracking.netalerts.io
 tracking.olx-st.com
 tracking.orixa-media.com
-tracking.p-l-m.com
 tracking.smartbusiness.samsung.com
 tracking.wetter.at
 tracking01.walmart.com
@@ -21559,7 +21487,6 @@ trixupmysleeve.com
 trk.4ff.pro
 trk.bc.shutterfly.com
 trk.pinterest.com
-trk.sayerfinancial.com
 trk.techtarget.com
 trk.vta-gmz.com
 trk1.avdlink.net
@@ -21793,6 +21720,7 @@ umbfinancialgroup.com
 umbrellacorp.fr
 umbro-deutschland.de
 umdm.org
+umrechnung.sszhiliji.com
 ums-rum-cn.heytapimage.com
 ums-rum-global.heytapimage.com
 ums-telemetry-cn.heytapmobi.com
@@ -22105,6 +22033,7 @@ vayco.de
 vaynhanhonline1.com
 vbpu.top
 vc-ad-lgsmartad-com.aws-prd.net
+vcdlsports.com
 vcl-brain.snssdk.com
 vcommission.com
 vddeals.com
@@ -22431,7 +22360,6 @@ vivads.net
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
-vivaiacollection.com
 vivaiaschuhe.com
 vivaiaschuhe.de
 vivaiaschuhesale.de
@@ -22592,6 +22520,7 @@ vumonvision.com
 vungle.com
 vutereck.com
 vuxocap-vip.io
+vw-insights.de
 vwutaq.com
 vxjskiy.shop
 vyjak.com
@@ -23403,6 +23332,7 @@ yiqixiuba.com
 yiyang-solar.com
 yjcsundw.com
 yjob.ivebelting.com
+yjrrkocn.shop
 ymetrica1.com
 ymking.com
 ynmwkmhs.shop
@@ -23419,7 +23349,6 @@ yonexdeutschland.com
 yonexdeutschland.de
 yonexs.at
 yoocaa.com
-yoohal.com
 yooofa.com
 yootet.com
 yorkbootsshop.de
