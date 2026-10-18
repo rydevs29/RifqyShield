@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-17 02:19:53
-# Total Domains: 24,047
+# Last Updated: 2026-10-18 02:20:13
+# Total Domains: 24,077
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -614,6 +614,7 @@ adl.okhxm.shop CNAME .
 adl.raodd.shop CNAME .
 adl.rqgbos.shop CNAME .
 adl.tlhqca.shop CNAME .
+adl.uhsdj.shop CNAME .
 adl.ukdil.shop CNAME .
 adl.uoyps.shop CNAME .
 adl.wiksh.shop CNAME .
@@ -1557,6 +1558,7 @@ allesescooter.de CNAME .
 allesfuerdengarten.com CNAME .
 allesfurzuhause.de CNAME .
 allesheizung.de CNAME .
+allesklars.de CNAME .
 allesoutdoor.de CNAME .
 allesschneider.shop CNAME .
 alletdufte.shop CNAME .
@@ -1760,6 +1762,7 @@ amundi06.sbs CNAME .
 amundi06.xyz CNAME .
 amundib.shop CNAME .
 amundic.sbs CNAME .
+amundsenwear.com CNAME .
 amung.us CNAME .
 amuseliebe.at CNAME .
 amuseliebe.com CNAME .
@@ -2114,6 +2117,7 @@ app-analyse.de CNAME .
 app-analytics-v2.snapchat.com CNAME .
 app-analytics.snapchat.com CNAME .
 app-associates.com CNAME .
+app-events.infoapps.apple.com CNAME .
 app-logistics.com CNAME .
 app-measurement.com CNAME .
 app.greengurad.sec.miui.com CNAME .
@@ -2412,6 +2416,7 @@ at.hwduy.shop CNAME .
 at.irgedvei.shop CNAME .
 at.ketonaktiv.com CNAME .
 at.nneelkwerf.net CNAME .
+at.otemtau.shop CNAME .
 at.pkajwb.shop CNAME .
 at.qfmiceden.shop CNAME .
 at.rattaay.com CNAME .
@@ -2939,6 +2944,7 @@ bathroomstylish.com CNAME .
 batsedgx.vip CNAME .
 bau-profis24.de CNAME .
 baubali.com CNAME .
+bauelektroshop.com CNAME .
 bauen-shop-de.com CNAME .
 bauer-brennstoffe.com CNAME .
 bauer-parndorf.at CNAME .
@@ -3491,6 +3497,7 @@ billiger-heizen.com CNAME .
 billigerstore.de CNAME .
 billigesanitaerwerkzeuge.com CNAME .
 billigesfahrrad.com CNAME .
+billigeuhren.com CNAME .
 billigfahrrad.com CNAME .
 billigfahrradteile.com CNAME .
 billiggarten.com CNAME .
@@ -3615,6 +3622,7 @@ blacktridentpop.shop CNAME .
 blacktridents.shop CNAME .
 blackyakrabatt.com CNAME .
 bladebasics.com CNAME .
+blankertragschaft.net CNAME .
 blasgarten.de CNAME .
 blattberlin.com CNAME .
 blattbucht.de CNAME .
@@ -4645,6 +4653,7 @@ checkout.rezeptedesgeschmacks.com CNAME .
 checkproduct.review CNAME .
 checkstat.nl CNAME .
 cheersperuviangrill.com CNAME .
+chef-et-food.com CNAME .
 chefclearance.com CNAME .
 chefhaus.de CNAME .
 chefsouppot.com CNAME .
@@ -4746,6 +4755,7 @@ citrixtelemetryeheu.servicebus.windows.net CNAME .
 citrusad.net CNAME .
 cityads.telus.net CNAME .
 cityclima.myshopify.com CNAME .
+citypetexpress.com CNAME .
 ciushop.com CNAME .
 civasan.ca CNAME .
 civey.at CNAME .
@@ -5096,6 +5106,7 @@ coach-florian.com CNAME .
 coach-ksa.com CNAME .
 coachoutlet-store.us.org CNAME .
 coachoutlet.at CNAME .
+coachtaschen.co.at CNAME .
 coarsesale.com CNAME .
 coastalresin.store CNAME .
 coatofficial.com CNAME .
@@ -5296,6 +5307,7 @@ containerschiffsreedereigmbh.de CNAME .
 containerslager.com CNAME .
 containersolutionscs.de CNAME .
 containersparks.com CNAME .
+containerstahlhaus.com CNAME .
 containerwelt24.com CNAME .
 containerworldllc.store CNAME .
 content.acc-hd.de CNAME .
@@ -5385,6 +5397,7 @@ cosplayverkauf.com CNAME .
 costext.com CNAME .
 cota-service-sg.allawnos.com CNAME .
 cotige.com CNAME .
+cotosen.com CNAME .
 cotovip.com CNAME .
 cotsrabatt.de CNAME .
 cottagoshop.com CNAME .
@@ -5869,6 +5882,7 @@ de.osmo-official.com CNAME .
 de.pandora.xiaomi.com CNAME .
 de.plantiter.shop CNAME .
 de.puppylove.com CNAME .
+de.soera-store.com CNAME .
 de.soolinen.com CNAME .
 de.try-lumive.com CNAME .
 de.tynt.com CNAME .
@@ -7689,6 +7703,7 @@ fahrstadt.de CNAME .
 fahrtechnikteile.com CNAME .
 fahrzeugcamp.com CNAME .
 fahrzeugkomfort.de CNAME .
+fahrzeugpflegeshop.com CNAME .
 fahrzeugpflegetreskow.de CNAME .
 fahrzeugscanner24.de CNAME .
 fahrzeugteile-shop.com CNAME .
@@ -7975,6 +7990,7 @@ fillethumn.com CNAME .
 filloutlet.com CNAME .
 fillthemap.com CNAME .
 filmara.de CNAME .
+filmkorn.shop CNAME .
 filmrabatt.com CNAME .
 filmsuitve.com CNAME .
 filo-de.com CNAME .
@@ -8356,6 +8372,7 @@ foxverkaufe.com CNAME .
 fp.msedge.net CNAME .
 fpctraffic.com CNAME .
 fpjs.io CNAME .
+fplgchauffage.com CNAME .
 fqtag.com CNAME .
 fr-ad-lgsmartad-com.aws-prd.net CNAME .
 fr-api.xmpush.global.xiaomi.com CNAME .
@@ -8416,6 +8433,7 @@ freecounterstat.com CNAME .
 freedodo.xyz CNAME .
 freedomgrail.com CNAME .
 freedomhats.shop CNAME .
+freeform-events.apple.com CNAME .
 freelogs.com CNAME .
 freemanagement.de CNAME .
 freemobile24.de CNAME .
@@ -8688,7 +8706,6 @@ galeriemodehaus.com CNAME .
 galerieoswald.de CNAME .
 galeryfile.com CNAME .
 galidix.com CNAME .
-galileofx.com CNAME .
 galleria-kaufhof.de CNAME .
 gallery.cdn.pandora.xiaomi.com CNAME .
 gallusgarten.com CNAME .
@@ -8911,6 +8928,7 @@ gefenstert.de CNAME .
 geflowing.de CNAME .
 gefrints.com CNAME .
 geldermans.com CNAME .
+geldfex.com CNAME .
 geldpro.ai CNAME .
 geldvision.com CNAME .
 gelschuhe.de CNAME .
@@ -10422,6 +10440,7 @@ holzliefernexpress.de CNAME .
 holzmoebelkaufen.de CNAME .
 holznotenpulte.de CNAME .
 holzpelletshop.com CNAME .
+holzpuzzlez.com CNAME .
 holzqualitat.de CNAME .
 holzregional.de CNAME .
 holzscheitenatur.com CNAME .
@@ -10673,6 +10692,7 @@ hustlenation.store CNAME .
 hustlercoach.com CNAME .
 hutare.com CNAME .
 hutdesignherren.com CNAME .
+hwcdkmzh.shop CNAME .
 hwinvest.cc CNAME .
 hwsdescontos.com CNAME .
 hxbabycare-xx.top CNAME .
@@ -11103,6 +11123,7 @@ insightexpressai.com CNAME .
 insightfulyou.net CNAME .
 insights.video.a2z.com CNAME .
 inskinad.com CNAME .
+inso-gmbh.com CNAME .
 insolesgeeks.com CNAME .
 insolvenz-veit.de CNAME .
 insolvenz-verkauf.net CNAME .
@@ -13447,6 +13468,7 @@ magicfreecom.com CNAME .
 magicplayzone.com CNAME .
 magicpotionoutletstore.shop CNAME .
 magicwandshop.de CNAME .
+magiluxe-store.com CNAME .
 magischepfoten.de CNAME .
 magischesparfum.de CNAME .
 magiskapk.net CNAME .
@@ -13694,6 +13716,7 @@ matcha-sllim.cc CNAME .
 matchcraft.com CNAME .
 matching-mommies.de CNAME .
 matchpoint-kaufungen.de CNAME .
+mateenenterprise.com CNAME .
 matenor.fr CNAME .
 materialbearbeitung.com CNAME .
 materialde.myshopify.com CNAME .
@@ -16373,6 +16396,7 @@ outdoorshirtde.com CNAME .
 outdoorspetzl.com CNAME .
 outdoorsportsequip.com CNAME .
 outdoorsretail.com CNAME .
+outdoorssportswear.com CNAME .
 outdoorventureson.com CNAME .
 outdoorzelte.com CNAME .
 outerwords.com CNAME .
@@ -16876,6 +16900,7 @@ pheedo.com CNAME .
 phelanspharmacyhealth.shop CNAME .
 pheobes.com CNAME .
 philippsthomas.com CNAME .
+philoro-de.to CNAME .
 philoro.online CNAME .
 philosophyk.com CNAME .
 phippstrailer.com CNAME .
@@ -17352,6 +17377,7 @@ probutton-tech.de CNAME .
 processplantation.com CNAME .
 procuradoresnavas.com CNAME .
 procyclist.de CNAME .
+prod-app-analytics-event-gateway.v.aaplimg.com CNAME .
 prod-eh-v1-analytics.servicebus.windows.net CNAME .
 prod-event-relay-api.v.aaplimg.com CNAME .
 prod-event-relay-books-api.v.aaplimg.com CNAME .
@@ -17360,6 +17386,7 @@ prod-event-relay-sports-api.v.aaplimg.com CNAME .
 prod-event-relay-stocks-api.v.aaplimg.com CNAME .
 prod-event-relay-weather-api.v.aaplimg.com CNAME .
 prod-eventhub-analytics.servicebus.windows.net CNAME .
+prod-iwork-events.v.aaplimg.com CNAME .
 prod-news-notification-events.v.aaplimg.com CNAME .
 prod.editor.ads.trafficmanager.net CNAME .
 prodak.de CNAME .
@@ -17799,6 +17826,7 @@ rasenmarkt.com CNAME .
 rasenmaschinen.com CNAME .
 rasenmotor.com CNAME .
 rasenpro.com CNAME .
+rasenritzel.com CNAME .
 rasenrobo.com CNAME .
 rasenshop24.com CNAME .
 rasenstolz.com CNAME .
@@ -17810,6 +17838,7 @@ rattmmotor.shop CNAME .
 rattzekatz.com CNAME .
 rauchen-jetzt.de CNAME .
 raum-lust.de CNAME .
+raumbauteile.com CNAME .
 raumduftpflegebedarf.com CNAME .
 raumgartenwerk.de CNAME .
 raumnote.de CNAME .
@@ -18050,6 +18079,7 @@ replicauhrenswiss.de CNAME .
 replicauhrenx.de CNAME .
 replicawatchtr.com CNAME .
 replika-uhr.to CNAME .
+replikuhrenshop.de CNAME .
 report-1.appmetrica.webvisor.com CNAME .
 report-2.appmetrica.webvisor.com CNAME .
 report-eu.uc.heytapmobile.com CNAME .
@@ -18645,6 +18675,7 @@ safir.com CNAME .
 safiraarabia.com CNAME .
 sagaenterprizes.com CNAME .
 sahibimnden.com CNAME .
+saia-maschinen.com CNAME .
 sail-horizon.com CNAME .
 saint-blanc.com CNAME .
 sainthoudeauxbeauty.com CNAME .
@@ -21559,7 +21590,6 @@ topoffice24.de CNAME .
 toponlinepharmacies.com CNAME .
 topowhey.top CNAME .
 toppdf.co CNAME .
-toppillsstore.com CNAME .
 topreinigungsmittel.com CNAME .
 toprolexes.com CNAME .
 topsalenow.xyz CNAME .
@@ -22775,7 +22805,6 @@ vivads.net CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
-vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
@@ -23068,7 +23097,6 @@ waworld.de CNAME .
 waxify.de CNAME .
 wayfinderanalytics.servicebus.windows.net CNAME .
 wayofwade.at CNAME .
-wayrates.com CNAME .
 wbecrisfro.com CNAME .
 wbymall.store CNAME .
 wdads.sx.atl.publicus.com CNAME .
@@ -23238,6 +23266,7 @@ werkzeug-kontor.de CNAME .
 werkzeug-salesshop.com CNAME .
 werkzeug-und-maschinen.com CNAME .
 werkzeug-und-maschinen.de CNAME .
+werkzeugarena.com CNAME .
 werkzeugboxe.com CNAME .
 werkzeugdeutsch.com CNAME .
 werkzeugdiscount.com CNAME .
@@ -23422,6 +23451,7 @@ withingss.de CNAME .
 wittelsheimholz.com CNAME .
 witten-berg.de CNAME .
 wittenwald.de CNAME .
+wittmode.com CNAME .
 wittypopcorn.com CNAME .
 wivaro.de CNAME .
 wizaly.com CNAME .

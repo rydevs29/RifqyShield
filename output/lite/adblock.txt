@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-10-17 02:19:53
-! Total Domains: 24,047
+! Last Updated: 2026-10-18 02:20:13
+! Total Domains: 24,077
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -614,6 +614,7 @@
 ||adl.raodd.shop^
 ||adl.rqgbos.shop^
 ||adl.tlhqca.shop^
+||adl.uhsdj.shop^
 ||adl.ukdil.shop^
 ||adl.uoyps.shop^
 ||adl.wiksh.shop^
@@ -1557,6 +1558,7 @@
 ||allesfuerdengarten.com^
 ||allesfurzuhause.de^
 ||allesheizung.de^
+||allesklars.de^
 ||allesoutdoor.de^
 ||allesschneider.shop^
 ||alletdufte.shop^
@@ -1760,6 +1762,7 @@
 ||amundi06.xyz^
 ||amundib.shop^
 ||amundic.sbs^
+||amundsenwear.com^
 ||amung.us^
 ||amuseliebe.at^
 ||amuseliebe.com^
@@ -2114,6 +2117,7 @@
 ||app-analytics-v2.snapchat.com^
 ||app-analytics.snapchat.com^
 ||app-associates.com^
+||app-events.infoapps.apple.com^
 ||app-logistics.com^
 ||app-measurement.com^
 ||app.greengurad.sec.miui.com^
@@ -2412,6 +2416,7 @@
 ||at.irgedvei.shop^
 ||at.ketonaktiv.com^
 ||at.nneelkwerf.net^
+||at.otemtau.shop^
 ||at.pkajwb.shop^
 ||at.qfmiceden.shop^
 ||at.rattaay.com^
@@ -2939,6 +2944,7 @@
 ||batsedgx.vip^
 ||bau-profis24.de^
 ||baubali.com^
+||bauelektroshop.com^
 ||bauen-shop-de.com^
 ||bauer-brennstoffe.com^
 ||bauer-parndorf.at^
@@ -3491,6 +3497,7 @@
 ||billigerstore.de^
 ||billigesanitaerwerkzeuge.com^
 ||billigesfahrrad.com^
+||billigeuhren.com^
 ||billigfahrrad.com^
 ||billigfahrradteile.com^
 ||billiggarten.com^
@@ -3615,6 +3622,7 @@
 ||blacktridents.shop^
 ||blackyakrabatt.com^
 ||bladebasics.com^
+||blankertragschaft.net^
 ||blasgarten.de^
 ||blattberlin.com^
 ||blattbucht.de^
@@ -4645,6 +4653,7 @@
 ||checkproduct.review^
 ||checkstat.nl^
 ||cheersperuviangrill.com^
+||chef-et-food.com^
 ||chefclearance.com^
 ||chefhaus.de^
 ||chefsouppot.com^
@@ -4746,6 +4755,7 @@
 ||citrusad.net^
 ||cityads.telus.net^
 ||cityclima.myshopify.com^
+||citypetexpress.com^
 ||ciushop.com^
 ||civasan.ca^
 ||civey.at^
@@ -5096,6 +5106,7 @@
 ||coach-ksa.com^
 ||coachoutlet-store.us.org^
 ||coachoutlet.at^
+||coachtaschen.co.at^
 ||coarsesale.com^
 ||coastalresin.store^
 ||coatofficial.com^
@@ -5296,6 +5307,7 @@
 ||containerslager.com^
 ||containersolutionscs.de^
 ||containersparks.com^
+||containerstahlhaus.com^
 ||containerwelt24.com^
 ||containerworldllc.store^
 ||content.acc-hd.de^
@@ -5385,6 +5397,7 @@
 ||costext.com^
 ||cota-service-sg.allawnos.com^
 ||cotige.com^
+||cotosen.com^
 ||cotovip.com^
 ||cotsrabatt.de^
 ||cottagoshop.com^
@@ -5869,6 +5882,7 @@
 ||de.pandora.xiaomi.com^
 ||de.plantiter.shop^
 ||de.puppylove.com^
+||de.soera-store.com^
 ||de.soolinen.com^
 ||de.try-lumive.com^
 ||de.tynt.com^
@@ -7689,6 +7703,7 @@
 ||fahrtechnikteile.com^
 ||fahrzeugcamp.com^
 ||fahrzeugkomfort.de^
+||fahrzeugpflegeshop.com^
 ||fahrzeugpflegetreskow.de^
 ||fahrzeugscanner24.de^
 ||fahrzeugteile-shop.com^
@@ -7975,6 +7990,7 @@
 ||filloutlet.com^
 ||fillthemap.com^
 ||filmara.de^
+||filmkorn.shop^
 ||filmrabatt.com^
 ||filmsuitve.com^
 ||filo-de.com^
@@ -8356,6 +8372,7 @@
 ||fp.msedge.net^
 ||fpctraffic.com^
 ||fpjs.io^
+||fplgchauffage.com^
 ||fqtag.com^
 ||fr-ad-lgsmartad-com.aws-prd.net^
 ||fr-api.xmpush.global.xiaomi.com^
@@ -8416,6 +8433,7 @@
 ||freedodo.xyz^
 ||freedomgrail.com^
 ||freedomhats.shop^
+||freeform-events.apple.com^
 ||freelogs.com^
 ||freemanagement.de^
 ||freemobile24.de^
@@ -8688,7 +8706,6 @@
 ||galerieoswald.de^
 ||galeryfile.com^
 ||galidix.com^
-||galileofx.com^
 ||galleria-kaufhof.de^
 ||gallery.cdn.pandora.xiaomi.com^
 ||gallusgarten.com^
@@ -8911,6 +8928,7 @@
 ||geflowing.de^
 ||gefrints.com^
 ||geldermans.com^
+||geldfex.com^
 ||geldpro.ai^
 ||geldvision.com^
 ||gelschuhe.de^
@@ -10422,6 +10440,7 @@
 ||holzmoebelkaufen.de^
 ||holznotenpulte.de^
 ||holzpelletshop.com^
+||holzpuzzlez.com^
 ||holzqualitat.de^
 ||holzregional.de^
 ||holzscheitenatur.com^
@@ -10673,6 +10692,7 @@
 ||hustlercoach.com^
 ||hutare.com^
 ||hutdesignherren.com^
+||hwcdkmzh.shop^
 ||hwinvest.cc^
 ||hwsdescontos.com^
 ||hxbabycare-xx.top^
@@ -11103,6 +11123,7 @@
 ||insightfulyou.net^
 ||insights.video.a2z.com^
 ||inskinad.com^
+||inso-gmbh.com^
 ||insolesgeeks.com^
 ||insolvenz-veit.de^
 ||insolvenz-verkauf.net^
@@ -13447,6 +13468,7 @@
 ||magicplayzone.com^
 ||magicpotionoutletstore.shop^
 ||magicwandshop.de^
+||magiluxe-store.com^
 ||magischepfoten.de^
 ||magischesparfum.de^
 ||magiskapk.net^
@@ -13694,6 +13716,7 @@
 ||matchcraft.com^
 ||matching-mommies.de^
 ||matchpoint-kaufungen.de^
+||mateenenterprise.com^
 ||matenor.fr^
 ||materialbearbeitung.com^
 ||materialde.myshopify.com^
@@ -16373,6 +16396,7 @@
 ||outdoorspetzl.com^
 ||outdoorsportsequip.com^
 ||outdoorsretail.com^
+||outdoorssportswear.com^
 ||outdoorventureson.com^
 ||outdoorzelte.com^
 ||outerwords.com^
@@ -16876,6 +16900,7 @@
 ||phelanspharmacyhealth.shop^
 ||pheobes.com^
 ||philippsthomas.com^
+||philoro-de.to^
 ||philoro.online^
 ||philosophyk.com^
 ||phippstrailer.com^
@@ -17352,6 +17377,7 @@
 ||processplantation.com^
 ||procuradoresnavas.com^
 ||procyclist.de^
+||prod-app-analytics-event-gateway.v.aaplimg.com^
 ||prod-eh-v1-analytics.servicebus.windows.net^
 ||prod-event-relay-api.v.aaplimg.com^
 ||prod-event-relay-books-api.v.aaplimg.com^
@@ -17360,6 +17386,7 @@
 ||prod-event-relay-stocks-api.v.aaplimg.com^
 ||prod-event-relay-weather-api.v.aaplimg.com^
 ||prod-eventhub-analytics.servicebus.windows.net^
+||prod-iwork-events.v.aaplimg.com^
 ||prod-news-notification-events.v.aaplimg.com^
 ||prod.editor.ads.trafficmanager.net^
 ||prodak.de^
@@ -17799,6 +17826,7 @@
 ||rasenmaschinen.com^
 ||rasenmotor.com^
 ||rasenpro.com^
+||rasenritzel.com^
 ||rasenrobo.com^
 ||rasenshop24.com^
 ||rasenstolz.com^
@@ -17810,6 +17838,7 @@
 ||rattzekatz.com^
 ||rauchen-jetzt.de^
 ||raum-lust.de^
+||raumbauteile.com^
 ||raumduftpflegebedarf.com^
 ||raumgartenwerk.de^
 ||raumnote.de^
@@ -18050,6 +18079,7 @@
 ||replicauhrenx.de^
 ||replicawatchtr.com^
 ||replika-uhr.to^
+||replikuhrenshop.de^
 ||report-1.appmetrica.webvisor.com^
 ||report-2.appmetrica.webvisor.com^
 ||report-eu.uc.heytapmobile.com^
@@ -18645,6 +18675,7 @@
 ||safiraarabia.com^
 ||sagaenterprizes.com^
 ||sahibimnden.com^
+||saia-maschinen.com^
 ||sail-horizon.com^
 ||saint-blanc.com^
 ||sainthoudeauxbeauty.com^
@@ -21559,7 +21590,6 @@
 ||toponlinepharmacies.com^
 ||topowhey.top^
 ||toppdf.co^
-||toppillsstore.com^
 ||topreinigungsmittel.com^
 ||toprolexes.com^
 ||topsalenow.xyz^
@@ -22775,7 +22805,6 @@
 ||vivagopro.com^
 ||vivaharmoni.com^
 ||vivaia-schuhe.de^
-||vivaiacollection.com^
 ||vivaiaschuhe.at^
 ||vivaiaschuhe.com^
 ||vivaiaschuhe.de^
@@ -23068,7 +23097,6 @@
 ||waxify.de^
 ||wayfinderanalytics.servicebus.windows.net^
 ||wayofwade.at^
-||wayrates.com^
 ||wbecrisfro.com^
 ||wbymall.store^
 ||wdads.sx.atl.publicus.com^
@@ -23238,6 +23266,7 @@
 ||werkzeug-salesshop.com^
 ||werkzeug-und-maschinen.com^
 ||werkzeug-und-maschinen.de^
+||werkzeugarena.com^
 ||werkzeugboxe.com^
 ||werkzeugdeutsch.com^
 ||werkzeugdiscount.com^
@@ -23422,6 +23451,7 @@
 ||wittelsheimholz.com^
 ||witten-berg.de^
 ||wittenwald.de^
+||wittmode.com^
 ||wittypopcorn.com^
 ||wivaro.de^
 ||wizaly.com^
