@@ -5567,6 +5567,7 @@ cstat.apple.com.edgesuite.net
 cstat.cdn-apple.com
 cstat.g.aaplimg.com
 csunbox.com
+ctbike.pl
 cthesky.com
 ctoption.com
 ctxholdings.com
@@ -14279,7 +14280,6 @@ mfsebike.com
 mg-ad-lgsmartad-com.aws-prd.net
 mg-management.de
 mg2connext.com
-mgaffaires.com
 mgid.com
 mgmglobal.com
 mhamzasaleem.com
@@ -18180,7 +18180,6 @@ rheumaschuhe.de
 rheumatologie-wien.at
 rhinoshopsystems.com
 rhode.co.at
-rhodeshotel24.com
 rhombusads.com
 rhythmone.com
 ri-lieeoodu.com
@@ -18330,6 +18329,7 @@ roinvest.net
 rok.com.com
 roleo.net
 rolex-replica.to
+rolexwanduhr.de
 rolexyeals.com
 rolla.store
 rolladen-rudolf.at
@@ -22801,6 +22801,7 @@ vivads.net
 vivagopro.com
 vivaharmoni.com
 vivaia-schuhe.de
+vivaiacollection.com
 vivaiaschuhe.at
 vivaiaschuhe.com
 vivaiaschuhe.de

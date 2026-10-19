@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-18 02:20:13
-# Total Domains: 24,077
+# Last Updated: 2026-10-19 02:35:05
+# Total Domains: 24,078
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -5572,6 +5572,7 @@ add name="cstat.apple.com.edgesuite.net" address=0.0.0.0
 add name="cstat.cdn-apple.com" address=0.0.0.0
 add name="cstat.g.aaplimg.com" address=0.0.0.0
 add name="csunbox.com" address=0.0.0.0
+add name="ctbike.pl" address=0.0.0.0
 add name="cthesky.com" address=0.0.0.0
 add name="ctoption.com" address=0.0.0.0
 add name="ctxholdings.com" address=0.0.0.0
@@ -14284,7 +14285,6 @@ add name="mfsebike.com" address=0.0.0.0
 add name="mg-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="mg-management.de" address=0.0.0.0
 add name="mg2connext.com" address=0.0.0.0
-add name="mgaffaires.com" address=0.0.0.0
 add name="mgid.com" address=0.0.0.0
 add name="mgmglobal.com" address=0.0.0.0
 add name="mhamzasaleem.com" address=0.0.0.0
@@ -18185,7 +18185,6 @@ add name="rheumaschuhe.de" address=0.0.0.0
 add name="rheumatologie-wien.at" address=0.0.0.0
 add name="rhinoshopsystems.com" address=0.0.0.0
 add name="rhode.co.at" address=0.0.0.0
-add name="rhodeshotel24.com" address=0.0.0.0
 add name="rhombusads.com" address=0.0.0.0
 add name="rhythmone.com" address=0.0.0.0
 add name="ri-lieeoodu.com" address=0.0.0.0
@@ -18335,6 +18334,7 @@ add name="roinvest.net" address=0.0.0.0
 add name="rok.com.com" address=0.0.0.0
 add name="roleo.net" address=0.0.0.0
 add name="rolex-replica.to" address=0.0.0.0
+add name="rolexwanduhr.de" address=0.0.0.0
 add name="rolexyeals.com" address=0.0.0.0
 add name="rolla.store" address=0.0.0.0
 add name="rolladen-rudolf.at" address=0.0.0.0
@@ -22806,6 +22806,7 @@ add name="vivads.net" address=0.0.0.0
 add name="vivagopro.com" address=0.0.0.0
 add name="vivaharmoni.com" address=0.0.0.0
 add name="vivaia-schuhe.de" address=0.0.0.0
+add name="vivaiacollection.com" address=0.0.0.0
 add name="vivaiaschuhe.at" address=0.0.0.0
 add name="vivaiaschuhe.com" address=0.0.0.0
 add name="vivaiaschuhe.de" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-18 02:20:13
-# Total Domains: 24,077
+# Last Updated: 2026-10-19 02:35:05
+# Total Domains: 24,078
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -5571,6 +5571,7 @@ HOST-SUFFIX,cstat.apple.com.edgesuite.net,reject
 HOST-SUFFIX,cstat.cdn-apple.com,reject
 HOST-SUFFIX,cstat.g.aaplimg.com,reject
 HOST-SUFFIX,csunbox.com,reject
+HOST-SUFFIX,ctbike.pl,reject
 HOST-SUFFIX,cthesky.com,reject
 HOST-SUFFIX,ctoption.com,reject
 HOST-SUFFIX,ctxholdings.com,reject
@@ -14283,7 +14284,6 @@ HOST-SUFFIX,mfsebike.com,reject
 HOST-SUFFIX,mg-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,mg-management.de,reject
 HOST-SUFFIX,mg2connext.com,reject
-HOST-SUFFIX,mgaffaires.com,reject
 HOST-SUFFIX,mgid.com,reject
 HOST-SUFFIX,mgmglobal.com,reject
 HOST-SUFFIX,mhamzasaleem.com,reject
@@ -18184,7 +18184,6 @@ HOST-SUFFIX,rheumaschuhe.de,reject
 HOST-SUFFIX,rheumatologie-wien.at,reject
 HOST-SUFFIX,rhinoshopsystems.com,reject
 HOST-SUFFIX,rhode.co.at,reject
-HOST-SUFFIX,rhodeshotel24.com,reject
 HOST-SUFFIX,rhombusads.com,reject
 HOST-SUFFIX,rhythmone.com,reject
 HOST-SUFFIX,ri-lieeoodu.com,reject
@@ -18334,6 +18333,7 @@ HOST-SUFFIX,roinvest.net,reject
 HOST-SUFFIX,rok.com.com,reject
 HOST-SUFFIX,roleo.net,reject
 HOST-SUFFIX,rolex-replica.to,reject
+HOST-SUFFIX,rolexwanduhr.de,reject
 HOST-SUFFIX,rolexyeals.com,reject
 HOST-SUFFIX,rolla.store,reject
 HOST-SUFFIX,rolladen-rudolf.at,reject
@@ -22805,6 +22805,7 @@ HOST-SUFFIX,vivads.net,reject
 HOST-SUFFIX,vivagopro.com,reject
 HOST-SUFFIX,vivaharmoni.com,reject
 HOST-SUFFIX,vivaia-schuhe.de,reject
+HOST-SUFFIX,vivaiacollection.com,reject
 HOST-SUFFIX,vivaiaschuhe.at,reject
 HOST-SUFFIX,vivaiaschuhe.com,reject
 HOST-SUFFIX,vivaiaschuhe.de,reject

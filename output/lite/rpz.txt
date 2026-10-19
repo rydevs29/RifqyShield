@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-18 02:20:13
-# Total Domains: 24,077
+# Last Updated: 2026-10-19 02:35:05
+# Total Domains: 24,078
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -5571,6 +5571,7 @@ cstat.apple.com.edgesuite.net CNAME .
 cstat.cdn-apple.com CNAME .
 cstat.g.aaplimg.com CNAME .
 csunbox.com CNAME .
+ctbike.pl CNAME .
 cthesky.com CNAME .
 ctoption.com CNAME .
 ctxholdings.com CNAME .
@@ -14283,7 +14284,6 @@ mfsebike.com CNAME .
 mg-ad-lgsmartad-com.aws-prd.net CNAME .
 mg-management.de CNAME .
 mg2connext.com CNAME .
-mgaffaires.com CNAME .
 mgid.com CNAME .
 mgmglobal.com CNAME .
 mhamzasaleem.com CNAME .
@@ -18184,7 +18184,6 @@ rheumaschuhe.de CNAME .
 rheumatologie-wien.at CNAME .
 rhinoshopsystems.com CNAME .
 rhode.co.at CNAME .
-rhodeshotel24.com CNAME .
 rhombusads.com CNAME .
 rhythmone.com CNAME .
 ri-lieeoodu.com CNAME .
@@ -18334,6 +18333,7 @@ roinvest.net CNAME .
 rok.com.com CNAME .
 roleo.net CNAME .
 rolex-replica.to CNAME .
+rolexwanduhr.de CNAME .
 rolexyeals.com CNAME .
 rolla.store CNAME .
 rolladen-rudolf.at CNAME .
@@ -22805,6 +22805,7 @@ vivads.net CNAME .
 vivagopro.com CNAME .
 vivaharmoni.com CNAME .
 vivaia-schuhe.de CNAME .
+vivaiacollection.com CNAME .
 vivaiaschuhe.at CNAME .
 vivaiaschuhe.com CNAME .
 vivaiaschuhe.de CNAME .
