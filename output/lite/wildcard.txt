@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-19 02:35:05
-# Total Domains: 24,078
+# Last Updated: 2026-10-20 02:47:35
+# Total Domains: 24,083
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -2078,7 +2078,6 @@
 *.apo-rezeptfrei.com
 *.apolloprogram.io
 *.apollus24.com.com
-*.apotek-no24.com
 *.apotek-norge24.com
 *.apotek-norsk.com
 *.apotekb213.com
@@ -2429,6 +2428,7 @@
 *.atbh.toygzv.shop
 *.atdasjournal.com
 *.atdmt.com
+*.atelier-romand.com
 *.atelierdudiamant.com
 *.atelierhardanger.com
 *.atelierkitzbuehel.at
@@ -3024,6 +3024,7 @@
 *.beacon.gu-web.net
 *.beacon.netflix.com
 *.beacon.shazam.com
+*.beacon.viafoura.io
 *.beacons.gcp.gvt2.com
 *.beacons.gvt2.com
 *.beacons.trafficmanager.net
@@ -3147,6 +3148,7 @@
 *.beratify.de
 *.beratungfuerpflege.de
 *.bercasa.de
+*.berg-blum.de
 *.berg-mode.de
 *.bergandlind.com
 *.bergcycle.com
@@ -3269,7 +3271,6 @@
 *.bestellen-ciao-ciao-pf.de
 *.bestellundgut.de
 *.bestelnuar.click
-*.bestemed.com
 *.bestemedikamente.com
 *.bestenwahl.de
 *.besteonlineapotheke.com
@@ -3432,6 +3433,7 @@
 *.bigstoregaming.com
 *.bigworldfashion.com
 *.bike-trailer24.de
+*.bike2bikes.com
 *.bike69-shop.de
 *.bikeambulanz-mobil.de
 *.bikeanbauteile.com
@@ -3566,6 +3568,7 @@
 *.bitcoin-everest-ai.fr
 *.bitcoin-pharmacy.com
 *.bitcoin-revolution.org
+*.bitcoin-up.io
 *.bitcoin-xact.fr
 *.bitcoinarchon.com
 *.bitcoineer.ai
@@ -4184,6 +4187,7 @@
 *.by-olana.com
 *.by-olivia.com
 *.by-rdx2-lgtvsdp-com.aws-prd.net
+*.bybiesje.com
 *.bybitbaltic.info
 *.bycheri.de
 *.bycicle.net
@@ -4473,7 +4477,6 @@
 *.casualstreet.de
 *.cat2fip.co
 *.catalia.de
-*.catalunyafarm.com
 *.catatic.de
 *.cateringvogue.com
 *.caterpillar-finland.com
@@ -5397,7 +5400,6 @@
 *.costext.com
 *.cota-service-sg.allawnos.com
 *.cotige.com
-*.cotosen.com
 *.cotovip.com
 *.cotsrabatt.de
 *.cottagoshop.com
@@ -5537,7 +5539,6 @@
 *.cryptobullbear.com
 *.cryptocase.online
 *.cryptocash24.com
-*.cryptoeasily.com
 *.cryptofast.net
 *.cryptofundfx.com
 *.cryptomoney888.com
@@ -6256,7 +6257,6 @@
 *.dianjingniu-online.com
 *.dianomi.com
 *.diantrag.com
-*.diaryofafitmommy.com
 *.dicamgruppe.de
 *.dicha-anhaenger.com
 *.dicha-bike.com
@@ -6825,7 +6825,6 @@
 *.ecstasy-baby.net
 *.ecxtrade.com
 *.ed-apotheke.de
-*.ed-hrvatski.com
 *.edaa.eu
 *.edapotheke.store
 *.edavo.de
@@ -7413,7 +7412,6 @@
 *.europaischeapotheke.com
 *.europalettenmoebel.de
 *.europe-pack.eu
-*.europe-pharm.com
 *.europe-pimco.com
 *.european-pharmacy.online
 *.europeangeneric.com
@@ -7439,7 +7437,6 @@
 *.eusuperstores.com
 *.euvalentinogaravani.de
 *.euvendorshub.online
-*.euvitafarm.com
 *.ev-farm.com
 *.evaam.de
 *.evadav.com
@@ -7972,7 +7969,6 @@
 *.fiduciacarepartners.com
 *.fiduciaops.com
 *.fieldfurnish.com
-*.fiercehealthfinance.com
 *.fiesefalle.de
 *.fightfairtex.com
 *.fightsolong.com
@@ -8047,7 +8043,6 @@
 *.fineweine.com
 *.finewineaccess.com
 *.finkerkette.de
-*.finmaxbo.com
 *.finnexbot.com
 *.finnflarede.shop
 *.finosfin.com
@@ -9058,7 +9053,6 @@
 *.get-adel.de
 *.get-airzuma.com
 *.get-airzuma.topashopo.com
-*.get-akusoli.com
 *.get-coolizicoolzy.store
 *.get-curaball.com
 *.get-epicooler.com
@@ -9344,7 +9338,6 @@
 *.goldenngoosee.com
 *.goldenpandacasino-online.de
 *.goldenpassmedia.com
-*.goldenpump.de
 *.goldenretrievervompfarrgarten.de
 *.golderstarbeer.com
 *.goldhandel-degussa.com
@@ -9729,7 +9722,6 @@
 *.hagebauu.com
 *.hagedornmode.de
 *.hagement.com
-*.hagezi.com
 *.haglofsoutletsuomi.com
 *.hagomann.de
 *.hahaiamandy.com
@@ -10022,6 +10014,7 @@
 *.heimwerkzeugesde.com
 *.heinen-klimahaus.myshopify.com
 *.heinrich-baumarkt.com
+*.heinrich-handel.com
 *.heisehaus.com
 *.heisen-handels.de
 *.heisenberg24.com
@@ -10263,7 +10256,6 @@
 *.highbroker.com
 *.highbtcstock.com
 *.highjel.com
-*.highlandshotels.net
 *.highluxury.sk
 *.highluxurystore.co
 *.highnoongear.com
@@ -10570,7 +10562,6 @@
 *.hotels-colombo.com
 *.hotelsinperm.ru
 *.hotelsinvienna.org
-*.hotelsofmenorca.com
 *.hotelwareus.com
 *.hotelwhales.com
 *.hotix.de
@@ -10714,7 +10705,6 @@
 *.hypelaced.co
 *.hyper-pools.com
 *.hyperbanner.net
-*.hyperstech.com
 *.hypertracker.com
 *.hyperx-pool.com
 *.hypescrape.com
@@ -11705,6 +11695,7 @@
 *.kamagra-premium.net
 *.kamagra-pro.com
 *.kamagra-pro.net
+*.kamagra-pro.online
 *.kamagra-prodej-levne.cz
 *.kamagra-prodej.cz
 *.kamagra-prodej.online
@@ -15082,7 +15073,6 @@
 *.muvena-mode.com
 *.muwmedia.com
 *.muzam.de
-*.muzenaudio.com
 *.mvfurs.com
 *.mvhulvrd.shop
 *.mvleingarten.de
@@ -15487,6 +15477,7 @@
 *.nibeguq.com
 *.nicechmk.shop
 *.nicedoc.co
+*.nicetossyhn.click
 *.nichespares.com
 *.nicheten.com
 *.nicikuscheltiere.com
@@ -16493,6 +16484,14 @@
 *.p16-tiktok-ads-sg.tiktokcdn.com
 *.p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 *.p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
+*.p16-ttam-sg.ibyteimg.com
+*.p16-ttam-va.ibyteimg.com
+*.p16-ttam-va.tiktokcdn.com
+*.p16-ttam.tiktokcdn-us.com
+*.p19-ttam-sg.ibyteimg.com
+*.p19-ttam-va.ibyteimg.com
+*.p19-ttam-va.tiktokcdn.com
+*.p19-ttam.tiktokcdn-us.com
 *.p7cloud.net
 *.pa-ad-lgsmartad-com.aws-prd.net
 *.paa-reporting-advertising.amazon
@@ -16865,6 +16864,7 @@
 *.phamstoretcg.de
 *.pharm-24h.com
 *.pharm-discount.com
+*.pharm-discounter.com
 *.pharma-cards.de
 *.pharma-euro.com
 *.pharma-versandhandel.de
@@ -18615,6 +18615,7 @@
 *.rw-ad-lgsmartad-com.aws-prd.net
 *.rwcstore.com
 *.rx-budapest.com
+*.rx-discount.com
 *.rx-pharma.net
 *.rx-pharmacies.com
 *.rx-qualityshop.com
@@ -18884,6 +18885,7 @@
 *.saradhagroup.com
 *.sarahmeyer.com
 *.sarahravengb.com
+*.sarahrmeyer.com
 *.saramaud.com
 *.sarasohaus.com
 *.sarl-castelmag.com
@@ -19334,6 +19336,7 @@
 *.shinyflakes.de
 *.shinystat.com
 *.shinystat.it
+*.shipafreight.com
 *.shippills.com
 *.shirem.com
 *.shirteu365.com
@@ -19660,6 +19663,7 @@
 *.skysupp.com
 *.skyvault.ltd
 *.sl-ad-lgsmartad-com.aws-prd.net
+*.sl-handel.de
 *.sl-leasinggesmbh.at
 *.slavianstore.com
 *.slb-apisnd-in.heytapmobile.com
@@ -22122,6 +22126,9 @@
 *.ug-ad-lgsmartad-com.aws-prd.net
 *.ug-sg.byteoversea.com
 *.ug.snssdk.com
+*.ugattribution-i18n.tiktokv.com
+*.ugattribution-ru.tiktokv.com
+*.ugattribution-sg.tiktokv.com
 *.uggat.at
 *.uggfans.myshoplaza.com
 *.uggonline.myshoplaza.com
@@ -22805,7 +22812,6 @@
 *.vivagopro.com
 *.vivaharmoni.com
 *.vivaia-schuhe.de
-*.vivaiacollection.com
 *.vivaiaschuhe.at
 *.vivaiaschuhe.com
 *.vivaiaschuhe.de
@@ -23800,7 +23806,6 @@
 *.yonexdeutschland.de
 *.yonexs.at
 *.yoocaa.com
-*.yoohal.com
 *.yooofa.com
 *.yootet.com
 *.yorkbootsshop.de

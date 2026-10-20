@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-19 02:35:05
-# Total Domains: 24,078
+# Last Updated: 2026-10-20 02:47:35
+# Total Domains: 24,083
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -2079,7 +2079,6 @@ add name="apo-order-online.com" address=0.0.0.0
 add name="apo-rezeptfrei.com" address=0.0.0.0
 add name="apolloprogram.io" address=0.0.0.0
 add name="apollus24.com.com" address=0.0.0.0
-add name="apotek-no24.com" address=0.0.0.0
 add name="apotek-norge24.com" address=0.0.0.0
 add name="apotek-norsk.com" address=0.0.0.0
 add name="apotekb213.com" address=0.0.0.0
@@ -2430,6 +2429,7 @@ add name="ataspec.org" address=0.0.0.0
 add name="atbh.toygzv.shop" address=0.0.0.0
 add name="atdasjournal.com" address=0.0.0.0
 add name="atdmt.com" address=0.0.0.0
+add name="atelier-romand.com" address=0.0.0.0
 add name="atelierdudiamant.com" address=0.0.0.0
 add name="atelierhardanger.com" address=0.0.0.0
 add name="atelierkitzbuehel.at" address=0.0.0.0
@@ -3025,6 +3025,7 @@ add name="beachsissi.com" address=0.0.0.0
 add name="beacon.gu-web.net" address=0.0.0.0
 add name="beacon.netflix.com" address=0.0.0.0
 add name="beacon.shazam.com" address=0.0.0.0
+add name="beacon.viafoura.io" address=0.0.0.0
 add name="beacons.gcp.gvt2.com" address=0.0.0.0
 add name="beacons.gvt2.com" address=0.0.0.0
 add name="beacons.trafficmanager.net" address=0.0.0.0
@@ -3148,6 +3149,7 @@ add name="berando.de" address=0.0.0.0
 add name="beratify.de" address=0.0.0.0
 add name="beratungfuerpflege.de" address=0.0.0.0
 add name="bercasa.de" address=0.0.0.0
+add name="berg-blum.de" address=0.0.0.0
 add name="berg-mode.de" address=0.0.0.0
 add name="bergandlind.com" address=0.0.0.0
 add name="bergcycle.com" address=0.0.0.0
@@ -3270,7 +3272,6 @@ add name="bestelektronicshop.de" address=0.0.0.0
 add name="bestellen-ciao-ciao-pf.de" address=0.0.0.0
 add name="bestellundgut.de" address=0.0.0.0
 add name="bestelnuar.click" address=0.0.0.0
-add name="bestemed.com" address=0.0.0.0
 add name="bestemedikamente.com" address=0.0.0.0
 add name="bestenwahl.de" address=0.0.0.0
 add name="besteonlineapotheke.com" address=0.0.0.0
@@ -3433,6 +3434,7 @@ add name="bigsofasde.de" address=0.0.0.0
 add name="bigstoregaming.com" address=0.0.0.0
 add name="bigworldfashion.com" address=0.0.0.0
 add name="bike-trailer24.de" address=0.0.0.0
+add name="bike2bikes.com" address=0.0.0.0
 add name="bike69-shop.de" address=0.0.0.0
 add name="bikeambulanz-mobil.de" address=0.0.0.0
 add name="bikeanbauteile.com" address=0.0.0.0
@@ -3567,6 +3569,7 @@ add name="bitcodeprime.org" address=0.0.0.0
 add name="bitcoin-everest-ai.fr" address=0.0.0.0
 add name="bitcoin-pharmacy.com" address=0.0.0.0
 add name="bitcoin-revolution.org" address=0.0.0.0
+add name="bitcoin-up.io" address=0.0.0.0
 add name="bitcoin-xact.fr" address=0.0.0.0
 add name="bitcoinarchon.com" address=0.0.0.0
 add name="bitcoineer.ai" address=0.0.0.0
@@ -4185,6 +4188,7 @@ add name="by-lina.de" address=0.0.0.0
 add name="by-olana.com" address=0.0.0.0
 add name="by-olivia.com" address=0.0.0.0
 add name="by-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
+add name="bybiesje.com" address=0.0.0.0
 add name="bybitbaltic.info" address=0.0.0.0
 add name="bycheri.de" address=0.0.0.0
 add name="bycicle.net" address=0.0.0.0
@@ -4474,7 +4478,6 @@ add name="casualstore77.de" address=0.0.0.0
 add name="casualstreet.de" address=0.0.0.0
 add name="cat2fip.co" address=0.0.0.0
 add name="catalia.de" address=0.0.0.0
-add name="catalunyafarm.com" address=0.0.0.0
 add name="catatic.de" address=0.0.0.0
 add name="cateringvogue.com" address=0.0.0.0
 add name="caterpillar-finland.com" address=0.0.0.0
@@ -5398,7 +5401,6 @@ add name="cosplayverkauf.com" address=0.0.0.0
 add name="costext.com" address=0.0.0.0
 add name="cota-service-sg.allawnos.com" address=0.0.0.0
 add name="cotige.com" address=0.0.0.0
-add name="cotosen.com" address=0.0.0.0
 add name="cotovip.com" address=0.0.0.0
 add name="cotsrabatt.de" address=0.0.0.0
 add name="cottagoshop.com" address=0.0.0.0
@@ -5538,7 +5540,6 @@ add name="cryptoassetscontrol.com" address=0.0.0.0
 add name="cryptobullbear.com" address=0.0.0.0
 add name="cryptocase.online" address=0.0.0.0
 add name="cryptocash24.com" address=0.0.0.0
-add name="cryptoeasily.com" address=0.0.0.0
 add name="cryptofast.net" address=0.0.0.0
 add name="cryptofundfx.com" address=0.0.0.0
 add name="cryptomoney888.com" address=0.0.0.0
@@ -6257,7 +6258,6 @@ add name="diandrabeauty.xyz" address=0.0.0.0
 add name="dianjingniu-online.com" address=0.0.0.0
 add name="dianomi.com" address=0.0.0.0
 add name="diantrag.com" address=0.0.0.0
-add name="diaryofafitmommy.com" address=0.0.0.0
 add name="dicamgruppe.de" address=0.0.0.0
 add name="dicha-anhaenger.com" address=0.0.0.0
 add name="dicha-bike.com" address=0.0.0.0
@@ -6826,7 +6826,6 @@ add name="ecs-solutions.net" address=0.0.0.0
 add name="ecstasy-baby.net" address=0.0.0.0
 add name="ecxtrade.com" address=0.0.0.0
 add name="ed-apotheke.de" address=0.0.0.0
-add name="ed-hrvatski.com" address=0.0.0.0
 add name="edaa.eu" address=0.0.0.0
 add name="edapotheke.store" address=0.0.0.0
 add name="edavo.de" address=0.0.0.0
@@ -7414,7 +7413,6 @@ add name="europaeisches-treuhandkontor.com" address=0.0.0.0
 add name="europaischeapotheke.com" address=0.0.0.0
 add name="europalettenmoebel.de" address=0.0.0.0
 add name="europe-pack.eu" address=0.0.0.0
-add name="europe-pharm.com" address=0.0.0.0
 add name="europe-pimco.com" address=0.0.0.0
 add name="european-pharmacy.online" address=0.0.0.0
 add name="europeangeneric.com" address=0.0.0.0
@@ -7440,7 +7438,6 @@ add name="eusta.de" address=0.0.0.0
 add name="eusuperstores.com" address=0.0.0.0
 add name="euvalentinogaravani.de" address=0.0.0.0
 add name="euvendorshub.online" address=0.0.0.0
-add name="euvitafarm.com" address=0.0.0.0
 add name="ev-farm.com" address=0.0.0.0
 add name="evaam.de" address=0.0.0.0
 add name="evadav.com" address=0.0.0.0
@@ -7973,7 +7970,6 @@ add name="fidsonline.org" address=0.0.0.0
 add name="fiduciacarepartners.com" address=0.0.0.0
 add name="fiduciaops.com" address=0.0.0.0
 add name="fieldfurnish.com" address=0.0.0.0
-add name="fiercehealthfinance.com" address=0.0.0.0
 add name="fiesefalle.de" address=0.0.0.0
 add name="fightfairtex.com" address=0.0.0.0
 add name="fightsolong.com" address=0.0.0.0
@@ -8048,7 +8044,6 @@ add name="finetoolstore.com" address=0.0.0.0
 add name="fineweine.com" address=0.0.0.0
 add name="finewineaccess.com" address=0.0.0.0
 add name="finkerkette.de" address=0.0.0.0
-add name="finmaxbo.com" address=0.0.0.0
 add name="finnexbot.com" address=0.0.0.0
 add name="finnflarede.shop" address=0.0.0.0
 add name="finosfin.com" address=0.0.0.0
@@ -9059,7 +9054,6 @@ add name="gesundundklar.com" address=0.0.0.0
 add name="get-adel.de" address=0.0.0.0
 add name="get-airzuma.com" address=0.0.0.0
 add name="get-airzuma.topashopo.com" address=0.0.0.0
-add name="get-akusoli.com" address=0.0.0.0
 add name="get-coolizicoolzy.store" address=0.0.0.0
 add name="get-curaball.com" address=0.0.0.0
 add name="get-epicooler.com" address=0.0.0.0
@@ -9345,7 +9339,6 @@ add name="goldengoosesale.at" address=0.0.0.0
 add name="goldenngoosee.com" address=0.0.0.0
 add name="goldenpandacasino-online.de" address=0.0.0.0
 add name="goldenpassmedia.com" address=0.0.0.0
-add name="goldenpump.de" address=0.0.0.0
 add name="goldenretrievervompfarrgarten.de" address=0.0.0.0
 add name="golderstarbeer.com" address=0.0.0.0
 add name="goldhandel-degussa.com" address=0.0.0.0
@@ -9730,7 +9723,6 @@ add name="haert.org" address=0.0.0.0
 add name="hagebauu.com" address=0.0.0.0
 add name="hagedornmode.de" address=0.0.0.0
 add name="hagement.com" address=0.0.0.0
-add name="hagezi.com" address=0.0.0.0
 add name="haglofsoutletsuomi.com" address=0.0.0.0
 add name="hagomann.de" address=0.0.0.0
 add name="hahaiamandy.com" address=0.0.0.0
@@ -10023,6 +10015,7 @@ add name="heimwerkende.de" address=0.0.0.0
 add name="heimwerkzeugesde.com" address=0.0.0.0
 add name="heinen-klimahaus.myshopify.com" address=0.0.0.0
 add name="heinrich-baumarkt.com" address=0.0.0.0
+add name="heinrich-handel.com" address=0.0.0.0
 add name="heisehaus.com" address=0.0.0.0
 add name="heisen-handels.de" address=0.0.0.0
 add name="heisenberg24.com" address=0.0.0.0
@@ -10264,7 +10257,6 @@ add name="high-quality-model.com" address=0.0.0.0
 add name="highbroker.com" address=0.0.0.0
 add name="highbtcstock.com" address=0.0.0.0
 add name="highjel.com" address=0.0.0.0
-add name="highlandshotels.net" address=0.0.0.0
 add name="highluxury.sk" address=0.0.0.0
 add name="highluxurystore.co" address=0.0.0.0
 add name="highnoongear.com" address=0.0.0.0
@@ -10571,7 +10563,6 @@ add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotelsinperm.ru" address=0.0.0.0
 add name="hotelsinvienna.org" address=0.0.0.0
-add name="hotelsofmenorca.com" address=0.0.0.0
 add name="hotelwareus.com" address=0.0.0.0
 add name="hotelwhales.com" address=0.0.0.0
 add name="hotix.de" address=0.0.0.0
@@ -10715,7 +10706,6 @@ add name="hypedrip.top" address=0.0.0.0
 add name="hypelaced.co" address=0.0.0.0
 add name="hyper-pools.com" address=0.0.0.0
 add name="hyperbanner.net" address=0.0.0.0
-add name="hyperstech.com" address=0.0.0.0
 add name="hypertracker.com" address=0.0.0.0
 add name="hyperx-pool.com" address=0.0.0.0
 add name="hypescrape.com" address=0.0.0.0
@@ -11706,6 +11696,7 @@ add name="kamagra-original.sk" address=0.0.0.0
 add name="kamagra-premium.net" address=0.0.0.0
 add name="kamagra-pro.com" address=0.0.0.0
 add name="kamagra-pro.net" address=0.0.0.0
+add name="kamagra-pro.online" address=0.0.0.0
 add name="kamagra-prodej-levne.cz" address=0.0.0.0
 add name="kamagra-prodej.cz" address=0.0.0.0
 add name="kamagra-prodej.online" address=0.0.0.0
@@ -15083,7 +15074,6 @@ add name="muttermode.de" address=0.0.0.0
 add name="muvena-mode.com" address=0.0.0.0
 add name="muwmedia.com" address=0.0.0.0
 add name="muzam.de" address=0.0.0.0
-add name="muzenaudio.com" address=0.0.0.0
 add name="mvfurs.com" address=0.0.0.0
 add name="mvhulvrd.shop" address=0.0.0.0
 add name="mvleingarten.de" address=0.0.0.0
@@ -15488,6 +15478,7 @@ add name="niazm.com" address=0.0.0.0
 add name="nibeguq.com" address=0.0.0.0
 add name="nicechmk.shop" address=0.0.0.0
 add name="nicedoc.co" address=0.0.0.0
+add name="nicetossyhn.click" address=0.0.0.0
 add name="nichespares.com" address=0.0.0.0
 add name="nicheten.com" address=0.0.0.0
 add name="nicikuscheltiere.com" address=0.0.0.0
@@ -16494,6 +16485,14 @@ add name="p16-ad.byteoversea.com" address=0.0.0.0
 add name="p16-tiktok-ads-sg.tiktokcdn.com" address=0.0.0.0
 add name="p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net" address=0.0.0.0
 add name="p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net" address=0.0.0.0
+add name="p16-ttam-sg.ibyteimg.com" address=0.0.0.0
+add name="p16-ttam-va.ibyteimg.com" address=0.0.0.0
+add name="p16-ttam-va.tiktokcdn.com" address=0.0.0.0
+add name="p16-ttam.tiktokcdn-us.com" address=0.0.0.0
+add name="p19-ttam-sg.ibyteimg.com" address=0.0.0.0
+add name="p19-ttam-va.ibyteimg.com" address=0.0.0.0
+add name="p19-ttam-va.tiktokcdn.com" address=0.0.0.0
+add name="p19-ttam.tiktokcdn-us.com" address=0.0.0.0
 add name="p7cloud.net" address=0.0.0.0
 add name="pa-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="paa-reporting-advertising.amazon" address=0.0.0.0
@@ -16866,6 +16865,7 @@ add name="phaidon-online.shop" address=0.0.0.0
 add name="phamstoretcg.de" address=0.0.0.0
 add name="pharm-24h.com" address=0.0.0.0
 add name="pharm-discount.com" address=0.0.0.0
+add name="pharm-discounter.com" address=0.0.0.0
 add name="pharma-cards.de" address=0.0.0.0
 add name="pharma-euro.com" address=0.0.0.0
 add name="pharma-versandhandel.de" address=0.0.0.0
@@ -18616,6 +18616,7 @@ add name="rvcajapan.net" address=0.0.0.0
 add name="rw-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="rwcstore.com" address=0.0.0.0
 add name="rx-budapest.com" address=0.0.0.0
+add name="rx-discount.com" address=0.0.0.0
 add name="rx-pharma.net" address=0.0.0.0
 add name="rx-pharmacies.com" address=0.0.0.0
 add name="rx-qualityshop.com" address=0.0.0.0
@@ -18885,6 +18886,7 @@ add name="sara-berlin.com" address=0.0.0.0
 add name="saradhagroup.com" address=0.0.0.0
 add name="sarahmeyer.com" address=0.0.0.0
 add name="sarahravengb.com" address=0.0.0.0
+add name="sarahrmeyer.com" address=0.0.0.0
 add name="saramaud.com" address=0.0.0.0
 add name="sarasohaus.com" address=0.0.0.0
 add name="sarl-castelmag.com" address=0.0.0.0
@@ -19335,6 +19337,7 @@ add name="shingirl.de" address=0.0.0.0
 add name="shinyflakes.de" address=0.0.0.0
 add name="shinystat.com" address=0.0.0.0
 add name="shinystat.it" address=0.0.0.0
+add name="shipafreight.com" address=0.0.0.0
 add name="shippills.com" address=0.0.0.0
 add name="shirem.com" address=0.0.0.0
 add name="shirteu365.com" address=0.0.0.0
@@ -19661,6 +19664,7 @@ add name="skyrro.com" address=0.0.0.0
 add name="skysupp.com" address=0.0.0.0
 add name="skyvault.ltd" address=0.0.0.0
 add name="sl-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
+add name="sl-handel.de" address=0.0.0.0
 add name="sl-leasinggesmbh.at" address=0.0.0.0
 add name="slavianstore.com" address=0.0.0.0
 add name="slb-apisnd-in.heytapmobile.com" address=0.0.0.0
@@ -22123,6 +22127,9 @@ add name="ufolepbourgogne.org" address=0.0.0.0
 add name="ug-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ug-sg.byteoversea.com" address=0.0.0.0
 add name="ug.snssdk.com" address=0.0.0.0
+add name="ugattribution-i18n.tiktokv.com" address=0.0.0.0
+add name="ugattribution-ru.tiktokv.com" address=0.0.0.0
+add name="ugattribution-sg.tiktokv.com" address=0.0.0.0
 add name="uggat.at" address=0.0.0.0
 add name="uggfans.myshoplaza.com" address=0.0.0.0
 add name="uggonline.myshoplaza.com" address=0.0.0.0
@@ -22806,7 +22813,6 @@ add name="vivads.net" address=0.0.0.0
 add name="vivagopro.com" address=0.0.0.0
 add name="vivaharmoni.com" address=0.0.0.0
 add name="vivaia-schuhe.de" address=0.0.0.0
-add name="vivaiacollection.com" address=0.0.0.0
 add name="vivaiaschuhe.at" address=0.0.0.0
 add name="vivaiaschuhe.com" address=0.0.0.0
 add name="vivaiaschuhe.de" address=0.0.0.0
@@ -23801,7 +23807,6 @@ add name="yonexdeutschland.com" address=0.0.0.0
 add name="yonexdeutschland.de" address=0.0.0.0
 add name="yonexs.at" address=0.0.0.0
 add name="yoocaa.com" address=0.0.0.0
-add name="yoohal.com" address=0.0.0.0
 add name="yooofa.com" address=0.0.0.0
 add name="yootet.com" address=0.0.0.0
 add name="yorkbootsshop.de" address=0.0.0.0

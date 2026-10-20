@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-19 02:35:05
-# Total Domains: 24,078
+# Last Updated: 2026-10-20 02:47:35
+# Total Domains: 24,083
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -2080,7 +2080,6 @@
 0.0.0.0 apo-rezeptfrei.com
 0.0.0.0 apolloprogram.io
 0.0.0.0 apollus24.com.com
-0.0.0.0 apotek-no24.com
 0.0.0.0 apotek-norge24.com
 0.0.0.0 apotek-norsk.com
 0.0.0.0 apotekb213.com
@@ -2431,6 +2430,7 @@
 0.0.0.0 atbh.toygzv.shop
 0.0.0.0 atdasjournal.com
 0.0.0.0 atdmt.com
+0.0.0.0 atelier-romand.com
 0.0.0.0 atelierdudiamant.com
 0.0.0.0 atelierhardanger.com
 0.0.0.0 atelierkitzbuehel.at
@@ -3026,6 +3026,7 @@
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.shazam.com
+0.0.0.0 beacon.viafoura.io
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacons.trafficmanager.net
@@ -3149,6 +3150,7 @@
 0.0.0.0 beratify.de
 0.0.0.0 beratungfuerpflege.de
 0.0.0.0 bercasa.de
+0.0.0.0 berg-blum.de
 0.0.0.0 berg-mode.de
 0.0.0.0 bergandlind.com
 0.0.0.0 bergcycle.com
@@ -3271,7 +3273,6 @@
 0.0.0.0 bestellen-ciao-ciao-pf.de
 0.0.0.0 bestellundgut.de
 0.0.0.0 bestelnuar.click
-0.0.0.0 bestemed.com
 0.0.0.0 bestemedikamente.com
 0.0.0.0 bestenwahl.de
 0.0.0.0 besteonlineapotheke.com
@@ -3434,6 +3435,7 @@
 0.0.0.0 bigstoregaming.com
 0.0.0.0 bigworldfashion.com
 0.0.0.0 bike-trailer24.de
+0.0.0.0 bike2bikes.com
 0.0.0.0 bike69-shop.de
 0.0.0.0 bikeambulanz-mobil.de
 0.0.0.0 bikeanbauteile.com
@@ -3568,6 +3570,7 @@
 0.0.0.0 bitcoin-everest-ai.fr
 0.0.0.0 bitcoin-pharmacy.com
 0.0.0.0 bitcoin-revolution.org
+0.0.0.0 bitcoin-up.io
 0.0.0.0 bitcoin-xact.fr
 0.0.0.0 bitcoinarchon.com
 0.0.0.0 bitcoineer.ai
@@ -4186,6 +4189,7 @@
 0.0.0.0 by-olana.com
 0.0.0.0 by-olivia.com
 0.0.0.0 by-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 bybiesje.com
 0.0.0.0 bybitbaltic.info
 0.0.0.0 bycheri.de
 0.0.0.0 bycicle.net
@@ -4475,7 +4479,6 @@
 0.0.0.0 casualstreet.de
 0.0.0.0 cat2fip.co
 0.0.0.0 catalia.de
-0.0.0.0 catalunyafarm.com
 0.0.0.0 catatic.de
 0.0.0.0 cateringvogue.com
 0.0.0.0 caterpillar-finland.com
@@ -5399,7 +5402,6 @@
 0.0.0.0 costext.com
 0.0.0.0 cota-service-sg.allawnos.com
 0.0.0.0 cotige.com
-0.0.0.0 cotosen.com
 0.0.0.0 cotovip.com
 0.0.0.0 cotsrabatt.de
 0.0.0.0 cottagoshop.com
@@ -5539,7 +5541,6 @@
 0.0.0.0 cryptobullbear.com
 0.0.0.0 cryptocase.online
 0.0.0.0 cryptocash24.com
-0.0.0.0 cryptoeasily.com
 0.0.0.0 cryptofast.net
 0.0.0.0 cryptofundfx.com
 0.0.0.0 cryptomoney888.com
@@ -6258,7 +6259,6 @@
 0.0.0.0 dianjingniu-online.com
 0.0.0.0 dianomi.com
 0.0.0.0 diantrag.com
-0.0.0.0 diaryofafitmommy.com
 0.0.0.0 dicamgruppe.de
 0.0.0.0 dicha-anhaenger.com
 0.0.0.0 dicha-bike.com
@@ -6827,7 +6827,6 @@
 0.0.0.0 ecstasy-baby.net
 0.0.0.0 ecxtrade.com
 0.0.0.0 ed-apotheke.de
-0.0.0.0 ed-hrvatski.com
 0.0.0.0 edaa.eu
 0.0.0.0 edapotheke.store
 0.0.0.0 edavo.de
@@ -7415,7 +7414,6 @@
 0.0.0.0 europaischeapotheke.com
 0.0.0.0 europalettenmoebel.de
 0.0.0.0 europe-pack.eu
-0.0.0.0 europe-pharm.com
 0.0.0.0 europe-pimco.com
 0.0.0.0 european-pharmacy.online
 0.0.0.0 europeangeneric.com
@@ -7441,7 +7439,6 @@
 0.0.0.0 eusuperstores.com
 0.0.0.0 euvalentinogaravani.de
 0.0.0.0 euvendorshub.online
-0.0.0.0 euvitafarm.com
 0.0.0.0 ev-farm.com
 0.0.0.0 evaam.de
 0.0.0.0 evadav.com
@@ -7974,7 +7971,6 @@
 0.0.0.0 fiduciacarepartners.com
 0.0.0.0 fiduciaops.com
 0.0.0.0 fieldfurnish.com
-0.0.0.0 fiercehealthfinance.com
 0.0.0.0 fiesefalle.de
 0.0.0.0 fightfairtex.com
 0.0.0.0 fightsolong.com
@@ -8049,7 +8045,6 @@
 0.0.0.0 fineweine.com
 0.0.0.0 finewineaccess.com
 0.0.0.0 finkerkette.de
-0.0.0.0 finmaxbo.com
 0.0.0.0 finnexbot.com
 0.0.0.0 finnflarede.shop
 0.0.0.0 finosfin.com
@@ -9060,7 +9055,6 @@
 0.0.0.0 get-adel.de
 0.0.0.0 get-airzuma.com
 0.0.0.0 get-airzuma.topashopo.com
-0.0.0.0 get-akusoli.com
 0.0.0.0 get-coolizicoolzy.store
 0.0.0.0 get-curaball.com
 0.0.0.0 get-epicooler.com
@@ -9346,7 +9340,6 @@
 0.0.0.0 goldenngoosee.com
 0.0.0.0 goldenpandacasino-online.de
 0.0.0.0 goldenpassmedia.com
-0.0.0.0 goldenpump.de
 0.0.0.0 goldenretrievervompfarrgarten.de
 0.0.0.0 golderstarbeer.com
 0.0.0.0 goldhandel-degussa.com
@@ -9731,7 +9724,6 @@
 0.0.0.0 hagebauu.com
 0.0.0.0 hagedornmode.de
 0.0.0.0 hagement.com
-0.0.0.0 hagezi.com
 0.0.0.0 haglofsoutletsuomi.com
 0.0.0.0 hagomann.de
 0.0.0.0 hahaiamandy.com
@@ -10024,6 +10016,7 @@
 0.0.0.0 heimwerkzeugesde.com
 0.0.0.0 heinen-klimahaus.myshopify.com
 0.0.0.0 heinrich-baumarkt.com
+0.0.0.0 heinrich-handel.com
 0.0.0.0 heisehaus.com
 0.0.0.0 heisen-handels.de
 0.0.0.0 heisenberg24.com
@@ -10265,7 +10258,6 @@
 0.0.0.0 highbroker.com
 0.0.0.0 highbtcstock.com
 0.0.0.0 highjel.com
-0.0.0.0 highlandshotels.net
 0.0.0.0 highluxury.sk
 0.0.0.0 highluxurystore.co
 0.0.0.0 highnoongear.com
@@ -10572,7 +10564,6 @@
 0.0.0.0 hotels-colombo.com
 0.0.0.0 hotelsinperm.ru
 0.0.0.0 hotelsinvienna.org
-0.0.0.0 hotelsofmenorca.com
 0.0.0.0 hotelwareus.com
 0.0.0.0 hotelwhales.com
 0.0.0.0 hotix.de
@@ -10716,7 +10707,6 @@
 0.0.0.0 hypelaced.co
 0.0.0.0 hyper-pools.com
 0.0.0.0 hyperbanner.net
-0.0.0.0 hyperstech.com
 0.0.0.0 hypertracker.com
 0.0.0.0 hyperx-pool.com
 0.0.0.0 hypescrape.com
@@ -11707,6 +11697,7 @@
 0.0.0.0 kamagra-premium.net
 0.0.0.0 kamagra-pro.com
 0.0.0.0 kamagra-pro.net
+0.0.0.0 kamagra-pro.online
 0.0.0.0 kamagra-prodej-levne.cz
 0.0.0.0 kamagra-prodej.cz
 0.0.0.0 kamagra-prodej.online
@@ -15084,7 +15075,6 @@
 0.0.0.0 muvena-mode.com
 0.0.0.0 muwmedia.com
 0.0.0.0 muzam.de
-0.0.0.0 muzenaudio.com
 0.0.0.0 mvfurs.com
 0.0.0.0 mvhulvrd.shop
 0.0.0.0 mvleingarten.de
@@ -15489,6 +15479,7 @@
 0.0.0.0 nibeguq.com
 0.0.0.0 nicechmk.shop
 0.0.0.0 nicedoc.co
+0.0.0.0 nicetossyhn.click
 0.0.0.0 nichespares.com
 0.0.0.0 nicheten.com
 0.0.0.0 nicikuscheltiere.com
@@ -16495,6 +16486,14 @@
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
+0.0.0.0 p16-ttam-sg.ibyteimg.com
+0.0.0.0 p16-ttam-va.ibyteimg.com
+0.0.0.0 p16-ttam-va.tiktokcdn.com
+0.0.0.0 p16-ttam.tiktokcdn-us.com
+0.0.0.0 p19-ttam-sg.ibyteimg.com
+0.0.0.0 p19-ttam-va.ibyteimg.com
+0.0.0.0 p19-ttam-va.tiktokcdn.com
+0.0.0.0 p19-ttam.tiktokcdn-us.com
 0.0.0.0 p7cloud.net
 0.0.0.0 pa-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 paa-reporting-advertising.amazon
@@ -16867,6 +16866,7 @@
 0.0.0.0 phamstoretcg.de
 0.0.0.0 pharm-24h.com
 0.0.0.0 pharm-discount.com
+0.0.0.0 pharm-discounter.com
 0.0.0.0 pharma-cards.de
 0.0.0.0 pharma-euro.com
 0.0.0.0 pharma-versandhandel.de
@@ -18617,6 +18617,7 @@
 0.0.0.0 rw-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 rwcstore.com
 0.0.0.0 rx-budapest.com
+0.0.0.0 rx-discount.com
 0.0.0.0 rx-pharma.net
 0.0.0.0 rx-pharmacies.com
 0.0.0.0 rx-qualityshop.com
@@ -18886,6 +18887,7 @@
 0.0.0.0 saradhagroup.com
 0.0.0.0 sarahmeyer.com
 0.0.0.0 sarahravengb.com
+0.0.0.0 sarahrmeyer.com
 0.0.0.0 saramaud.com
 0.0.0.0 sarasohaus.com
 0.0.0.0 sarl-castelmag.com
@@ -19336,6 +19338,7 @@
 0.0.0.0 shinyflakes.de
 0.0.0.0 shinystat.com
 0.0.0.0 shinystat.it
+0.0.0.0 shipafreight.com
 0.0.0.0 shippills.com
 0.0.0.0 shirem.com
 0.0.0.0 shirteu365.com
@@ -19662,6 +19665,7 @@
 0.0.0.0 skysupp.com
 0.0.0.0 skyvault.ltd
 0.0.0.0 sl-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 sl-handel.de
 0.0.0.0 sl-leasinggesmbh.at
 0.0.0.0 slavianstore.com
 0.0.0.0 slb-apisnd-in.heytapmobile.com
@@ -22124,6 +22128,9 @@
 0.0.0.0 ug-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 ug.snssdk.com
+0.0.0.0 ugattribution-i18n.tiktokv.com
+0.0.0.0 ugattribution-ru.tiktokv.com
+0.0.0.0 ugattribution-sg.tiktokv.com
 0.0.0.0 uggat.at
 0.0.0.0 uggfans.myshoplaza.com
 0.0.0.0 uggonline.myshoplaza.com
@@ -22807,7 +22814,6 @@
 0.0.0.0 vivagopro.com
 0.0.0.0 vivaharmoni.com
 0.0.0.0 vivaia-schuhe.de
-0.0.0.0 vivaiacollection.com
 0.0.0.0 vivaiaschuhe.at
 0.0.0.0 vivaiaschuhe.com
 0.0.0.0 vivaiaschuhe.de
@@ -23802,7 +23808,6 @@
 0.0.0.0 yonexdeutschland.de
 0.0.0.0 yonexs.at
 0.0.0.0 yoocaa.com
-0.0.0.0 yoohal.com
 0.0.0.0 yooofa.com
 0.0.0.0 yootet.com
 0.0.0.0 yorkbootsshop.de
