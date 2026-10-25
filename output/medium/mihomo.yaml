@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-10-24 12:38:06
-# Total Domains: 320,232
+# Last Updated: 2026-10-25 02:30:38
+# Total Domains: 320,246
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0-0.asia
@@ -3728,11 +3728,13 @@ payload:
   - DOMAIN-SUFFIX,11win.dance
   - DOMAIN-SUFFIX,11win.fashion
   - DOMAIN-SUFFIX,11win.free
+  - DOMAIN-SUFFIX,11win.garden
   - DOMAIN-SUFFIX,11win.link
   - DOMAIN-SUFFIX,11win.llc
   - DOMAIN-SUFFIX,11win.mobi
   - DOMAIN-SUFFIX,11win.mx
   - DOMAIN-SUFFIX,11win.net
+  - DOMAIN-SUFFIX,11win.parts
   - DOMAIN-SUFFIX,11win.skin
   - DOMAIN-SUFFIX,11win.style
   - DOMAIN-SUFFIX,11win.support
@@ -49973,6 +49975,7 @@ payload:
   - DOMAIN-SUFFIX,9bet.diy
   - DOMAIN-SUFFIX,9bet.email
   - DOMAIN-SUFFIX,9bet.es
+  - DOMAIN-SUFFIX,9bet.estate
   - DOMAIN-SUFFIX,9bet.football
   - DOMAIN-SUFFIX,9bet.fund
   - DOMAIN-SUFFIX,9bet.green
@@ -102204,6 +102207,7 @@ payload:
   - DOMAIN-SUFFIX,cdn2.seaporn.net
   - DOMAIN-SUFFIX,cdn2.vua88.diy
   - DOMAIN-SUFFIX,cdn2.vua88.food
+  - DOMAIN-SUFFIX,cdn2.vua88.pub
   - DOMAIN-SUFFIX,cdn3x.com
   - DOMAIN-SUFFIX,cdn4ads.com
   - DOMAIN-SUFFIX,cdn65.avcjtodj.com
@@ -103127,6 +103131,7 @@ payload:
   - DOMAIN-SUFFIX,chat.taison01.com
   - DOMAIN-SUFFIX,chat.vua88.diy
   - DOMAIN-SUFFIX,chat.vua88.food
+  - DOMAIN-SUFFIX,chat.vua88.pub
   - DOMAIN-SUFFIX,chat18.sexy
   - DOMAIN-SUFFIX,chat18.tv
   - DOMAIN-SUFFIX,chat18.webcam
@@ -117882,6 +117887,7 @@ payload:
   - DOMAIN-SUFFIX,du88.art
   - DOMAIN-SUFFIX,du88.blue
   - DOMAIN-SUFFIX,du88.cafe
+  - DOMAIN-SUFFIX,du88.cards
   - DOMAIN-SUFFIX,du88.care
   - DOMAIN-SUFFIX,du88.chat
   - DOMAIN-SUFFIX,du88.click
@@ -117891,6 +117897,7 @@ payload:
   - DOMAIN-SUFFIX,du88.estate
   - DOMAIN-SUFFIX,du88.fashion
   - DOMAIN-SUFFIX,du88.football
+  - DOMAIN-SUFFIX,du88.gg
   - DOMAIN-SUFFIX,du88.guru
   - DOMAIN-SUFFIX,du88.health
   - DOMAIN-SUFFIX,du88.house
@@ -165067,6 +165074,8 @@ payload:
   - DOMAIN-SUFFIX,javhdz.fun
   - DOMAIN-SUFFIX,javhdz.hot
   - DOMAIN-SUFFIX,javhdz.la
+  - DOMAIN-SUFFIX,javhdz.link
+  - DOMAIN-SUFFIX,javhdz.one
   - DOMAIN-SUFFIX,javhdz.pro
   - DOMAIN-SUFFIX,javhdz.pw
   - DOMAIN-SUFFIX,javhdz.red
@@ -178153,6 +178162,7 @@ payload:
   - DOMAIN-SUFFIX,ku88.fun
   - DOMAIN-SUFFIX,ku88.okinawa
   - DOMAIN-SUFFIX,ku88.pro
+  - DOMAIN-SUFFIX,ku88.study
   - DOMAIN-SUFFIX,ku88.win
   - DOMAIN-SUFFIX,ku9889.com
   - DOMAIN-SUFFIX,ku998.com
@@ -285896,6 +285906,7 @@ payload:
   - DOMAIN-SUFFIX,tx88.vet
   - DOMAIN-SUFFIX,tx88.vip
   - DOMAIN-SUFFIX,tx88.vote
+  - DOMAIN-SUFFIX,tx88.works
   - DOMAIN-SUFFIX,tx88.zone
   - DOMAIN-SUFFIX,tx978.com
   - DOMAIN-SUFFIX,txc500.com
@@ -292041,6 +292052,7 @@ payload:
   - DOMAIN-SUFFIX,vicclub.host
   - DOMAIN-SUFFIX,vicclub.id
   - DOMAIN-SUFFIX,vicclub.ink
+  - DOMAIN-SUFFIX,vicclub.legal
   - DOMAIN-SUFFIX,vicclub.mx
   - DOMAIN-SUFFIX,vicclub.sh
   - DOMAIN-SUFFIX,vicclub.trade
@@ -294197,6 +294209,7 @@ payload:
   - DOMAIN-SUFFIX,vlvlxx.com
   - DOMAIN-SUFFIX,vlxphim.me
   - DOMAIN-SUFFIX,vlxvn.baby
+  - DOMAIN-SUFFIX,vlxvn.beer
   - DOMAIN-SUFFIX,vlxvn.bio
   - DOMAIN-SUFFIX,vlxvn.blog
   - DOMAIN-SUFFIX,vlxvn.click
@@ -295802,6 +295815,7 @@ payload:
   - DOMAIN-SUFFIX,vua88.diy
   - DOMAIN-SUFFIX,vua88.food
   - DOMAIN-SUFFIX,vua88.host
+  - DOMAIN-SUFFIX,vua88.pub
   - DOMAIN-SUFFIX,vua88play.live
   - DOMAIN-SUFFIX,vuabai9.com
   - DOMAIN-SUFFIX,vuabai9vn.com

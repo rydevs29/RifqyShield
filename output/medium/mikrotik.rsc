@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-10-24 12:38:06
-# Total Domains: 320,232
+# Last Updated: 2026-10-25 02:30:38
+# Total Domains: 320,246
 # ==========================================
 /ip dns static
 add name="0-0.asia" address=0.0.0.0
@@ -3728,11 +3728,13 @@ add name="11win.casa" address=0.0.0.0
 add name="11win.dance" address=0.0.0.0
 add name="11win.fashion" address=0.0.0.0
 add name="11win.free" address=0.0.0.0
+add name="11win.garden" address=0.0.0.0
 add name="11win.link" address=0.0.0.0
 add name="11win.llc" address=0.0.0.0
 add name="11win.mobi" address=0.0.0.0
 add name="11win.mx" address=0.0.0.0
 add name="11win.net" address=0.0.0.0
+add name="11win.parts" address=0.0.0.0
 add name="11win.skin" address=0.0.0.0
 add name="11win.style" address=0.0.0.0
 add name="11win.support" address=0.0.0.0
@@ -49973,6 +49975,7 @@ add name="9bet.design" address=0.0.0.0
 add name="9bet.diy" address=0.0.0.0
 add name="9bet.email" address=0.0.0.0
 add name="9bet.es" address=0.0.0.0
+add name="9bet.estate" address=0.0.0.0
 add name="9bet.football" address=0.0.0.0
 add name="9bet.fund" address=0.0.0.0
 add name="9bet.green" address=0.0.0.0
@@ -102204,6 +102207,7 @@ add name="cdn2-node-h.tc-cdn.com" address=0.0.0.0
 add name="cdn2.seaporn.net" address=0.0.0.0
 add name="cdn2.vua88.diy" address=0.0.0.0
 add name="cdn2.vua88.food" address=0.0.0.0
+add name="cdn2.vua88.pub" address=0.0.0.0
 add name="cdn3x.com" address=0.0.0.0
 add name="cdn4ads.com" address=0.0.0.0
 add name="cdn65.avcjtodj.com" address=0.0.0.0
@@ -103127,6 +103131,7 @@ add name="chat.org" address=0.0.0.0
 add name="chat.taison01.com" address=0.0.0.0
 add name="chat.vua88.diy" address=0.0.0.0
 add name="chat.vua88.food" address=0.0.0.0
+add name="chat.vua88.pub" address=0.0.0.0
 add name="chat18.sexy" address=0.0.0.0
 add name="chat18.tv" address=0.0.0.0
 add name="chat18.webcam" address=0.0.0.0
@@ -117882,6 +117887,7 @@ add name="du5252.com" address=0.0.0.0
 add name="du88.art" address=0.0.0.0
 add name="du88.blue" address=0.0.0.0
 add name="du88.cafe" address=0.0.0.0
+add name="du88.cards" address=0.0.0.0
 add name="du88.care" address=0.0.0.0
 add name="du88.chat" address=0.0.0.0
 add name="du88.click" address=0.0.0.0
@@ -117891,6 +117897,7 @@ add name="du88.diy" address=0.0.0.0
 add name="du88.estate" address=0.0.0.0
 add name="du88.fashion" address=0.0.0.0
 add name="du88.football" address=0.0.0.0
+add name="du88.gg" address=0.0.0.0
 add name="du88.guru" address=0.0.0.0
 add name="du88.health" address=0.0.0.0
 add name="du88.house" address=0.0.0.0
@@ -165067,6 +165074,8 @@ add name="javhdz.city" address=0.0.0.0
 add name="javhdz.fun" address=0.0.0.0
 add name="javhdz.hot" address=0.0.0.0
 add name="javhdz.la" address=0.0.0.0
+add name="javhdz.link" address=0.0.0.0
+add name="javhdz.one" address=0.0.0.0
 add name="javhdz.pro" address=0.0.0.0
 add name="javhdz.pw" address=0.0.0.0
 add name="javhdz.red" address=0.0.0.0
@@ -178153,6 +178162,7 @@ add name="ku88.cool" address=0.0.0.0
 add name="ku88.fun" address=0.0.0.0
 add name="ku88.okinawa" address=0.0.0.0
 add name="ku88.pro" address=0.0.0.0
+add name="ku88.study" address=0.0.0.0
 add name="ku88.win" address=0.0.0.0
 add name="ku9889.com" address=0.0.0.0
 add name="ku998.com" address=0.0.0.0
@@ -285896,6 +285906,7 @@ add name="tx88.top" address=0.0.0.0
 add name="tx88.vet" address=0.0.0.0
 add name="tx88.vip" address=0.0.0.0
 add name="tx88.vote" address=0.0.0.0
+add name="tx88.works" address=0.0.0.0
 add name="tx88.zone" address=0.0.0.0
 add name="tx978.com" address=0.0.0.0
 add name="txc500.com" address=0.0.0.0
@@ -292041,6 +292052,7 @@ add name="vicclub.at" address=0.0.0.0
 add name="vicclub.host" address=0.0.0.0
 add name="vicclub.id" address=0.0.0.0
 add name="vicclub.ink" address=0.0.0.0
+add name="vicclub.legal" address=0.0.0.0
 add name="vicclub.mx" address=0.0.0.0
 add name="vicclub.sh" address=0.0.0.0
 add name="vicclub.trade" address=0.0.0.0
@@ -294197,6 +294209,7 @@ add name="vluggesex.nl" address=0.0.0.0
 add name="vlvlxx.com" address=0.0.0.0
 add name="vlxphim.me" address=0.0.0.0
 add name="vlxvn.baby" address=0.0.0.0
+add name="vlxvn.beer" address=0.0.0.0
 add name="vlxvn.bio" address=0.0.0.0
 add name="vlxvn.blog" address=0.0.0.0
 add name="vlxvn.click" address=0.0.0.0
@@ -295802,6 +295815,7 @@ add name="vua88.com" address=0.0.0.0
 add name="vua88.diy" address=0.0.0.0
 add name="vua88.food" address=0.0.0.0
 add name="vua88.host" address=0.0.0.0
+add name="vua88.pub" address=0.0.0.0
 add name="vua88play.live" address=0.0.0.0
 add name="vuabai9.com" address=0.0.0.0
 add name="vuabai9vn.com" address=0.0.0.0

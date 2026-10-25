@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-10-24 12:38:06
-# Total Domains: 320,232
+# Last Updated: 2026-10-25 02:30:38
+# Total Domains: 320,246
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -3729,11 +3729,13 @@
 0.0.0.0 11win.dance
 0.0.0.0 11win.fashion
 0.0.0.0 11win.free
+0.0.0.0 11win.garden
 0.0.0.0 11win.link
 0.0.0.0 11win.llc
 0.0.0.0 11win.mobi
 0.0.0.0 11win.mx
 0.0.0.0 11win.net
+0.0.0.0 11win.parts
 0.0.0.0 11win.skin
 0.0.0.0 11win.style
 0.0.0.0 11win.support
@@ -49974,6 +49976,7 @@
 0.0.0.0 9bet.diy
 0.0.0.0 9bet.email
 0.0.0.0 9bet.es
+0.0.0.0 9bet.estate
 0.0.0.0 9bet.football
 0.0.0.0 9bet.fund
 0.0.0.0 9bet.green
@@ -102205,6 +102208,7 @@
 0.0.0.0 cdn2.seaporn.net
 0.0.0.0 cdn2.vua88.diy
 0.0.0.0 cdn2.vua88.food
+0.0.0.0 cdn2.vua88.pub
 0.0.0.0 cdn3x.com
 0.0.0.0 cdn4ads.com
 0.0.0.0 cdn65.avcjtodj.com
@@ -103128,6 +103132,7 @@
 0.0.0.0 chat.taison01.com
 0.0.0.0 chat.vua88.diy
 0.0.0.0 chat.vua88.food
+0.0.0.0 chat.vua88.pub
 0.0.0.0 chat18.sexy
 0.0.0.0 chat18.tv
 0.0.0.0 chat18.webcam
@@ -117883,6 +117888,7 @@
 0.0.0.0 du88.art
 0.0.0.0 du88.blue
 0.0.0.0 du88.cafe
+0.0.0.0 du88.cards
 0.0.0.0 du88.care
 0.0.0.0 du88.chat
 0.0.0.0 du88.click
@@ -117892,6 +117898,7 @@
 0.0.0.0 du88.estate
 0.0.0.0 du88.fashion
 0.0.0.0 du88.football
+0.0.0.0 du88.gg
 0.0.0.0 du88.guru
 0.0.0.0 du88.health
 0.0.0.0 du88.house
@@ -165068,6 +165075,8 @@
 0.0.0.0 javhdz.fun
 0.0.0.0 javhdz.hot
 0.0.0.0 javhdz.la
+0.0.0.0 javhdz.link
+0.0.0.0 javhdz.one
 0.0.0.0 javhdz.pro
 0.0.0.0 javhdz.pw
 0.0.0.0 javhdz.red
@@ -178154,6 +178163,7 @@
 0.0.0.0 ku88.fun
 0.0.0.0 ku88.okinawa
 0.0.0.0 ku88.pro
+0.0.0.0 ku88.study
 0.0.0.0 ku88.win
 0.0.0.0 ku9889.com
 0.0.0.0 ku998.com
@@ -285897,6 +285907,7 @@
 0.0.0.0 tx88.vet
 0.0.0.0 tx88.vip
 0.0.0.0 tx88.vote
+0.0.0.0 tx88.works
 0.0.0.0 tx88.zone
 0.0.0.0 tx978.com
 0.0.0.0 txc500.com
@@ -292042,6 +292053,7 @@
 0.0.0.0 vicclub.host
 0.0.0.0 vicclub.id
 0.0.0.0 vicclub.ink
+0.0.0.0 vicclub.legal
 0.0.0.0 vicclub.mx
 0.0.0.0 vicclub.sh
 0.0.0.0 vicclub.trade
@@ -294198,6 +294210,7 @@
 0.0.0.0 vlvlxx.com
 0.0.0.0 vlxphim.me
 0.0.0.0 vlxvn.baby
+0.0.0.0 vlxvn.beer
 0.0.0.0 vlxvn.bio
 0.0.0.0 vlxvn.blog
 0.0.0.0 vlxvn.click
@@ -295803,6 +295816,7 @@
 0.0.0.0 vua88.diy
 0.0.0.0 vua88.food
 0.0.0.0 vua88.host
+0.0.0.0 vua88.pub
 0.0.0.0 vua88play.live
 0.0.0.0 vuabai9.com
 0.0.0.0 vuabai9vn.com

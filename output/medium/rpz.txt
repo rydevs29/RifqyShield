@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-10-24 12:38:06
-# Total Domains: 320,232
+# Last Updated: 2026-10-25 02:30:38
+# Total Domains: 320,246
 # ==========================================
 0-0.asia CNAME .
 0-bbs.com CNAME .
@@ -3727,11 +3727,13 @@
 11win.dance CNAME .
 11win.fashion CNAME .
 11win.free CNAME .
+11win.garden CNAME .
 11win.link CNAME .
 11win.llc CNAME .
 11win.mobi CNAME .
 11win.mx CNAME .
 11win.net CNAME .
+11win.parts CNAME .
 11win.skin CNAME .
 11win.style CNAME .
 11win.support CNAME .
@@ -49972,6 +49974,7 @@
 9bet.diy CNAME .
 9bet.email CNAME .
 9bet.es CNAME .
+9bet.estate CNAME .
 9bet.football CNAME .
 9bet.fund CNAME .
 9bet.green CNAME .
@@ -102203,6 +102206,7 @@ cdn2-node-h.tc-cdn.com CNAME .
 cdn2.seaporn.net CNAME .
 cdn2.vua88.diy CNAME .
 cdn2.vua88.food CNAME .
+cdn2.vua88.pub CNAME .
 cdn3x.com CNAME .
 cdn4ads.com CNAME .
 cdn65.avcjtodj.com CNAME .
@@ -103126,6 +103130,7 @@ chat.org CNAME .
 chat.taison01.com CNAME .
 chat.vua88.diy CNAME .
 chat.vua88.food CNAME .
+chat.vua88.pub CNAME .
 chat18.sexy CNAME .
 chat18.tv CNAME .
 chat18.webcam CNAME .
@@ -117881,6 +117886,7 @@ du5252.com CNAME .
 du88.art CNAME .
 du88.blue CNAME .
 du88.cafe CNAME .
+du88.cards CNAME .
 du88.care CNAME .
 du88.chat CNAME .
 du88.click CNAME .
@@ -117890,6 +117896,7 @@ du88.diy CNAME .
 du88.estate CNAME .
 du88.fashion CNAME .
 du88.football CNAME .
+du88.gg CNAME .
 du88.guru CNAME .
 du88.health CNAME .
 du88.house CNAME .
@@ -165066,6 +165073,8 @@ javhdz.city CNAME .
 javhdz.fun CNAME .
 javhdz.hot CNAME .
 javhdz.la CNAME .
+javhdz.link CNAME .
+javhdz.one CNAME .
 javhdz.pro CNAME .
 javhdz.pw CNAME .
 javhdz.red CNAME .
@@ -178152,6 +178161,7 @@ ku88.cool CNAME .
 ku88.fun CNAME .
 ku88.okinawa CNAME .
 ku88.pro CNAME .
+ku88.study CNAME .
 ku88.win CNAME .
 ku9889.com CNAME .
 ku998.com CNAME .
@@ -285895,6 +285905,7 @@ tx88.top CNAME .
 tx88.vet CNAME .
 tx88.vip CNAME .
 tx88.vote CNAME .
+tx88.works CNAME .
 tx88.zone CNAME .
 tx978.com CNAME .
 txc500.com CNAME .
@@ -292040,6 +292051,7 @@ vicclub.at CNAME .
 vicclub.host CNAME .
 vicclub.id CNAME .
 vicclub.ink CNAME .
+vicclub.legal CNAME .
 vicclub.mx CNAME .
 vicclub.sh CNAME .
 vicclub.trade CNAME .
@@ -294196,6 +294208,7 @@ vluggesex.nl CNAME .
 vlvlxx.com CNAME .
 vlxphim.me CNAME .
 vlxvn.baby CNAME .
+vlxvn.beer CNAME .
 vlxvn.bio CNAME .
 vlxvn.blog CNAME .
 vlxvn.click CNAME .
@@ -295801,6 +295814,7 @@ vua88.com CNAME .
 vua88.diy CNAME .
 vua88.food CNAME .
 vua88.host CNAME .
+vua88.pub CNAME .
 vua88play.live CNAME .
 vuabai9.com CNAME .
 vuabai9vn.com CNAME .

@@ -3723,11 +3723,13 @@
 11win.dance
 11win.fashion
 11win.free
+11win.garden
 11win.link
 11win.llc
 11win.mobi
 11win.mx
 11win.net
+11win.parts
 11win.skin
 11win.style
 11win.support
@@ -49968,6 +49970,7 @@
 9bet.diy
 9bet.email
 9bet.es
+9bet.estate
 9bet.football
 9bet.fund
 9bet.green
@@ -102199,6 +102202,7 @@ cdn2-node-h.tc-cdn.com
 cdn2.seaporn.net
 cdn2.vua88.diy
 cdn2.vua88.food
+cdn2.vua88.pub
 cdn3x.com
 cdn4ads.com
 cdn65.avcjtodj.com
@@ -103122,6 +103126,7 @@ chat.org
 chat.taison01.com
 chat.vua88.diy
 chat.vua88.food
+chat.vua88.pub
 chat18.sexy
 chat18.tv
 chat18.webcam
@@ -117877,6 +117882,7 @@ du5252.com
 du88.art
 du88.blue
 du88.cafe
+du88.cards
 du88.care
 du88.chat
 du88.click
@@ -117886,6 +117892,7 @@ du88.diy
 du88.estate
 du88.fashion
 du88.football
+du88.gg
 du88.guru
 du88.health
 du88.house
@@ -165062,6 +165069,8 @@ javhdz.city
 javhdz.fun
 javhdz.hot
 javhdz.la
+javhdz.link
+javhdz.one
 javhdz.pro
 javhdz.pw
 javhdz.red
@@ -178148,6 +178157,7 @@ ku88.cool
 ku88.fun
 ku88.okinawa
 ku88.pro
+ku88.study
 ku88.win
 ku9889.com
 ku998.com
@@ -285891,6 +285901,7 @@ tx88.top
 tx88.vet
 tx88.vip
 tx88.vote
+tx88.works
 tx88.zone
 tx978.com
 txc500.com
@@ -292036,6 +292047,7 @@ vicclub.at
 vicclub.host
 vicclub.id
 vicclub.ink
+vicclub.legal
 vicclub.mx
 vicclub.sh
 vicclub.trade
@@ -294192,6 +294204,7 @@ vluggesex.nl
 vlvlxx.com
 vlxphim.me
 vlxvn.baby
+vlxvn.beer
 vlxvn.bio
 vlxvn.blog
 vlxvn.click
@@ -295797,6 +295810,7 @@ vua88.com
 vua88.diy
 vua88.food
 vua88.host
+vua88.pub
 vua88play.live
 vuabai9.com
 vuabai9vn.com

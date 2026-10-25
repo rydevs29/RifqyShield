@@ -1,6 +1,6 @@
 # Title: RifqyShield Medium
-# Last Updated: 2026-10-24 12:38:06
-# Total Domains: 320,232
+# Last Updated: 2026-10-25 02:30:38
+# Total Domains: 320,246
 # ==========================================
 HOST-SUFFIX,0-0.asia,reject
 HOST-SUFFIX,0-bbs.com,reject
@@ -3727,11 +3727,13 @@ HOST-SUFFIX,11win.casa,reject
 HOST-SUFFIX,11win.dance,reject
 HOST-SUFFIX,11win.fashion,reject
 HOST-SUFFIX,11win.free,reject
+HOST-SUFFIX,11win.garden,reject
 HOST-SUFFIX,11win.link,reject
 HOST-SUFFIX,11win.llc,reject
 HOST-SUFFIX,11win.mobi,reject
 HOST-SUFFIX,11win.mx,reject
 HOST-SUFFIX,11win.net,reject
+HOST-SUFFIX,11win.parts,reject
 HOST-SUFFIX,11win.skin,reject
 HOST-SUFFIX,11win.style,reject
 HOST-SUFFIX,11win.support,reject
@@ -49972,6 +49974,7 @@ HOST-SUFFIX,9bet.design,reject
 HOST-SUFFIX,9bet.diy,reject
 HOST-SUFFIX,9bet.email,reject
 HOST-SUFFIX,9bet.es,reject
+HOST-SUFFIX,9bet.estate,reject
 HOST-SUFFIX,9bet.football,reject
 HOST-SUFFIX,9bet.fund,reject
 HOST-SUFFIX,9bet.green,reject
@@ -102203,6 +102206,7 @@ HOST-SUFFIX,cdn2-node-h.tc-cdn.com,reject
 HOST-SUFFIX,cdn2.seaporn.net,reject
 HOST-SUFFIX,cdn2.vua88.diy,reject
 HOST-SUFFIX,cdn2.vua88.food,reject
+HOST-SUFFIX,cdn2.vua88.pub,reject
 HOST-SUFFIX,cdn3x.com,reject
 HOST-SUFFIX,cdn4ads.com,reject
 HOST-SUFFIX,cdn65.avcjtodj.com,reject
@@ -103126,6 +103130,7 @@ HOST-SUFFIX,chat.org,reject
 HOST-SUFFIX,chat.taison01.com,reject
 HOST-SUFFIX,chat.vua88.diy,reject
 HOST-SUFFIX,chat.vua88.food,reject
+HOST-SUFFIX,chat.vua88.pub,reject
 HOST-SUFFIX,chat18.sexy,reject
 HOST-SUFFIX,chat18.tv,reject
 HOST-SUFFIX,chat18.webcam,reject
@@ -117881,6 +117886,7 @@ HOST-SUFFIX,du5252.com,reject
 HOST-SUFFIX,du88.art,reject
 HOST-SUFFIX,du88.blue,reject
 HOST-SUFFIX,du88.cafe,reject
+HOST-SUFFIX,du88.cards,reject
 HOST-SUFFIX,du88.care,reject
 HOST-SUFFIX,du88.chat,reject
 HOST-SUFFIX,du88.click,reject
@@ -117890,6 +117896,7 @@ HOST-SUFFIX,du88.diy,reject
 HOST-SUFFIX,du88.estate,reject
 HOST-SUFFIX,du88.fashion,reject
 HOST-SUFFIX,du88.football,reject
+HOST-SUFFIX,du88.gg,reject
 HOST-SUFFIX,du88.guru,reject
 HOST-SUFFIX,du88.health,reject
 HOST-SUFFIX,du88.house,reject
@@ -165066,6 +165073,8 @@ HOST-SUFFIX,javhdz.city,reject
 HOST-SUFFIX,javhdz.fun,reject
 HOST-SUFFIX,javhdz.hot,reject
 HOST-SUFFIX,javhdz.la,reject
+HOST-SUFFIX,javhdz.link,reject
+HOST-SUFFIX,javhdz.one,reject
 HOST-SUFFIX,javhdz.pro,reject
 HOST-SUFFIX,javhdz.pw,reject
 HOST-SUFFIX,javhdz.red,reject
@@ -178152,6 +178161,7 @@ HOST-SUFFIX,ku88.cool,reject
 HOST-SUFFIX,ku88.fun,reject
 HOST-SUFFIX,ku88.okinawa,reject
 HOST-SUFFIX,ku88.pro,reject
+HOST-SUFFIX,ku88.study,reject
 HOST-SUFFIX,ku88.win,reject
 HOST-SUFFIX,ku9889.com,reject
 HOST-SUFFIX,ku998.com,reject
@@ -285895,6 +285905,7 @@ HOST-SUFFIX,tx88.top,reject
 HOST-SUFFIX,tx88.vet,reject
 HOST-SUFFIX,tx88.vip,reject
 HOST-SUFFIX,tx88.vote,reject
+HOST-SUFFIX,tx88.works,reject
 HOST-SUFFIX,tx88.zone,reject
 HOST-SUFFIX,tx978.com,reject
 HOST-SUFFIX,txc500.com,reject
@@ -292040,6 +292051,7 @@ HOST-SUFFIX,vicclub.at,reject
 HOST-SUFFIX,vicclub.host,reject
 HOST-SUFFIX,vicclub.id,reject
 HOST-SUFFIX,vicclub.ink,reject
+HOST-SUFFIX,vicclub.legal,reject
 HOST-SUFFIX,vicclub.mx,reject
 HOST-SUFFIX,vicclub.sh,reject
 HOST-SUFFIX,vicclub.trade,reject
@@ -294196,6 +294208,7 @@ HOST-SUFFIX,vluggesex.nl,reject
 HOST-SUFFIX,vlvlxx.com,reject
 HOST-SUFFIX,vlxphim.me,reject
 HOST-SUFFIX,vlxvn.baby,reject
+HOST-SUFFIX,vlxvn.beer,reject
 HOST-SUFFIX,vlxvn.bio,reject
 HOST-SUFFIX,vlxvn.blog,reject
 HOST-SUFFIX,vlxvn.click,reject
@@ -295801,6 +295814,7 @@ HOST-SUFFIX,vua88.com,reject
 HOST-SUFFIX,vua88.diy,reject
 HOST-SUFFIX,vua88.food,reject
 HOST-SUFFIX,vua88.host,reject
+HOST-SUFFIX,vua88.pub,reject
 HOST-SUFFIX,vua88play.live,reject
 HOST-SUFFIX,vuabai9.com,reject
 HOST-SUFFIX,vuabai9vn.com,reject
