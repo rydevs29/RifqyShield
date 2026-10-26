@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-25 02:30:33
-# Total Domains: 24,243
+# Last Updated: 2026-10-26 02:29:43
+# Total Domains: 24,251
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -1560,6 +1560,7 @@
 0.0.0.0 allerhand-md.de
 0.0.0.0 allerleitrendshop.de
 0.0.0.0 alles-anhanger.com
+0.0.0.0 alles-origami.store
 0.0.0.0 allesescooter.de
 0.0.0.0 allesfuerdengarten.com
 0.0.0.0 allesfurzuhause.de
@@ -3162,6 +3163,7 @@
 0.0.0.0 berg-mode.de
 0.0.0.0 bergandlind.com
 0.0.0.0 bergcycle.com
+0.0.0.0 berger-brennstoffe.com
 0.0.0.0 berger-seidle-shop.de
 0.0.0.0 bergermode.com
 0.0.0.0 bergersearch.at
@@ -3628,7 +3630,6 @@
 0.0.0.0 bl-group.net
 0.0.0.0 black-shepp-gastroservice.com
 0.0.0.0 blackcatstore.de
-0.0.0.0 blackfridaymegastore.com
 0.0.0.0 blackgurlzsmagickloset.com
 0.0.0.0 blacktridentpop.shop
 0.0.0.0 blacktridents.shop
@@ -3930,6 +3931,7 @@
 0.0.0.0 bremsen-onshop.com
 0.0.0.0 bremsenonshop.com
 0.0.0.0 bremsenverkauf.com
+0.0.0.0 brenholz-karl.de
 0.0.0.0 brenn-holzinger.at
 0.0.0.0 brenner-berlin.com
 0.0.0.0 brennholz-anhaenger.de
@@ -4094,6 +4096,7 @@
 0.0.0.0 btcminer.website
 0.0.0.0 btcswing.com
 0.0.0.0 btglss.net
+0.0.0.0 btrgservices.com
 0.0.0.0 btrll.com
 0.0.0.0 bttrack.com
 0.0.0.0 bubaloo.de
@@ -5559,6 +5562,7 @@
 0.0.0.0 cryptobullbear.com
 0.0.0.0 cryptocase.online
 0.0.0.0 cryptocash24.com
+0.0.0.0 cryptoeasily.com
 0.0.0.0 cryptofast.net
 0.0.0.0 cryptofundfx.com
 0.0.0.0 cryptomoney888.com
@@ -5592,7 +5596,6 @@
 0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 csunbox.com
-0.0.0.0 ctbike.pl
 0.0.0.0 cthesky.com
 0.0.0.0 ctoption.com
 0.0.0.0 ctxholdings.com
@@ -6481,6 +6484,7 @@
 0.0.0.0 domatin.com
 0.0.0.0 domdex.com
 0.0.0.0 domelus.de
+0.0.0.0 domfa-bois.com
 0.0.0.0 dominguesequipamentos.com
 0.0.0.0 domino-handel.de
 0.0.0.0 don-art.de
@@ -6747,6 +6751,7 @@
 0.0.0.0 e-bikerabatt.com
 0.0.0.0 e-bikermarkt.de
 0.0.0.0 e-bikesmkgmbh-de.com
+0.0.0.0 e-bikesmkgmbh.com
 0.0.0.0 e-bikesparepartsde.com
 0.0.0.0 e-eu.customeriomail.com
 0.0.0.0 e-fahrrader.de
@@ -7056,6 +7061,7 @@
 0.0.0.0 elementaryfinancial.com
 0.0.0.0 elementaryt.com
 0.0.0.0 elencoco.com
+0.0.0.0 eletro-remedios.com
 0.0.0.0 eletrospark.de
 0.0.0.0 eletrostartestufas.com
 0.0.0.0 elevateclimbing.com
@@ -7561,7 +7567,6 @@
 0.0.0.0 evutal.com
 0.0.0.0 evyy.net
 0.0.0.0 ewige-seide.de
-0.0.0.0 ewigerbund.org
 0.0.0.0 ewuyvw.shop
 0.0.0.0 ewzmvasz.shop
 0.0.0.0 ex-adreq-asia.vivoglobal.com
@@ -10484,6 +10489,7 @@
 0.0.0.0 holzfurzuhause.de
 0.0.0.0 holzgartenprofi.de
 0.0.0.0 holzgluck.de
+0.0.0.0 holzglut24.de
 0.0.0.0 holzgutexpress.de
 0.0.0.0 holzhack-schnitzel.de
 0.0.0.0 holzhambach.com
@@ -14875,6 +14881,7 @@
 0.0.0.0 monexis.co
 0.0.0.0 monicasneaker.cc
 0.0.0.0 monido.de
+0.0.0.0 monika-mueller-brennholzhandel.de
 0.0.0.0 monika-taschen.com
 0.0.0.0 monirahouse.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
@@ -14930,7 +14937,6 @@
 0.0.0.0 moonbootukstore.com
 0.0.0.0 moonetrix.com
 0.0.0.0 moongadgets.com
-0.0.0.0 moongor.com
 0.0.0.0 moonkie.de
 0.0.0.0 moonpod.de
 0.0.0.0 moontod.com
@@ -15181,7 +15187,6 @@
 0.0.0.0 musikstrings.com
 0.0.0.0 musikwelt-lindner.de
 0.0.0.0 musiqueonline.com
-0.0.0.0 muskangaming.com
 0.0.0.0 muskanonline.com
 0.0.0.0 mustang-parts-shop.de
 0.0.0.0 muteknife.com
@@ -15706,7 +15711,6 @@
 0.0.0.0 nordvian.com
 0.0.0.0 norenze.com
 0.0.0.0 norevialife.com
-0.0.0.0 norfolkhotels24.com
 0.0.0.0 norge-apt.com
 0.0.0.0 norge-ed.com
 0.0.0.0 norgeapotek24.com
@@ -16845,6 +16849,7 @@
 0.0.0.0 pepperstone.vip
 0.0.0.0 pepstore.org
 0.0.0.0 peptide-kaufen.com
+0.0.0.0 peptidekonings.com
 0.0.0.0 peptidy.org
 0.0.0.0 peptipenonline.com
 0.0.0.0 percentmobile.com
@@ -18732,6 +18737,7 @@
 0.0.0.0 rundumstrikot.de
 0.0.0.0 runrigstack.click
 0.0.0.0 runtrainpro.com
+0.0.0.0 rupills.com
 0.0.0.0 ruralrobin.com
 0.0.0.0 rus-service-eu.allawnos.com
 0.0.0.0 rus-service-in.allawnos.com
@@ -18753,6 +18759,7 @@
 0.0.0.0 rx-pharma.net
 0.0.0.0 rx-pharmacies.com
 0.0.0.0 rx-qualityshop.com
+0.0.0.0 rx-true.com
 0.0.0.0 rx247rx.com
 0.0.0.0 rxapothekefursie.com
 0.0.0.0 rxappfree.com
@@ -19220,6 +19227,7 @@
 0.0.0.0 scieriesaugues.de
 0.0.0.0 scintillatingscissors.com
 0.0.0.0 scintillatingsilver.com
+0.0.0.0 sciponoe.com
 0.0.0.0 sciscirc.com
 0.0.0.0 scissorsstatement.com
 0.0.0.0 scontainer-logististikgmbh.de

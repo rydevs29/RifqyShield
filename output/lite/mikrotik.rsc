@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-25 02:30:33
-# Total Domains: 24,243
+# Last Updated: 2026-10-26 02:29:43
+# Total Domains: 24,251
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -1559,6 +1559,7 @@ add name="allergocover.care" address=0.0.0.0
 add name="allerhand-md.de" address=0.0.0.0
 add name="allerleitrendshop.de" address=0.0.0.0
 add name="alles-anhanger.com" address=0.0.0.0
+add name="alles-origami.store" address=0.0.0.0
 add name="allesescooter.de" address=0.0.0.0
 add name="allesfuerdengarten.com" address=0.0.0.0
 add name="allesfurzuhause.de" address=0.0.0.0
@@ -3161,6 +3162,7 @@ add name="berg-blum.de" address=0.0.0.0
 add name="berg-mode.de" address=0.0.0.0
 add name="bergandlind.com" address=0.0.0.0
 add name="bergcycle.com" address=0.0.0.0
+add name="berger-brennstoffe.com" address=0.0.0.0
 add name="berger-seidle-shop.de" address=0.0.0.0
 add name="bergermode.com" address=0.0.0.0
 add name="bergersearch.at" address=0.0.0.0
@@ -3627,7 +3629,6 @@ add name="bkrtx.com" address=0.0.0.0
 add name="bl-group.net" address=0.0.0.0
 add name="black-shepp-gastroservice.com" address=0.0.0.0
 add name="blackcatstore.de" address=0.0.0.0
-add name="blackfridaymegastore.com" address=0.0.0.0
 add name="blackgurlzsmagickloset.com" address=0.0.0.0
 add name="blacktridentpop.shop" address=0.0.0.0
 add name="blacktridents.shop" address=0.0.0.0
@@ -3929,6 +3930,7 @@ add name="bremets.lol" address=0.0.0.0
 add name="bremsen-onshop.com" address=0.0.0.0
 add name="bremsenonshop.com" address=0.0.0.0
 add name="bremsenverkauf.com" address=0.0.0.0
+add name="brenholz-karl.de" address=0.0.0.0
 add name="brenn-holzinger.at" address=0.0.0.0
 add name="brenner-berlin.com" address=0.0.0.0
 add name="brennholz-anhaenger.de" address=0.0.0.0
@@ -4093,6 +4095,7 @@ add name="bst-werkzeuge.de" address=0.0.0.0
 add name="btcminer.website" address=0.0.0.0
 add name="btcswing.com" address=0.0.0.0
 add name="btglss.net" address=0.0.0.0
+add name="btrgservices.com" address=0.0.0.0
 add name="btrll.com" address=0.0.0.0
 add name="bttrack.com" address=0.0.0.0
 add name="bubaloo.de" address=0.0.0.0
@@ -5558,6 +5561,7 @@ add name="cryptoassetscontrol.com" address=0.0.0.0
 add name="cryptobullbear.com" address=0.0.0.0
 add name="cryptocase.online" address=0.0.0.0
 add name="cryptocash24.com" address=0.0.0.0
+add name="cryptoeasily.com" address=0.0.0.0
 add name="cryptofast.net" address=0.0.0.0
 add name="cryptofundfx.com" address=0.0.0.0
 add name="cryptomoney888.com" address=0.0.0.0
@@ -5591,7 +5595,6 @@ add name="cstat.apple.com.edgesuite.net" address=0.0.0.0
 add name="cstat.cdn-apple.com" address=0.0.0.0
 add name="cstat.g.aaplimg.com" address=0.0.0.0
 add name="csunbox.com" address=0.0.0.0
-add name="ctbike.pl" address=0.0.0.0
 add name="cthesky.com" address=0.0.0.0
 add name="ctoption.com" address=0.0.0.0
 add name="ctxholdings.com" address=0.0.0.0
@@ -6480,6 +6483,7 @@ add name="domaining.in" address=0.0.0.0
 add name="domatin.com" address=0.0.0.0
 add name="domdex.com" address=0.0.0.0
 add name="domelus.de" address=0.0.0.0
+add name="domfa-bois.com" address=0.0.0.0
 add name="dominguesequipamentos.com" address=0.0.0.0
 add name="domino-handel.de" address=0.0.0.0
 add name="don-art.de" address=0.0.0.0
@@ -6746,6 +6750,7 @@ add name="e-bikeonsales.com" address=0.0.0.0
 add name="e-bikerabatt.com" address=0.0.0.0
 add name="e-bikermarkt.de" address=0.0.0.0
 add name="e-bikesmkgmbh-de.com" address=0.0.0.0
+add name="e-bikesmkgmbh.com" address=0.0.0.0
 add name="e-bikesparepartsde.com" address=0.0.0.0
 add name="e-eu.customeriomail.com" address=0.0.0.0
 add name="e-fahrrader.de" address=0.0.0.0
@@ -7055,6 +7060,7 @@ add name="elektrozone24.com" address=0.0.0.0
 add name="elementaryfinancial.com" address=0.0.0.0
 add name="elementaryt.com" address=0.0.0.0
 add name="elencoco.com" address=0.0.0.0
+add name="eletro-remedios.com" address=0.0.0.0
 add name="eletrospark.de" address=0.0.0.0
 add name="eletrostartestufas.com" address=0.0.0.0
 add name="elevateclimbing.com" address=0.0.0.0
@@ -7560,7 +7566,6 @@ add name="evs.sgmt.loom.com" address=0.0.0.0
 add name="evutal.com" address=0.0.0.0
 add name="evyy.net" address=0.0.0.0
 add name="ewige-seide.de" address=0.0.0.0
-add name="ewigerbund.org" address=0.0.0.0
 add name="ewuyvw.shop" address=0.0.0.0
 add name="ewzmvasz.shop" address=0.0.0.0
 add name="ex-adreq-asia.vivoglobal.com" address=0.0.0.0
@@ -10483,6 +10488,7 @@ add name="holzfursfeuer.de" address=0.0.0.0
 add name="holzfurzuhause.de" address=0.0.0.0
 add name="holzgartenprofi.de" address=0.0.0.0
 add name="holzgluck.de" address=0.0.0.0
+add name="holzglut24.de" address=0.0.0.0
 add name="holzgutexpress.de" address=0.0.0.0
 add name="holzhack-schnitzel.de" address=0.0.0.0
 add name="holzhambach.com" address=0.0.0.0
@@ -14874,6 +14880,7 @@ add name="monetizer101.com" address=0.0.0.0
 add name="monexis.co" address=0.0.0.0
 add name="monicasneaker.cc" address=0.0.0.0
 add name="monido.de" address=0.0.0.0
+add name="monika-mueller-brennholzhandel.de" address=0.0.0.0
 add name="monika-taschen.com" address=0.0.0.0
 add name="monirahouse.com" address=0.0.0.0
 add name="monitor-stsdk.vivoglobal.com" address=0.0.0.0
@@ -14929,7 +14936,6 @@ add name="moonbootsuomi.net" address=0.0.0.0
 add name="moonbootukstore.com" address=0.0.0.0
 add name="moonetrix.com" address=0.0.0.0
 add name="moongadgets.com" address=0.0.0.0
-add name="moongor.com" address=0.0.0.0
 add name="moonkie.de" address=0.0.0.0
 add name="moonpod.de" address=0.0.0.0
 add name="moontod.com" address=0.0.0.0
@@ -15180,7 +15186,6 @@ add name="musikprofi.com" address=0.0.0.0
 add name="musikstrings.com" address=0.0.0.0
 add name="musikwelt-lindner.de" address=0.0.0.0
 add name="musiqueonline.com" address=0.0.0.0
-add name="muskangaming.com" address=0.0.0.0
 add name="muskanonline.com" address=0.0.0.0
 add name="mustang-parts-shop.de" address=0.0.0.0
 add name="muteknife.com" address=0.0.0.0
@@ -15705,7 +15710,6 @@ add name="nordstolz.com" address=0.0.0.0
 add name="nordvian.com" address=0.0.0.0
 add name="norenze.com" address=0.0.0.0
 add name="norevialife.com" address=0.0.0.0
-add name="norfolkhotels24.com" address=0.0.0.0
 add name="norge-apt.com" address=0.0.0.0
 add name="norge-ed.com" address=0.0.0.0
 add name="norgeapotek24.com" address=0.0.0.0
@@ -16844,6 +16848,7 @@ add name="pepperjamnetwork.com" address=0.0.0.0
 add name="pepperstone.vip" address=0.0.0.0
 add name="pepstore.org" address=0.0.0.0
 add name="peptide-kaufen.com" address=0.0.0.0
+add name="peptidekonings.com" address=0.0.0.0
 add name="peptidy.org" address=0.0.0.0
 add name="peptipenonline.com" address=0.0.0.0
 add name="percentmobile.com" address=0.0.0.0
@@ -18731,6 +18736,7 @@ add name="rundsp.com" address=0.0.0.0
 add name="rundumstrikot.de" address=0.0.0.0
 add name="runrigstack.click" address=0.0.0.0
 add name="runtrainpro.com" address=0.0.0.0
+add name="rupills.com" address=0.0.0.0
 add name="ruralrobin.com" address=0.0.0.0
 add name="rus-service-eu.allawnos.com" address=0.0.0.0
 add name="rus-service-in.allawnos.com" address=0.0.0.0
@@ -18752,6 +18758,7 @@ add name="rx-budapest.com" address=0.0.0.0
 add name="rx-pharma.net" address=0.0.0.0
 add name="rx-pharmacies.com" address=0.0.0.0
 add name="rx-qualityshop.com" address=0.0.0.0
+add name="rx-true.com" address=0.0.0.0
 add name="rx247rx.com" address=0.0.0.0
 add name="rxapothekefursie.com" address=0.0.0.0
 add name="rxappfree.com" address=0.0.0.0
@@ -19219,6 +19226,7 @@ add name="sciencefactoryshop.de" address=0.0.0.0
 add name="scieriesaugues.de" address=0.0.0.0
 add name="scintillatingscissors.com" address=0.0.0.0
 add name="scintillatingsilver.com" address=0.0.0.0
+add name="sciponoe.com" address=0.0.0.0
 add name="sciscirc.com" address=0.0.0.0
 add name="scissorsstatement.com" address=0.0.0.0
 add name="scontainer-logististikgmbh.de" address=0.0.0.0

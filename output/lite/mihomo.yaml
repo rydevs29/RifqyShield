@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-25 02:30:33
-# Total Domains: 24,243
+# Last Updated: 2026-10-26 02:29:43
+# Total Domains: 24,251
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -1559,6 +1559,7 @@ payload:
   - DOMAIN-SUFFIX,allerhand-md.de
   - DOMAIN-SUFFIX,allerleitrendshop.de
   - DOMAIN-SUFFIX,alles-anhanger.com
+  - DOMAIN-SUFFIX,alles-origami.store
   - DOMAIN-SUFFIX,allesescooter.de
   - DOMAIN-SUFFIX,allesfuerdengarten.com
   - DOMAIN-SUFFIX,allesfurzuhause.de
@@ -3161,6 +3162,7 @@ payload:
   - DOMAIN-SUFFIX,berg-mode.de
   - DOMAIN-SUFFIX,bergandlind.com
   - DOMAIN-SUFFIX,bergcycle.com
+  - DOMAIN-SUFFIX,berger-brennstoffe.com
   - DOMAIN-SUFFIX,berger-seidle-shop.de
   - DOMAIN-SUFFIX,bergermode.com
   - DOMAIN-SUFFIX,bergersearch.at
@@ -3627,7 +3629,6 @@ payload:
   - DOMAIN-SUFFIX,bl-group.net
   - DOMAIN-SUFFIX,black-shepp-gastroservice.com
   - DOMAIN-SUFFIX,blackcatstore.de
-  - DOMAIN-SUFFIX,blackfridaymegastore.com
   - DOMAIN-SUFFIX,blackgurlzsmagickloset.com
   - DOMAIN-SUFFIX,blacktridentpop.shop
   - DOMAIN-SUFFIX,blacktridents.shop
@@ -3929,6 +3930,7 @@ payload:
   - DOMAIN-SUFFIX,bremsen-onshop.com
   - DOMAIN-SUFFIX,bremsenonshop.com
   - DOMAIN-SUFFIX,bremsenverkauf.com
+  - DOMAIN-SUFFIX,brenholz-karl.de
   - DOMAIN-SUFFIX,brenn-holzinger.at
   - DOMAIN-SUFFIX,brenner-berlin.com
   - DOMAIN-SUFFIX,brennholz-anhaenger.de
@@ -4093,6 +4095,7 @@ payload:
   - DOMAIN-SUFFIX,btcminer.website
   - DOMAIN-SUFFIX,btcswing.com
   - DOMAIN-SUFFIX,btglss.net
+  - DOMAIN-SUFFIX,btrgservices.com
   - DOMAIN-SUFFIX,btrll.com
   - DOMAIN-SUFFIX,bttrack.com
   - DOMAIN-SUFFIX,bubaloo.de
@@ -5558,6 +5561,7 @@ payload:
   - DOMAIN-SUFFIX,cryptobullbear.com
   - DOMAIN-SUFFIX,cryptocase.online
   - DOMAIN-SUFFIX,cryptocash24.com
+  - DOMAIN-SUFFIX,cryptoeasily.com
   - DOMAIN-SUFFIX,cryptofast.net
   - DOMAIN-SUFFIX,cryptofundfx.com
   - DOMAIN-SUFFIX,cryptomoney888.com
@@ -5591,7 +5595,6 @@ payload:
   - DOMAIN-SUFFIX,cstat.cdn-apple.com
   - DOMAIN-SUFFIX,cstat.g.aaplimg.com
   - DOMAIN-SUFFIX,csunbox.com
-  - DOMAIN-SUFFIX,ctbike.pl
   - DOMAIN-SUFFIX,cthesky.com
   - DOMAIN-SUFFIX,ctoption.com
   - DOMAIN-SUFFIX,ctxholdings.com
@@ -6480,6 +6483,7 @@ payload:
   - DOMAIN-SUFFIX,domatin.com
   - DOMAIN-SUFFIX,domdex.com
   - DOMAIN-SUFFIX,domelus.de
+  - DOMAIN-SUFFIX,domfa-bois.com
   - DOMAIN-SUFFIX,dominguesequipamentos.com
   - DOMAIN-SUFFIX,domino-handel.de
   - DOMAIN-SUFFIX,don-art.de
@@ -6746,6 +6750,7 @@ payload:
   - DOMAIN-SUFFIX,e-bikerabatt.com
   - DOMAIN-SUFFIX,e-bikermarkt.de
   - DOMAIN-SUFFIX,e-bikesmkgmbh-de.com
+  - DOMAIN-SUFFIX,e-bikesmkgmbh.com
   - DOMAIN-SUFFIX,e-bikesparepartsde.com
   - DOMAIN-SUFFIX,e-eu.customeriomail.com
   - DOMAIN-SUFFIX,e-fahrrader.de
@@ -7055,6 +7060,7 @@ payload:
   - DOMAIN-SUFFIX,elementaryfinancial.com
   - DOMAIN-SUFFIX,elementaryt.com
   - DOMAIN-SUFFIX,elencoco.com
+  - DOMAIN-SUFFIX,eletro-remedios.com
   - DOMAIN-SUFFIX,eletrospark.de
   - DOMAIN-SUFFIX,eletrostartestufas.com
   - DOMAIN-SUFFIX,elevateclimbing.com
@@ -7560,7 +7566,6 @@ payload:
   - DOMAIN-SUFFIX,evutal.com
   - DOMAIN-SUFFIX,evyy.net
   - DOMAIN-SUFFIX,ewige-seide.de
-  - DOMAIN-SUFFIX,ewigerbund.org
   - DOMAIN-SUFFIX,ewuyvw.shop
   - DOMAIN-SUFFIX,ewzmvasz.shop
   - DOMAIN-SUFFIX,ex-adreq-asia.vivoglobal.com
@@ -10483,6 +10488,7 @@ payload:
   - DOMAIN-SUFFIX,holzfurzuhause.de
   - DOMAIN-SUFFIX,holzgartenprofi.de
   - DOMAIN-SUFFIX,holzgluck.de
+  - DOMAIN-SUFFIX,holzglut24.de
   - DOMAIN-SUFFIX,holzgutexpress.de
   - DOMAIN-SUFFIX,holzhack-schnitzel.de
   - DOMAIN-SUFFIX,holzhambach.com
@@ -14874,6 +14880,7 @@ payload:
   - DOMAIN-SUFFIX,monexis.co
   - DOMAIN-SUFFIX,monicasneaker.cc
   - DOMAIN-SUFFIX,monido.de
+  - DOMAIN-SUFFIX,monika-mueller-brennholzhandel.de
   - DOMAIN-SUFFIX,monika-taschen.com
   - DOMAIN-SUFFIX,monirahouse.com
   - DOMAIN-SUFFIX,monitor-stsdk.vivoglobal.com
@@ -14929,7 +14936,6 @@ payload:
   - DOMAIN-SUFFIX,moonbootukstore.com
   - DOMAIN-SUFFIX,moonetrix.com
   - DOMAIN-SUFFIX,moongadgets.com
-  - DOMAIN-SUFFIX,moongor.com
   - DOMAIN-SUFFIX,moonkie.de
   - DOMAIN-SUFFIX,moonpod.de
   - DOMAIN-SUFFIX,moontod.com
@@ -15180,7 +15186,6 @@ payload:
   - DOMAIN-SUFFIX,musikstrings.com
   - DOMAIN-SUFFIX,musikwelt-lindner.de
   - DOMAIN-SUFFIX,musiqueonline.com
-  - DOMAIN-SUFFIX,muskangaming.com
   - DOMAIN-SUFFIX,muskanonline.com
   - DOMAIN-SUFFIX,mustang-parts-shop.de
   - DOMAIN-SUFFIX,muteknife.com
@@ -15705,7 +15710,6 @@ payload:
   - DOMAIN-SUFFIX,nordvian.com
   - DOMAIN-SUFFIX,norenze.com
   - DOMAIN-SUFFIX,norevialife.com
-  - DOMAIN-SUFFIX,norfolkhotels24.com
   - DOMAIN-SUFFIX,norge-apt.com
   - DOMAIN-SUFFIX,norge-ed.com
   - DOMAIN-SUFFIX,norgeapotek24.com
@@ -16844,6 +16848,7 @@ payload:
   - DOMAIN-SUFFIX,pepperstone.vip
   - DOMAIN-SUFFIX,pepstore.org
   - DOMAIN-SUFFIX,peptide-kaufen.com
+  - DOMAIN-SUFFIX,peptidekonings.com
   - DOMAIN-SUFFIX,peptidy.org
   - DOMAIN-SUFFIX,peptipenonline.com
   - DOMAIN-SUFFIX,percentmobile.com
@@ -18731,6 +18736,7 @@ payload:
   - DOMAIN-SUFFIX,rundumstrikot.de
   - DOMAIN-SUFFIX,runrigstack.click
   - DOMAIN-SUFFIX,runtrainpro.com
+  - DOMAIN-SUFFIX,rupills.com
   - DOMAIN-SUFFIX,ruralrobin.com
   - DOMAIN-SUFFIX,rus-service-eu.allawnos.com
   - DOMAIN-SUFFIX,rus-service-in.allawnos.com
@@ -18752,6 +18758,7 @@ payload:
   - DOMAIN-SUFFIX,rx-pharma.net
   - DOMAIN-SUFFIX,rx-pharmacies.com
   - DOMAIN-SUFFIX,rx-qualityshop.com
+  - DOMAIN-SUFFIX,rx-true.com
   - DOMAIN-SUFFIX,rx247rx.com
   - DOMAIN-SUFFIX,rxapothekefursie.com
   - DOMAIN-SUFFIX,rxappfree.com
@@ -19219,6 +19226,7 @@ payload:
   - DOMAIN-SUFFIX,scieriesaugues.de
   - DOMAIN-SUFFIX,scintillatingscissors.com
   - DOMAIN-SUFFIX,scintillatingsilver.com
+  - DOMAIN-SUFFIX,sciponoe.com
   - DOMAIN-SUFFIX,sciscirc.com
   - DOMAIN-SUFFIX,scissorsstatement.com
   - DOMAIN-SUFFIX,scontainer-logististikgmbh.de

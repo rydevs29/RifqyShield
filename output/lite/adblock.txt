@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-10-25 02:30:33
-! Total Domains: 24,243
+! Last Updated: 2026-10-26 02:29:43
+! Total Domains: 24,251
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -1558,6 +1558,7 @@
 ||allerhand-md.de^
 ||allerleitrendshop.de^
 ||alles-anhanger.com^
+||alles-origami.store^
 ||allesescooter.de^
 ||allesfuerdengarten.com^
 ||allesfurzuhause.de^
@@ -3160,6 +3161,7 @@
 ||berg-mode.de^
 ||bergandlind.com^
 ||bergcycle.com^
+||berger-brennstoffe.com^
 ||berger-seidle-shop.de^
 ||bergermode.com^
 ||bergersearch.at^
@@ -3626,7 +3628,6 @@
 ||bl-group.net^
 ||black-shepp-gastroservice.com^
 ||blackcatstore.de^
-||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
 ||blacktridentpop.shop^
 ||blacktridents.shop^
@@ -3928,6 +3929,7 @@
 ||bremsen-onshop.com^
 ||bremsenonshop.com^
 ||bremsenverkauf.com^
+||brenholz-karl.de^
 ||brenn-holzinger.at^
 ||brenner-berlin.com^
 ||brennholz-anhaenger.de^
@@ -4092,6 +4094,7 @@
 ||btcminer.website^
 ||btcswing.com^
 ||btglss.net^
+||btrgservices.com^
 ||btrll.com^
 ||bttrack.com^
 ||bubaloo.de^
@@ -5557,6 +5560,7 @@
 ||cryptobullbear.com^
 ||cryptocase.online^
 ||cryptocash24.com^
+||cryptoeasily.com^
 ||cryptofast.net^
 ||cryptofundfx.com^
 ||cryptomoney888.com^
@@ -5590,7 +5594,6 @@
 ||cstat.cdn-apple.com^
 ||cstat.g.aaplimg.com^
 ||csunbox.com^
-||ctbike.pl^
 ||cthesky.com^
 ||ctoption.com^
 ||ctxholdings.com^
@@ -6479,6 +6482,7 @@
 ||domatin.com^
 ||domdex.com^
 ||domelus.de^
+||domfa-bois.com^
 ||dominguesequipamentos.com^
 ||domino-handel.de^
 ||don-art.de^
@@ -6745,6 +6749,7 @@
 ||e-bikerabatt.com^
 ||e-bikermarkt.de^
 ||e-bikesmkgmbh-de.com^
+||e-bikesmkgmbh.com^
 ||e-bikesparepartsde.com^
 ||e-eu.customeriomail.com^
 ||e-fahrrader.de^
@@ -7054,6 +7059,7 @@
 ||elementaryfinancial.com^
 ||elementaryt.com^
 ||elencoco.com^
+||eletro-remedios.com^
 ||eletrospark.de^
 ||eletrostartestufas.com^
 ||elevateclimbing.com^
@@ -7559,7 +7565,6 @@
 ||evutal.com^
 ||evyy.net^
 ||ewige-seide.de^
-||ewigerbund.org^
 ||ewuyvw.shop^
 ||ewzmvasz.shop^
 ||ex-adreq-asia.vivoglobal.com^
@@ -10482,6 +10487,7 @@
 ||holzfurzuhause.de^
 ||holzgartenprofi.de^
 ||holzgluck.de^
+||holzglut24.de^
 ||holzgutexpress.de^
 ||holzhack-schnitzel.de^
 ||holzhambach.com^
@@ -14873,6 +14879,7 @@
 ||monexis.co^
 ||monicasneaker.cc^
 ||monido.de^
+||monika-mueller-brennholzhandel.de^
 ||monika-taschen.com^
 ||monirahouse.com^
 ||monitor-stsdk.vivoglobal.com^
@@ -14928,7 +14935,6 @@
 ||moonbootukstore.com^
 ||moonetrix.com^
 ||moongadgets.com^
-||moongor.com^
 ||moonkie.de^
 ||moonpod.de^
 ||moontod.com^
@@ -15179,7 +15185,6 @@
 ||musikstrings.com^
 ||musikwelt-lindner.de^
 ||musiqueonline.com^
-||muskangaming.com^
 ||muskanonline.com^
 ||mustang-parts-shop.de^
 ||muteknife.com^
@@ -15704,7 +15709,6 @@
 ||nordvian.com^
 ||norenze.com^
 ||norevialife.com^
-||norfolkhotels24.com^
 ||norge-apt.com^
 ||norge-ed.com^
 ||norgeapotek24.com^
@@ -16843,6 +16847,7 @@
 ||pepperstone.vip^
 ||pepstore.org^
 ||peptide-kaufen.com^
+||peptidekonings.com^
 ||peptidy.org^
 ||peptipenonline.com^
 ||percentmobile.com^
@@ -18730,6 +18735,7 @@
 ||rundumstrikot.de^
 ||runrigstack.click^
 ||runtrainpro.com^
+||rupills.com^
 ||ruralrobin.com^
 ||rus-service-eu.allawnos.com^
 ||rus-service-in.allawnos.com^
@@ -18751,6 +18757,7 @@
 ||rx-pharma.net^
 ||rx-pharmacies.com^
 ||rx-qualityshop.com^
+||rx-true.com^
 ||rx247rx.com^
 ||rxapothekefursie.com^
 ||rxappfree.com^
@@ -19218,6 +19225,7 @@
 ||scieriesaugues.de^
 ||scintillatingscissors.com^
 ||scintillatingsilver.com^
+||sciponoe.com^
 ||sciscirc.com^
 ||scissorsstatement.com^
 ||scontainer-logististikgmbh.de^
