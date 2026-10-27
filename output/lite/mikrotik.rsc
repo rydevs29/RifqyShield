@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-26 02:29:43
-# Total Domains: 24,251
+# Last Updated: 2026-10-27 03:04:44
+# Total Domains: 24,248
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -7463,7 +7463,6 @@ add name="europaeisches-treuhandkontor.com" address=0.0.0.0
 add name="europaischeapotheke.com" address=0.0.0.0
 add name="europalettenmoebel.de" address=0.0.0.0
 add name="europe-pack.eu" address=0.0.0.0
-add name="europe-pharm.com" address=0.0.0.0
 add name="europe-pimco.com" address=0.0.0.0
 add name="european-pharmacy.online" address=0.0.0.0
 add name="europeangeneric.com" address=0.0.0.0
@@ -7566,6 +7565,7 @@ add name="evs.sgmt.loom.com" address=0.0.0.0
 add name="evutal.com" address=0.0.0.0
 add name="evyy.net" address=0.0.0.0
 add name="ewige-seide.de" address=0.0.0.0
+add name="ewigerbund.org" address=0.0.0.0
 add name="ewuyvw.shop" address=0.0.0.0
 add name="ewzmvasz.shop" address=0.0.0.0
 add name="ex-adreq-asia.vivoglobal.com" address=0.0.0.0
@@ -7835,7 +7835,6 @@ add name="farmacija-hr.com" address=0.0.0.0
 add name="farmacija-hrvatska.com" address=0.0.0.0
 add name="farmacijahr.com" address=0.0.0.0
 add name="farmacijahrvatska24.com" address=0.0.0.0
-add name="farmaed.com" address=0.0.0.0
 add name="farmakeioellada.com" address=0.0.0.0
 add name="farmakeioellada24.com" address=0.0.0.0
 add name="farmakeioellinika.com" address=0.0.0.0
@@ -10637,7 +10636,6 @@ add name="hotelaustralien.de" address=0.0.0.0
 add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotelsinperm.ru" address=0.0.0.0
-add name="hotelsinvienna.org" address=0.0.0.0
 add name="hotelsofmenorca.com" address=0.0.0.0
 add name="hotelwareus.com" address=0.0.0.0
 add name="hotelwhales.com" address=0.0.0.0
@@ -14936,6 +14934,7 @@ add name="moonbootsuomi.net" address=0.0.0.0
 add name="moonbootukstore.com" address=0.0.0.0
 add name="moonetrix.com" address=0.0.0.0
 add name="moongadgets.com" address=0.0.0.0
+add name="moongor.com" address=0.0.0.0
 add name="moonkie.de" address=0.0.0.0
 add name="moonpod.de" address=0.0.0.0
 add name="moontod.com" address=0.0.0.0
@@ -17155,7 +17154,6 @@ add name="platform-ai-trade.com" address=0.0.0.0
 add name="platform.ap-capital-lim.com" address=0.0.0.0
 add name="platform.invesco-trading.com" address=0.0.0.0
 add name="platform.softwarecrownex.com" address=0.0.0.0
-add name="platincoin.com" address=0.0.0.0
 add name="platinwerk.de" address=0.0.0.0
 add name="platten24.com" address=0.0.0.0
 add name="platzimgarten.com" address=0.0.0.0
@@ -20331,7 +20329,6 @@ add name="spuelerparts.com" address=0.0.0.0
 add name="spulse.net" address=0.0.0.0
 add name="spybulbcamera.de" address=0.0.0.0
 add name="spydersale.de" address=0.0.0.0
-add name="spydiscount24.com" address=0.0.0.0
 add name="spylog.com" address=0.0.0.0
 add name="spynet2.microsoft.com" address=0.0.0.0
 add name="spynetalt.microsoft.com" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-26 02:29:43
-# Total Domains: 24,251
+# Last Updated: 2026-10-27 03:04:44
+# Total Domains: 24,248
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -7463,7 +7463,6 @@ payload:
   - DOMAIN-SUFFIX,europaischeapotheke.com
   - DOMAIN-SUFFIX,europalettenmoebel.de
   - DOMAIN-SUFFIX,europe-pack.eu
-  - DOMAIN-SUFFIX,europe-pharm.com
   - DOMAIN-SUFFIX,europe-pimco.com
   - DOMAIN-SUFFIX,european-pharmacy.online
   - DOMAIN-SUFFIX,europeangeneric.com
@@ -7566,6 +7565,7 @@ payload:
   - DOMAIN-SUFFIX,evutal.com
   - DOMAIN-SUFFIX,evyy.net
   - DOMAIN-SUFFIX,ewige-seide.de
+  - DOMAIN-SUFFIX,ewigerbund.org
   - DOMAIN-SUFFIX,ewuyvw.shop
   - DOMAIN-SUFFIX,ewzmvasz.shop
   - DOMAIN-SUFFIX,ex-adreq-asia.vivoglobal.com
@@ -7835,7 +7835,6 @@ payload:
   - DOMAIN-SUFFIX,farmacija-hrvatska.com
   - DOMAIN-SUFFIX,farmacijahr.com
   - DOMAIN-SUFFIX,farmacijahrvatska24.com
-  - DOMAIN-SUFFIX,farmaed.com
   - DOMAIN-SUFFIX,farmakeioellada.com
   - DOMAIN-SUFFIX,farmakeioellada24.com
   - DOMAIN-SUFFIX,farmakeioellinika.com
@@ -10637,7 +10636,6 @@ payload:
   - DOMAIN-SUFFIX,hotelladen.com
   - DOMAIN-SUFFIX,hotels-colombo.com
   - DOMAIN-SUFFIX,hotelsinperm.ru
-  - DOMAIN-SUFFIX,hotelsinvienna.org
   - DOMAIN-SUFFIX,hotelsofmenorca.com
   - DOMAIN-SUFFIX,hotelwareus.com
   - DOMAIN-SUFFIX,hotelwhales.com
@@ -14936,6 +14934,7 @@ payload:
   - DOMAIN-SUFFIX,moonbootukstore.com
   - DOMAIN-SUFFIX,moonetrix.com
   - DOMAIN-SUFFIX,moongadgets.com
+  - DOMAIN-SUFFIX,moongor.com
   - DOMAIN-SUFFIX,moonkie.de
   - DOMAIN-SUFFIX,moonpod.de
   - DOMAIN-SUFFIX,moontod.com
@@ -17155,7 +17154,6 @@ payload:
   - DOMAIN-SUFFIX,platform.ap-capital-lim.com
   - DOMAIN-SUFFIX,platform.invesco-trading.com
   - DOMAIN-SUFFIX,platform.softwarecrownex.com
-  - DOMAIN-SUFFIX,platincoin.com
   - DOMAIN-SUFFIX,platinwerk.de
   - DOMAIN-SUFFIX,platten24.com
   - DOMAIN-SUFFIX,platzimgarten.com
@@ -20331,7 +20329,6 @@ payload:
   - DOMAIN-SUFFIX,spulse.net
   - DOMAIN-SUFFIX,spybulbcamera.de
   - DOMAIN-SUFFIX,spydersale.de
-  - DOMAIN-SUFFIX,spydiscount24.com
   - DOMAIN-SUFFIX,spylog.com
   - DOMAIN-SUFFIX,spynet2.microsoft.com
   - DOMAIN-SUFFIX,spynetalt.microsoft.com

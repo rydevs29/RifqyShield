@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-26 02:29:43
-# Total Domains: 24,251
+# Last Updated: 2026-10-27 03:04:44
+# Total Domains: 24,248
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -7462,7 +7462,6 @@ DOMAIN-SUFFIX,europaeisches-treuhandkontor.com,REJECT
 DOMAIN-SUFFIX,europaischeapotheke.com,REJECT
 DOMAIN-SUFFIX,europalettenmoebel.de,REJECT
 DOMAIN-SUFFIX,europe-pack.eu,REJECT
-DOMAIN-SUFFIX,europe-pharm.com,REJECT
 DOMAIN-SUFFIX,europe-pimco.com,REJECT
 DOMAIN-SUFFIX,european-pharmacy.online,REJECT
 DOMAIN-SUFFIX,europeangeneric.com,REJECT
@@ -7565,6 +7564,7 @@ DOMAIN-SUFFIX,evs.sgmt.loom.com,REJECT
 DOMAIN-SUFFIX,evutal.com,REJECT
 DOMAIN-SUFFIX,evyy.net,REJECT
 DOMAIN-SUFFIX,ewige-seide.de,REJECT
+DOMAIN-SUFFIX,ewigerbund.org,REJECT
 DOMAIN-SUFFIX,ewuyvw.shop,REJECT
 DOMAIN-SUFFIX,ewzmvasz.shop,REJECT
 DOMAIN-SUFFIX,ex-adreq-asia.vivoglobal.com,REJECT
@@ -7834,7 +7834,6 @@ DOMAIN-SUFFIX,farmacija-hr.com,REJECT
 DOMAIN-SUFFIX,farmacija-hrvatska.com,REJECT
 DOMAIN-SUFFIX,farmacijahr.com,REJECT
 DOMAIN-SUFFIX,farmacijahrvatska24.com,REJECT
-DOMAIN-SUFFIX,farmaed.com,REJECT
 DOMAIN-SUFFIX,farmakeioellada.com,REJECT
 DOMAIN-SUFFIX,farmakeioellada24.com,REJECT
 DOMAIN-SUFFIX,farmakeioellinika.com,REJECT
@@ -10636,7 +10635,6 @@ DOMAIN-SUFFIX,hotelaustralien.de,REJECT
 DOMAIN-SUFFIX,hotelladen.com,REJECT
 DOMAIN-SUFFIX,hotels-colombo.com,REJECT
 DOMAIN-SUFFIX,hotelsinperm.ru,REJECT
-DOMAIN-SUFFIX,hotelsinvienna.org,REJECT
 DOMAIN-SUFFIX,hotelsofmenorca.com,REJECT
 DOMAIN-SUFFIX,hotelwareus.com,REJECT
 DOMAIN-SUFFIX,hotelwhales.com,REJECT
@@ -14935,6 +14933,7 @@ DOMAIN-SUFFIX,moonbootsuomi.net,REJECT
 DOMAIN-SUFFIX,moonbootukstore.com,REJECT
 DOMAIN-SUFFIX,moonetrix.com,REJECT
 DOMAIN-SUFFIX,moongadgets.com,REJECT
+DOMAIN-SUFFIX,moongor.com,REJECT
 DOMAIN-SUFFIX,moonkie.de,REJECT
 DOMAIN-SUFFIX,moonpod.de,REJECT
 DOMAIN-SUFFIX,moontod.com,REJECT
@@ -17154,7 +17153,6 @@ DOMAIN-SUFFIX,platform-ai-trade.com,REJECT
 DOMAIN-SUFFIX,platform.ap-capital-lim.com,REJECT
 DOMAIN-SUFFIX,platform.invesco-trading.com,REJECT
 DOMAIN-SUFFIX,platform.softwarecrownex.com,REJECT
-DOMAIN-SUFFIX,platincoin.com,REJECT
 DOMAIN-SUFFIX,platinwerk.de,REJECT
 DOMAIN-SUFFIX,platten24.com,REJECT
 DOMAIN-SUFFIX,platzimgarten.com,REJECT
@@ -20330,7 +20328,6 @@ DOMAIN-SUFFIX,spuelerparts.com,REJECT
 DOMAIN-SUFFIX,spulse.net,REJECT
 DOMAIN-SUFFIX,spybulbcamera.de,REJECT
 DOMAIN-SUFFIX,spydersale.de,REJECT
-DOMAIN-SUFFIX,spydiscount24.com,REJECT
 DOMAIN-SUFFIX,spylog.com,REJECT
 DOMAIN-SUFFIX,spynet2.microsoft.com,REJECT
 DOMAIN-SUFFIX,spynetalt.microsoft.com,REJECT
