@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-27 03:04:44
-# Total Domains: 24,248
+# Last Updated: 2026-10-28 03:16:37
+# Total Domains: 24,273
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -10,7 +10,6 @@ add name="01crypto.com" address=0.0.0.0
 add name="0dgwn.bemobtrcks.com" address=0.0.0.0
 add name="0el-preiswert-kaufen.de" address=0.0.0.0
 add name="0hyzxx-rc.myshopify.com" address=0.0.0.0
-add name="1-rx-shop.com" address=0.0.0.0
 add name="101com.com" address=0.0.0.0
 add name="101vectorcenter.sbs" address=0.0.0.0
 add name="10xdealership.com" address=0.0.0.0
@@ -144,6 +143,7 @@ add name="a-baustofflager.com" address=0.0.0.0
 add name="a-markt.de" address=0.0.0.0
 add name="a-ring-fallback.msedge.net" address=0.0.0.0
 add name="a-ring.msedge.net" address=0.0.0.0
+add name="a.bestcontentfood.top" address=0.0.0.0
 add name="a.hl.mi.com" address=0.0.0.0
 add name="a.market.xiaomi.com" address=0.0.0.0
 add name="a.mizuthread.com" address=0.0.0.0
@@ -1951,6 +1951,7 @@ add name="ankelinerherz.com" address=0.0.0.0
 add name="ankerkrautde.shop" address=0.0.0.0
 add name="ankotec.de" address=0.0.0.0
 add name="anlage-kauf.de" address=0.0.0.0
+add name="anlagenmontage-knubbe.com" address=0.0.0.0
 add name="anlassgeschenke.com" address=0.0.0.0
 add name="anna-atelier.com" address=0.0.0.0
 add name="anna-oslo.com" address=0.0.0.0
@@ -3031,6 +3032,7 @@ add name="beaccustomed.com" address=0.0.0.0
 add name="beachfront.com" address=0.0.0.0
 add name="beachitem.com" address=0.0.0.0
 add name="beachsissi.com" address=0.0.0.0
+add name="beachwalkbali.com" address=0.0.0.0
 add name="beacon.gu-web.net" address=0.0.0.0
 add name="beacon.netflix.com" address=0.0.0.0
 add name="beacon.shazam.com" address=0.0.0.0
@@ -3199,6 +3201,7 @@ add name="berkfurnitureoutlet.com" address=0.0.0.0
 add name="berklan.myshopify.com" address=0.0.0.0
 add name="berkler-maschinen.de" address=0.0.0.0
 add name="berkshirede.myshopify.com" address=0.0.0.0
+add name="berlin-brennstoffe.de" address=0.0.0.0
 add name="berlin-moda.de" address=0.0.0.0
 add name="berlinbeardeal.de" address=0.0.0.0
 add name="berlincrown.com" address=0.0.0.0
@@ -3629,6 +3632,7 @@ add name="bkrtx.com" address=0.0.0.0
 add name="bl-group.net" address=0.0.0.0
 add name="black-shepp-gastroservice.com" address=0.0.0.0
 add name="blackcatstore.de" address=0.0.0.0
+add name="blackfridaymegastore.com" address=0.0.0.0
 add name="blackgurlzsmagickloset.com" address=0.0.0.0
 add name="blacktridentpop.shop" address=0.0.0.0
 add name="blacktridents.shop" address=0.0.0.0
@@ -3958,14 +3962,17 @@ add name="brennholzboersch.com" address=0.0.0.0
 add name="brennholzbredemeier.com" address=0.0.0.0
 add name="brennholzdirekt.com" address=0.0.0.0
 add name="brennholzgarten.de" address=0.0.0.0
+add name="brennholzhandelmartens.com" address=0.0.0.0
 add name="brennholzhaus.com" address=0.0.0.0
 add name="brennholzhaus.de" address=0.0.0.0
 add name="brennholzhochwald-de.com" address=0.0.0.0
 add name="brennholzkamin.de" address=0.0.0.0
 add name="brennholzkaufen.shop" address=0.0.0.0
+add name="brennholzkontorscharf.de" address=0.0.0.0
 add name="brennholzkraft.com" address=0.0.0.0
 add name="brennholzmarkt.com" address=0.0.0.0
 add name="brennholzmichalhoff.com" address=0.0.0.0
+add name="brennholzmuscheid.com" address=0.0.0.0
 add name="brennholzorgler.at" address=0.0.0.0
 add name="brennholzruhl.de" address=0.0.0.0
 add name="brennholzrupp.de" address=0.0.0.0
@@ -5561,7 +5568,6 @@ add name="cryptoassetscontrol.com" address=0.0.0.0
 add name="cryptobullbear.com" address=0.0.0.0
 add name="cryptocase.online" address=0.0.0.0
 add name="cryptocash24.com" address=0.0.0.0
-add name="cryptoeasily.com" address=0.0.0.0
 add name="cryptofast.net" address=0.0.0.0
 add name="cryptofundfx.com" address=0.0.0.0
 add name="cryptomoney888.com" address=0.0.0.0
@@ -7463,6 +7469,7 @@ add name="europaeisches-treuhandkontor.com" address=0.0.0.0
 add name="europaischeapotheke.com" address=0.0.0.0
 add name="europalettenmoebel.de" address=0.0.0.0
 add name="europe-pack.eu" address=0.0.0.0
+add name="europe-pharm.com" address=0.0.0.0
 add name="europe-pimco.com" address=0.0.0.0
 add name="european-pharmacy.online" address=0.0.0.0
 add name="europeangeneric.com" address=0.0.0.0
@@ -7565,7 +7572,6 @@ add name="evs.sgmt.loom.com" address=0.0.0.0
 add name="evutal.com" address=0.0.0.0
 add name="evyy.net" address=0.0.0.0
 add name="ewige-seide.de" address=0.0.0.0
-add name="ewigerbund.org" address=0.0.0.0
 add name="ewuyvw.shop" address=0.0.0.0
 add name="ewzmvasz.shop" address=0.0.0.0
 add name="ex-adreq-asia.vivoglobal.com" address=0.0.0.0
@@ -7835,6 +7841,7 @@ add name="farmacija-hr.com" address=0.0.0.0
 add name="farmacija-hrvatska.com" address=0.0.0.0
 add name="farmacijahr.com" address=0.0.0.0
 add name="farmacijahrvatska24.com" address=0.0.0.0
+add name="farmaed.com" address=0.0.0.0
 add name="farmakeioellada.com" address=0.0.0.0
 add name="farmakeioellada24.com" address=0.0.0.0
 add name="farmakeioellinika.com" address=0.0.0.0
@@ -7992,7 +7999,6 @@ add name="festgeldfinder.de" address=0.0.0.0
 add name="festgeldsicher.at" address=0.0.0.0
 add name="festivaldefrente.com" address=0.0.0.0
 add name="festoolz.shop" address=0.0.0.0
-add name="fetishmegastore.com" address=0.0.0.0
 add name="fettabsaugung-in-koeln.de" address=0.0.0.0
 add name="fettverbrenneronline.com" address=0.0.0.0
 add name="feuchtigkeits.de" address=0.0.0.0
@@ -9822,6 +9828,7 @@ add name="halooffers.com" address=0.0.0.0
 add name="halseband-technik.de" address=0.0.0.0
 add name="halsten.net" address=0.0.0.0
 add name="haltingbadge.com" address=0.0.0.0
+add name="hamburg-hotel.net" address=0.0.0.0
 add name="hamburg-modehaus.de" address=0.0.0.0
 add name="hamburg-treuhand.com" address=0.0.0.0
 add name="hamburger-versand.de" address=0.0.0.0
@@ -10477,6 +10484,7 @@ add name="holzanatomie.de" address=0.0.0.0
 add name="holzbaubillig.com" address=0.0.0.0
 add name="holzbrenn-stoffe.com" address=0.0.0.0
 add name="holzbrenn.de" address=0.0.0.0
+add name="holzbrennstoffeug.de" address=0.0.0.0
 add name="holzbriketts-kaufen.com" address=0.0.0.0
 add name="holzbriketts-profi.de" address=0.0.0.0
 add name="holzd24.com" address=0.0.0.0
@@ -10636,6 +10644,7 @@ add name="hotelaustralien.de" address=0.0.0.0
 add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotelsinperm.ru" address=0.0.0.0
+add name="hotelsinvienna.org" address=0.0.0.0
 add name="hotelsofmenorca.com" address=0.0.0.0
 add name="hotelwareus.com" address=0.0.0.0
 add name="hotelwhales.com" address=0.0.0.0
@@ -12528,6 +12537,7 @@ add name="laneberg.de" address=0.0.0.0
 add name="laneiges.at" address=0.0.0.0
 add name="lanetech.de" address=0.0.0.0
 add name="lanetjanst.com" address=0.0.0.0
+add name="lankeleisi.de" address=0.0.0.0
 add name="lankis-welt.com" address=0.0.0.0
 add name="lanno.co" address=0.0.0.0
 add name="lanternfestivalitalia.com" address=0.0.0.0
@@ -13001,6 +13011,7 @@ add name="livemintnewstoday.com" address=0.0.0.0
 add name="liverail.com" address=0.0.0.0
 add name="liverpoolfestivalgardens.shop" address=0.0.0.0
 add name="liverpoolgear.shop" address=0.0.0.0
+add name="livetrafficfeed.com" address=0.0.0.0
 add name="livewithoutwars.org" address=0.0.0.0
 add name="liviele.com" address=0.0.0.0
 add name="living-smarter24.com" address=0.0.0.0
@@ -14628,6 +14639,7 @@ add name="mobelbett.com" address=0.0.0.0
 add name="mobelimfreien.com" address=0.0.0.0
 add name="mobelmagie.com" address=0.0.0.0
 add name="mobelmomente.com" address=0.0.0.0
+add name="mobeloutletneheim.shop" address=0.0.0.0
 add name="mobelsverkauf.com" address=0.0.0.0
 add name="mobelwohnen.com" address=0.0.0.0
 add name="mobelzauber.com" address=0.0.0.0
@@ -15300,6 +15312,7 @@ add name="mysportfisch.de" address=0.0.0.0
 add name="mystat-in.net" address=0.0.0.0
 add name="mystat.pl" address=0.0.0.0
 add name="mysticdecorllc.com" address=0.0.0.0
+add name="mytelhandys.de" address=0.0.0.0
 add name="mytester.org" address=0.0.0.0
 add name="mytierhimmel.de" address=0.0.0.0
 add name="mytop-in.net" address=0.0.0.0
@@ -15439,6 +15452,7 @@ add name="neocounter.neoworx-blog-tools.net" address=0.0.0.0
 add name="neodore.net" address=0.0.0.0
 add name="neofonds.com" address=0.0.0.0
 add name="neolevii.com" address=0.0.0.0
+add name="neology-stripe.de" address=0.0.0.0
 add name="neopass.de" address=0.0.0.0
 add name="neoplacement.com" address=0.0.0.0
 add name="neotechix.com" address=0.0.0.0
@@ -15707,8 +15721,10 @@ add name="nordsee-agrar.com" address=0.0.0.0
 add name="nordseefrisch.de" address=0.0.0.0
 add name="nordstolz.com" address=0.0.0.0
 add name="nordvian.com" address=0.0.0.0
+add name="nordza.de" address=0.0.0.0
 add name="norenze.com" address=0.0.0.0
 add name="norevialife.com" address=0.0.0.0
+add name="norfolkhotels24.com" address=0.0.0.0
 add name="norge-apt.com" address=0.0.0.0
 add name="norge-ed.com" address=0.0.0.0
 add name="norgeapotek24.com" address=0.0.0.0
@@ -17154,6 +17170,7 @@ add name="platform-ai-trade.com" address=0.0.0.0
 add name="platform.ap-capital-lim.com" address=0.0.0.0
 add name="platform.invesco-trading.com" address=0.0.0.0
 add name="platform.softwarecrownex.com" address=0.0.0.0
+add name="platincoin.com" address=0.0.0.0
 add name="platinwerk.de" address=0.0.0.0
 add name="platten24.com" address=0.0.0.0
 add name="platzimgarten.com" address=0.0.0.0
@@ -18527,6 +18544,7 @@ add name="rosenfeldgoldschmied.com" address=0.0.0.0
 add name="rosewoo.com" address=0.0.0.0
 add name="rossignol.com.de" address=0.0.0.0
 add name="rostikuche.com" address=0.0.0.0
+add name="rostock-scooter.de" address=0.0.0.0
 add name="rostock24.com" address=0.0.0.0
 add name="rostockhaf.de" address=0.0.0.0
 add name="rot91.com" address=0.0.0.0
@@ -19552,6 +19570,7 @@ add name="shopapphero.de" address=0.0.0.0
 add name="shopbagwallet.com" address=0.0.0.0
 add name="shopbikeclothes.com" address=0.0.0.0
 add name="shopboostx.com" address=0.0.0.0
+add name="shopbrennholz.com" address=0.0.0.0
 add name="shopbuyzone.com" address=0.0.0.0
 add name="shopcampinghiking.com" address=0.0.0.0
 add name="shopcaravangas.com" address=0.0.0.0
@@ -20329,6 +20348,7 @@ add name="spuelerparts.com" address=0.0.0.0
 add name="spulse.net" address=0.0.0.0
 add name="spybulbcamera.de" address=0.0.0.0
 add name="spydersale.de" address=0.0.0.0
+add name="spydiscount24.com" address=0.0.0.0
 add name="spylog.com" address=0.0.0.0
 add name="spynet2.microsoft.com" address=0.0.0.0
 add name="spynetalt.microsoft.com" address=0.0.0.0
@@ -20480,6 +20500,7 @@ add name="stats.rdphv.net" address=0.0.0.0
 add name="stats.samsungpass.com" address=0.0.0.0
 add name="stats.self.com" address=0.0.0.0
 add name="stats.stb-ottow.de" address=0.0.0.0
+add name="stats.topofblogs.com" address=0.0.0.0
 add name="stats.townnews.com" address=0.0.0.0
 add name="stats.wordpress.com" address=0.0.0.0
 add name="stats.wp.com" address=0.0.0.0
@@ -20540,6 +20561,7 @@ add name="sternenschmuck.de" address=0.0.0.0
 add name="sternestd.de" address=0.0.0.0
 add name="sternglas.shop" address=0.0.0.0
 add name="sternstimme.de" address=0.0.0.0
+add name="steroide-medikamente.com" address=0.0.0.0
 add name="steroide360.com" address=0.0.0.0
 add name="sterreich.at" address=0.0.0.0
 add name="sterydy-anaboliczne.net" address=0.0.0.0
@@ -20882,6 +20904,7 @@ add name="sverigewind.com" address=0.0.0.0
 add name="svitla-vip.co" address=0.0.0.0
 add name="svojaljekarna.hr" address=0.0.0.0
 add name="sw88.espn.com" address=0.0.0.0
+add name="swabytec24.com" address=0.0.0.0
 add name="swagpflege.de" address=0.0.0.0
 add name="swankysquare.com" address=0.0.0.0
 add name="swapmaxair.com" address=0.0.0.0
@@ -21167,6 +21190,7 @@ add name="teiip.com" address=0.0.0.0
 add name="teilradln.de" address=0.0.0.0
 add name="teilwerkstatt.com" address=0.0.0.0
 add name="teknohaus.de" address=0.0.0.0
+add name="tektronix-gmbh.com" address=0.0.0.0
 add name="telaria.com" address=0.0.0.0
 add name="tele-mag.de" address=0.0.0.0
 add name="telecarsten-shop.de" address=0.0.0.0
@@ -22145,7 +22169,6 @@ add name="trustedtablets.online" address=0.0.0.0
 add name="trusteryai.com" address=0.0.0.0
 add name="trustgarganoelectric.com" address=0.0.0.0
 add name="trustinvestment-gmbh.com" address=0.0.0.0
-add name="trustmeds24.com" address=0.0.0.0
 add name="trustmedz.com" address=0.0.0.0
 add name="trustmycart.com" address=0.0.0.0
 add name="trustonlinepharmacy.com" address=0.0.0.0
@@ -23012,6 +23035,7 @@ add name="voeller-it.solutions" address=0.0.0.0
 add name="vogany.com" address=0.0.0.0
 add name="vogel-lifestyle.com" address=0.0.0.0
 add name="vogelbachgarten.de" address=0.0.0.0
+add name="vogeler-technik.de" address=0.0.0.0
 add name="vogelfutterde.com" address=0.0.0.0
 add name="vogelfutterhausde.com" address=0.0.0.0
 add name="vogelpflege.com" address=0.0.0.0
@@ -23442,6 +23466,7 @@ add name="werkzeugefurprofis.com" address=0.0.0.0
 add name="werkzeugeholz.de" address=0.0.0.0
 add name="werkzeugemaschinen.com" address=0.0.0.0
 add name="werkzeugeprofi.com" address=0.0.0.0
+add name="werkzeugepros.com" address=0.0.0.0
 add name="werkzeugerasenmaher.de" address=0.0.0.0
 add name="werkzeugheld24.de" address=0.0.0.0
 add name="werkzeugland.com" address=0.0.0.0

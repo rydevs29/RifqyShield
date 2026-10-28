@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-27 03:04:44
-# Total Domains: 24,248
+# Last Updated: 2026-10-28 03:16:37
+# Total Domains: 24,273
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -11,7 +11,6 @@
 0.0.0.0 0dgwn.bemobtrcks.com
 0.0.0.0 0el-preiswert-kaufen.de
 0.0.0.0 0hyzxx-rc.myshopify.com
-0.0.0.0 1-rx-shop.com
 0.0.0.0 101com.com
 0.0.0.0 101vectorcenter.sbs
 0.0.0.0 10xdealership.com
@@ -145,6 +144,7 @@
 0.0.0.0 a-markt.de
 0.0.0.0 a-ring-fallback.msedge.net
 0.0.0.0 a-ring.msedge.net
+0.0.0.0 a.bestcontentfood.top
 0.0.0.0 a.hl.mi.com
 0.0.0.0 a.market.xiaomi.com
 0.0.0.0 a.mizuthread.com
@@ -1952,6 +1952,7 @@
 0.0.0.0 ankerkrautde.shop
 0.0.0.0 ankotec.de
 0.0.0.0 anlage-kauf.de
+0.0.0.0 anlagenmontage-knubbe.com
 0.0.0.0 anlassgeschenke.com
 0.0.0.0 anna-atelier.com
 0.0.0.0 anna-oslo.com
@@ -3032,6 +3033,7 @@
 0.0.0.0 beachfront.com
 0.0.0.0 beachitem.com
 0.0.0.0 beachsissi.com
+0.0.0.0 beachwalkbali.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.shazam.com
@@ -3200,6 +3202,7 @@
 0.0.0.0 berklan.myshopify.com
 0.0.0.0 berkler-maschinen.de
 0.0.0.0 berkshirede.myshopify.com
+0.0.0.0 berlin-brennstoffe.de
 0.0.0.0 berlin-moda.de
 0.0.0.0 berlinbeardeal.de
 0.0.0.0 berlincrown.com
@@ -3630,6 +3633,7 @@
 0.0.0.0 bl-group.net
 0.0.0.0 black-shepp-gastroservice.com
 0.0.0.0 blackcatstore.de
+0.0.0.0 blackfridaymegastore.com
 0.0.0.0 blackgurlzsmagickloset.com
 0.0.0.0 blacktridentpop.shop
 0.0.0.0 blacktridents.shop
@@ -3959,14 +3963,17 @@
 0.0.0.0 brennholzbredemeier.com
 0.0.0.0 brennholzdirekt.com
 0.0.0.0 brennholzgarten.de
+0.0.0.0 brennholzhandelmartens.com
 0.0.0.0 brennholzhaus.com
 0.0.0.0 brennholzhaus.de
 0.0.0.0 brennholzhochwald-de.com
 0.0.0.0 brennholzkamin.de
 0.0.0.0 brennholzkaufen.shop
+0.0.0.0 brennholzkontorscharf.de
 0.0.0.0 brennholzkraft.com
 0.0.0.0 brennholzmarkt.com
 0.0.0.0 brennholzmichalhoff.com
+0.0.0.0 brennholzmuscheid.com
 0.0.0.0 brennholzorgler.at
 0.0.0.0 brennholzruhl.de
 0.0.0.0 brennholzrupp.de
@@ -5562,7 +5569,6 @@
 0.0.0.0 cryptobullbear.com
 0.0.0.0 cryptocase.online
 0.0.0.0 cryptocash24.com
-0.0.0.0 cryptoeasily.com
 0.0.0.0 cryptofast.net
 0.0.0.0 cryptofundfx.com
 0.0.0.0 cryptomoney888.com
@@ -7464,6 +7470,7 @@
 0.0.0.0 europaischeapotheke.com
 0.0.0.0 europalettenmoebel.de
 0.0.0.0 europe-pack.eu
+0.0.0.0 europe-pharm.com
 0.0.0.0 europe-pimco.com
 0.0.0.0 european-pharmacy.online
 0.0.0.0 europeangeneric.com
@@ -7566,7 +7573,6 @@
 0.0.0.0 evutal.com
 0.0.0.0 evyy.net
 0.0.0.0 ewige-seide.de
-0.0.0.0 ewigerbund.org
 0.0.0.0 ewuyvw.shop
 0.0.0.0 ewzmvasz.shop
 0.0.0.0 ex-adreq-asia.vivoglobal.com
@@ -7836,6 +7842,7 @@
 0.0.0.0 farmacija-hrvatska.com
 0.0.0.0 farmacijahr.com
 0.0.0.0 farmacijahrvatska24.com
+0.0.0.0 farmaed.com
 0.0.0.0 farmakeioellada.com
 0.0.0.0 farmakeioellada24.com
 0.0.0.0 farmakeioellinika.com
@@ -7993,7 +8000,6 @@
 0.0.0.0 festgeldsicher.at
 0.0.0.0 festivaldefrente.com
 0.0.0.0 festoolz.shop
-0.0.0.0 fetishmegastore.com
 0.0.0.0 fettabsaugung-in-koeln.de
 0.0.0.0 fettverbrenneronline.com
 0.0.0.0 feuchtigkeits.de
@@ -9823,6 +9829,7 @@
 0.0.0.0 halseband-technik.de
 0.0.0.0 halsten.net
 0.0.0.0 haltingbadge.com
+0.0.0.0 hamburg-hotel.net
 0.0.0.0 hamburg-modehaus.de
 0.0.0.0 hamburg-treuhand.com
 0.0.0.0 hamburger-versand.de
@@ -10478,6 +10485,7 @@
 0.0.0.0 holzbaubillig.com
 0.0.0.0 holzbrenn-stoffe.com
 0.0.0.0 holzbrenn.de
+0.0.0.0 holzbrennstoffeug.de
 0.0.0.0 holzbriketts-kaufen.com
 0.0.0.0 holzbriketts-profi.de
 0.0.0.0 holzd24.com
@@ -10637,6 +10645,7 @@
 0.0.0.0 hotelladen.com
 0.0.0.0 hotels-colombo.com
 0.0.0.0 hotelsinperm.ru
+0.0.0.0 hotelsinvienna.org
 0.0.0.0 hotelsofmenorca.com
 0.0.0.0 hotelwareus.com
 0.0.0.0 hotelwhales.com
@@ -12529,6 +12538,7 @@
 0.0.0.0 laneiges.at
 0.0.0.0 lanetech.de
 0.0.0.0 lanetjanst.com
+0.0.0.0 lankeleisi.de
 0.0.0.0 lankis-welt.com
 0.0.0.0 lanno.co
 0.0.0.0 lanternfestivalitalia.com
@@ -13002,6 +13012,7 @@
 0.0.0.0 liverail.com
 0.0.0.0 liverpoolfestivalgardens.shop
 0.0.0.0 liverpoolgear.shop
+0.0.0.0 livetrafficfeed.com
 0.0.0.0 livewithoutwars.org
 0.0.0.0 liviele.com
 0.0.0.0 living-smarter24.com
@@ -14629,6 +14640,7 @@
 0.0.0.0 mobelimfreien.com
 0.0.0.0 mobelmagie.com
 0.0.0.0 mobelmomente.com
+0.0.0.0 mobeloutletneheim.shop
 0.0.0.0 mobelsverkauf.com
 0.0.0.0 mobelwohnen.com
 0.0.0.0 mobelzauber.com
@@ -15301,6 +15313,7 @@
 0.0.0.0 mystat-in.net
 0.0.0.0 mystat.pl
 0.0.0.0 mysticdecorllc.com
+0.0.0.0 mytelhandys.de
 0.0.0.0 mytester.org
 0.0.0.0 mytierhimmel.de
 0.0.0.0 mytop-in.net
@@ -15440,6 +15453,7 @@
 0.0.0.0 neodore.net
 0.0.0.0 neofonds.com
 0.0.0.0 neolevii.com
+0.0.0.0 neology-stripe.de
 0.0.0.0 neopass.de
 0.0.0.0 neoplacement.com
 0.0.0.0 neotechix.com
@@ -15708,8 +15722,10 @@
 0.0.0.0 nordseefrisch.de
 0.0.0.0 nordstolz.com
 0.0.0.0 nordvian.com
+0.0.0.0 nordza.de
 0.0.0.0 norenze.com
 0.0.0.0 norevialife.com
+0.0.0.0 norfolkhotels24.com
 0.0.0.0 norge-apt.com
 0.0.0.0 norge-ed.com
 0.0.0.0 norgeapotek24.com
@@ -17155,6 +17171,7 @@
 0.0.0.0 platform.ap-capital-lim.com
 0.0.0.0 platform.invesco-trading.com
 0.0.0.0 platform.softwarecrownex.com
+0.0.0.0 platincoin.com
 0.0.0.0 platinwerk.de
 0.0.0.0 platten24.com
 0.0.0.0 platzimgarten.com
@@ -18528,6 +18545,7 @@
 0.0.0.0 rosewoo.com
 0.0.0.0 rossignol.com.de
 0.0.0.0 rostikuche.com
+0.0.0.0 rostock-scooter.de
 0.0.0.0 rostock24.com
 0.0.0.0 rostockhaf.de
 0.0.0.0 rot91.com
@@ -19553,6 +19571,7 @@
 0.0.0.0 shopbagwallet.com
 0.0.0.0 shopbikeclothes.com
 0.0.0.0 shopboostx.com
+0.0.0.0 shopbrennholz.com
 0.0.0.0 shopbuyzone.com
 0.0.0.0 shopcampinghiking.com
 0.0.0.0 shopcaravangas.com
@@ -20330,6 +20349,7 @@
 0.0.0.0 spulse.net
 0.0.0.0 spybulbcamera.de
 0.0.0.0 spydersale.de
+0.0.0.0 spydiscount24.com
 0.0.0.0 spylog.com
 0.0.0.0 spynet2.microsoft.com
 0.0.0.0 spynetalt.microsoft.com
@@ -20481,6 +20501,7 @@
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 stats.self.com
 0.0.0.0 stats.stb-ottow.de
+0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
@@ -20541,6 +20562,7 @@
 0.0.0.0 sternestd.de
 0.0.0.0 sternglas.shop
 0.0.0.0 sternstimme.de
+0.0.0.0 steroide-medikamente.com
 0.0.0.0 steroide360.com
 0.0.0.0 sterreich.at
 0.0.0.0 sterydy-anaboliczne.net
@@ -20883,6 +20905,7 @@
 0.0.0.0 svitla-vip.co
 0.0.0.0 svojaljekarna.hr
 0.0.0.0 sw88.espn.com
+0.0.0.0 swabytec24.com
 0.0.0.0 swagpflege.de
 0.0.0.0 swankysquare.com
 0.0.0.0 swapmaxair.com
@@ -21168,6 +21191,7 @@
 0.0.0.0 teilradln.de
 0.0.0.0 teilwerkstatt.com
 0.0.0.0 teknohaus.de
+0.0.0.0 tektronix-gmbh.com
 0.0.0.0 telaria.com
 0.0.0.0 tele-mag.de
 0.0.0.0 telecarsten-shop.de
@@ -22146,7 +22170,6 @@
 0.0.0.0 trusteryai.com
 0.0.0.0 trustgarganoelectric.com
 0.0.0.0 trustinvestment-gmbh.com
-0.0.0.0 trustmeds24.com
 0.0.0.0 trustmedz.com
 0.0.0.0 trustmycart.com
 0.0.0.0 trustonlinepharmacy.com
@@ -23013,6 +23036,7 @@
 0.0.0.0 vogany.com
 0.0.0.0 vogel-lifestyle.com
 0.0.0.0 vogelbachgarten.de
+0.0.0.0 vogeler-technik.de
 0.0.0.0 vogelfutterde.com
 0.0.0.0 vogelfutterhausde.com
 0.0.0.0 vogelpflege.com
@@ -23443,6 +23467,7 @@
 0.0.0.0 werkzeugeholz.de
 0.0.0.0 werkzeugemaschinen.com
 0.0.0.0 werkzeugeprofi.com
+0.0.0.0 werkzeugepros.com
 0.0.0.0 werkzeugerasenmaher.de
 0.0.0.0 werkzeugheld24.de
 0.0.0.0 werkzeugland.com

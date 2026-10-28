@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-27 03:04:44
-# Total Domains: 24,248
+# Last Updated: 2026-10-28 03:16:37
+# Total Domains: 24,273
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -9,7 +9,6 @@ DOMAIN-SUFFIX,01crypto.com,REJECT
 DOMAIN-SUFFIX,0dgwn.bemobtrcks.com,REJECT
 DOMAIN-SUFFIX,0el-preiswert-kaufen.de,REJECT
 DOMAIN-SUFFIX,0hyzxx-rc.myshopify.com,REJECT
-DOMAIN-SUFFIX,1-rx-shop.com,REJECT
 DOMAIN-SUFFIX,101com.com,REJECT
 DOMAIN-SUFFIX,101vectorcenter.sbs,REJECT
 DOMAIN-SUFFIX,10xdealership.com,REJECT
@@ -143,6 +142,7 @@ DOMAIN-SUFFIX,a-baustofflager.com,REJECT
 DOMAIN-SUFFIX,a-markt.de,REJECT
 DOMAIN-SUFFIX,a-ring-fallback.msedge.net,REJECT
 DOMAIN-SUFFIX,a-ring.msedge.net,REJECT
+DOMAIN-SUFFIX,a.bestcontentfood.top,REJECT
 DOMAIN-SUFFIX,a.hl.mi.com,REJECT
 DOMAIN-SUFFIX,a.market.xiaomi.com,REJECT
 DOMAIN-SUFFIX,a.mizuthread.com,REJECT
@@ -1950,6 +1950,7 @@ DOMAIN-SUFFIX,ankelinerherz.com,REJECT
 DOMAIN-SUFFIX,ankerkrautde.shop,REJECT
 DOMAIN-SUFFIX,ankotec.de,REJECT
 DOMAIN-SUFFIX,anlage-kauf.de,REJECT
+DOMAIN-SUFFIX,anlagenmontage-knubbe.com,REJECT
 DOMAIN-SUFFIX,anlassgeschenke.com,REJECT
 DOMAIN-SUFFIX,anna-atelier.com,REJECT
 DOMAIN-SUFFIX,anna-oslo.com,REJECT
@@ -3030,6 +3031,7 @@ DOMAIN-SUFFIX,beaccustomed.com,REJECT
 DOMAIN-SUFFIX,beachfront.com,REJECT
 DOMAIN-SUFFIX,beachitem.com,REJECT
 DOMAIN-SUFFIX,beachsissi.com,REJECT
+DOMAIN-SUFFIX,beachwalkbali.com,REJECT
 DOMAIN-SUFFIX,beacon.gu-web.net,REJECT
 DOMAIN-SUFFIX,beacon.netflix.com,REJECT
 DOMAIN-SUFFIX,beacon.shazam.com,REJECT
@@ -3198,6 +3200,7 @@ DOMAIN-SUFFIX,berkfurnitureoutlet.com,REJECT
 DOMAIN-SUFFIX,berklan.myshopify.com,REJECT
 DOMAIN-SUFFIX,berkler-maschinen.de,REJECT
 DOMAIN-SUFFIX,berkshirede.myshopify.com,REJECT
+DOMAIN-SUFFIX,berlin-brennstoffe.de,REJECT
 DOMAIN-SUFFIX,berlin-moda.de,REJECT
 DOMAIN-SUFFIX,berlinbeardeal.de,REJECT
 DOMAIN-SUFFIX,berlincrown.com,REJECT
@@ -3628,6 +3631,7 @@ DOMAIN-SUFFIX,bkrtx.com,REJECT
 DOMAIN-SUFFIX,bl-group.net,REJECT
 DOMAIN-SUFFIX,black-shepp-gastroservice.com,REJECT
 DOMAIN-SUFFIX,blackcatstore.de,REJECT
+DOMAIN-SUFFIX,blackfridaymegastore.com,REJECT
 DOMAIN-SUFFIX,blackgurlzsmagickloset.com,REJECT
 DOMAIN-SUFFIX,blacktridentpop.shop,REJECT
 DOMAIN-SUFFIX,blacktridents.shop,REJECT
@@ -3957,14 +3961,17 @@ DOMAIN-SUFFIX,brennholzboersch.com,REJECT
 DOMAIN-SUFFIX,brennholzbredemeier.com,REJECT
 DOMAIN-SUFFIX,brennholzdirekt.com,REJECT
 DOMAIN-SUFFIX,brennholzgarten.de,REJECT
+DOMAIN-SUFFIX,brennholzhandelmartens.com,REJECT
 DOMAIN-SUFFIX,brennholzhaus.com,REJECT
 DOMAIN-SUFFIX,brennholzhaus.de,REJECT
 DOMAIN-SUFFIX,brennholzhochwald-de.com,REJECT
 DOMAIN-SUFFIX,brennholzkamin.de,REJECT
 DOMAIN-SUFFIX,brennholzkaufen.shop,REJECT
+DOMAIN-SUFFIX,brennholzkontorscharf.de,REJECT
 DOMAIN-SUFFIX,brennholzkraft.com,REJECT
 DOMAIN-SUFFIX,brennholzmarkt.com,REJECT
 DOMAIN-SUFFIX,brennholzmichalhoff.com,REJECT
+DOMAIN-SUFFIX,brennholzmuscheid.com,REJECT
 DOMAIN-SUFFIX,brennholzorgler.at,REJECT
 DOMAIN-SUFFIX,brennholzruhl.de,REJECT
 DOMAIN-SUFFIX,brennholzrupp.de,REJECT
@@ -5560,7 +5567,6 @@ DOMAIN-SUFFIX,cryptoassetscontrol.com,REJECT
 DOMAIN-SUFFIX,cryptobullbear.com,REJECT
 DOMAIN-SUFFIX,cryptocase.online,REJECT
 DOMAIN-SUFFIX,cryptocash24.com,REJECT
-DOMAIN-SUFFIX,cryptoeasily.com,REJECT
 DOMAIN-SUFFIX,cryptofast.net,REJECT
 DOMAIN-SUFFIX,cryptofundfx.com,REJECT
 DOMAIN-SUFFIX,cryptomoney888.com,REJECT
@@ -7462,6 +7468,7 @@ DOMAIN-SUFFIX,europaeisches-treuhandkontor.com,REJECT
 DOMAIN-SUFFIX,europaischeapotheke.com,REJECT
 DOMAIN-SUFFIX,europalettenmoebel.de,REJECT
 DOMAIN-SUFFIX,europe-pack.eu,REJECT
+DOMAIN-SUFFIX,europe-pharm.com,REJECT
 DOMAIN-SUFFIX,europe-pimco.com,REJECT
 DOMAIN-SUFFIX,european-pharmacy.online,REJECT
 DOMAIN-SUFFIX,europeangeneric.com,REJECT
@@ -7564,7 +7571,6 @@ DOMAIN-SUFFIX,evs.sgmt.loom.com,REJECT
 DOMAIN-SUFFIX,evutal.com,REJECT
 DOMAIN-SUFFIX,evyy.net,REJECT
 DOMAIN-SUFFIX,ewige-seide.de,REJECT
-DOMAIN-SUFFIX,ewigerbund.org,REJECT
 DOMAIN-SUFFIX,ewuyvw.shop,REJECT
 DOMAIN-SUFFIX,ewzmvasz.shop,REJECT
 DOMAIN-SUFFIX,ex-adreq-asia.vivoglobal.com,REJECT
@@ -7834,6 +7840,7 @@ DOMAIN-SUFFIX,farmacija-hr.com,REJECT
 DOMAIN-SUFFIX,farmacija-hrvatska.com,REJECT
 DOMAIN-SUFFIX,farmacijahr.com,REJECT
 DOMAIN-SUFFIX,farmacijahrvatska24.com,REJECT
+DOMAIN-SUFFIX,farmaed.com,REJECT
 DOMAIN-SUFFIX,farmakeioellada.com,REJECT
 DOMAIN-SUFFIX,farmakeioellada24.com,REJECT
 DOMAIN-SUFFIX,farmakeioellinika.com,REJECT
@@ -7991,7 +7998,6 @@ DOMAIN-SUFFIX,festgeldfinder.de,REJECT
 DOMAIN-SUFFIX,festgeldsicher.at,REJECT
 DOMAIN-SUFFIX,festivaldefrente.com,REJECT
 DOMAIN-SUFFIX,festoolz.shop,REJECT
-DOMAIN-SUFFIX,fetishmegastore.com,REJECT
 DOMAIN-SUFFIX,fettabsaugung-in-koeln.de,REJECT
 DOMAIN-SUFFIX,fettverbrenneronline.com,REJECT
 DOMAIN-SUFFIX,feuchtigkeits.de,REJECT
@@ -9821,6 +9827,7 @@ DOMAIN-SUFFIX,halooffers.com,REJECT
 DOMAIN-SUFFIX,halseband-technik.de,REJECT
 DOMAIN-SUFFIX,halsten.net,REJECT
 DOMAIN-SUFFIX,haltingbadge.com,REJECT
+DOMAIN-SUFFIX,hamburg-hotel.net,REJECT
 DOMAIN-SUFFIX,hamburg-modehaus.de,REJECT
 DOMAIN-SUFFIX,hamburg-treuhand.com,REJECT
 DOMAIN-SUFFIX,hamburger-versand.de,REJECT
@@ -10476,6 +10483,7 @@ DOMAIN-SUFFIX,holzanatomie.de,REJECT
 DOMAIN-SUFFIX,holzbaubillig.com,REJECT
 DOMAIN-SUFFIX,holzbrenn-stoffe.com,REJECT
 DOMAIN-SUFFIX,holzbrenn.de,REJECT
+DOMAIN-SUFFIX,holzbrennstoffeug.de,REJECT
 DOMAIN-SUFFIX,holzbriketts-kaufen.com,REJECT
 DOMAIN-SUFFIX,holzbriketts-profi.de,REJECT
 DOMAIN-SUFFIX,holzd24.com,REJECT
@@ -10635,6 +10643,7 @@ DOMAIN-SUFFIX,hotelaustralien.de,REJECT
 DOMAIN-SUFFIX,hotelladen.com,REJECT
 DOMAIN-SUFFIX,hotels-colombo.com,REJECT
 DOMAIN-SUFFIX,hotelsinperm.ru,REJECT
+DOMAIN-SUFFIX,hotelsinvienna.org,REJECT
 DOMAIN-SUFFIX,hotelsofmenorca.com,REJECT
 DOMAIN-SUFFIX,hotelwareus.com,REJECT
 DOMAIN-SUFFIX,hotelwhales.com,REJECT
@@ -12527,6 +12536,7 @@ DOMAIN-SUFFIX,laneberg.de,REJECT
 DOMAIN-SUFFIX,laneiges.at,REJECT
 DOMAIN-SUFFIX,lanetech.de,REJECT
 DOMAIN-SUFFIX,lanetjanst.com,REJECT
+DOMAIN-SUFFIX,lankeleisi.de,REJECT
 DOMAIN-SUFFIX,lankis-welt.com,REJECT
 DOMAIN-SUFFIX,lanno.co,REJECT
 DOMAIN-SUFFIX,lanternfestivalitalia.com,REJECT
@@ -13000,6 +13010,7 @@ DOMAIN-SUFFIX,livemintnewstoday.com,REJECT
 DOMAIN-SUFFIX,liverail.com,REJECT
 DOMAIN-SUFFIX,liverpoolfestivalgardens.shop,REJECT
 DOMAIN-SUFFIX,liverpoolgear.shop,REJECT
+DOMAIN-SUFFIX,livetrafficfeed.com,REJECT
 DOMAIN-SUFFIX,livewithoutwars.org,REJECT
 DOMAIN-SUFFIX,liviele.com,REJECT
 DOMAIN-SUFFIX,living-smarter24.com,REJECT
@@ -14627,6 +14638,7 @@ DOMAIN-SUFFIX,mobelbett.com,REJECT
 DOMAIN-SUFFIX,mobelimfreien.com,REJECT
 DOMAIN-SUFFIX,mobelmagie.com,REJECT
 DOMAIN-SUFFIX,mobelmomente.com,REJECT
+DOMAIN-SUFFIX,mobeloutletneheim.shop,REJECT
 DOMAIN-SUFFIX,mobelsverkauf.com,REJECT
 DOMAIN-SUFFIX,mobelwohnen.com,REJECT
 DOMAIN-SUFFIX,mobelzauber.com,REJECT
@@ -15299,6 +15311,7 @@ DOMAIN-SUFFIX,mysportfisch.de,REJECT
 DOMAIN-SUFFIX,mystat-in.net,REJECT
 DOMAIN-SUFFIX,mystat.pl,REJECT
 DOMAIN-SUFFIX,mysticdecorllc.com,REJECT
+DOMAIN-SUFFIX,mytelhandys.de,REJECT
 DOMAIN-SUFFIX,mytester.org,REJECT
 DOMAIN-SUFFIX,mytierhimmel.de,REJECT
 DOMAIN-SUFFIX,mytop-in.net,REJECT
@@ -15438,6 +15451,7 @@ DOMAIN-SUFFIX,neocounter.neoworx-blog-tools.net,REJECT
 DOMAIN-SUFFIX,neodore.net,REJECT
 DOMAIN-SUFFIX,neofonds.com,REJECT
 DOMAIN-SUFFIX,neolevii.com,REJECT
+DOMAIN-SUFFIX,neology-stripe.de,REJECT
 DOMAIN-SUFFIX,neopass.de,REJECT
 DOMAIN-SUFFIX,neoplacement.com,REJECT
 DOMAIN-SUFFIX,neotechix.com,REJECT
@@ -15706,8 +15720,10 @@ DOMAIN-SUFFIX,nordsee-agrar.com,REJECT
 DOMAIN-SUFFIX,nordseefrisch.de,REJECT
 DOMAIN-SUFFIX,nordstolz.com,REJECT
 DOMAIN-SUFFIX,nordvian.com,REJECT
+DOMAIN-SUFFIX,nordza.de,REJECT
 DOMAIN-SUFFIX,norenze.com,REJECT
 DOMAIN-SUFFIX,norevialife.com,REJECT
+DOMAIN-SUFFIX,norfolkhotels24.com,REJECT
 DOMAIN-SUFFIX,norge-apt.com,REJECT
 DOMAIN-SUFFIX,norge-ed.com,REJECT
 DOMAIN-SUFFIX,norgeapotek24.com,REJECT
@@ -17153,6 +17169,7 @@ DOMAIN-SUFFIX,platform-ai-trade.com,REJECT
 DOMAIN-SUFFIX,platform.ap-capital-lim.com,REJECT
 DOMAIN-SUFFIX,platform.invesco-trading.com,REJECT
 DOMAIN-SUFFIX,platform.softwarecrownex.com,REJECT
+DOMAIN-SUFFIX,platincoin.com,REJECT
 DOMAIN-SUFFIX,platinwerk.de,REJECT
 DOMAIN-SUFFIX,platten24.com,REJECT
 DOMAIN-SUFFIX,platzimgarten.com,REJECT
@@ -18526,6 +18543,7 @@ DOMAIN-SUFFIX,rosenfeldgoldschmied.com,REJECT
 DOMAIN-SUFFIX,rosewoo.com,REJECT
 DOMAIN-SUFFIX,rossignol.com.de,REJECT
 DOMAIN-SUFFIX,rostikuche.com,REJECT
+DOMAIN-SUFFIX,rostock-scooter.de,REJECT
 DOMAIN-SUFFIX,rostock24.com,REJECT
 DOMAIN-SUFFIX,rostockhaf.de,REJECT
 DOMAIN-SUFFIX,rot91.com,REJECT
@@ -19551,6 +19569,7 @@ DOMAIN-SUFFIX,shopapphero.de,REJECT
 DOMAIN-SUFFIX,shopbagwallet.com,REJECT
 DOMAIN-SUFFIX,shopbikeclothes.com,REJECT
 DOMAIN-SUFFIX,shopboostx.com,REJECT
+DOMAIN-SUFFIX,shopbrennholz.com,REJECT
 DOMAIN-SUFFIX,shopbuyzone.com,REJECT
 DOMAIN-SUFFIX,shopcampinghiking.com,REJECT
 DOMAIN-SUFFIX,shopcaravangas.com,REJECT
@@ -20328,6 +20347,7 @@ DOMAIN-SUFFIX,spuelerparts.com,REJECT
 DOMAIN-SUFFIX,spulse.net,REJECT
 DOMAIN-SUFFIX,spybulbcamera.de,REJECT
 DOMAIN-SUFFIX,spydersale.de,REJECT
+DOMAIN-SUFFIX,spydiscount24.com,REJECT
 DOMAIN-SUFFIX,spylog.com,REJECT
 DOMAIN-SUFFIX,spynet2.microsoft.com,REJECT
 DOMAIN-SUFFIX,spynetalt.microsoft.com,REJECT
@@ -20479,6 +20499,7 @@ DOMAIN-SUFFIX,stats.rdphv.net,REJECT
 DOMAIN-SUFFIX,stats.samsungpass.com,REJECT
 DOMAIN-SUFFIX,stats.self.com,REJECT
 DOMAIN-SUFFIX,stats.stb-ottow.de,REJECT
+DOMAIN-SUFFIX,stats.topofblogs.com,REJECT
 DOMAIN-SUFFIX,stats.townnews.com,REJECT
 DOMAIN-SUFFIX,stats.wordpress.com,REJECT
 DOMAIN-SUFFIX,stats.wp.com,REJECT
@@ -20539,6 +20560,7 @@ DOMAIN-SUFFIX,sternenschmuck.de,REJECT
 DOMAIN-SUFFIX,sternestd.de,REJECT
 DOMAIN-SUFFIX,sternglas.shop,REJECT
 DOMAIN-SUFFIX,sternstimme.de,REJECT
+DOMAIN-SUFFIX,steroide-medikamente.com,REJECT
 DOMAIN-SUFFIX,steroide360.com,REJECT
 DOMAIN-SUFFIX,sterreich.at,REJECT
 DOMAIN-SUFFIX,sterydy-anaboliczne.net,REJECT
@@ -20881,6 +20903,7 @@ DOMAIN-SUFFIX,sverigewind.com,REJECT
 DOMAIN-SUFFIX,svitla-vip.co,REJECT
 DOMAIN-SUFFIX,svojaljekarna.hr,REJECT
 DOMAIN-SUFFIX,sw88.espn.com,REJECT
+DOMAIN-SUFFIX,swabytec24.com,REJECT
 DOMAIN-SUFFIX,swagpflege.de,REJECT
 DOMAIN-SUFFIX,swankysquare.com,REJECT
 DOMAIN-SUFFIX,swapmaxair.com,REJECT
@@ -21166,6 +21189,7 @@ DOMAIN-SUFFIX,teiip.com,REJECT
 DOMAIN-SUFFIX,teilradln.de,REJECT
 DOMAIN-SUFFIX,teilwerkstatt.com,REJECT
 DOMAIN-SUFFIX,teknohaus.de,REJECT
+DOMAIN-SUFFIX,tektronix-gmbh.com,REJECT
 DOMAIN-SUFFIX,telaria.com,REJECT
 DOMAIN-SUFFIX,tele-mag.de,REJECT
 DOMAIN-SUFFIX,telecarsten-shop.de,REJECT
@@ -22144,7 +22168,6 @@ DOMAIN-SUFFIX,trustedtablets.online,REJECT
 DOMAIN-SUFFIX,trusteryai.com,REJECT
 DOMAIN-SUFFIX,trustgarganoelectric.com,REJECT
 DOMAIN-SUFFIX,trustinvestment-gmbh.com,REJECT
-DOMAIN-SUFFIX,trustmeds24.com,REJECT
 DOMAIN-SUFFIX,trustmedz.com,REJECT
 DOMAIN-SUFFIX,trustmycart.com,REJECT
 DOMAIN-SUFFIX,trustonlinepharmacy.com,REJECT
@@ -23011,6 +23034,7 @@ DOMAIN-SUFFIX,voeller-it.solutions,REJECT
 DOMAIN-SUFFIX,vogany.com,REJECT
 DOMAIN-SUFFIX,vogel-lifestyle.com,REJECT
 DOMAIN-SUFFIX,vogelbachgarten.de,REJECT
+DOMAIN-SUFFIX,vogeler-technik.de,REJECT
 DOMAIN-SUFFIX,vogelfutterde.com,REJECT
 DOMAIN-SUFFIX,vogelfutterhausde.com,REJECT
 DOMAIN-SUFFIX,vogelpflege.com,REJECT
@@ -23441,6 +23465,7 @@ DOMAIN-SUFFIX,werkzeugefurprofis.com,REJECT
 DOMAIN-SUFFIX,werkzeugeholz.de,REJECT
 DOMAIN-SUFFIX,werkzeugemaschinen.com,REJECT
 DOMAIN-SUFFIX,werkzeugeprofi.com,REJECT
+DOMAIN-SUFFIX,werkzeugepros.com,REJECT
 DOMAIN-SUFFIX,werkzeugerasenmaher.de,REJECT
 DOMAIN-SUFFIX,werkzeugheld24.de,REJECT
 DOMAIN-SUFFIX,werkzeugland.com,REJECT
