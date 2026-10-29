@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-28 03:16:37
-# Total Domains: 24,273
+# Last Updated: 2026-10-29 03:41:30
+# Total Domains: 24,485
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -9,6 +9,7 @@
 0dgwn.bemobtrcks.com CNAME .
 0el-preiswert-kaufen.de CNAME .
 0hyzxx-rc.myshopify.com CNAME .
+1-rx-shop.com CNAME .
 101com.com CNAME .
 101vectorcenter.sbs CNAME .
 10xdealership.com CNAME .
@@ -376,13 +377,22 @@ ad-cupid.com CNAME .
 ad-delivery.net CNAME .
 ad-drcn.media.dbankcloud.cn CNAME .
 ad-drcn.media.dbankcloud.ru CNAME .
+ad-format-i18n.tiktokv.com CNAME .
+ad-format-ie.tiktokv.eu CNAME .
+ad-format-ru.tiktokv.com CNAME .
 ad-format-sg.tiktokv.com CNAME .
 ad-format-ttp2.tiktokv.eu CNAME .
+ad-format-ttp2.tiktokv.us CNAME .
+ad-format-ttp2.us.tiktokv.com CNAME .
+ad-format.tiktokv.eu CNAME .
 ad-format.tiktokv.us CNAME .
+ad-format.us.tiktokv.com CNAME .
 ad-format16-normal-useastred.tiktokv.eu CNAME .
 ad-growth-in.heytapmobile.com CNAME .
 ad-growth-ru.heytapmobile.com CNAME .
 ad-growth-sg.heytapmobile.com CNAME .
+ad-instantpage-i18n.tiktokv.com CNAME .
+ad-instantpage-ie.tiktokv.eu CNAME .
 ad-instantpage-ru.tiktokv.com CNAME .
 ad-instantpage-sg.tiktokv.com CNAME .
 ad-instantpage-sg.tiktokv.com.edgekey.net CNAME .
@@ -391,10 +401,13 @@ ad-instantpage-ttp2.tiktokv.eu.edgesuite.net CNAME .
 ad-instantpage-ttp2.tiktokv.eu.ttdns3.com CNAME .
 ad-instantpage-ttp2.tiktokv.us CNAME .
 ad-instantpage-ttp2.tiktokv.us.edgesuite.net CNAME .
+ad-instantpage-ttp2.us.tiktokv.com CNAME .
 ad-instantpage-va.tiktokv.com CNAME .
+ad-instantpage.tiktokv.eu CNAME .
 ad-instantpage.tiktokv.us CNAME .
 ad-instantpage.tiktokv.us.edgesuite.net CNAME .
 ad-instantpage.tiktokv.us.ttdns4.com CNAME .
+ad-instantpage.us.tiktokv.com CNAME .
 ad-pay.de CNAME .
 ad-property.com CNAME .
 ad-rotator.com CNAME .
@@ -465,6 +478,7 @@ ad.style CNAME .
 ad.technoratimedia.com CNAME .
 ad.tiktok.tv CNAME .
 ad.tiktokv.com CNAME .
+ad.tiktokv.eu CNAME .
 ad.tiktokv.us CNAME .
 ad.toygzv.shop CNAME .
 ad.turn.com CNAME .
@@ -558,6 +572,7 @@ adforce.com CNAME .
 adform.com CNAME .
 adform.net CNAME .
 adformdsp.net CNAME .
+adfox.cam CNAME .
 adhaven.com CNAME .
 adhese.be CNAME .
 adhese.com CNAME .
@@ -612,6 +627,7 @@ adl.fcnqy.shop CNAME .
 adl.gwrxbt.shop CNAME .
 adl.iuvxvo.shop CNAME .
 adl.jccjm.shop CNAME .
+adl.jjkrn.shop CNAME .
 adl.lreubk.shop CNAME .
 adl.okhxm.shop CNAME .
 adl.raodd.shop CNAME .
@@ -741,9 +757,12 @@ ads-setu-proxy.amazon.com CNAME .
 ads-sg.business-tiktok.com CNAME .
 ads-sg.tiktok.com CNAME .
 ads-ttp2.tiktokw.eu CNAME .
+ads-ttp2.tiktokw.us CNAME .
 ads-ttp2.us.tiktok.com CNAME .
 ads-twitter.com CNAME .
+ads-useast2a.tiktok.com CNAME .
 ads-va.business-tiktok.com CNAME .
+ads-va.tiktok.com CNAME .
 ads.5ci.lt CNAME .
 ads.73dpi.com CNAME .
 ads.aavv.com CNAME .
@@ -864,6 +883,7 @@ ads.icq.com CNAME .
 ads.ign.com CNAME .
 ads.imagistica.com CNAME .
 ads.imgur.com CNAME .
+ads.in.tiktok.com CNAME .
 ads.independent.com.mt CNAME .
 ads.infi.net CNAME .
 ads.internic.co.il CNAME .
@@ -1777,6 +1797,7 @@ amuseliebe.shop CNAME .
 amuseliebedirndl.com CNAME .
 amznreturnsale.com CNAME .
 anabolic-steroids-online.com CNAME .
+anaboliczni.pl CNAME .
 anabolikaonlinebestellen.com CNAME .
 anabolikaonlinedeutschland.com CNAME .
 analyticg.com CNAME .
@@ -1791,6 +1812,7 @@ analytics-dev-simpad-events.servicebus.windows.net CNAME .
 analytics-events.apple.com CNAME .
 analytics-exp-i18n.tiktok.com CNAME .
 analytics-exp-i18n.tiktok.com.edgekey.net CNAME .
+analytics-exp-ie.tiktokw.eu CNAME .
 analytics-exp-ru.tiktok.com CNAME .
 analytics-exp-ru.tiktok.com.edgesuite.net CNAME .
 analytics-exp-ru.tiktok.com.ttdns2.com CNAME .
@@ -2324,6 +2346,7 @@ asfinet.info CNAME .
 asflnag.com CNAME .
 asfmagtollshop.cyou CNAME .
 asfnagvignette.sa.com CNAME .
+asforstwirtschaft.at CNAME .
 asfrnagi.beer CNAME .
 asgeirpetursson.com CNAME .
 ashbergh.com CNAME .
@@ -2434,6 +2457,7 @@ at.qfmiceden.shop CNAME .
 at.rattaay.com CNAME .
 at.trabajo.org CNAME .
 at.ultimate-gainz.com CNAME .
+at.vbrcw.shop CNAME .
 at1075.wedqc.shop CNAME .
 at9.ketonaktiv.com CNAME .
 atacadobras25.shop CNAME .
@@ -3031,7 +3055,6 @@ beaccustomed.com CNAME .
 beachfront.com CNAME .
 beachitem.com CNAME .
 beachsissi.com CNAME .
-beachwalkbali.com CNAME .
 beacon.gu-web.net CNAME .
 beacon.netflix.com CNAME .
 beacon.shazam.com CNAME .
@@ -3624,6 +3647,7 @@ bizzclick.com CNAME .
 bj-ad-lgsmartad-com.aws-prd.net CNAME .
 bjbta.com CNAME .
 bjmining.com CNAME .
+bjsrecnd.shop CNAME .
 bk-daten.de CNAME .
 bkaffee.de CNAME .
 bkmusicstore-de.com CNAME .
@@ -3631,7 +3655,6 @@ bkrtx.com CNAME .
 bl-group.net CNAME .
 black-shepp-gastroservice.com CNAME .
 blackcatstore.de CNAME .
-blackfridaymegastore.com CNAME .
 blackgurlzsmagickloset.com CNAME .
 blacktridentpop.shop CNAME .
 blacktridents.shop CNAME .
@@ -3734,6 +3757,7 @@ bmgvinyl.shop CNAME .
 bmn-online.de CNAME .
 bmpharmacy-official.com CNAME .
 bmpharmacyofficial.com CNAME .
+bmrbhf.shop CNAME .
 bms-promaschinen.com CNAME .
 bmw-bikertreff-bonsberg.de CNAME .
 bmwmt2026online.com CNAME .
@@ -4445,6 +4469,7 @@ carqiwireless.com CNAME .
 carriageglobal.com CNAME .
 cars-boutique.de CNAME .
 carsarace.com CNAME .
+carsdetective.com CNAME .
 carshades.at CNAME .
 carstruckstoy.com CNAME .
 carteloshop.com CNAME .
@@ -4536,6 +4561,7 @@ cc2.sys.miui.com CNAME .
 ccc.sys.miui.com CNAME .
 ccftrading.com CNAME .
 cci-immobilien.de CNAME .
+ccmccontainermanagementgmbh.de CNAME .
 ccmedia.news CNAME .
 ccs-consulting.net CNAME .
 ccwjl.com CNAME .
@@ -5600,7 +5626,9 @@ cstat.apple.com.edgesuite.net CNAME .
 cstat.cdn-apple.com CNAME .
 cstat.g.aaplimg.com CNAME .
 csunbox.com CNAME .
+cterfilk.monster CNAME .
 cthesky.com CNAME .
+ctmfahrradwerkstatt.at CNAME .
 ctoption.com CNAME .
 ctxholdings.com CNAME .
 cube-network.net CNAME .
@@ -5763,6 +5791,7 @@ dangotech.de CNAME .
 daniel-grilling.com CNAME .
 danielius-rogovas.com CNAME .
 dankers-containers.de CNAME .
+danksportstore.shop CNAME .
 danmarkpotenspiller.com CNAME .
 danmtyshop.com CNAME .
 danneraustria.com CNAME .
@@ -5956,6 +5985,7 @@ deautorabatt.com CNAME .
 debasketball.com CNAME .
 debot-maschinen.de CNAME .
 dec-visio-telemetry.officeapps.live.com CNAME .
+decadays.store CNAME .
 decantersale.com CNAME .
 decarba-mann.de CNAME .
 decarba.de CNAME .
@@ -6372,6 +6402,7 @@ dirkuhren.de CNAME .
 dirtchurchradio.com CNAME .
 disciplineh.com CNAME .
 disciplinem.com CNAME .
+discounntde.com CNAME .
 discount-audio-equipment.com CNAME .
 discount-baustoff.de CNAME .
 discount-kobalt.com CNAME .
@@ -6433,6 +6464,7 @@ dliene.com CNAME .
 dls-account.di.atlas.samsung.com CNAME .
 dls-ddc.dqa.samsung.com CNAME .
 dls-udc.dqa.samsung.com CNAME .
+dls.di.atlas.samsung.com CNAME .
 dls.di.runestone.samsung.com CNAME .
 dlxn-mode.de CNAME .
 dly-home.com CNAME .
@@ -6868,6 +6900,7 @@ ecoooc.com CNAME .
 ecoreichholz.com CNAME .
 ecosilkroad.com CNAME .
 ecoupons.com CNAME .
+ecoworthytech.shop CNAME .
 ecs-solutions.net CNAME .
 ecstasy-baby.net CNAME .
 ecxtrade.com CNAME .
@@ -6924,6 +6957,7 @@ effiziente-taubenabwehr.at CNAME .
 eg-ad-lgsmartad-com.aws-prd.net CNAME .
 eg-info-lgsmartad-com.aws-prd.net CNAME .
 egasoft-digital.com CNAME .
+egbertplakolm.at CNAME .
 eggelingen.de CNAME .
 egoryspecies.com CNAME .
 egscap.com CNAME .
@@ -7230,6 +7264,7 @@ entzueck-end.de CNAME .
 enuvio.de CNAME .
 enviousclothing.de CNAME .
 enviousthread.com CNAME .
+envisu-gmbh.com CNAME .
 enzomartini.de CNAME .
 enzomorelli.de CNAME .
 eolatetuko.shop CNAME .
@@ -7268,6 +7303,7 @@ equivalenu.com CNAME .
 eqy.link CNAME .
 erad-sport.de CNAME .
 eradkultur.de CNAME .
+eradobox.com CNAME .
 eradsport.de CNAME .
 eradstore.de CNAME .
 erdbeerblase.de CNAME .
@@ -7311,6 +7347,7 @@ escortevenly.com CNAME .
 esfimeqss.cfd CNAME .
 eshop.sintech.cn CNAME .
 eshopkamagra.sk CNAME .
+esighteyem.lol CNAME .
 esn-eu.com CNAME .
 esn-fitness.com CNAME .
 esnoutleteur.com CNAME .
@@ -7442,7 +7479,6 @@ euro-markt.at CNAME .
 euro-modafinil.com CNAME .
 euro-pharm24.com CNAME .
 euro-pharma24x7.com CNAME .
-euro-pill.com CNAME .
 euro.stanleys1913.com CNAME .
 euro2024tickets.de CNAME .
 eurobitx.info CNAME .
@@ -7495,6 +7531,7 @@ euvalentinogaravani.de CNAME .
 euvendorshub.online CNAME .
 euvitafarm.com CNAME .
 ev-farm.com CNAME .
+eva-zagreb.com CNAME .
 evaam.de CNAME .
 evadav.com CNAME .
 evadavdsp.pro CNAME .
@@ -7883,6 +7920,7 @@ fastgerm.com CNAME .
 fastigeriptv.live CNAME .
 fastly-insights.com CNAME .
 fastmarket.store CNAME .
+faszienfit.com CNAME .
 faszinationholz-salzmann.de CNAME .
 fatburner-guru.de CNAME .
 fatburnerking.at CNAME .
@@ -7998,6 +8036,7 @@ festgeldfinder.de CNAME .
 festgeldsicher.at CNAME .
 festivaldefrente.com CNAME .
 festoolz.shop CNAME .
+fetishmegastore.com CNAME .
 fettabsaugung-in-koeln.de CNAME .
 fettverbrenneronline.com CNAME .
 feuchtigkeits.de CNAME .
@@ -8097,6 +8136,7 @@ findedeinrad.de CNAME .
 findedstore.com CNAME .
 finders-cafe.de CNAME .
 findjobinde.com CNAME .
+findssmogallery.shop CNAME .
 findyourcasino.com CNAME .
 fine-cycle.com CNAME .
 fine-germa-furniture.com CNAME .
@@ -8581,12 +8621,18 @@ frohwelt.myshopify.com CNAME .
 frohzeit.de CNAME .
 frontaley.com CNAME .
 frontier-i18n.tiktokv.com CNAME .
+frontier-ie.tiktokv.eu CNAME .
+frontier-my.byteoversea.com CNAME .
+frontier-my.tiktokv.com CNAME .
 frontier-my2.tiktokv.com CNAME .
+frontier-phx.tiktokv.com CNAME .
 frontier-ru.tiktokv.com CNAME .
 frontier-ru.tiktokv.com.edgekey.net CNAME .
 frontier-ttp2.tiktokv.us CNAME .
 frontier-ttp2.tiktokv.us.edgesuite.net CNAME .
+frontier-ttp2.us.tiktokv.com CNAME .
 frontier-us-ttp2.capcutw.us CNAME .
+frontier-va.byteoversea.com CNAME .
 frontier-va.tiktokv.com CNAME .
 frontier.byteoversea.com CNAME .
 frontier.capcutw.us CNAME .
@@ -8595,18 +8641,34 @@ frontier.tiktokv-eu.com CNAME .
 frontier.tiktokv-eu.com.edgesuite.net CNAME .
 frontier.tiktokv-eu.com.ttdns3.com CNAME .
 frontier.tiktokv.com CNAME .
+frontier.tiktokv.eu CNAME .
 frontier.tiktokv.us CNAME .
 frontier.tiktokv.us.edgesuite.net CNAME .
 frontier.us.capcut.com CNAME .
+frontier.us.tiktokv.com CNAME .
 frontier100-normal-alisg.tiktokv.com CNAME .
 frontier100-normal-useast1a.tiktokv.com CNAME .
+frontier15-normal-alisg.tiktokv.com CNAME .
+frontier15-normal-useast1a.tiktokv.com CNAME .
+frontier15-normal-useast2a.tiktokv.com CNAME .
+frontier16-normal-alisg.tiktokv.com CNAME .
 frontier16-normal-no1a.tiktokv.eu CNAME .
 frontier16-normal-no1a.tiktokv.eu.edgesuite.net CNAME .
+frontier16-normal-useast1a.tiktokv.com CNAME .
+frontier16-normal-useast2a.tiktokv.com CNAME .
 frontier16-normal-useastred.tiktokv.eu CNAME .
 frontier16-normal-useastred.tiktokv.eu.edgesuite.net CNAME .
+frontier22-normal-alisg.tiktokv.com CNAME .
+frontier22-normal-useast1a.tiktokv.com CNAME .
+frontier22-normal-useast2a.tiktokv.com CNAME .
 frontier23-normal-alisg.tiktokv.com CNAME .
 frontier23-normal-alisg.tiktokv.com.bpgslb.com CNAME .
 frontier23-normal-useast1a.tiktokv.com CNAME .
+frontier23-normal-useast2a.tiktokv.eu CNAME .
+frontier32-normal-alisg.tiktokv.com CNAME .
+frontier32-normal-ie.tiktokv.eu CNAME .
+frontier32-normal-useast1a.tiktokv.com CNAME .
+frontier32-normal-useast2a.tiktokv.com CNAME .
 fronttoad.com CNAME .
 frtyj.com CNAME .
 frtyk.com CNAME .
@@ -8884,6 +8946,7 @@ gartenkings.de CNAME .
 gartenkompass.com CNAME .
 gartenkreuzfahrt.de CNAME .
 gartenland-martens.de CNAME .
+gartenluxus.com CNAME .
 gartenly.shop CNAME .
 gartenmachtshop.de CNAME .
 gartenmaeher.com CNAME .
@@ -8938,6 +9001,7 @@ garved.com CNAME .
 gas-ertrag.app CNAME .
 gas-heizung-wasser.at CNAME .
 gas-thermen-zentrum.at CNAME .
+gasflaschensale.com CNAME .
 gasglow.de CNAME .
 gashelbywatch.com CNAME .
 gasman-installateur.at CNAME .
@@ -9213,6 +9277,7 @@ giesswein.com.de CNAME .
 giesswein.cz CNAME .
 giesswein.ro CNAME .
 giessweinca.com CNAME .
+giessweinhouse.shop CNAME .
 giessweins.es CNAME .
 giessweins.it CNAME .
 giessweinschuhe.com CNAME .
@@ -9299,6 +9364,7 @@ globalmedsnet.com CNAME .
 globalmetal.fr CNAME .
 globalpartners-ltd.com CNAME .
 globalpharmacystore.com CNAME .
+globalsmokehub.com CNAME .
 globaltradeforex.com CNAME .
 globaltradeoption.online CNAME .
 globalvideo.cdn.pandora.intl.xiaomi.com CNAME .
@@ -9502,8 +9568,10 @@ gp.dejanews.com CNAME .
 gpautoshopimport.com CNAME .
 gplate.de CNAME .
 gplog-sg.byteoversea.com CNAME .
+gplog-sg.capcutapi.com CNAME .
 gplog-va-useast2a.byteoversea.com CNAME .
 gplog-va.byteoversea.com CNAME .
+gplog-va.capcutapi.com CNAME .
 gpm-mon-sg.byteoversea.com CNAME .
 gpm-mon-va-useast1a.byteoversea.com CNAME .
 gpm-mon-va-useast2a.byteoversea.com CNAME .
@@ -9596,6 +9664,7 @@ grimhat.com CNAME .
 griw.xyz CNAME .
 grizzlyroids.shop CNAME .
 grkwork.com CNAME .
+grondberg.de CNAME .
 groomifypetsstore.com CNAME .
 groovespacing.com CNAME .
 grosshandelwebservice.de CNAME .
@@ -9822,6 +9891,7 @@ halloweenpopculture.com CNAME .
 halloweenwelt.com CNAME .
 halluxfit.de CNAME .
 hallwaychair-shop.com CNAME .
+halmheld.com CNAME .
 halocolor.com CNAME .
 halooffers.com CNAME .
 halseband-technik.de CNAME .
@@ -9897,6 +9967,7 @@ hans-engelke-energie.de CNAME .
 hans-fahrradhaus.de CNAME .
 hansacontainergmbh.de CNAME .
 hansatraileranhanger-de.com CNAME .
+hanseatischercontainerservicegmbh.de CNAME .
 hansen-mode.com CNAME .
 hansholzmotor.de CNAME .
 hansrasenmaher.com CNAME .
@@ -9923,6 +9994,7 @@ happykidtoys.ru CNAME .
 har6lowr7idge6.com CNAME .
 harderex.com CNAME .
 hardloverz.com CNAME .
+hardmeierversand.ch CNAME .
 hardwarecables.com CNAME .
 hardwarenational.com CNAME .
 hardwarewelt.com CNAME .
@@ -9938,6 +10010,7 @@ harmoniouy.com CNAME .
 harmtonyambientehot.com CNAME .
 harper-berlin.com CNAME .
 harpercollins.shop CNAME .
+harrass-kollegen.de CNAME .
 harrenmedia.com CNAME .
 harrenmedianetwork.com CNAME .
 hartholz-briketts.de CNAME .
@@ -10498,6 +10571,7 @@ holzglut24.de CNAME .
 holzgutexpress.de CNAME .
 holzhack-schnitzel.de CNAME .
 holzhambach.com CNAME .
+holzhandel-bauer.com CNAME .
 holzhandelhensel.com CNAME .
 holzhausenug.de CNAME .
 holzheiz.com CNAME .
@@ -11611,6 +11685,7 @@ joyaromania.com CNAME .
 joyaschoenen.com CNAME .
 joyaschuhedeutschland.com CNAME .
 joycap.net CNAME .
+joykaff-espresso.de CNAME .
 joyoussurprise.com CNAME .
 joyshoetique.com CNAME .
 joystar.top CNAME .
@@ -11682,6 +11757,7 @@ justrelevant.com CNAME .
 justvanilla.de CNAME .
 justwowjars.com CNAME .
 juvenda.de CNAME .
+juwelier-keller.com CNAME .
 juwelierkunst.de CNAME .
 jwhulmeshop.com CNAME .
 jyaashop.com CNAME .
@@ -11735,6 +11811,7 @@ kaffeemaschine-de.com CNAME .
 kaffeemaschinebillig.com CNAME .
 kaffeemech.myshopify.com CNAME .
 kaffeerose.de CNAME .
+kaffeesieb.com CNAME .
 kaffeesnackbar.com CNAME .
 kaffeetassendruckerei.de CNAME .
 kaffeetime.de CNAME .
@@ -12003,10 +12080,12 @@ kern-recht.de CNAME .
 kernvogel.com CNAME .
 kersten-maschinenvertriebs-gmbh.de CNAME .
 kerzendose.com CNAME .
+kesten.shop CNAME .
 keterhanova.myshopify.com CNAME .
 kettenblattverkaufe.com CNAME .
 kettenkonzept.de CNAME .
 kettensage.de CNAME .
+kettenschein.com CNAME .
 ketteverkauf.com CNAME .
 keucoverkauf.com CNAME .
 kevtt.com CNAME .
@@ -12391,6 +12470,7 @@ kuhlmann-rechtsanwaelte.de CNAME .
 kuhschelhof.de CNAME .
 kuk-kaffee.de CNAME .
 kukirins.co.at CNAME .
+kuksawiar.com CNAME .
 kulako.com CNAME .
 kulbit.lv CNAME .
 kumarkt.de.com CNAME .
@@ -12425,6 +12505,7 @@ kurundu.de CNAME .
 kurvea.com CNAME .
 kurzurlaub-deal.de CNAME .
 kuscheltiereteddys.com CNAME .
+kuskwer.shop CNAME .
 kuyun.com CNAME .
 kvicco.com CNAME .
 kvp0fw-hi.myshopify.com CNAME .
@@ -13000,6 +13081,11 @@ liujoukshop.com CNAME .
 livaxxen.com CNAME .
 live-events.ono.axp.amazon-adsystem.com CNAME .
 live-video-log16-normal-alisg.tiktokv.com CNAME .
+live-video-log16-normal-useast1a.tiktokv.com CNAME .
+live-video-log16-normal-useast2a.tiktokv.com CNAME .
+live-video-log16-normal-useast2a.tiktokv.eu CNAME .
+live-video-log16-normal-useast5.tiktokv.us CNAME .
+live-video-log16-normal-useastred.tiktokv.eu CNAME .
 live.miphone.pandora.xiaomi.com CNAME .
 live.trmzum.com CNAME .
 liveadexchanger.com CNAME .
@@ -13057,10 +13143,14 @@ locajardin.com CNAME .
 localgermany.de CNAME .
 locateanyphone.net CNAME .
 location-i18n.tiktokv.com CNAME .
+location-ie.tiktokv.eu CNAME .
 location-microsoft-com.b-0005.b-msedge.net CNAME .
 location-ru.tiktokv.com CNAME .
 location-sg.tiktokv.com CNAME .
 location-ttp2.tiktokv.eu CNAME .
+location-ttp2.tiktokv.us CNAME .
+location-ttp2.tiktokw.eu CNAME .
+location-ttp2.tiktokw.us CNAME .
 location-ttp2.us.tiktokv.com CNAME .
 location-v6-i18n.tiktokv.com CNAME .
 location-v6-ru.tiktokv.com CNAME .
@@ -13069,17 +13159,21 @@ location-v6-ttp2.tiktokv.eu CNAME .
 location-v6-ttp2.tiktokv.us CNAME .
 location-v6-va.tiktokv.com CNAME .
 location-v6.tiktokv.com CNAME .
+location-v6.tiktokv.eu CNAME .
 location-v6.tiktokv.us CNAME .
 location-va.tiktokv.com CNAME .
+location.capcutapi.us CNAME .
 location.live.net CNAME .
 location.microsoft.com CNAME .
 location.tiktok.com CNAME .
 location.tiktokv.com CNAME .
 location.tiktokv.eu CNAME .
 location.tiktokv.us CNAME .
+location.tiktokw.eu CNAME .
 location.tiktokw.us CNAME .
 location.us.tiktokv.com CNAME .
 location16-normal-useastred.tiktokv.eu CNAME .
+location16-normal-useastred.tiktokw.eu CNAME .
 locationconseilsfinanciers.fr CNAME .
 locations.crocs.de CNAME .
 locationv16-normal-useastred.tiktokv.eu CNAME .
@@ -13103,6 +13197,8 @@ lofza.com CNAME .
 log-boot.capcutapi.com CNAME .
 log-boot.tiktokv.com CNAME .
 log-dr.tiktokv.com CNAME .
+log-dr.tiktokv.eu CNAME .
+log-dr.tiktokv.us CNAME .
 log-dr16-normal-no1a.tiktokv.eu CNAME .
 log-dr16-normal-useast1a.tiktokv.com CNAME .
 log-dr16-normal-useast5.tiktokv.us CNAME .
@@ -13126,14 +13222,17 @@ log-snssdk.tiktokv-us.com CNAME .
 log-tiktok.byteoversea.net CNAME .
 log-v2-boot.capcutapi.com CNAME .
 log-va-useast2a.tiktokv.com CNAME .
+log-va.capcutapi.com CNAME .
 log-va.tiktokv.com CNAME .
 log.btopenworld.com CNAME .
 log.byteoversea.com CNAME .
+log.capcutapi.us CNAME .
 log.logrocket.io CNAME .
 log.pinterest.com CNAME .
 log.pt.xiaomi.com CNAME .
 log.snssdk.com CNAME .
 log.tiktokv.com CNAME .
+log.tiktokv.eu CNAME .
 log.tiktokv.us CNAME .
 log.us.tiktokv.com CNAME .
 log.videocampaign.co CNAME .
@@ -13147,6 +13246,7 @@ log16-normal-alisg.tiktokv.com CNAME .
 log16-normal-c-useast1a.tiktokv.com CNAME .
 log16-normal-c-useast2a.tiktokv.com CNAME .
 log16-normal-delay-alisg.tiktokv.com CNAME .
+log16-normal-ie.tiktokv.eu CNAME .
 log16-normal-ind.tiktokv.com CNAME .
 log16-normal-no1a.tiktokv.eu CNAME .
 log16-normal-sg.capcutapi.com CNAME .
@@ -13157,7 +13257,9 @@ log16-normal-useast5.tiktokv.us CNAME .
 log16-normal-useast8.tiktokv.us CNAME .
 log16-normal-useast8.us.tiktokv.com CNAME .
 log16-normal-useastred.tiktokv.eu CNAME .
+log16-normal-zr-alisg.tiktokv.com CNAME .
 log16-normal-zr-useast1a.tiktokv.com CNAME .
+log16-normal-zr.tiktokv.com CNAME .
 log16-normal.capcutapi.com CNAME .
 log16-normal.tiktokv.com CNAME .
 log16-platform-ycru.tiktokv.com CNAME .
@@ -13171,22 +13273,37 @@ log19-applog-useast1a.tiktokv.com CNAME .
 log19-applog-useast2a.tiktokv.com CNAME .
 log19-applog-useast5.us.tiktokv.com CNAME .
 log19-normal-alisg.tiktokv.com CNAME .
+log19-normal-no1a.tiktokv.eu CNAME .
 log19-normal-useast1a.tiktokv.com CNAME .
 log19-normal-useast2a.tiktokv.com CNAME .
+log19-normal-useast5.tiktokv.us CNAME .
+log19-normal-useast8.tiktokv.us CNAME .
+log19-normal-zr-alisg.tiktokv.com CNAME .
+log19-normal-zr-useast1a.tiktokv.com CNAME .
+log19-normal-zr.tiktokv.com CNAME .
 log19-normal.tiktokv.com CNAME .
 log22-applog-useast1a.tiktokv.com CNAME .
 log22-applog-useast2a.tiktokv.com CNAME .
 log22-normal-alisg.tiktokv.com CNAME .
 log22-normal-useast1a.tiktokv.com CNAME .
 log22-normal-useast2a.tiktokv.com CNAME .
+log22-normal-zr-alisg.tiktokv.com CNAME .
+log22-normal-zr-useast1a.tiktokv.com CNAME .
+log22-normal-zr.tiktokv.com CNAME .
+log22-normal.capcutapi.com CNAME .
 log22-normal.tiktokv.com CNAME .
 log3-normal-c-alisg.tiktokv.com CNAME .
 log3-normal-c-useast1a.tiktokv.com CNAME .
 log31-normal-alisg.tiktokv.com CNAME .
 log31-normal-no1a.tiktokv.eu CNAME .
+log31-normal-sg.capcutapi.com CNAME .
 log31-normal-useast1a.tiktokv.com CNAME .
 log31-normal-useast2a.tiktokv.com CNAME .
 log31-normal-useastred.tiktokv.eu CNAME .
+log31-normal-zr-alisg.tiktokv.com CNAME .
+log31-normal-zr-useast1a.tiktokv.com CNAME .
+log31-normal-zr.tiktokv.com CNAME .
+log31-normal.capcutapi.com CNAME .
 log31-normal.tiktokv.com CNAME .
 log32-normal-alisg.tiktokv.com CNAME .
 log32-normal-no1a.tiktokv.eu CNAME .
@@ -13194,6 +13311,8 @@ log32-normal-sg.capcutapi.com CNAME .
 log32-normal-useast1a.tiktokv.com CNAME .
 log32-normal-useast2a.tiktokv.com CNAME .
 log32-normal-useastred.tiktokv.eu CNAME .
+log32-normal-zr-alisg.tiktokv.com CNAME .
+log32-normal-zr-useast1a.tiktokv.com CNAME .
 log32-normal-zr.tiktokv.com CNAME .
 log32-normal.capcutapi.com CNAME .
 log32-normal.tiktokv.com CNAME .
@@ -13599,6 +13718,7 @@ maillauto-industrie.com CNAME .
 main-btc.com CNAME .
 main-garten.at CNAME .
 main-mokassin.de CNAME .
+mainecoonkatzenzucht.de CNAME .
 mainet.business CNAME .
 maintainel.com CNAME .
 maintenanceh.com CNAME .
@@ -13631,6 +13751,7 @@ malerbedarf-sales.com CNAME .
 malergeschaft.com CNAME .
 maliva-mcs-useast2a.byteoversea.com CNAME .
 maliva-mcs.byteoversea.com CNAME .
+maliva-mcs.capcutapi.com CNAME .
 mall.galeridora.com CNAME .
 mall.gresholm.com CNAME .
 mallezeit.de CNAME .
@@ -14229,6 +14350,7 @@ meinmodellshop.com CNAME .
 meinradladen.com CNAME .
 meinrechneronline.de CNAME .
 meinsmartshop.com CNAME .
+meintechmarkt.com CNAME .
 meintechnik.de CNAME .
 meintherapiedecken.de CNAME .
 meinwarenhaus.com CNAME .
@@ -14760,6 +14882,7 @@ moebellagerhaus.com CNAME .
 moebelmaerki-mtb.ch CNAME .
 moebelonline24.com CNAME .
 moebelpacker-wien.at CNAME .
+moebelpfad.com CNAME .
 moebelquelle.com CNAME .
 moebelstil.com CNAME .
 moebeltrumpf.de CNAME .
@@ -14840,6 +14963,7 @@ mon15-normal.tiktokv.com CNAME .
 mon16-normal-alisg.tiktokv.com CNAME .
 mon16-normal-c-useast1a.tiktokv.com CNAME .
 mon16-normal-c-useast2a.tiktokv.com CNAME .
+mon16-normal-ie.tiktokv.eu CNAME .
 mon16-normal-no1a.tiktokv.eu CNAME .
 mon16-normal-sg.capcutapi.com CNAME .
 mon16-normal-sg.capcutapi.com.edgesuite.net CNAME .
@@ -14852,27 +14976,40 @@ mon16-normal-useast5.tiktokv.us CNAME .
 mon16-normal-useast8.tiktokv.us CNAME .
 mon16-normal-useast8.us.tiktokv.com CNAME .
 mon16-normal-useastred.tiktokv.eu CNAME .
+mon16-normal-zr-alisg.tiktokv.com CNAME .
 mon16-normal-zr-useast1a.tiktokv.com CNAME .
+mon16-normal.capcutapi.com CNAME .
 mon16-normal.tiktokv.com CNAME .
 mon16-platform-useast5.us.tiktokv.com CNAME .
 mon16-platform-ycru.tiktokv.com CNAME .
 mon16-tmp-normal-useast1a.tiktokv.com CNAME .
 mon19-normal-alisg.tiktokv.com CNAME .
 mon19-normal-useast1a.tiktokv.com CNAME .
+mon19-normal-zr-alisg.tiktokv.com CNAME .
+mon19-normal-zr-useast1a.tiktokv.com CNAME .
 mon19-normal.tiktokv.com CNAME .
 mon22-normal-alisg.tiktokv.com CNAME .
 mon22-normal-useast1a.tiktokv.com CNAME .
+mon22-normal-zr-alisg.tiktokv.com CNAME .
+mon22-normal-zr-useast1a.tiktokv.com CNAME .
 mon22-normal.tiktokv.com CNAME .
 mon31-normal-alisg.tiktokv.com CNAME .
 mon31-normal-no1a.tiktokv.eu CNAME .
+mon31-normal-sg.capcutapi.com CNAME .
 mon31-normal-useast1a.tiktokv.com CNAME .
 mon31-normal-useastred.tiktokv.eu CNAME .
+mon31-normal-zr-alisg.tiktokv.com CNAME .
+mon31-normal-zr-useast1a.tiktokv.com CNAME .
+mon31-normal.capcutapi.com CNAME .
 mon31-normal.tiktokv.com CNAME .
 mon32-normal-alisg.tiktokv.com CNAME .
 mon32-normal-no1a.tiktokv.eu CNAME .
 mon32-normal-sg.capcutapi.com CNAME .
 mon32-normal-useast1a.tiktokv.com CNAME .
 mon32-normal-useastred.tiktokv.eu CNAME .
+mon32-normal-zr-alisg.tiktokv.com CNAME .
+mon32-normal-zr-useast1a.tiktokv.com CNAME .
+mon32-normal.capcutapi.com CNAME .
 mon32-normal.tiktokv.com CNAME .
 monarchads.com CNAME .
 monatrade.com CNAME .
@@ -15174,6 +15311,7 @@ munster-mode.de CNAME .
 mupishop.de CNAME .
 mur-shop.com CNAME .
 museopradotickets.com CNAME .
+musgex.com CNAME .
 mushroomgods.com CNAME .
 musicalvortex.com CNAME .
 musicgearfashion.com CNAME .
@@ -15196,6 +15334,7 @@ musikprofi.com CNAME .
 musikstrings.com CNAME .
 musikwelt-lindner.de CNAME .
 musiqueonline.com CNAME .
+muskangaming.com CNAME .
 muskanonline.com CNAME .
 mustang-parts-shop.de CNAME .
 muteknife.com CNAME .
@@ -15805,6 +15944,7 @@ novelbuys.com CNAME .
 novele.de CNAME .
 novem.pl CNAME .
 novendo.shop CNAME .
+noventaway.com CNAME .
 noveraxcapital.com CNAME .
 novermessen.de CNAME .
 novestas.de CNAME .
@@ -16632,6 +16772,7 @@ p16-ttam-sg.ibyteimg.com CNAME .
 p16-ttam-va.ibyteimg.com CNAME .
 p16-ttam-va.tiktokcdn.com CNAME .
 p16-ttam.tiktokcdn-us.com CNAME .
+p19-tiktok-ads-sg.tiktokcdn.com CNAME .
 p19-ttam-sg.ibyteimg.com CNAME .
 p19-ttam-va.ibyteimg.com CNAME .
 p19-ttam-va.tiktokcdn.com CNAME .
@@ -16748,6 +16889,7 @@ patrickvetter.de CNAME .
 patrimoine-partenaires.com CNAME .
 patrioticy.com CNAME .
 paul-joses.de CNAME .
+paula-zagreb.com CNAME .
 paulgreenosterreich.com CNAME .
 paulgreensale.com CNAME .
 paulinacasmur.com CNAME .
@@ -16784,6 +16926,7 @@ pc-mon-v2-boot.capcutapi.com CNAME .
 pc-mon-v2-boot.capcutapi.com.edgesuite.net CNAME .
 pc-mon-v2-boot.capcutapi.com.ttdns2.com CNAME .
 pc-mon-va.byteoversea.com CNAME .
+pc-mon-va.capcutapi.com CNAME .
 pc-mon.snssdk.com CNAME .
 pc-mon16-normal-us-ttp.capcutapi.us CNAME .
 pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net CNAME .
@@ -16941,6 +17084,7 @@ pflanzen-de.com CNAME .
 pflanzenoeldiesel.de CNAME .
 pflanzenshop-de.com CNAME .
 pflanzensoftware.de CNAME .
+pflanzenwelt24.com CNAME .
 pflegedienste-marktoberdorf.de CNAME .
 pflegedienstrechner.de CNAME .
 pflegemeisterei.de CNAME .
@@ -16948,6 +17092,7 @@ pflegeprofi-shop.com CNAME .
 pflegeschonheit.com CNAME .
 pforp.net CNAME .
 pfotegws.de CNAME .
+pfotendepot.com CNAME .
 pfotengarten.de CNAME .
 pfotenkomfort.com CNAME .
 pfotentrend.com CNAME .
@@ -17169,7 +17314,6 @@ platform-ai-trade.com CNAME .
 platform.ap-capital-lim.com CNAME .
 platform.invesco-trading.com CNAME .
 platform.softwarecrownex.com CNAME .
-platincoin.com CNAME .
 platinwerk.de CNAME .
 platten24.com CNAME .
 platzimgarten.com CNAME .
@@ -17264,6 +17408,7 @@ polene-osterreich.com CNAME .
 polene-shop.com CNAME .
 polene.at CNAME .
 polene.co.at CNAME .
+poleneat.cc CNAME .
 polenegermany.de CNAME .
 poleneoutlet.de CNAME .
 poleneparis.at CNAME .
@@ -18079,6 +18224,7 @@ recetasplus.com CNAME .
 rechtsanwalt-breithaupt.de CNAME .
 rechtsanwalt-sirrenberg.de CNAME .
 rechtsanwalt-wiegmann.de CNAME .
+rechtsanwaltkramer.de CNAME .
 rechtskanzlei-karls.de CNAME .
 rechtund-gesetz.com CNAME .
 recognitioy.com CNAME .
@@ -18480,6 +18626,7 @@ roguephilosopher.com CNAME .
 rohdeschuhewerksverkauf.com CNAME .
 rohn-shop.com CNAME .
 rohoelzuender.de CNAME .
+rohrerfahrrad.at CNAME .
 rohrreinigung-rothschild.de CNAME .
 rohrreinigungshilfe.at CNAME .
 rohrsanierungen24.de CNAME .
@@ -18603,12 +18750,15 @@ rtbplatform.net CNAME .
 rtbpop.com CNAME .
 rtc-logger-i18n.tiktokv.com CNAME .
 rtc-logger-ie.tiktokv.eu CNAME .
+rtc-logger-ttp2.tiktokv.eu CNAME .
 rtc-logger-ttp2.tiktokv.us CNAME .
 rtc-logger-ttp2.us.tiktokv.com CNAME .
 rtc-logger-va.tiktokv.com CNAME .
 rtc-logger.tiktokv.com CNAME .
+rtc-logger.tiktokv.eu CNAME .
 rtc-logger.tiktokv.us CNAME .
 rtc-logger.us.tiktokv.com CNAME .
+rtc-logger16-normal-alisg.tiktokv.com CNAME .
 rtc-logger16-normal-useastred.tiktokv.eu CNAME .
 rtieej.buzz CNAME .
 rtlog-i18n.tiktokv.com CNAME .
@@ -18618,6 +18768,7 @@ rtlog-va-useast2a.tiktokv.com CNAME .
 rtlog-va.tiktokv.com CNAME .
 rtlog.byteoversea.com CNAME .
 rtlog.tiktokv.com CNAME .
+rtlog.tiktokv.eu CNAME .
 rtlog.us.tiktokv.com CNAME .
 rtlog15-normal-alisg.tiktokv.com CNAME .
 rtlog15-normal-useast1a.tiktokv.com CNAME .
@@ -18627,6 +18778,7 @@ rtlog16-applog-useast1a.tiktokv.com CNAME .
 rtlog16-applog-useast2a.tiktokv.com CNAME .
 rtlog16-applog-useast5.us.tiktokv.com CNAME .
 rtlog16-normal-alisg.tiktokv.com CNAME .
+rtlog16-normal-ie.tiktokv.eu CNAME .
 rtlog16-normal-ind.tiktokv.com CNAME .
 rtlog16-normal-no1a.tiktokv.eu CNAME .
 rtlog16-normal-useast1a.tiktokv.com CNAME .
@@ -18635,6 +18787,9 @@ rtlog16-normal-useast5.tiktokv.us CNAME .
 rtlog16-normal-useast8.tiktokv.us CNAME .
 rtlog16-normal-useast8.us.tiktokv.com CNAME .
 rtlog16-normal-useastred.tiktokv.eu CNAME .
+rtlog16-normal-zr-alisg.tiktokv.com CNAME .
+rtlog16-normal-zr-useast1a.tiktokv.com CNAME .
+rtlog16-normal-zr.tiktokv.com CNAME .
 rtlog16-normal.tiktokv.com CNAME .
 rtlog16-platform-useast5.us.tiktokv.com CNAME .
 rtlog16-tmp-normal-useast1a.tiktokv.com CNAME .
@@ -18646,9 +18801,14 @@ rtlog19-applog-useast1a.tiktokv.com CNAME .
 rtlog19-applog-useast2a.tiktokv.com CNAME .
 rtlog19-applog-useast5.us.tiktokv.com CNAME .
 rtlog19-normal-alisg.tiktokv.com CNAME .
+rtlog19-normal-no1a.tiktokv.eu CNAME .
 rtlog19-normal-useast1a.tiktokv.com CNAME .
 rtlog19-normal-useast2a.tiktokv.com CNAME .
+rtlog19-normal-useast5.tiktokv.us CNAME .
+rtlog19-normal-useast8.tiktokv.us CNAME .
+rtlog19-normal-zr-alisg.tiktokv.com CNAME .
 rtlog19-normal-zr-useast1a.tiktokv.com CNAME .
+rtlog19-normal-zr.tiktokv.com CNAME .
 rtlog19-normal.tiktokv.com CNAME .
 rtlog19-platform-useast5.us.tiktokv.com CNAME .
 rtlog22-applog-useast1a.tiktokv.com CNAME .
@@ -18656,13 +18816,27 @@ rtlog22-applog-useast2a.tiktokv.com CNAME .
 rtlog22-normal-alisg.tiktokv.com CNAME .
 rtlog22-normal-useast1a.tiktokv.com CNAME .
 rtlog22-normal-useast2a.tiktokv.com CNAME .
+rtlog22-normal-zr-alisg.tiktokv.com CNAME .
+rtlog22-normal-zr-useast1a.tiktokv.com CNAME .
+rtlog22-normal-zr.tiktokv.com CNAME .
 rtlog22-normal.tiktokv.com CNAME .
 rtlog31-normal-alisg.tiktokv.com CNAME .
+rtlog31-normal-no1a.tiktokv.eu CNAME .
 rtlog31-normal-useast1a.tiktokv.com CNAME .
 rtlog31-normal-useast2a.tiktokv.com CNAME .
+rtlog31-normal-useastred.tiktokv.eu CNAME .
+rtlog31-normal-zr-alisg.tiktokv.com CNAME .
+rtlog31-normal-zr-useast1a.tiktokv.com CNAME .
+rtlog31-normal-zr.tiktokv.com CNAME .
 rtlog31-normal.tiktokv.com CNAME .
 rtlog32-normal-alisg.tiktokv.com CNAME .
+rtlog32-normal-no1a.tiktokv.eu CNAME .
+rtlog32-normal-useast2a.tiktokv.eu CNAME .
+rtlog32-normal-useastred.tiktokv.eu CNAME .
+rtlog32-normal-zr-alisg.tiktokv.com CNAME .
+rtlog32-normal-zr-useast1a.tiktokv.com CNAME .
 rtlog32-normal-zr.tiktokv.com CNAME .
+rtlog32-normal.tiktokv.com CNAME .
 rtlog58-normal-alisg.tiktokv.com CNAME .
 rtlog58-normal-useast1a.tiktokv.com CNAME .
 rtlog58-normal-useast2a.tiktokv.com CNAME .
@@ -18773,7 +18947,6 @@ rx-budapest.com CNAME .
 rx-pharma.net CNAME .
 rx-pharmacies.com CNAME .
 rx-qualityshop.com CNAME .
-rx-true.com CNAME .
 rx247rx.com CNAME .
 rxapothekefursie.com CNAME .
 rxappfree.com CNAME .
@@ -18883,6 +19056,7 @@ salewa-cz-2026.myshoplaza.com CNAME .
 saleworkshopequip.com CNAME .
 salexen.de CNAME .
 salfas.com CNAME .
+salin-home.com CNAME .
 sallasboutique.com CNAME .
 salmingchile.com CNAME .
 salmingslovenija.com CNAME .
@@ -19276,6 +19450,11 @@ sdk-cache.video.ptqy.gitv.tv CNAME .
 sdk-transport.com CNAME .
 sdk.51.la CNAME .
 sdk.ptqy.gitv.tv CNAME .
+sdkconfig.eu.xiaomi.com CNAME .
+sdkconfig.india.xiaomi.com CNAME .
+sdkconfig.intl.xiaomi.com CNAME .
+sdkconfig.rus.xiaomi.com CNAME .
+sdkconfig.xiaomi.com CNAME .
 se-ad-lgsmartad-com.aws-prd.net CNAME .
 se-info-lgsmartad-com.aws-prd.net CNAME .
 se-rdx2-lgtvsdp-com.aws-prd.net CNAME .
@@ -19349,6 +19528,7 @@ seifenbrause.de CNAME .
 seifertundstil.de CNAME .
 seigneurin.fr CNAME .
 seiko-mod.de CNAME .
+seikouhr.co.at CNAME .
 seikouhr.de CNAME .
 seilzu.com CNAME .
 seizoensmode.nl CNAME .
@@ -19436,6 +19616,11 @@ sextracker.com CNAME .
 sezaneclothingshop.sa.com CNAME .
 sf16-ads-format-sign.tiktokcdn.com CNAME .
 sf16-ads-format-sign.tiktokcdn.com.edgesuite.net CNAME .
+sf16-short-gcp.bytedapm.com CNAME .
+sf16-short-sg.bytedapm.com CNAME .
+sf16-short-sg.bytedapm.com.edgesuite.net CNAME .
+sf16-short-va.bytedapm.com CNAME .
+sf16-short-va.bytedapm.com.edgesuite.net CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com CNAME .
 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net CNAME .
 sf19-ads-format-sign.tiktokcdn.com CNAME .
@@ -19936,6 +20121,7 @@ snapbartar.com CNAME .
 snapposh.com CNAME .
 snazzypoodle.com CNAME .
 sneakerfee.com CNAME .
+sneakerly.de CNAME .
 sneakers-metzingen.de CNAME .
 sneakers4you.eu CNAME .
 sneakersgermanyonline.com CNAME .
@@ -20091,6 +20277,7 @@ somviro.com CNAME .
 sonar.prime-video.amazon.dev CNAME .
 sonaxverkauf.com CNAME .
 sonetiacrcb.shop CNAME .
+soniazagreb.com CNAME .
 sonnenheld.at CNAME .
 sonnenlit.de CNAME .
 sonnensparo.com CNAME .
@@ -20108,6 +20295,7 @@ sopheria.de CNAME .
 sophiaberlin.de CNAME .
 sophieweberr.com CNAME .
 soppdobuy.com CNAME .
+soprogi.com CNAME .
 soraionline.com CNAME .
 sorbas-grill.de CNAME .
 sorbery.com CNAME .
@@ -20393,6 +20581,7 @@ st.amazon-adsystem.com CNAME .
 st.dynamicyield.com CNAME .
 st.pubmatic.com CNAME .
 stabileersatzteile.com CNAME .
+stabilosanitar.com CNAME .
 stabletrader-ai.net CNAME .
 stack-sonar.com CNAME .
 stackadapt.com CNAME .
@@ -20425,6 +20614,7 @@ standpellet.de CNAME .
 standprofi.com CNAME .
 standycrome.com CNAME .
 stanfpv.com CNAME .
+stangelinz.com CNAME .
 stanley-cups.at CNAME .
 stanley-cups.de CNAME .
 stanleycup.com.de CNAME .
@@ -20436,6 +20626,7 @@ staplerbatterien.de CNAME .
 star-apotheke.org CNAME .
 star-gamer.com CNAME .
 starcici.com CNAME .
+starcontainergmbh.de CNAME .
 stardacasinoonline.de CNAME .
 starel.xyz CNAME .
 starelax.com CNAME .
@@ -20637,6 +20828,7 @@ store.kestrelby.com CNAME .
 store.mavelimira.com CNAME .
 store.promomesh.com CNAME .
 store.rensby.com CNAME .
+store.selvariveta.com CNAME .
 store.useum.org CNAME .
 store.yeelight.com CNAME .
 storeaigle.de CNAME .
@@ -21122,6 +21314,7 @@ tbm.snssdk.com CNAME .
 tc-germany.com CNAME .
 tcads.net CNAME .
 tcduvshop02.myshoplaza.com CNAME .
+tchibooutlet.com CNAME .
 tcinosgroup.com CNAME .
 tcomplex.de CNAME .
 td-treuhand.de CNAME .
@@ -21767,6 +21960,7 @@ topoffice24.de CNAME .
 toponlinepharmacies.com CNAME .
 topowhey.top CNAME .
 toppdf.co CNAME .
+topproizvodi.eu CNAME .
 topreinigungsmittel.com CNAME .
 toprolexes.com CNAME .
 topsalenow.xyz CNAME .
@@ -21998,6 +22192,7 @@ trailer-master.de CNAME .
 trailer-master.eu CNAME .
 trailerfrance.com CNAME .
 trailertour.com CNAME .
+trailrunne.com CNAME .
 trainwelt.com CNAME .
 trakfreesm.click CNAME .
 trakkerbillig.com CNAME .
@@ -22052,6 +22247,7 @@ treatstoreweb.com CNAME .
 treemexholz.de CNAME .
 treibhausshop.de CNAME .
 trekdata.com CNAME .
+trekkinghaus.com CNAME .
 tremendoustime.com CNAME .
 tremorhub.com CNAME .
 trencystore.com CNAME .
@@ -22134,7 +22330,6 @@ truckstomatoes.com CNAME .
 truckstopshop.de CNAME .
 truculentrate.com CNAME .
 true-drugstore.com CNAME .
-true-ph.com CNAME .
 true-pp.com CNAME .
 true-tab.com CNAME .
 true-weightlose.com CNAME .
@@ -22268,6 +22463,7 @@ typicalteeth.com CNAME .
 tyreschwalbe.com CNAME .
 tyroo.com CNAME .
 tyu-trade.com CNAME .
+tyyclu.com CNAME .
 tz-ad-lgsmartad-com.aws-prd.net CNAME .
 u-id.cpc.heytapmobile.com CNAME .
 ua-ad-lgsmartad-com.aws-prd.net CNAME .
@@ -22295,10 +22491,13 @@ uffugim.run CNAME .
 ufolepbourgogne.org CNAME .
 ug-ad-lgsmartad-com.aws-prd.net CNAME .
 ug-sg.byteoversea.com CNAME .
+ug-sg.capcutapi.com CNAME .
+ug-va.capcutapi.com CNAME .
 ug.snssdk.com CNAME .
 ugattribution-i18n.tiktokv.com CNAME .
 ugattribution-ru.tiktokv.com CNAME .
 ugattribution-sg.tiktokv.com CNAME .
+ugattribution-ttp2.us.tiktokv.com CNAME .
 ugg-online.com CNAME .
 uggat.at CNAME .
 uggfans.myshoplaza.com CNAME .
@@ -22442,6 +22641,7 @@ unqloutlet.shop CNAME .
 unruly.co CNAME .
 unrulymedia.com CNAME .
 unser-eshop.shop.epages.de CNAME .
+unserstil.com CNAME .
 untd.com CNAME .
 unterbewusst.at CNAME .
 unternehmenbessermachen.de CNAME .
@@ -22802,6 +23002,7 @@ vetapotheke-shop.de CNAME .
 vetntilate.com CNAME .
 vetretto.myshopify.com CNAME .
 vetter-law.de CNAME .
+vewear.shop CNAME .
 vexiebox.myshopify.com CNAME .
 vexontor.com CNAME .
 vexxsel.online CNAME .
@@ -22914,6 +23115,7 @@ vinissage.de CNAME .
 vinneo.fr CNAME .
 vinospezial.com CNAME .
 vinsrougesboutique.com CNAME .
+vintageaffordablejbl.shop CNAME .
 vintageitisrain.store CNAME .
 vintageladies.de CNAME .
 vintagespinvinyl.com CNAME .
@@ -23150,6 +23352,7 @@ vuigodeutschland.de CNAME .
 vulcanus.at CNAME .
 vumonvision.com CNAME .
 vungle.com CNAME .
+vusilia.de CNAME .
 vutereck.com CNAME .
 vuxocap-vip.io CNAME .
 vw-insights.de CNAME .
@@ -23247,6 +23450,7 @@ washingtonposttoday.com CNAME .
 washingtontimesnewstoday.com CNAME .
 wasser-kaiser.com CNAME .
 wasserbetten-centrum.at CNAME .
+wasserfestwandplatte.com CNAME .
 wasserflorade.com CNAME .
 wasserflorashop.com CNAME .
 wasserpflegede.com CNAME .
@@ -23853,13 +24057,21 @@ xlog-ru.tiktokv.com CNAME .
 xlog-va-useast2a.byteoversea.com CNAME .
 xlog-va-useast2a.tiktokv.com CNAME .
 xlog-va.byteoversea.com CNAME .
+xlog-va.capcutapi.com CNAME .
 xlog-va.tiktokv.com CNAME .
 xlog.byteoversea.com CNAME .
+xlog.capcutapi.us CNAME .
 xlog.snssdk.com CNAME .
 xlog.tiktokv.com CNAME .
+xlog.tiktokv.eu CNAME .
 xlog16-normal-c-useast1a.tiktokv.com CNAME .
 xlog16-normal-c-useast2a.tiktokv.com CNAME .
+xlog16-normal-ie.tiktokv.eu CNAME .
+xlog16-normal-no1a.tiktokv.eu CNAME .
+xlog16-normal-useast5.tiktokv.us CNAME .
+xlog16-normal-useast8.tiktokv.us CNAME .
 xlog16-normal-useast8.us.tiktokv.com CNAME .
+xlog16-normal-useastred.tiktokv.eu CNAME .
 xlog16-platform-useast5.us.tiktokv.com CNAME .
 xlog16-platform-ycru.tiktokv.com CNAME .
 xlog16-tmp-normal-useast1a.tiktokv.com CNAME .

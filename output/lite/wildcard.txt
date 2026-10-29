@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-28 03:16:37
-# Total Domains: 24,273
+# Last Updated: 2026-10-29 03:41:30
+# Total Domains: 24,485
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -9,6 +9,7 @@
 *.0dgwn.bemobtrcks.com
 *.0el-preiswert-kaufen.de
 *.0hyzxx-rc.myshopify.com
+*.1-rx-shop.com
 *.101com.com
 *.101vectorcenter.sbs
 *.10xdealership.com
@@ -376,13 +377,22 @@
 *.ad-delivery.net
 *.ad-drcn.media.dbankcloud.cn
 *.ad-drcn.media.dbankcloud.ru
+*.ad-format-i18n.tiktokv.com
+*.ad-format-ie.tiktokv.eu
+*.ad-format-ru.tiktokv.com
 *.ad-format-sg.tiktokv.com
 *.ad-format-ttp2.tiktokv.eu
+*.ad-format-ttp2.tiktokv.us
+*.ad-format-ttp2.us.tiktokv.com
+*.ad-format.tiktokv.eu
 *.ad-format.tiktokv.us
+*.ad-format.us.tiktokv.com
 *.ad-format16-normal-useastred.tiktokv.eu
 *.ad-growth-in.heytapmobile.com
 *.ad-growth-ru.heytapmobile.com
 *.ad-growth-sg.heytapmobile.com
+*.ad-instantpage-i18n.tiktokv.com
+*.ad-instantpage-ie.tiktokv.eu
 *.ad-instantpage-ru.tiktokv.com
 *.ad-instantpage-sg.tiktokv.com
 *.ad-instantpage-sg.tiktokv.com.edgekey.net
@@ -391,10 +401,13 @@
 *.ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 *.ad-instantpage-ttp2.tiktokv.us
 *.ad-instantpage-ttp2.tiktokv.us.edgesuite.net
+*.ad-instantpage-ttp2.us.tiktokv.com
 *.ad-instantpage-va.tiktokv.com
+*.ad-instantpage.tiktokv.eu
 *.ad-instantpage.tiktokv.us
 *.ad-instantpage.tiktokv.us.edgesuite.net
 *.ad-instantpage.tiktokv.us.ttdns4.com
+*.ad-instantpage.us.tiktokv.com
 *.ad-pay.de
 *.ad-property.com
 *.ad-rotator.com
@@ -465,6 +478,7 @@
 *.ad.technoratimedia.com
 *.ad.tiktok.tv
 *.ad.tiktokv.com
+*.ad.tiktokv.eu
 *.ad.tiktokv.us
 *.ad.toygzv.shop
 *.ad.turn.com
@@ -558,6 +572,7 @@
 *.adform.com
 *.adform.net
 *.adformdsp.net
+*.adfox.cam
 *.adhaven.com
 *.adhese.be
 *.adhese.com
@@ -612,6 +627,7 @@
 *.adl.gwrxbt.shop
 *.adl.iuvxvo.shop
 *.adl.jccjm.shop
+*.adl.jjkrn.shop
 *.adl.lreubk.shop
 *.adl.okhxm.shop
 *.adl.raodd.shop
@@ -741,9 +757,12 @@
 *.ads-sg.business-tiktok.com
 *.ads-sg.tiktok.com
 *.ads-ttp2.tiktokw.eu
+*.ads-ttp2.tiktokw.us
 *.ads-ttp2.us.tiktok.com
 *.ads-twitter.com
+*.ads-useast2a.tiktok.com
 *.ads-va.business-tiktok.com
+*.ads-va.tiktok.com
 *.ads.5ci.lt
 *.ads.73dpi.com
 *.ads.aavv.com
@@ -864,6 +883,7 @@
 *.ads.ign.com
 *.ads.imagistica.com
 *.ads.imgur.com
+*.ads.in.tiktok.com
 *.ads.independent.com.mt
 *.ads.infi.net
 *.ads.internic.co.il
@@ -1777,6 +1797,7 @@
 *.amuseliebedirndl.com
 *.amznreturnsale.com
 *.anabolic-steroids-online.com
+*.anaboliczni.pl
 *.anabolikaonlinebestellen.com
 *.anabolikaonlinedeutschland.com
 *.analyticg.com
@@ -1791,6 +1812,7 @@
 *.analytics-events.apple.com
 *.analytics-exp-i18n.tiktok.com
 *.analytics-exp-i18n.tiktok.com.edgekey.net
+*.analytics-exp-ie.tiktokw.eu
 *.analytics-exp-ru.tiktok.com
 *.analytics-exp-ru.tiktok.com.edgesuite.net
 *.analytics-exp-ru.tiktok.com.ttdns2.com
@@ -2324,6 +2346,7 @@
 *.asflnag.com
 *.asfmagtollshop.cyou
 *.asfnagvignette.sa.com
+*.asforstwirtschaft.at
 *.asfrnagi.beer
 *.asgeirpetursson.com
 *.ashbergh.com
@@ -2434,6 +2457,7 @@
 *.at.rattaay.com
 *.at.trabajo.org
 *.at.ultimate-gainz.com
+*.at.vbrcw.shop
 *.at1075.wedqc.shop
 *.at9.ketonaktiv.com
 *.atacadobras25.shop
@@ -3031,7 +3055,6 @@
 *.beachfront.com
 *.beachitem.com
 *.beachsissi.com
-*.beachwalkbali.com
 *.beacon.gu-web.net
 *.beacon.netflix.com
 *.beacon.shazam.com
@@ -3624,6 +3647,7 @@
 *.bj-ad-lgsmartad-com.aws-prd.net
 *.bjbta.com
 *.bjmining.com
+*.bjsrecnd.shop
 *.bk-daten.de
 *.bkaffee.de
 *.bkmusicstore-de.com
@@ -3631,7 +3655,6 @@
 *.bl-group.net
 *.black-shepp-gastroservice.com
 *.blackcatstore.de
-*.blackfridaymegastore.com
 *.blackgurlzsmagickloset.com
 *.blacktridentpop.shop
 *.blacktridents.shop
@@ -3734,6 +3757,7 @@
 *.bmn-online.de
 *.bmpharmacy-official.com
 *.bmpharmacyofficial.com
+*.bmrbhf.shop
 *.bms-promaschinen.com
 *.bmw-bikertreff-bonsberg.de
 *.bmwmt2026online.com
@@ -4445,6 +4469,7 @@
 *.carriageglobal.com
 *.cars-boutique.de
 *.carsarace.com
+*.carsdetective.com
 *.carshades.at
 *.carstruckstoy.com
 *.carteloshop.com
@@ -4536,6 +4561,7 @@
 *.ccc.sys.miui.com
 *.ccftrading.com
 *.cci-immobilien.de
+*.ccmccontainermanagementgmbh.de
 *.ccmedia.news
 *.ccs-consulting.net
 *.ccwjl.com
@@ -5600,7 +5626,9 @@
 *.cstat.cdn-apple.com
 *.cstat.g.aaplimg.com
 *.csunbox.com
+*.cterfilk.monster
 *.cthesky.com
+*.ctmfahrradwerkstatt.at
 *.ctoption.com
 *.ctxholdings.com
 *.cube-network.net
@@ -5763,6 +5791,7 @@
 *.daniel-grilling.com
 *.danielius-rogovas.com
 *.dankers-containers.de
+*.danksportstore.shop
 *.danmarkpotenspiller.com
 *.danmtyshop.com
 *.danneraustria.com
@@ -5956,6 +5985,7 @@
 *.debasketball.com
 *.debot-maschinen.de
 *.dec-visio-telemetry.officeapps.live.com
+*.decadays.store
 *.decantersale.com
 *.decarba-mann.de
 *.decarba.de
@@ -6372,6 +6402,7 @@
 *.dirtchurchradio.com
 *.disciplineh.com
 *.disciplinem.com
+*.discounntde.com
 *.discount-audio-equipment.com
 *.discount-baustoff.de
 *.discount-kobalt.com
@@ -6433,6 +6464,7 @@
 *.dls-account.di.atlas.samsung.com
 *.dls-ddc.dqa.samsung.com
 *.dls-udc.dqa.samsung.com
+*.dls.di.atlas.samsung.com
 *.dls.di.runestone.samsung.com
 *.dlxn-mode.de
 *.dly-home.com
@@ -6868,6 +6900,7 @@
 *.ecoreichholz.com
 *.ecosilkroad.com
 *.ecoupons.com
+*.ecoworthytech.shop
 *.ecs-solutions.net
 *.ecstasy-baby.net
 *.ecxtrade.com
@@ -6924,6 +6957,7 @@
 *.eg-ad-lgsmartad-com.aws-prd.net
 *.eg-info-lgsmartad-com.aws-prd.net
 *.egasoft-digital.com
+*.egbertplakolm.at
 *.eggelingen.de
 *.egoryspecies.com
 *.egscap.com
@@ -7230,6 +7264,7 @@
 *.enuvio.de
 *.enviousclothing.de
 *.enviousthread.com
+*.envisu-gmbh.com
 *.enzomartini.de
 *.enzomorelli.de
 *.eolatetuko.shop
@@ -7268,6 +7303,7 @@
 *.eqy.link
 *.erad-sport.de
 *.eradkultur.de
+*.eradobox.com
 *.eradsport.de
 *.eradstore.de
 *.erdbeerblase.de
@@ -7311,6 +7347,7 @@
 *.esfimeqss.cfd
 *.eshop.sintech.cn
 *.eshopkamagra.sk
+*.esighteyem.lol
 *.esn-eu.com
 *.esn-fitness.com
 *.esnoutleteur.com
@@ -7442,7 +7479,6 @@
 *.euro-modafinil.com
 *.euro-pharm24.com
 *.euro-pharma24x7.com
-*.euro-pill.com
 *.euro.stanleys1913.com
 *.euro2024tickets.de
 *.eurobitx.info
@@ -7495,6 +7531,7 @@
 *.euvendorshub.online
 *.euvitafarm.com
 *.ev-farm.com
+*.eva-zagreb.com
 *.evaam.de
 *.evadav.com
 *.evadavdsp.pro
@@ -7883,6 +7920,7 @@
 *.fastigeriptv.live
 *.fastly-insights.com
 *.fastmarket.store
+*.faszienfit.com
 *.faszinationholz-salzmann.de
 *.fatburner-guru.de
 *.fatburnerking.at
@@ -7998,6 +8036,7 @@
 *.festgeldsicher.at
 *.festivaldefrente.com
 *.festoolz.shop
+*.fetishmegastore.com
 *.fettabsaugung-in-koeln.de
 *.fettverbrenneronline.com
 *.feuchtigkeits.de
@@ -8097,6 +8136,7 @@
 *.findedstore.com
 *.finders-cafe.de
 *.findjobinde.com
+*.findssmogallery.shop
 *.findyourcasino.com
 *.fine-cycle.com
 *.fine-germa-furniture.com
@@ -8581,12 +8621,18 @@
 *.frohzeit.de
 *.frontaley.com
 *.frontier-i18n.tiktokv.com
+*.frontier-ie.tiktokv.eu
+*.frontier-my.byteoversea.com
+*.frontier-my.tiktokv.com
 *.frontier-my2.tiktokv.com
+*.frontier-phx.tiktokv.com
 *.frontier-ru.tiktokv.com
 *.frontier-ru.tiktokv.com.edgekey.net
 *.frontier-ttp2.tiktokv.us
 *.frontier-ttp2.tiktokv.us.edgesuite.net
+*.frontier-ttp2.us.tiktokv.com
 *.frontier-us-ttp2.capcutw.us
+*.frontier-va.byteoversea.com
 *.frontier-va.tiktokv.com
 *.frontier.byteoversea.com
 *.frontier.capcutw.us
@@ -8595,18 +8641,34 @@
 *.frontier.tiktokv-eu.com.edgesuite.net
 *.frontier.tiktokv-eu.com.ttdns3.com
 *.frontier.tiktokv.com
+*.frontier.tiktokv.eu
 *.frontier.tiktokv.us
 *.frontier.tiktokv.us.edgesuite.net
 *.frontier.us.capcut.com
+*.frontier.us.tiktokv.com
 *.frontier100-normal-alisg.tiktokv.com
 *.frontier100-normal-useast1a.tiktokv.com
+*.frontier15-normal-alisg.tiktokv.com
+*.frontier15-normal-useast1a.tiktokv.com
+*.frontier15-normal-useast2a.tiktokv.com
+*.frontier16-normal-alisg.tiktokv.com
 *.frontier16-normal-no1a.tiktokv.eu
 *.frontier16-normal-no1a.tiktokv.eu.edgesuite.net
+*.frontier16-normal-useast1a.tiktokv.com
+*.frontier16-normal-useast2a.tiktokv.com
 *.frontier16-normal-useastred.tiktokv.eu
 *.frontier16-normal-useastred.tiktokv.eu.edgesuite.net
+*.frontier22-normal-alisg.tiktokv.com
+*.frontier22-normal-useast1a.tiktokv.com
+*.frontier22-normal-useast2a.tiktokv.com
 *.frontier23-normal-alisg.tiktokv.com
 *.frontier23-normal-alisg.tiktokv.com.bpgslb.com
 *.frontier23-normal-useast1a.tiktokv.com
+*.frontier23-normal-useast2a.tiktokv.eu
+*.frontier32-normal-alisg.tiktokv.com
+*.frontier32-normal-ie.tiktokv.eu
+*.frontier32-normal-useast1a.tiktokv.com
+*.frontier32-normal-useast2a.tiktokv.com
 *.fronttoad.com
 *.frtyj.com
 *.frtyk.com
@@ -8884,6 +8946,7 @@
 *.gartenkompass.com
 *.gartenkreuzfahrt.de
 *.gartenland-martens.de
+*.gartenluxus.com
 *.gartenly.shop
 *.gartenmachtshop.de
 *.gartenmaeher.com
@@ -8938,6 +9001,7 @@
 *.gas-ertrag.app
 *.gas-heizung-wasser.at
 *.gas-thermen-zentrum.at
+*.gasflaschensale.com
 *.gasglow.de
 *.gashelbywatch.com
 *.gasman-installateur.at
@@ -9213,6 +9277,7 @@
 *.giesswein.cz
 *.giesswein.ro
 *.giessweinca.com
+*.giessweinhouse.shop
 *.giessweins.es
 *.giessweins.it
 *.giessweinschuhe.com
@@ -9299,6 +9364,7 @@
 *.globalmetal.fr
 *.globalpartners-ltd.com
 *.globalpharmacystore.com
+*.globalsmokehub.com
 *.globaltradeforex.com
 *.globaltradeoption.online
 *.globalvideo.cdn.pandora.intl.xiaomi.com
@@ -9502,8 +9568,10 @@
 *.gpautoshopimport.com
 *.gplate.de
 *.gplog-sg.byteoversea.com
+*.gplog-sg.capcutapi.com
 *.gplog-va-useast2a.byteoversea.com
 *.gplog-va.byteoversea.com
+*.gplog-va.capcutapi.com
 *.gpm-mon-sg.byteoversea.com
 *.gpm-mon-va-useast1a.byteoversea.com
 *.gpm-mon-va-useast2a.byteoversea.com
@@ -9596,6 +9664,7 @@
 *.griw.xyz
 *.grizzlyroids.shop
 *.grkwork.com
+*.grondberg.de
 *.groomifypetsstore.com
 *.groovespacing.com
 *.grosshandelwebservice.de
@@ -9822,6 +9891,7 @@
 *.halloweenwelt.com
 *.halluxfit.de
 *.hallwaychair-shop.com
+*.halmheld.com
 *.halocolor.com
 *.halooffers.com
 *.halseband-technik.de
@@ -9897,6 +9967,7 @@
 *.hans-fahrradhaus.de
 *.hansacontainergmbh.de
 *.hansatraileranhanger-de.com
+*.hanseatischercontainerservicegmbh.de
 *.hansen-mode.com
 *.hansholzmotor.de
 *.hansrasenmaher.com
@@ -9923,6 +9994,7 @@
 *.har6lowr7idge6.com
 *.harderex.com
 *.hardloverz.com
+*.hardmeierversand.ch
 *.hardwarecables.com
 *.hardwarenational.com
 *.hardwarewelt.com
@@ -9938,6 +10010,7 @@
 *.harmtonyambientehot.com
 *.harper-berlin.com
 *.harpercollins.shop
+*.harrass-kollegen.de
 *.harrenmedia.com
 *.harrenmedianetwork.com
 *.hartholz-briketts.de
@@ -10498,6 +10571,7 @@
 *.holzgutexpress.de
 *.holzhack-schnitzel.de
 *.holzhambach.com
+*.holzhandel-bauer.com
 *.holzhandelhensel.com
 *.holzhausenug.de
 *.holzheiz.com
@@ -11611,6 +11685,7 @@
 *.joyaschoenen.com
 *.joyaschuhedeutschland.com
 *.joycap.net
+*.joykaff-espresso.de
 *.joyoussurprise.com
 *.joyshoetique.com
 *.joystar.top
@@ -11682,6 +11757,7 @@
 *.justvanilla.de
 *.justwowjars.com
 *.juvenda.de
+*.juwelier-keller.com
 *.juwelierkunst.de
 *.jwhulmeshop.com
 *.jyaashop.com
@@ -11735,6 +11811,7 @@
 *.kaffeemaschinebillig.com
 *.kaffeemech.myshopify.com
 *.kaffeerose.de
+*.kaffeesieb.com
 *.kaffeesnackbar.com
 *.kaffeetassendruckerei.de
 *.kaffeetime.de
@@ -12003,10 +12080,12 @@
 *.kernvogel.com
 *.kersten-maschinenvertriebs-gmbh.de
 *.kerzendose.com
+*.kesten.shop
 *.keterhanova.myshopify.com
 *.kettenblattverkaufe.com
 *.kettenkonzept.de
 *.kettensage.de
+*.kettenschein.com
 *.ketteverkauf.com
 *.keucoverkauf.com
 *.kevtt.com
@@ -12391,6 +12470,7 @@
 *.kuhschelhof.de
 *.kuk-kaffee.de
 *.kukirins.co.at
+*.kuksawiar.com
 *.kulako.com
 *.kulbit.lv
 *.kumarkt.de.com
@@ -12425,6 +12505,7 @@
 *.kurvea.com
 *.kurzurlaub-deal.de
 *.kuscheltiereteddys.com
+*.kuskwer.shop
 *.kuyun.com
 *.kvicco.com
 *.kvp0fw-hi.myshopify.com
@@ -13000,6 +13081,11 @@
 *.livaxxen.com
 *.live-events.ono.axp.amazon-adsystem.com
 *.live-video-log16-normal-alisg.tiktokv.com
+*.live-video-log16-normal-useast1a.tiktokv.com
+*.live-video-log16-normal-useast2a.tiktokv.com
+*.live-video-log16-normal-useast2a.tiktokv.eu
+*.live-video-log16-normal-useast5.tiktokv.us
+*.live-video-log16-normal-useastred.tiktokv.eu
 *.live.miphone.pandora.xiaomi.com
 *.live.trmzum.com
 *.liveadexchanger.com
@@ -13057,10 +13143,14 @@
 *.localgermany.de
 *.locateanyphone.net
 *.location-i18n.tiktokv.com
+*.location-ie.tiktokv.eu
 *.location-microsoft-com.b-0005.b-msedge.net
 *.location-ru.tiktokv.com
 *.location-sg.tiktokv.com
 *.location-ttp2.tiktokv.eu
+*.location-ttp2.tiktokv.us
+*.location-ttp2.tiktokw.eu
+*.location-ttp2.tiktokw.us
 *.location-ttp2.us.tiktokv.com
 *.location-v6-i18n.tiktokv.com
 *.location-v6-ru.tiktokv.com
@@ -13069,17 +13159,21 @@
 *.location-v6-ttp2.tiktokv.us
 *.location-v6-va.tiktokv.com
 *.location-v6.tiktokv.com
+*.location-v6.tiktokv.eu
 *.location-v6.tiktokv.us
 *.location-va.tiktokv.com
+*.location.capcutapi.us
 *.location.live.net
 *.location.microsoft.com
 *.location.tiktok.com
 *.location.tiktokv.com
 *.location.tiktokv.eu
 *.location.tiktokv.us
+*.location.tiktokw.eu
 *.location.tiktokw.us
 *.location.us.tiktokv.com
 *.location16-normal-useastred.tiktokv.eu
+*.location16-normal-useastred.tiktokw.eu
 *.locationconseilsfinanciers.fr
 *.locations.crocs.de
 *.locationv16-normal-useastred.tiktokv.eu
@@ -13103,6 +13197,8 @@
 *.log-boot.capcutapi.com
 *.log-boot.tiktokv.com
 *.log-dr.tiktokv.com
+*.log-dr.tiktokv.eu
+*.log-dr.tiktokv.us
 *.log-dr16-normal-no1a.tiktokv.eu
 *.log-dr16-normal-useast1a.tiktokv.com
 *.log-dr16-normal-useast5.tiktokv.us
@@ -13126,14 +13222,17 @@
 *.log-tiktok.byteoversea.net
 *.log-v2-boot.capcutapi.com
 *.log-va-useast2a.tiktokv.com
+*.log-va.capcutapi.com
 *.log-va.tiktokv.com
 *.log.btopenworld.com
 *.log.byteoversea.com
+*.log.capcutapi.us
 *.log.logrocket.io
 *.log.pinterest.com
 *.log.pt.xiaomi.com
 *.log.snssdk.com
 *.log.tiktokv.com
+*.log.tiktokv.eu
 *.log.tiktokv.us
 *.log.us.tiktokv.com
 *.log.videocampaign.co
@@ -13147,6 +13246,7 @@
 *.log16-normal-c-useast1a.tiktokv.com
 *.log16-normal-c-useast2a.tiktokv.com
 *.log16-normal-delay-alisg.tiktokv.com
+*.log16-normal-ie.tiktokv.eu
 *.log16-normal-ind.tiktokv.com
 *.log16-normal-no1a.tiktokv.eu
 *.log16-normal-sg.capcutapi.com
@@ -13157,7 +13257,9 @@
 *.log16-normal-useast8.tiktokv.us
 *.log16-normal-useast8.us.tiktokv.com
 *.log16-normal-useastred.tiktokv.eu
+*.log16-normal-zr-alisg.tiktokv.com
 *.log16-normal-zr-useast1a.tiktokv.com
+*.log16-normal-zr.tiktokv.com
 *.log16-normal.capcutapi.com
 *.log16-normal.tiktokv.com
 *.log16-platform-ycru.tiktokv.com
@@ -13171,22 +13273,37 @@
 *.log19-applog-useast2a.tiktokv.com
 *.log19-applog-useast5.us.tiktokv.com
 *.log19-normal-alisg.tiktokv.com
+*.log19-normal-no1a.tiktokv.eu
 *.log19-normal-useast1a.tiktokv.com
 *.log19-normal-useast2a.tiktokv.com
+*.log19-normal-useast5.tiktokv.us
+*.log19-normal-useast8.tiktokv.us
+*.log19-normal-zr-alisg.tiktokv.com
+*.log19-normal-zr-useast1a.tiktokv.com
+*.log19-normal-zr.tiktokv.com
 *.log19-normal.tiktokv.com
 *.log22-applog-useast1a.tiktokv.com
 *.log22-applog-useast2a.tiktokv.com
 *.log22-normal-alisg.tiktokv.com
 *.log22-normal-useast1a.tiktokv.com
 *.log22-normal-useast2a.tiktokv.com
+*.log22-normal-zr-alisg.tiktokv.com
+*.log22-normal-zr-useast1a.tiktokv.com
+*.log22-normal-zr.tiktokv.com
+*.log22-normal.capcutapi.com
 *.log22-normal.tiktokv.com
 *.log3-normal-c-alisg.tiktokv.com
 *.log3-normal-c-useast1a.tiktokv.com
 *.log31-normal-alisg.tiktokv.com
 *.log31-normal-no1a.tiktokv.eu
+*.log31-normal-sg.capcutapi.com
 *.log31-normal-useast1a.tiktokv.com
 *.log31-normal-useast2a.tiktokv.com
 *.log31-normal-useastred.tiktokv.eu
+*.log31-normal-zr-alisg.tiktokv.com
+*.log31-normal-zr-useast1a.tiktokv.com
+*.log31-normal-zr.tiktokv.com
+*.log31-normal.capcutapi.com
 *.log31-normal.tiktokv.com
 *.log32-normal-alisg.tiktokv.com
 *.log32-normal-no1a.tiktokv.eu
@@ -13194,6 +13311,8 @@
 *.log32-normal-useast1a.tiktokv.com
 *.log32-normal-useast2a.tiktokv.com
 *.log32-normal-useastred.tiktokv.eu
+*.log32-normal-zr-alisg.tiktokv.com
+*.log32-normal-zr-useast1a.tiktokv.com
 *.log32-normal-zr.tiktokv.com
 *.log32-normal.capcutapi.com
 *.log32-normal.tiktokv.com
@@ -13599,6 +13718,7 @@
 *.main-btc.com
 *.main-garten.at
 *.main-mokassin.de
+*.mainecoonkatzenzucht.de
 *.mainet.business
 *.maintainel.com
 *.maintenanceh.com
@@ -13631,6 +13751,7 @@
 *.malergeschaft.com
 *.maliva-mcs-useast2a.byteoversea.com
 *.maliva-mcs.byteoversea.com
+*.maliva-mcs.capcutapi.com
 *.mall.galeridora.com
 *.mall.gresholm.com
 *.mallezeit.de
@@ -14229,6 +14350,7 @@
 *.meinradladen.com
 *.meinrechneronline.de
 *.meinsmartshop.com
+*.meintechmarkt.com
 *.meintechnik.de
 *.meintherapiedecken.de
 *.meinwarenhaus.com
@@ -14760,6 +14882,7 @@
 *.moebelmaerki-mtb.ch
 *.moebelonline24.com
 *.moebelpacker-wien.at
+*.moebelpfad.com
 *.moebelquelle.com
 *.moebelstil.com
 *.moebeltrumpf.de
@@ -14840,6 +14963,7 @@
 *.mon16-normal-alisg.tiktokv.com
 *.mon16-normal-c-useast1a.tiktokv.com
 *.mon16-normal-c-useast2a.tiktokv.com
+*.mon16-normal-ie.tiktokv.eu
 *.mon16-normal-no1a.tiktokv.eu
 *.mon16-normal-sg.capcutapi.com
 *.mon16-normal-sg.capcutapi.com.edgesuite.net
@@ -14852,27 +14976,40 @@
 *.mon16-normal-useast8.tiktokv.us
 *.mon16-normal-useast8.us.tiktokv.com
 *.mon16-normal-useastred.tiktokv.eu
+*.mon16-normal-zr-alisg.tiktokv.com
 *.mon16-normal-zr-useast1a.tiktokv.com
+*.mon16-normal.capcutapi.com
 *.mon16-normal.tiktokv.com
 *.mon16-platform-useast5.us.tiktokv.com
 *.mon16-platform-ycru.tiktokv.com
 *.mon16-tmp-normal-useast1a.tiktokv.com
 *.mon19-normal-alisg.tiktokv.com
 *.mon19-normal-useast1a.tiktokv.com
+*.mon19-normal-zr-alisg.tiktokv.com
+*.mon19-normal-zr-useast1a.tiktokv.com
 *.mon19-normal.tiktokv.com
 *.mon22-normal-alisg.tiktokv.com
 *.mon22-normal-useast1a.tiktokv.com
+*.mon22-normal-zr-alisg.tiktokv.com
+*.mon22-normal-zr-useast1a.tiktokv.com
 *.mon22-normal.tiktokv.com
 *.mon31-normal-alisg.tiktokv.com
 *.mon31-normal-no1a.tiktokv.eu
+*.mon31-normal-sg.capcutapi.com
 *.mon31-normal-useast1a.tiktokv.com
 *.mon31-normal-useastred.tiktokv.eu
+*.mon31-normal-zr-alisg.tiktokv.com
+*.mon31-normal-zr-useast1a.tiktokv.com
+*.mon31-normal.capcutapi.com
 *.mon31-normal.tiktokv.com
 *.mon32-normal-alisg.tiktokv.com
 *.mon32-normal-no1a.tiktokv.eu
 *.mon32-normal-sg.capcutapi.com
 *.mon32-normal-useast1a.tiktokv.com
 *.mon32-normal-useastred.tiktokv.eu
+*.mon32-normal-zr-alisg.tiktokv.com
+*.mon32-normal-zr-useast1a.tiktokv.com
+*.mon32-normal.capcutapi.com
 *.mon32-normal.tiktokv.com
 *.monarchads.com
 *.monatrade.com
@@ -15174,6 +15311,7 @@
 *.mupishop.de
 *.mur-shop.com
 *.museopradotickets.com
+*.musgex.com
 *.mushroomgods.com
 *.musicalvortex.com
 *.musicgearfashion.com
@@ -15196,6 +15334,7 @@
 *.musikstrings.com
 *.musikwelt-lindner.de
 *.musiqueonline.com
+*.muskangaming.com
 *.muskanonline.com
 *.mustang-parts-shop.de
 *.muteknife.com
@@ -15805,6 +15944,7 @@
 *.novele.de
 *.novem.pl
 *.novendo.shop
+*.noventaway.com
 *.noveraxcapital.com
 *.novermessen.de
 *.novestas.de
@@ -16632,6 +16772,7 @@
 *.p16-ttam-va.ibyteimg.com
 *.p16-ttam-va.tiktokcdn.com
 *.p16-ttam.tiktokcdn-us.com
+*.p19-tiktok-ads-sg.tiktokcdn.com
 *.p19-ttam-sg.ibyteimg.com
 *.p19-ttam-va.ibyteimg.com
 *.p19-ttam-va.tiktokcdn.com
@@ -16748,6 +16889,7 @@
 *.patrimoine-partenaires.com
 *.patrioticy.com
 *.paul-joses.de
+*.paula-zagreb.com
 *.paulgreenosterreich.com
 *.paulgreensale.com
 *.paulinacasmur.com
@@ -16784,6 +16926,7 @@
 *.pc-mon-v2-boot.capcutapi.com.edgesuite.net
 *.pc-mon-v2-boot.capcutapi.com.ttdns2.com
 *.pc-mon-va.byteoversea.com
+*.pc-mon-va.capcutapi.com
 *.pc-mon.snssdk.com
 *.pc-mon16-normal-us-ttp.capcutapi.us
 *.pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
@@ -16941,6 +17084,7 @@
 *.pflanzenoeldiesel.de
 *.pflanzenshop-de.com
 *.pflanzensoftware.de
+*.pflanzenwelt24.com
 *.pflegedienste-marktoberdorf.de
 *.pflegedienstrechner.de
 *.pflegemeisterei.de
@@ -16948,6 +17092,7 @@
 *.pflegeschonheit.com
 *.pforp.net
 *.pfotegws.de
+*.pfotendepot.com
 *.pfotengarten.de
 *.pfotenkomfort.com
 *.pfotentrend.com
@@ -17169,7 +17314,6 @@
 *.platform.ap-capital-lim.com
 *.platform.invesco-trading.com
 *.platform.softwarecrownex.com
-*.platincoin.com
 *.platinwerk.de
 *.platten24.com
 *.platzimgarten.com
@@ -17264,6 +17408,7 @@
 *.polene-shop.com
 *.polene.at
 *.polene.co.at
+*.poleneat.cc
 *.polenegermany.de
 *.poleneoutlet.de
 *.poleneparis.at
@@ -18079,6 +18224,7 @@
 *.rechtsanwalt-breithaupt.de
 *.rechtsanwalt-sirrenberg.de
 *.rechtsanwalt-wiegmann.de
+*.rechtsanwaltkramer.de
 *.rechtskanzlei-karls.de
 *.rechtund-gesetz.com
 *.recognitioy.com
@@ -18480,6 +18626,7 @@
 *.rohdeschuhewerksverkauf.com
 *.rohn-shop.com
 *.rohoelzuender.de
+*.rohrerfahrrad.at
 *.rohrreinigung-rothschild.de
 *.rohrreinigungshilfe.at
 *.rohrsanierungen24.de
@@ -18603,12 +18750,15 @@
 *.rtbpop.com
 *.rtc-logger-i18n.tiktokv.com
 *.rtc-logger-ie.tiktokv.eu
+*.rtc-logger-ttp2.tiktokv.eu
 *.rtc-logger-ttp2.tiktokv.us
 *.rtc-logger-ttp2.us.tiktokv.com
 *.rtc-logger-va.tiktokv.com
 *.rtc-logger.tiktokv.com
+*.rtc-logger.tiktokv.eu
 *.rtc-logger.tiktokv.us
 *.rtc-logger.us.tiktokv.com
+*.rtc-logger16-normal-alisg.tiktokv.com
 *.rtc-logger16-normal-useastred.tiktokv.eu
 *.rtieej.buzz
 *.rtlog-i18n.tiktokv.com
@@ -18618,6 +18768,7 @@
 *.rtlog-va.tiktokv.com
 *.rtlog.byteoversea.com
 *.rtlog.tiktokv.com
+*.rtlog.tiktokv.eu
 *.rtlog.us.tiktokv.com
 *.rtlog15-normal-alisg.tiktokv.com
 *.rtlog15-normal-useast1a.tiktokv.com
@@ -18627,6 +18778,7 @@
 *.rtlog16-applog-useast2a.tiktokv.com
 *.rtlog16-applog-useast5.us.tiktokv.com
 *.rtlog16-normal-alisg.tiktokv.com
+*.rtlog16-normal-ie.tiktokv.eu
 *.rtlog16-normal-ind.tiktokv.com
 *.rtlog16-normal-no1a.tiktokv.eu
 *.rtlog16-normal-useast1a.tiktokv.com
@@ -18635,6 +18787,9 @@
 *.rtlog16-normal-useast8.tiktokv.us
 *.rtlog16-normal-useast8.us.tiktokv.com
 *.rtlog16-normal-useastred.tiktokv.eu
+*.rtlog16-normal-zr-alisg.tiktokv.com
+*.rtlog16-normal-zr-useast1a.tiktokv.com
+*.rtlog16-normal-zr.tiktokv.com
 *.rtlog16-normal.tiktokv.com
 *.rtlog16-platform-useast5.us.tiktokv.com
 *.rtlog16-tmp-normal-useast1a.tiktokv.com
@@ -18646,9 +18801,14 @@
 *.rtlog19-applog-useast2a.tiktokv.com
 *.rtlog19-applog-useast5.us.tiktokv.com
 *.rtlog19-normal-alisg.tiktokv.com
+*.rtlog19-normal-no1a.tiktokv.eu
 *.rtlog19-normal-useast1a.tiktokv.com
 *.rtlog19-normal-useast2a.tiktokv.com
+*.rtlog19-normal-useast5.tiktokv.us
+*.rtlog19-normal-useast8.tiktokv.us
+*.rtlog19-normal-zr-alisg.tiktokv.com
 *.rtlog19-normal-zr-useast1a.tiktokv.com
+*.rtlog19-normal-zr.tiktokv.com
 *.rtlog19-normal.tiktokv.com
 *.rtlog19-platform-useast5.us.tiktokv.com
 *.rtlog22-applog-useast1a.tiktokv.com
@@ -18656,13 +18816,27 @@
 *.rtlog22-normal-alisg.tiktokv.com
 *.rtlog22-normal-useast1a.tiktokv.com
 *.rtlog22-normal-useast2a.tiktokv.com
+*.rtlog22-normal-zr-alisg.tiktokv.com
+*.rtlog22-normal-zr-useast1a.tiktokv.com
+*.rtlog22-normal-zr.tiktokv.com
 *.rtlog22-normal.tiktokv.com
 *.rtlog31-normal-alisg.tiktokv.com
+*.rtlog31-normal-no1a.tiktokv.eu
 *.rtlog31-normal-useast1a.tiktokv.com
 *.rtlog31-normal-useast2a.tiktokv.com
+*.rtlog31-normal-useastred.tiktokv.eu
+*.rtlog31-normal-zr-alisg.tiktokv.com
+*.rtlog31-normal-zr-useast1a.tiktokv.com
+*.rtlog31-normal-zr.tiktokv.com
 *.rtlog31-normal.tiktokv.com
 *.rtlog32-normal-alisg.tiktokv.com
+*.rtlog32-normal-no1a.tiktokv.eu
+*.rtlog32-normal-useast2a.tiktokv.eu
+*.rtlog32-normal-useastred.tiktokv.eu
+*.rtlog32-normal-zr-alisg.tiktokv.com
+*.rtlog32-normal-zr-useast1a.tiktokv.com
 *.rtlog32-normal-zr.tiktokv.com
+*.rtlog32-normal.tiktokv.com
 *.rtlog58-normal-alisg.tiktokv.com
 *.rtlog58-normal-useast1a.tiktokv.com
 *.rtlog58-normal-useast2a.tiktokv.com
@@ -18773,7 +18947,6 @@
 *.rx-pharma.net
 *.rx-pharmacies.com
 *.rx-qualityshop.com
-*.rx-true.com
 *.rx247rx.com
 *.rxapothekefursie.com
 *.rxappfree.com
@@ -18883,6 +19056,7 @@
 *.saleworkshopequip.com
 *.salexen.de
 *.salfas.com
+*.salin-home.com
 *.sallasboutique.com
 *.salmingchile.com
 *.salmingslovenija.com
@@ -19276,6 +19450,11 @@
 *.sdk-transport.com
 *.sdk.51.la
 *.sdk.ptqy.gitv.tv
+*.sdkconfig.eu.xiaomi.com
+*.sdkconfig.india.xiaomi.com
+*.sdkconfig.intl.xiaomi.com
+*.sdkconfig.rus.xiaomi.com
+*.sdkconfig.xiaomi.com
 *.se-ad-lgsmartad-com.aws-prd.net
 *.se-info-lgsmartad-com.aws-prd.net
 *.se-rdx2-lgtvsdp-com.aws-prd.net
@@ -19349,6 +19528,7 @@
 *.seifertundstil.de
 *.seigneurin.fr
 *.seiko-mod.de
+*.seikouhr.co.at
 *.seikouhr.de
 *.seilzu.com
 *.seizoensmode.nl
@@ -19436,6 +19616,11 @@
 *.sezaneclothingshop.sa.com
 *.sf16-ads-format-sign.tiktokcdn.com
 *.sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
+*.sf16-short-gcp.bytedapm.com
+*.sf16-short-sg.bytedapm.com
+*.sf16-short-sg.bytedapm.com.edgesuite.net
+*.sf16-short-va.bytedapm.com
+*.sf16-short-va.bytedapm.com.edgesuite.net
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com
 *.sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 *.sf19-ads-format-sign.tiktokcdn.com
@@ -19936,6 +20121,7 @@
 *.snapposh.com
 *.snazzypoodle.com
 *.sneakerfee.com
+*.sneakerly.de
 *.sneakers-metzingen.de
 *.sneakers4you.eu
 *.sneakersgermanyonline.com
@@ -20091,6 +20277,7 @@
 *.sonar.prime-video.amazon.dev
 *.sonaxverkauf.com
 *.sonetiacrcb.shop
+*.soniazagreb.com
 *.sonnenheld.at
 *.sonnenlit.de
 *.sonnensparo.com
@@ -20108,6 +20295,7 @@
 *.sophiaberlin.de
 *.sophieweberr.com
 *.soppdobuy.com
+*.soprogi.com
 *.soraionline.com
 *.sorbas-grill.de
 *.sorbery.com
@@ -20393,6 +20581,7 @@
 *.st.dynamicyield.com
 *.st.pubmatic.com
 *.stabileersatzteile.com
+*.stabilosanitar.com
 *.stabletrader-ai.net
 *.stack-sonar.com
 *.stackadapt.com
@@ -20425,6 +20614,7 @@
 *.standprofi.com
 *.standycrome.com
 *.stanfpv.com
+*.stangelinz.com
 *.stanley-cups.at
 *.stanley-cups.de
 *.stanleycup.com.de
@@ -20436,6 +20626,7 @@
 *.star-apotheke.org
 *.star-gamer.com
 *.starcici.com
+*.starcontainergmbh.de
 *.stardacasinoonline.de
 *.starel.xyz
 *.starelax.com
@@ -20637,6 +20828,7 @@
 *.store.mavelimira.com
 *.store.promomesh.com
 *.store.rensby.com
+*.store.selvariveta.com
 *.store.useum.org
 *.store.yeelight.com
 *.storeaigle.de
@@ -21122,6 +21314,7 @@
 *.tc-germany.com
 *.tcads.net
 *.tcduvshop02.myshoplaza.com
+*.tchibooutlet.com
 *.tcinosgroup.com
 *.tcomplex.de
 *.td-treuhand.de
@@ -21767,6 +21960,7 @@
 *.toponlinepharmacies.com
 *.topowhey.top
 *.toppdf.co
+*.topproizvodi.eu
 *.topreinigungsmittel.com
 *.toprolexes.com
 *.topsalenow.xyz
@@ -21998,6 +22192,7 @@
 *.trailer-master.eu
 *.trailerfrance.com
 *.trailertour.com
+*.trailrunne.com
 *.trainwelt.com
 *.trakfreesm.click
 *.trakkerbillig.com
@@ -22052,6 +22247,7 @@
 *.treemexholz.de
 *.treibhausshop.de
 *.trekdata.com
+*.trekkinghaus.com
 *.tremendoustime.com
 *.tremorhub.com
 *.trencystore.com
@@ -22134,7 +22330,6 @@
 *.truckstopshop.de
 *.truculentrate.com
 *.true-drugstore.com
-*.true-ph.com
 *.true-pp.com
 *.true-tab.com
 *.true-weightlose.com
@@ -22268,6 +22463,7 @@
 *.tyreschwalbe.com
 *.tyroo.com
 *.tyu-trade.com
+*.tyyclu.com
 *.tz-ad-lgsmartad-com.aws-prd.net
 *.u-id.cpc.heytapmobile.com
 *.ua-ad-lgsmartad-com.aws-prd.net
@@ -22295,10 +22491,13 @@
 *.ufolepbourgogne.org
 *.ug-ad-lgsmartad-com.aws-prd.net
 *.ug-sg.byteoversea.com
+*.ug-sg.capcutapi.com
+*.ug-va.capcutapi.com
 *.ug.snssdk.com
 *.ugattribution-i18n.tiktokv.com
 *.ugattribution-ru.tiktokv.com
 *.ugattribution-sg.tiktokv.com
+*.ugattribution-ttp2.us.tiktokv.com
 *.ugg-online.com
 *.uggat.at
 *.uggfans.myshoplaza.com
@@ -22442,6 +22641,7 @@
 *.unruly.co
 *.unrulymedia.com
 *.unser-eshop.shop.epages.de
+*.unserstil.com
 *.untd.com
 *.unterbewusst.at
 *.unternehmenbessermachen.de
@@ -22802,6 +23002,7 @@
 *.vetntilate.com
 *.vetretto.myshopify.com
 *.vetter-law.de
+*.vewear.shop
 *.vexiebox.myshopify.com
 *.vexontor.com
 *.vexxsel.online
@@ -22914,6 +23115,7 @@
 *.vinneo.fr
 *.vinospezial.com
 *.vinsrougesboutique.com
+*.vintageaffordablejbl.shop
 *.vintageitisrain.store
 *.vintageladies.de
 *.vintagespinvinyl.com
@@ -23150,6 +23352,7 @@
 *.vulcanus.at
 *.vumonvision.com
 *.vungle.com
+*.vusilia.de
 *.vutereck.com
 *.vuxocap-vip.io
 *.vw-insights.de
@@ -23247,6 +23450,7 @@
 *.washingtontimesnewstoday.com
 *.wasser-kaiser.com
 *.wasserbetten-centrum.at
+*.wasserfestwandplatte.com
 *.wasserflorade.com
 *.wasserflorashop.com
 *.wasserpflegede.com
@@ -23853,13 +24057,21 @@
 *.xlog-va-useast2a.byteoversea.com
 *.xlog-va-useast2a.tiktokv.com
 *.xlog-va.byteoversea.com
+*.xlog-va.capcutapi.com
 *.xlog-va.tiktokv.com
 *.xlog.byteoversea.com
+*.xlog.capcutapi.us
 *.xlog.snssdk.com
 *.xlog.tiktokv.com
+*.xlog.tiktokv.eu
 *.xlog16-normal-c-useast1a.tiktokv.com
 *.xlog16-normal-c-useast2a.tiktokv.com
+*.xlog16-normal-ie.tiktokv.eu
+*.xlog16-normal-no1a.tiktokv.eu
+*.xlog16-normal-useast5.tiktokv.us
+*.xlog16-normal-useast8.tiktokv.us
 *.xlog16-normal-useast8.us.tiktokv.com
+*.xlog16-normal-useastred.tiktokv.eu
 *.xlog16-platform-useast5.us.tiktokv.com
 *.xlog16-platform-ycru.tiktokv.com
 *.xlog16-tmp-normal-useast1a.tiktokv.com

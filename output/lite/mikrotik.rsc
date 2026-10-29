@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-28 03:16:37
-# Total Domains: 24,273
+# Last Updated: 2026-10-29 03:41:30
+# Total Domains: 24,485
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -10,6 +10,7 @@ add name="01crypto.com" address=0.0.0.0
 add name="0dgwn.bemobtrcks.com" address=0.0.0.0
 add name="0el-preiswert-kaufen.de" address=0.0.0.0
 add name="0hyzxx-rc.myshopify.com" address=0.0.0.0
+add name="1-rx-shop.com" address=0.0.0.0
 add name="101com.com" address=0.0.0.0
 add name="101vectorcenter.sbs" address=0.0.0.0
 add name="10xdealership.com" address=0.0.0.0
@@ -377,13 +378,22 @@ add name="ad-cupid.com" address=0.0.0.0
 add name="ad-delivery.net" address=0.0.0.0
 add name="ad-drcn.media.dbankcloud.cn" address=0.0.0.0
 add name="ad-drcn.media.dbankcloud.ru" address=0.0.0.0
+add name="ad-format-i18n.tiktokv.com" address=0.0.0.0
+add name="ad-format-ie.tiktokv.eu" address=0.0.0.0
+add name="ad-format-ru.tiktokv.com" address=0.0.0.0
 add name="ad-format-sg.tiktokv.com" address=0.0.0.0
 add name="ad-format-ttp2.tiktokv.eu" address=0.0.0.0
+add name="ad-format-ttp2.tiktokv.us" address=0.0.0.0
+add name="ad-format-ttp2.us.tiktokv.com" address=0.0.0.0
+add name="ad-format.tiktokv.eu" address=0.0.0.0
 add name="ad-format.tiktokv.us" address=0.0.0.0
+add name="ad-format.us.tiktokv.com" address=0.0.0.0
 add name="ad-format16-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="ad-growth-in.heytapmobile.com" address=0.0.0.0
 add name="ad-growth-ru.heytapmobile.com" address=0.0.0.0
 add name="ad-growth-sg.heytapmobile.com" address=0.0.0.0
+add name="ad-instantpage-i18n.tiktokv.com" address=0.0.0.0
+add name="ad-instantpage-ie.tiktokv.eu" address=0.0.0.0
 add name="ad-instantpage-ru.tiktokv.com" address=0.0.0.0
 add name="ad-instantpage-sg.tiktokv.com" address=0.0.0.0
 add name="ad-instantpage-sg.tiktokv.com.edgekey.net" address=0.0.0.0
@@ -392,10 +402,13 @@ add name="ad-instantpage-ttp2.tiktokv.eu.edgesuite.net" address=0.0.0.0
 add name="ad-instantpage-ttp2.tiktokv.eu.ttdns3.com" address=0.0.0.0
 add name="ad-instantpage-ttp2.tiktokv.us" address=0.0.0.0
 add name="ad-instantpage-ttp2.tiktokv.us.edgesuite.net" address=0.0.0.0
+add name="ad-instantpage-ttp2.us.tiktokv.com" address=0.0.0.0
 add name="ad-instantpage-va.tiktokv.com" address=0.0.0.0
+add name="ad-instantpage.tiktokv.eu" address=0.0.0.0
 add name="ad-instantpage.tiktokv.us" address=0.0.0.0
 add name="ad-instantpage.tiktokv.us.edgesuite.net" address=0.0.0.0
 add name="ad-instantpage.tiktokv.us.ttdns4.com" address=0.0.0.0
+add name="ad-instantpage.us.tiktokv.com" address=0.0.0.0
 add name="ad-pay.de" address=0.0.0.0
 add name="ad-property.com" address=0.0.0.0
 add name="ad-rotator.com" address=0.0.0.0
@@ -466,6 +479,7 @@ add name="ad.style" address=0.0.0.0
 add name="ad.technoratimedia.com" address=0.0.0.0
 add name="ad.tiktok.tv" address=0.0.0.0
 add name="ad.tiktokv.com" address=0.0.0.0
+add name="ad.tiktokv.eu" address=0.0.0.0
 add name="ad.tiktokv.us" address=0.0.0.0
 add name="ad.toygzv.shop" address=0.0.0.0
 add name="ad.turn.com" address=0.0.0.0
@@ -559,6 +573,7 @@ add name="adforce.com" address=0.0.0.0
 add name="adform.com" address=0.0.0.0
 add name="adform.net" address=0.0.0.0
 add name="adformdsp.net" address=0.0.0.0
+add name="adfox.cam" address=0.0.0.0
 add name="adhaven.com" address=0.0.0.0
 add name="adhese.be" address=0.0.0.0
 add name="adhese.com" address=0.0.0.0
@@ -613,6 +628,7 @@ add name="adl.fcnqy.shop" address=0.0.0.0
 add name="adl.gwrxbt.shop" address=0.0.0.0
 add name="adl.iuvxvo.shop" address=0.0.0.0
 add name="adl.jccjm.shop" address=0.0.0.0
+add name="adl.jjkrn.shop" address=0.0.0.0
 add name="adl.lreubk.shop" address=0.0.0.0
 add name="adl.okhxm.shop" address=0.0.0.0
 add name="adl.raodd.shop" address=0.0.0.0
@@ -742,9 +758,12 @@ add name="ads-setu-proxy.amazon.com" address=0.0.0.0
 add name="ads-sg.business-tiktok.com" address=0.0.0.0
 add name="ads-sg.tiktok.com" address=0.0.0.0
 add name="ads-ttp2.tiktokw.eu" address=0.0.0.0
+add name="ads-ttp2.tiktokw.us" address=0.0.0.0
 add name="ads-ttp2.us.tiktok.com" address=0.0.0.0
 add name="ads-twitter.com" address=0.0.0.0
+add name="ads-useast2a.tiktok.com" address=0.0.0.0
 add name="ads-va.business-tiktok.com" address=0.0.0.0
+add name="ads-va.tiktok.com" address=0.0.0.0
 add name="ads.5ci.lt" address=0.0.0.0
 add name="ads.73dpi.com" address=0.0.0.0
 add name="ads.aavv.com" address=0.0.0.0
@@ -865,6 +884,7 @@ add name="ads.icq.com" address=0.0.0.0
 add name="ads.ign.com" address=0.0.0.0
 add name="ads.imagistica.com" address=0.0.0.0
 add name="ads.imgur.com" address=0.0.0.0
+add name="ads.in.tiktok.com" address=0.0.0.0
 add name="ads.independent.com.mt" address=0.0.0.0
 add name="ads.infi.net" address=0.0.0.0
 add name="ads.internic.co.il" address=0.0.0.0
@@ -1778,6 +1798,7 @@ add name="amuseliebe.shop" address=0.0.0.0
 add name="amuseliebedirndl.com" address=0.0.0.0
 add name="amznreturnsale.com" address=0.0.0.0
 add name="anabolic-steroids-online.com" address=0.0.0.0
+add name="anaboliczni.pl" address=0.0.0.0
 add name="anabolikaonlinebestellen.com" address=0.0.0.0
 add name="anabolikaonlinedeutschland.com" address=0.0.0.0
 add name="analyticg.com" address=0.0.0.0
@@ -1792,6 +1813,7 @@ add name="analytics-dev-simpad-events.servicebus.windows.net" address=0.0.0.0
 add name="analytics-events.apple.com" address=0.0.0.0
 add name="analytics-exp-i18n.tiktok.com" address=0.0.0.0
 add name="analytics-exp-i18n.tiktok.com.edgekey.net" address=0.0.0.0
+add name="analytics-exp-ie.tiktokw.eu" address=0.0.0.0
 add name="analytics-exp-ru.tiktok.com" address=0.0.0.0
 add name="analytics-exp-ru.tiktok.com.edgesuite.net" address=0.0.0.0
 add name="analytics-exp-ru.tiktok.com.ttdns2.com" address=0.0.0.0
@@ -2325,6 +2347,7 @@ add name="asfinet.info" address=0.0.0.0
 add name="asflnag.com" address=0.0.0.0
 add name="asfmagtollshop.cyou" address=0.0.0.0
 add name="asfnagvignette.sa.com" address=0.0.0.0
+add name="asforstwirtschaft.at" address=0.0.0.0
 add name="asfrnagi.beer" address=0.0.0.0
 add name="asgeirpetursson.com" address=0.0.0.0
 add name="ashbergh.com" address=0.0.0.0
@@ -2435,6 +2458,7 @@ add name="at.qfmiceden.shop" address=0.0.0.0
 add name="at.rattaay.com" address=0.0.0.0
 add name="at.trabajo.org" address=0.0.0.0
 add name="at.ultimate-gainz.com" address=0.0.0.0
+add name="at.vbrcw.shop" address=0.0.0.0
 add name="at1075.wedqc.shop" address=0.0.0.0
 add name="at9.ketonaktiv.com" address=0.0.0.0
 add name="atacadobras25.shop" address=0.0.0.0
@@ -3032,7 +3056,6 @@ add name="beaccustomed.com" address=0.0.0.0
 add name="beachfront.com" address=0.0.0.0
 add name="beachitem.com" address=0.0.0.0
 add name="beachsissi.com" address=0.0.0.0
-add name="beachwalkbali.com" address=0.0.0.0
 add name="beacon.gu-web.net" address=0.0.0.0
 add name="beacon.netflix.com" address=0.0.0.0
 add name="beacon.shazam.com" address=0.0.0.0
@@ -3625,6 +3648,7 @@ add name="bizzclick.com" address=0.0.0.0
 add name="bj-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="bjbta.com" address=0.0.0.0
 add name="bjmining.com" address=0.0.0.0
+add name="bjsrecnd.shop" address=0.0.0.0
 add name="bk-daten.de" address=0.0.0.0
 add name="bkaffee.de" address=0.0.0.0
 add name="bkmusicstore-de.com" address=0.0.0.0
@@ -3632,7 +3656,6 @@ add name="bkrtx.com" address=0.0.0.0
 add name="bl-group.net" address=0.0.0.0
 add name="black-shepp-gastroservice.com" address=0.0.0.0
 add name="blackcatstore.de" address=0.0.0.0
-add name="blackfridaymegastore.com" address=0.0.0.0
 add name="blackgurlzsmagickloset.com" address=0.0.0.0
 add name="blacktridentpop.shop" address=0.0.0.0
 add name="blacktridents.shop" address=0.0.0.0
@@ -3735,6 +3758,7 @@ add name="bmgvinyl.shop" address=0.0.0.0
 add name="bmn-online.de" address=0.0.0.0
 add name="bmpharmacy-official.com" address=0.0.0.0
 add name="bmpharmacyofficial.com" address=0.0.0.0
+add name="bmrbhf.shop" address=0.0.0.0
 add name="bms-promaschinen.com" address=0.0.0.0
 add name="bmw-bikertreff-bonsberg.de" address=0.0.0.0
 add name="bmwmt2026online.com" address=0.0.0.0
@@ -4446,6 +4470,7 @@ add name="carqiwireless.com" address=0.0.0.0
 add name="carriageglobal.com" address=0.0.0.0
 add name="cars-boutique.de" address=0.0.0.0
 add name="carsarace.com" address=0.0.0.0
+add name="carsdetective.com" address=0.0.0.0
 add name="carshades.at" address=0.0.0.0
 add name="carstruckstoy.com" address=0.0.0.0
 add name="carteloshop.com" address=0.0.0.0
@@ -4537,6 +4562,7 @@ add name="cc2.sys.miui.com" address=0.0.0.0
 add name="ccc.sys.miui.com" address=0.0.0.0
 add name="ccftrading.com" address=0.0.0.0
 add name="cci-immobilien.de" address=0.0.0.0
+add name="ccmccontainermanagementgmbh.de" address=0.0.0.0
 add name="ccmedia.news" address=0.0.0.0
 add name="ccs-consulting.net" address=0.0.0.0
 add name="ccwjl.com" address=0.0.0.0
@@ -5601,7 +5627,9 @@ add name="cstat.apple.com.edgesuite.net" address=0.0.0.0
 add name="cstat.cdn-apple.com" address=0.0.0.0
 add name="cstat.g.aaplimg.com" address=0.0.0.0
 add name="csunbox.com" address=0.0.0.0
+add name="cterfilk.monster" address=0.0.0.0
 add name="cthesky.com" address=0.0.0.0
+add name="ctmfahrradwerkstatt.at" address=0.0.0.0
 add name="ctoption.com" address=0.0.0.0
 add name="ctxholdings.com" address=0.0.0.0
 add name="cube-network.net" address=0.0.0.0
@@ -5764,6 +5792,7 @@ add name="dangotech.de" address=0.0.0.0
 add name="daniel-grilling.com" address=0.0.0.0
 add name="danielius-rogovas.com" address=0.0.0.0
 add name="dankers-containers.de" address=0.0.0.0
+add name="danksportstore.shop" address=0.0.0.0
 add name="danmarkpotenspiller.com" address=0.0.0.0
 add name="danmtyshop.com" address=0.0.0.0
 add name="danneraustria.com" address=0.0.0.0
@@ -5957,6 +5986,7 @@ add name="deautorabatt.com" address=0.0.0.0
 add name="debasketball.com" address=0.0.0.0
 add name="debot-maschinen.de" address=0.0.0.0
 add name="dec-visio-telemetry.officeapps.live.com" address=0.0.0.0
+add name="decadays.store" address=0.0.0.0
 add name="decantersale.com" address=0.0.0.0
 add name="decarba-mann.de" address=0.0.0.0
 add name="decarba.de" address=0.0.0.0
@@ -6373,6 +6403,7 @@ add name="dirkuhren.de" address=0.0.0.0
 add name="dirtchurchradio.com" address=0.0.0.0
 add name="disciplineh.com" address=0.0.0.0
 add name="disciplinem.com" address=0.0.0.0
+add name="discounntde.com" address=0.0.0.0
 add name="discount-audio-equipment.com" address=0.0.0.0
 add name="discount-baustoff.de" address=0.0.0.0
 add name="discount-kobalt.com" address=0.0.0.0
@@ -6434,6 +6465,7 @@ add name="dliene.com" address=0.0.0.0
 add name="dls-account.di.atlas.samsung.com" address=0.0.0.0
 add name="dls-ddc.dqa.samsung.com" address=0.0.0.0
 add name="dls-udc.dqa.samsung.com" address=0.0.0.0
+add name="dls.di.atlas.samsung.com" address=0.0.0.0
 add name="dls.di.runestone.samsung.com" address=0.0.0.0
 add name="dlxn-mode.de" address=0.0.0.0
 add name="dly-home.com" address=0.0.0.0
@@ -6869,6 +6901,7 @@ add name="ecoooc.com" address=0.0.0.0
 add name="ecoreichholz.com" address=0.0.0.0
 add name="ecosilkroad.com" address=0.0.0.0
 add name="ecoupons.com" address=0.0.0.0
+add name="ecoworthytech.shop" address=0.0.0.0
 add name="ecs-solutions.net" address=0.0.0.0
 add name="ecstasy-baby.net" address=0.0.0.0
 add name="ecxtrade.com" address=0.0.0.0
@@ -6925,6 +6958,7 @@ add name="effiziente-taubenabwehr.at" address=0.0.0.0
 add name="eg-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="eg-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="egasoft-digital.com" address=0.0.0.0
+add name="egbertplakolm.at" address=0.0.0.0
 add name="eggelingen.de" address=0.0.0.0
 add name="egoryspecies.com" address=0.0.0.0
 add name="egscap.com" address=0.0.0.0
@@ -7231,6 +7265,7 @@ add name="entzueck-end.de" address=0.0.0.0
 add name="enuvio.de" address=0.0.0.0
 add name="enviousclothing.de" address=0.0.0.0
 add name="enviousthread.com" address=0.0.0.0
+add name="envisu-gmbh.com" address=0.0.0.0
 add name="enzomartini.de" address=0.0.0.0
 add name="enzomorelli.de" address=0.0.0.0
 add name="eolatetuko.shop" address=0.0.0.0
@@ -7269,6 +7304,7 @@ add name="equivalenu.com" address=0.0.0.0
 add name="eqy.link" address=0.0.0.0
 add name="erad-sport.de" address=0.0.0.0
 add name="eradkultur.de" address=0.0.0.0
+add name="eradobox.com" address=0.0.0.0
 add name="eradsport.de" address=0.0.0.0
 add name="eradstore.de" address=0.0.0.0
 add name="erdbeerblase.de" address=0.0.0.0
@@ -7312,6 +7348,7 @@ add name="escortevenly.com" address=0.0.0.0
 add name="esfimeqss.cfd" address=0.0.0.0
 add name="eshop.sintech.cn" address=0.0.0.0
 add name="eshopkamagra.sk" address=0.0.0.0
+add name="esighteyem.lol" address=0.0.0.0
 add name="esn-eu.com" address=0.0.0.0
 add name="esn-fitness.com" address=0.0.0.0
 add name="esnoutleteur.com" address=0.0.0.0
@@ -7443,7 +7480,6 @@ add name="euro-markt.at" address=0.0.0.0
 add name="euro-modafinil.com" address=0.0.0.0
 add name="euro-pharm24.com" address=0.0.0.0
 add name="euro-pharma24x7.com" address=0.0.0.0
-add name="euro-pill.com" address=0.0.0.0
 add name="euro.stanleys1913.com" address=0.0.0.0
 add name="euro2024tickets.de" address=0.0.0.0
 add name="eurobitx.info" address=0.0.0.0
@@ -7496,6 +7532,7 @@ add name="euvalentinogaravani.de" address=0.0.0.0
 add name="euvendorshub.online" address=0.0.0.0
 add name="euvitafarm.com" address=0.0.0.0
 add name="ev-farm.com" address=0.0.0.0
+add name="eva-zagreb.com" address=0.0.0.0
 add name="evaam.de" address=0.0.0.0
 add name="evadav.com" address=0.0.0.0
 add name="evadavdsp.pro" address=0.0.0.0
@@ -7884,6 +7921,7 @@ add name="fastgerm.com" address=0.0.0.0
 add name="fastigeriptv.live" address=0.0.0.0
 add name="fastly-insights.com" address=0.0.0.0
 add name="fastmarket.store" address=0.0.0.0
+add name="faszienfit.com" address=0.0.0.0
 add name="faszinationholz-salzmann.de" address=0.0.0.0
 add name="fatburner-guru.de" address=0.0.0.0
 add name="fatburnerking.at" address=0.0.0.0
@@ -7999,6 +8037,7 @@ add name="festgeldfinder.de" address=0.0.0.0
 add name="festgeldsicher.at" address=0.0.0.0
 add name="festivaldefrente.com" address=0.0.0.0
 add name="festoolz.shop" address=0.0.0.0
+add name="fetishmegastore.com" address=0.0.0.0
 add name="fettabsaugung-in-koeln.de" address=0.0.0.0
 add name="fettverbrenneronline.com" address=0.0.0.0
 add name="feuchtigkeits.de" address=0.0.0.0
@@ -8098,6 +8137,7 @@ add name="findedeinrad.de" address=0.0.0.0
 add name="findedstore.com" address=0.0.0.0
 add name="finders-cafe.de" address=0.0.0.0
 add name="findjobinde.com" address=0.0.0.0
+add name="findssmogallery.shop" address=0.0.0.0
 add name="findyourcasino.com" address=0.0.0.0
 add name="fine-cycle.com" address=0.0.0.0
 add name="fine-germa-furniture.com" address=0.0.0.0
@@ -8582,12 +8622,18 @@ add name="frohwelt.myshopify.com" address=0.0.0.0
 add name="frohzeit.de" address=0.0.0.0
 add name="frontaley.com" address=0.0.0.0
 add name="frontier-i18n.tiktokv.com" address=0.0.0.0
+add name="frontier-ie.tiktokv.eu" address=0.0.0.0
+add name="frontier-my.byteoversea.com" address=0.0.0.0
+add name="frontier-my.tiktokv.com" address=0.0.0.0
 add name="frontier-my2.tiktokv.com" address=0.0.0.0
+add name="frontier-phx.tiktokv.com" address=0.0.0.0
 add name="frontier-ru.tiktokv.com" address=0.0.0.0
 add name="frontier-ru.tiktokv.com.edgekey.net" address=0.0.0.0
 add name="frontier-ttp2.tiktokv.us" address=0.0.0.0
 add name="frontier-ttp2.tiktokv.us.edgesuite.net" address=0.0.0.0
+add name="frontier-ttp2.us.tiktokv.com" address=0.0.0.0
 add name="frontier-us-ttp2.capcutw.us" address=0.0.0.0
+add name="frontier-va.byteoversea.com" address=0.0.0.0
 add name="frontier-va.tiktokv.com" address=0.0.0.0
 add name="frontier.byteoversea.com" address=0.0.0.0
 add name="frontier.capcutw.us" address=0.0.0.0
@@ -8596,18 +8642,34 @@ add name="frontier.tiktokv-eu.com" address=0.0.0.0
 add name="frontier.tiktokv-eu.com.edgesuite.net" address=0.0.0.0
 add name="frontier.tiktokv-eu.com.ttdns3.com" address=0.0.0.0
 add name="frontier.tiktokv.com" address=0.0.0.0
+add name="frontier.tiktokv.eu" address=0.0.0.0
 add name="frontier.tiktokv.us" address=0.0.0.0
 add name="frontier.tiktokv.us.edgesuite.net" address=0.0.0.0
 add name="frontier.us.capcut.com" address=0.0.0.0
+add name="frontier.us.tiktokv.com" address=0.0.0.0
 add name="frontier100-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="frontier100-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="frontier15-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="frontier15-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="frontier15-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="frontier16-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="frontier16-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="frontier16-normal-no1a.tiktokv.eu.edgesuite.net" address=0.0.0.0
+add name="frontier16-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="frontier16-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="frontier16-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="frontier16-normal-useastred.tiktokv.eu.edgesuite.net" address=0.0.0.0
+add name="frontier22-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="frontier22-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="frontier22-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="frontier23-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="frontier23-normal-alisg.tiktokv.com.bpgslb.com" address=0.0.0.0
 add name="frontier23-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="frontier23-normal-useast2a.tiktokv.eu" address=0.0.0.0
+add name="frontier32-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="frontier32-normal-ie.tiktokv.eu" address=0.0.0.0
+add name="frontier32-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="frontier32-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="fronttoad.com" address=0.0.0.0
 add name="frtyj.com" address=0.0.0.0
 add name="frtyk.com" address=0.0.0.0
@@ -8885,6 +8947,7 @@ add name="gartenkings.de" address=0.0.0.0
 add name="gartenkompass.com" address=0.0.0.0
 add name="gartenkreuzfahrt.de" address=0.0.0.0
 add name="gartenland-martens.de" address=0.0.0.0
+add name="gartenluxus.com" address=0.0.0.0
 add name="gartenly.shop" address=0.0.0.0
 add name="gartenmachtshop.de" address=0.0.0.0
 add name="gartenmaeher.com" address=0.0.0.0
@@ -8939,6 +9002,7 @@ add name="garved.com" address=0.0.0.0
 add name="gas-ertrag.app" address=0.0.0.0
 add name="gas-heizung-wasser.at" address=0.0.0.0
 add name="gas-thermen-zentrum.at" address=0.0.0.0
+add name="gasflaschensale.com" address=0.0.0.0
 add name="gasglow.de" address=0.0.0.0
 add name="gashelbywatch.com" address=0.0.0.0
 add name="gasman-installateur.at" address=0.0.0.0
@@ -9214,6 +9278,7 @@ add name="giesswein.com.de" address=0.0.0.0
 add name="giesswein.cz" address=0.0.0.0
 add name="giesswein.ro" address=0.0.0.0
 add name="giessweinca.com" address=0.0.0.0
+add name="giessweinhouse.shop" address=0.0.0.0
 add name="giessweins.es" address=0.0.0.0
 add name="giessweins.it" address=0.0.0.0
 add name="giessweinschuhe.com" address=0.0.0.0
@@ -9300,6 +9365,7 @@ add name="globalmedsnet.com" address=0.0.0.0
 add name="globalmetal.fr" address=0.0.0.0
 add name="globalpartners-ltd.com" address=0.0.0.0
 add name="globalpharmacystore.com" address=0.0.0.0
+add name="globalsmokehub.com" address=0.0.0.0
 add name="globaltradeforex.com" address=0.0.0.0
 add name="globaltradeoption.online" address=0.0.0.0
 add name="globalvideo.cdn.pandora.intl.xiaomi.com" address=0.0.0.0
@@ -9503,8 +9569,10 @@ add name="gp.dejanews.com" address=0.0.0.0
 add name="gpautoshopimport.com" address=0.0.0.0
 add name="gplate.de" address=0.0.0.0
 add name="gplog-sg.byteoversea.com" address=0.0.0.0
+add name="gplog-sg.capcutapi.com" address=0.0.0.0
 add name="gplog-va-useast2a.byteoversea.com" address=0.0.0.0
 add name="gplog-va.byteoversea.com" address=0.0.0.0
+add name="gplog-va.capcutapi.com" address=0.0.0.0
 add name="gpm-mon-sg.byteoversea.com" address=0.0.0.0
 add name="gpm-mon-va-useast1a.byteoversea.com" address=0.0.0.0
 add name="gpm-mon-va-useast2a.byteoversea.com" address=0.0.0.0
@@ -9597,6 +9665,7 @@ add name="grimhat.com" address=0.0.0.0
 add name="griw.xyz" address=0.0.0.0
 add name="grizzlyroids.shop" address=0.0.0.0
 add name="grkwork.com" address=0.0.0.0
+add name="grondberg.de" address=0.0.0.0
 add name="groomifypetsstore.com" address=0.0.0.0
 add name="groovespacing.com" address=0.0.0.0
 add name="grosshandelwebservice.de" address=0.0.0.0
@@ -9823,6 +9892,7 @@ add name="halloweenpopculture.com" address=0.0.0.0
 add name="halloweenwelt.com" address=0.0.0.0
 add name="halluxfit.de" address=0.0.0.0
 add name="hallwaychair-shop.com" address=0.0.0.0
+add name="halmheld.com" address=0.0.0.0
 add name="halocolor.com" address=0.0.0.0
 add name="halooffers.com" address=0.0.0.0
 add name="halseband-technik.de" address=0.0.0.0
@@ -9898,6 +9968,7 @@ add name="hans-engelke-energie.de" address=0.0.0.0
 add name="hans-fahrradhaus.de" address=0.0.0.0
 add name="hansacontainergmbh.de" address=0.0.0.0
 add name="hansatraileranhanger-de.com" address=0.0.0.0
+add name="hanseatischercontainerservicegmbh.de" address=0.0.0.0
 add name="hansen-mode.com" address=0.0.0.0
 add name="hansholzmotor.de" address=0.0.0.0
 add name="hansrasenmaher.com" address=0.0.0.0
@@ -9924,6 +9995,7 @@ add name="happykidtoys.ru" address=0.0.0.0
 add name="har6lowr7idge6.com" address=0.0.0.0
 add name="harderex.com" address=0.0.0.0
 add name="hardloverz.com" address=0.0.0.0
+add name="hardmeierversand.ch" address=0.0.0.0
 add name="hardwarecables.com" address=0.0.0.0
 add name="hardwarenational.com" address=0.0.0.0
 add name="hardwarewelt.com" address=0.0.0.0
@@ -9939,6 +10011,7 @@ add name="harmoniouy.com" address=0.0.0.0
 add name="harmtonyambientehot.com" address=0.0.0.0
 add name="harper-berlin.com" address=0.0.0.0
 add name="harpercollins.shop" address=0.0.0.0
+add name="harrass-kollegen.de" address=0.0.0.0
 add name="harrenmedia.com" address=0.0.0.0
 add name="harrenmedianetwork.com" address=0.0.0.0
 add name="hartholz-briketts.de" address=0.0.0.0
@@ -10499,6 +10572,7 @@ add name="holzglut24.de" address=0.0.0.0
 add name="holzgutexpress.de" address=0.0.0.0
 add name="holzhack-schnitzel.de" address=0.0.0.0
 add name="holzhambach.com" address=0.0.0.0
+add name="holzhandel-bauer.com" address=0.0.0.0
 add name="holzhandelhensel.com" address=0.0.0.0
 add name="holzhausenug.de" address=0.0.0.0
 add name="holzheiz.com" address=0.0.0.0
@@ -11612,6 +11686,7 @@ add name="joyaromania.com" address=0.0.0.0
 add name="joyaschoenen.com" address=0.0.0.0
 add name="joyaschuhedeutschland.com" address=0.0.0.0
 add name="joycap.net" address=0.0.0.0
+add name="joykaff-espresso.de" address=0.0.0.0
 add name="joyoussurprise.com" address=0.0.0.0
 add name="joyshoetique.com" address=0.0.0.0
 add name="joystar.top" address=0.0.0.0
@@ -11683,6 +11758,7 @@ add name="justrelevant.com" address=0.0.0.0
 add name="justvanilla.de" address=0.0.0.0
 add name="justwowjars.com" address=0.0.0.0
 add name="juvenda.de" address=0.0.0.0
+add name="juwelier-keller.com" address=0.0.0.0
 add name="juwelierkunst.de" address=0.0.0.0
 add name="jwhulmeshop.com" address=0.0.0.0
 add name="jyaashop.com" address=0.0.0.0
@@ -11736,6 +11812,7 @@ add name="kaffeemaschine-de.com" address=0.0.0.0
 add name="kaffeemaschinebillig.com" address=0.0.0.0
 add name="kaffeemech.myshopify.com" address=0.0.0.0
 add name="kaffeerose.de" address=0.0.0.0
+add name="kaffeesieb.com" address=0.0.0.0
 add name="kaffeesnackbar.com" address=0.0.0.0
 add name="kaffeetassendruckerei.de" address=0.0.0.0
 add name="kaffeetime.de" address=0.0.0.0
@@ -12004,10 +12081,12 @@ add name="kern-recht.de" address=0.0.0.0
 add name="kernvogel.com" address=0.0.0.0
 add name="kersten-maschinenvertriebs-gmbh.de" address=0.0.0.0
 add name="kerzendose.com" address=0.0.0.0
+add name="kesten.shop" address=0.0.0.0
 add name="keterhanova.myshopify.com" address=0.0.0.0
 add name="kettenblattverkaufe.com" address=0.0.0.0
 add name="kettenkonzept.de" address=0.0.0.0
 add name="kettensage.de" address=0.0.0.0
+add name="kettenschein.com" address=0.0.0.0
 add name="ketteverkauf.com" address=0.0.0.0
 add name="keucoverkauf.com" address=0.0.0.0
 add name="kevtt.com" address=0.0.0.0
@@ -12392,6 +12471,7 @@ add name="kuhlmann-rechtsanwaelte.de" address=0.0.0.0
 add name="kuhschelhof.de" address=0.0.0.0
 add name="kuk-kaffee.de" address=0.0.0.0
 add name="kukirins.co.at" address=0.0.0.0
+add name="kuksawiar.com" address=0.0.0.0
 add name="kulako.com" address=0.0.0.0
 add name="kulbit.lv" address=0.0.0.0
 add name="kumarkt.de.com" address=0.0.0.0
@@ -12426,6 +12506,7 @@ add name="kurundu.de" address=0.0.0.0
 add name="kurvea.com" address=0.0.0.0
 add name="kurzurlaub-deal.de" address=0.0.0.0
 add name="kuscheltiereteddys.com" address=0.0.0.0
+add name="kuskwer.shop" address=0.0.0.0
 add name="kuyun.com" address=0.0.0.0
 add name="kvicco.com" address=0.0.0.0
 add name="kvp0fw-hi.myshopify.com" address=0.0.0.0
@@ -13001,6 +13082,11 @@ add name="liujoukshop.com" address=0.0.0.0
 add name="livaxxen.com" address=0.0.0.0
 add name="live-events.ono.axp.amazon-adsystem.com" address=0.0.0.0
 add name="live-video-log16-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="live-video-log16-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="live-video-log16-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="live-video-log16-normal-useast2a.tiktokv.eu" address=0.0.0.0
+add name="live-video-log16-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="live-video-log16-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="live.miphone.pandora.xiaomi.com" address=0.0.0.0
 add name="live.trmzum.com" address=0.0.0.0
 add name="liveadexchanger.com" address=0.0.0.0
@@ -13058,10 +13144,14 @@ add name="locajardin.com" address=0.0.0.0
 add name="localgermany.de" address=0.0.0.0
 add name="locateanyphone.net" address=0.0.0.0
 add name="location-i18n.tiktokv.com" address=0.0.0.0
+add name="location-ie.tiktokv.eu" address=0.0.0.0
 add name="location-microsoft-com.b-0005.b-msedge.net" address=0.0.0.0
 add name="location-ru.tiktokv.com" address=0.0.0.0
 add name="location-sg.tiktokv.com" address=0.0.0.0
 add name="location-ttp2.tiktokv.eu" address=0.0.0.0
+add name="location-ttp2.tiktokv.us" address=0.0.0.0
+add name="location-ttp2.tiktokw.eu" address=0.0.0.0
+add name="location-ttp2.tiktokw.us" address=0.0.0.0
 add name="location-ttp2.us.tiktokv.com" address=0.0.0.0
 add name="location-v6-i18n.tiktokv.com" address=0.0.0.0
 add name="location-v6-ru.tiktokv.com" address=0.0.0.0
@@ -13070,17 +13160,21 @@ add name="location-v6-ttp2.tiktokv.eu" address=0.0.0.0
 add name="location-v6-ttp2.tiktokv.us" address=0.0.0.0
 add name="location-v6-va.tiktokv.com" address=0.0.0.0
 add name="location-v6.tiktokv.com" address=0.0.0.0
+add name="location-v6.tiktokv.eu" address=0.0.0.0
 add name="location-v6.tiktokv.us" address=0.0.0.0
 add name="location-va.tiktokv.com" address=0.0.0.0
+add name="location.capcutapi.us" address=0.0.0.0
 add name="location.live.net" address=0.0.0.0
 add name="location.microsoft.com" address=0.0.0.0
 add name="location.tiktok.com" address=0.0.0.0
 add name="location.tiktokv.com" address=0.0.0.0
 add name="location.tiktokv.eu" address=0.0.0.0
 add name="location.tiktokv.us" address=0.0.0.0
+add name="location.tiktokw.eu" address=0.0.0.0
 add name="location.tiktokw.us" address=0.0.0.0
 add name="location.us.tiktokv.com" address=0.0.0.0
 add name="location16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="location16-normal-useastred.tiktokw.eu" address=0.0.0.0
 add name="locationconseilsfinanciers.fr" address=0.0.0.0
 add name="locations.crocs.de" address=0.0.0.0
 add name="locationv16-normal-useastred.tiktokv.eu" address=0.0.0.0
@@ -13104,6 +13198,8 @@ add name="lofza.com" address=0.0.0.0
 add name="log-boot.capcutapi.com" address=0.0.0.0
 add name="log-boot.tiktokv.com" address=0.0.0.0
 add name="log-dr.tiktokv.com" address=0.0.0.0
+add name="log-dr.tiktokv.eu" address=0.0.0.0
+add name="log-dr.tiktokv.us" address=0.0.0.0
 add name="log-dr16-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="log-dr16-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log-dr16-normal-useast5.tiktokv.us" address=0.0.0.0
@@ -13127,14 +13223,17 @@ add name="log-snssdk.tiktokv-us.com" address=0.0.0.0
 add name="log-tiktok.byteoversea.net" address=0.0.0.0
 add name="log-v2-boot.capcutapi.com" address=0.0.0.0
 add name="log-va-useast2a.tiktokv.com" address=0.0.0.0
+add name="log-va.capcutapi.com" address=0.0.0.0
 add name="log-va.tiktokv.com" address=0.0.0.0
 add name="log.btopenworld.com" address=0.0.0.0
 add name="log.byteoversea.com" address=0.0.0.0
+add name="log.capcutapi.us" address=0.0.0.0
 add name="log.logrocket.io" address=0.0.0.0
 add name="log.pinterest.com" address=0.0.0.0
 add name="log.pt.xiaomi.com" address=0.0.0.0
 add name="log.snssdk.com" address=0.0.0.0
 add name="log.tiktokv.com" address=0.0.0.0
+add name="log.tiktokv.eu" address=0.0.0.0
 add name="log.tiktokv.us" address=0.0.0.0
 add name="log.us.tiktokv.com" address=0.0.0.0
 add name="log.videocampaign.co" address=0.0.0.0
@@ -13148,6 +13247,7 @@ add name="log16-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="log16-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="log16-normal-c-useast2a.tiktokv.com" address=0.0.0.0
 add name="log16-normal-delay-alisg.tiktokv.com" address=0.0.0.0
+add name="log16-normal-ie.tiktokv.eu" address=0.0.0.0
 add name="log16-normal-ind.tiktokv.com" address=0.0.0.0
 add name="log16-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="log16-normal-sg.capcutapi.com" address=0.0.0.0
@@ -13158,7 +13258,9 @@ add name="log16-normal-useast5.tiktokv.us" address=0.0.0.0
 add name="log16-normal-useast8.tiktokv.us" address=0.0.0.0
 add name="log16-normal-useast8.us.tiktokv.com" address=0.0.0.0
 add name="log16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="log16-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="log16-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="log16-normal-zr.tiktokv.com" address=0.0.0.0
 add name="log16-normal.capcutapi.com" address=0.0.0.0
 add name="log16-normal.tiktokv.com" address=0.0.0.0
 add name="log16-platform-ycru.tiktokv.com" address=0.0.0.0
@@ -13172,22 +13274,37 @@ add name="log19-applog-useast1a.tiktokv.com" address=0.0.0.0
 add name="log19-applog-useast2a.tiktokv.com" address=0.0.0.0
 add name="log19-applog-useast5.us.tiktokv.com" address=0.0.0.0
 add name="log19-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="log19-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="log19-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log19-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="log19-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="log19-normal-useast8.tiktokv.us" address=0.0.0.0
+add name="log19-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="log19-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="log19-normal-zr.tiktokv.com" address=0.0.0.0
 add name="log19-normal.tiktokv.com" address=0.0.0.0
 add name="log22-applog-useast1a.tiktokv.com" address=0.0.0.0
 add name="log22-applog-useast2a.tiktokv.com" address=0.0.0.0
 add name="log22-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="log22-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log22-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="log22-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="log22-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="log22-normal-zr.tiktokv.com" address=0.0.0.0
+add name="log22-normal.capcutapi.com" address=0.0.0.0
 add name="log22-normal.tiktokv.com" address=0.0.0.0
 add name="log3-normal-c-alisg.tiktokv.com" address=0.0.0.0
 add name="log3-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="log31-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="log31-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="log31-normal-sg.capcutapi.com" address=0.0.0.0
 add name="log31-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log31-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="log31-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="log31-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="log31-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="log31-normal-zr.tiktokv.com" address=0.0.0.0
+add name="log31-normal.capcutapi.com" address=0.0.0.0
 add name="log31-normal.tiktokv.com" address=0.0.0.0
 add name="log32-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="log32-normal-no1a.tiktokv.eu" address=0.0.0.0
@@ -13195,6 +13312,8 @@ add name="log32-normal-sg.capcutapi.com" address=0.0.0.0
 add name="log32-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log32-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="log32-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="log32-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="log32-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="log32-normal-zr.tiktokv.com" address=0.0.0.0
 add name="log32-normal.capcutapi.com" address=0.0.0.0
 add name="log32-normal.tiktokv.com" address=0.0.0.0
@@ -13600,6 +13719,7 @@ add name="maillauto-industrie.com" address=0.0.0.0
 add name="main-btc.com" address=0.0.0.0
 add name="main-garten.at" address=0.0.0.0
 add name="main-mokassin.de" address=0.0.0.0
+add name="mainecoonkatzenzucht.de" address=0.0.0.0
 add name="mainet.business" address=0.0.0.0
 add name="maintainel.com" address=0.0.0.0
 add name="maintenanceh.com" address=0.0.0.0
@@ -13632,6 +13752,7 @@ add name="malerbedarf-sales.com" address=0.0.0.0
 add name="malergeschaft.com" address=0.0.0.0
 add name="maliva-mcs-useast2a.byteoversea.com" address=0.0.0.0
 add name="maliva-mcs.byteoversea.com" address=0.0.0.0
+add name="maliva-mcs.capcutapi.com" address=0.0.0.0
 add name="mall.galeridora.com" address=0.0.0.0
 add name="mall.gresholm.com" address=0.0.0.0
 add name="mallezeit.de" address=0.0.0.0
@@ -14230,6 +14351,7 @@ add name="meinmodellshop.com" address=0.0.0.0
 add name="meinradladen.com" address=0.0.0.0
 add name="meinrechneronline.de" address=0.0.0.0
 add name="meinsmartshop.com" address=0.0.0.0
+add name="meintechmarkt.com" address=0.0.0.0
 add name="meintechnik.de" address=0.0.0.0
 add name="meintherapiedecken.de" address=0.0.0.0
 add name="meinwarenhaus.com" address=0.0.0.0
@@ -14761,6 +14883,7 @@ add name="moebellagerhaus.com" address=0.0.0.0
 add name="moebelmaerki-mtb.ch" address=0.0.0.0
 add name="moebelonline24.com" address=0.0.0.0
 add name="moebelpacker-wien.at" address=0.0.0.0
+add name="moebelpfad.com" address=0.0.0.0
 add name="moebelquelle.com" address=0.0.0.0
 add name="moebelstil.com" address=0.0.0.0
 add name="moebeltrumpf.de" address=0.0.0.0
@@ -14841,6 +14964,7 @@ add name="mon15-normal.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-c-useast2a.tiktokv.com" address=0.0.0.0
+add name="mon16-normal-ie.tiktokv.eu" address=0.0.0.0
 add name="mon16-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="mon16-normal-sg.capcutapi.com" address=0.0.0.0
 add name="mon16-normal-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
@@ -14853,27 +14977,40 @@ add name="mon16-normal-useast5.tiktokv.us" address=0.0.0.0
 add name="mon16-normal-useast8.tiktokv.us" address=0.0.0.0
 add name="mon16-normal-useast8.us.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="mon16-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="mon16-normal.capcutapi.com" address=0.0.0.0
 add name="mon16-normal.tiktokv.com" address=0.0.0.0
 add name="mon16-platform-useast5.us.tiktokv.com" address=0.0.0.0
 add name="mon16-platform-ycru.tiktokv.com" address=0.0.0.0
 add name="mon16-tmp-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon19-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="mon19-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="mon19-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="mon19-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon19-normal.tiktokv.com" address=0.0.0.0
 add name="mon22-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="mon22-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="mon22-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="mon22-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon22-normal.tiktokv.com" address=0.0.0.0
 add name="mon31-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="mon31-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="mon31-normal-sg.capcutapi.com" address=0.0.0.0
 add name="mon31-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon31-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="mon31-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="mon31-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="mon31-normal.capcutapi.com" address=0.0.0.0
 add name="mon31-normal.tiktokv.com" address=0.0.0.0
 add name="mon32-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="mon32-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="mon32-normal-sg.capcutapi.com" address=0.0.0.0
 add name="mon32-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon32-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="mon32-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="mon32-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="mon32-normal.capcutapi.com" address=0.0.0.0
 add name="mon32-normal.tiktokv.com" address=0.0.0.0
 add name="monarchads.com" address=0.0.0.0
 add name="monatrade.com" address=0.0.0.0
@@ -15175,6 +15312,7 @@ add name="munster-mode.de" address=0.0.0.0
 add name="mupishop.de" address=0.0.0.0
 add name="mur-shop.com" address=0.0.0.0
 add name="museopradotickets.com" address=0.0.0.0
+add name="musgex.com" address=0.0.0.0
 add name="mushroomgods.com" address=0.0.0.0
 add name="musicalvortex.com" address=0.0.0.0
 add name="musicgearfashion.com" address=0.0.0.0
@@ -15197,6 +15335,7 @@ add name="musikprofi.com" address=0.0.0.0
 add name="musikstrings.com" address=0.0.0.0
 add name="musikwelt-lindner.de" address=0.0.0.0
 add name="musiqueonline.com" address=0.0.0.0
+add name="muskangaming.com" address=0.0.0.0
 add name="muskanonline.com" address=0.0.0.0
 add name="mustang-parts-shop.de" address=0.0.0.0
 add name="muteknife.com" address=0.0.0.0
@@ -15806,6 +15945,7 @@ add name="novelbuys.com" address=0.0.0.0
 add name="novele.de" address=0.0.0.0
 add name="novem.pl" address=0.0.0.0
 add name="novendo.shop" address=0.0.0.0
+add name="noventaway.com" address=0.0.0.0
 add name="noveraxcapital.com" address=0.0.0.0
 add name="novermessen.de" address=0.0.0.0
 add name="novestas.de" address=0.0.0.0
@@ -16633,6 +16773,7 @@ add name="p16-ttam-sg.ibyteimg.com" address=0.0.0.0
 add name="p16-ttam-va.ibyteimg.com" address=0.0.0.0
 add name="p16-ttam-va.tiktokcdn.com" address=0.0.0.0
 add name="p16-ttam.tiktokcdn-us.com" address=0.0.0.0
+add name="p19-tiktok-ads-sg.tiktokcdn.com" address=0.0.0.0
 add name="p19-ttam-sg.ibyteimg.com" address=0.0.0.0
 add name="p19-ttam-va.ibyteimg.com" address=0.0.0.0
 add name="p19-ttam-va.tiktokcdn.com" address=0.0.0.0
@@ -16749,6 +16890,7 @@ add name="patrickvetter.de" address=0.0.0.0
 add name="patrimoine-partenaires.com" address=0.0.0.0
 add name="patrioticy.com" address=0.0.0.0
 add name="paul-joses.de" address=0.0.0.0
+add name="paula-zagreb.com" address=0.0.0.0
 add name="paulgreenosterreich.com" address=0.0.0.0
 add name="paulgreensale.com" address=0.0.0.0
 add name="paulinacasmur.com" address=0.0.0.0
@@ -16785,6 +16927,7 @@ add name="pc-mon-v2-boot.capcutapi.com" address=0.0.0.0
 add name="pc-mon-v2-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="pc-mon-v2-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="pc-mon-va.byteoversea.com" address=0.0.0.0
+add name="pc-mon-va.capcutapi.com" address=0.0.0.0
 add name="pc-mon.snssdk.com" address=0.0.0.0
 add name="pc-mon16-normal-us-ttp.capcutapi.us" address=0.0.0.0
 add name="pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net" address=0.0.0.0
@@ -16942,6 +17085,7 @@ add name="pflanzen-de.com" address=0.0.0.0
 add name="pflanzenoeldiesel.de" address=0.0.0.0
 add name="pflanzenshop-de.com" address=0.0.0.0
 add name="pflanzensoftware.de" address=0.0.0.0
+add name="pflanzenwelt24.com" address=0.0.0.0
 add name="pflegedienste-marktoberdorf.de" address=0.0.0.0
 add name="pflegedienstrechner.de" address=0.0.0.0
 add name="pflegemeisterei.de" address=0.0.0.0
@@ -16949,6 +17093,7 @@ add name="pflegeprofi-shop.com" address=0.0.0.0
 add name="pflegeschonheit.com" address=0.0.0.0
 add name="pforp.net" address=0.0.0.0
 add name="pfotegws.de" address=0.0.0.0
+add name="pfotendepot.com" address=0.0.0.0
 add name="pfotengarten.de" address=0.0.0.0
 add name="pfotenkomfort.com" address=0.0.0.0
 add name="pfotentrend.com" address=0.0.0.0
@@ -17170,7 +17315,6 @@ add name="platform-ai-trade.com" address=0.0.0.0
 add name="platform.ap-capital-lim.com" address=0.0.0.0
 add name="platform.invesco-trading.com" address=0.0.0.0
 add name="platform.softwarecrownex.com" address=0.0.0.0
-add name="platincoin.com" address=0.0.0.0
 add name="platinwerk.de" address=0.0.0.0
 add name="platten24.com" address=0.0.0.0
 add name="platzimgarten.com" address=0.0.0.0
@@ -17265,6 +17409,7 @@ add name="polene-osterreich.com" address=0.0.0.0
 add name="polene-shop.com" address=0.0.0.0
 add name="polene.at" address=0.0.0.0
 add name="polene.co.at" address=0.0.0.0
+add name="poleneat.cc" address=0.0.0.0
 add name="polenegermany.de" address=0.0.0.0
 add name="poleneoutlet.de" address=0.0.0.0
 add name="poleneparis.at" address=0.0.0.0
@@ -18080,6 +18225,7 @@ add name="recetasplus.com" address=0.0.0.0
 add name="rechtsanwalt-breithaupt.de" address=0.0.0.0
 add name="rechtsanwalt-sirrenberg.de" address=0.0.0.0
 add name="rechtsanwalt-wiegmann.de" address=0.0.0.0
+add name="rechtsanwaltkramer.de" address=0.0.0.0
 add name="rechtskanzlei-karls.de" address=0.0.0.0
 add name="rechtund-gesetz.com" address=0.0.0.0
 add name="recognitioy.com" address=0.0.0.0
@@ -18481,6 +18627,7 @@ add name="roguephilosopher.com" address=0.0.0.0
 add name="rohdeschuhewerksverkauf.com" address=0.0.0.0
 add name="rohn-shop.com" address=0.0.0.0
 add name="rohoelzuender.de" address=0.0.0.0
+add name="rohrerfahrrad.at" address=0.0.0.0
 add name="rohrreinigung-rothschild.de" address=0.0.0.0
 add name="rohrreinigungshilfe.at" address=0.0.0.0
 add name="rohrsanierungen24.de" address=0.0.0.0
@@ -18604,12 +18751,15 @@ add name="rtbplatform.net" address=0.0.0.0
 add name="rtbpop.com" address=0.0.0.0
 add name="rtc-logger-i18n.tiktokv.com" address=0.0.0.0
 add name="rtc-logger-ie.tiktokv.eu" address=0.0.0.0
+add name="rtc-logger-ttp2.tiktokv.eu" address=0.0.0.0
 add name="rtc-logger-ttp2.tiktokv.us" address=0.0.0.0
 add name="rtc-logger-ttp2.us.tiktokv.com" address=0.0.0.0
 add name="rtc-logger-va.tiktokv.com" address=0.0.0.0
 add name="rtc-logger.tiktokv.com" address=0.0.0.0
+add name="rtc-logger.tiktokv.eu" address=0.0.0.0
 add name="rtc-logger.tiktokv.us" address=0.0.0.0
 add name="rtc-logger.us.tiktokv.com" address=0.0.0.0
+add name="rtc-logger16-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="rtc-logger16-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="rtieej.buzz" address=0.0.0.0
 add name="rtlog-i18n.tiktokv.com" address=0.0.0.0
@@ -18619,6 +18769,7 @@ add name="rtlog-va-useast2a.tiktokv.com" address=0.0.0.0
 add name="rtlog-va.tiktokv.com" address=0.0.0.0
 add name="rtlog.byteoversea.com" address=0.0.0.0
 add name="rtlog.tiktokv.com" address=0.0.0.0
+add name="rtlog.tiktokv.eu" address=0.0.0.0
 add name="rtlog.us.tiktokv.com" address=0.0.0.0
 add name="rtlog15-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="rtlog15-normal-useast1a.tiktokv.com" address=0.0.0.0
@@ -18628,6 +18779,7 @@ add name="rtlog16-applog-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog16-applog-useast2a.tiktokv.com" address=0.0.0.0
 add name="rtlog16-applog-useast5.us.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog16-normal-ie.tiktokv.eu" address=0.0.0.0
 add name="rtlog16-normal-ind.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="rtlog16-normal-useast1a.tiktokv.com" address=0.0.0.0
@@ -18636,6 +18788,9 @@ add name="rtlog16-normal-useast5.tiktokv.us" address=0.0.0.0
 add name="rtlog16-normal-useast8.tiktokv.us" address=0.0.0.0
 add name="rtlog16-normal-useast8.us.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="rtlog16-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog16-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="rtlog16-normal-zr.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal.tiktokv.com" address=0.0.0.0
 add name="rtlog16-platform-useast5.us.tiktokv.com" address=0.0.0.0
 add name="rtlog16-tmp-normal-useast1a.tiktokv.com" address=0.0.0.0
@@ -18647,9 +18802,14 @@ add name="rtlog19-applog-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog19-applog-useast2a.tiktokv.com" address=0.0.0.0
 add name="rtlog19-applog-useast5.us.tiktokv.com" address=0.0.0.0
 add name="rtlog19-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog19-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="rtlog19-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog19-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="rtlog19-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="rtlog19-normal-useast8.tiktokv.us" address=0.0.0.0
+add name="rtlog19-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="rtlog19-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="rtlog19-normal-zr.tiktokv.com" address=0.0.0.0
 add name="rtlog19-normal.tiktokv.com" address=0.0.0.0
 add name="rtlog19-platform-useast5.us.tiktokv.com" address=0.0.0.0
 add name="rtlog22-applog-useast1a.tiktokv.com" address=0.0.0.0
@@ -18657,13 +18817,27 @@ add name="rtlog22-applog-useast2a.tiktokv.com" address=0.0.0.0
 add name="rtlog22-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="rtlog22-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog22-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="rtlog22-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog22-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="rtlog22-normal-zr.tiktokv.com" address=0.0.0.0
 add name="rtlog22-normal.tiktokv.com" address=0.0.0.0
 add name="rtlog31-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog31-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="rtlog31-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog31-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="rtlog31-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="rtlog31-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog31-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
+add name="rtlog31-normal-zr.tiktokv.com" address=0.0.0.0
 add name="rtlog31-normal.tiktokv.com" address=0.0.0.0
 add name="rtlog32-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog32-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="rtlog32-normal-useast2a.tiktokv.eu" address=0.0.0.0
+add name="rtlog32-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="rtlog32-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="rtlog32-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog32-normal-zr.tiktokv.com" address=0.0.0.0
+add name="rtlog32-normal.tiktokv.com" address=0.0.0.0
 add name="rtlog58-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="rtlog58-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog58-normal-useast2a.tiktokv.com" address=0.0.0.0
@@ -18774,7 +18948,6 @@ add name="rx-budapest.com" address=0.0.0.0
 add name="rx-pharma.net" address=0.0.0.0
 add name="rx-pharmacies.com" address=0.0.0.0
 add name="rx-qualityshop.com" address=0.0.0.0
-add name="rx-true.com" address=0.0.0.0
 add name="rx247rx.com" address=0.0.0.0
 add name="rxapothekefursie.com" address=0.0.0.0
 add name="rxappfree.com" address=0.0.0.0
@@ -18884,6 +19057,7 @@ add name="salewa-cz-2026.myshoplaza.com" address=0.0.0.0
 add name="saleworkshopequip.com" address=0.0.0.0
 add name="salexen.de" address=0.0.0.0
 add name="salfas.com" address=0.0.0.0
+add name="salin-home.com" address=0.0.0.0
 add name="sallasboutique.com" address=0.0.0.0
 add name="salmingchile.com" address=0.0.0.0
 add name="salmingslovenija.com" address=0.0.0.0
@@ -19277,6 +19451,11 @@ add name="sdk-cache.video.ptqy.gitv.tv" address=0.0.0.0
 add name="sdk-transport.com" address=0.0.0.0
 add name="sdk.51.la" address=0.0.0.0
 add name="sdk.ptqy.gitv.tv" address=0.0.0.0
+add name="sdkconfig.eu.xiaomi.com" address=0.0.0.0
+add name="sdkconfig.india.xiaomi.com" address=0.0.0.0
+add name="sdkconfig.intl.xiaomi.com" address=0.0.0.0
+add name="sdkconfig.rus.xiaomi.com" address=0.0.0.0
+add name="sdkconfig.xiaomi.com" address=0.0.0.0
 add name="se-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="se-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="se-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
@@ -19350,6 +19529,7 @@ add name="seifenbrause.de" address=0.0.0.0
 add name="seifertundstil.de" address=0.0.0.0
 add name="seigneurin.fr" address=0.0.0.0
 add name="seiko-mod.de" address=0.0.0.0
+add name="seikouhr.co.at" address=0.0.0.0
 add name="seikouhr.de" address=0.0.0.0
 add name="seilzu.com" address=0.0.0.0
 add name="seizoensmode.nl" address=0.0.0.0
@@ -19437,6 +19617,11 @@ add name="sextracker.com" address=0.0.0.0
 add name="sezaneclothingshop.sa.com" address=0.0.0.0
 add name="sf16-ads-format-sign.tiktokcdn.com" address=0.0.0.0
 add name="sf16-ads-format-sign.tiktokcdn.com.edgesuite.net" address=0.0.0.0
+add name="sf16-short-gcp.bytedapm.com" address=0.0.0.0
+add name="sf16-short-sg.bytedapm.com" address=0.0.0.0
+add name="sf16-short-sg.bytedapm.com.edgesuite.net" address=0.0.0.0
+add name="sf16-short-va.bytedapm.com" address=0.0.0.0
+add name="sf16-short-va.bytedapm.com.edgesuite.net" address=0.0.0.0
 add name="sf16-telemetry-proxy-oci.tiktokcdn-us.com" address=0.0.0.0
 add name="sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net" address=0.0.0.0
 add name="sf19-ads-format-sign.tiktokcdn.com" address=0.0.0.0
@@ -19937,6 +20122,7 @@ add name="snapbartar.com" address=0.0.0.0
 add name="snapposh.com" address=0.0.0.0
 add name="snazzypoodle.com" address=0.0.0.0
 add name="sneakerfee.com" address=0.0.0.0
+add name="sneakerly.de" address=0.0.0.0
 add name="sneakers-metzingen.de" address=0.0.0.0
 add name="sneakers4you.eu" address=0.0.0.0
 add name="sneakersgermanyonline.com" address=0.0.0.0
@@ -20092,6 +20278,7 @@ add name="somviro.com" address=0.0.0.0
 add name="sonar.prime-video.amazon.dev" address=0.0.0.0
 add name="sonaxverkauf.com" address=0.0.0.0
 add name="sonetiacrcb.shop" address=0.0.0.0
+add name="soniazagreb.com" address=0.0.0.0
 add name="sonnenheld.at" address=0.0.0.0
 add name="sonnenlit.de" address=0.0.0.0
 add name="sonnensparo.com" address=0.0.0.0
@@ -20109,6 +20296,7 @@ add name="sopheria.de" address=0.0.0.0
 add name="sophiaberlin.de" address=0.0.0.0
 add name="sophieweberr.com" address=0.0.0.0
 add name="soppdobuy.com" address=0.0.0.0
+add name="soprogi.com" address=0.0.0.0
 add name="soraionline.com" address=0.0.0.0
 add name="sorbas-grill.de" address=0.0.0.0
 add name="sorbery.com" address=0.0.0.0
@@ -20394,6 +20582,7 @@ add name="st.amazon-adsystem.com" address=0.0.0.0
 add name="st.dynamicyield.com" address=0.0.0.0
 add name="st.pubmatic.com" address=0.0.0.0
 add name="stabileersatzteile.com" address=0.0.0.0
+add name="stabilosanitar.com" address=0.0.0.0
 add name="stabletrader-ai.net" address=0.0.0.0
 add name="stack-sonar.com" address=0.0.0.0
 add name="stackadapt.com" address=0.0.0.0
@@ -20426,6 +20615,7 @@ add name="standpellet.de" address=0.0.0.0
 add name="standprofi.com" address=0.0.0.0
 add name="standycrome.com" address=0.0.0.0
 add name="stanfpv.com" address=0.0.0.0
+add name="stangelinz.com" address=0.0.0.0
 add name="stanley-cups.at" address=0.0.0.0
 add name="stanley-cups.de" address=0.0.0.0
 add name="stanleycup.com.de" address=0.0.0.0
@@ -20437,6 +20627,7 @@ add name="staplerbatterien.de" address=0.0.0.0
 add name="star-apotheke.org" address=0.0.0.0
 add name="star-gamer.com" address=0.0.0.0
 add name="starcici.com" address=0.0.0.0
+add name="starcontainergmbh.de" address=0.0.0.0
 add name="stardacasinoonline.de" address=0.0.0.0
 add name="starel.xyz" address=0.0.0.0
 add name="starelax.com" address=0.0.0.0
@@ -20638,6 +20829,7 @@ add name="store.kestrelby.com" address=0.0.0.0
 add name="store.mavelimira.com" address=0.0.0.0
 add name="store.promomesh.com" address=0.0.0.0
 add name="store.rensby.com" address=0.0.0.0
+add name="store.selvariveta.com" address=0.0.0.0
 add name="store.useum.org" address=0.0.0.0
 add name="store.yeelight.com" address=0.0.0.0
 add name="storeaigle.de" address=0.0.0.0
@@ -21123,6 +21315,7 @@ add name="tbm.snssdk.com" address=0.0.0.0
 add name="tc-germany.com" address=0.0.0.0
 add name="tcads.net" address=0.0.0.0
 add name="tcduvshop02.myshoplaza.com" address=0.0.0.0
+add name="tchibooutlet.com" address=0.0.0.0
 add name="tcinosgroup.com" address=0.0.0.0
 add name="tcomplex.de" address=0.0.0.0
 add name="td-treuhand.de" address=0.0.0.0
@@ -21768,6 +21961,7 @@ add name="topoffice24.de" address=0.0.0.0
 add name="toponlinepharmacies.com" address=0.0.0.0
 add name="topowhey.top" address=0.0.0.0
 add name="toppdf.co" address=0.0.0.0
+add name="topproizvodi.eu" address=0.0.0.0
 add name="topreinigungsmittel.com" address=0.0.0.0
 add name="toprolexes.com" address=0.0.0.0
 add name="topsalenow.xyz" address=0.0.0.0
@@ -21999,6 +22193,7 @@ add name="trailer-master.de" address=0.0.0.0
 add name="trailer-master.eu" address=0.0.0.0
 add name="trailerfrance.com" address=0.0.0.0
 add name="trailertour.com" address=0.0.0.0
+add name="trailrunne.com" address=0.0.0.0
 add name="trainwelt.com" address=0.0.0.0
 add name="trakfreesm.click" address=0.0.0.0
 add name="trakkerbillig.com" address=0.0.0.0
@@ -22053,6 +22248,7 @@ add name="treatstoreweb.com" address=0.0.0.0
 add name="treemexholz.de" address=0.0.0.0
 add name="treibhausshop.de" address=0.0.0.0
 add name="trekdata.com" address=0.0.0.0
+add name="trekkinghaus.com" address=0.0.0.0
 add name="tremendoustime.com" address=0.0.0.0
 add name="tremorhub.com" address=0.0.0.0
 add name="trencystore.com" address=0.0.0.0
@@ -22135,7 +22331,6 @@ add name="truckstomatoes.com" address=0.0.0.0
 add name="truckstopshop.de" address=0.0.0.0
 add name="truculentrate.com" address=0.0.0.0
 add name="true-drugstore.com" address=0.0.0.0
-add name="true-ph.com" address=0.0.0.0
 add name="true-pp.com" address=0.0.0.0
 add name="true-tab.com" address=0.0.0.0
 add name="true-weightlose.com" address=0.0.0.0
@@ -22269,6 +22464,7 @@ add name="typicalteeth.com" address=0.0.0.0
 add name="tyreschwalbe.com" address=0.0.0.0
 add name="tyroo.com" address=0.0.0.0
 add name="tyu-trade.com" address=0.0.0.0
+add name="tyyclu.com" address=0.0.0.0
 add name="tz-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="u-id.cpc.heytapmobile.com" address=0.0.0.0
 add name="ua-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -22296,10 +22492,13 @@ add name="uffugim.run" address=0.0.0.0
 add name="ufolepbourgogne.org" address=0.0.0.0
 add name="ug-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ug-sg.byteoversea.com" address=0.0.0.0
+add name="ug-sg.capcutapi.com" address=0.0.0.0
+add name="ug-va.capcutapi.com" address=0.0.0.0
 add name="ug.snssdk.com" address=0.0.0.0
 add name="ugattribution-i18n.tiktokv.com" address=0.0.0.0
 add name="ugattribution-ru.tiktokv.com" address=0.0.0.0
 add name="ugattribution-sg.tiktokv.com" address=0.0.0.0
+add name="ugattribution-ttp2.us.tiktokv.com" address=0.0.0.0
 add name="ugg-online.com" address=0.0.0.0
 add name="uggat.at" address=0.0.0.0
 add name="uggfans.myshoplaza.com" address=0.0.0.0
@@ -22443,6 +22642,7 @@ add name="unqloutlet.shop" address=0.0.0.0
 add name="unruly.co" address=0.0.0.0
 add name="unrulymedia.com" address=0.0.0.0
 add name="unser-eshop.shop.epages.de" address=0.0.0.0
+add name="unserstil.com" address=0.0.0.0
 add name="untd.com" address=0.0.0.0
 add name="unterbewusst.at" address=0.0.0.0
 add name="unternehmenbessermachen.de" address=0.0.0.0
@@ -22803,6 +23003,7 @@ add name="vetapotheke-shop.de" address=0.0.0.0
 add name="vetntilate.com" address=0.0.0.0
 add name="vetretto.myshopify.com" address=0.0.0.0
 add name="vetter-law.de" address=0.0.0.0
+add name="vewear.shop" address=0.0.0.0
 add name="vexiebox.myshopify.com" address=0.0.0.0
 add name="vexontor.com" address=0.0.0.0
 add name="vexxsel.online" address=0.0.0.0
@@ -22915,6 +23116,7 @@ add name="vinissage.de" address=0.0.0.0
 add name="vinneo.fr" address=0.0.0.0
 add name="vinospezial.com" address=0.0.0.0
 add name="vinsrougesboutique.com" address=0.0.0.0
+add name="vintageaffordablejbl.shop" address=0.0.0.0
 add name="vintageitisrain.store" address=0.0.0.0
 add name="vintageladies.de" address=0.0.0.0
 add name="vintagespinvinyl.com" address=0.0.0.0
@@ -23151,6 +23353,7 @@ add name="vuigodeutschland.de" address=0.0.0.0
 add name="vulcanus.at" address=0.0.0.0
 add name="vumonvision.com" address=0.0.0.0
 add name="vungle.com" address=0.0.0.0
+add name="vusilia.de" address=0.0.0.0
 add name="vutereck.com" address=0.0.0.0
 add name="vuxocap-vip.io" address=0.0.0.0
 add name="vw-insights.de" address=0.0.0.0
@@ -23248,6 +23451,7 @@ add name="washingtonposttoday.com" address=0.0.0.0
 add name="washingtontimesnewstoday.com" address=0.0.0.0
 add name="wasser-kaiser.com" address=0.0.0.0
 add name="wasserbetten-centrum.at" address=0.0.0.0
+add name="wasserfestwandplatte.com" address=0.0.0.0
 add name="wasserflorade.com" address=0.0.0.0
 add name="wasserflorashop.com" address=0.0.0.0
 add name="wasserpflegede.com" address=0.0.0.0
@@ -23854,13 +24058,21 @@ add name="xlog-ru.tiktokv.com" address=0.0.0.0
 add name="xlog-va-useast2a.byteoversea.com" address=0.0.0.0
 add name="xlog-va-useast2a.tiktokv.com" address=0.0.0.0
 add name="xlog-va.byteoversea.com" address=0.0.0.0
+add name="xlog-va.capcutapi.com" address=0.0.0.0
 add name="xlog-va.tiktokv.com" address=0.0.0.0
 add name="xlog.byteoversea.com" address=0.0.0.0
+add name="xlog.capcutapi.us" address=0.0.0.0
 add name="xlog.snssdk.com" address=0.0.0.0
 add name="xlog.tiktokv.com" address=0.0.0.0
+add name="xlog.tiktokv.eu" address=0.0.0.0
 add name="xlog16-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="xlog16-normal-c-useast2a.tiktokv.com" address=0.0.0.0
+add name="xlog16-normal-ie.tiktokv.eu" address=0.0.0.0
+add name="xlog16-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="xlog16-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="xlog16-normal-useast8.tiktokv.us" address=0.0.0.0
 add name="xlog16-normal-useast8.us.tiktokv.com" address=0.0.0.0
+add name="xlog16-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="xlog16-platform-useast5.us.tiktokv.com" address=0.0.0.0
 add name="xlog16-platform-ycru.tiktokv.com" address=0.0.0.0
 add name="xlog16-tmp-normal-useast1a.tiktokv.com" address=0.0.0.0

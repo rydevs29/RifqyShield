@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-10-28 03:16:37
-# Total Domains: 24,273
+# Last Updated: 2026-10-29 03:41:30
+# Total Domains: 24,485
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -11,6 +11,7 @@
 0.0.0.0 0dgwn.bemobtrcks.com
 0.0.0.0 0el-preiswert-kaufen.de
 0.0.0.0 0hyzxx-rc.myshopify.com
+0.0.0.0 1-rx-shop.com
 0.0.0.0 101com.com
 0.0.0.0 101vectorcenter.sbs
 0.0.0.0 10xdealership.com
@@ -378,13 +379,22 @@
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad-drcn.media.dbankcloud.cn
 0.0.0.0 ad-drcn.media.dbankcloud.ru
+0.0.0.0 ad-format-i18n.tiktokv.com
+0.0.0.0 ad-format-ie.tiktokv.eu
+0.0.0.0 ad-format-ru.tiktokv.com
 0.0.0.0 ad-format-sg.tiktokv.com
 0.0.0.0 ad-format-ttp2.tiktokv.eu
+0.0.0.0 ad-format-ttp2.tiktokv.us
+0.0.0.0 ad-format-ttp2.us.tiktokv.com
+0.0.0.0 ad-format.tiktokv.eu
 0.0.0.0 ad-format.tiktokv.us
+0.0.0.0 ad-format.us.tiktokv.com
 0.0.0.0 ad-format16-normal-useastred.tiktokv.eu
 0.0.0.0 ad-growth-in.heytapmobile.com
 0.0.0.0 ad-growth-ru.heytapmobile.com
 0.0.0.0 ad-growth-sg.heytapmobile.com
+0.0.0.0 ad-instantpage-i18n.tiktokv.com
+0.0.0.0 ad-instantpage-ie.tiktokv.eu
 0.0.0.0 ad-instantpage-ru.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com
 0.0.0.0 ad-instantpage-sg.tiktokv.com.edgekey.net
@@ -393,10 +403,13 @@
 0.0.0.0 ad-instantpage-ttp2.tiktokv.eu.ttdns3.com
 0.0.0.0 ad-instantpage-ttp2.tiktokv.us
 0.0.0.0 ad-instantpage-ttp2.tiktokv.us.edgesuite.net
+0.0.0.0 ad-instantpage-ttp2.us.tiktokv.com
 0.0.0.0 ad-instantpage-va.tiktokv.com
+0.0.0.0 ad-instantpage.tiktokv.eu
 0.0.0.0 ad-instantpage.tiktokv.us
 0.0.0.0 ad-instantpage.tiktokv.us.edgesuite.net
 0.0.0.0 ad-instantpage.tiktokv.us.ttdns4.com
+0.0.0.0 ad-instantpage.us.tiktokv.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-property.com
 0.0.0.0 ad-rotator.com
@@ -467,6 +480,7 @@
 0.0.0.0 ad.technoratimedia.com
 0.0.0.0 ad.tiktok.tv
 0.0.0.0 ad.tiktokv.com
+0.0.0.0 ad.tiktokv.eu
 0.0.0.0 ad.tiktokv.us
 0.0.0.0 ad.toygzv.shop
 0.0.0.0 ad.turn.com
@@ -560,6 +574,7 @@
 0.0.0.0 adform.com
 0.0.0.0 adform.net
 0.0.0.0 adformdsp.net
+0.0.0.0 adfox.cam
 0.0.0.0 adhaven.com
 0.0.0.0 adhese.be
 0.0.0.0 adhese.com
@@ -614,6 +629,7 @@
 0.0.0.0 adl.gwrxbt.shop
 0.0.0.0 adl.iuvxvo.shop
 0.0.0.0 adl.jccjm.shop
+0.0.0.0 adl.jjkrn.shop
 0.0.0.0 adl.lreubk.shop
 0.0.0.0 adl.okhxm.shop
 0.0.0.0 adl.raodd.shop
@@ -743,9 +759,12 @@
 0.0.0.0 ads-sg.business-tiktok.com
 0.0.0.0 ads-sg.tiktok.com
 0.0.0.0 ads-ttp2.tiktokw.eu
+0.0.0.0 ads-ttp2.tiktokw.us
 0.0.0.0 ads-ttp2.us.tiktok.com
 0.0.0.0 ads-twitter.com
+0.0.0.0 ads-useast2a.tiktok.com
 0.0.0.0 ads-va.business-tiktok.com
+0.0.0.0 ads-va.tiktok.com
 0.0.0.0 ads.5ci.lt
 0.0.0.0 ads.73dpi.com
 0.0.0.0 ads.aavv.com
@@ -866,6 +885,7 @@
 0.0.0.0 ads.ign.com
 0.0.0.0 ads.imagistica.com
 0.0.0.0 ads.imgur.com
+0.0.0.0 ads.in.tiktok.com
 0.0.0.0 ads.independent.com.mt
 0.0.0.0 ads.infi.net
 0.0.0.0 ads.internic.co.il
@@ -1779,6 +1799,7 @@
 0.0.0.0 amuseliebedirndl.com
 0.0.0.0 amznreturnsale.com
 0.0.0.0 anabolic-steroids-online.com
+0.0.0.0 anaboliczni.pl
 0.0.0.0 anabolikaonlinebestellen.com
 0.0.0.0 anabolikaonlinedeutschland.com
 0.0.0.0 analyticg.com
@@ -1793,6 +1814,7 @@
 0.0.0.0 analytics-events.apple.com
 0.0.0.0 analytics-exp-i18n.tiktok.com
 0.0.0.0 analytics-exp-i18n.tiktok.com.edgekey.net
+0.0.0.0 analytics-exp-ie.tiktokw.eu
 0.0.0.0 analytics-exp-ru.tiktok.com
 0.0.0.0 analytics-exp-ru.tiktok.com.edgesuite.net
 0.0.0.0 analytics-exp-ru.tiktok.com.ttdns2.com
@@ -2326,6 +2348,7 @@
 0.0.0.0 asflnag.com
 0.0.0.0 asfmagtollshop.cyou
 0.0.0.0 asfnagvignette.sa.com
+0.0.0.0 asforstwirtschaft.at
 0.0.0.0 asfrnagi.beer
 0.0.0.0 asgeirpetursson.com
 0.0.0.0 ashbergh.com
@@ -2436,6 +2459,7 @@
 0.0.0.0 at.rattaay.com
 0.0.0.0 at.trabajo.org
 0.0.0.0 at.ultimate-gainz.com
+0.0.0.0 at.vbrcw.shop
 0.0.0.0 at1075.wedqc.shop
 0.0.0.0 at9.ketonaktiv.com
 0.0.0.0 atacadobras25.shop
@@ -3033,7 +3057,6 @@
 0.0.0.0 beachfront.com
 0.0.0.0 beachitem.com
 0.0.0.0 beachsissi.com
-0.0.0.0 beachwalkbali.com
 0.0.0.0 beacon.gu-web.net
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.shazam.com
@@ -3626,6 +3649,7 @@
 0.0.0.0 bj-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 bjbta.com
 0.0.0.0 bjmining.com
+0.0.0.0 bjsrecnd.shop
 0.0.0.0 bk-daten.de
 0.0.0.0 bkaffee.de
 0.0.0.0 bkmusicstore-de.com
@@ -3633,7 +3657,6 @@
 0.0.0.0 bl-group.net
 0.0.0.0 black-shepp-gastroservice.com
 0.0.0.0 blackcatstore.de
-0.0.0.0 blackfridaymegastore.com
 0.0.0.0 blackgurlzsmagickloset.com
 0.0.0.0 blacktridentpop.shop
 0.0.0.0 blacktridents.shop
@@ -3736,6 +3759,7 @@
 0.0.0.0 bmn-online.de
 0.0.0.0 bmpharmacy-official.com
 0.0.0.0 bmpharmacyofficial.com
+0.0.0.0 bmrbhf.shop
 0.0.0.0 bms-promaschinen.com
 0.0.0.0 bmw-bikertreff-bonsberg.de
 0.0.0.0 bmwmt2026online.com
@@ -4447,6 +4471,7 @@
 0.0.0.0 carriageglobal.com
 0.0.0.0 cars-boutique.de
 0.0.0.0 carsarace.com
+0.0.0.0 carsdetective.com
 0.0.0.0 carshades.at
 0.0.0.0 carstruckstoy.com
 0.0.0.0 carteloshop.com
@@ -4538,6 +4563,7 @@
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 ccftrading.com
 0.0.0.0 cci-immobilien.de
+0.0.0.0 ccmccontainermanagementgmbh.de
 0.0.0.0 ccmedia.news
 0.0.0.0 ccs-consulting.net
 0.0.0.0 ccwjl.com
@@ -5602,7 +5628,9 @@
 0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 cstat.g.aaplimg.com
 0.0.0.0 csunbox.com
+0.0.0.0 cterfilk.monster
 0.0.0.0 cthesky.com
+0.0.0.0 ctmfahrradwerkstatt.at
 0.0.0.0 ctoption.com
 0.0.0.0 ctxholdings.com
 0.0.0.0 cube-network.net
@@ -5765,6 +5793,7 @@
 0.0.0.0 daniel-grilling.com
 0.0.0.0 danielius-rogovas.com
 0.0.0.0 dankers-containers.de
+0.0.0.0 danksportstore.shop
 0.0.0.0 danmarkpotenspiller.com
 0.0.0.0 danmtyshop.com
 0.0.0.0 danneraustria.com
@@ -5958,6 +5987,7 @@
 0.0.0.0 debasketball.com
 0.0.0.0 debot-maschinen.de
 0.0.0.0 dec-visio-telemetry.officeapps.live.com
+0.0.0.0 decadays.store
 0.0.0.0 decantersale.com
 0.0.0.0 decarba-mann.de
 0.0.0.0 decarba.de
@@ -6374,6 +6404,7 @@
 0.0.0.0 dirtchurchradio.com
 0.0.0.0 disciplineh.com
 0.0.0.0 disciplinem.com
+0.0.0.0 discounntde.com
 0.0.0.0 discount-audio-equipment.com
 0.0.0.0 discount-baustoff.de
 0.0.0.0 discount-kobalt.com
@@ -6435,6 +6466,7 @@
 0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 dls-ddc.dqa.samsung.com
 0.0.0.0 dls-udc.dqa.samsung.com
+0.0.0.0 dls.di.atlas.samsung.com
 0.0.0.0 dls.di.runestone.samsung.com
 0.0.0.0 dlxn-mode.de
 0.0.0.0 dly-home.com
@@ -6870,6 +6902,7 @@
 0.0.0.0 ecoreichholz.com
 0.0.0.0 ecosilkroad.com
 0.0.0.0 ecoupons.com
+0.0.0.0 ecoworthytech.shop
 0.0.0.0 ecs-solutions.net
 0.0.0.0 ecstasy-baby.net
 0.0.0.0 ecxtrade.com
@@ -6926,6 +6959,7 @@
 0.0.0.0 eg-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 eg-info-lgsmartad-com.aws-prd.net
 0.0.0.0 egasoft-digital.com
+0.0.0.0 egbertplakolm.at
 0.0.0.0 eggelingen.de
 0.0.0.0 egoryspecies.com
 0.0.0.0 egscap.com
@@ -7232,6 +7266,7 @@
 0.0.0.0 enuvio.de
 0.0.0.0 enviousclothing.de
 0.0.0.0 enviousthread.com
+0.0.0.0 envisu-gmbh.com
 0.0.0.0 enzomartini.de
 0.0.0.0 enzomorelli.de
 0.0.0.0 eolatetuko.shop
@@ -7270,6 +7305,7 @@
 0.0.0.0 eqy.link
 0.0.0.0 erad-sport.de
 0.0.0.0 eradkultur.de
+0.0.0.0 eradobox.com
 0.0.0.0 eradsport.de
 0.0.0.0 eradstore.de
 0.0.0.0 erdbeerblase.de
@@ -7313,6 +7349,7 @@
 0.0.0.0 esfimeqss.cfd
 0.0.0.0 eshop.sintech.cn
 0.0.0.0 eshopkamagra.sk
+0.0.0.0 esighteyem.lol
 0.0.0.0 esn-eu.com
 0.0.0.0 esn-fitness.com
 0.0.0.0 esnoutleteur.com
@@ -7444,7 +7481,6 @@
 0.0.0.0 euro-modafinil.com
 0.0.0.0 euro-pharm24.com
 0.0.0.0 euro-pharma24x7.com
-0.0.0.0 euro-pill.com
 0.0.0.0 euro.stanleys1913.com
 0.0.0.0 euro2024tickets.de
 0.0.0.0 eurobitx.info
@@ -7497,6 +7533,7 @@
 0.0.0.0 euvendorshub.online
 0.0.0.0 euvitafarm.com
 0.0.0.0 ev-farm.com
+0.0.0.0 eva-zagreb.com
 0.0.0.0 evaam.de
 0.0.0.0 evadav.com
 0.0.0.0 evadavdsp.pro
@@ -7885,6 +7922,7 @@
 0.0.0.0 fastigeriptv.live
 0.0.0.0 fastly-insights.com
 0.0.0.0 fastmarket.store
+0.0.0.0 faszienfit.com
 0.0.0.0 faszinationholz-salzmann.de
 0.0.0.0 fatburner-guru.de
 0.0.0.0 fatburnerking.at
@@ -8000,6 +8038,7 @@
 0.0.0.0 festgeldsicher.at
 0.0.0.0 festivaldefrente.com
 0.0.0.0 festoolz.shop
+0.0.0.0 fetishmegastore.com
 0.0.0.0 fettabsaugung-in-koeln.de
 0.0.0.0 fettverbrenneronline.com
 0.0.0.0 feuchtigkeits.de
@@ -8099,6 +8138,7 @@
 0.0.0.0 findedstore.com
 0.0.0.0 finders-cafe.de
 0.0.0.0 findjobinde.com
+0.0.0.0 findssmogallery.shop
 0.0.0.0 findyourcasino.com
 0.0.0.0 fine-cycle.com
 0.0.0.0 fine-germa-furniture.com
@@ -8583,12 +8623,18 @@
 0.0.0.0 frohzeit.de
 0.0.0.0 frontaley.com
 0.0.0.0 frontier-i18n.tiktokv.com
+0.0.0.0 frontier-ie.tiktokv.eu
+0.0.0.0 frontier-my.byteoversea.com
+0.0.0.0 frontier-my.tiktokv.com
 0.0.0.0 frontier-my2.tiktokv.com
+0.0.0.0 frontier-phx.tiktokv.com
 0.0.0.0 frontier-ru.tiktokv.com
 0.0.0.0 frontier-ru.tiktokv.com.edgekey.net
 0.0.0.0 frontier-ttp2.tiktokv.us
 0.0.0.0 frontier-ttp2.tiktokv.us.edgesuite.net
+0.0.0.0 frontier-ttp2.us.tiktokv.com
 0.0.0.0 frontier-us-ttp2.capcutw.us
+0.0.0.0 frontier-va.byteoversea.com
 0.0.0.0 frontier-va.tiktokv.com
 0.0.0.0 frontier.byteoversea.com
 0.0.0.0 frontier.capcutw.us
@@ -8597,18 +8643,34 @@
 0.0.0.0 frontier.tiktokv-eu.com.edgesuite.net
 0.0.0.0 frontier.tiktokv-eu.com.ttdns3.com
 0.0.0.0 frontier.tiktokv.com
+0.0.0.0 frontier.tiktokv.eu
 0.0.0.0 frontier.tiktokv.us
 0.0.0.0 frontier.tiktokv.us.edgesuite.net
 0.0.0.0 frontier.us.capcut.com
+0.0.0.0 frontier.us.tiktokv.com
 0.0.0.0 frontier100-normal-alisg.tiktokv.com
 0.0.0.0 frontier100-normal-useast1a.tiktokv.com
+0.0.0.0 frontier15-normal-alisg.tiktokv.com
+0.0.0.0 frontier15-normal-useast1a.tiktokv.com
+0.0.0.0 frontier15-normal-useast2a.tiktokv.com
+0.0.0.0 frontier16-normal-alisg.tiktokv.com
 0.0.0.0 frontier16-normal-no1a.tiktokv.eu
 0.0.0.0 frontier16-normal-no1a.tiktokv.eu.edgesuite.net
+0.0.0.0 frontier16-normal-useast1a.tiktokv.com
+0.0.0.0 frontier16-normal-useast2a.tiktokv.com
 0.0.0.0 frontier16-normal-useastred.tiktokv.eu
 0.0.0.0 frontier16-normal-useastred.tiktokv.eu.edgesuite.net
+0.0.0.0 frontier22-normal-alisg.tiktokv.com
+0.0.0.0 frontier22-normal-useast1a.tiktokv.com
+0.0.0.0 frontier22-normal-useast2a.tiktokv.com
 0.0.0.0 frontier23-normal-alisg.tiktokv.com
 0.0.0.0 frontier23-normal-alisg.tiktokv.com.bpgslb.com
 0.0.0.0 frontier23-normal-useast1a.tiktokv.com
+0.0.0.0 frontier23-normal-useast2a.tiktokv.eu
+0.0.0.0 frontier32-normal-alisg.tiktokv.com
+0.0.0.0 frontier32-normal-ie.tiktokv.eu
+0.0.0.0 frontier32-normal-useast1a.tiktokv.com
+0.0.0.0 frontier32-normal-useast2a.tiktokv.com
 0.0.0.0 fronttoad.com
 0.0.0.0 frtyj.com
 0.0.0.0 frtyk.com
@@ -8886,6 +8948,7 @@
 0.0.0.0 gartenkompass.com
 0.0.0.0 gartenkreuzfahrt.de
 0.0.0.0 gartenland-martens.de
+0.0.0.0 gartenluxus.com
 0.0.0.0 gartenly.shop
 0.0.0.0 gartenmachtshop.de
 0.0.0.0 gartenmaeher.com
@@ -8940,6 +9003,7 @@
 0.0.0.0 gas-ertrag.app
 0.0.0.0 gas-heizung-wasser.at
 0.0.0.0 gas-thermen-zentrum.at
+0.0.0.0 gasflaschensale.com
 0.0.0.0 gasglow.de
 0.0.0.0 gashelbywatch.com
 0.0.0.0 gasman-installateur.at
@@ -9215,6 +9279,7 @@
 0.0.0.0 giesswein.cz
 0.0.0.0 giesswein.ro
 0.0.0.0 giessweinca.com
+0.0.0.0 giessweinhouse.shop
 0.0.0.0 giessweins.es
 0.0.0.0 giessweins.it
 0.0.0.0 giessweinschuhe.com
@@ -9301,6 +9366,7 @@
 0.0.0.0 globalmetal.fr
 0.0.0.0 globalpartners-ltd.com
 0.0.0.0 globalpharmacystore.com
+0.0.0.0 globalsmokehub.com
 0.0.0.0 globaltradeforex.com
 0.0.0.0 globaltradeoption.online
 0.0.0.0 globalvideo.cdn.pandora.intl.xiaomi.com
@@ -9504,8 +9570,10 @@
 0.0.0.0 gpautoshopimport.com
 0.0.0.0 gplate.de
 0.0.0.0 gplog-sg.byteoversea.com
+0.0.0.0 gplog-sg.capcutapi.com
 0.0.0.0 gplog-va-useast2a.byteoversea.com
 0.0.0.0 gplog-va.byteoversea.com
+0.0.0.0 gplog-va.capcutapi.com
 0.0.0.0 gpm-mon-sg.byteoversea.com
 0.0.0.0 gpm-mon-va-useast1a.byteoversea.com
 0.0.0.0 gpm-mon-va-useast2a.byteoversea.com
@@ -9598,6 +9666,7 @@
 0.0.0.0 griw.xyz
 0.0.0.0 grizzlyroids.shop
 0.0.0.0 grkwork.com
+0.0.0.0 grondberg.de
 0.0.0.0 groomifypetsstore.com
 0.0.0.0 groovespacing.com
 0.0.0.0 grosshandelwebservice.de
@@ -9824,6 +9893,7 @@
 0.0.0.0 halloweenwelt.com
 0.0.0.0 halluxfit.de
 0.0.0.0 hallwaychair-shop.com
+0.0.0.0 halmheld.com
 0.0.0.0 halocolor.com
 0.0.0.0 halooffers.com
 0.0.0.0 halseband-technik.de
@@ -9899,6 +9969,7 @@
 0.0.0.0 hans-fahrradhaus.de
 0.0.0.0 hansacontainergmbh.de
 0.0.0.0 hansatraileranhanger-de.com
+0.0.0.0 hanseatischercontainerservicegmbh.de
 0.0.0.0 hansen-mode.com
 0.0.0.0 hansholzmotor.de
 0.0.0.0 hansrasenmaher.com
@@ -9925,6 +9996,7 @@
 0.0.0.0 har6lowr7idge6.com
 0.0.0.0 harderex.com
 0.0.0.0 hardloverz.com
+0.0.0.0 hardmeierversand.ch
 0.0.0.0 hardwarecables.com
 0.0.0.0 hardwarenational.com
 0.0.0.0 hardwarewelt.com
@@ -9940,6 +10012,7 @@
 0.0.0.0 harmtonyambientehot.com
 0.0.0.0 harper-berlin.com
 0.0.0.0 harpercollins.shop
+0.0.0.0 harrass-kollegen.de
 0.0.0.0 harrenmedia.com
 0.0.0.0 harrenmedianetwork.com
 0.0.0.0 hartholz-briketts.de
@@ -10500,6 +10573,7 @@
 0.0.0.0 holzgutexpress.de
 0.0.0.0 holzhack-schnitzel.de
 0.0.0.0 holzhambach.com
+0.0.0.0 holzhandel-bauer.com
 0.0.0.0 holzhandelhensel.com
 0.0.0.0 holzhausenug.de
 0.0.0.0 holzheiz.com
@@ -11613,6 +11687,7 @@
 0.0.0.0 joyaschoenen.com
 0.0.0.0 joyaschuhedeutschland.com
 0.0.0.0 joycap.net
+0.0.0.0 joykaff-espresso.de
 0.0.0.0 joyoussurprise.com
 0.0.0.0 joyshoetique.com
 0.0.0.0 joystar.top
@@ -11684,6 +11759,7 @@
 0.0.0.0 justvanilla.de
 0.0.0.0 justwowjars.com
 0.0.0.0 juvenda.de
+0.0.0.0 juwelier-keller.com
 0.0.0.0 juwelierkunst.de
 0.0.0.0 jwhulmeshop.com
 0.0.0.0 jyaashop.com
@@ -11737,6 +11813,7 @@
 0.0.0.0 kaffeemaschinebillig.com
 0.0.0.0 kaffeemech.myshopify.com
 0.0.0.0 kaffeerose.de
+0.0.0.0 kaffeesieb.com
 0.0.0.0 kaffeesnackbar.com
 0.0.0.0 kaffeetassendruckerei.de
 0.0.0.0 kaffeetime.de
@@ -12005,10 +12082,12 @@
 0.0.0.0 kernvogel.com
 0.0.0.0 kersten-maschinenvertriebs-gmbh.de
 0.0.0.0 kerzendose.com
+0.0.0.0 kesten.shop
 0.0.0.0 keterhanova.myshopify.com
 0.0.0.0 kettenblattverkaufe.com
 0.0.0.0 kettenkonzept.de
 0.0.0.0 kettensage.de
+0.0.0.0 kettenschein.com
 0.0.0.0 ketteverkauf.com
 0.0.0.0 keucoverkauf.com
 0.0.0.0 kevtt.com
@@ -12393,6 +12472,7 @@
 0.0.0.0 kuhschelhof.de
 0.0.0.0 kuk-kaffee.de
 0.0.0.0 kukirins.co.at
+0.0.0.0 kuksawiar.com
 0.0.0.0 kulako.com
 0.0.0.0 kulbit.lv
 0.0.0.0 kumarkt.de.com
@@ -12427,6 +12507,7 @@
 0.0.0.0 kurvea.com
 0.0.0.0 kurzurlaub-deal.de
 0.0.0.0 kuscheltiereteddys.com
+0.0.0.0 kuskwer.shop
 0.0.0.0 kuyun.com
 0.0.0.0 kvicco.com
 0.0.0.0 kvp0fw-hi.myshopify.com
@@ -13002,6 +13083,11 @@
 0.0.0.0 livaxxen.com
 0.0.0.0 live-events.ono.axp.amazon-adsystem.com
 0.0.0.0 live-video-log16-normal-alisg.tiktokv.com
+0.0.0.0 live-video-log16-normal-useast1a.tiktokv.com
+0.0.0.0 live-video-log16-normal-useast2a.tiktokv.com
+0.0.0.0 live-video-log16-normal-useast2a.tiktokv.eu
+0.0.0.0 live-video-log16-normal-useast5.tiktokv.us
+0.0.0.0 live-video-log16-normal-useastred.tiktokv.eu
 0.0.0.0 live.miphone.pandora.xiaomi.com
 0.0.0.0 live.trmzum.com
 0.0.0.0 liveadexchanger.com
@@ -13059,10 +13145,14 @@
 0.0.0.0 localgermany.de
 0.0.0.0 locateanyphone.net
 0.0.0.0 location-i18n.tiktokv.com
+0.0.0.0 location-ie.tiktokv.eu
 0.0.0.0 location-microsoft-com.b-0005.b-msedge.net
 0.0.0.0 location-ru.tiktokv.com
 0.0.0.0 location-sg.tiktokv.com
 0.0.0.0 location-ttp2.tiktokv.eu
+0.0.0.0 location-ttp2.tiktokv.us
+0.0.0.0 location-ttp2.tiktokw.eu
+0.0.0.0 location-ttp2.tiktokw.us
 0.0.0.0 location-ttp2.us.tiktokv.com
 0.0.0.0 location-v6-i18n.tiktokv.com
 0.0.0.0 location-v6-ru.tiktokv.com
@@ -13071,17 +13161,21 @@
 0.0.0.0 location-v6-ttp2.tiktokv.us
 0.0.0.0 location-v6-va.tiktokv.com
 0.0.0.0 location-v6.tiktokv.com
+0.0.0.0 location-v6.tiktokv.eu
 0.0.0.0 location-v6.tiktokv.us
 0.0.0.0 location-va.tiktokv.com
+0.0.0.0 location.capcutapi.us
 0.0.0.0 location.live.net
 0.0.0.0 location.microsoft.com
 0.0.0.0 location.tiktok.com
 0.0.0.0 location.tiktokv.com
 0.0.0.0 location.tiktokv.eu
 0.0.0.0 location.tiktokv.us
+0.0.0.0 location.tiktokw.eu
 0.0.0.0 location.tiktokw.us
 0.0.0.0 location.us.tiktokv.com
 0.0.0.0 location16-normal-useastred.tiktokv.eu
+0.0.0.0 location16-normal-useastred.tiktokw.eu
 0.0.0.0 locationconseilsfinanciers.fr
 0.0.0.0 locations.crocs.de
 0.0.0.0 locationv16-normal-useastred.tiktokv.eu
@@ -13105,6 +13199,8 @@
 0.0.0.0 log-boot.capcutapi.com
 0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-dr.tiktokv.com
+0.0.0.0 log-dr.tiktokv.eu
+0.0.0.0 log-dr.tiktokv.us
 0.0.0.0 log-dr16-normal-no1a.tiktokv.eu
 0.0.0.0 log-dr16-normal-useast1a.tiktokv.com
 0.0.0.0 log-dr16-normal-useast5.tiktokv.us
@@ -13128,14 +13224,17 @@
 0.0.0.0 log-tiktok.byteoversea.net
 0.0.0.0 log-v2-boot.capcutapi.com
 0.0.0.0 log-va-useast2a.tiktokv.com
+0.0.0.0 log-va.capcutapi.com
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.byteoversea.com
+0.0.0.0 log.capcutapi.us
 0.0.0.0 log.logrocket.io
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.pt.xiaomi.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.tiktokv.com
+0.0.0.0 log.tiktokv.eu
 0.0.0.0 log.tiktokv.us
 0.0.0.0 log.us.tiktokv.com
 0.0.0.0 log.videocampaign.co
@@ -13149,6 +13248,7 @@
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com
 0.0.0.0 log16-normal-delay-alisg.tiktokv.com
+0.0.0.0 log16-normal-ie.tiktokv.eu
 0.0.0.0 log16-normal-ind.tiktokv.com
 0.0.0.0 log16-normal-no1a.tiktokv.eu
 0.0.0.0 log16-normal-sg.capcutapi.com
@@ -13159,7 +13259,9 @@
 0.0.0.0 log16-normal-useast8.tiktokv.us
 0.0.0.0 log16-normal-useast8.us.tiktokv.com
 0.0.0.0 log16-normal-useastred.tiktokv.eu
+0.0.0.0 log16-normal-zr-alisg.tiktokv.com
 0.0.0.0 log16-normal-zr-useast1a.tiktokv.com
+0.0.0.0 log16-normal-zr.tiktokv.com
 0.0.0.0 log16-normal.capcutapi.com
 0.0.0.0 log16-normal.tiktokv.com
 0.0.0.0 log16-platform-ycru.tiktokv.com
@@ -13173,22 +13275,37 @@
 0.0.0.0 log19-applog-useast2a.tiktokv.com
 0.0.0.0 log19-applog-useast5.us.tiktokv.com
 0.0.0.0 log19-normal-alisg.tiktokv.com
+0.0.0.0 log19-normal-no1a.tiktokv.eu
 0.0.0.0 log19-normal-useast1a.tiktokv.com
 0.0.0.0 log19-normal-useast2a.tiktokv.com
+0.0.0.0 log19-normal-useast5.tiktokv.us
+0.0.0.0 log19-normal-useast8.tiktokv.us
+0.0.0.0 log19-normal-zr-alisg.tiktokv.com
+0.0.0.0 log19-normal-zr-useast1a.tiktokv.com
+0.0.0.0 log19-normal-zr.tiktokv.com
 0.0.0.0 log19-normal.tiktokv.com
 0.0.0.0 log22-applog-useast1a.tiktokv.com
 0.0.0.0 log22-applog-useast2a.tiktokv.com
 0.0.0.0 log22-normal-alisg.tiktokv.com
 0.0.0.0 log22-normal-useast1a.tiktokv.com
 0.0.0.0 log22-normal-useast2a.tiktokv.com
+0.0.0.0 log22-normal-zr-alisg.tiktokv.com
+0.0.0.0 log22-normal-zr-useast1a.tiktokv.com
+0.0.0.0 log22-normal-zr.tiktokv.com
+0.0.0.0 log22-normal.capcutapi.com
 0.0.0.0 log22-normal.tiktokv.com
 0.0.0.0 log3-normal-c-alisg.tiktokv.com
 0.0.0.0 log3-normal-c-useast1a.tiktokv.com
 0.0.0.0 log31-normal-alisg.tiktokv.com
 0.0.0.0 log31-normal-no1a.tiktokv.eu
+0.0.0.0 log31-normal-sg.capcutapi.com
 0.0.0.0 log31-normal-useast1a.tiktokv.com
 0.0.0.0 log31-normal-useast2a.tiktokv.com
 0.0.0.0 log31-normal-useastred.tiktokv.eu
+0.0.0.0 log31-normal-zr-alisg.tiktokv.com
+0.0.0.0 log31-normal-zr-useast1a.tiktokv.com
+0.0.0.0 log31-normal-zr.tiktokv.com
+0.0.0.0 log31-normal.capcutapi.com
 0.0.0.0 log31-normal.tiktokv.com
 0.0.0.0 log32-normal-alisg.tiktokv.com
 0.0.0.0 log32-normal-no1a.tiktokv.eu
@@ -13196,6 +13313,8 @@
 0.0.0.0 log32-normal-useast1a.tiktokv.com
 0.0.0.0 log32-normal-useast2a.tiktokv.com
 0.0.0.0 log32-normal-useastred.tiktokv.eu
+0.0.0.0 log32-normal-zr-alisg.tiktokv.com
+0.0.0.0 log32-normal-zr-useast1a.tiktokv.com
 0.0.0.0 log32-normal-zr.tiktokv.com
 0.0.0.0 log32-normal.capcutapi.com
 0.0.0.0 log32-normal.tiktokv.com
@@ -13601,6 +13720,7 @@
 0.0.0.0 main-btc.com
 0.0.0.0 main-garten.at
 0.0.0.0 main-mokassin.de
+0.0.0.0 mainecoonkatzenzucht.de
 0.0.0.0 mainet.business
 0.0.0.0 maintainel.com
 0.0.0.0 maintenanceh.com
@@ -13633,6 +13753,7 @@
 0.0.0.0 malergeschaft.com
 0.0.0.0 maliva-mcs-useast2a.byteoversea.com
 0.0.0.0 maliva-mcs.byteoversea.com
+0.0.0.0 maliva-mcs.capcutapi.com
 0.0.0.0 mall.galeridora.com
 0.0.0.0 mall.gresholm.com
 0.0.0.0 mallezeit.de
@@ -14231,6 +14352,7 @@
 0.0.0.0 meinradladen.com
 0.0.0.0 meinrechneronline.de
 0.0.0.0 meinsmartshop.com
+0.0.0.0 meintechmarkt.com
 0.0.0.0 meintechnik.de
 0.0.0.0 meintherapiedecken.de
 0.0.0.0 meinwarenhaus.com
@@ -14762,6 +14884,7 @@
 0.0.0.0 moebelmaerki-mtb.ch
 0.0.0.0 moebelonline24.com
 0.0.0.0 moebelpacker-wien.at
+0.0.0.0 moebelpfad.com
 0.0.0.0 moebelquelle.com
 0.0.0.0 moebelstil.com
 0.0.0.0 moebeltrumpf.de
@@ -14842,6 +14965,7 @@
 0.0.0.0 mon16-normal-alisg.tiktokv.com
 0.0.0.0 mon16-normal-c-useast1a.tiktokv.com
 0.0.0.0 mon16-normal-c-useast2a.tiktokv.com
+0.0.0.0 mon16-normal-ie.tiktokv.eu
 0.0.0.0 mon16-normal-no1a.tiktokv.eu
 0.0.0.0 mon16-normal-sg.capcutapi.com
 0.0.0.0 mon16-normal-sg.capcutapi.com.edgesuite.net
@@ -14854,27 +14978,40 @@
 0.0.0.0 mon16-normal-useast8.tiktokv.us
 0.0.0.0 mon16-normal-useast8.us.tiktokv.com
 0.0.0.0 mon16-normal-useastred.tiktokv.eu
+0.0.0.0 mon16-normal-zr-alisg.tiktokv.com
 0.0.0.0 mon16-normal-zr-useast1a.tiktokv.com
+0.0.0.0 mon16-normal.capcutapi.com
 0.0.0.0 mon16-normal.tiktokv.com
 0.0.0.0 mon16-platform-useast5.us.tiktokv.com
 0.0.0.0 mon16-platform-ycru.tiktokv.com
 0.0.0.0 mon16-tmp-normal-useast1a.tiktokv.com
 0.0.0.0 mon19-normal-alisg.tiktokv.com
 0.0.0.0 mon19-normal-useast1a.tiktokv.com
+0.0.0.0 mon19-normal-zr-alisg.tiktokv.com
+0.0.0.0 mon19-normal-zr-useast1a.tiktokv.com
 0.0.0.0 mon19-normal.tiktokv.com
 0.0.0.0 mon22-normal-alisg.tiktokv.com
 0.0.0.0 mon22-normal-useast1a.tiktokv.com
+0.0.0.0 mon22-normal-zr-alisg.tiktokv.com
+0.0.0.0 mon22-normal-zr-useast1a.tiktokv.com
 0.0.0.0 mon22-normal.tiktokv.com
 0.0.0.0 mon31-normal-alisg.tiktokv.com
 0.0.0.0 mon31-normal-no1a.tiktokv.eu
+0.0.0.0 mon31-normal-sg.capcutapi.com
 0.0.0.0 mon31-normal-useast1a.tiktokv.com
 0.0.0.0 mon31-normal-useastred.tiktokv.eu
+0.0.0.0 mon31-normal-zr-alisg.tiktokv.com
+0.0.0.0 mon31-normal-zr-useast1a.tiktokv.com
+0.0.0.0 mon31-normal.capcutapi.com
 0.0.0.0 mon31-normal.tiktokv.com
 0.0.0.0 mon32-normal-alisg.tiktokv.com
 0.0.0.0 mon32-normal-no1a.tiktokv.eu
 0.0.0.0 mon32-normal-sg.capcutapi.com
 0.0.0.0 mon32-normal-useast1a.tiktokv.com
 0.0.0.0 mon32-normal-useastred.tiktokv.eu
+0.0.0.0 mon32-normal-zr-alisg.tiktokv.com
+0.0.0.0 mon32-normal-zr-useast1a.tiktokv.com
+0.0.0.0 mon32-normal.capcutapi.com
 0.0.0.0 mon32-normal.tiktokv.com
 0.0.0.0 monarchads.com
 0.0.0.0 monatrade.com
@@ -15176,6 +15313,7 @@
 0.0.0.0 mupishop.de
 0.0.0.0 mur-shop.com
 0.0.0.0 museopradotickets.com
+0.0.0.0 musgex.com
 0.0.0.0 mushroomgods.com
 0.0.0.0 musicalvortex.com
 0.0.0.0 musicgearfashion.com
@@ -15198,6 +15336,7 @@
 0.0.0.0 musikstrings.com
 0.0.0.0 musikwelt-lindner.de
 0.0.0.0 musiqueonline.com
+0.0.0.0 muskangaming.com
 0.0.0.0 muskanonline.com
 0.0.0.0 mustang-parts-shop.de
 0.0.0.0 muteknife.com
@@ -15807,6 +15946,7 @@
 0.0.0.0 novele.de
 0.0.0.0 novem.pl
 0.0.0.0 novendo.shop
+0.0.0.0 noventaway.com
 0.0.0.0 noveraxcapital.com
 0.0.0.0 novermessen.de
 0.0.0.0 novestas.de
@@ -16634,6 +16774,7 @@
 0.0.0.0 p16-ttam-va.ibyteimg.com
 0.0.0.0 p16-ttam-va.tiktokcdn.com
 0.0.0.0 p16-ttam.tiktokcdn-us.com
+0.0.0.0 p19-tiktok-ads-sg.tiktokcdn.com
 0.0.0.0 p19-ttam-sg.ibyteimg.com
 0.0.0.0 p19-ttam-va.ibyteimg.com
 0.0.0.0 p19-ttam-va.tiktokcdn.com
@@ -16750,6 +16891,7 @@
 0.0.0.0 patrimoine-partenaires.com
 0.0.0.0 patrioticy.com
 0.0.0.0 paul-joses.de
+0.0.0.0 paula-zagreb.com
 0.0.0.0 paulgreenosterreich.com
 0.0.0.0 paulgreensale.com
 0.0.0.0 paulinacasmur.com
@@ -16786,6 +16928,7 @@
 0.0.0.0 pc-mon-v2-boot.capcutapi.com.edgesuite.net
 0.0.0.0 pc-mon-v2-boot.capcutapi.com.ttdns2.com
 0.0.0.0 pc-mon-va.byteoversea.com
+0.0.0.0 pc-mon-va.capcutapi.com
 0.0.0.0 pc-mon.snssdk.com
 0.0.0.0 pc-mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
@@ -16943,6 +17086,7 @@
 0.0.0.0 pflanzenoeldiesel.de
 0.0.0.0 pflanzenshop-de.com
 0.0.0.0 pflanzensoftware.de
+0.0.0.0 pflanzenwelt24.com
 0.0.0.0 pflegedienste-marktoberdorf.de
 0.0.0.0 pflegedienstrechner.de
 0.0.0.0 pflegemeisterei.de
@@ -16950,6 +17094,7 @@
 0.0.0.0 pflegeschonheit.com
 0.0.0.0 pforp.net
 0.0.0.0 pfotegws.de
+0.0.0.0 pfotendepot.com
 0.0.0.0 pfotengarten.de
 0.0.0.0 pfotenkomfort.com
 0.0.0.0 pfotentrend.com
@@ -17171,7 +17316,6 @@
 0.0.0.0 platform.ap-capital-lim.com
 0.0.0.0 platform.invesco-trading.com
 0.0.0.0 platform.softwarecrownex.com
-0.0.0.0 platincoin.com
 0.0.0.0 platinwerk.de
 0.0.0.0 platten24.com
 0.0.0.0 platzimgarten.com
@@ -17266,6 +17410,7 @@
 0.0.0.0 polene-shop.com
 0.0.0.0 polene.at
 0.0.0.0 polene.co.at
+0.0.0.0 poleneat.cc
 0.0.0.0 polenegermany.de
 0.0.0.0 poleneoutlet.de
 0.0.0.0 poleneparis.at
@@ -18081,6 +18226,7 @@
 0.0.0.0 rechtsanwalt-breithaupt.de
 0.0.0.0 rechtsanwalt-sirrenberg.de
 0.0.0.0 rechtsanwalt-wiegmann.de
+0.0.0.0 rechtsanwaltkramer.de
 0.0.0.0 rechtskanzlei-karls.de
 0.0.0.0 rechtund-gesetz.com
 0.0.0.0 recognitioy.com
@@ -18482,6 +18628,7 @@
 0.0.0.0 rohdeschuhewerksverkauf.com
 0.0.0.0 rohn-shop.com
 0.0.0.0 rohoelzuender.de
+0.0.0.0 rohrerfahrrad.at
 0.0.0.0 rohrreinigung-rothschild.de
 0.0.0.0 rohrreinigungshilfe.at
 0.0.0.0 rohrsanierungen24.de
@@ -18605,12 +18752,15 @@
 0.0.0.0 rtbpop.com
 0.0.0.0 rtc-logger-i18n.tiktokv.com
 0.0.0.0 rtc-logger-ie.tiktokv.eu
+0.0.0.0 rtc-logger-ttp2.tiktokv.eu
 0.0.0.0 rtc-logger-ttp2.tiktokv.us
 0.0.0.0 rtc-logger-ttp2.us.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
 0.0.0.0 rtc-logger.tiktokv.com
+0.0.0.0 rtc-logger.tiktokv.eu
 0.0.0.0 rtc-logger.tiktokv.us
 0.0.0.0 rtc-logger.us.tiktokv.com
+0.0.0.0 rtc-logger16-normal-alisg.tiktokv.com
 0.0.0.0 rtc-logger16-normal-useastred.tiktokv.eu
 0.0.0.0 rtieej.buzz
 0.0.0.0 rtlog-i18n.tiktokv.com
@@ -18620,6 +18770,7 @@
 0.0.0.0 rtlog-va.tiktokv.com
 0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 rtlog.tiktokv.eu
 0.0.0.0 rtlog.us.tiktokv.com
 0.0.0.0 rtlog15-normal-alisg.tiktokv.com
 0.0.0.0 rtlog15-normal-useast1a.tiktokv.com
@@ -18629,6 +18780,7 @@
 0.0.0.0 rtlog16-applog-useast2a.tiktokv.com
 0.0.0.0 rtlog16-applog-useast5.us.tiktokv.com
 0.0.0.0 rtlog16-normal-alisg.tiktokv.com
+0.0.0.0 rtlog16-normal-ie.tiktokv.eu
 0.0.0.0 rtlog16-normal-ind.tiktokv.com
 0.0.0.0 rtlog16-normal-no1a.tiktokv.eu
 0.0.0.0 rtlog16-normal-useast1a.tiktokv.com
@@ -18637,6 +18789,9 @@
 0.0.0.0 rtlog16-normal-useast8.tiktokv.us
 0.0.0.0 rtlog16-normal-useast8.us.tiktokv.com
 0.0.0.0 rtlog16-normal-useastred.tiktokv.eu
+0.0.0.0 rtlog16-normal-zr-alisg.tiktokv.com
+0.0.0.0 rtlog16-normal-zr-useast1a.tiktokv.com
+0.0.0.0 rtlog16-normal-zr.tiktokv.com
 0.0.0.0 rtlog16-normal.tiktokv.com
 0.0.0.0 rtlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 rtlog16-tmp-normal-useast1a.tiktokv.com
@@ -18648,9 +18803,14 @@
 0.0.0.0 rtlog19-applog-useast2a.tiktokv.com
 0.0.0.0 rtlog19-applog-useast5.us.tiktokv.com
 0.0.0.0 rtlog19-normal-alisg.tiktokv.com
+0.0.0.0 rtlog19-normal-no1a.tiktokv.eu
 0.0.0.0 rtlog19-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog19-normal-useast2a.tiktokv.com
+0.0.0.0 rtlog19-normal-useast5.tiktokv.us
+0.0.0.0 rtlog19-normal-useast8.tiktokv.us
+0.0.0.0 rtlog19-normal-zr-alisg.tiktokv.com
 0.0.0.0 rtlog19-normal-zr-useast1a.tiktokv.com
+0.0.0.0 rtlog19-normal-zr.tiktokv.com
 0.0.0.0 rtlog19-normal.tiktokv.com
 0.0.0.0 rtlog19-platform-useast5.us.tiktokv.com
 0.0.0.0 rtlog22-applog-useast1a.tiktokv.com
@@ -18658,13 +18818,27 @@
 0.0.0.0 rtlog22-normal-alisg.tiktokv.com
 0.0.0.0 rtlog22-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog22-normal-useast2a.tiktokv.com
+0.0.0.0 rtlog22-normal-zr-alisg.tiktokv.com
+0.0.0.0 rtlog22-normal-zr-useast1a.tiktokv.com
+0.0.0.0 rtlog22-normal-zr.tiktokv.com
 0.0.0.0 rtlog22-normal.tiktokv.com
 0.0.0.0 rtlog31-normal-alisg.tiktokv.com
+0.0.0.0 rtlog31-normal-no1a.tiktokv.eu
 0.0.0.0 rtlog31-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog31-normal-useast2a.tiktokv.com
+0.0.0.0 rtlog31-normal-useastred.tiktokv.eu
+0.0.0.0 rtlog31-normal-zr-alisg.tiktokv.com
+0.0.0.0 rtlog31-normal-zr-useast1a.tiktokv.com
+0.0.0.0 rtlog31-normal-zr.tiktokv.com
 0.0.0.0 rtlog31-normal.tiktokv.com
 0.0.0.0 rtlog32-normal-alisg.tiktokv.com
+0.0.0.0 rtlog32-normal-no1a.tiktokv.eu
+0.0.0.0 rtlog32-normal-useast2a.tiktokv.eu
+0.0.0.0 rtlog32-normal-useastred.tiktokv.eu
+0.0.0.0 rtlog32-normal-zr-alisg.tiktokv.com
+0.0.0.0 rtlog32-normal-zr-useast1a.tiktokv.com
 0.0.0.0 rtlog32-normal-zr.tiktokv.com
+0.0.0.0 rtlog32-normal.tiktokv.com
 0.0.0.0 rtlog58-normal-alisg.tiktokv.com
 0.0.0.0 rtlog58-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog58-normal-useast2a.tiktokv.com
@@ -18775,7 +18949,6 @@
 0.0.0.0 rx-pharma.net
 0.0.0.0 rx-pharmacies.com
 0.0.0.0 rx-qualityshop.com
-0.0.0.0 rx-true.com
 0.0.0.0 rx247rx.com
 0.0.0.0 rxapothekefursie.com
 0.0.0.0 rxappfree.com
@@ -18885,6 +19058,7 @@
 0.0.0.0 saleworkshopequip.com
 0.0.0.0 salexen.de
 0.0.0.0 salfas.com
+0.0.0.0 salin-home.com
 0.0.0.0 sallasboutique.com
 0.0.0.0 salmingchile.com
 0.0.0.0 salmingslovenija.com
@@ -19278,6 +19452,11 @@
 0.0.0.0 sdk-transport.com
 0.0.0.0 sdk.51.la
 0.0.0.0 sdk.ptqy.gitv.tv
+0.0.0.0 sdkconfig.eu.xiaomi.com
+0.0.0.0 sdkconfig.india.xiaomi.com
+0.0.0.0 sdkconfig.intl.xiaomi.com
+0.0.0.0 sdkconfig.rus.xiaomi.com
+0.0.0.0 sdkconfig.xiaomi.com
 0.0.0.0 se-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 se-info-lgsmartad-com.aws-prd.net
 0.0.0.0 se-rdx2-lgtvsdp-com.aws-prd.net
@@ -19351,6 +19530,7 @@
 0.0.0.0 seifertundstil.de
 0.0.0.0 seigneurin.fr
 0.0.0.0 seiko-mod.de
+0.0.0.0 seikouhr.co.at
 0.0.0.0 seikouhr.de
 0.0.0.0 seilzu.com
 0.0.0.0 seizoensmode.nl
@@ -19438,6 +19618,11 @@
 0.0.0.0 sezaneclothingshop.sa.com
 0.0.0.0 sf16-ads-format-sign.tiktokcdn.com
 0.0.0.0 sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
+0.0.0.0 sf16-short-gcp.bytedapm.com
+0.0.0.0 sf16-short-sg.bytedapm.com
+0.0.0.0 sf16-short-sg.bytedapm.com.edgesuite.net
+0.0.0.0 sf16-short-va.bytedapm.com
+0.0.0.0 sf16-short-va.bytedapm.com.edgesuite.net
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net
 0.0.0.0 sf19-ads-format-sign.tiktokcdn.com
@@ -19938,6 +20123,7 @@
 0.0.0.0 snapposh.com
 0.0.0.0 snazzypoodle.com
 0.0.0.0 sneakerfee.com
+0.0.0.0 sneakerly.de
 0.0.0.0 sneakers-metzingen.de
 0.0.0.0 sneakers4you.eu
 0.0.0.0 sneakersgermanyonline.com
@@ -20093,6 +20279,7 @@
 0.0.0.0 sonar.prime-video.amazon.dev
 0.0.0.0 sonaxverkauf.com
 0.0.0.0 sonetiacrcb.shop
+0.0.0.0 soniazagreb.com
 0.0.0.0 sonnenheld.at
 0.0.0.0 sonnenlit.de
 0.0.0.0 sonnensparo.com
@@ -20110,6 +20297,7 @@
 0.0.0.0 sophiaberlin.de
 0.0.0.0 sophieweberr.com
 0.0.0.0 soppdobuy.com
+0.0.0.0 soprogi.com
 0.0.0.0 soraionline.com
 0.0.0.0 sorbas-grill.de
 0.0.0.0 sorbery.com
@@ -20395,6 +20583,7 @@
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 st.pubmatic.com
 0.0.0.0 stabileersatzteile.com
+0.0.0.0 stabilosanitar.com
 0.0.0.0 stabletrader-ai.net
 0.0.0.0 stack-sonar.com
 0.0.0.0 stackadapt.com
@@ -20427,6 +20616,7 @@
 0.0.0.0 standprofi.com
 0.0.0.0 standycrome.com
 0.0.0.0 stanfpv.com
+0.0.0.0 stangelinz.com
 0.0.0.0 stanley-cups.at
 0.0.0.0 stanley-cups.de
 0.0.0.0 stanleycup.com.de
@@ -20438,6 +20628,7 @@
 0.0.0.0 star-apotheke.org
 0.0.0.0 star-gamer.com
 0.0.0.0 starcici.com
+0.0.0.0 starcontainergmbh.de
 0.0.0.0 stardacasinoonline.de
 0.0.0.0 starel.xyz
 0.0.0.0 starelax.com
@@ -20639,6 +20830,7 @@
 0.0.0.0 store.mavelimira.com
 0.0.0.0 store.promomesh.com
 0.0.0.0 store.rensby.com
+0.0.0.0 store.selvariveta.com
 0.0.0.0 store.useum.org
 0.0.0.0 store.yeelight.com
 0.0.0.0 storeaigle.de
@@ -21124,6 +21316,7 @@
 0.0.0.0 tc-germany.com
 0.0.0.0 tcads.net
 0.0.0.0 tcduvshop02.myshoplaza.com
+0.0.0.0 tchibooutlet.com
 0.0.0.0 tcinosgroup.com
 0.0.0.0 tcomplex.de
 0.0.0.0 td-treuhand.de
@@ -21769,6 +21962,7 @@
 0.0.0.0 toponlinepharmacies.com
 0.0.0.0 topowhey.top
 0.0.0.0 toppdf.co
+0.0.0.0 topproizvodi.eu
 0.0.0.0 topreinigungsmittel.com
 0.0.0.0 toprolexes.com
 0.0.0.0 topsalenow.xyz
@@ -22000,6 +22194,7 @@
 0.0.0.0 trailer-master.eu
 0.0.0.0 trailerfrance.com
 0.0.0.0 trailertour.com
+0.0.0.0 trailrunne.com
 0.0.0.0 trainwelt.com
 0.0.0.0 trakfreesm.click
 0.0.0.0 trakkerbillig.com
@@ -22054,6 +22249,7 @@
 0.0.0.0 treemexholz.de
 0.0.0.0 treibhausshop.de
 0.0.0.0 trekdata.com
+0.0.0.0 trekkinghaus.com
 0.0.0.0 tremendoustime.com
 0.0.0.0 tremorhub.com
 0.0.0.0 trencystore.com
@@ -22136,7 +22332,6 @@
 0.0.0.0 truckstopshop.de
 0.0.0.0 truculentrate.com
 0.0.0.0 true-drugstore.com
-0.0.0.0 true-ph.com
 0.0.0.0 true-pp.com
 0.0.0.0 true-tab.com
 0.0.0.0 true-weightlose.com
@@ -22270,6 +22465,7 @@
 0.0.0.0 tyreschwalbe.com
 0.0.0.0 tyroo.com
 0.0.0.0 tyu-trade.com
+0.0.0.0 tyyclu.com
 0.0.0.0 tz-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 u-id.cpc.heytapmobile.com
 0.0.0.0 ua-ad-lgsmartad-com.aws-prd.net
@@ -22297,10 +22493,13 @@
 0.0.0.0 ufolepbourgogne.org
 0.0.0.0 ug-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ug-sg.byteoversea.com
+0.0.0.0 ug-sg.capcutapi.com
+0.0.0.0 ug-va.capcutapi.com
 0.0.0.0 ug.snssdk.com
 0.0.0.0 ugattribution-i18n.tiktokv.com
 0.0.0.0 ugattribution-ru.tiktokv.com
 0.0.0.0 ugattribution-sg.tiktokv.com
+0.0.0.0 ugattribution-ttp2.us.tiktokv.com
 0.0.0.0 ugg-online.com
 0.0.0.0 uggat.at
 0.0.0.0 uggfans.myshoplaza.com
@@ -22444,6 +22643,7 @@
 0.0.0.0 unruly.co
 0.0.0.0 unrulymedia.com
 0.0.0.0 unser-eshop.shop.epages.de
+0.0.0.0 unserstil.com
 0.0.0.0 untd.com
 0.0.0.0 unterbewusst.at
 0.0.0.0 unternehmenbessermachen.de
@@ -22804,6 +23004,7 @@
 0.0.0.0 vetntilate.com
 0.0.0.0 vetretto.myshopify.com
 0.0.0.0 vetter-law.de
+0.0.0.0 vewear.shop
 0.0.0.0 vexiebox.myshopify.com
 0.0.0.0 vexontor.com
 0.0.0.0 vexxsel.online
@@ -22916,6 +23117,7 @@
 0.0.0.0 vinneo.fr
 0.0.0.0 vinospezial.com
 0.0.0.0 vinsrougesboutique.com
+0.0.0.0 vintageaffordablejbl.shop
 0.0.0.0 vintageitisrain.store
 0.0.0.0 vintageladies.de
 0.0.0.0 vintagespinvinyl.com
@@ -23152,6 +23354,7 @@
 0.0.0.0 vulcanus.at
 0.0.0.0 vumonvision.com
 0.0.0.0 vungle.com
+0.0.0.0 vusilia.de
 0.0.0.0 vutereck.com
 0.0.0.0 vuxocap-vip.io
 0.0.0.0 vw-insights.de
@@ -23249,6 +23452,7 @@
 0.0.0.0 washingtontimesnewstoday.com
 0.0.0.0 wasser-kaiser.com
 0.0.0.0 wasserbetten-centrum.at
+0.0.0.0 wasserfestwandplatte.com
 0.0.0.0 wasserflorade.com
 0.0.0.0 wasserflorashop.com
 0.0.0.0 wasserpflegede.com
@@ -23855,13 +24059,21 @@
 0.0.0.0 xlog-va-useast2a.byteoversea.com
 0.0.0.0 xlog-va-useast2a.tiktokv.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 xlog-va.capcutapi.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
+0.0.0.0 xlog.capcutapi.us
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xlog.tiktokv.eu
 0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
 0.0.0.0 xlog16-normal-c-useast2a.tiktokv.com
+0.0.0.0 xlog16-normal-ie.tiktokv.eu
+0.0.0.0 xlog16-normal-no1a.tiktokv.eu
+0.0.0.0 xlog16-normal-useast5.tiktokv.us
+0.0.0.0 xlog16-normal-useast8.tiktokv.us
 0.0.0.0 xlog16-normal-useast8.us.tiktokv.com
+0.0.0.0 xlog16-normal-useastred.tiktokv.eu
 0.0.0.0 xlog16-platform-useast5.us.tiktokv.com
 0.0.0.0 xlog16-platform-ycru.tiktokv.com
 0.0.0.0 xlog16-tmp-normal-useast1a.tiktokv.com
