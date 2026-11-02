@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-01 03:31:33
-# Total Domains: 24,360
+# Last Updated: 2026-11-02 03:39:33
+# Total Domains: 24,352
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -96,7 +96,6 @@
 *.3rdupgrade.pandora.xiaomi.com
 *.3sixteenonline.org
 *.4-pfoten-freizeit.de
-*.4bike.net
 *.4d5.net
 *.4dex.io
 *.4dmarkt.de
@@ -3272,7 +3271,6 @@
 *.bestboundary.com
 *.bestboxcontainer.de
 *.bestbuy.7tiv.net
-*.bestchoicepills.com
 *.bestclothes.club
 *.bestcoiffureshop.com
 *.bestdealtoday.net
@@ -6361,7 +6359,6 @@
 *.discounntde.com
 *.discount-audio-equipment.com
 *.discount-baustoff.de
-*.discount-cigarettes-store.net
 *.discount-kobalt.com
 *.discount-lightingshop.com
 *.discount-megastore.com
@@ -7666,7 +7663,6 @@
 *.ezoom.top
 *.ezou.top
 *.ezula.com
-*.f.075756.net
 *.f.pie.org
 *.f1authentics.shop
 *.f7ds.liberation.fr
@@ -8066,7 +8062,6 @@
 *.financieres.com
 *.finanz.on-aktualisierung.cc
 *.finanzasforex.com
-*.finanzen.075756.net
 *.finanzenexpress.com
 *.finanzonline-gvbmfgv.info
 *.finanzonline.bmf-gvat.com
@@ -8884,7 +8879,6 @@
 *.gartenfuhrer.de
 *.gartenfurdu.de
 *.gartengenussde.com
-*.gartengeraete-shop.de
 *.gartengluecklich.de
 *.gartengreifer.de
 *.gartenguenter.de
@@ -10662,7 +10656,6 @@
 *.hotelladen.com
 *.hotels-colombo.com
 *.hotelsinperm.ru
-*.hotelsinvienna.org
 *.hotelsofmenorca.com
 *.hotelwareus.com
 *.hotelwhales.com
@@ -17151,7 +17144,6 @@
 *.pills-au.com
 *.pills-store-online24.com
 *.pillsshop.live
-*.pillstock.net
 *.pillz888.org
 *.pilotentest-vorbereitung.com
 *.pilotshof.com
@@ -17227,7 +17219,6 @@
 *.platform-ai-trade.com
 *.platform.ap-capital-lim.com
 *.platform.softwarecrownex.com
-*.platincoin.com
 *.platinwerk.de
 *.platten24.com
 *.platzimgarten.com
@@ -17526,6 +17517,7 @@
 *.primalekarna.com
 *.primary-markets.com
 *.primatop.de
+*.primavo24.de
 *.prime-analytics.de
 *.prime-deutschland.com
 *.prime-e-bike.eu

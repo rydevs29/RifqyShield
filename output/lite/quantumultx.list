@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-01 03:31:33
-# Total Domains: 24,360
+# Last Updated: 2026-11-02 03:39:33
+# Total Domains: 24,352
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -96,7 +96,6 @@ HOST-SUFFIX,3racingparts.com,reject
 HOST-SUFFIX,3rdupgrade.pandora.xiaomi.com,reject
 HOST-SUFFIX,3sixteenonline.org,reject
 HOST-SUFFIX,4-pfoten-freizeit.de,reject
-HOST-SUFFIX,4bike.net,reject
 HOST-SUFFIX,4d5.net,reject
 HOST-SUFFIX,4dex.io,reject
 HOST-SUFFIX,4dmarkt.de,reject
@@ -3272,7 +3271,6 @@ HOST-SUFFIX,bestbikede.com,reject
 HOST-SUFFIX,bestboundary.com,reject
 HOST-SUFFIX,bestboxcontainer.de,reject
 HOST-SUFFIX,bestbuy.7tiv.net,reject
-HOST-SUFFIX,bestchoicepills.com,reject
 HOST-SUFFIX,bestclothes.club,reject
 HOST-SUFFIX,bestcoiffureshop.com,reject
 HOST-SUFFIX,bestdealtoday.net,reject
@@ -6361,7 +6359,6 @@ HOST-SUFFIX,disciplinem.com,reject
 HOST-SUFFIX,discounntde.com,reject
 HOST-SUFFIX,discount-audio-equipment.com,reject
 HOST-SUFFIX,discount-baustoff.de,reject
-HOST-SUFFIX,discount-cigarettes-store.net,reject
 HOST-SUFFIX,discount-kobalt.com,reject
 HOST-SUFFIX,discount-lightingshop.com,reject
 HOST-SUFFIX,discount-megastore.com,reject
@@ -7666,7 +7663,6 @@ HOST-SUFFIX,ezonesglobal.com,reject
 HOST-SUFFIX,ezoom.top,reject
 HOST-SUFFIX,ezou.top,reject
 HOST-SUFFIX,ezula.com,reject
-HOST-SUFFIX,f.075756.net,reject
 HOST-SUFFIX,f.pie.org,reject
 HOST-SUFFIX,f1authentics.shop,reject
 HOST-SUFFIX,f7ds.liberation.fr,reject
@@ -8066,7 +8062,6 @@ HOST-SUFFIX,financieredsbg.com,reject
 HOST-SUFFIX,financieres.com,reject
 HOST-SUFFIX,finanz.on-aktualisierung.cc,reject
 HOST-SUFFIX,finanzasforex.com,reject
-HOST-SUFFIX,finanzen.075756.net,reject
 HOST-SUFFIX,finanzenexpress.com,reject
 HOST-SUFFIX,finanzonline-gvbmfgv.info,reject
 HOST-SUFFIX,finanzonline.bmf-gvat.com,reject
@@ -8884,7 +8879,6 @@ HOST-SUFFIX,gartenfuchskreation.de,reject
 HOST-SUFFIX,gartenfuhrer.de,reject
 HOST-SUFFIX,gartenfurdu.de,reject
 HOST-SUFFIX,gartengenussde.com,reject
-HOST-SUFFIX,gartengeraete-shop.de,reject
 HOST-SUFFIX,gartengluecklich.de,reject
 HOST-SUFFIX,gartengreifer.de,reject
 HOST-SUFFIX,gartenguenter.de,reject
@@ -10662,7 +10656,6 @@ HOST-SUFFIX,hotelaustralien.de,reject
 HOST-SUFFIX,hotelladen.com,reject
 HOST-SUFFIX,hotels-colombo.com,reject
 HOST-SUFFIX,hotelsinperm.ru,reject
-HOST-SUFFIX,hotelsinvienna.org,reject
 HOST-SUFFIX,hotelsofmenorca.com,reject
 HOST-SUFFIX,hotelwareus.com,reject
 HOST-SUFFIX,hotelwhales.com,reject
@@ -17151,7 +17144,6 @@ HOST-SUFFIX,pillola-italia.com,reject
 HOST-SUFFIX,pills-au.com,reject
 HOST-SUFFIX,pills-store-online24.com,reject
 HOST-SUFFIX,pillsshop.live,reject
-HOST-SUFFIX,pillstock.net,reject
 HOST-SUFFIX,pillz888.org,reject
 HOST-SUFFIX,pilotentest-vorbereitung.com,reject
 HOST-SUFFIX,pilotshof.com,reject
@@ -17227,7 +17219,6 @@ HOST-SUFFIX,platc-tester.com,reject
 HOST-SUFFIX,platform-ai-trade.com,reject
 HOST-SUFFIX,platform.ap-capital-lim.com,reject
 HOST-SUFFIX,platform.softwarecrownex.com,reject
-HOST-SUFFIX,platincoin.com,reject
 HOST-SUFFIX,platinwerk.de,reject
 HOST-SUFFIX,platten24.com,reject
 HOST-SUFFIX,platzimgarten.com,reject
@@ -17526,6 +17517,7 @@ HOST-SUFFIX,primada.de,reject
 HOST-SUFFIX,primalekarna.com,reject
 HOST-SUFFIX,primary-markets.com,reject
 HOST-SUFFIX,primatop.de,reject
+HOST-SUFFIX,primavo24.de,reject
 HOST-SUFFIX,prime-analytics.de,reject
 HOST-SUFFIX,prime-deutschland.com,reject
 HOST-SUFFIX,prime-e-bike.eu,reject

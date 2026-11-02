@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-01 03:31:33
-# Total Domains: 24,360
+# Last Updated: 2026-11-02 03:39:33
+# Total Domains: 24,352
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -96,7 +96,6 @@ DOMAIN-SUFFIX,3racingparts.com,REJECT
 DOMAIN-SUFFIX,3rdupgrade.pandora.xiaomi.com,REJECT
 DOMAIN-SUFFIX,3sixteenonline.org,REJECT
 DOMAIN-SUFFIX,4-pfoten-freizeit.de,REJECT
-DOMAIN-SUFFIX,4bike.net,REJECT
 DOMAIN-SUFFIX,4d5.net,REJECT
 DOMAIN-SUFFIX,4dex.io,REJECT
 DOMAIN-SUFFIX,4dmarkt.de,REJECT
@@ -3272,7 +3271,6 @@ DOMAIN-SUFFIX,bestbikede.com,REJECT
 DOMAIN-SUFFIX,bestboundary.com,REJECT
 DOMAIN-SUFFIX,bestboxcontainer.de,REJECT
 DOMAIN-SUFFIX,bestbuy.7tiv.net,REJECT
-DOMAIN-SUFFIX,bestchoicepills.com,REJECT
 DOMAIN-SUFFIX,bestclothes.club,REJECT
 DOMAIN-SUFFIX,bestcoiffureshop.com,REJECT
 DOMAIN-SUFFIX,bestdealtoday.net,REJECT
@@ -6361,7 +6359,6 @@ DOMAIN-SUFFIX,disciplinem.com,REJECT
 DOMAIN-SUFFIX,discounntde.com,REJECT
 DOMAIN-SUFFIX,discount-audio-equipment.com,REJECT
 DOMAIN-SUFFIX,discount-baustoff.de,REJECT
-DOMAIN-SUFFIX,discount-cigarettes-store.net,REJECT
 DOMAIN-SUFFIX,discount-kobalt.com,REJECT
 DOMAIN-SUFFIX,discount-lightingshop.com,REJECT
 DOMAIN-SUFFIX,discount-megastore.com,REJECT
@@ -7666,7 +7663,6 @@ DOMAIN-SUFFIX,ezonesglobal.com,REJECT
 DOMAIN-SUFFIX,ezoom.top,REJECT
 DOMAIN-SUFFIX,ezou.top,REJECT
 DOMAIN-SUFFIX,ezula.com,REJECT
-DOMAIN-SUFFIX,f.075756.net,REJECT
 DOMAIN-SUFFIX,f.pie.org,REJECT
 DOMAIN-SUFFIX,f1authentics.shop,REJECT
 DOMAIN-SUFFIX,f7ds.liberation.fr,REJECT
@@ -8066,7 +8062,6 @@ DOMAIN-SUFFIX,financieredsbg.com,REJECT
 DOMAIN-SUFFIX,financieres.com,REJECT
 DOMAIN-SUFFIX,finanz.on-aktualisierung.cc,REJECT
 DOMAIN-SUFFIX,finanzasforex.com,REJECT
-DOMAIN-SUFFIX,finanzen.075756.net,REJECT
 DOMAIN-SUFFIX,finanzenexpress.com,REJECT
 DOMAIN-SUFFIX,finanzonline-gvbmfgv.info,REJECT
 DOMAIN-SUFFIX,finanzonline.bmf-gvat.com,REJECT
@@ -8884,7 +8879,6 @@ DOMAIN-SUFFIX,gartenfuchskreation.de,REJECT
 DOMAIN-SUFFIX,gartenfuhrer.de,REJECT
 DOMAIN-SUFFIX,gartenfurdu.de,REJECT
 DOMAIN-SUFFIX,gartengenussde.com,REJECT
-DOMAIN-SUFFIX,gartengeraete-shop.de,REJECT
 DOMAIN-SUFFIX,gartengluecklich.de,REJECT
 DOMAIN-SUFFIX,gartengreifer.de,REJECT
 DOMAIN-SUFFIX,gartenguenter.de,REJECT
@@ -10662,7 +10656,6 @@ DOMAIN-SUFFIX,hotelaustralien.de,REJECT
 DOMAIN-SUFFIX,hotelladen.com,REJECT
 DOMAIN-SUFFIX,hotels-colombo.com,REJECT
 DOMAIN-SUFFIX,hotelsinperm.ru,REJECT
-DOMAIN-SUFFIX,hotelsinvienna.org,REJECT
 DOMAIN-SUFFIX,hotelsofmenorca.com,REJECT
 DOMAIN-SUFFIX,hotelwareus.com,REJECT
 DOMAIN-SUFFIX,hotelwhales.com,REJECT
@@ -17151,7 +17144,6 @@ DOMAIN-SUFFIX,pillola-italia.com,REJECT
 DOMAIN-SUFFIX,pills-au.com,REJECT
 DOMAIN-SUFFIX,pills-store-online24.com,REJECT
 DOMAIN-SUFFIX,pillsshop.live,REJECT
-DOMAIN-SUFFIX,pillstock.net,REJECT
 DOMAIN-SUFFIX,pillz888.org,REJECT
 DOMAIN-SUFFIX,pilotentest-vorbereitung.com,REJECT
 DOMAIN-SUFFIX,pilotshof.com,REJECT
@@ -17227,7 +17219,6 @@ DOMAIN-SUFFIX,platc-tester.com,REJECT
 DOMAIN-SUFFIX,platform-ai-trade.com,REJECT
 DOMAIN-SUFFIX,platform.ap-capital-lim.com,REJECT
 DOMAIN-SUFFIX,platform.softwarecrownex.com,REJECT
-DOMAIN-SUFFIX,platincoin.com,REJECT
 DOMAIN-SUFFIX,platinwerk.de,REJECT
 DOMAIN-SUFFIX,platten24.com,REJECT
 DOMAIN-SUFFIX,platzimgarten.com,REJECT
@@ -17526,6 +17517,7 @@ DOMAIN-SUFFIX,primada.de,REJECT
 DOMAIN-SUFFIX,primalekarna.com,REJECT
 DOMAIN-SUFFIX,primary-markets.com,REJECT
 DOMAIN-SUFFIX,primatop.de,REJECT
+DOMAIN-SUFFIX,primavo24.de,REJECT
 DOMAIN-SUFFIX,prime-analytics.de,REJECT
 DOMAIN-SUFFIX,prime-deutschland.com,REJECT
 DOMAIN-SUFFIX,prime-e-bike.eu,REJECT

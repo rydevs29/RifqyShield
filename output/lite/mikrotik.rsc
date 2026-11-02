@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-01 03:31:33
-# Total Domains: 24,360
+# Last Updated: 2026-11-02 03:39:33
+# Total Domains: 24,352
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -97,7 +97,6 @@ add name="3racingparts.com" address=0.0.0.0
 add name="3rdupgrade.pandora.xiaomi.com" address=0.0.0.0
 add name="3sixteenonline.org" address=0.0.0.0
 add name="4-pfoten-freizeit.de" address=0.0.0.0
-add name="4bike.net" address=0.0.0.0
 add name="4d5.net" address=0.0.0.0
 add name="4dex.io" address=0.0.0.0
 add name="4dmarkt.de" address=0.0.0.0
@@ -3273,7 +3272,6 @@ add name="bestbikede.com" address=0.0.0.0
 add name="bestboundary.com" address=0.0.0.0
 add name="bestboxcontainer.de" address=0.0.0.0
 add name="bestbuy.7tiv.net" address=0.0.0.0
-add name="bestchoicepills.com" address=0.0.0.0
 add name="bestclothes.club" address=0.0.0.0
 add name="bestcoiffureshop.com" address=0.0.0.0
 add name="bestdealtoday.net" address=0.0.0.0
@@ -6362,7 +6360,6 @@ add name="disciplinem.com" address=0.0.0.0
 add name="discounntde.com" address=0.0.0.0
 add name="discount-audio-equipment.com" address=0.0.0.0
 add name="discount-baustoff.de" address=0.0.0.0
-add name="discount-cigarettes-store.net" address=0.0.0.0
 add name="discount-kobalt.com" address=0.0.0.0
 add name="discount-lightingshop.com" address=0.0.0.0
 add name="discount-megastore.com" address=0.0.0.0
@@ -7667,7 +7664,6 @@ add name="ezonesglobal.com" address=0.0.0.0
 add name="ezoom.top" address=0.0.0.0
 add name="ezou.top" address=0.0.0.0
 add name="ezula.com" address=0.0.0.0
-add name="f.075756.net" address=0.0.0.0
 add name="f.pie.org" address=0.0.0.0
 add name="f1authentics.shop" address=0.0.0.0
 add name="f7ds.liberation.fr" address=0.0.0.0
@@ -8067,7 +8063,6 @@ add name="financieredsbg.com" address=0.0.0.0
 add name="financieres.com" address=0.0.0.0
 add name="finanz.on-aktualisierung.cc" address=0.0.0.0
 add name="finanzasforex.com" address=0.0.0.0
-add name="finanzen.075756.net" address=0.0.0.0
 add name="finanzenexpress.com" address=0.0.0.0
 add name="finanzonline-gvbmfgv.info" address=0.0.0.0
 add name="finanzonline.bmf-gvat.com" address=0.0.0.0
@@ -8885,7 +8880,6 @@ add name="gartenfuchskreation.de" address=0.0.0.0
 add name="gartenfuhrer.de" address=0.0.0.0
 add name="gartenfurdu.de" address=0.0.0.0
 add name="gartengenussde.com" address=0.0.0.0
-add name="gartengeraete-shop.de" address=0.0.0.0
 add name="gartengluecklich.de" address=0.0.0.0
 add name="gartengreifer.de" address=0.0.0.0
 add name="gartenguenter.de" address=0.0.0.0
@@ -10663,7 +10657,6 @@ add name="hotelaustralien.de" address=0.0.0.0
 add name="hotelladen.com" address=0.0.0.0
 add name="hotels-colombo.com" address=0.0.0.0
 add name="hotelsinperm.ru" address=0.0.0.0
-add name="hotelsinvienna.org" address=0.0.0.0
 add name="hotelsofmenorca.com" address=0.0.0.0
 add name="hotelwareus.com" address=0.0.0.0
 add name="hotelwhales.com" address=0.0.0.0
@@ -17152,7 +17145,6 @@ add name="pillola-italia.com" address=0.0.0.0
 add name="pills-au.com" address=0.0.0.0
 add name="pills-store-online24.com" address=0.0.0.0
 add name="pillsshop.live" address=0.0.0.0
-add name="pillstock.net" address=0.0.0.0
 add name="pillz888.org" address=0.0.0.0
 add name="pilotentest-vorbereitung.com" address=0.0.0.0
 add name="pilotshof.com" address=0.0.0.0
@@ -17228,7 +17220,6 @@ add name="platc-tester.com" address=0.0.0.0
 add name="platform-ai-trade.com" address=0.0.0.0
 add name="platform.ap-capital-lim.com" address=0.0.0.0
 add name="platform.softwarecrownex.com" address=0.0.0.0
-add name="platincoin.com" address=0.0.0.0
 add name="platinwerk.de" address=0.0.0.0
 add name="platten24.com" address=0.0.0.0
 add name="platzimgarten.com" address=0.0.0.0
@@ -17527,6 +17518,7 @@ add name="primada.de" address=0.0.0.0
 add name="primalekarna.com" address=0.0.0.0
 add name="primary-markets.com" address=0.0.0.0
 add name="primatop.de" address=0.0.0.0
+add name="primavo24.de" address=0.0.0.0
 add name="prime-analytics.de" address=0.0.0.0
 add name="prime-deutschland.com" address=0.0.0.0
 add name="prime-e-bike.eu" address=0.0.0.0
