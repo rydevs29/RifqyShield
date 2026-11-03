@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-11-02 03:39:33
-! Total Domains: 24,352
+! Last Updated: 2026-11-03 04:43:59
+! Total Domains: 24,315
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -96,6 +96,7 @@
 ||3rdupgrade.pandora.xiaomi.com^
 ||3sixteenonline.org^
 ||4-pfoten-freizeit.de^
+||4bike.net^
 ||4d5.net^
 ||4dex.io^
 ||4dmarkt.de^
@@ -278,7 +279,6 @@
 ||ablink.info.wise.com^
 ||ablink.news.emails-puregym.com^
 ||ablinks.mail.hinge.co^
-||abm-industrie.com^
 ||aboardlevel.com^
 ||abodeare.com^
 ||abodeena.com^
@@ -288,7 +288,6 @@
 ||abroad.api.comm.intl.miui.com^
 ||abrorabatt.de^
 ||abschminken.com^
-||absjdte.shop^
 ||absolutelyn.com^
 ||absoluteo.com^
 ||absorbingband.com^
@@ -319,7 +318,6 @@
 ||acfeedbackws.icloud.com^
 ||acheterdubitcoin.com^
 ||achimreims.de^
-||achsenwerk.com^
 ||acidoutlet.com^
 ||acintqucil.com^
 ||aciquainted.com^
@@ -547,7 +545,6 @@
 ||addicteksolutions.com^
 ||addinno-kauf.de^
 ||addme.com^
-||addmich.de^
 ||addressfriend.com^
 ||ade.clmbtech.com^
 ||adecn.com^
@@ -636,7 +633,6 @@
 ||adland.ru^
 ||adlegend.com^
 ||adler-ch.com^
-||adler-energie.de^
 ||adlerundsohn.com^
 ||adlightning.com^
 ||adlog.com.com^
@@ -698,7 +694,6 @@
 ||adoric-om.com^
 ||adorigin.com^
 ||adotmob.com^
-||adour-combustibles.com^
 ||adovin.de^
 ||adpepper.dk^
 ||adpepper.nl^
@@ -1221,7 +1216,6 @@
 ||advancesecurity.de^
 ||advangelists.com^
 ||advantagewalldecor.com^
-||advantcrest.com^
 ||advanziagroup.com^
 ||advariant.com^
 ||advent67.com^
@@ -1372,7 +1366,6 @@
 ||affordablerxmeds.com^
 ||affordableuniquepro.shop^
 ||afftracking.justanswer.com^
-||afisfahrrad.shop^
 ||afraidlanguage.com^
 ||africapay-financement.fr^
 ||afroandbodyshop.de^
@@ -1434,7 +1427,6 @@
 ||aio-vita.com^
 ||aios-otel-collector.g.apple.com^
 ||aipharmaweekly.com^
-||aiqxisqi.shop^
 ||air-uposterreich.at^
 ||air-uposterreich.com^
 ||airblueuhren.de^
@@ -1479,7 +1471,6 @@
 ||akkuschrauber-heinrich.com^
 ||akkusnotebook.at^
 ||aklassport.de^
-||aksportsup.com^
 ||akstat.io^
 ||aktiennetwork.co.uk^
 ||aktion-motorrad.de^
@@ -1501,6 +1492,7 @@
 ||albrechtmode.de^
 ||album-cn01a.ocloud.heytapmobi.com^
 ||album-sg01a.ocloud.heytapmobi.com^
+||albuni-24.de^
 ||alchemist.go2cloud.org^
 ||alclick.com^
 ||alderhofatelier.myshopify.com^
@@ -1652,7 +1644,6 @@
 ||alpenapothekebgl.de^
 ||alpenfluss.at^
 ||alpenhoch.com^
-||alpenholz.shop^
 ||alpenlinie.at^
 ||alpenmode.com^
 ||alpennord.de^
@@ -1725,7 +1716,6 @@
 ||am-onlinehandel.de^
 ||amarbhosale.com^
 ||amarego.com^
-||amaribaby.shop^
 ||amarketss.com^
 ||amaxuan.com^
 ||amazenda.com^
@@ -1905,7 +1895,6 @@
 ||anastasiououtlet.com^
 ||ancientact.com^
 ||ancientk.com^
-||anclassic.com^
 ||andal.at^
 ||andeking.de^
 ||andrearebecca.com^
@@ -1931,7 +1920,6 @@
 ||anhaenger-klasen.de^
 ||anhaenger-von-thule.de^
 ||anhaengercamp.com^
-||anhaengergeschenk.com^
 ||anhaengerhandel-leipziig.de^
 ||anhaengerklasen.de^
 ||anhaengerkreuter.com^
@@ -2123,10 +2111,8 @@
 ||apothekehilfe.com^
 ||apothekeinnsbruck.com^
 ||apothekemedicament.com^
-||apotheken-im-center.de^
 ||apotheken-ratgeber.ch^
 ||apotheken-sicher.at^
-||apotheken24de.com^
 ||apothekenkarte.com^
 ||apothekenverbaende.de^
 ||apothekeohnerezept.de^
@@ -2269,7 +2255,6 @@
 ||arkcoin.cc^
 ||arkenberlin.de^
 ||arketrabatt.de^
-||arlbergatelier.at^
 ||arlequininvest.io^
 ||armedangelsoutlet.com^
 ||armine.live^
@@ -2337,7 +2322,6 @@
 ||asforstwirtschaft.at^
 ||asfrnagi.beer^
 ||asgeirpetursson.com^
-||ashbergh.com^
 ||ashfans.com^
 ||ashibellebeauty.com^
 ||ashvillecustomsaunas.com^
@@ -2442,7 +2426,6 @@
 ||at.pkajwb.shop^
 ||at.qfmiceden.shop^
 ||at.rattaay.com^
-||at.trabajo.org^
 ||at.ultimate-gainz.com^
 ||at.vbrcw.shop^
 ||at1075.wedqc.shop^
@@ -2450,7 +2433,6 @@
 ||atacadobras25.shop^
 ||ataspec.org^
 ||atbh.toygzv.shop^
-||atdasjournal.com^
 ||atdmt.com^
 ||atelier-romand.com^
 ||atelierdudiamant.com^
@@ -2465,7 +2447,6 @@
 ||athene-shop.com^
 ||athletadeutschland.com^
 ||athletpharma.com^
-||atikisoi.com^
 ||atinylitshop.com^
 ||atlanticeseagrillfishmarketandbar.com^
 ||atlantictrikot.de^
@@ -2493,7 +2474,6 @@
 ||atwola.com^
 ||au-ad-lgsmartad-com.aws-prd.net^
 ||au-info-lgsmartad-com.aws-prd.net^
-||au-meds.com^
 ||au-rdx2-lgtvsdp-com.aws-prd.net^
 ||au-vex.com^
 ||au.ff.avast.sec.miui.com^
@@ -2539,7 +2519,6 @@
 ||aurainfusions.com^
 ||aurapurezza.com^
 ||auraterraplaza.com^
-||aureamunich.de^
 ||aurelllc.com^
 ||aurenbridge.com^
 ||aurendal.com^
@@ -2637,7 +2616,6 @@
 ||autoteilewerkzeug.com^
 ||autotoolmaster24.com^
 ||autoverlauf.de^
-||autozubehorde.com^
 ||autozubehormarkt.com^
 ||autry-deutschland.de^
 ||autryjapan.net^
@@ -2744,7 +2722,6 @@
 ||ba.afl.rakuten.co.jp^
 ||babaroni.de^
 ||babelautomobile.de^
-||baboktransports.com^
 ||babolats.at^
 ||baby-fields.com^
 ||baby-nord.com^
@@ -2770,7 +2747,6 @@
 ||babytoysangebote.de^
 ||babywarepromo.com^
 ||babyweltde.com^
-||bachelorm.com^
 ||bachmann-handel.de^
 ||bachmann-kanzlei.de^
 ||bacigalupo-autoteile.de^
@@ -2794,9 +2770,9 @@
 ||baer--schuhe.com^
 ||baerliner-apotheke-berlin-marzahn.de^
 ||bag-promo.com^
+||bagave.com^
 ||bagfashionhub.com^
 ||baggely.com^
-||baggu-eu.com^
 ||bags-boxes.com^
 ||bagsurprise.com^
 ||bagwa-kredit.de^
@@ -3004,7 +2980,6 @@
 ||bayer-heizen.at^
 ||bayer-stephan.de^
 ||bayerischegeschenke.com^
-||bayerischeu.de^
 ||bayowns.com^
 ||baywovenco.com^
 ||bazaarskedeals.shop^
@@ -3046,7 +3021,6 @@
 ||beacons.trafficmanager.net^
 ||beacons.xboxlive.com^
 ||beambead.com^
-||beaniieathub.shop^
 ||beatricesavoy.de^
 ||beatusbikes.com^
 ||beautflly.com^
@@ -3124,7 +3098,6 @@
 ||bella-fit.de^
 ||bellachicha.com^
 ||bellaso.de^
-||bellave.de^
 ||bellavisa.com^
 ||bellavitaa.de^
 ||bellelora.com^
@@ -3150,7 +3123,6 @@
 ||benettonaustria.at^
 ||benettonoutletstore.shop^
 ||benfly.net^
-||bengtransports.com^
 ||benjamin-scheuer.de^
 ||benner.store^
 ||bennet-bock.de^
@@ -3183,7 +3155,6 @@
 ||berglust.shop^
 ||bergmann-dusseldorf.de^
 ||bergmann-mode.de^
-||bergmann-outdoor.com^
 ||bergmann.com^
 ||bergmannhamburg.de^
 ||bergmannmode.de^
@@ -3220,7 +3191,6 @@
 ||berlinmusiccraft.com^
 ||berlinmusicscores.com^
 ||berlinoutletshop.com^
-||berlinpieces.com^
 ||berlinsprime.de^
 ||berlinstil.de^
 ||berlinwoch.com^
@@ -3246,7 +3216,6 @@
 ||bessere-reifen.de^
 ||besseregesudheit.com^
 ||besseregesundheitbp-at.com^
-||besseregesunheit.com^
 ||best-apotheke.online^
 ||best-bike-outdoor.com^
 ||best-camping-deals.com^
@@ -3271,6 +3240,7 @@
 ||bestboundary.com^
 ||bestboxcontainer.de^
 ||bestbuy.7tiv.net^
+||bestchoicepills.com^
 ||bestclothes.club^
 ||bestcoiffureshop.com^
 ||bestdealtoday.net^
@@ -3310,7 +3280,6 @@
 ||besthomeship.com^
 ||besthunny.com^
 ||bestkitchenwarede.com^
-||bestknifeworld.com^
 ||bestlook.store^
 ||bestmakeup.club^
 ||bestmarkt24.com^
@@ -3382,6 +3351,7 @@
 ||bg-ad-lgsmartad-com.aws-prd.net^
 ||bg-info-lgsmartad-com.aws-prd.net^
 ||bglshop.at^
+||bgmbgroupe.com^
 ||bgp.fe01.c3.xiaomi.com^
 ||bh-ad-lgsmartad-com.aws-prd.net^
 ||bh-shop-online.com^
@@ -3390,7 +3360,6 @@
 ||bhmbp.com^
 ||bhsbrennholzservicegmbh.de^
 ||bhuvikasolar.online^
-||bi-vert.com^
 ||biabe.de^
 ||bialettiaustria.com^
 ||bici-vience.com^
@@ -3424,7 +3393,6 @@
 ||bielefeldmodehaus.myshopify.com^
 ||bienenimker.com^
 ||bienenstock-potsdam.com^
-||bienll.de^
 ||bier-systeme.com^
 ||bierbankdruckerei.de^
 ||bierbrausetportal.com^
@@ -3448,7 +3416,6 @@
 ||bigsofasde.de^
 ||bigstoregaming.com^
 ||bike-trailer24.de^
-||bike2bikes.com^
 ||bike69-shop.de^
 ||bikeambulanz-mobil.de^
 ||bikeanbauteile.com^
@@ -3483,7 +3450,6 @@
 ||bikeproshops.com^
 ||bikerentalnearcentralpark.com^
 ||bikerimtapede.com^
-||bikerkultur.com^
 ||bikesattel.at^
 ||bikescompetitive.com^
 ||bikeshockabsorberde.com^
@@ -3552,7 +3518,6 @@
 ||bioenergielogistik.de^
 ||biogaming.de^
 ||biographyn.com^
-||bioherby.de^
 ||biohofer.de^
 ||bioholzpellets.de^
 ||biolacqenergies.site^
@@ -3565,7 +3530,6 @@
 ||birkgarten.de^
 ||birkinshaws.ca^
 ||birkshoes.space^
-||birnbaumholz.de^
 ||birnerforsttechnik.de^
 ||birnerlandtechnik.com^
 ||birthdaybelief.com^
@@ -3573,12 +3537,10 @@
 ||bisgaard.shop^
 ||bisontradepro.com^
 ||bit24coin.com^
-||bit500.eu^
 ||bitaiapp.pro^
 ||bitaimethod.com^
 ||bitcodemethod.com^
 ||bitcodeprime.org^
-||bitcoin-everest-ai.fr^
 ||bitcoin-pharmacy.com^
 ||bitcoin-revolution.org^
 ||bitcoin-up.io^
@@ -3593,7 +3555,6 @@
 ||bitcoinmotion.io^
 ||bitcoinrevolution.org^
 ||bitcoins-central.com^
-||bitcoinskn.com^
 ||bitcostar.com^
 ||bitebuns.com^
 ||bitecbrennstoffe.de^
@@ -3633,9 +3594,7 @@
 ||bl-group.net^
 ||black-shepp-gastroservice.com^
 ||blackcatstore.de^
-||blackfridaymegastore.com^
 ||blackgurlzsmagickloset.com^
-||blacktridentpop.shop^
 ||blacktridents.shop^
 ||blackyakrabatt.com^
 ||bladebasics.com^
@@ -3662,7 +3621,6 @@
 ||blissforcats.com^
 ||blisssalehub.com^
 ||blitz-handel.de^
-||blitzgeld.at^
 ||blizzak.de^
 ||bllosthz.shop^
 ||blm-whisky.com^
@@ -3680,7 +3638,6 @@
 ||bloom-pharma-eg.com^
 ||bloombergnewstoday.com^
 ||bloombex-options.com^
-||bloomiquestore.shop^
 ||bloomplot.com^
 ||bloomszone.com^
 ||bludexe.com^
@@ -3718,7 +3675,6 @@
 ||blumenshopdeutschland.de^
 ||blumenstore.com^
 ||blumenstudioottilia.de^
-||blumira.shop^
 ||blundstonedeutschland.de^
 ||blushingbeast.com^
 ||blushingbread.com^
@@ -4495,6 +4451,7 @@
 ||castolonios.de^
 ||casualstore77.de^
 ||casualstreet.de^
+||casualtry.de^
 ||cat2fip.co^
 ||catalia.de^
 ||catalunyafarm.com^
@@ -4628,7 +4585,6 @@
 ||chairscrack.com^
 ||chaitox.com^
 ||chalkdream.com^
-||champion-bulldoggen.com^
 ||champion-polska.pl^
 ||champion.co.at^
 ||championclchile.com^
@@ -6119,6 +6075,7 @@
 ||deracing-planet.com^
 ||derbestetools.com^
 ||derbestewerkzeug.com^
+||derboben-holzimport.de^
 ||derbybikesholding.de^
 ||derbyfahrrader.de^
 ||deregresoalafuente.com^
@@ -6359,6 +6316,7 @@
 ||discounntde.com^
 ||discount-audio-equipment.com^
 ||discount-baustoff.de^
+||discount-cigarettes-store.net^
 ||discount-kobalt.com^
 ||discount-lightingshop.com^
 ||discount-megastore.com^
@@ -7995,6 +7953,7 @@
 ||feuerholz24.shop^
 ||feuerholzadler.de^
 ||feuerholzexpress.de^
+||feuerholzkiste.de^
 ||feuerholzliebe.de^
 ||feuerundgrill.myshopify.com^
 ||feuerwehr-vehlen.de^
@@ -8820,6 +8779,7 @@
 ||ganti-mode.de^
 ||gap-outlet.de^
 ||gapde.de^
+||garage-autosteve.com^
 ||garantiertefinanzierung.com^
 ||garcia.co.at^
 ||garden-caddy.com^
@@ -8882,6 +8842,7 @@
 ||gartengluecklich.de^
 ||gartengreifer.de^
 ||gartenguenter.de^
+||gartenhandel-poltermann.de^
 ||garteni.de^
 ||gartenix.com^
 ||gartenkerl.de^
@@ -9435,6 +9396,7 @@
 ||goldschmiede-alpenglanz.at^
 ||goldshopsejahtera.com^
 ||goldstats.com^
+||goldstern-elektro.com^
 ||goldstollen.de^
 ||goldstoneindica.shop^
 ||golfapparelsale.com^
@@ -9998,6 +9960,7 @@
 ||haushaltsheld.com^
 ||haushaltskoenig.de^
 ||haushaltsreich.de^
+||haushaltswarendiscount.shop^
 ||haushaltwelt.com^
 ||hausmobel-de.com^
 ||hausofvedashop.com^
@@ -10967,7 +10930,6 @@
 ||illusiono.com^
 ||illustriousoatmeal.com^
 ||ilopax.com^
-||ilumina.center^
 ||image.box.xiaomi.com^
 ||image.cdn.mvideo.xiaomi.com^
 ||image.cdn.pandora.xiaomi.com^
@@ -12660,6 +12622,7 @@
 ||leadplace.fr^
 ||leadspace.com^
 ||leadzupc.com^
+||leagpellts.de^
 ||leahideas.com^
 ||leaplunchroom.com^
 ||learn.atdaslelabor.com^
@@ -15339,7 +15302,6 @@
 ||myleadcorner.com^
 ||mylovecosmetic.de^
 ||mylumenx.com^
-||mymedicalshop365.top^
 ||mymedshoplive.com^
 ||mynanosparkle.com^
 ||mynco.com^
@@ -16147,6 +16109,7 @@
 ||ojrq.net^
 ||okatode.com^
 ||okbon.de^
+||oko-heizung.de^
 ||oko-spechtbrennholzgmbh.de^
 ||okohausplus.com^
 ||okun.shop^
@@ -17144,6 +17107,7 @@
 ||pills-au.com^
 ||pills-store-online24.com^
 ||pillsshop.live^
+||pillstock.net^
 ||pillz888.org^
 ||pilotentest-vorbereitung.com^
 ||pilotshof.com^
@@ -17219,6 +17183,7 @@
 ||platform-ai-trade.com^
 ||platform.ap-capital-lim.com^
 ||platform.softwarecrownex.com^
+||platincoin.com^
 ||platinwerk.de^
 ||platten24.com^
 ||platzimgarten.com^
@@ -17517,7 +17482,6 @@
 ||primalekarna.com^
 ||primary-markets.com^
 ||primatop.de^
-||primavo24.de^
 ||prime-analytics.de^
 ||prime-deutschland.com^
 ||prime-e-bike.eu^
@@ -19620,7 +19584,6 @@
 ||shop-toolbox.com^
 ||shop-vergleicher.de^
 ||shop.asfinag.llc^
-||shop.asfinag.ltd^
 ||shop.askdrkan.com^
 ||shop.clarissanails-schweiz.ch^
 ||shop.degussa-goldhandel.de^

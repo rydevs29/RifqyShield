@@ -92,6 +92,7 @@
 3rdupgrade.pandora.xiaomi.com
 3sixteenonline.org
 4-pfoten-freizeit.de
+4bike.net
 4d5.net
 4dex.io
 4dmarkt.de
@@ -274,7 +275,6 @@ ablink.comms.trainline.com
 ablink.info.wise.com
 ablink.news.emails-puregym.com
 ablinks.mail.hinge.co
-abm-industrie.com
 aboardlevel.com
 abodeare.com
 abodeena.com
@@ -284,7 +284,6 @@ abrahamr.com
 abroad.api.comm.intl.miui.com
 abrorabatt.de
 abschminken.com
-absjdte.shop
 absolutelyn.com
 absoluteo.com
 absorbingband.com
@@ -315,7 +314,6 @@ acemlnb.com
 acfeedbackws.icloud.com
 acheterdubitcoin.com
 achimreims.de
-achsenwerk.com
 acidoutlet.com
 acintqucil.com
 aciquainted.com
@@ -543,7 +541,6 @@ addicted2.at
 addicteksolutions.com
 addinno-kauf.de
 addme.com
-addmich.de
 addressfriend.com
 ade.clmbtech.com
 adecn.com
@@ -632,7 +629,6 @@ adl.zixoko.shop
 adland.ru
 adlegend.com
 adler-ch.com
-adler-energie.de
 adlerundsohn.com
 adlightning.com
 adlog.com.com
@@ -694,7 +690,6 @@ adoreshe.com
 adoric-om.com
 adorigin.com
 adotmob.com
-adour-combustibles.com
 adovin.de
 adpepper.dk
 adpepper.nl
@@ -1217,7 +1212,6 @@ advancesalesfunnel.com
 advancesecurity.de
 advangelists.com
 advantagewalldecor.com
-advantcrest.com
 advanziagroup.com
 advariant.com
 advent67.com
@@ -1368,7 +1362,6 @@ afflnx.com
 affordablerxmeds.com
 affordableuniquepro.shop
 afftracking.justanswer.com
-afisfahrrad.shop
 afraidlanguage.com
 africapay-financement.fr
 afroandbodyshop.de
@@ -1430,7 +1423,6 @@ ainvestments.biz
 aio-vita.com
 aios-otel-collector.g.apple.com
 aipharmaweekly.com
-aiqxisqi.shop
 air-uposterreich.at
 air-uposterreich.com
 airblueuhren.de
@@ -1475,7 +1467,6 @@ akku-staubsauger.eu
 akkuschrauber-heinrich.com
 akkusnotebook.at
 aklassport.de
-aksportsup.com
 akstat.io
 aktiennetwork.co.uk
 aktion-motorrad.de
@@ -1497,6 +1488,7 @@ albacontainersgmbh.de
 albrechtmode.de
 album-cn01a.ocloud.heytapmobi.com
 album-sg01a.ocloud.heytapmobi.com
+albuni-24.de
 alchemist.go2cloud.org
 alclick.com
 alderhofatelier.myshopify.com
@@ -1648,7 +1640,6 @@ alpen-vest.com
 alpenapothekebgl.de
 alpenfluss.at
 alpenhoch.com
-alpenholz.shop
 alpenlinie.at
 alpenmode.com
 alpennord.de
@@ -1721,7 +1712,6 @@ am-ad-lgsmartad-com.aws-prd.net
 am-onlinehandel.de
 amarbhosale.com
 amarego.com
-amaribaby.shop
 amarketss.com
 amaxuan.com
 amazenda.com
@@ -1901,7 +1891,6 @@ analyticspixel.microsoft.com
 anastasiououtlet.com
 ancientact.com
 ancientk.com
-anclassic.com
 andal.at
 andeking.de
 andrearebecca.com
@@ -1927,7 +1916,6 @@ anhaenger-gross.de
 anhaenger-klasen.de
 anhaenger-von-thule.de
 anhaengercamp.com
-anhaengergeschenk.com
 anhaengerhandel-leipziig.de
 anhaengerklasen.de
 anhaengerkreuter.com
@@ -2119,10 +2107,8 @@ apothekedeutschland.com
 apothekehilfe.com
 apothekeinnsbruck.com
 apothekemedicament.com
-apotheken-im-center.de
 apotheken-ratgeber.ch
 apotheken-sicher.at
-apotheken24de.com
 apothekenkarte.com
 apothekenverbaende.de
 apothekeohnerezept.de
@@ -2265,7 +2251,6 @@ arkamgym.com
 arkcoin.cc
 arkenberlin.de
 arketrabatt.de
-arlbergatelier.at
 arlequininvest.io
 armedangelsoutlet.com
 armine.live
@@ -2333,7 +2318,6 @@ asflnag.com
 asforstwirtschaft.at
 asfrnagi.beer
 asgeirpetursson.com
-ashbergh.com
 ashfans.com
 ashibellebeauty.com
 ashvillecustomsaunas.com
@@ -2438,7 +2422,6 @@ at.otemtau.shop
 at.pkajwb.shop
 at.qfmiceden.shop
 at.rattaay.com
-at.trabajo.org
 at.ultimate-gainz.com
 at.vbrcw.shop
 at1075.wedqc.shop
@@ -2446,7 +2429,6 @@ at9.ketonaktiv.com
 atacadobras25.shop
 ataspec.org
 atbh.toygzv.shop
-atdasjournal.com
 atdmt.com
 atelier-romand.com
 atelierdudiamant.com
@@ -2461,7 +2443,6 @@ athenabodywear.com
 athene-shop.com
 athletadeutschland.com
 athletpharma.com
-atikisoi.com
 atinylitshop.com
 atlanticeseagrillfishmarketandbar.com
 atlantictrikot.de
@@ -2489,7 +2470,6 @@ atvelektro.de
 atwola.com
 au-ad-lgsmartad-com.aws-prd.net
 au-info-lgsmartad-com.aws-prd.net
-au-meds.com
 au-rdx2-lgtvsdp-com.aws-prd.net
 au-vex.com
 au.ff.avast.sec.miui.com
@@ -2535,7 +2515,6 @@ aurahous.com
 aurainfusions.com
 aurapurezza.com
 auraterraplaza.com
-aureamunich.de
 aurelllc.com
 aurenbridge.com
 aurendal.com
@@ -2633,7 +2612,6 @@ autoteilerabatt.com
 autoteilewerkzeug.com
 autotoolmaster24.com
 autoverlauf.de
-autozubehorde.com
 autozubehormarkt.com
 autry-deutschland.de
 autryjapan.net
@@ -2740,7 +2718,6 @@ ba-ad-lgsmartad-com.aws-prd.net
 ba.afl.rakuten.co.jp
 babaroni.de
 babelautomobile.de
-baboktransports.com
 babolats.at
 baby-fields.com
 baby-nord.com
@@ -2766,7 +2743,6 @@ babyseat-shop.com
 babytoysangebote.de
 babywarepromo.com
 babyweltde.com
-bachelorm.com
 bachmann-handel.de
 bachmann-kanzlei.de
 bacigalupo-autoteile.de
@@ -2790,9 +2766,9 @@ badundheizungshop.de
 baer--schuhe.com
 baerliner-apotheke-berlin-marzahn.de
 bag-promo.com
+bagave.com
 bagfashionhub.com
 baggely.com
-baggu-eu.com
 bags-boxes.com
 bagsurprise.com
 bagwa-kredit.de
@@ -3000,7 +2976,6 @@ baybaysshop.com
 bayer-heizen.at
 bayer-stephan.de
 bayerischegeschenke.com
-bayerischeu.de
 bayowns.com
 baywovenco.com
 bazaarskedeals.shop
@@ -3042,7 +3017,6 @@ beacons.gvt2.com
 beacons.trafficmanager.net
 beacons.xboxlive.com
 beambead.com
-beaniieathub.shop
 beatricesavoy.de
 beatusbikes.com
 beautflly.com
@@ -3120,7 +3094,6 @@ bella-balu.de
 bella-fit.de
 bellachicha.com
 bellaso.de
-bellave.de
 bellavisa.com
 bellavitaa.de
 bellelora.com
@@ -3146,7 +3119,6 @@ benefitw.com
 benettonaustria.at
 benettonoutletstore.shop
 benfly.net
-bengtransports.com
 benjamin-scheuer.de
 benner.store
 bennet-bock.de
@@ -3179,7 +3151,6 @@ bergkaminholz.at
 berglust.shop
 bergmann-dusseldorf.de
 bergmann-mode.de
-bergmann-outdoor.com
 bergmann.com
 bergmannhamburg.de
 bergmannmode.de
@@ -3216,7 +3187,6 @@ berlinmoon.com
 berlinmusiccraft.com
 berlinmusicscores.com
 berlinoutletshop.com
-berlinpieces.com
 berlinsprime.de
 berlinstil.de
 berlinwoch.com
@@ -3242,7 +3212,6 @@ bessaunasistemleri.com
 bessere-reifen.de
 besseregesudheit.com
 besseregesundheitbp-at.com
-besseregesunheit.com
 best-apotheke.online
 best-bike-outdoor.com
 best-camping-deals.com
@@ -3267,6 +3236,7 @@ bestbikede.com
 bestboundary.com
 bestboxcontainer.de
 bestbuy.7tiv.net
+bestchoicepills.com
 bestclothes.club
 bestcoiffureshop.com
 bestdealtoday.net
@@ -3306,7 +3276,6 @@ besthealthsup.com
 besthomeship.com
 besthunny.com
 bestkitchenwarede.com
-bestknifeworld.com
 bestlook.store
 bestmakeup.club
 bestmarkt24.com
@@ -3378,6 +3347,7 @@ bfxoption.com
 bg-ad-lgsmartad-com.aws-prd.net
 bg-info-lgsmartad-com.aws-prd.net
 bglshop.at
+bgmbgroupe.com
 bgp.fe01.c3.xiaomi.com
 bh-ad-lgsmartad-com.aws-prd.net
 bh-shop-online.com
@@ -3386,7 +3356,6 @@ bhcumsc.com
 bhmbp.com
 bhsbrennholzservicegmbh.de
 bhuvikasolar.online
-bi-vert.com
 biabe.de
 bialettiaustria.com
 bici-vience.com
@@ -3420,7 +3389,6 @@ bidvertiser.com
 bielefeldmodehaus.myshopify.com
 bienenimker.com
 bienenstock-potsdam.com
-bienll.de
 bier-systeme.com
 bierbankdruckerei.de
 bierbrausetportal.com
@@ -3444,7 +3412,6 @@ bigskysaunas.com
 bigsofasde.de
 bigstoregaming.com
 bike-trailer24.de
-bike2bikes.com
 bike69-shop.de
 bikeambulanz-mobil.de
 bikeanbauteile.com
@@ -3479,7 +3446,6 @@ bikeproplus.shop
 bikeproshops.com
 bikerentalnearcentralpark.com
 bikerimtapede.com
-bikerkultur.com
 bikesattel.at
 bikescompetitive.com
 bikeshockabsorberde.com
@@ -3548,7 +3514,6 @@ bioen-tech.de
 bioenergielogistik.de
 biogaming.de
 biographyn.com
-bioherby.de
 biohofer.de
 bioholzpellets.de
 biolacqenergies.site
@@ -3561,7 +3526,6 @@ birgit-hamburg.de
 birkgarten.de
 birkinshaws.ca
 birkshoes.space
-birnbaumholz.de
 birnerforsttechnik.de
 birnerlandtechnik.com
 birthdaybelief.com
@@ -3569,12 +3533,10 @@ birthphotographyworkshop.de
 bisgaard.shop
 bisontradepro.com
 bit24coin.com
-bit500.eu
 bitaiapp.pro
 bitaimethod.com
 bitcodemethod.com
 bitcodeprime.org
-bitcoin-everest-ai.fr
 bitcoin-pharmacy.com
 bitcoin-revolution.org
 bitcoin-up.io
@@ -3589,7 +3551,6 @@ bitcoinmotion.com
 bitcoinmotion.io
 bitcoinrevolution.org
 bitcoins-central.com
-bitcoinskn.com
 bitcostar.com
 bitebuns.com
 bitecbrennstoffe.de
@@ -3629,9 +3590,7 @@ bkrtx.com
 bl-group.net
 black-shepp-gastroservice.com
 blackcatstore.de
-blackfridaymegastore.com
 blackgurlzsmagickloset.com
-blacktridentpop.shop
 blacktridents.shop
 blackyakrabatt.com
 bladebasics.com
@@ -3658,7 +3617,6 @@ blissberlin.de
 blissforcats.com
 blisssalehub.com
 blitz-handel.de
-blitzgeld.at
 blizzak.de
 bllosthz.shop
 blm-whisky.com
@@ -3676,7 +3634,6 @@ bloodid.xyz
 bloom-pharma-eg.com
 bloombergnewstoday.com
 bloombex-options.com
-bloomiquestore.shop
 bloomplot.com
 bloomszone.com
 bludexe.com
@@ -3714,7 +3671,6 @@ blumenrose.de
 blumenshopdeutschland.de
 blumenstore.com
 blumenstudioottilia.de
-blumira.shop
 blundstonedeutschland.de
 blushingbeast.com
 blushingbread.com
@@ -4491,6 +4447,7 @@ castaria.com
 castolonios.de
 casualstore77.de
 casualstreet.de
+casualtry.de
 cat2fip.co
 catalia.de
 catalunyafarm.com
@@ -4624,7 +4581,6 @@ chacosdeutschland.de
 chairscrack.com
 chaitox.com
 chalkdream.com
-champion-bulldoggen.com
 champion-polska.pl
 champion.co.at
 championclchile.com
@@ -6115,6 +6071,7 @@ der-tonershop.de
 deracing-planet.com
 derbestetools.com
 derbestewerkzeug.com
+derboben-holzimport.de
 derbybikesholding.de
 derbyfahrrader.de
 deregresoalafuente.com
@@ -6355,6 +6312,7 @@ disciplinem.com
 discounntde.com
 discount-audio-equipment.com
 discount-baustoff.de
+discount-cigarettes-store.net
 discount-kobalt.com
 discount-lightingshop.com
 discount-megastore.com
@@ -7991,6 +7949,7 @@ feuerbergplus.com
 feuerholz24.shop
 feuerholzadler.de
 feuerholzexpress.de
+feuerholzkiste.de
 feuerholzliebe.de
 feuerundgrill.myshopify.com
 feuerwehr-vehlen.de
@@ -8816,6 +8775,7 @@ gannioutlet.de
 ganti-mode.de
 gap-outlet.de
 gapde.de
+garage-autosteve.com
 garantiertefinanzierung.com
 garcia.co.at
 garden-caddy.com
@@ -8878,6 +8838,7 @@ gartengenussde.com
 gartengluecklich.de
 gartengreifer.de
 gartenguenter.de
+gartenhandel-poltermann.de
 garteni.de
 gartenix.com
 gartenkerl.de
@@ -9431,6 +9392,7 @@ goldreward.io
 goldschmiede-alpenglanz.at
 goldshopsejahtera.com
 goldstats.com
+goldstern-elektro.com
 goldstollen.de
 goldstoneindica.shop
 golfapparelsale.com
@@ -9994,6 +9956,7 @@ haushaltsgeratemarkt.com
 haushaltsheld.com
 haushaltskoenig.de
 haushaltsreich.de
+haushaltswarendiscount.shop
 haushaltwelt.com
 hausmobel-de.com
 hausofvedashop.com
@@ -10963,7 +10926,6 @@ ilikehksm.life
 illusiono.com
 illustriousoatmeal.com
 ilopax.com
-ilumina.center
 image.box.xiaomi.com
 image.cdn.mvideo.xiaomi.com
 image.cdn.pandora.xiaomi.com
@@ -12656,6 +12618,7 @@ leadingedgecash.com
 leadplace.fr
 leadspace.com
 leadzupc.com
+leagpellts.de
 leahideas.com
 leaplunchroom.com
 learn.atdaslelabor.com
@@ -15335,7 +15298,6 @@ mylead.global
 myleadcorner.com
 mylovecosmetic.de
 mylumenx.com
-mymedicalshop365.top
 mymedshoplive.com
 mynanosparkle.com
 mynco.com
@@ -16143,6 +16105,7 @@ oins.shop
 ojrq.net
 okatode.com
 okbon.de
+oko-heizung.de
 oko-spechtbrennholzgmbh.de
 okohausplus.com
 okun.shop
@@ -17140,6 +17103,7 @@ pillola-italia.com
 pills-au.com
 pills-store-online24.com
 pillsshop.live
+pillstock.net
 pillz888.org
 pilotentest-vorbereitung.com
 pilotshof.com
@@ -17215,6 +17179,7 @@ platc-tester.com
 platform-ai-trade.com
 platform.ap-capital-lim.com
 platform.softwarecrownex.com
+platincoin.com
 platinwerk.de
 platten24.com
 platzimgarten.com
@@ -17513,7 +17478,6 @@ primada.de
 primalekarna.com
 primary-markets.com
 primatop.de
-primavo24.de
 prime-analytics.de
 prime-deutschland.com
 prime-e-bike.eu
@@ -19616,7 +19580,6 @@ shop-tool.com
 shop-toolbox.com
 shop-vergleicher.de
 shop.asfinag.llc
-shop.asfinag.ltd
 shop.askdrkan.com
 shop.clarissanails-schweiz.ch
 shop.degussa-goldhandel.de
