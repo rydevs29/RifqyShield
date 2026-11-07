@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-06 04:26:00
-# Total Domains: 25,711
+# Last Updated: 2026-11-07 03:53:47
+# Total Domains: 25,701
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -195,19 +195,29 @@ HOST-SUFFIX,aanhangwagen-dispack.com,reject
 HOST-SUFFIX,aax-apse-dtb-mobile-events.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-apse-dtb-mobile.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-apse-dtb-web.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-audio.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-audio.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-beta-us-east.axp.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-cpm.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-cpm.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-dtb-cf.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-cf.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-legacy.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-legacy.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-mobile-bids-geo.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-mobile-bids-geo.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-mobile-events.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-mobile-events.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-dtb-mobile-geo.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-mobile-geo.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-mobile.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-mobile.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-web-bids-geo.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-web-bids-geo.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-web-geo-aax.amazon-adsystem.amazon.com,reject
+HOST-SUFFIX,aax-dtb-web-geo.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-web-geo.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-dtb-web.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-dtb-web.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-eu-dtb-mobile-events.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-eu-dtb-mobile.amazon-adsystem.com,reject
@@ -225,11 +235,11 @@ HOST-SUFFIX,aax-fe-sin.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-fe.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-gamma-us-east.axp.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-ott-c2s.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-ott-sdk.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-ott-sdk.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-ott.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-ott.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-east-1-ott.amazon-adsystem.amazon.com,reject
-HOST-SUFFIX,aax-us-east-dtb-mobile-events.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-east-dtb-mobile.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-east-dtb.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-east-ott.amazon-adsystem.com,reject
@@ -252,6 +262,7 @@ HOST-SUFFIX,aax-us-west-dtb-mobile.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-west-ott-events.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-west-ott.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-us-west-rtb.amazon-adsystem.com,reject
+HOST-SUFFIX,aax-us.amazon-adsystem.amazon.com,reject
 HOST-SUFFIX,aax-us.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-vx-api-us-east-1.amazon-adsystem.com,reject
 HOST-SUFFIX,aax-vx-api-us-west-2.amazon-adsystem.com,reject
@@ -387,11 +398,9 @@ HOST-SUFFIX,ad-format-i18n.tiktokv.com,reject
 HOST-SUFFIX,ad-format-ie.tiktokv.eu,reject
 HOST-SUFFIX,ad-format-ru.tiktokv.com,reject
 HOST-SUFFIX,ad-format-sg.tiktokv.com,reject
-HOST-SUFFIX,ad-format-ttp2.tiktokv.eu,reject
 HOST-SUFFIX,ad-format-ttp2.tiktokv.us,reject
 HOST-SUFFIX,ad-format-ttp2.us.tiktokv.com,reject
 HOST-SUFFIX,ad-format.tiktokv.eu,reject
-HOST-SUFFIX,ad-format.tiktokv.us,reject
 HOST-SUFFIX,ad-format.us.tiktokv.com,reject
 HOST-SUFFIX,ad-format16-normal-useastred.tiktokv.eu,reject
 HOST-SUFFIX,ad-growth-in.heytapmobile.com,reject
@@ -420,7 +429,6 @@ HOST-SUFFIX,ad-rotator.com,reject
 HOST-SUFFIX,ad-score.com,reject
 HOST-SUFFIX,ad-server.gulasidorna.se,reject
 HOST-SUFFIX,ad-space.net,reject
-HOST-SUFFIX,ad-union-i18n-api.tos-sg.tiktok-row.org,reject
 HOST-SUFFIX,ad-up.com,reject
 HOST-SUFFIX,ad-zeal.com,reject
 HOST-SUFFIX,ad.71i.de,reject
@@ -749,7 +757,6 @@ HOST-SUFFIX,ads-impressions.com,reject
 HOST-SUFFIX,ads-marketing-vivofs.vivo.com.cn,reject
 HOST-SUFFIX,ads-marketing-vivofs.vivo.com.cn.ctdns.cn,reject
 HOST-SUFFIX,ads-monitor.xyz,reject
-HOST-SUFFIX,ads-msn-com-profile.trafficmanager.net,reject
 HOST-SUFFIX,ads-ru.tiktok.com,reject
 HOST-SUFFIX,ads-service.tiktok.com,reject
 HOST-SUFFIX,ads-setu-proxy-eu.amazon.com,reject
@@ -764,6 +771,7 @@ HOST-SUFFIX,ads-twitter.com,reject
 HOST-SUFFIX,ads-useast2a.tiktok.com,reject
 HOST-SUFFIX,ads-va.business-tiktok.com,reject
 HOST-SUFFIX,ads-va.tiktok.com,reject
+HOST-SUFFIX,ads.365.mk,reject
 HOST-SUFFIX,ads.5ci.lt,reject
 HOST-SUFFIX,ads.73dpi.com,reject
 HOST-SUFFIX,ads.aavv.com,reject
@@ -987,7 +995,6 @@ HOST-SUFFIX,ads.sun.com,reject
 HOST-SUFFIX,ads.suomiautomaatti.com,reject
 HOST-SUFFIX,ads.supplyframe.com,reject
 HOST-SUFFIX,ads.syscdn.de,reject
-HOST-SUFFIX,ads.themovienation.com,reject
 HOST-SUFFIX,ads.thestar.com,reject
 HOST-SUFFIX,ads.thrillsaffiliates.com,reject
 HOST-SUFFIX,ads.tiktok.com,reject
@@ -1143,7 +1150,6 @@ HOST-SUFFIX,adserving.unibet.com,reject
 HOST-SUFFIX,adservingfront.com,reject
 HOST-SUFFIX,adservrs.com,reject
 HOST-SUFFIX,adservrs.com.edgekey.net,reject
-HOST-SUFFIX,adsfac.eu,reject
 HOST-SUFFIX,adsfac.net,reject
 HOST-SUFFIX,adsfs-sdkconfig.heytapimage.com,reject
 HOST-SUFFIX,adsfs.oppomobile.com,reject
@@ -1234,7 +1240,6 @@ HOST-SUFFIX,adventamour.at,reject
 HOST-SUFFIX,adventamour.de,reject
 HOST-SUFFIX,adventkerzen.de,reject
 HOST-SUFFIX,adventory.com,reject
-HOST-SUFFIX,adventureactivities.club,reject
 HOST-SUFFIX,adventurefungear.com,reject
 HOST-SUFFIX,adventurousamount.com,reject
 HOST-SUFFIX,advert.bayarea.com,reject
@@ -1312,9 +1317,11 @@ HOST-SUFFIX,adx-op-fr.heytapmobile.com,reject
 HOST-SUFFIX,adx-op-in.heytapmobile.com,reject
 HOST-SUFFIX,adx-op-ru.heytapmobile.com,reject
 HOST-SUFFIX,adx-op-sg.heytapmobile.com,reject
+HOST-SUFFIX,adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com,reject
 HOST-SUFFIX,adx-u-in.heytapmobile.com,reject
 HOST-SUFFIX,adx-u-ru.heytapmobile.com,reject
 HOST-SUFFIX,adx-u-sg.heytapmobile.com,reject
+HOST-SUFFIX,adx-union-sg.heytapmobile.com,reject
 HOST-SUFFIX,adx.gayboy.at,reject
 HOST-SUFFIX,adx.tv.mi.com,reject
 HOST-SUFFIX,adxh3-op-sg.heytapmobile.com,reject
@@ -1330,6 +1337,7 @@ HOST-SUFFIX,adzerk.net,reject
 HOST-SUFFIX,adzerk.s3.amazonaws.com,reject
 HOST-SUFFIX,adzestocp.com,reject
 HOST-SUFFIX,ae-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ae-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ae-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,aedes.shop,reject
 HOST-SUFFIX,aedexstore.de,reject
@@ -1443,7 +1451,6 @@ HOST-SUFFIX,air-uposterreich.at,reject
 HOST-SUFFIX,air-uposterreich.com,reject
 HOST-SUFFIX,airblueuhren.de,reject
 HOST-SUFFIX,airfloppy.com,reject
-HOST-SUFFIX,airguncapital.com,reject
 HOST-SUFFIX,airjordan.at,reject
 HOST-SUFFIX,airjordan.com.de,reject
 HOST-SUFFIX,airmaxsale.de,reject
@@ -1462,7 +1469,6 @@ HOST-SUFFIX,airvaxde.com,reject
 HOST-SUFFIX,airyano.com,reject
 HOST-SUFFIX,airyclub.com,reject
 HOST-SUFFIX,airzuma.at,reject
-HOST-SUFFIX,airzuma.com,reject
 HOST-SUFFIX,aisope.at,reject
 HOST-SUFFIX,aistat.net,reject
 HOST-SUFFIX,aitechinpharma.com,reject
@@ -1563,7 +1569,6 @@ HOST-SUFFIX,all-eco.eu,reject
 HOST-SUFFIX,all-festivals.com,reject
 HOST-SUFFIX,all-liuliutiyu-online.com,reject
 HOST-SUFFIX,all-meds.com,reject
-HOST-SUFFIX,all4tech.site,reject
 HOST-SUFFIX,all4you-fashion.com,reject
 HOST-SUFFIX,allbeactive.com,reject
 HOST-SUFFIX,allbirds.com.de,reject
@@ -1609,7 +1614,6 @@ HOST-SUFFIX,allinone-media.de,reject
 HOST-SUFFIX,allinstockgmbh.company.site,reject
 HOST-SUFFIX,allisbrooklyn.com,reject
 HOST-SUFFIX,alliszumfliesin.com,reject
-HOST-SUFFIX,allkitchen.shop,reject
 HOST-SUFFIX,allmindday.com,reject
 HOST-SUFFIX,allnove.com,reject
 HOST-SUFFIX,allodo.de,reject
@@ -1627,8 +1631,8 @@ HOST-SUFFIX,alltagsbeauty.de,reject
 HOST-SUFFIX,allthatjazz.at,reject
 HOST-SUFFIX,alltimeshop.de,reject
 HOST-SUFFIX,alltimesupermarket.com,reject
+HOST-SUFFIX,alltoolsstore.com,reject
 HOST-SUFFIX,alltopinvest.com,reject
-HOST-SUFFIX,alltopjewels.com,reject
 HOST-SUFFIX,alltoys.store,reject
 HOST-SUFFIX,alluringbucket.com,reject
 HOST-SUFFIX,allweil.net,reject
@@ -1666,9 +1670,7 @@ HOST-SUFFIX,alpenapothekebgl.de,reject
 HOST-SUFFIX,alpenbestsattel.com,reject
 HOST-SUFFIX,alpenfluss.at,reject
 HOST-SUFFIX,alpenhoch.com,reject
-HOST-SUFFIX,alpenlinie.at,reject
 HOST-SUFFIX,alpenmode.com,reject
-HOST-SUFFIX,alpennord.de,reject
 HOST-SUFFIX,alpenpellets.pro,reject
 HOST-SUFFIX,alpenrose-mode.com,reject
 HOST-SUFFIX,alpenroute36.com,reject
@@ -1779,6 +1781,7 @@ HOST-SUFFIX,amouravienna.com,reject
 HOST-SUFFIX,amp-finance.com,reject
 HOST-SUFFIX,amplearctic.com,reject
 HOST-SUFFIX,amprisiaenergies.com,reject
+HOST-SUFFIX,ampscamp.net,reject
 HOST-SUFFIX,amsterdam-nl.com,reject
 HOST-SUFFIX,amsterdamluxe.com,reject
 HOST-SUFFIX,amsterdamout.store,reject
@@ -1819,7 +1822,6 @@ HOST-SUFFIX,analytics-attribution.tiktok.com,reject
 HOST-SUFFIX,analytics-dev-api.test.samsunghealth.com,reject
 HOST-SUFFIX,analytics-dev-lleap-events.servicebus.windows.net,reject
 HOST-SUFFIX,analytics-dev-simpad-events.servicebus.windows.net,reject
-HOST-SUFFIX,analytics-events.apple.com,reject
 HOST-SUFFIX,analytics-exp-i18n.tiktok.com,reject
 HOST-SUFFIX,analytics-exp-i18n.tiktok.com.edgekey.net,reject
 HOST-SUFFIX,analytics-exp-ie.tiktokw.eu,reject
@@ -1918,6 +1920,7 @@ HOST-SUFFIX,analytics16-normal.tiktok.com,reject
 HOST-SUFFIX,analytics16-normal.tiktok.com.edgesuite.net,reject
 HOST-SUFFIX,analyticsapi.happypancake.net,reject
 HOST-SUFFIX,analyticsehnwe.servicebus.windows.net,reject
+HOST-SUFFIX,analyticsiot-prod-mobileapps-ehn.servicebus.windows.net,reject
 HOST-SUFFIX,analyticspixel.microsoft.com,reject
 HOST-SUFFIX,anastasiououtlet.com,reject
 HOST-SUFFIX,ancientact.com,reject
@@ -2243,6 +2246,8 @@ HOST-SUFFIX,aquaticowl.com,reject
 HOST-SUFFIX,aquaticsportshop.com,reject
 HOST-SUFFIX,aquishopbest.com,reject
 HOST-SUFFIX,ar-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ar-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ar-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,arabues.de,reject
 HOST-SUFFIX,aradia.com.br,reject
 HOST-SUFFIX,aralego.com,reject
@@ -2455,7 +2460,6 @@ HOST-SUFFIX,at-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,at-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,at-o.net,reject
 HOST-SUFFIX,at-rdx2-lgtvsdp-com.aws-prd.net,reject
-HOST-SUFFIX,at-us-east.amazon-adsystem.com,reject
 HOST-SUFFIX,at.alpine-point.com,reject
 HOST-SUFFIX,at.eeelgnte.shop,reject
 HOST-SUFFIX,at.esrlive.com,reject
@@ -2541,6 +2545,7 @@ HOST-SUFFIX,audientce.com,reject
 HOST-SUFFIX,audio-seleccio.com,reject
 HOST-SUFFIX,audio.ad,reject
 HOST-SUFFIX,audioalltagsmart.com,reject
+HOST-SUFFIX,audiobible-production-analytics-eh.servicebus.windows.net,reject
 HOST-SUFFIX,audiokissen.de,reject
 HOST-SUFFIX,audiomachinery.com,reject
 HOST-SUFFIX,audiomachinery.de,reject
@@ -2597,7 +2602,6 @@ HOST-SUFFIX,austria-partner.at,reject
 HOST-SUFFIX,austria-partner.co.at,reject
 HOST-SUFFIX,austria.ntyavidpre.shop,reject
 HOST-SUFFIX,austrianmint-traderzone.com,reject
-HOST-SUFFIX,austrittausderkirche.de,reject
 HOST-SUFFIX,austropoole.shop,reject
 HOST-SUFFIX,auszeit-seminar.de,reject
 HOST-SUFFIX,aut.oanrp.shop,reject
@@ -2659,6 +2663,7 @@ HOST-SUFFIX,autoteile-christa.at,reject
 HOST-SUFFIX,autoteile-deutschland.com,reject
 HOST-SUFFIX,autoteile-kt.de,reject
 HOST-SUFFIX,autoteile-waschlowsky.de,reject
+HOST-SUFFIX,autoteile-wf.de,reject
 HOST-SUFFIX,autoteileanton.de,reject
 HOST-SUFFIX,autoteiledirektpro.com,reject
 HOST-SUFFIX,autoteilefachmarkt.de,reject
@@ -2752,6 +2757,8 @@ HOST-SUFFIX,aylica.de,reject
 HOST-SUFFIX,ayola.de,reject
 HOST-SUFFIX,ayurvedaparadiis.com,reject
 HOST-SUFFIX,az-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,az-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,az-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,az.appstore.vivo.com.cn,reject
 HOST-SUFFIX,az667904.vo.msecnd.net,reject
 HOST-SUFFIX,azadgrill-poesneck.de,reject
@@ -2776,6 +2783,7 @@ HOST-SUFFIX,b2banalytics.samsungknox.com,reject
 HOST-SUFFIX,b3.videoamp.com,reject
 HOST-SUFFIX,b4trade.com,reject
 HOST-SUFFIX,ba-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ba-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ba.afl.rakuten.co.jp,reject
 HOST-SUFFIX,babaroni.de,reject
 HOST-SUFFIX,babelautomobile.de,reject
@@ -2791,7 +2799,6 @@ HOST-SUFFIX,babyausstattung-de.com,reject
 HOST-SUFFIX,babybay-de.com,reject
 HOST-SUFFIX,babyboss.uk,reject
 HOST-SUFFIX,babybox-schweiz.ch,reject
-HOST-SUFFIX,babybubblestore.com,reject
 HOST-SUFFIX,babycookie.online,reject
 HOST-SUFFIX,babyfuntoys.com,reject
 HOST-SUFFIX,babygea.com,reject
@@ -3081,10 +3088,12 @@ HOST-SUFFIX,bdv.bidvertiser.com,reject
 HOST-SUFFIX,be-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,be-aetlcnshop.com,reject
 HOST-SUFFIX,be-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,be-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,beaccustomed.com,reject
 HOST-SUFFIX,beachfront.com,reject
 HOST-SUFFIX,beachitem.com,reject
 HOST-SUFFIX,beachsissi.com,reject
+HOST-SUFFIX,beachwalkbali.com,reject
 HOST-SUFFIX,beacon.gu-web.net,reject
 HOST-SUFFIX,beacon.netflix.com,reject
 HOST-SUFFIX,beacon.shazam.com,reject
@@ -3128,7 +3137,6 @@ HOST-SUFFIX,beautyunnie.com,reject
 HOST-SUFFIX,bebeautiful.club,reject
 HOST-SUFFIX,bebi.com,reject
 HOST-SUFFIX,bechic.club,reject
-HOST-SUFFIX,beckenfit.net,reject
 HOST-SUFFIX,becker-basel.com,reject
 HOST-SUFFIX,becker-boutique.com,reject
 HOST-SUFFIX,beckermode.de,reject
@@ -3171,7 +3179,6 @@ HOST-SUFFIX,beleuchtungrabatt.com,reject
 HOST-SUFFIX,belezapreventiva.com,reject
 HOST-SUFFIX,belizal.com,reject
 HOST-SUFFIX,belkruvozan-ai.at,reject
-HOST-SUFFIX,bella-balu.de,reject
 HOST-SUFFIX,bella-fit.de,reject
 HOST-SUFFIX,bellachicha.com,reject
 HOST-SUFFIX,bellas-vienno.shop,reject
@@ -3343,6 +3350,7 @@ HOST-SUFFIX,bestelektronicshop.de,reject
 HOST-SUFFIX,bestellen-ciao-ciao-pf.de,reject
 HOST-SUFFIX,bestellundgut.de,reject
 HOST-SUFFIX,bestelnuar.click,reject
+HOST-SUFFIX,bestemed.com,reject
 HOST-SUFFIX,bestemedikamente.com,reject
 HOST-SUFFIX,bestenwahl.de,reject
 HOST-SUFFIX,besteonlineapotheke.com,reject
@@ -3364,7 +3372,6 @@ HOST-SUFFIX,bestgamestopshop.de,reject
 HOST-SUFFIX,bestgenericonline.com,reject
 HOST-SUFFIX,besthealthsup.com,reject
 HOST-SUFFIX,besthomeship.com,reject
-HOST-SUFFIX,besthunny.com,reject
 HOST-SUFFIX,bestkigu.com,reject
 HOST-SUFFIX,bestkitchenwarede.com,reject
 HOST-SUFFIX,bestlook.store,reject
@@ -3382,9 +3389,9 @@ HOST-SUFFIX,bestoutlet-tool.com,reject
 HOST-SUFFIX,bestpagjkl.com,reject
 HOST-SUFFIX,bestpharm-eu.com,reject
 HOST-SUFFIX,bestpillpharmacy.com,reject
+HOST-SUFFIX,bestpillsnetwork.com,reject
 HOST-SUFFIX,bestpricetreatments.com,reject
 HOST-SUFFIX,bestproductsonlinestore.com,reject
-HOST-SUFFIX,bestprogift.com,reject
 HOST-SUFFIX,bestreliableremedies.com,reject
 HOST-SUFFIX,bestrelocate.com,reject
 HOST-SUFFIX,bestsaunakits.com,reject
@@ -3398,7 +3405,6 @@ HOST-SUFFIX,besttobuy.company.site,reject
 HOST-SUFFIX,besttoolsonline-de.com,reject
 HOST-SUFFIX,besttoyspielzeug.com,reject
 HOST-SUFFIX,bestwassertechnik.com,reject
-HOST-SUFFIX,bestwear.club,reject
 HOST-SUFFIX,bestwerkzeugeshop.com,reject
 HOST-SUFFIX,betashop-gmbh.com,reject
 HOST-SUFFIX,betonruttler.com,reject
@@ -3420,7 +3426,6 @@ HOST-SUFFIX,bettwarenundtextilien.com,reject
 HOST-SUFFIX,bettyshops.com,reject
 HOST-SUFFIX,beuniger.de,reject
 HOST-SUFFIX,beurer.co.at,reject
-HOST-SUFFIX,bewegungsmeister.de,reject
 HOST-SUFFIX,beweich.de,reject
 HOST-SUFFIX,bewerberzentrale.com,reject
 HOST-SUFFIX,bewerte-den-shop.de,reject
@@ -3440,6 +3445,7 @@ HOST-SUFFIX,bforex.com,reject
 HOST-SUFFIX,bfxoption.com,reject
 HOST-SUFFIX,bg-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,bg-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,bg-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,bglshop.at,reject
 HOST-SUFFIX,bgmbgroupe.com,reject
 HOST-SUFFIX,bgp.fe01.c3.xiaomi.com,reject
@@ -3552,7 +3558,6 @@ HOST-SUFFIX,bikeproshops.com,reject
 HOST-SUFFIX,bikerentalnearcentralpark.com,reject
 HOST-SUFFIX,bikerforword.shop,reject
 HOST-SUFFIX,bikerimtapede.com,reject
-HOST-SUFFIX,bikesattel.at,reject
 HOST-SUFFIX,bikescompetitive.com,reject
 HOST-SUFFIX,bikesexpert.shop,reject
 HOST-SUFFIX,bikeshockabsorberde.com,reject
@@ -3605,6 +3610,7 @@ HOST-SUFFIX,binamax.com,reject
 HOST-SUFFIX,binareo.com,reject
 HOST-SUFFIX,binarinvest.com,reject
 HOST-SUFFIX,binaritrading.com,reject
+HOST-SUFFIX,binarycent.com,reject
 HOST-SUFFIX,binarylowcost.com,reject
 HOST-SUFFIX,binarymarkets.com,reject
 HOST-SUFFIX,binarymate.com,reject
@@ -3677,6 +3683,7 @@ HOST-SUFFIX,bitcoinmotion.com,reject
 HOST-SUFFIX,bitcoinmotion.io,reject
 HOST-SUFFIX,bitcoinrevolution.org,reject
 HOST-SUFFIX,bitcoins-central.com,reject
+HOST-SUFFIX,bitconnect.co,reject
 HOST-SUFFIX,bitcostar.com,reject
 HOST-SUFFIX,bitebuns.com,reject
 HOST-SUFFIX,bitecbrennstoffe.de,reject
@@ -3687,6 +3694,7 @@ HOST-SUFFIX,bithliving.com,reject
 HOST-SUFFIX,biticodes.com,reject
 HOST-SUFFIX,bitindex.ai,reject
 HOST-SUFFIX,bitiq.app,reject
+HOST-SUFFIX,bitkelttrade.com,reject
 HOST-SUFFIX,bitlast.com,reject
 HOST-SUFFIX,bitmedianetwork.com,reject
 HOST-SUFFIX,bitonite.com,reject
@@ -3743,7 +3751,6 @@ HOST-SUFFIX,blaujade.com,reject
 HOST-SUFFIX,blaunexus.inc,reject
 HOST-SUFFIX,blaupause-leipzig.shop,reject
 HOST-SUFFIX,blautone.com,reject
-HOST-SUFFIX,blazertokids.com,reject
 HOST-SUFFIX,bldr.mkt.samsung.com,reject
 HOST-SUFFIX,bleachbubble.com,reject
 HOST-SUFFIX,blibean.com,reject
@@ -4080,6 +4087,7 @@ HOST-SUFFIX,brennholzauswahl.de,reject
 HOST-SUFFIX,brennholzbredemeier.com,reject
 HOST-SUFFIX,brennholzdirekt.com,reject
 HOST-SUFFIX,brennholzgarten.de,reject
+HOST-SUFFIX,brennholzgigante.de,reject
 HOST-SUFFIX,brennholzhandelmartens.com,reject
 HOST-SUFFIX,brennholzhaus.com,reject
 HOST-SUFFIX,brennholzhaus.de,reject
@@ -4313,7 +4321,6 @@ HOST-SUFFIX,buyfamgift.de,reject
 HOST-SUFFIX,buygadgets.site,reject
 HOST-SUFFIX,buyhealthandcaremeds.com,reject
 HOST-SUFFIX,buyheatcore.com,reject
-HOST-SUFFIX,buyjethose.com,reject
 HOST-SUFFIX,buylowdrugs.com,reject
 HOST-SUFFIX,buymores.shop,reject
 HOST-SUFFIX,buynaturium.shop,reject
@@ -4404,6 +4411,7 @@ HOST-SUFFIX,c.tw.msn.com,reject
 HOST-SUFFIX,c.uk.msn.com,reject
 HOST-SUFFIX,c.xbox.com,reject
 HOST-SUFFIX,c.za.msn.com,reject
+HOST-SUFFIX,c01-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,c1.microsoft.com,reject
 HOST-SUFFIX,c1exchange.com,reject
 HOST-SUFFIX,c212.net,reject
@@ -4413,6 +4421,7 @@ HOST-SUFFIX,c3mini.pandora.xiaomi.com,reject
 HOST-SUFFIX,ca-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ca-agentur.de,reject
 HOST-SUFFIX,ca-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ca-pharm.net,reject
 HOST-SUFFIX,ca-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,caactioncoalition.org,reject
 HOST-SUFFIX,caay-berlin.com,reject
@@ -4500,8 +4509,10 @@ HOST-SUFFIX,canadiana.top,reject
 HOST-SUFFIX,canadianhealthcaremalll.com,reject
 HOST-SUFFIX,canadianhealthcarepharmacymall.com,reject
 HOST-SUFFIX,canadianhealthncaremall.com,reject
+HOST-SUFFIX,canadianinsulin.com,reject
 HOST-SUFFIX,canadianipharmacy.com,reject
 HOST-SUFFIX,canadiannewstoday.com,reject
+HOST-SUFFIX,canadianokpharmacy.com,reject
 HOST-SUFFIX,canadianpharmacysir.com,reject
 HOST-SUFFIX,canadianpharmacyworld.com,reject
 HOST-SUFFIX,canaryvacationhome.com,reject
@@ -4560,6 +4571,7 @@ HOST-SUFFIX,cardcusmos.com,reject
 HOST-SUFFIX,cardetergent.com,reject
 HOST-SUFFIX,cardmethod.com,reject
 HOST-SUFFIX,cardvae.com,reject
+HOST-SUFFIX,caredogbest.com,reject
 HOST-SUFFIX,carehealthlife.com,reject
 HOST-SUFFIX,carenson.com,reject
 HOST-SUFFIX,careshop.shop,reject
@@ -4660,7 +4672,6 @@ HOST-SUFFIX,catfootwear-at.com,reject
 HOST-SUFFIX,catfront.dianping.com,reject
 HOST-SUFFIX,cattlecommittee.com,reject
 HOST-SUFFIX,cattop.xyz,reject
-HOST-SUFFIX,catwebshop.com,reject
 HOST-SUFFIX,causecherry.com,reject
 HOST-SUFFIX,cautiouscredit.com,reject
 HOST-SUFFIX,cavedor.com,reject
@@ -4722,6 +4733,7 @@ HOST-SUFFIX,celerypets.com,reject
 HOST-SUFFIX,celeste-botanicals.com,reject
 HOST-SUFFIX,celinemichaud.com,reject
 HOST-SUFFIX,celio.com.de,reject
+HOST-SUFFIX,cellpeptides.com,reject
 HOST-SUFFIX,cellphonelocation.net,reject
 HOST-SUFFIX,cellumove-de.com,reject
 HOST-SUFFIX,celluweg.de,reject
@@ -4730,7 +4742,6 @@ HOST-SUFFIX,celorin.com,reject
 HOST-SUFFIX,celsiorde.de,reject
 HOST-SUFFIX,celtra.com,reject
 HOST-SUFFIX,cenatrix.com,reject
-HOST-SUFFIX,cendura.de,reject
 HOST-SUFFIX,center-bikes.de,reject
 HOST-SUFFIX,centerpointmedia.com,reject
 HOST-SUFFIX,centralparkebikerentals.com,reject
@@ -4778,6 +4789,7 @@ HOST-SUFFIX,chacosdeutschland.de,reject
 HOST-SUFFIX,chairscrack.com,reject
 HOST-SUFFIX,chaitox.com,reject
 HOST-SUFFIX,chalkdream.com,reject
+HOST-SUFFIX,champion-bulldoggen.com,reject
 HOST-SUFFIX,champion-polska.pl,reject
 HOST-SUFFIX,champion.co.at,reject
 HOST-SUFFIX,championclchile.com,reject
@@ -4813,8 +4825,9 @@ HOST-SUFFIX,chastitybox.com,reject
 HOST-SUFFIX,chauffabois.com,reject
 HOST-SUFFIX,chauffage-energie.com,reject
 HOST-SUFFIX,chaussuressimple.com,reject
-HOST-SUFFIX,chc-visio-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,chcierekci.cc,reject
+HOST-SUFFIX,che.com,reject
+HOST-SUFFIX,cheap-pharma.com,reject
 HOST-SUFFIX,cheapcharly.de,reject
 HOST-SUFFIX,cheapestcosmetic.com,reject
 HOST-SUFFIX,cheapmondo.com,reject
@@ -4860,7 +4873,6 @@ HOST-SUFFIX,childeducationalshop.com,reject
 HOST-SUFFIX,childlikecrowd.com,reject
 HOST-SUFFIX,chillgod.com,reject
 HOST-SUFFIX,chillingtofu.com,reject
-HOST-SUFFIX,chillinmode.com,reject
 HOST-SUFFIX,chilllady.com,reject
 HOST-SUFFIX,chimballsas.com,reject
 HOST-SUFFIX,china-hifi-audio.com,reject
@@ -4926,6 +4938,7 @@ HOST-SUFFIX,citrades.com,reject
 HOST-SUFFIX,citrixanalyticseh-alias.servicebus.windows.net,reject
 HOST-SUFFIX,citrixanalyticseh.servicebus.windows.net,reject
 HOST-SUFFIX,citrixanalyticseh2-alias.servicebus.windows.net,reject
+HOST-SUFFIX,citrixanalyticseh2.servicebus.windows.net,reject
 HOST-SUFFIX,citrixanalyticseh3-alias.servicebus.windows.net,reject
 HOST-SUFFIX,citrixanalyticseh3.servicebus.windows.net,reject
 HOST-SUFFIX,citrixanalyticsehaps-alias.servicebus.windows.net,reject
@@ -4955,6 +4968,8 @@ HOST-SUFFIX,ckbeautylife.de,reject
 HOST-SUFFIX,ckluna.net,reject
 HOST-SUFFIX,cknwtmxn.studio,reject
 HOST-SUFFIX,cl-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,cl-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,cl-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,cl-vcode-api.vivoglobal.com,reject
 HOST-SUFFIX,cl.turkishairlines.com,reject
 HOST-SUFFIX,cl0udh0st1ng.com,reject
@@ -4965,9 +4980,11 @@ HOST-SUFFIX,claracasperjuwelen.de,reject
 HOST-SUFFIX,clarachristine-wien.at,reject
 HOST-SUFFIX,claraluzern.ch,reject
 HOST-SUFFIX,clarity.microsoft.com,reject
+HOST-SUFFIX,clarks-de.de,reject
 HOST-SUFFIX,clarks-germany.com,reject
 HOST-SUFFIX,clarks-osterreich.com,reject
 HOST-SUFFIX,clarks-schweiz.com,reject
+HOST-SUFFIX,clarksaustria.at,reject
 HOST-SUFFIX,clarksdeutschlandsale.com,reject
 HOST-SUFFIX,clarksgermany.com,reject
 HOST-SUFFIX,clarksmontreal.net,reject
@@ -5019,7 +5036,6 @@ HOST-SUFFIX,clianpoint.com,reject
 HOST-SUFFIX,cliarweoe.com,reject
 HOST-SUFFIX,clic-fenetressarl.de,reject
 HOST-SUFFIX,clicfenetres-sarl.de,reject
-HOST-SUFFIX,click-1.pl,reject
 HOST-SUFFIX,click-earn.to,reject
 HOST-SUFFIX,click-v4.expclknb.com,reject
 HOST-SUFFIX,click-zigaretten.com,reject
@@ -5065,6 +5081,7 @@ HOST-SUFFIX,click.v.visionlab.es,reject
 HOST-SUFFIX,click2freemoney.com,reject
 HOST-SUFFIX,click4.pro,reject
 HOST-SUFFIX,clickadddilla.com,reject
+HOST-SUFFIX,clickadu.io,reject
 HOST-SUFFIX,clickadz.com,reject
 HOST-SUFFIX,clickagents.com,reject
 HOST-SUFFIX,clickbank.com,reject
@@ -5098,6 +5115,7 @@ HOST-SUFFIX,clicktrack.pubmatic.com,reject
 HOST-SUFFIX,clicktrack.ziyu.net,reject
 HOST-SUFFIX,clicktracks.com,reject
 HOST-SUFFIX,clicktrade.com,reject
+HOST-SUFFIX,clickworker.de,reject
 HOST-SUFFIX,clickxchange.com,reject
 HOST-SUFFIX,clickyab.com,reject
 HOST-SUFFIX,clickz.com,reject
@@ -5131,7 +5149,6 @@ HOST-SUFFIX,clorislife.com,reject
 HOST-SUFFIX,closeery.top,reject
 HOST-SUFFIX,closeoutstore.de,reject
 HOST-SUFFIX,clotha-boutique.de,reject
-HOST-SUFFIX,clothesday.com,reject
 HOST-SUFFIX,clothindpiper.com,reject
 HOST-SUFFIX,clothing-s.com,reject
 HOST-SUFFIX,clothingonsale-online.com,reject
@@ -5256,9 +5273,6 @@ HOST-SUFFIX,cmsmanutention.com,reject
 HOST-SUFFIX,cmvrclicks000.com,reject
 HOST-SUFFIX,cn-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,cn-api.mcsvc.samsung.com.cn,reject
-HOST-SUFFIX,cn-zh-ort-stsdk.vivoglobal.com,reject
-HOST-SUFFIX,cn-zh-prt-stsdk.vivoglobal.com,reject
-HOST-SUFFIX,cn-zh-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,cname-ali-asia-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,cname-asia-comonrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,cname-asia-st-exappupgrade.vivoglobal.com,reject
@@ -5282,9 +5296,11 @@ HOST-SUFFIX,co-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,co-album-api.vivoglobal.com,reject
 HOST-SUFFIX,co-cota.vivoglobal.com,reject
 HOST-SUFFIX,co-domaincfg.vivoglobal.com,reject
+HOST-SUFFIX,co-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,co-onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,co-ort-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,co-pnrt-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,co-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,co-romsp-unifyconfig.vivoglobal.com,reject
 HOST-SUFFIX,co-st-sl.vivoglobal.com,reject
 HOST-SUFFIX,co-stsdk.vivoglobal.com,reject
@@ -5635,6 +5651,7 @@ HOST-SUFFIX,coverfrot.com,reject
 HOST-SUFFIX,coveshe.com,reject
 HOST-SUFFIX,coviviocapital.com,reject
 HOST-SUFFIX,covshop.de,reject
+HOST-SUFFIX,cowbelltime.com,reject
 HOST-SUFFIX,cowboybootsnew.com,reject
 HOST-SUFFIX,coxmt.com,reject
 HOST-SUFFIX,coyojo.com,reject
@@ -5662,6 +5679,7 @@ HOST-SUFFIX,cpx.to,reject
 HOST-SUFFIX,cpxinteractive.com,reject
 HOST-SUFFIX,cqcounter.com,reject
 HOST-SUFFIX,cr-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,cr-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,crabbychin.com,reject
 HOST-SUFFIX,craftcraze.shop,reject
 HOST-SUFFIX,craftoliq.com,reject
@@ -5711,6 +5729,7 @@ HOST-SUFFIX,criteo.com,reject
 HOST-SUFFIX,criteo.net,reject
 HOST-SUFFIX,critictruck.com,reject
 HOST-SUFFIX,crktcutlery.com,reject
+HOST-SUFFIX,crocsoutlet.co.at,reject
 HOST-SUFFIX,crocx.shop,reject
 HOST-SUFFIX,cronetrium-system-fr.com,reject
 HOST-SUFFIX,croozerangebote.com,reject
@@ -5743,6 +5762,7 @@ HOST-SUFFIX,cryptoassetrecover.net,reject
 HOST-SUFFIX,cryptoassetscontrol.com,reject
 HOST-SUFFIX,cryptocase.online,reject
 HOST-SUFFIX,cryptocash24.com,reject
+HOST-SUFFIX,cryptoeasily.com,reject
 HOST-SUFFIX,cryptofast.net,reject
 HOST-SUFFIX,cryptofundfx.com,reject
 HOST-SUFFIX,cryptomoney888.com,reject
@@ -5758,7 +5778,6 @@ HOST-SUFFIX,cryptover.org,reject
 HOST-SUFFIX,cryptoweb3pro.com,reject
 HOST-SUFFIX,crystalboulevard.com,reject
 HOST-SUFFIX,crystalli.de,reject
-HOST-SUFFIX,crystalnova.de,reject
 HOST-SUFFIX,cryzor.com,reject
 HOST-SUFFIX,cs-pharmacy.net,reject
 HOST-SUFFIX,cs.co,reject
@@ -5793,7 +5812,6 @@ HOST-SUFFIX,cuongtws.xyz,reject
 HOST-SUFFIX,cupcakes-vienno.shop,reject
 HOST-SUFFIX,cupid.ptqy.gitv.tv,reject
 HOST-SUFFIX,cupliebe.com,reject
-HOST-SUFFIX,cupriva.de,reject
 HOST-SUFFIX,curablity.com,reject
 HOST-SUFFIX,curacaoonlinecasino.de,reject
 HOST-SUFFIX,curbminers.com,reject
@@ -5864,8 +5882,10 @@ HOST-SUFFIX,cyrillous.com,reject
 HOST-SUFFIX,cyrosalnix.com,reject
 HOST-SUFFIX,cyrus-nyc.eu.cc,reject
 HOST-SUFFIX,cz-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,cz-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,cz-kamagra.com,reject
 HOST-SUFFIX,cz-lekarna.com,reject
+HOST-SUFFIX,cz-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,cz.penoxal.com,reject
 HOST-SUFFIX,czechpropills.com,reject
 HOST-SUFFIX,czkolo.com,reject
@@ -5969,9 +5989,7 @@ HOST-SUFFIX,darsvint.fr,reject
 HOST-SUFFIX,dartgarago.shop,reject
 HOST-SUFFIX,dartsshopo.shop,reject
 HOST-SUFFIX,das-feel-natural.de,reject
-HOST-SUFFIX,das-handelsregisterauszugportal.de,reject
 HOST-SUFFIX,das-home.com,reject
-HOST-SUFFIX,das-kind-world.de,reject
 HOST-SUFFIX,das-montessori-spielzeug.de,reject
 HOST-SUFFIX,dasbeautykollektiv.de,reject
 HOST-SUFFIX,dasbuchdeslebens.at,reject
@@ -6073,7 +6091,6 @@ HOST-SUFFIX,de-toy.com,reject
 HOST-SUFFIX,de-vivobarefoots.com,reject
 HOST-SUFFIX,de-ziraatmoney.org,reject
 HOST-SUFFIX,de.activenutra.coupons,reject
-HOST-SUFFIX,de.apemans.com,reject
 HOST-SUFFIX,de.baerskinhoodie.com,reject
 HOST-SUFFIX,de.bauhausshop.com,reject
 HOST-SUFFIX,de.cardionv.com,reject
@@ -6162,7 +6179,6 @@ HOST-SUFFIX,decorationmaterialsonline.com,reject
 HOST-SUFFIX,decorazioninatalizi.com,reject
 HOST-SUFFIX,decorevery.com,reject
 HOST-SUFFIX,decorhomechristmas.com,reject
-HOST-SUFFIX,decorinterior.club,reject
 HOST-SUFFIX,decorlivio.com,reject
 HOST-SUFFIX,decorsolutions.online,reject
 HOST-SUFFIX,decorstore.club,reject
@@ -6233,7 +6249,6 @@ HOST-SUFFIX,deinenergieplan.de,reject
 HOST-SUFFIX,deinetierliebe.de,reject
 HOST-SUFFIX,deinhandwerkershop.de,reject
 HOST-SUFFIX,deinliebesmensch.de,reject
-HOST-SUFFIX,deinlieblingstier.co,reject
 HOST-SUFFIX,deinmodetrends.com,reject
 HOST-SUFFIX,deinmodetrends.de,reject
 HOST-SUFFIX,deinrufretter.com,reject
@@ -6341,7 +6356,6 @@ HOST-SUFFIX,desharkhelme.com,reject
 HOST-SUFFIX,designatep.com,reject
 HOST-SUFFIX,designatshop.com,reject
 HOST-SUFFIX,designbyclaudia.com,reject
-HOST-SUFFIX,designdecor.store,reject
 HOST-SUFFIX,designequations.ca,reject
 HOST-SUFFIX,designerhome.store,reject
 HOST-SUFFIX,designstools.com,reject
@@ -6372,12 +6386,12 @@ HOST-SUFFIX,detson.de,reject
 HOST-SUFFIX,detsound.com,reject
 HOST-SUFFIX,detty.co,reject
 HOST-SUFFIX,deuhr.de,reject
-HOST-SUFFIX,deuspower.to,reject
 HOST-SUFFIX,deutchshop24.de,reject
 HOST-SUFFIX,deuter.co.at,reject
 HOST-SUFFIX,deutere.com,reject
 HOST-SUFFIX,deutmart.de,reject
 HOST-SUFFIX,deutsch-brennholz.de,reject
+HOST-SUFFIX,deutschapotheke.com,reject
 HOST-SUFFIX,deutschdeal.com,reject
 HOST-SUFFIX,deutsche-energieoptimierungsgesellschaft.com,reject
 HOST-SUFFIX,deutsche-rentenauskunft.de,reject
@@ -6417,13 +6431,11 @@ HOST-SUFFIX,device-metrics-us-ud.amazon.com,reject
 HOST-SUFFIX,device-metrics-us.amazon.com,reject
 HOST-SUFFIX,device-ups.push.heytapmobi.com,reject
 HOST-SUFFIX,devicelog.samsungcloudsolution.net,reject
-HOST-SUFFIX,devicesair.com,reject
 HOST-SUFFIX,devoteonese.com,reject
 HOST-SUFFIX,dewdroplagoon.com,reject
 HOST-SUFFIX,deweins.com,reject
 HOST-SUFFIX,deweinwelthub.com,reject
 HOST-SUFFIX,dewello-shop.de,reject
-HOST-SUFFIX,dewglam.com,reject
 HOST-SUFFIX,dewohntraum.com,reject
 HOST-SUFFIX,dexer-handel.de,reject
 HOST-SUFFIX,dexoraoutlet.com,reject
@@ -6643,7 +6655,9 @@ HOST-SUFFIX,diybuildsupplies.com,reject
 HOST-SUFFIX,diymalennachzahlen.shop,reject
 HOST-SUFFIX,dj-audio.com,reject
 HOST-SUFFIX,dk-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,dk-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,dk-jordstrom.com,reject
+HOST-SUFFIX,dk-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,dkb.customersales.de,reject
 HOST-SUFFIX,dkcoindey.com,reject
 HOST-SUFFIX,dknyoutlet.store,reject
@@ -6654,7 +6668,6 @@ HOST-SUFFIX,dls-ddc.dqa.samsung.com,reject
 HOST-SUFFIX,dls-udc.dqa.samsung.com,reject
 HOST-SUFFIX,dls.di.atlas.samsung.com,reject
 HOST-SUFFIX,dls.di.runestone.samsung.com,reject
-HOST-SUFFIX,dlxn-mode.de,reject
 HOST-SUFFIX,dly-home.com,reject
 HOST-SUFFIX,dm-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,dmbmanagement.de,reject
@@ -6671,6 +6684,7 @@ HOST-SUFFIX,dnkeeper.platform.dbankcloud.cn,reject
 HOST-SUFFIX,dnsdelegation.io,reject
 HOST-SUFFIX,do-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,do-global.com,reject
+HOST-SUFFIX,do-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,doallerer.com,reject
 HOST-SUFFIX,docgbeauty.de,reject
 HOST-SUFFIX,docjohnson-schritte.com,reject
@@ -6770,7 +6784,6 @@ HOST-SUFFIX,dovecrow.com,reject
 HOST-SUFFIX,dovydenver.shop,reject
 HOST-SUFFIX,dowellwholesales.com,reject
 HOST-SUFFIX,download-samsung.dtignite.com,reject
-HOST-SUFFIX,doyoo.shop,reject
 HOST-SUFFIX,dozepharmacy.com,reject
 HOST-SUFFIX,dpbolvw.net,reject
 HOST-SUFFIX,dplantz.com,reject
@@ -6874,8 +6887,10 @@ HOST-SUFFIX,drspharm.com,reject
 HOST-SUFFIX,druckerpratonen.de,reject
 HOST-SUFFIX,druckerzubbehoer.de,reject
 HOST-SUFFIX,drugeo.to,reject
+HOST-SUFFIX,drugs-1.com,reject
 HOST-SUFFIX,drugs247.net,reject
 HOST-SUFFIX,drugsline.org,reject
+HOST-SUFFIX,druhnn.de,reject
 HOST-SUFFIX,drumcash.com,reject
 HOST-SUFFIX,drumcovere.com,reject
 HOST-SUFFIX,drwundero.shop,reject
@@ -6971,7 +6986,7 @@ HOST-SUFFIX,dystopian-gaming.com,reject
 HOST-SUFFIX,dystopiangaming.com,reject
 HOST-SUFFIX,dyzay.com,reject
 HOST-SUFFIX,dz-ad-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,dz1dt3wqswdezgx4j2ryem5iad.apple.com,reject
+HOST-SUFFIX,dz-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,dzkke7-kh.myshopify.com,reject
 HOST-SUFFIX,dznrspot.com,reject
 HOST-SUFFIX,dztraktoren.de,reject
@@ -7066,13 +7081,16 @@ HOST-SUFFIX,ebooklyn.net,reject
 HOST-SUFFIX,ebuyg.mom,reject
 HOST-SUFFIX,ebuzzing.com,reject
 HOST-SUFFIX,ec-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ec-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,eccooutletdeutschland.de,reject
 HOST-SUFFIX,eceq.org,reject
 HOST-SUFFIX,echlat.com,reject
 HOST-SUFFIX,echoacloud.com,reject
+HOST-SUFFIX,echtdokumente.com,reject
 HOST-SUFFIX,echtdruck.de,reject
 HOST-SUFFIX,echtleinwando.shop,reject
 HOST-SUFFIX,ecircle-ag.com,reject
+HOST-SUFFIX,eck-grill.de,reject
 HOST-SUFFIX,eckert-handel.de,reject
 HOST-SUFFIX,ecleneue.com,reject
 HOST-SUFFIX,eclick.vn,reject
@@ -7155,6 +7173,7 @@ HOST-SUFFIX,efficient-flow.solutions,reject
 HOST-SUFFIX,effiziente-taubenabwehr.at,reject
 HOST-SUFFIX,eg-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,eg-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,eg-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,eg-tradeshop.com,reject
 HOST-SUFFIX,egasoft-digital.com,reject
 HOST-SUFFIX,egbertplakolm.at,reject
@@ -7174,7 +7193,7 @@ HOST-SUFFIX,ehrmannliving.com,reject
 HOST-SUFFIX,ehs-pellets.de,reject
 HOST-SUFFIX,ehspellets.de,reject
 HOST-SUFFIX,ehspelletsgmbh.de,reject
-HOST-SUFFIX,ehtelemetrystaging-alias.servicebus.windows.net,reject
+HOST-SUFFIX,ehtelemetrystaging.servicebus.windows.net,reject
 HOST-SUFFIX,eichborn-berlin.de,reject
 HOST-SUFFIX,eichemarkt.de,reject
 HOST-SUFFIX,eichhholtzsale.com,reject
@@ -7327,7 +7346,6 @@ HOST-SUFFIX,elite-patrimoine.com,reject
 HOST-SUFFIX,eliteai-t.com,reject
 HOST-SUFFIX,eliteautosalesia.com,reject
 HOST-SUFFIX,elitedollars.com,reject
-HOST-SUFFIX,eliteshop.com.br,reject
 HOST-SUFFIX,elitesneakers.store,reject
 HOST-SUFFIX,elitestayzio2u.com,reject
 HOST-SUFFIX,elivrosenkranzo.shop,reject
@@ -7493,7 +7511,6 @@ HOST-SUFFIX,epic-dianjing-online.com,reject
 HOST-SUFFIX,epicdicehub.com,reject
 HOST-SUFFIX,epicooler.at,reject
 HOST-SUFFIX,epicooler.checkoutera.com,reject
-HOST-SUFFIX,epicooler.com,reject
 HOST-SUFFIX,epicoolerde.consumereviewsguide.com,reject
 HOST-SUFFIX,epicoolerklima.shop,reject
 HOST-SUFFIX,epoch-id.cdo.heytapmobi.com,reject
@@ -7518,6 +7535,7 @@ HOST-SUFFIX,eradkultur.de,reject
 HOST-SUFFIX,eradobox.com,reject
 HOST-SUFFIX,eradsport.de,reject
 HOST-SUFFIX,eradstore.de,reject
+HOST-SUFFIX,erate.com,reject
 HOST-SUFFIX,erdbeerblase.de,reject
 HOST-SUFFIX,erectionpills.store,reject
 HOST-SUFFIX,erektile-apotheke24.de,reject
@@ -7553,6 +7571,8 @@ HOST-SUFFIX,eryxavin.com,reject
 HOST-SUFFIX,erzgebirger-uhrwerk.com,reject
 HOST-SUFFIX,es-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,es-consult.net,reject
+HOST-SUFFIX,es-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,es-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,es.landofm.com,reject
 HOST-SUFFIX,esco-tools.com,reject
 HOST-SUFFIX,escooterreifen.de,reject
@@ -7638,6 +7658,7 @@ HOST-SUFFIX,eu-errup.vivoglobal.com,reject
 HOST-SUFFIX,eu-first.com,reject
 HOST-SUFFIX,eu-meds.net,reject
 HOST-SUFFIX,eu-meds.online,reject
+HOST-SUFFIX,eu-nrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-ort-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-p.vivoglobal.com,reject
@@ -7647,7 +7668,6 @@ HOST-SUFFIX,eu-pnrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-romsp-unifyconfig.vivoglobal.com,reject
 HOST-SUFFIX,eu-segway.com,reject
 HOST-SUFFIX,eu-sezane.com,reject
-HOST-SUFFIX,eu-st-exappupgrade.vivoglobal.com,reject
 HOST-SUFFIX,eu-st-sl.vivoglobal.com,reject
 HOST-SUFFIX,eu-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-timesync.vivoglobal.com,reject
@@ -7683,7 +7703,6 @@ HOST-SUFFIX,eupills.com,reject
 HOST-SUFFIX,eurekster.com,reject
 HOST-SUFFIX,eurenzo.com,reject
 HOST-SUFFIX,eurffc-word-telemetry.officeapps.live.com,reject
-HOST-SUFFIX,eurffc-word-telemetry.wac.trafficmanager.net,reject
 HOST-SUFFIX,eurl-container.com,reject
 HOST-SUFFIX,eurlexodus.com,reject
 HOST-SUFFIX,eurltddiffusion.com,reject
@@ -7722,10 +7741,12 @@ HOST-SUFFIX,europaischeapotheke.com,reject
 HOST-SUFFIX,europalettenmoebel.de,reject
 HOST-SUFFIX,europe-pack.eu,reject
 HOST-SUFFIX,europe-pharm.com,reject
+HOST-SUFFIX,europe-pharm.net,reject
 HOST-SUFFIX,europe-pimco.com,reject
 HOST-SUFFIX,european-pharmacy.online,reject
 HOST-SUFFIX,europeangeneric.com,reject
 HOST-SUFFIX,europeanpharm.net,reject
+HOST-SUFFIX,europharmacy.net,reject
 HOST-SUFFIX,europharmacyonline.com,reject
 HOST-SUFFIX,europharms.com,reject
 HOST-SUFFIX,europharmsonline.com,reject
@@ -7866,6 +7887,7 @@ HOST-SUFFIX,exo-marketing.com,reject
 HOST-SUFFIX,exoclick.com,reject
 HOST-SUFFIX,exodermin.com,reject
 HOST-SUFFIX,exodermin.eu,reject
+HOST-SUFFIX,exopip.com,reject
 HOST-SUFFIX,exosrv.com,reject
 HOST-SUFFIX,exotekracingparts.com,reject
 HOST-SUFFIX,exoticappearance.com,reject
@@ -8200,7 +8222,6 @@ HOST-SUFFIX,feinstesporzellan.com,reject
 HOST-SUFFIX,feinstezierfische.com,reject
 HOST-SUFFIX,fela.store,reject
 HOST-SUFFIX,feldbusch-ankauf.de,reject
-HOST-SUFFIX,feldluft.de,reject
 HOST-SUFFIX,feleva.com,reject
 HOST-SUFFIX,felgenonkel.de,reject
 HOST-SUFFIX,felgenprada.de,reject
@@ -8262,6 +8283,7 @@ HOST-SUFFIX,festgeldfinder.de,reject
 HOST-SUFFIX,festgeldsicher.at,reject
 HOST-SUFFIX,festivaldefrente.com,reject
 HOST-SUFFIX,festoolz.shop,reject
+HOST-SUFFIX,fetishmegastore.com,reject
 HOST-SUFFIX,fettabsaugung-in-koeln.de,reject
 HOST-SUFFIX,fettverbrenneronline.com,reject
 HOST-SUFFIX,feuchtigkeits.de,reject
@@ -8340,7 +8362,6 @@ HOST-SUFFIX,financiere-haussmann.com,reject
 HOST-SUFFIX,financiere-st-gabriel.com,reject
 HOST-SUFFIX,financieredsbg.com,reject
 HOST-SUFFIX,financieres.com,reject
-HOST-SUFFIX,finanz.on-aktualisierung.cc,reject
 HOST-SUFFIX,finanzasforex.com,reject
 HOST-SUFFIX,finanzenexpress.com,reject
 HOST-SUFFIX,finanzonline-gvbmfgv.info,reject
@@ -8391,7 +8412,6 @@ HOST-SUFFIX,fintrexia.org,reject
 HOST-SUFFIX,finvestai.org,reject
 HOST-SUFFIX,finvoire.com,reject
 HOST-SUFFIX,finzanzonline.com,reject
-HOST-SUFFIX,fiorenz.com,reject
 HOST-SUFFIX,fioriella.com,reject
 HOST-SUFFIX,fiorora.com,reject
 HOST-SUFFIX,fip-treatment.com,reject
@@ -8524,7 +8544,6 @@ HOST-SUFFIX,flipflix.de,reject
 HOST-SUFFIX,flipofferdeals.online,reject
 HOST-SUFFIX,flipsterusdt.com,reject
 HOST-SUFFIX,fliptfeets.net,reject
-HOST-SUFFIX,flirfvysba2opz0zmzqs5iuiad.apple.com,reject
 HOST-SUFFIX,flivourheaven.com,reject
 HOST-SUFFIX,flixway.de,reject
 HOST-SUFFIX,flnanzonline-gvbmfgv.net,reject
@@ -8611,6 +8630,7 @@ HOST-SUFFIX,fngalaxy.de,reject
 HOST-SUFFIX,foamr.ch,reject
 HOST-SUFFIX,foamr.de,reject
 HOST-SUFFIX,foamr.nl,reject
+HOST-SUFFIX,foamyclaus.store,reject
 HOST-SUFFIX,fochcenter-wagnor.shop,reject
 HOST-SUFFIX,focusetenergie.com,reject
 HOST-SUFFIX,foerdertechniks.com,reject
@@ -8662,7 +8682,6 @@ HOST-SUFFIX,foreseew.com,reject
 HOST-SUFFIX,forestcabin-de.myshopify.com,reject
 HOST-SUFFIX,forester.a2z.com,reject
 HOST-SUFFIX,forever21-us.com,reject
-HOST-SUFFIX,foreverjoy.site,reject
 HOST-SUFFIX,forevermarkt.de,reject
 HOST-SUFFIX,forex-affiliate.net,reject
 HOST-SUFFIX,forexlistenoire.fr,reject
@@ -8690,6 +8709,7 @@ HOST-SUFFIX,forte-love.eu,reject
 HOST-SUFFIX,fortis-heizoel.de,reject
 HOST-SUFFIX,fortis-prime.com,reject
 HOST-SUFFIX,fortisgeschaft.com,reject
+HOST-SUFFIX,fortuna-invest.com,reject
 HOST-SUFFIX,fortunaiteliastore.com,reject
 HOST-SUFFIX,fortunatecy.com,reject
 HOST-SUFFIX,fortunatelyt.com,reject
@@ -8997,6 +9017,7 @@ HOST-SUFFIX,fustripother.com,reject
 HOST-SUFFIX,futeko.shop,reject
 HOST-SUFFIX,futofol.com,reject
 HOST-SUFFIX,futterfurtauben.com,reject
+HOST-SUFFIX,futurbtc.com,reject
 HOST-SUFFIX,future-sales.com,reject
 HOST-SUFFIX,futurecartdeals.com,reject
 HOST-SUFFIX,futuregolds.com,reject
@@ -9019,7 +9040,6 @@ HOST-SUFFIX,fxcast.com,reject
 HOST-SUFFIX,fxcm-group.io,reject
 HOST-SUFFIX,fxcmanagement.com,reject
 HOST-SUFFIX,fximperial.com,reject
-HOST-SUFFIX,fxnovus.com,reject
 HOST-SUFFIX,fxpoint.co,reject
 HOST-SUFFIX,fxpvdxfj.shop,reject
 HOST-SUFFIX,fxr-ai.com,reject
@@ -9077,6 +9097,7 @@ HOST-SUFFIX,gaiabeautyproducts.com,reject
 HOST-SUFFIX,gaiaboutique.de,reject
 HOST-SUFFIX,gain-deals.de,reject
 HOST-SUFFIX,gainexo.com,reject
+HOST-SUFFIX,gainful-markets.com,reject
 HOST-SUFFIX,gaingeneratorpro.de,reject
 HOST-SUFFIX,gainsandrosez.shop,reject
 HOST-SUFFIX,galactict.com,reject
@@ -9092,7 +9113,6 @@ HOST-SUFFIX,galerieoswald.de,reject
 HOST-SUFFIX,galerierudolfleebo.shop,reject
 HOST-SUFFIX,galeryfile.com,reject
 HOST-SUFFIX,galidix.com,reject
-HOST-SUFFIX,galileofx.com,reject
 HOST-SUFFIX,galleria-kaufhof.de,reject
 HOST-SUFFIX,gallery.cdn.pandora.xiaomi.com,reject
 HOST-SUFFIX,gallusgarten.com,reject
@@ -9247,7 +9267,6 @@ HOST-SUFFIX,gartenschranke.com,reject
 HOST-SUFFIX,gartenschritte.de,reject
 HOST-SUFFIX,gartenschwester.de,reject
 HOST-SUFFIX,gartensim.de,reject
-HOST-SUFFIX,gartenstadl.de,reject
 HOST-SUFFIX,gartenstores.com,reject
 HOST-SUFFIX,gartenstuebel.de,reject
 HOST-SUFFIX,gartenstuhlemetall.com,reject
@@ -9294,6 +9313,7 @@ HOST-SUFFIX,gblkaufen.net,reject
 HOST-SUFFIX,gbr-office.de,reject
 HOST-SUFFIX,gbuynix.com,reject
 HOST-SUFFIX,gcash-casino-ph.com,reject
+HOST-SUFFIX,gcitrading.com,reject
 HOST-SUFFIX,gd-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,gdbois.com,reject
 HOST-SUFFIX,gdprice.co.uk,reject
@@ -9447,13 +9467,11 @@ HOST-SUFFIX,gesundmedplus.com,reject
 HOST-SUFFIX,gesundpur.at,reject
 HOST-SUFFIX,gesundundklar.com,reject
 HOST-SUFFIX,get-adel.de,reject
-HOST-SUFFIX,get-airzuma.com,reject
 HOST-SUFFIX,get-airzuma.topashopo.com,reject
 HOST-SUFFIX,get-akusoli.com,reject
 HOST-SUFFIX,get-coolizicoolzy.store,reject
 HOST-SUFFIX,get-curaball.com,reject
 HOST-SUFFIX,get-digitol.shop,reject
-HOST-SUFFIX,get-epicooler.com,reject
 HOST-SUFFIX,get-fizzclean.com,reject
 HOST-SUFFIX,get-hydrogenwaterbottle.com,reject
 HOST-SUFFIX,get-kinzeno.com,reject
@@ -9519,6 +9537,8 @@ HOST-SUFFIX,gforesuomi.net,reject
 HOST-SUFFIX,gftrades.com,reject
 HOST-SUFFIX,gfxroyal.com,reject
 HOST-SUFFIX,gh-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,gh-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,gh-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ghanim-pharmacies.online,reject
 HOST-SUFFIX,ghbkoshop.com,reject
 HOST-SUFFIX,ghiblimuseumstore.com,reject
@@ -9656,7 +9676,6 @@ HOST-SUFFIX,glovano.com,reject
 HOST-SUFFIX,glovio.de,reject
 HOST-SUFFIX,glow-garden.com,reject
 HOST-SUFFIX,glow-garten.com,reject
-HOST-SUFFIX,glowblend.de,reject
 HOST-SUFFIX,glowency.de,reject
 HOST-SUFFIX,glowera.at,reject
 HOST-SUFFIX,glowhaven.shop,reject
@@ -9711,7 +9730,6 @@ HOST-SUFFIX,goaper.com,reject
 HOST-SUFFIX,goball.de,reject
 HOST-SUFFIX,gobuybest.com,reject
 HOST-SUFFIX,godingor.shop,reject
-HOST-SUFFIX,godseedband.com,reject
 HOST-SUFFIX,goelitemarketing.com,reject
 HOST-SUFFIX,goetzwache.de,reject
 HOST-SUFFIX,goforbest.top,reject
@@ -9786,6 +9804,7 @@ HOST-SUFFIX,good-modellbau-online.com,reject
 HOST-SUFFIX,good-option.com,reject
 HOST-SUFFIX,good-outdoor-shop.com,reject
 HOST-SUFFIX,good-oz.shop,reject
+HOST-SUFFIX,good-pills.com,reject
 HOST-SUFFIX,good-whiskey.com,reject
 HOST-SUFFIX,goodbrushshop.com,reject
 HOST-SUFFIX,goodcontentservice.top,reject
@@ -9845,7 +9864,6 @@ HOST-SUFFIX,govern1.com,reject
 HOST-SUFFIX,gp-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,gp.dejanews.com,reject
 HOST-SUFFIX,gpautoshopimport.com,reject
-HOST-SUFFIX,gplate.de,reject
 HOST-SUFFIX,gplog-sg.byteoversea.com,reject
 HOST-SUFFIX,gplog-sg.capcutapi.com,reject
 HOST-SUFFIX,gplog-va-useast2a.byteoversea.com,reject
@@ -9901,6 +9919,7 @@ HOST-SUFFIX,grazapotheke.com,reject
 HOST-SUFFIX,grazmodehaus.at,reject
 HOST-SUFFIX,greatescapery.com,reject
 HOST-SUFFIX,greatestpod.com,reject
+HOST-SUFFIX,greatpillsshops.com,reject
 HOST-SUFFIX,greattioa.com,reject
 HOST-SUFFIX,greecefarmakeio.com,reject
 HOST-SUFFIX,green-coffo.shop,reject
@@ -10013,11 +10032,9 @@ HOST-SUFFIX,gruenliva.de,reject
 HOST-SUFFIX,gruenstark.de,reject
 HOST-SUFFIX,gruenstein.inc,reject
 HOST-SUFFIX,grundbuch-portal.at,reject
-HOST-SUFFIX,grundbuch.zentraler-antragsservice.com,reject
 HOST-SUFFIX,grundbuchauszug-plattform.de,reject
 HOST-SUFFIX,grundbuchauszugonline.at,reject
 HOST-SUFFIX,grundbuchauszugplattform.de,reject
-HOST-SUFFIX,grundbuchplattform.de,reject
 HOST-SUFFIX,grundstoffde.com,reject
 HOST-SUFFIX,grunekraft.store,reject
 HOST-SUFFIX,grunepflanzenwelt.com,reject
@@ -10037,6 +10054,7 @@ HOST-SUFFIX,gsportapparelo.shop,reject
 HOST-SUFFIX,gstat.pandora.xiaomi.com,reject
 HOST-SUFFIX,gstore.at,reject
 HOST-SUFFIX,gt-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,gt-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,gtglobal.intl.miui.com,reject
 HOST-SUFFIX,gti-capital.com,reject
 HOST-SUFFIX,gtimarkets.com,reject
@@ -10084,6 +10102,7 @@ HOST-SUFFIX,guteholzheizung.de,reject
 HOST-SUFFIX,guten.store,reject
 HOST-SUFFIX,gutenshop.com,reject
 HOST-SUFFIX,guterkauf.com,reject
+HOST-SUFFIX,guterkauf.com.de,reject
 HOST-SUFFIX,guterloft.com,reject
 HOST-SUFFIX,gutes-angebot.net,reject
 HOST-SUFFIX,gutes-holz.com,reject
@@ -10201,6 +10220,7 @@ HOST-SUFFIX,hamburgermenetekel.de,reject
 HOST-SUFFIX,hamburgmode.com,reject
 HOST-SUFFIX,hammerhearing.com,reject
 HOST-SUFFIX,hampel.shop,reject
+HOST-SUFFIX,hamsterkiste.de,reject
 HOST-SUFFIX,hamsterspot.com,reject
 HOST-SUFFIX,hamtillo.shop,reject
 HOST-SUFFIX,hamuelmaschinen.com,reject
@@ -10227,7 +10247,6 @@ HOST-SUFFIX,handpanora.com,reject
 HOST-SUFFIX,handschellen.deveri.de,reject
 HOST-SUFFIX,handsoapstore.com,reject
 HOST-SUFFIX,handsomehose.com,reject
-HOST-SUFFIX,handstille.de,reject
 HOST-SUFFIX,handtholzhandelgmbh.de,reject
 HOST-SUFFIX,handtooldirect.com,reject
 HOST-SUFFIX,handtoolsrich.com,reject
@@ -10478,6 +10497,7 @@ HOST-SUFFIX,heivinlyboxes.com,reject
 HOST-SUFFIX,heiz-oel24.com,reject
 HOST-SUFFIX,heiz-partner24.de,reject
 HOST-SUFFIX,heizara.de,reject
+HOST-SUFFIX,heizbedarf24.com,reject
 HOST-SUFFIX,heizco.de,reject
 HOST-SUFFIX,heizdirekt.de,reject
 HOST-SUFFIX,heizela.de,reject
@@ -10801,6 +10821,7 @@ HOST-SUFFIX,hizonetech.com,reject
 HOST-SUFFIX,hjmyfzzw.com,reject
 HOST-SUFFIX,hjullagerdrivaxlar.com,reject
 HOST-SUFFIX,hk-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,hk-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,hk-tracker.trafficmanager.net,reject
 HOST-SUFFIX,hkp-biofuels.com,reject
 HOST-SUFFIX,hks-versand.de,reject
@@ -10816,6 +10837,7 @@ HOST-SUFFIX,hme-uat-loganalytics-namespace.servicebus.windows.net,reject
 HOST-SUFFIX,hmfo.shop,reject
 HOST-SUFFIX,hmnengel.com,reject
 HOST-SUFFIX,hn-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,hn-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,hoabinhvn.com,reject
 HOST-SUFFIX,hoamatkulto.shop,reject
 HOST-SUFFIX,hoangduypharma.com,reject
@@ -10824,7 +10846,6 @@ HOST-SUFFIX,hobari.shop,reject
 HOST-SUFFIX,hobbiesoutdoor.com,reject
 HOST-SUFFIX,hobbiessurfing.com,reject
 HOST-SUFFIX,hobbybude.com,reject
-HOST-SUFFIX,hobbyhubvip.com,reject
 HOST-SUFFIX,hobbyjapanmodel.com,reject
 HOST-SUFFIX,hobyshoping.my.id,reject
 HOST-SUFFIX,hocgeese.com,reject
@@ -11057,6 +11078,7 @@ HOST-SUFFIX,hotix.de,reject
 HOST-SUFFIX,hotjar.com,reject
 HOST-SUFFIX,hotlog.ru,reject
 HOST-SUFFIX,hotpillonline.com,reject
+HOST-SUFFIX,hotrank.com.tw,reject
 HOST-SUFFIX,hotsalemakeup.com,reject
 HOST-SUFFIX,hottestfurniture.com,reject
 HOST-SUFFIX,hotwelt.com,reject
@@ -11081,6 +11103,7 @@ HOST-SUFFIX,hqbroker.com,reject
 HOST-SUFFIX,hqgerminy.com,reject
 HOST-SUFFIX,hqmed.net,reject
 HOST-SUFFIX,hr-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,hr-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,hr2021.com,reject
 HOST-SUFFIX,hrvatskafarmacija.com,reject
 HOST-SUFFIX,hrxpackage.com,reject
@@ -11100,6 +11123,8 @@ HOST-SUFFIX,hthgamingpro.com,reject
 HOST-SUFFIX,htlbid.com,reject
 HOST-SUFFIX,httpool.com,reject
 HOST-SUFFIX,hu-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,hu-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,hu-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,huaihaigc.com,reject
 HOST-SUFFIX,huard-stammholz.com,reject
 HOST-SUFFIX,hub-wiser.com,reject
@@ -11252,6 +11277,7 @@ HOST-SUFFIX,icelandhorse-shop.de,reject
 HOST-SUFFIX,icetrade.co.uk,reject
 HOST-SUFFIX,ichkaufegrundstuecke.de,reject
 HOST-SUFFIX,ichterhof.com,reject
+HOST-SUFFIX,icmskillevents.trafficmanager.net,reject
 HOST-SUFFIX,icmswisscs.com,reject
 HOST-SUFFIX,icmtrading.com,reject
 HOST-SUFFIX,iconmobel.com,reject
@@ -11277,10 +11303,13 @@ HOST-SUFFIX,icota-eu.coloros.com,reject
 HOST-SUFFIX,icota-service-eu.allawnos.com,reject
 HOST-SUFFIX,icota-service-in.allawnos.com,reject
 HOST-SUFFIX,icptrack.com,reject
+HOST-SUFFIX,icywinter.com,reject
 HOST-SUFFIX,id-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,id-analyzer-appstore.vivoglobal.com,reject
 HOST-SUFFIX,id-austria.at-bmf-gv-uberprufung.com,reject
+HOST-SUFFIX,id-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,id-proof.de,reject
+HOST-SUFFIX,id-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,id-third-appstore.vivoglobal.com,reject
 HOST-SUFFIX,id.push.heytapmobi.com,reject
 HOST-SUFFIX,id5-sync.com,reject
@@ -11312,6 +11341,8 @@ HOST-SUFFIX,idsaled.de,reject
 HOST-SUFFIX,idtargeting.com,reject
 HOST-SUFFIX,ie-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ie-audit.com,reject
+HOST-SUFFIX,ie-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ie-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ielaf.shop,reject
 HOST-SUFFIX,ientrymail.com,reject
 HOST-SUFFIX,ieonline.microsoft.com,reject
@@ -11362,6 +11393,8 @@ HOST-SUFFIX,ikkotrader.com,reject
 HOST-SUFFIX,ikloveov.click,reject
 HOST-SUFFIX,ikmislionlinesite.com,reject
 HOST-SUFFIX,il-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,il-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,il-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ilamparas.de,reject
 HOST-SUFFIX,ilbanner.com,reject
 HOST-SUFFIX,ilead.itrack.it,reject
@@ -11410,6 +11443,8 @@ HOST-SUFFIX,immediate-connect.com,reject
 HOST-SUFFIX,immediate-coraldex.com,reject
 HOST-SUFFIX,immediate-dash.de,reject
 HOST-SUFFIX,immediate-direct.com,reject
+HOST-SUFFIX,immediate-edge.co,reject
+HOST-SUFFIX,immediate-edge2.com,reject
 HOST-SUFFIX,immediate-flik.com,reject
 HOST-SUFFIX,immediate-growth.com,reject
 HOST-SUFFIX,immediate-momentum.com,reject
@@ -11476,7 +11511,6 @@ HOST-SUFFIX,in-ad-mkt-vivofs.vivoglobal.com,reject
 HOST-SUFFIX,in-adlog.vivoglobal.com,reject
 HOST-SUFFIX,in-adreq.vivoglobal.com,reject
 HOST-SUFFIX,in-adsjssdk.vivoglobal.com,reject
-HOST-SUFFIX,in-analyzer-appstore.vivoglobal.com,reject
 HOST-SUFFIX,in-api-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,in-apponrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,in-apport-stsdk.vivoglobal.com,reject
@@ -11502,6 +11536,7 @@ HOST-SUFFIX,in-os-config-appstore.vivoglobal.com,reject
 HOST-SUFFIX,in-pnrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,in-protect-dev.sec.intl.miui.com,reject
 HOST-SUFFIX,in-prt-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,in-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,in-third-appstore.vivoglobal.com,reject
 HOST-SUFFIX,in-timesync.vivoglobal.com,reject
 HOST-SUFFIX,in-vcode-api.vivoglobal.com,reject
@@ -11641,7 +11676,6 @@ HOST-SUFFIX,insolvenzverwalter-frenzel.de,reject
 HOST-SUFFIX,inspectiony.com,reject
 HOST-SUFFIX,inspectlet.com,reject
 HOST-SUFFIX,inspirationalgadget.com,reject
-HOST-SUFFIX,inspoy.com,reject
 HOST-SUFFIX,insta-trading.com,reject
 HOST-SUFFIX,instahauls.com,reject
 HOST-SUFFIX,install-gwh.at,reject
@@ -11751,6 +11785,7 @@ HOST-SUFFIX,ioneebeauty.com,reject
 HOST-SUFFIX,iot-earbuds-cn.heytapmobi.com,reject
 HOST-SUFFIX,iount.com,reject
 HOST-SUFFIX,iovyshop.com,reject
+HOST-SUFFIX,iowautotrading.com,reject
 HOST-SUFFIX,ip-info.ff.avast.sec.miui.com,reject
 HOST-SUFFIX,ip.ptqy.gitv.tv,reject
 HOST-SUFFIX,ip.ro,reject
@@ -11772,6 +11807,7 @@ HOST-SUFFIX,iptvkaufen24.shop,reject
 HOST-SUFFIX,ipuroangebote.com,reject
 HOST-SUFFIX,iq-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,iq-fast.com,reject
+HOST-SUFFIX,iq-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,iq-measure.com,reject
 HOST-SUFFIX,iq-metric.com,reject
 HOST-SUFFIX,iq-minute.com,reject
@@ -11907,6 +11943,7 @@ HOST-SUFFIX,izidiscount.com,reject
 HOST-SUFFIX,iziwallet.io,reject
 HOST-SUFFIX,izxinet.com,reject
 HOST-SUFFIX,j93557g.com,reject
+HOST-SUFFIX,ja7-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,jabany.at,reject
 HOST-SUFFIX,jackjonesbootmaker.com,reject
 HOST-SUFFIX,jackwolfskinoutletdeutschland.de,reject
@@ -11979,7 +12016,6 @@ HOST-SUFFIX,jerusalemcharity.com,reject
 HOST-SUFFIX,jet2trips.com,reject
 HOST-SUFFIX,jetprofund.net,reject
 HOST-SUFFIX,jette-handel.de,reject
-HOST-SUFFIX,jetterix.com,reject
 HOST-SUFFIX,jeulia.de,reject
 HOST-SUFFIX,jewellery-palace.com,reject
 HOST-SUFFIX,jewelleryina.com,reject
@@ -12092,7 +12128,9 @@ HOST-SUFFIX,joyshoetique.com,reject
 HOST-SUFFIX,joystar.top,reject
 HOST-SUFFIX,joytutus.shop,reject
 HOST-SUFFIX,jp-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,jp-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,jp-performance.net,reject
+HOST-SUFFIX,jp-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,jpmizunoshop.com,reject
 HOST-SUFFIX,jpmorgans-group.org,reject
 HOST-SUFFIX,jqwerks.com,reject
@@ -12267,6 +12305,7 @@ HOST-SUFFIX,kamagra-original.sk,reject
 HOST-SUFFIX,kamagra-premium.net,reject
 HOST-SUFFIX,kamagra-pro.com,reject
 HOST-SUFFIX,kamagra-pro.net,reject
+HOST-SUFFIX,kamagra-pro.online,reject
 HOST-SUFFIX,kamagra-prodej-levne.cz,reject
 HOST-SUFFIX,kamagra-prodej.cz,reject
 HOST-SUFFIX,kamagra-prodej.online,reject
@@ -12418,7 +12457,6 @@ HOST-SUFFIX,kathewohlfahrt-de.com,reject
 HOST-SUFFIX,kathielpe.de,reject
 HOST-SUFFIX,kathryn-w.shop,reject
 HOST-SUFFIX,katzende.de,reject
-HOST-SUFFIX,katzenliebling.com,reject
 HOST-SUFFIX,katzenmarke.at,reject
 HOST-SUFFIX,katzenweltde.com,reject
 HOST-SUFFIX,katzenweltde.de,reject
@@ -12499,6 +12537,7 @@ HOST-SUFFIX,kettensage.de,reject
 HOST-SUFFIX,kettenschein.com,reject
 HOST-SUFFIX,ketteverkauf.com,reject
 HOST-SUFFIX,keucoverkauf.com,reject
+HOST-SUFFIX,kevindurantshoes.net,reject
 HOST-SUFFIX,kevtt.com,reject
 HOST-SUFFIX,key34.com,reject
 HOST-SUFFIX,keyblissboutique.com,reject
@@ -12626,6 +12665,7 @@ HOST-SUFFIX,kittycatking.com,reject
 HOST-SUFFIX,kittykaiser.de,reject
 HOST-SUFFIX,kiuf1.com,reject
 HOST-SUFFIX,kiwea.shop,reject
+HOST-SUFFIX,kiwidrug.com,reject
 HOST-SUFFIX,kiwifunk.com,reject
 HOST-SUFFIX,kizaro.de,reject
 HOST-SUFFIX,kizorknives.shop,reject
@@ -12832,6 +12872,7 @@ HOST-SUFFIX,kpnukknv.shop,reject
 HOST-SUFFIX,kpoweronline.com,reject
 HOST-SUFFIX,kpu.samsungelectronics.com,reject
 HOST-SUFFIX,kr-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,kr-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,krabihotelsthailand.net,reject
 HOST-SUFFIX,kraeuterhof-zacho.shop,reject
 HOST-SUFFIX,kraftdesweins.com,reject
@@ -12851,6 +12892,7 @@ HOST-SUFFIX,kraus-anwaelte.de,reject
 HOST-SUFFIX,krause-winter.com,reject
 HOST-SUFFIX,krausmode.de,reject
 HOST-SUFFIX,kraviso.com,reject
+HOST-SUFFIX,krdsiq.info,reject
 HOST-SUFFIX,kreative-zukunft.com,reject
 HOST-SUFFIX,kreativebodenbelage.com,reject
 HOST-SUFFIX,kredit-finanzen.com,reject
@@ -12989,16 +13031,17 @@ HOST-SUFFIX,kynaz10fashion.com,reject
 HOST-SUFFIX,kynebeauty.de,reject
 HOST-SUFFIX,kynubeauty.de,reject
 HOST-SUFFIX,kz-ad-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,kz-album-api.vivoglobal.com,reject
 HOST-SUFFIX,kz-cname-sin01-bigdata.vivoglobal.com,reject
 HOST-SUFFIX,kz-cota.vivoglobal.com,reject
 HOST-SUFFIX,kz-err-up.vivoglobal.com,reject
+HOST-SUFFIX,kz-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,kz-monitor-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,kz-onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,kz-ort-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,kz-p.vivoglobal.com,reject
 HOST-SUFFIX,kz-pnrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,kz-prt-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,kz-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,kz-romsp-unifyconfig.vivoglobal.com,reject
 HOST-SUFFIX,kz-st-exappupgrade.vivoglobal.com,reject
 HOST-SUFFIX,kz-st-sl.vivoglobal.com,reject
@@ -13162,7 +13205,6 @@ HOST-SUFFIX,lavianie.com,reject
 HOST-SUFFIX,lavina-berlin.de,reject
 HOST-SUFFIX,laviza.de,reject
 HOST-SUFFIX,layda-handel.de,reject
-HOST-SUFFIX,layer-ad.de,reject
 HOST-SUFFIX,layer-ads.de,reject
 HOST-SUFFIX,layer-care.com,reject
 HOST-SUFFIX,layer-shop.com,reject
@@ -13176,6 +13218,7 @@ HOST-SUFFIX,lbtinc.com,reject
 HOST-SUFFIX,lbzdzx.com,reject
 HOST-SUFFIX,lccontainersupply.com,reject
 HOST-SUFFIX,lcfservice.com,reject
+HOST-SUFFIX,lcg.com,reject
 HOST-SUFFIX,lcm-markets.com,reject
 HOST-SUFFIX,lcxholz.de,reject
 HOST-SUFFIX,le-cartier.com,reject
@@ -13184,7 +13227,6 @@ HOST-SUFFIX,lea-frankfurt.com,reject
 HOST-SUFFIX,lead02.com,reject
 HOST-SUFFIX,leadboltads.net,reject
 HOST-SUFFIX,leadbrass.com,reject
-HOST-SUFFIX,leadclick.com,reject
 HOST-SUFFIX,leadinfo.net,reject
 HOST-SUFFIX,leadingedgecash.com,reject
 HOST-SUFFIX,leadplace.fr,reject
@@ -13192,7 +13234,6 @@ HOST-SUFFIX,leadspace.com,reject
 HOST-SUFFIX,leadzupc.com,reject
 HOST-SUFFIX,leafoz.shop,reject
 HOST-SUFFIX,leagpellts.de,reject
-HOST-SUFFIX,leahideas.com,reject
 HOST-SUFFIX,lean-official.com,reject
 HOST-SUFFIX,leaplunchroom.com,reject
 HOST-SUFFIX,learn.atdaslelabor.com,reject
@@ -13520,7 +13561,6 @@ HOST-SUFFIX,linknook.com,reject
 HOST-SUFFIX,linkprice.com,reject
 HOST-SUFFIX,linkrain.com,reject
 HOST-SUFFIX,linkreferral.com,reject
-HOST-SUFFIX,links-ranking.de,reject
 HOST-SUFFIX,links.email.crunchbase.com,reject
 HOST-SUFFIX,links.housekeep.com,reject
 HOST-SUFFIX,links.prosservice.fr,reject
@@ -13543,7 +13583,6 @@ HOST-SUFFIX,lippenrot.com,reject
 HOST-SUFFIX,lipsfick.com,reject
 HOST-SUFFIX,lipvogue.com,reject
 HOST-SUFFIX,liqourdeals.online,reject
-HOST-SUFFIX,liquidad.narrowcastmedia.com,reject
 HOST-SUFFIX,liquidationstockz.com,reject
 HOST-SUFFIX,liquidpoolservice.com,reject
 HOST-SUFFIX,lirunqiu.com,reject
@@ -13647,9 +13686,7 @@ HOST-SUFFIX,locateanyphone.net,reject
 HOST-SUFFIX,location-i18n.tiktokv.com,reject
 HOST-SUFFIX,location-ie.tiktokv.eu,reject
 HOST-SUFFIX,location-microsoft-com.b-0005.b-msedge.net,reject
-HOST-SUFFIX,location-ru.tiktokv.com,reject
 HOST-SUFFIX,location-sg.tiktokv.com,reject
-HOST-SUFFIX,location-ttp2.tiktokv.eu,reject
 HOST-SUFFIX,location-ttp2.tiktokv.us,reject
 HOST-SUFFIX,location-ttp2.tiktokw.eu,reject
 HOST-SUFFIX,location-ttp2.tiktokw.us,reject
@@ -13670,11 +13707,9 @@ HOST-SUFFIX,location.microsoft.com,reject
 HOST-SUFFIX,location.tiktok.com,reject
 HOST-SUFFIX,location.tiktokv.com,reject
 HOST-SUFFIX,location.tiktokv.eu,reject
-HOST-SUFFIX,location.tiktokv.us,reject
 HOST-SUFFIX,location.tiktokw.eu,reject
 HOST-SUFFIX,location.tiktokw.us,reject
 HOST-SUFFIX,location.us.tiktokv.com,reject
-HOST-SUFFIX,location16-normal-useastred.tiktokv.eu,reject
 HOST-SUFFIX,location16-normal-useastred.tiktokw.eu,reject
 HOST-SUFFIX,locationconseilsfinanciers.fr,reject
 HOST-SUFFIX,locations.crocs.de,reject
@@ -13749,6 +13784,7 @@ HOST-SUFFIX,log15-normal.tiktokv.com,reject
 HOST-SUFFIX,log15.byteoversea.com,reject
 HOST-SUFFIX,log16-applog-useast5.us.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,log16-normal-alisg.tiktokv.com.kp45.ru,reject
 HOST-SUFFIX,log16-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-c-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-delay-alisg.tiktokv.com,reject
@@ -13791,6 +13827,7 @@ HOST-SUFFIX,log19-normal.tiktokv.com,reject
 HOST-SUFFIX,log22-applog-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log22-applog-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,log22-normal-alisg.tiktokv.com.kp45.ru,reject
 HOST-SUFFIX,log22-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-zr-alisg.tiktokv.com,reject
@@ -13799,7 +13836,9 @@ HOST-SUFFIX,log22-normal-zr.tiktokv.com,reject
 HOST-SUFFIX,log22-normal.capcutapi.com,reject
 HOST-SUFFIX,log22-normal.tiktokv.com,reject
 HOST-SUFFIX,log3-normal-c-alisg.tiktokv.com,reject
+HOST-SUFFIX,log3-normal-c-alisg.tiktokv.com.w.kunlunsl.com,reject
 HOST-SUFFIX,log3-normal-c-useast1a.tiktokv.com,reject
+HOST-SUFFIX,log3-normal-c-useast1a.tiktokv.com.w.kunlunsl.com,reject
 HOST-SUFFIX,log31-normal-alisg.tiktokv.com,reject
 HOST-SUFFIX,log31-normal-no1a.tiktokv.eu,reject
 HOST-SUFFIX,log31-normal-sg.capcutapi.com,reject
@@ -13832,6 +13871,7 @@ HOST-SUFFIX,log58-normal.tiktokv.com,reject
 HOST-SUFFIX,log77-normal-c-alisg.tiktokv.com,reject
 HOST-SUFFIX,log77-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log9-normal-c-useast1a.tiktokv.com,reject
+HOST-SUFFIX,log9-normal-c-useast1a.tiktokv.com.ecdnx.com,reject
 HOST-SUFFIX,logbak.hicloud.com,reject
 HOST-SUFFIX,logbk.tiktokv.com,reject
 HOST-SUFFIX,logforward.browser.heytapmobi.com,reject
@@ -13857,6 +13897,7 @@ HOST-SUFFIX,logsss.com,reject
 HOST-SUFFIX,logtrace.snssdk.com,reject
 HOST-SUFFIX,logua.com,reject
 HOST-SUFFIX,logupdate.avlyun.sec.miui.com,reject
+HOST-SUFFIX,lohmann-mode.de,reject
 HOST-SUFFIX,lohr-treuhand.com,reject
 HOST-SUFFIX,lojaarantes.com.br,reject
 HOST-SUFFIX,lojabrmetaversoline.com,reject
@@ -13967,7 +14008,6 @@ HOST-SUFFIX,lovesuear.click,reject
 HOST-SUFFIX,lovethefleamarket.com,reject
 HOST-SUFFIX,lovetruar.click,reject
 HOST-SUFFIX,loveylvioa.com,reject
-HOST-SUFFIX,lovinal.com,reject
 HOST-SUFFIX,lovingtanonline.com,reject
 HOST-SUFFIX,lovozo.de,reject
 HOST-SUFFIX,lowa--schuhe.com,reject
@@ -14008,6 +14048,8 @@ HOST-SUFFIX,lse-client.com,reject
 HOST-SUFFIX,lslibenstil.com,reject
 HOST-SUFFIX,lsvhandel.com,reject
 HOST-SUFFIX,lt-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,lt-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,lt-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ltelegia.com,reject
 HOST-SUFFIX,ltjonline.com,reject
 HOST-SUFFIX,lu-ad-lgsmartad-com.aws-prd.net,reject
@@ -14047,7 +14089,6 @@ HOST-SUFFIX,lumawerks.de,reject
 HOST-SUFFIX,lumeerrs.shop,reject
 HOST-SUFFIX,lumelia-de.com,reject
 HOST-SUFFIX,lumendecor.de,reject
-HOST-SUFFIX,lumenrosa.de,reject
 HOST-SUFFIX,lumentes.com,reject
 HOST-SUFFIX,lumerabeautyclub.com,reject
 HOST-SUFFIX,lumesdesign.com,reject
@@ -14131,6 +14172,7 @@ HOST-SUFFIX,luxwatch.store,reject
 HOST-SUFFIX,luxydiamonds.com,reject
 HOST-SUFFIX,luzcollections.shop,reject
 HOST-SUFFIX,lv-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,lv-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,lvm-capital.com,reject
 HOST-SUFFIX,lwex.com,reject
 HOST-SUFFIX,lxcdn.dl.files.xiaomi.net,reject
@@ -14140,7 +14182,6 @@ HOST-SUFFIX,ly-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,lydevmkt.shop,reject
 HOST-SUFFIX,lydiarenoir.com,reject
 HOST-SUFFIX,lynch-care.com,reject
-HOST-SUFFIX,lynorhome.net,reject
 HOST-SUFFIX,lypgm.com,reject
 HOST-SUFFIX,lyricshook.com,reject
 HOST-SUFFIX,lytics.io,reject
@@ -14165,6 +14206,7 @@ HOST-SUFFIX,m6r.eu,reject
 HOST-SUFFIX,ma-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ma-autoteile.de,reject
 HOST-SUFFIX,ma-cave.net,reject
+HOST-SUFFIX,ma-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ma-parapharmacie-fr.net,reject
 HOST-SUFFIX,ma-trousse-parfaite.com,reject
 HOST-SUFFIX,ma-trousse-parfaito.shop,reject
@@ -14197,7 +14239,6 @@ HOST-SUFFIX,mads.amazon.com,reject
 HOST-SUFFIX,madvertise.de,reject
 HOST-SUFFIX,maeandrose.de,reject
 HOST-SUFFIX,maehlholz.com,reject
-HOST-SUFFIX,maehrobot.shop,reject
 HOST-SUFFIX,maerkischeskinderdorf.de,reject
 HOST-SUFFIX,magag.de,reject
 HOST-SUFFIX,magalistore.com,reject
@@ -14239,7 +14280,6 @@ HOST-SUFFIX,mailionos.de,reject
 HOST-SUFFIX,maillauto-industrie.com,reject
 HOST-SUFFIX,main-btc.com,reject
 HOST-SUFFIX,main-garten.at,reject
-HOST-SUFFIX,main-mokassin.de,reject
 HOST-SUFFIX,mainandtaylorshoes.shop,reject
 HOST-SUFFIX,mainecoonkatzenzucht.de,reject
 HOST-SUFFIX,mainet.business,reject
@@ -14307,7 +14347,6 @@ HOST-SUFFIX,man-investments.com,reject
 HOST-SUFFIX,man-zone.cz,reject
 HOST-SUFFIX,man-zone.fit,reject
 HOST-SUFFIX,man-zone.sk,reject
-HOST-SUFFIX,manageadv.cblogs.eu,reject
 HOST-SUFFIX,management-zander.de,reject
 HOST-SUFFIX,managementinvest.com,reject
 HOST-SUFFIX,manda-marketing.de,reject
@@ -14352,12 +14391,10 @@ HOST-SUFFIX,marcfisherwien.at,reject
 HOST-SUFFIX,marcjacobsfactoryoutlet.us,reject
 HOST-SUFFIX,marcjacobsosterreich.at,reject
 HOST-SUFFIX,marcoferretti.de,reject
-HOST-SUFFIX,marconzept.com,reject
 HOST-SUFFIX,marconzept.de,reject
 HOST-SUFFIX,marcopolorabatt.com,reject
 HOST-SUFFIX,marcosbrito.com,reject
 HOST-SUFFIX,marctissior.shop,reject
-HOST-SUFFIX,marcuweklingboutique.shop,reject
 HOST-SUFFIX,marcveriont.de,reject
 HOST-SUFFIX,mardano.com,reject
 HOST-SUFFIX,margarethes-garten.com,reject
@@ -14454,12 +14491,10 @@ HOST-SUFFIX,marveliona.com,reject
 HOST-SUFFIX,marvelous-shopping.com,reject
 HOST-SUFFIX,marwoodworkshop.com,reject
 HOST-SUFFIX,maryrosecuskelly.com,reject
-HOST-SUFFIX,marystyles.com,reject
 HOST-SUFFIX,mas-sdk-cn.amazon-adsystem.com,reject
 HOST-SUFFIX,mas-sdk-eu.amazon-adsystem.com,reject
 HOST-SUFFIX,mas-sdk.amazon-adsystem.com,reject
 HOST-SUFFIX,mas.sector.sk,reject
-HOST-SUFFIX,maschine1shop.com,reject
 HOST-SUFFIX,maschinenbau-marketingtranslations.com,reject
 HOST-SUFFIX,maschinenfuergarten.de,reject
 HOST-SUFFIX,maschinenpreiswert.com,reject
@@ -14471,10 +14506,8 @@ HOST-SUFFIX,masprori.com,reject
 HOST-SUFFIX,masri-trans.de,reject
 HOST-SUFFIX,massagestimulus.com,reject
 HOST-SUFFIX,massen.shop,reject
-HOST-SUFFIX,massimo-dutti.at,reject
 HOST-SUFFIX,massive-deals.com,reject
 HOST-SUFFIX,masterbaushop.de,reject
-HOST-SUFFIX,masterofmalteu.shop,reject
 HOST-SUFFIX,masters-dipl-kfm.de,reject
 HOST-SUFFIX,masterufblades.com,reject
 HOST-SUFFIX,masti.store,reject
@@ -14521,12 +14554,9 @@ HOST-SUFFIX,maws-aax-apse-rtb-adx.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-apse-rtb.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-eu-rtb-adx.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-eu-rtb.amazon-adsystem.com,reject
-HOST-SUFFIX,maws-aax-eu.amazon-adsystem.com,reject
-HOST-SUFFIX,maws-aax-fe.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-us-east-rtb-adx.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-us-east-rtb.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-us-east-test4.amazon-adsystem.com,reject
-HOST-SUFFIX,maws-aax-us-east.amazon-adsystem.com,reject
 HOST-SUFFIX,maws-aax-us-pdx-rtb.amazon-adsystem.com,reject
 HOST-SUFFIX,max-apteka.pl,reject
 HOST-SUFFIX,max-healthcarerx.com,reject
@@ -14543,7 +14573,6 @@ HOST-SUFFIX,maxmotocenter.com,reject
 HOST-SUFFIX,maxonclick.com,reject
 HOST-SUFFIX,maxpeedingrods.de,reject
 HOST-SUFFIX,maxpotenz.de,reject
-HOST-SUFFIX,maxwellwilliamshop.com,reject
 HOST-SUFFIX,maxx-prijevoz.com,reject
 HOST-SUFFIX,mayer-boutique.de,reject
 HOST-SUFFIX,mayerhuber.at,reject
@@ -14718,6 +14747,8 @@ HOST-SUFFIX,mdp-usertrace-cn.heytapmobi.com,reject
 HOST-SUFFIX,mdp-usertrace-in.heytapmobile.com,reject
 HOST-SUFFIX,mdp-usertrace-sg.heytapmobile.com,reject
 HOST-SUFFIX,me-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,me-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,me-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,me.apple-dns.net,reject
 HOST-SUFFIX,meadowlullaby.com,reject
 HOST-SUFFIX,meamarkt.de,reject
@@ -14761,9 +14792,6 @@ HOST-SUFFIX,mediafuse.com,reject
 HOST-SUFFIX,mediageneral.com,reject
 HOST-SUFFIX,mediaiqdigital.com,reject
 HOST-SUFFIX,mediamarkt-berlin.com,reject
-HOST-SUFFIX,mediamarkt-gg.com,reject
-HOST-SUFFIX,mediamarkt-gg.de,reject
-HOST-SUFFIX,mediamarkt-holland.com,reject
 HOST-SUFFIX,mediamath.com,reject
 HOST-SUFFIX,mediamgr.ugo.com,reject
 HOST-SUFFIX,mediaplazza.com,reject
@@ -14854,13 +14882,10 @@ HOST-SUFFIX,mein-buch24.de,reject
 HOST-SUFFIX,mein-ebike.de,reject
 HOST-SUFFIX,mein-ebikepro.com,reject
 HOST-SUFFIX,mein-euro-kredit.de,reject
-HOST-SUFFIX,mein-garten-deco.com,reject
 HOST-SUFFIX,mein-gartenmarkt.de,reject
 HOST-SUFFIX,mein-gartentor.de,reject
 HOST-SUFFIX,mein-gewaechshaus-shop.de,reject
 HOST-SUFFIX,mein-handel.at,reject
-HOST-SUFFIX,mein-kleinerhuhnerstall.com,reject
-HOST-SUFFIX,mein-pluschtier.de,reject
 HOST-SUFFIX,mein-technikmarkt.com,reject
 HOST-SUFFIX,mein-thermenwartung.at,reject
 HOST-SUFFIX,mein-trailer.de,reject
@@ -14890,7 +14915,6 @@ HOST-SUFFIX,meinehundemarke.ch,reject
 HOST-SUFFIX,meinehundemarke.de,reject
 HOST-SUFFIX,meineide.de,reject
 HOST-SUFFIX,meinelbakonto.com,reject
-HOST-SUFFIX,meinenamenskette.com,reject
 HOST-SUFFIX,meineogk.at,reject
 HOST-SUFFIX,meinepflegeapotheke.de,reject
 HOST-SUFFIX,meinesafebox.com,reject
@@ -14945,6 +14969,7 @@ HOST-SUFFIX,mellerbrind.com,reject
 HOST-SUFFIX,mellowivor.com,reject
 HOST-SUFFIX,melodigear.com,reject
 HOST-SUFFIX,melorcaguilla.com,reject
+HOST-SUFFIX,melovaxi.org,reject
 HOST-SUFFIX,melroseangebote.de,reject
 HOST-SUFFIX,melrosede.com,reject
 HOST-SUFFIX,meltmilk.com,reject
@@ -14953,7 +14978,6 @@ HOST-SUFFIX,melvinhhouseamilton.com,reject
 HOST-SUFFIX,member-federation.com,reject
 HOST-SUFFIX,membershipy.com,reject
 HOST-SUFFIX,memberxxl.de,reject
-HOST-SUFFIX,memecoin.boo,reject
 HOST-SUFFIX,memonei.com,reject
 HOST-SUFFIX,memorizeneck.com,reject
 HOST-SUFFIX,memory-tee.com,reject
@@ -14984,7 +15008,6 @@ HOST-SUFFIX,meowcastle.ca,reject
 HOST-SUFFIX,mepalconstruction.com,reject
 HOST-SUFFIX,mepalconstructionmodulaire.com,reject
 HOST-SUFFIX,merapack.com,reject
-HOST-SUFFIX,merapetfood.shop,reject
 HOST-SUFFIX,mercadobuyprice.com,reject
 HOST-SUFFIX,mercadolibre.at,reject
 HOST-SUFFIX,mercapool.de,reject
@@ -15081,7 +15104,6 @@ HOST-SUFFIX,mevenus.com,reject
 HOST-SUFFIX,mexdkjuf.com,reject
 HOST-SUFFIX,mexdkjuo.com,reject
 HOST-SUFFIX,mexicotabs.com,reject
-HOST-SUFFIX,meyerenergie.com,reject
 HOST-SUFFIX,meyerpoolwelt.com,reject
 HOST-SUFFIX,mezam.dk,reject
 HOST-SUFFIX,mf-versandhandel-gmbh.myshopify.com,reject
@@ -15111,7 +15133,6 @@ HOST-SUFFIX,miarkaelektronikgmbh.myshopify.com,reject
 HOST-SUFFIX,mibi.api.xiaomi.com,reject
 HOST-SUFFIX,mibi.xiaomi.com,reject
 HOST-SUFFIX,mica-forensic.com,reject
-HOST-SUFFIX,micaraapop.shop,reject
 HOST-SUFFIX,michael-fischer-online.de,reject
 HOST-SUFFIX,michael-mahr.de,reject
 HOST-SUFFIX,michaelis-technik.com,reject
@@ -15122,7 +15143,6 @@ HOST-SUFFIX,michelinsuisse.com,reject
 HOST-SUFFIX,micloudevents.preview.n.xiaomi.com,reject
 HOST-SUFFIX,micro-spiele.de,reject
 HOST-SUFFIX,microduck.homes,reject
-HOST-SUFFIX,microduck.shop,reject
 HOST-SUFFIX,microption.com,reject
 HOST-SUFFIX,microsotfsstore.com,reject
 HOST-SUFFIX,microstatic.pl,reject
@@ -15151,7 +15171,6 @@ HOST-SUFFIX,midwayschiesspulver.de,reject
 HOST-SUFFIX,mieleoutlet.com,reject
 HOST-SUFFIX,mierasenh.com,reject
 HOST-SUFFIX,migc.g.mi.com,reject
-HOST-SUFFIX,migcreport.g.mi.com,reject
 HOST-SUFFIX,mightyufnderground.shop,reject
 HOST-SUFFIX,miginvestgr.tiiny.site,reject
 HOST-SUFFIX,miimio.com,reject
@@ -15178,7 +15197,6 @@ HOST-SUFFIX,militaerbedarf.com,reject
 HOST-SUFFIX,militurestore.com,reject
 HOST-SUFFIX,millaura.com,reject
 HOST-SUFFIX,milleis-bk.com,reject
-HOST-SUFFIX,milleniumchain.com,reject
 HOST-SUFFIX,milleniumcp.com,reject
 HOST-SUFFIX,million-recht.de,reject
 HOST-SUFFIX,millioncrystal.com,reject
@@ -15198,7 +15216,6 @@ HOST-SUFFIX,minansecapital.com,reject
 HOST-SUFFIX,minasautopecas.com,reject
 HOST-SUFFIX,minceex.com,reject
 HOST-SUFFIX,mindaro.de,reject
-HOST-SUFFIX,mindinsole.com,reject
 HOST-SUFFIX,mindmetric.ai,reject
 HOST-SUFFIX,mineafinance.com,reject
 HOST-SUFFIX,mineinvoice.com,reject
@@ -15275,7 +15292,6 @@ HOST-SUFFIX,mistirfit.com,reject
 HOST-SUFFIX,mit-grovur.shop,reject
 HOST-SUFFIX,mitarbeiiterangebote.de,reject
 HOST-SUFFIX,mitchellandness-de.com,reject
-HOST-SUFFIX,miteckenundkantenboutique.shop,reject
 HOST-SUFFIX,mitkindundrad.de,reject
 HOST-SUFFIX,mitsubishiautopartsshop.com,reject
 HOST-SUFFIX,mittencattle.com,reject
@@ -15310,7 +15326,7 @@ HOST-SUFFIX,mjdr.shop,reject
 HOST-SUFFIX,mjolnex-ltd.com,reject
 HOST-SUFFIX,mjsshopping.com,reject
 HOST-SUFFIX,mk-ad-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,mk-kueche.de,reject
+HOST-SUFFIX,mk-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,mkbaudesign.de,reject
 HOST-SUFFIX,mkc-invest.com,reject
 HOST-SUFFIX,mkdfx.fr,reject
@@ -15359,7 +15375,6 @@ HOST-SUFFIX,mobefind-de.com,reject
 HOST-SUFFIX,mobefind.com,reject
 HOST-SUFFIX,mobel-lenk.shop,reject
 HOST-SUFFIX,mobel-lenk.store,reject
-HOST-SUFFIX,mobel-wahls.shop,reject
 HOST-SUFFIX,mobelbett.com,reject
 HOST-SUFFIX,mobelimfreien.com,reject
 HOST-SUFFIX,mobelmagie.com,reject
@@ -15390,7 +15405,6 @@ HOST-SUFFIX,mobischule.com,reject
 HOST-SUFFIX,mobitracker.org,reject
 HOST-SUFFIX,mobixstore.com,reject
 HOST-SUFFIX,mochathedogstore.de,reject
-HOST-SUFFIX,mocne-suple.com,reject
 HOST-SUFFIX,mocucinastore.shop,reject
 HOST-SUFFIX,moda-monica.de,reject
 HOST-SUFFIX,modafinil.cz,reject
@@ -15408,7 +15422,6 @@ HOST-SUFFIX,mode-meister.com,reject
 HOST-SUFFIX,mode-shop-1.de,reject
 HOST-SUFFIX,mode-wunder.de,reject
 HOST-SUFFIX,modeackermann.de,reject
-HOST-SUFFIX,modeatelier-nord.de,reject
 HOST-SUFFIX,modeatelier-weber.de,reject
 HOST-SUFFIX,modebasket.com,reject
 HOST-SUFFIX,modebecker.de,reject
@@ -15424,7 +15437,6 @@ HOST-SUFFIX,modehaus-meyer.de,reject
 HOST-SUFFIX,modehaus-schroers.com,reject
 HOST-SUFFIX,modehausbrandt.com,reject
 HOST-SUFFIX,modehausedelweis.com,reject
-HOST-SUFFIX,modehausessen.de,reject
 HOST-SUFFIX,modehausfischer.com,reject
 HOST-SUFFIX,modehausgruber.com,reject
 HOST-SUFFIX,modehausmunchen.com,reject
@@ -15438,7 +15450,6 @@ HOST-SUFFIX,modellbahn-store.com,reject
 HOST-SUFFIX,modellbahn-versandhaus.de,reject
 HOST-SUFFIX,modellbahn.de-imex.de,reject
 HOST-SUFFIX,modellbahnbase.com,reject
-HOST-SUFFIX,modellbahnshop-club.shop,reject
 HOST-SUFFIX,modellbau-zentrum.com,reject
 HOST-SUFFIX,modellbaubasis.com,reject
 HOST-SUFFIX,modellbaubillig.com,reject
@@ -15456,7 +15467,6 @@ HOST-SUFFIX,modern-technik.de,reject
 HOST-SUFFIX,modernbedshop.com,reject
 HOST-SUFFIX,moderncasa.com.br,reject
 HOST-SUFFIX,modernlampart.com,reject
-HOST-SUFFIX,modernmodehaus.com,reject
 HOST-SUFFIX,modernoutdoorstandard.de,reject
 HOST-SUFFIX,modernpricing.com,reject
 HOST-SUFFIX,moderwear.shop,reject
@@ -15510,9 +15520,7 @@ HOST-SUFFIX,moje-lekarna.com,reject
 HOST-SUFFIX,mojekamagra.com,reject
 HOST-SUFFIX,mojekamagra.cz,reject
 HOST-SUFFIX,mojekamagra.eu,reject
-HOST-SUFFIX,mojekamagra.org,reject
 HOST-SUFFIX,mojekamagra.pro,reject
-HOST-SUFFIX,mojekamagra.shop,reject
 HOST-SUFFIX,mojekamagra.store,reject
 HOST-SUFFIX,mojekamagra.top,reject
 HOST-SUFFIX,mokashoptop.com,reject
@@ -15574,6 +15582,7 @@ HOST-SUFFIX,mon15-normal-useast1a-checkout.tiktokv.com,reject
 HOST-SUFFIX,mon15-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mon15-normal.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,mon16-normal-alisg.tiktokv.com.kp45.ru,reject
 HOST-SUFFIX,mon16-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-c-useast2a.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-ie.tiktokv.eu,reject
@@ -15638,6 +15647,7 @@ HOST-SUFFIX,monecoplus.com,reject
 HOST-SUFFIX,monetate.net,reject
 HOST-SUFFIX,monetizer101.com,reject
 HOST-SUFFIX,monexis.co,reject
+HOST-SUFFIX,mongi.at,reject
 HOST-SUFFIX,monicasneaker.cc,reject
 HOST-SUFFIX,monido.de,reject
 HOST-SUFFIX,monika-mueller-brennholzhandel.de,reject
@@ -15675,10 +15685,9 @@ HOST-SUFFIX,montgerrard.com,reject
 HOST-SUFFIX,monthlyi.com,reject
 HOST-SUFFIX,montivo.de,reject
 HOST-SUFFIX,montmode.de,reject
+HOST-SUFFIX,montrereplique.to,reject
 HOST-SUFFIX,monvada.de,reject
-HOST-SUFFIX,moodcheerful.com,reject
 HOST-SUFFIX,moodlily.de,reject
-HOST-SUFFIX,moodors.shop,reject
 HOST-SUFFIX,mooje.de,reject
 HOST-SUFFIX,mooje.eu,reject
 HOST-SUFFIX,mookie1.com,reject
@@ -15702,11 +15711,9 @@ HOST-SUFFIX,moonbootsuomi.net,reject
 HOST-SUFFIX,moonbootukstore.com,reject
 HOST-SUFFIX,moonetrix.com,reject
 HOST-SUFFIX,moongadgets.com,reject
-HOST-SUFFIX,moongor.com,reject
 HOST-SUFFIX,moonkie.de,reject
 HOST-SUFFIX,moonpod.de,reject
 HOST-SUFFIX,moontod.com,reject
-HOST-SUFFIX,moonwager.com,reject
 HOST-SUFFIX,moonx.io,reject
 HOST-SUFFIX,mooredvazwe.myshopify.com,reject
 HOST-SUFFIX,moosohillstore.shop,reject
@@ -15730,13 +15737,11 @@ HOST-SUFFIX,morpilotsales.shop,reject
 HOST-SUFFIX,morstik.shop,reject
 HOST-SUFFIX,mortalvessel.com,reject
 HOST-SUFFIX,mortonoz.shop,reject
-HOST-SUFFIX,morvath-ltd.com,reject
 HOST-SUFFIX,mosaicdevelopmentonline.com,reject
 HOST-SUFFIX,mosaik-invest.com,reject
 HOST-SUFFIX,mosano.de,reject
 HOST-SUFFIX,mosbax.com,reject
 HOST-SUFFIX,moschinosale.de,reject
-HOST-SUFFIX,moscotberlin.de,reject
 HOST-SUFFIX,moserwiesn.de,reject
 HOST-SUFFIX,mosessions.com,reject
 HOST-SUFFIX,mosmankoch.de,reject
@@ -15784,7 +15789,6 @@ HOST-SUFFIX,mountainmon.shop,reject
 HOST-SUFFIX,mountaistorenmovers.com,reject
 HOST-SUFFIX,mousestats.com,reject
 HOST-SUFFIX,movad.net,reject
-HOST-SUFFIX,moveislar.com,reject
 HOST-SUFFIX,movemeal.com,reject
 HOST-SUFFIX,movementkoeln.de,reject
 HOST-SUFFIX,movilatino.com,reject
@@ -15899,7 +15903,6 @@ HOST-SUFFIX,mssdk32-normal.capcutapi.com,reject
 HOST-SUFFIX,mstf.de,reject
 HOST-SUFFIX,mstrlytcs.com,reject
 HOST-SUFFIX,mt-ad-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,mt4gestion.com,reject
 HOST-SUFFIX,mt4invest.com,reject
 HOST-SUFFIX,mtbandroad.com,reject
 HOST-SUFFIX,mtbrennholz.com,reject
@@ -15911,11 +15914,9 @@ HOST-SUFFIX,mtrcs.samba.tv,reject
 HOST-SUFFIX,mtree.com,reject
 HOST-SUFFIX,mtrtb.com,reject
 HOST-SUFFIX,mu-ad-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,mu-muse.com,reject
 HOST-SUFFIX,muallerglasat.com,reject
 HOST-SUFFIX,muckbootdanmark.com,reject
 HOST-SUFFIX,muckbootsosterreich.at,reject
-HOST-SUFFIX,muckbootsoutletstore.de,reject
 HOST-SUFFIX,muckbootssverige.com,reject
 HOST-SUFFIX,mudamodashop.com,reject
 HOST-SUFFIX,mudanzasideal.com,reject
@@ -15933,7 +15934,6 @@ HOST-SUFFIX,muidi.com,reject
 HOST-SUFFIX,mulebir.com,reject
 HOST-SUFFIX,mulevas.com,reject
 HOST-SUFFIX,mullandfraser.com,reject
-HOST-SUFFIX,muller-berlin.co,reject
 HOST-SUFFIX,muller-graz.com,reject
 HOST-SUFFIX,mullermode.de,reject
 HOST-SUFFIX,mullers-modehaus.com,reject
@@ -15972,7 +15972,6 @@ HOST-SUFFIX,mushroomgods.com,reject
 HOST-SUFFIX,musicalvortex.com,reject
 HOST-SUFFIX,musicgearfashion.com,reject
 HOST-SUFFIX,musicianshop.de,reject
-HOST-SUFFIX,musicworldde.com,reject
 HOST-SUFFIX,musik-laden.com,reject
 HOST-SUFFIX,musik-planet.com,reject
 HOST-SUFFIX,musik-zubehoerwerk.com,reject
@@ -16007,6 +16006,7 @@ HOST-SUFFIX,mx-album-api.vivoglobal.com,reject
 HOST-SUFFIX,mx-cota.vivoglobal.com,reject
 HOST-SUFFIX,mx-domaincfg.vivoglobal.com,reject
 HOST-SUFFIX,mx-err-up.vivoglobal.com,reject
+HOST-SUFFIX,mx-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,mx-onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,mx-ort-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,mx-p.vivoglobal.com,reject
@@ -16023,8 +16023,8 @@ HOST-SUFFIX,mxdara.com,reject
 HOST-SUFFIX,mxptint.net,reject
 HOST-SUFFIX,my-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,my-benovation.com,reject
-HOST-SUFFIX,my-garden-store.com,reject
 HOST-SUFFIX,my-harrio.shop,reject
+HOST-SUFFIX,my-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,my-jinsha-online.com,reject
 HOST-SUFFIX,my-leyou-online.com,reject
 HOST-SUFFIX,my-ne.shop,reject
@@ -16084,6 +16084,7 @@ HOST-SUFFIX,mylittlidarlingshop.com,reject
 HOST-SUFFIX,mylovecosmetic.de,reject
 HOST-SUFFIX,mylumenx.com,reject
 HOST-SUFFIX,myluxoutletop.com,reject
+HOST-SUFFIX,mymedicalshop365.top,reject
 HOST-SUFFIX,mymedshoplive.com,reject
 HOST-SUFFIX,mynacos.com,reject
 HOST-SUFFIX,mynanosparkle.com,reject
@@ -16101,12 +16102,9 @@ HOST-SUFFIX,mypowermall.com,reject
 HOST-SUFFIX,myproteinoutleteur.com,reject
 HOST-SUFFIX,myquoteswiss.com,reject
 HOST-SUFFIX,myrrhrituals.shop,reject
-HOST-SUFFIX,myschmidts.shop,reject
 HOST-SUFFIX,mysecondeor.shop,reject
 HOST-SUFFIX,myshania.de,reject
 HOST-SUFFIX,mysketchpad.com,reject
-HOST-SUFFIX,myskins.co,reject
-HOST-SUFFIX,mysolis.shop,reject
 HOST-SUFFIX,mysolution24.de,reject
 HOST-SUFFIX,mysomarkand.shop,reject
 HOST-SUFFIX,mysoy.shop,reject
@@ -16138,7 +16136,6 @@ HOST-SUFFIX,n69.com,reject
 HOST-SUFFIX,na-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,nabenprada.com,reject
 HOST-SUFFIX,nabolu.de,reject
-HOST-SUFFIX,nachhaltigeherrenmode.com,reject
 HOST-SUFFIX,nachhaltigewohndeko.com,reject
 HOST-SUFFIX,nackel-handel.de,reject
 HOST-SUFFIX,nada-nada.com,reject
@@ -16184,7 +16181,6 @@ HOST-SUFFIX,nativediscount.com,reject
 HOST-SUFFIX,nativeroll.tv,reject
 HOST-SUFFIX,nattoubabyspielzeug.com,reject
 HOST-SUFFIX,natuerlich-natuerlo.shop,reject
-HOST-SUFFIX,natuerlichfutter.com,reject
 HOST-SUFFIX,natur-brennholz.de,reject
 HOST-SUFFIX,natur-held.de,reject
 HOST-SUFFIX,naturacare360.com,reject
@@ -16212,12 +16208,10 @@ HOST-SUFFIX,naturstep.de,reject
 HOST-SUFFIX,naturtreuhub.com,reject
 HOST-SUFFIX,naturwaerme-karow.de,reject
 HOST-SUFFIX,naturwide.com,reject
-HOST-SUFFIX,naturwide.de,reject
 HOST-SUFFIX,naturzado.shop,reject
 HOST-SUFFIX,natuuroutlet.com,reject
 HOST-SUFFIX,naughtynutoz.shop,reject
 HOST-SUFFIX,nauticalpartsstore.com,reject
-HOST-SUFFIX,nauticaromania.com,reject
 HOST-SUFFIX,nauticasdeutschland.de,reject
 HOST-SUFFIX,nauticaukwebsite.com,reject
 HOST-SUFFIX,nauticwerk.com,reject
@@ -16266,7 +16260,6 @@ HOST-SUFFIX,needtohike.com,reject
 HOST-SUFFIX,needyneedle.com,reject
 HOST-SUFFIX,neighborlywatch.com,reject
 HOST-SUFFIX,nejlepsi-lekarna.to,reject
-HOST-SUFFIX,nejlevnejsigenerika.co,reject
 HOST-SUFFIX,nejlevnejsigenerika.to,reject
 HOST-SUFFIX,nellura.com,reject
 HOST-SUFFIX,nemanex.at,reject
@@ -16290,7 +16283,6 @@ HOST-SUFFIX,neroo.de,reject
 HOST-SUFFIX,nerooflow.com,reject
 HOST-SUFFIX,nervoussummer.com,reject
 HOST-SUFFIX,nesgesfinancemempoolexchange.com,reject
-HOST-SUFFIX,neshno.de,reject
 HOST-SUFFIX,nestauralabglow.com,reject
 HOST-SUFFIX,nestglobalx.com,reject
 HOST-SUFFIX,nestkraft.de,reject
@@ -16327,7 +16319,6 @@ HOST-SUFFIX,netshelter.net,reject
 HOST-SUFFIX,nettimarkt.de,reject
 HOST-SUFFIX,nettjade.de,reject
 HOST-SUFFIX,nettoautoteile.de,reject
-HOST-SUFFIX,nettradecap.com,reject
 HOST-SUFFIX,netum.net,reject
 HOST-SUFFIX,neturecan.com,reject
 HOST-SUFFIX,netzpro.shop,reject
@@ -16388,7 +16379,6 @@ HOST-SUFFIX,newmold.store,reject
 HOST-SUFFIX,newnet.qsrch.com,reject
 HOST-SUFFIX,newnudecash.com,reject
 HOST-SUFFIX,newofferpromo.fun,reject
-HOST-SUFFIX,news-analytics-events.apple.com,reject
 HOST-SUFFIX,news-app-events.apple.com,reject
 HOST-SUFFIX,news-cdn.site,reject
 HOST-SUFFIX,news-events.apple.com,reject
@@ -16408,7 +16398,6 @@ HOST-SUFFIX,newyorknewsnet.com,reject
 HOST-SUFFIX,nexac.com,reject
 HOST-SUFFIX,nexaoutlethub24.shop,reject
 HOST-SUFFIX,nexavor.shop,reject
-HOST-SUFFIX,nexberg-ag.co,reject
 HOST-SUFFIX,nexet.xyz,reject
 HOST-SUFFIX,nexo-ki.com,reject
 HOST-SUFFIX,nexoil.de,reject
@@ -16431,18 +16420,19 @@ HOST-SUFFIX,nexxco24.de,reject
 HOST-SUFFIX,nexxtv-events.servicebus.windows.net,reject
 HOST-SUFFIX,neymad88.top,reject
 HOST-SUFFIX,nflfanaticsstore.com,reject
+HOST-SUFFIX,nftoe.shop,reject
 HOST-SUFFIX,ng-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ng-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ng-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ng3.ads.warnerbros.com,reject
 HOST-SUFFIX,nger.de,reject
 HOST-SUFFIX,nginx.34.sec.miui.com,reject
 HOST-SUFFIX,nguebelipharma.com,reject
-HOST-SUFFIX,nhcol.com,reject
 HOST-SUFFIX,nhltrikotde.com,reject
 HOST-SUFFIX,nholz.com,reject
 HOST-SUFFIX,ni-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,niaboutique.de,reject
 HOST-SUFFIX,niazm.com,reject
-HOST-SUFFIX,nibeguq.com,reject
 HOST-SUFFIX,nibuleusebijoux.com,reject
 HOST-SUFFIX,nicechmk.shop,reject
 HOST-SUFFIX,nicedoc.co,reject
@@ -16464,6 +16454,7 @@ HOST-SUFFIX,nig.com,reject
 HOST-SUFFIX,nightskyshop.de,reject
 HOST-SUFFIX,niholss.store,reject
 HOST-SUFFIX,niithera.com,reject
+HOST-SUFFIX,nikeairvapormax.us,reject
 HOST-SUFFIX,nikeinsuomi.com,reject
 HOST-SUFFIX,nikesuomi-fi.com,reject
 HOST-SUFFIX,nikeuk.uk.com,reject
@@ -16482,7 +16473,6 @@ HOST-SUFFIX,ninjakitchenllc.com,reject
 HOST-SUFFIX,ninoplay.de,reject
 HOST-SUFFIX,nioekure.com,reject
 HOST-SUFFIX,niomo.shop,reject
-HOST-SUFFIX,nirana.de,reject
 HOST-SUFFIX,niruox.com,reject
 HOST-SUFFIX,nitroclicks.com,reject
 HOST-SUFFIX,nittogeschaft.com,reject
@@ -16547,7 +16537,6 @@ HOST-SUFFIX,nordevantis.de,reject
 HOST-SUFFIX,nordhaus-handel.de,reject
 HOST-SUFFIX,nordheimhausgmbh.myshopify.com,reject
 HOST-SUFFIX,nordic-pellets.de,reject
-HOST-SUFFIX,nordicasaunastore.shop,reject
 HOST-SUFFIX,nordicdecor.de,reject
 HOST-SUFFIX,nordicdrop.de,reject
 HOST-SUFFIX,nordicglimmer.com,reject
@@ -16574,7 +16563,6 @@ HOST-SUFFIX,normado.com,reject
 HOST-SUFFIX,noroa.de,reject
 HOST-SUFFIX,norqitor.com,reject
 HOST-SUFFIX,norrloom.com,reject
-HOST-SUFFIX,norsacke.com,reject
 HOST-SUFFIX,norsk-apotek24.com,reject
 HOST-SUFFIX,norskeapotek.net,reject
 HOST-SUFFIX,norsky.de,reject
@@ -16748,6 +16736,7 @@ HOST-SUFFIX,nymphonburgs.shop,reject
 HOST-SUFFIX,nymshark.com,reject
 HOST-SUFFIX,nyvorahome.com,reject
 HOST-SUFFIX,nz-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,nz-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,nzaza.com,reject
 HOST-SUFFIX,nze.com,reject
 HOST-SUFFIX,nzwir.shop,reject
@@ -16840,7 +16829,6 @@ HOST-SUFFIX,octirtast.shop,reject
 HOST-SUFFIX,octora.de,reject
 HOST-SUFFIX,ocularixin24.net,reject
 HOST-SUFFIX,ocycling.com,reject
-HOST-SUFFIX,odagyock.shop,reject
 HOST-SUFFIX,odbierz-bony.ovp.pl,reject
 HOST-SUFFIX,oddros.shop,reject
 HOST-SUFFIX,odibabiaoty.shop,reject
@@ -16921,7 +16909,6 @@ HOST-SUFFIX,offermatica.com,reject
 HOST-SUFFIX,offerpaint.com,reject
 HOST-SUFFIX,offerphoton.com,reject
 HOST-SUFFIX,offers.gateway-lts450.com,reject
-HOST-SUFFIX,offers.ltsc-has.com,reject
 HOST-SUFFIX,offerscale.store,reject
 HOST-SUFFIX,offershop.xyz,reject
 HOST-SUFFIX,offerstylehome.com,reject
@@ -16954,10 +16941,8 @@ HOST-SUFFIX,ogison.shop,reject
 HOST-SUFFIX,ogk.meineoegk-at.store,reject
 HOST-SUFFIX,oglasi.posjetnica.com,reject
 HOST-SUFFIX,oglus.de,reject
-HOST-SUFFIX,ogppxssz.shop,reject
 HOST-SUFFIX,ogrody-online.com,reject
 HOST-SUFFIX,ogury.com,reject
-HOST-SUFFIX,oh-pollyosterreich.at,reject
 HOST-SUFFIX,ohlemann-handel.de,reject
 HOST-SUFFIX,ohne-rezeptkaufen.com,reject
 HOST-SUFFIX,ohneen.com,reject
@@ -16967,6 +16952,7 @@ HOST-SUFFIX,ohr-freund.de,reject
 HOST-SUFFIX,ohssl.org,reject
 HOST-SUFFIX,oicoshop.shop,reject
 HOST-SUFFIX,oil-direkt.de,reject
+HOST-SUFFIX,oil-profits.com,reject
 HOST-SUFFIX,oilexa.de,reject
 HOST-SUFFIX,oilprofit.io,reject
 HOST-SUFFIX,oils-natural.cc,reject
@@ -16978,7 +16964,6 @@ HOST-SUFFIX,okatode.com,reject
 HOST-SUFFIX,okbon.de,reject
 HOST-SUFFIX,oko-heizung.de,reject
 HOST-SUFFIX,oko-spechtbrennholzgmbh.de,reject
-HOST-SUFFIX,okohausplus.com,reject
 HOST-SUFFIX,okun.shop,reject
 HOST-SUFFIX,okuracookware.ch,reject
 HOST-SUFFIX,okuracookware.de,reject
@@ -17116,10 +17101,12 @@ HOST-SUFFIX,onlinealdo.com,reject
 HOST-SUFFIX,onlineanabolika.com,reject
 HOST-SUFFIX,onlinebedroom.com,reject
 HOST-SUFFIX,onlinebluberri.com,reject
+HOST-SUFFIX,onlinebonuscasino-de.de,reject
 HOST-SUFFIX,onlinebusinessdorf.de,reject
 HOST-SUFFIX,onlinecash.com,reject
 HOST-SUFFIX,onlinecashmethod.com,reject
 HOST-SUFFIX,onlinecasinodeutschliste.de,reject
+HOST-SUFFIX,onlinecasinomitschnellerauszahlung.de,reject
 HOST-SUFFIX,onlinecasinoparis.com,reject
 HOST-SUFFIX,onlinecasinositeindia.com,reject
 HOST-SUFFIX,onlinecasinoslasvegas.com,reject
@@ -17129,7 +17116,6 @@ HOST-SUFFIX,onlinedamen.de,reject
 HOST-SUFFIX,onlinedrugsnorx.com,reject
 HOST-SUFFIX,onlineeba.com,reject
 HOST-SUFFIX,onlineeinkaufswelt.com,reject
-HOST-SUFFIX,onlinefinanz-bmf.com,reject
 HOST-SUFFIX,onlineforyou.net,reject
 HOST-SUFFIX,onlinegearwrench.com,reject
 HOST-SUFFIX,onlinegoodshub.com,reject
@@ -17173,7 +17159,6 @@ HOST-SUFFIX,onmycat.com,reject
 HOST-SUFFIX,onnutritionatshop.com,reject
 HOST-SUFFIX,onomaor.shop,reject
 HOST-SUFFIX,onopenbooks.com,reject
-HOST-SUFFIX,onosterreich.at,reject
 HOST-SUFFIX,onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,onrunning-at.myshoplaza.com,reject
 HOST-SUFFIX,onrunning-eu.myshoplaza.com,reject
@@ -17206,7 +17191,6 @@ HOST-SUFFIX,oogarden.de,reject
 HOST-SUFFIX,ooko-planet.shop,reject
 HOST-SUFFIX,oolongtime.com,reject
 HOST-SUFFIX,oonide.shop,reject
-HOST-SUFFIX,ooniuk.shop,reject
 HOST-SUFFIX,oonowa.myshopify.com,reject
 HOST-SUFFIX,oops-clubsauna.com,reject
 HOST-SUFFIX,opabitcoin.com,reject
@@ -17308,7 +17292,6 @@ HOST-SUFFIX,orfueqdn.shop,reject
 HOST-SUFFIX,organicsauceshop.com,reject
 HOST-SUFFIX,orientacionvocacionalonline.org,reject
 HOST-SUFFIX,orientedargument.com,reject
-HOST-SUFFIX,origin-s.amazon-adsystem.com,reject
 HOST-SUFFIX,origin-sq-tungsten-ts.amazon-adsystem.com,reject
 HOST-SUFFIX,originalcrypto.com,reject
 HOST-SUFFIX,originalshrvatska.co,reject
@@ -17367,7 +17350,6 @@ HOST-SUFFIX,oshoplive.com,reject
 HOST-SUFFIX,osiris.com.de,reject
 HOST-SUFFIX,osiriscards.store,reject
 HOST-SUFFIX,osirisfi.com,reject
-HOST-SUFFIX,osirisshoes.de,reject
 HOST-SUFFIX,osisaflife.shop,reject
 HOST-SUFFIX,oskaro.shop,reject
 HOST-SUFFIX,osmcer.shop,reject
@@ -17392,7 +17374,6 @@ HOST-SUFFIX,ostrumam.com,reject
 HOST-SUFFIX,ostrumgroup.com,reject
 HOST-SUFFIX,ostyro.myshopify.com,reject
 HOST-SUFFIX,osuraring.com,reject
-HOST-SUFFIX,oswald-juergenss24.de,reject
 HOST-SUFFIX,ot-living.de,reject
 HOST-SUFFIX,ota.cartrawler.com,reject
 HOST-SUFFIX,ota.cdn.pandora.xiaomi.com,reject
@@ -17509,7 +17490,6 @@ HOST-SUFFIX,ovrise.com,reject
 HOST-SUFFIX,ow.pubmatic.com,reject
 HOST-SUFFIX,owala.co.at,reject
 HOST-SUFFIX,owala.com.de,reject
-HOST-SUFFIX,owalaaustria.at,reject
 HOST-SUFFIX,owalaaustrla.at,reject
 HOST-SUFFIX,owalade.de,reject
 HOST-SUFFIX,owaladeutschland.de,reject
@@ -17523,7 +17503,6 @@ HOST-SUFFIX,owernox.myshopify.com,reject
 HOST-SUFFIX,owlsr.us,reject
 HOST-SUFFIX,ownerbike.com,reject
 HOST-SUFFIX,owneriq.net,reject
-HOST-SUFFIX,ownmoodspace.com,reject
 HOST-SUFFIX,ownyourregion.eu,reject
 HOST-SUFFIX,owrock.com,reject
 HOST-SUFFIX,oxado.com,reject
@@ -17538,7 +17517,6 @@ HOST-SUFFIX,oyamakagu.com,reject
 HOST-SUFFIX,oyemas.com,reject
 HOST-SUFFIX,oylerhof.de,reject
 HOST-SUFFIX,oyo-store.com,reject
-HOST-SUFFIX,ozeanhaustiereluftwegelieferung.de,reject
 HOST-SUFFIX,ozempic-shop.com,reject
 HOST-SUFFIX,ozempicbezreceptu.com,reject
 HOST-SUFFIX,ozempickaufenn.com,reject
@@ -17565,6 +17543,7 @@ HOST-SUFFIX,p19-ttam-va.tiktokcdn.com,reject
 HOST-SUFFIX,p19-ttam.tiktokcdn-us.com,reject
 HOST-SUFFIX,p7cloud.net,reject
 HOST-SUFFIX,pa-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,pa-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,paa-reporting-advertising.amazon,reject
 HOST-SUFFIX,pacevora.shop,reject
 HOST-SUFFIX,pacificgroup.ltd,reject
@@ -17604,6 +17583,7 @@ HOST-SUFFIX,panamajackdeutschland.de,reject
 HOST-SUFFIX,panbrennholz.de,reject
 HOST-SUFFIX,panda-financial.com,reject
 HOST-SUFFIX,pandabrokersvip.com,reject
+HOST-SUFFIX,pandaparkens.com,reject
 HOST-SUFFIX,pandora-at.at,reject
 HOST-SUFFIX,pandora-deutschland.de,reject
 HOST-SUFFIX,pandora-outlet.de,reject
@@ -17613,6 +17593,7 @@ HOST-SUFFIX,pandoracharms.uk.com,reject
 HOST-SUFFIX,pandorade.de,reject
 HOST-SUFFIX,pandorakorut.com,reject
 HOST-SUFFIX,pandoraringsuk.com,reject
+HOST-SUFFIX,pandoras-outlet.com,reject
 HOST-SUFFIX,panelaeki.de,reject
 HOST-SUFFIX,pangolin.snssdk.com,reject
 HOST-SUFFIX,panickypancake.com,reject
@@ -17626,7 +17607,6 @@ HOST-SUFFIX,panura.de,reject
 HOST-SUFFIX,papagei-papageieneier.de,reject
 HOST-SUFFIX,papageienzuchtheim.de,reject
 HOST-SUFFIX,papasmagazine.com.br,reject
-HOST-SUFFIX,papersender.com,reject
 HOST-SUFFIX,papershredder-store.com,reject
 HOST-SUFFIX,papeteriewerkstatt.com,reject
 HOST-SUFFIX,parabound.de,reject
@@ -17638,7 +17618,6 @@ HOST-SUFFIX,parakonz.de,reject
 HOST-SUFFIX,paramdionline.com,reject
 HOST-SUFFIX,parcel.deliv.com,reject
 HOST-SUFFIX,parchedsofa.com,reject
-HOST-SUFFIX,pardiar.com,reject
 HOST-SUFFIX,paremo.shop,reject
 HOST-SUFFIX,parentpicture.com,reject
 HOST-SUFFIX,parex-am.com,reject
@@ -17664,9 +17643,7 @@ HOST-SUFFIX,partnerhut.com,reject
 HOST-SUFFIX,partnerlinks.io,reject
 HOST-SUFFIX,partners.priceline.com,reject
 HOST-SUFFIX,partplanes.com,reject
-HOST-SUFFIX,partydekorabatt.com,reject
 HOST-SUFFIX,pascprouali.com,reject
-HOST-SUFFIX,pasoraseasons.de,reject
 HOST-SUFFIX,pasqu.com,reject
 HOST-SUFFIX,passaumodehaus.de,reject
 HOST-SUFFIX,passeura.com,reject
@@ -17698,6 +17675,7 @@ HOST-SUFFIX,paychat.fuse-cloud.com,reject
 HOST-SUFFIX,paycounter.com,reject
 HOST-SUFFIX,payforweal.com,reject
 HOST-SUFFIX,payice.xyz,reject
+HOST-SUFFIX,paypalcasino-online.de,reject
 HOST-SUFFIX,paypopup.com,reject
 HOST-SUFFIX,paywayslite.com,reject
 HOST-SUFFIX,pb.bi.gitv.tv,reject
@@ -17731,9 +17709,9 @@ HOST-SUFFIX,pd-personal.net,reject
 HOST-SUFFIX,pd99.cc,reject
 HOST-SUFFIX,pdfgo.co,reject
 HOST-SUFFIX,pdfmaster.app,reject
-HOST-SUFFIX,pdgbcfe.shop,reject
 HOST-SUFFIX,pdkosmetik.de,reject
 HOST-SUFFIX,pe-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,pe-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,peachbruh.com,reject
 HOST-SUFFIX,peachossom.com,reject
 HOST-SUFFIX,peachyxchic.co,reject
@@ -17743,9 +17721,7 @@ HOST-SUFFIX,peackfoather.com,reject
 HOST-SUFFIX,peakdesigns.de,reject
 HOST-SUFFIX,peakexperiences.ritll.com,reject
 HOST-SUFFIX,peakfreoko.shop,reject
-HOST-SUFFIX,peakful.co,reject
 HOST-SUFFIX,peakhup.com,reject
-HOST-SUFFIX,peapodvine.com,reject
 HOST-SUFFIX,pearlfeet.de,reject
 HOST-SUFFIX,peau-pure.com,reject
 HOST-SUFFIX,peawholesaler.com,reject
@@ -17798,7 +17774,6 @@ HOST-SUFFIX,pepperjamnetwork.com,reject
 HOST-SUFFIX,pepperstone.vip,reject
 HOST-SUFFIX,pepstore.org,reject
 HOST-SUFFIX,peptide-kaufen.com,reject
-HOST-SUFFIX,peptidekonings.com,reject
 HOST-SUFFIX,peptidy.org,reject
 HOST-SUFFIX,peptipenonline.com,reject
 HOST-SUFFIX,percentmobile.com,reject
@@ -17910,15 +17885,7 @@ HOST-SUFFIX,pgmediaserve.com,reject
 HOST-SUFFIX,pgmus.net,reject
 HOST-SUFFIX,pgmvip.com,reject
 HOST-SUFFIX,pgpartner.com,reject
-HOST-SUFFIX,pgtbr1-excel-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtbr1-powerpoint-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtbr1-word-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtbr2-excel-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtbr2-powerpoint-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtbr2-word-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtca1-excel-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtca1-powerpoint-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtca1-word-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu1-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu1-word-telemetry-vip.officeapps.live.com,reject
@@ -17930,12 +17897,7 @@ HOST-SUFFIX,pgteu3-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu3-word-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu4-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu4-powerpoint-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgteu4-word-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgteu5-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu5-powerpoint-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgteu5-word-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtmx1-powerpoint-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtmx1-word-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtus1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtus1-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtus1-word-telemetry-vip.officeapps.live.com,reject
@@ -17958,12 +17920,12 @@ HOST-SUFFIX,pgz999-online.com,reject
 HOST-SUFFIX,ph-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ph-gartenmaschinen.de,reject
 HOST-SUFFIX,ph-info-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,phaidon-eu-online.shop,reject
-HOST-SUFFIX,phaidon-online.shop,reject
 HOST-SUFFIX,phallcutz.com,reject
 HOST-SUFFIX,phamstoretcg.de,reject
 HOST-SUFFIX,pharm-24h.com,reject
 HOST-SUFFIX,pharm-discount.com,reject
+HOST-SUFFIX,pharm-discounter.com,reject
+HOST-SUFFIX,pharm-store.com,reject
 HOST-SUFFIX,pharma-cards.de,reject
 HOST-SUFFIX,pharma-euro.com,reject
 HOST-SUFFIX,pharma-versandhandel.de,reject
@@ -17996,11 +17958,8 @@ HOST-SUFFIX,pharmrx-1.com,reject
 HOST-SUFFIX,pharmtownsolutions.com,reject
 HOST-SUFFIX,pharmuno.com,reject
 HOST-SUFFIX,pheedo.com,reject
-HOST-SUFFIX,phelanspharmacyhealth.shop,reject
 HOST-SUFFIX,pheobes.com,reject
 HOST-SUFFIX,philippsthomas.com,reject
-HOST-SUFFIX,philoro-de.to,reject
-HOST-SUFFIX,philoro.online,reject
 HOST-SUFFIX,philosophyk.com,reject
 HOST-SUFFIX,phippstrailer.com,reject
 HOST-SUFFIX,phixcluthing.com,reject
@@ -18009,7 +17968,6 @@ HOST-SUFFIX,phoenix-adrunner.mycomputer.com,reject
 HOST-SUFFIX,phoenix-elektro.com,reject
 HOST-SUFFIX,phone-pool.de,reject
 HOST-SUFFIX,phonekong.com,reject
-HOST-SUFFIX,phonesrefurb.com,reject
 HOST-SUFFIX,phonesubmissions.apple.com,reject
 HOST-SUFFIX,phoneway.mobi,reject
 HOST-SUFFIX,phorastore.shop,reject
@@ -18136,6 +18094,7 @@ HOST-SUFFIX,platc-tester.com,reject
 HOST-SUFFIX,platform-ai-trade.com,reject
 HOST-SUFFIX,platform.ap-capital-lim.com,reject
 HOST-SUFFIX,platform.softwarecrownex.com,reject
+HOST-SUFFIX,platincoin.com,reject
 HOST-SUFFIX,platinwerk.de,reject
 HOST-SUFFIX,platten24.com,reject
 HOST-SUFFIX,platzimgarten.com,reject
@@ -18156,6 +18115,7 @@ HOST-SUFFIX,playstation-boomer.myshopify.com,reject
 HOST-SUFFIX,playstationstore.shop,reject
 HOST-SUFFIX,playtronia.com,reject
 HOST-SUFFIX,playvenix.de,reject
+HOST-SUFFIX,playwarren.com,reject
 HOST-SUFFIX,playzoner.com,reject
 HOST-SUFFIX,plbusiness.samsung.com,reject
 HOST-SUFFIX,pleasanthearthsale.com,reject
@@ -18181,8 +18141,6 @@ HOST-SUFFIX,pluralsilk.com,reject
 HOST-SUFFIX,pluschennici.com,reject
 HOST-SUFFIX,pluschtiereshop.com,reject
 HOST-SUFFIX,plusgearo.shop,reject
-HOST-SUFFIX,plushair.cz,reject
-HOST-SUFFIX,plushair.sk,reject
 HOST-SUFFIX,plushroomdesign.com,reject
 HOST-SUFFIX,plusprotections.com,reject
 HOST-SUFFIX,plutogdx.com,reject
@@ -18204,7 +18162,6 @@ HOST-SUFFIX,pockoo.de,reject
 HOST-SUFFIX,pocrabatt.de,reject
 HOST-SUFFIX,pocski.de,reject
 HOST-SUFFIX,pocustrack.com,reject
-HOST-SUFFIX,podcasts-analytics-events.apple.com,reject
 HOST-SUFFIX,podomax.de,reject
 HOST-SUFFIX,podpora-erekce24.cz,reject
 HOST-SUFFIX,poemprompt.com,reject
@@ -18346,9 +18303,10 @@ HOST-SUFFIX,ppc-word-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,ppc-word-telemetry.wac.trafficmanager.net,reject
 HOST-SUFFIX,ppc.adhere.marchex.com,reject
 HOST-SUFFIX,ppifxcxa.shop,reject
-HOST-SUFFIX,ppm-licensingtelemetry.servicebus.windows.net,reject
 HOST-SUFFIX,pqhw.com,reject
 HOST-SUFFIX,pr-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,pr-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,pr-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,pr-star.de,reject
 HOST-SUFFIX,practs.de,reject
 HOST-SUFFIX,praddpro.de,reject
@@ -18384,6 +18342,7 @@ HOST-SUFFIX,preistech.de,reject
 HOST-SUFFIX,preiswertoutdoor.com,reject
 HOST-SUFFIX,preload.xiaomi.com,reject
 HOST-SUFFIX,prelox-guenstiger.de,reject
+HOST-SUFFIX,premier-dream.co,reject
 HOST-SUFFIX,premiercarry.com,reject
 HOST-SUFFIX,premierdeals.online,reject
 HOST-SUFFIX,premierkitos.shop,reject
@@ -18628,13 +18587,17 @@ HOST-SUFFIX,prufenzo.xyz,reject
 HOST-SUFFIX,ps-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ps-eu.amazon-adsystem.com,reject
 HOST-SUFFIX,ps-fe.amazon-adsystem.com,reject
+HOST-SUFFIX,ps-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ps-jp.amazon-adsystem.com,reject
+HOST-SUFFIX,ps-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ps-tools-deals.shop,reject
 HOST-SUFFIX,ps-us.amazon-adsystem.com,reject
 HOST-SUFFIX,psality.com,reject
 HOST-SUFFIX,psicoelenicebonato.com,reject
 HOST-SUFFIX,pstmrk.it,reject
 HOST-SUFFIX,pt-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,pt-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,pt-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,pt-sky.com,reject
 HOST-SUFFIX,ptdaily.eu,reject
 HOST-SUFFIX,pthanse-versand.de,reject
@@ -18823,7 +18786,6 @@ HOST-SUFFIX,quirkysugar.com,reject
 HOST-SUFFIX,quisma.com,reject
 HOST-SUFFIX,quitivo.com,reject
 HOST-SUFFIX,quizzicalzephyr.com,reject
-HOST-SUFFIX,quordlepuzzles.de,reject
 HOST-SUFFIX,quorven.com,reject
 HOST-SUFFIX,quotationi.com,reject
 HOST-SUFFIX,qusero.com,reject
@@ -18846,6 +18808,7 @@ HOST-SUFFIX,r1.arts-mail.com,reject
 HOST-SUFFIX,r1.visualwebsiteoptimizer.com,reject
 HOST-SUFFIX,r2.visualwebsiteoptimizer.com,reject
 HOST-SUFFIX,r3.visualwebsiteoptimizer.com,reject
+HOST-SUFFIX,ra-ganske.de,reject
 HOST-SUFFIX,ra-gsklegal.de,reject
 HOST-SUFFIX,ra-rick.de,reject
 HOST-SUFFIX,raasen.com,reject
@@ -18988,6 +18951,7 @@ HOST-SUFFIX,rawaqbeauty.com,reject
 HOST-SUFFIX,rawtelemetry-east.servicebus.windows.net,reject
 HOST-SUFFIX,rawtelemetry-west.servicebus.windows.net,reject
 HOST-SUFFIX,ray-ban-glasses.us.com,reject
+HOST-SUFFIX,raybansales.us,reject
 HOST-SUFFIX,rayfulcrystal.com,reject
 HOST-SUFFIX,rayjump.com,reject
 HOST-SUFFIX,razys.de,reject
@@ -19062,6 +19026,7 @@ HOST-SUFFIX,receptiond.com,reject
 HOST-SUFFIX,receptivereaction.com,reject
 HOST-SUFFIX,recetasplus.com,reject
 HOST-SUFFIX,rechtsanwalt-breithaupt.de,reject
+HOST-SUFFIX,rechtsanwalt-kuder.de,reject
 HOST-SUFFIX,rechtsanwalt-sirrenberg.de,reject
 HOST-SUFFIX,rechtsanwalt-wiegmann.de,reject
 HOST-SUFFIX,rechtsanwaltkramer.de,reject
@@ -19073,7 +19038,6 @@ HOST-SUFFIX,recommend.lgtvcommon.com,reject
 HOST-SUFFIX,record.bonniergaming.com,reject
 HOST-SUFFIX,record.mrwin.com,reject
 HOST-SUFFIX,recordkontor.de,reject
-HOST-SUFFIX,recovie.com,reject
 HOST-SUFFIX,red-dust.de,reject
 HOST-SUFFIX,red-ph-market.com,reject
 HOST-SUFFIX,reda-prikolica.com,reject
@@ -19122,10 +19086,12 @@ HOST-SUFFIX,registerzentrale.de,reject
 HOST-SUFFIX,regularplants.com,reject
 HOST-SUFFIX,rehaubrandstore.com,reject
 HOST-SUFFIX,rehearsalk.com,reject
+HOST-SUFFIX,rehman-remote.de,reject
 HOST-SUFFIX,reifemode.com,reject
 HOST-SUFFIX,reifen-dreyer.com,reject
 HOST-SUFFIX,reifencheck.net,reject
 HOST-SUFFIX,reifendienst-notdienst.jimdosite.com,reject
+HOST-SUFFIX,reifenivo.de,reject
 HOST-SUFFIX,reifenritter.com,reject
 HOST-SUFFIX,reifensverkauf.com,reject
 HOST-SUFFIX,reifkogel24.de,reject
@@ -19135,10 +19101,12 @@ HOST-SUFFIX,reimund-morgenfurt.at,reject
 HOST-SUFFIX,reindesigner-handel.de,reject
 HOST-SUFFIX,reineblume.de,reject
 HOST-SUFFIX,reings.store,reject
+HOST-SUFFIX,reinhard-kanzlei.de,reject
 HOST-SUFFIX,reinholdrasenmaher.com,reject
 HOST-SUFFIX,reinholzexpress.com,reject
 HOST-SUFFIX,reinigungszubehor.com,reject
 HOST-SUFFIX,reinpeptid.de,reject
+HOST-SUFFIX,reiseklarheit.de,reject
 HOST-SUFFIX,reisen-weisen.de,reject
 HOST-SUFFIX,reisenthalbag.de.com,reject
 HOST-SUFFIX,reisenthale.de.com,reject
@@ -19214,6 +19182,7 @@ HOST-SUFFIX,replica-uhren.cc,reject
 HOST-SUFFIX,replicahause.is,reject
 HOST-SUFFIX,replicakaufen.de,reject
 HOST-SUFFIX,replicareview.io,reject
+HOST-SUFFIX,replicasrelojes.to,reject
 HOST-SUFFIX,replicaswatches.vip,reject
 HOST-SUFFIX,replicauhren.be,reject
 HOST-SUFFIX,replicauhren.kaufen,reject
@@ -19222,6 +19191,7 @@ HOST-SUFFIX,replicauhrenswiss.de,reject
 HOST-SUFFIX,replicauhrenx.de,reject
 HOST-SUFFIX,replicawatchtr.com,reject
 HOST-SUFFIX,replika-uhr.to,reject
+HOST-SUFFIX,replikuhrenshop.de,reject
 HOST-SUFFIX,report-1.appmetrica.webvisor.com,reject
 HOST-SUFFIX,report-2.appmetrica.webvisor.com,reject
 HOST-SUFFIX,report-eu.uc.heytapmobile.com,reject
@@ -19331,6 +19301,7 @@ HOST-SUFFIX,rhombusads.com,reject
 HOST-SUFFIX,rhonetal-energieholz.com,reject
 HOST-SUFFIX,rhythmone.com,reject
 HOST-SUFFIX,ri-lieeoodu.com,reject
+HOST-SUFFIX,riballi.com,reject
 HOST-SUFFIX,ricadihotelspage.com,reject
 HOST-SUFFIX,ricardo-sofort-deals123.online,reject
 HOST-SUFFIX,ricasrucksack.com,reject
@@ -19422,6 +19393,7 @@ HOST-SUFFIX,rnd-cbgpas01.huawei.com,reject
 HOST-SUFFIX,rngonline.org,reject
 HOST-SUFFIX,ro-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ro-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ro-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ro-up.vivoglobal.com,reject
 HOST-SUFFIX,ro10.landunk.com,reject
 HOST-SUFFIX,ro6.landofm.com,reject
@@ -19505,6 +19477,7 @@ HOST-SUFFIX,rollinarto.shop,reject
 HOST-SUFFIX,rollingslotsonline.de,reject
 HOST-SUFFIX,rollinurt.com,reject
 HOST-SUFFIX,rollladenjalousie.com,reject
+HOST-SUFFIX,rollladenplanet.de,reject
 HOST-SUFFIX,rollopark.com,reject
 HOST-SUFFIX,romalo.de,reject
 HOST-SUFFIX,romanticg.com,reject
@@ -19544,7 +19517,6 @@ HOST-SUFFIX,rosaeck.shop,reject
 HOST-SUFFIX,rosannabazaronline.com,reject
 HOST-SUFFIX,rosche-bedachungen.de,reject
 HOST-SUFFIX,rose.ixbt.com,reject
-HOST-SUFFIX,roselinlin.com,reject
 HOST-SUFFIX,rosenbaum-berlin.de,reject
 HOST-SUFFIX,rosenbergbasel.com,reject
 HOST-SUFFIX,rosenfeldgoldschmied.com,reject
@@ -19595,6 +19567,7 @@ HOST-SUFFIX,rqhtyztv.shop,reject
 HOST-SUFFIX,rqtrk.eu,reject
 HOST-SUFFIX,rrsstore.com,reject
 HOST-SUFFIX,rs-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,rs-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,rs-remorque.com,reject
 HOST-SUFFIX,rs6.net,reject
 HOST-SUFFIX,rsc-ads.vidaahub.com,reject
@@ -19610,7 +19583,6 @@ HOST-SUFFIX,rtbflairads.com,reject
 HOST-SUFFIX,rtbplatform.net,reject
 HOST-SUFFIX,rtbpop.com,reject
 HOST-SUFFIX,rtc-logger-i18n.tiktokv.com,reject
-HOST-SUFFIX,rtc-logger-ie.tiktokv.eu,reject
 HOST-SUFFIX,rtc-logger-ttp2.tiktokv.eu,reject
 HOST-SUFFIX,rtc-logger-ttp2.tiktokv.us,reject
 HOST-SUFFIX,rtc-logger-ttp2.us.tiktokv.com,reject
@@ -19639,6 +19611,7 @@ HOST-SUFFIX,rtlog16-applog-useast1a.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-applog-useast2a.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-applog-useast5.us.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,rtlog16-normal-alisg.tiktokv.com.kp45.ru,reject
 HOST-SUFFIX,rtlog16-normal-ie.tiktokv.eu,reject
 HOST-SUFFIX,rtlog16-normal-ind.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-normal-no1a.tiktokv.eu,reject
@@ -19675,6 +19648,7 @@ HOST-SUFFIX,rtlog19-platform-useast5.us.tiktokv.com,reject
 HOST-SUFFIX,rtlog22-applog-useast1a.tiktokv.com,reject
 HOST-SUFFIX,rtlog22-applog-useast2a.tiktokv.com,reject
 HOST-SUFFIX,rtlog22-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,rtlog22-normal-alisg.tiktokv.com.kp45.ru,reject
 HOST-SUFFIX,rtlog22-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,rtlog22-normal-useast2a.tiktokv.com,reject
 HOST-SUFFIX,rtlog22-normal-zr-alisg.tiktokv.com,reject
@@ -19781,7 +19755,6 @@ HOST-SUFFIX,runads.com,reject
 HOST-SUFFIX,runaivete.com,reject
 HOST-SUFFIX,rundfunkbeitrag-portal-online.de,reject
 HOST-SUFFIX,rundfunkbeitragonline.de,reject
-HOST-SUFFIX,rundfunkbeitragportal.de,reject
 HOST-SUFFIX,rundfunkbeitragsserviceonline.de,reject
 HOST-SUFFIX,rundfunkportal.de,reject
 HOST-SUFFIX,rundholzdirekt.de,reject
@@ -19809,10 +19782,13 @@ HOST-SUFFIX,ruxavild.at,reject
 HOST-SUFFIX,ruyaltalens.com,reject
 HOST-SUFFIX,rvcajapan.net,reject
 HOST-SUFFIX,rw-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,rwcstore.com,reject
 HOST-SUFFIX,rx-budapest.com,reject
+HOST-SUFFIX,rx-discount.com,reject
 HOST-SUFFIX,rx-pharma.net,reject
 HOST-SUFFIX,rx-pharmacies.com,reject
 HOST-SUFFIX,rx-qualityshop.com,reject
+HOST-SUFFIX,rx-true.com,reject
 HOST-SUFFIX,rx247rx.com,reject
 HOST-SUFFIX,rxapothekefursie.com,reject
 HOST-SUFFIX,rxappfree.com,reject
@@ -19841,6 +19817,8 @@ HOST-SUFFIX,s2d6.com,reject
 HOST-SUFFIX,s3-dub-ww.cf.videorolls.row.aiv-cdn.net,reject
 HOST-SUFFIX,s3-iad-ww.cf.videorolls.row.aiv-cdn.net,reject
 HOST-SUFFIX,sa-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,sa-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,sa-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,sa.windows.com,reject
 HOST-SUFFIX,saalebrennholz.de,reject
 HOST-SUFFIX,saarland-honorarfinanz.de,reject
@@ -19909,7 +19887,6 @@ HOST-SUFFIX,salesaddle.com,reject
 HOST-SUFFIX,salesappv51.de,reject
 HOST-SUFFIX,salescomplex.com,reject
 HOST-SUFFIX,salesconsulter.de,reject
-HOST-SUFFIX,salesdaddymasterclass.com,reject
 HOST-SUFFIX,saleshedet.click,reject
 HOST-SUFFIX,saleshop24.shop,reject
 HOST-SUFFIX,salesmaxxer.de,reject
@@ -19949,7 +19926,6 @@ HOST-SUFFIX,salussaunasonline.shop,reject
 HOST-SUFFIX,salzburg-atelier.at,reject
 HOST-SUFFIX,salzburgapotheke.com,reject
 HOST-SUFFIX,salzburgmode.at,reject
-HOST-SUFFIX,salzmode.com,reject
 HOST-SUFFIX,sam.msn.com,reject
 HOST-SUFFIX,sama-logistic.com,reject
 HOST-SUFFIX,same-academy.com,reject
@@ -20143,6 +20119,7 @@ HOST-SUFFIX,sbx.pagesjaunes.fr,reject
 HOST-SUFFIX,sc-analytics.appspot.com,reject
 HOST-SUFFIX,sca.samsung.com,reject
 HOST-SUFFIX,scambiobanner.aruba.it,reject
+HOST-SUFFIX,scannero.io,reject
 HOST-SUFFIX,scanscout.com,reject
 HOST-SUFFIX,scarcesign.com,reject
 HOST-SUFFIX,scaredsnakes.com,reject
@@ -20221,6 +20198,7 @@ HOST-SUFFIX,schmit-mode.com,reject
 HOST-SUFFIX,schmodts.shop,reject
 HOST-SUFFIX,schmoelzer-appartements.com,reject
 HOST-SUFFIX,schmuck-eva.com,reject
+HOST-SUFFIX,schmuckbandknopf.shop,reject
 HOST-SUFFIX,schnappi-deal.de,reject
 HOST-SUFFIX,schnefie.de,reject
 HOST-SUFFIX,schneider-boutique.at,reject
@@ -20391,6 +20369,7 @@ HOST-SUFFIX,secure.webconnect.net,reject
 HOST-SUFFIX,securedopen-bp.com,reject
 HOST-SUFFIX,secureinvest.org,reject
 HOST-SUFFIX,securemed.shop,reject
+HOST-SUFFIX,securemedsshop.com,reject
 HOST-SUFFIX,securemetrics-cn.v.aaplimg.com,reject
 HOST-SUFFIX,securemetrics.apple.com,reject
 HOST-SUFFIX,securemetrics.apple.com.cn,reject
@@ -20436,7 +20415,6 @@ HOST-SUFFIX,selectro.ch,reject
 HOST-SUFFIX,self-events-data.trafficmanager.net,reject
 HOST-SUFFIX,self-love-shop.com,reject
 HOST-SUFFIX,sellano.de,reject
-HOST-SUFFIX,sellerhiking.com,reject
 HOST-SUFFIX,selltr.com,reject
 HOST-SUFFIX,selorentiva.com,reject
 HOST-SUFFIX,selphymade.de,reject
@@ -20526,6 +20504,7 @@ HOST-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com.edgesuite.net,reject
 HOST-SUFFIX,sf19-ads-format-sign.tiktokcdn.com,reject
 HOST-SUFFIX,sg-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,sg-cfg-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,sg-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,sgali-mcs.byteoversea.com,reject
 HOST-SUFFIX,sgaws-mcs.byteoversea.com,reject
 HOST-SUFFIX,sgee-log.byteoversea.com,reject
@@ -20585,6 +20564,7 @@ HOST-SUFFIX,shinychiefstop.com,reject
 HOST-SUFFIX,shinyflakes.de,reject
 HOST-SUFFIX,shinystat.com,reject
 HOST-SUFFIX,shinystat.it,reject
+HOST-SUFFIX,shipafreight.com,reject
 HOST-SUFFIX,shippills.com,reject
 HOST-SUFFIX,shirem.com,reject
 HOST-SUFFIX,shirteu365.com,reject
@@ -20625,7 +20605,6 @@ HOST-SUFFIX,shop-pharmacie-france.com,reject
 HOST-SUFFIX,shop-pharmacie-france.net,reject
 HOST-SUFFIX,shop-pierce.com,reject
 HOST-SUFFIX,shop-retailer.com,reject
-HOST-SUFFIX,shop-retrowave.at,reject
 HOST-SUFFIX,shop-ta-gourdestore.com,reject
 HOST-SUFFIX,shop-teekanne.com,reject
 HOST-SUFFIX,shop-tool.com,reject
@@ -20772,7 +20751,6 @@ HOST-SUFFIX,shopwecro.shop,reject
 HOST-SUFFIX,shopwesternhats.com,reject
 HOST-SUFFIX,shopwineoutlet.com,reject
 HOST-SUFFIX,shopwithme.biz,reject
-HOST-SUFFIX,shopwithpalo.com,reject
 HOST-SUFFIX,shopyalili.com,reject
 HOST-SUFFIX,shopziubertopf.com,reject
 HOST-SUFFIX,shopzogu.com,reject
@@ -20893,6 +20871,7 @@ HOST-SUFFIX,sixsigmatraffic.com,reject
 HOST-SUFFIX,sizmek.com,reject
 HOST-SUFFIX,sjpool.de,reject
 HOST-SUFFIX,sk-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,sk-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,skanehome.com,reject
 HOST-SUFFIX,skechersaustria.at,reject
 HOST-SUFFIX,skechersschuhe.at,reject
@@ -21116,6 +21095,7 @@ HOST-SUFFIX,sohlenlos.com,reject
 HOST-SUFFIX,sohoohair.de,reject
 HOST-SUFFIX,soicos.com,reject
 HOST-SUFFIX,soideverteilung.com,reject
+HOST-SUFFIX,sojakerzen.com,reject
 HOST-SUFFIX,sol-staking.com,reject
 HOST-SUFFIX,solacebeauty.shop,reject
 HOST-SUFFIX,solagoshop.de,reject
@@ -21221,7 +21201,6 @@ HOST-SUFFIX,sombersea.com,reject
 HOST-SUFFIX,sombersquirrel.com,reject
 HOST-SUFFIX,sombersurprise.com,reject
 HOST-SUFFIX,sommeraufdemland.de,reject
-HOST-SUFFIX,sommerfeld-munchen.de,reject
 HOST-SUFFIX,somni-ring.com,reject
 HOST-SUFFIX,somnisleepstore.com,reject
 HOST-SUFFIX,somniture.stuff.co.nz,reject
@@ -21279,6 +21258,7 @@ HOST-SUFFIX,souzaeoliveira.com.br,reject
 HOST-SUFFIX,sovectoron-1-naatlasix-losolara.com,reject
 HOST-SUFFIX,sovkonc.ept.se,reject
 HOST-SUFFIX,sovrn.com,reject
+HOST-SUFFIX,sowaswillichauch.de,reject
 HOST-SUFFIX,sozialefinanzen.de,reject
 HOST-SUFFIX,sozialversicherungsausweisportal.de,reject
 HOST-SUFFIX,sp-a-q-f.ib-game.jp,reject
@@ -21402,7 +21382,6 @@ HOST-SUFFIX,sponsored-ads-eu.amazon.ae,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.com.be,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.com.tr,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.de,reject
-HOST-SUFFIX,sponsored-ads-eu.amazon.eg,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.ie,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.nl,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.pl,reject
@@ -21424,7 +21403,6 @@ HOST-SUFFIX,sponsored-ads.amazon.eg,reject
 HOST-SUFFIX,sponsored-ads.amazon.es,reject
 HOST-SUFFIX,sponsored-ads.amazon.fr,reject
 HOST-SUFFIX,sponsored-ads.amazon.in,reject
-HOST-SUFFIX,sponsored-ads.amazon.in.alphionsee.in,reject
 HOST-SUFFIX,sponsored-ads.amazon.it,reject
 HOST-SUFFIX,sponsored-ads.amazon.sa,reject
 HOST-SUFFIX,sponsored-ads.amazon.sg,reject
@@ -21748,7 +21726,6 @@ HOST-SUFFIX,stienen-damast.de,reject
 HOST-SUFFIX,stierlines.com,reject
 HOST-SUFFIX,stiffgame.com,reject
 HOST-SUFFIX,stijn-outlet.com,reject
-HOST-SUFFIX,stilberlin.com,reject
 HOST-SUFFIX,stilblazer.com,reject
 HOST-SUFFIX,stilehaus.de,reject
 HOST-SUFFIX,stilhaus-mode.de,reject
@@ -21759,7 +21736,6 @@ HOST-SUFFIX,stillsonline.de,reject
 HOST-SUFFIX,stilmark.de,reject
 HOST-SUFFIX,stilmoment.com,reject
 HOST-SUFFIX,stilovo.de,reject
-HOST-SUFFIX,stilrosa.com,reject
 HOST-SUFFIX,stilvollherr.de,reject
 HOST-SUFFIX,stilwerk.shop,reject
 HOST-SUFFIX,stimmfang.com,reject
@@ -21811,7 +21787,7 @@ HOST-SUFFIX,store.aktuellerezensionen.de,reject
 HOST-SUFFIX,store.elmleigha.com,reject
 HOST-SUFFIX,store.jorbray.com,reject
 HOST-SUFFIX,store.kestrelby.com,reject
-HOST-SUFFIX,store.mavelimira.com,reject
+HOST-SUFFIX,store.pavridora.com,reject
 HOST-SUFFIX,store.promomesh.com,reject
 HOST-SUFFIX,store.rensby.com,reject
 HOST-SUFFIX,store.selvariveta.com,reject
@@ -21892,6 +21868,7 @@ HOST-SUFFIX,strobetec.com,reject
 HOST-SUFFIX,strobllandmaschinen.de,reject
 HOST-SUFFIX,stromerzeugerde.com,reject
 HOST-SUFFIX,stromlieferantenwechseln.de,reject
+HOST-SUFFIX,stromraum-studio.de,reject
 HOST-SUFFIX,stromspeichereinbauen.de,reject
 HOST-SUFFIX,stromzone.com,reject
 HOST-SUFFIX,strongoptions.com,reject
@@ -22073,6 +22050,7 @@ HOST-SUFFIX,supportfortross.org,reject
 HOST-SUFFIX,supportmetrics.apple.com,reject
 HOST-SUFFIX,supportmetrics.v.aaplimg.com,reject
 HOST-SUFFIX,supportwaves.com,reject
+HOST-SUFFIX,supr.com,reject
 HOST-SUFFIX,suprabatt.de,reject
 HOST-SUFFIX,suprafootweardeutschland.com,reject
 HOST-SUFFIX,supragaming.net,reject
@@ -22091,8 +22069,8 @@ HOST-SUFFIX,survioprotek.shop,reject
 HOST-SUFFIX,suscap-ag.de,reject
 HOST-SUFFIX,susponsuperstore.shop,reject
 HOST-SUFFIX,suveneoutlet.com,reject
-HOST-SUFFIX,suxxessfx.com,reject
 HOST-SUFFIX,sv-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,sv-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,svelton.com,reject
 HOST-SUFFIX,sverigewind.com,reject
 HOST-SUFFIX,svitla-vip.co,reject
@@ -22165,13 +22143,9 @@ HOST-SUFFIX,szigetlo.shop,reject
 HOST-SUFFIX,t-ring-fallback-s2.msedge.net,reject
 HOST-SUFFIX,t-ring-fallback.msedge.net,reject
 HOST-SUFFIX,t-ring-fallbacks1.msedge.net,reject
-HOST-SUFFIX,t-ring-fallbacks2.msedge.net,reject
-HOST-SUFFIX,t-ring-fdv2.msedge.net,reject
-HOST-SUFFIX,t-ring-s.msedge.net,reject
 HOST-SUFFIX,t-ring-s2.msedge.net,reject
 HOST-SUFFIX,t-ring-trafficshield.msedge.net,reject
 HOST-SUFFIX,t-ring.msedge.net,reject
-HOST-SUFFIX,t-s1-ring.msedge.net,reject
 HOST-SUFFIX,t-s2-ring.msedge.net,reject
 HOST-SUFFIX,t.appsflyer.com,reject
 HOST-SUFFIX,t.bawafx.com,reject
@@ -22498,13 +22472,14 @@ HOST-SUFFIX,tffjm.com,reject
 HOST-SUFFIX,tfipost.com,reject
 HOST-SUFFIX,tg-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,tga-degenfeld.at,reject
-HOST-SUFFIX,tgi.li,reject
 HOST-SUFFIX,tgrdgljt.shop,reject
 HOST-SUFFIX,tgtus1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,tgtus1-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,tgtus1-word-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,th-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,th-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,th-outsiders-journey.shop,reject
+HOST-SUFFIX,th-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,th0manns0und.shop,reject
 HOST-SUFFIX,thaibizdaily.com,reject
 HOST-SUFFIX,thailaendischekuecheberlin.de,reject
@@ -22612,7 +22587,6 @@ HOST-SUFFIX,thepacksale.com,reject
 HOST-SUFFIX,thepanther.io,reject
 HOST-SUFFIX,thepeppymay.com,reject
 HOST-SUFFIX,thepetshopsonline.com,reject
-HOST-SUFFIX,thepetzone.vip,reject
 HOST-SUFFIX,thepharmacriterion.com,reject
 HOST-SUFFIX,thepocketknives.com,reject
 HOST-SUFFIX,thepocsport.com,reject
@@ -22746,6 +22720,7 @@ HOST-SUFFIX,tiinogrill.com,reject
 HOST-SUFFIX,tikkischuhewien.at,reject
 HOST-SUFFIX,tilmes-consulting.de,reject
 HOST-SUFFIX,timberland-schweiz.com,reject
+HOST-SUFFIX,timberland.co.at,reject
 HOST-SUFFIX,timberlandde.de,reject
 HOST-SUFFIX,timberrtech.myshopify.com,reject
 HOST-SUFFIX,timbuk2.co.at,reject
@@ -22799,6 +22774,7 @@ HOST-SUFFIX,tj1.staging.pay.xiaomi.com,reject
 HOST-SUFFIX,tj1.stagingouter.pay.xiaomi.com,reject
 HOST-SUFFIX,tj1.test.pay.xiaomi.com,reject
 HOST-SUFFIX,tk-beta.amazon-adsystem.com,reject
+HOST-SUFFIX,tk-energiemanagement.de,reject
 HOST-SUFFIX,tk-eu.amazon-adsystem.com,reject
 HOST-SUFFIX,tk-gamma.amazon-adsystem.com,reject
 HOST-SUFFIX,tk-kontor.de,reject
@@ -22807,7 +22783,6 @@ HOST-SUFFIX,tk.amazon-adsystem.com,reject
 HOST-SUFFIX,tkbo.com,reject
 HOST-SUFFIX,tkeesdeutschland.com,reject
 HOST-SUFFIX,tkonline.shop,reject
-HOST-SUFFIX,tktxde.de,reject
 HOST-SUFFIX,tktxkaufen.de,reject
 HOST-SUFFIX,tl-treuhand.de,reject
 HOST-SUFFIX,tlapka.cz,reject
@@ -22900,6 +22875,7 @@ HOST-SUFFIX,todo-para-embarcaciones.com,reject
 HOST-SUFFIX,todoenartez.shop,reject
 HOST-SUFFIX,tof.vproinvest.com,reject
 HOST-SUFFIX,toffifeeaktion.de,reject
+HOST-SUFFIX,togelhongkongpools1.com,reject
 HOST-SUFFIX,togelsydneypools.org,reject
 HOST-SUFFIX,togetherrxacces.com,reject
 HOST-SUFFIX,toipferkunst.shop,reject
@@ -23022,6 +22998,7 @@ HOST-SUFFIX,topoffice24.de,reject
 HOST-SUFFIX,toponlinepharmacies.com,reject
 HOST-SUFFIX,topowhey.top,reject
 HOST-SUFFIX,toppdf.co,reject
+HOST-SUFFIX,toppillsstore.com,reject
 HOST-SUFFIX,topproizvodi.eu,reject
 HOST-SUFFIX,topreinigungsmittel.com,reject
 HOST-SUFFIX,toprolexes.com,reject
@@ -23054,6 +23031,7 @@ HOST-SUFFIX,toschinkaofhaus.shop,reject
 HOST-SUFFIX,totemcash.com,reject
 HOST-SUFFIX,totogifthouse.com,reject
 HOST-SUFFIX,totohongkongpools4d.com,reject
+HOST-SUFFIX,totovape.de,reject
 HOST-SUFFIX,totrendybags.com,reject
 HOST-SUFFIX,totsoo.com,reject
 HOST-SUFFIX,touchclarity.com,reject
@@ -23093,6 +23071,8 @@ HOST-SUFFIX,tr-onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,tr-ort-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,tr-p.vivoglobal.com,reject
 HOST-SUFFIX,tr-pnrt-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,tr-prt-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,tr-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,tr-romsp-unifyconfig.vivoglobal.com,reject
 HOST-SUFFIX,tr-st-sl.vivoglobal.com,reject
 HOST-SUFFIX,tr-st-sysupgrade.vivoglobal.com,reject
@@ -23103,7 +23083,6 @@ HOST-SUFFIX,tr-vcode-api.vivoglobal.com,reject
 HOST-SUFFIX,tr-vcode-od.vivoglobal.com,reject
 HOST-SUFFIX,tr-vcode-or.vivoglobal.com,reject
 HOST-SUFFIX,tr-weather.vivoglobal.com,reject
-HOST-SUFFIX,tr.api.fanbyte.com,reject
 HOST-SUFFIX,tr.p.360.cn,reject
 HOST-SUFFIX,trabo-garten.de,reject
 HOST-SUFFIX,trace-h5sdk.vivo.com.cn,reject
@@ -23230,6 +23209,7 @@ HOST-SUFFIX,traderxp.com,reject
 HOST-SUFFIX,tradesverge.com,reject
 HOST-SUFFIX,tradeswim.com,reject
 HOST-SUFFIX,tradetoinvest.com,reject
+HOST-SUFFIX,tradeviewforex.com,reject
 HOST-SUFFIX,tradezila.com,reject
 HOST-SUFFIX,trading-floor.ai,reject
 HOST-SUFFIX,trading-floor.io,reject
@@ -23347,6 +23327,7 @@ HOST-SUFFIX,trenessshop.de,reject
 HOST-SUFFIX,trennschleiferde.com,reject
 HOST-SUFFIX,trenzjar.com,reject
 HOST-SUFFIX,tresorbit.com,reject
+HOST-SUFFIX,tress-immo.com,reject
 HOST-SUFFIX,treuhand-consulta.de,reject
 HOST-SUFFIX,treuhand-gmbh.com,reject
 HOST-SUFFIX,treuquell.de,reject
@@ -23378,6 +23359,7 @@ HOST-SUFFIX,triton-online.com,reject
 HOST-SUFFIX,tritoncapitalmarkets.com,reject
 HOST-SUFFIX,tritonmarkets.com,reject
 HOST-SUFFIX,trivanode.com,reject
+HOST-SUFFIX,trivio-handel.de,reject
 HOST-SUFFIX,trivona.de,reject
 HOST-SUFFIX,trk.4ff.pro,reject
 HOST-SUFFIX,trk.bc.shutterfly.com,reject
@@ -23405,7 +23387,9 @@ HOST-SUFFIX,trovando.de,reject
 HOST-SUFFIX,truckstomatoes.com,reject
 HOST-SUFFIX,truckstopshop.de,reject
 HOST-SUFFIX,truculentrate.com,reject
+HOST-SUFFIX,true-bb.com,reject
 HOST-SUFFIX,true-drugstore.com,reject
+HOST-SUFFIX,true-ph.com,reject
 HOST-SUFFIX,true-pp.com,reject
 HOST-SUFFIX,true-tab.com,reject
 HOST-SUFFIX,true-weightlose.com,reject
@@ -23441,6 +23425,7 @@ HOST-SUFFIX,trustedtablets.online,reject
 HOST-SUFFIX,trusteryai.com,reject
 HOST-SUFFIX,trustgarganoelectric.com,reject
 HOST-SUFFIX,trustinvestment-gmbh.com,reject
+HOST-SUFFIX,trustmeds24.com,reject
 HOST-SUFFIX,trustmedz.com,reject
 HOST-SUFFIX,trustmycart.com,reject
 HOST-SUFFIX,trustonlinepharmacy.com,reject
@@ -23509,7 +23494,6 @@ HOST-SUFFIX,turkishsilverwholesale.com,reject
 HOST-SUFFIX,turn.com,reject
 HOST-SUFFIX,turolloy.com,reject
 HOST-SUFFIX,tuvas-tech.de,reject
-HOST-SUFFIX,tv-analytics-events.apple.com,reject
 HOST-SUFFIX,tv-longzhu-online.com,reject
 HOST-SUFFIX,tv-sideboards-sale.com,reject
 HOST-SUFFIX,tv-smart.co,reject
@@ -23546,6 +23530,8 @@ HOST-SUFFIX,tyyclu.com,reject
 HOST-SUFFIX,tz-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,u-id.cpc.heytapmobile.com,reject
 HOST-SUFFIX,ua-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ua-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ua-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,uaedisscount.com,reject
 HOST-SUFFIX,uaeteampissei.team,reject
 HOST-SUFFIX,uarating.com,reject
@@ -23606,7 +23592,6 @@ HOST-SUFFIX,ukc-onenote-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,ukc-visio-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,ukchristmasdecor.com,reject
 HOST-SUFFIX,ukeprice.com,reject
-HOST-SUFFIX,uklandregistryportal.co.uk,reject
 HOST-SUFFIX,ukoffzeh.com,reject
 HOST-SUFFIX,ulalinenzi.com,reject
 HOST-SUFFIX,ulends.fr,reject
@@ -23775,7 +23760,6 @@ HOST-SUFFIX,url9467.comms-2.zoopla.co.uk,reject
 HOST-SUFFIX,urlcash.net,reject
 HOST-SUFFIX,urmanara.com,reject
 HOST-SUFFIX,urmanbodyjewelry.com,reject
-HOST-SUFFIX,ursime.com,reject
 HOST-SUFFIX,ursulam.com,reject
 HOST-SUFFIX,urvlentoki-at.com,reject
 HOST-SUFFIX,urvlentoki-ie.com,reject
@@ -23786,13 +23770,13 @@ HOST-SUFFIX,us-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,us-billini.shop,reject
 HOST-SUFFIX,us-east.ono.axp.amazon-adsystem.com,reject
 HOST-SUFFIX,us-info-lgsmartad-com.aws-prd.net,reject
-HOST-SUFFIX,us-mesh-events-data-leafs.trafficmanager.net,reject
 HOST-SUFFIX,us-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,us-report.gras.samsungdm.com,reject
 HOST-SUFFIX,us-shop.online,reject
 HOST-SUFFIX,us-supplements.to,reject
 HOST-SUFFIX,us.a1.yimg.com,reject
 HOST-SUFFIX,us.nl.eu.org,reject
+HOST-SUFFIX,us7-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,usa-food-store.de,reject
 HOST-SUFFIX,usacyclestorepro.com,reject
 HOST-SUFFIX,usagcprogram.com,reject
@@ -23814,7 +23798,6 @@ HOST-SUFFIX,user.portal-zone.org,reject
 HOST-SUFFIX,userid.xiaomi.com,reject
 HOST-SUFFIX,userprofile.push.heytapmobi.com,reject
 HOST-SUFFIX,userreplay.com,reject
-HOST-SUFFIX,usezazzi.com,reject
 HOST-SUFFIX,usezunna.com,reject
 HOST-SUFFIX,ushomeshop.com,reject
 HOST-SUFFIX,uskeenfootwear.com,reject
@@ -23896,6 +23879,7 @@ HOST-SUFFIX,vamnex.com,reject
 HOST-SUFFIX,vamos--schuhe.com,reject
 HOST-SUFFIX,vamos-schuhe.com,reject
 HOST-SUFFIX,vamosschuhedamen.com,reject
+HOST-SUFFIX,vancelian.com,reject
 HOST-SUFFIX,vancetaylor.com,reject
 HOST-SUFFIX,vandoxo.com,reject
 HOST-SUFFIX,vanea-barfussschuhe.com,reject
@@ -23956,6 +23940,7 @@ HOST-SUFFIX,vddeals.com,reject
 HOST-SUFFIX,vdel-electromenager.com,reject
 HOST-SUFFIX,vdiliz.de,reject
 HOST-SUFFIX,ve-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,ve-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,vecticon.co,reject
 HOST-SUFFIX,veedelmaskenshop.de,reject
 HOST-SUFFIX,vega-energy.de,reject
@@ -24140,6 +24125,7 @@ HOST-SUFFIX,vibevapeshop.com,reject
 HOST-SUFFIX,vibramshoes-my.com,reject
 HOST-SUFFIX,vibrantsundown.com,reject
 HOST-SUFFIX,vicinityk.com,reject
+HOST-SUFFIX,victoriabeckham.at,reject
 HOST-SUFFIX,victoriassecret-vip-online.shop,reject
 HOST-SUFFIX,victoriousgamingentertainment.net,reject
 HOST-SUFFIX,victoroutlet.de,reject
@@ -24257,7 +24243,6 @@ HOST-SUFFIX,virtuelle-apotheke.de,reject
 HOST-SUFFIX,visiblemeasures.com,reject
 HOST-SUFFIX,visinature.com,reject
 HOST-SUFFIX,visio-telemetry.officeapps.live.com,reject
-HOST-SUFFIX,visionarycaapital.com,reject
 HOST-SUFFIX,visionauto-solution.com,reject
 HOST-SUFFIX,visioncenterstore.com,reject
 HOST-SUFFIX,visionfancyclothing.com,reject
@@ -24305,7 +24290,6 @@ HOST-SUFFIX,vivads.net,reject
 HOST-SUFFIX,vivagopro.com,reject
 HOST-SUFFIX,vivaharmoni.com,reject
 HOST-SUFFIX,vivaia-schuhe.de,reject
-HOST-SUFFIX,vivaiacollection.com,reject
 HOST-SUFFIX,vivaiaschuhe.at,reject
 HOST-SUFFIX,vivaiaschuhe.com,reject
 HOST-SUFFIX,vivaiaschuhe.de,reject
@@ -24344,6 +24328,8 @@ HOST-SUFFIX,vlomy.de,reject
 HOST-SUFFIX,vmhausgerate.de,reject
 HOST-SUFFIX,vmqnpjm.com,reject
 HOST-SUFFIX,vn-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,vn-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,vn-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,vnews.at,reject
 HOST-SUFFIX,voba-sign.cc,reject
 HOST-SUFFIX,vobishop.de,reject
@@ -24466,7 +24452,6 @@ HOST-SUFFIX,vs-home.de,reject
 HOST-SUFFIX,vssaleonline-us.shop,reject
 HOST-SUFFIX,vstelemetry.trafficmanager.net,reject
 HOST-SUFFIX,vswatches.net,reject
-HOST-SUFFIX,vtmarketsfr.com,reject
 HOST-SUFFIX,vtmfr.com,reject
 HOST-SUFFIX,vtoolstore.de,reject
 HOST-SUFFIX,vtracy.de,reject
@@ -24495,6 +24480,7 @@ HOST-SUFFIX,w55c.net,reject
 HOST-SUFFIX,wa.and.co.uk,reject
 HOST-SUFFIX,waagepur.com,reject
 HOST-SUFFIX,waardex.com,reject
+HOST-SUFFIX,wacaco.co.at,reject
 HOST-SUFFIX,wachautoteile.com,reject
 HOST-SUFFIX,wachstuchshop24pro.com,reject
 HOST-SUFFIX,wachstumsworkshop.de,reject
@@ -24537,6 +24523,7 @@ HOST-SUFFIX,walgfashion.com,reject
 HOST-SUFFIX,walkfit.welltech.com,reject
 HOST-SUFFIX,walkingmats.com,reject
 HOST-SUFFIX,walkingonacloudshoeshop.com,reject
+HOST-SUFFIX,walkloden.com,reject
 HOST-SUFFIX,walklux.de,reject
 HOST-SUFFIX,walllampchat.com,reject
 HOST-SUFFIX,wallpilates.com,reject
@@ -24594,6 +24581,7 @@ HOST-SUFFIX,wasserfestwandplatte.com,reject
 HOST-SUFFIX,wasserflorade.com,reject
 HOST-SUFFIX,wasserflorashop.com,reject
 HOST-SUFFIX,wasserpflegede.com,reject
+HOST-SUFFIX,wasserpfote.shop,reject
 HOST-SUFFIX,wasserruderangebote.com,reject
 HOST-SUFFIX,wassershop24top.com,reject
 HOST-SUFFIX,wasserspender-deutschland.de,reject
@@ -24608,6 +24596,7 @@ HOST-SUFFIX,watchcod-hr.shop,reject
 HOST-SUFFIX,watchcod-nz.shop,reject
 HOST-SUFFIX,watchdealseu.shop,reject
 HOST-SUFFIX,watchesoff5gc.vip,reject
+HOST-SUFFIX,watchesreplica.is,reject
 HOST-SUFFIX,watchesstore.co,reject
 HOST-SUFFIX,watchfaceshub.com,reject
 HOST-SUFFIX,watchharbor.de,reject
@@ -24622,6 +24611,7 @@ HOST-SUFFIX,watson-manchester.com,reject
 HOST-SUFFIX,watson.live.com,reject
 HOST-SUFFIX,watson.microsoft.com,reject
 HOST-SUFFIX,watson.officeint.microsoft.com,reject
+HOST-SUFFIX,watsoncab.trafficmanager.net,reject
 HOST-SUFFIX,wattcafe.fr,reject
 HOST-SUFFIX,watteimall.com,reject
 HOST-SUFFIX,wattpionier.de,reject
@@ -24757,7 +24747,6 @@ HOST-SUFFIX,weinvielfalt.shop,reject
 HOST-SUFFIX,weinviertelwein.com,reject
 HOST-SUFFIX,weinweltgenuss.com,reject
 HOST-SUFFIX,weissbt.com,reject
-HOST-SUFFIX,weisseres-lacheln.at,reject
 HOST-SUFFIX,weissweinrabatt.de,reject
 HOST-SUFFIX,weitzgermany.com,reject
 HOST-SUFFIX,wekagartenrabatt.com,reject
@@ -24765,9 +24754,7 @@ HOST-SUFFIX,wekos.fr,reject
 HOST-SUFFIX,welcherweinzu.de,reject
 HOST-SUFFIX,weleda.sa.com,reject
 HOST-SUFFIX,welfarek.com,reject
-HOST-SUFFIX,wellacooler.com,reject
 HOST-SUFFIX,wellandwell.fr,reject
-HOST-SUFFIX,wellawhite.com,reject
 HOST-SUFFIX,wellen-steyn.de,reject
 HOST-SUFFIX,wellensteynjacke.de,reject
 HOST-SUFFIX,wellensteynshopde.com,reject
@@ -24782,7 +24769,6 @@ HOST-SUFFIX,welpenhimmel.de,reject
 HOST-SUFFIX,welpenkaufen.at,reject
 HOST-SUFFIX,welpentraum.de,reject
 HOST-SUFFIX,weltapotheko.shop,reject
-HOST-SUFFIX,weltbibliothek.com,reject
 HOST-SUFFIX,welthonigo.shop,reject
 HOST-SUFFIX,welttrikot.com,reject
 HOST-SUFFIX,weltweit-akkus.de,reject
@@ -24861,7 +24847,6 @@ HOST-SUFFIX,wester-finance.com,reject
 HOST-SUFFIX,western-cowboy-shop.de,reject
 HOST-SUFFIX,westernandcowboy.de,reject
 HOST-SUFFIX,westerncowboyboot.com,reject
-HOST-SUFFIX,westeurope-5.in.applicationinsights.azure.com.fiege.de,reject
 HOST-SUFFIX,westex-handell.de,reject
 HOST-SUFFIX,westfeldmode.de,reject
 HOST-SUFFIX,westickers.com,reject
@@ -25022,7 +25007,6 @@ HOST-SUFFIX,withingss.at,reject
 HOST-SUFFIX,withingss.de,reject
 HOST-SUFFIX,wittelsheimholz.com,reject
 HOST-SUFFIX,witten-berg.de,reject
-HOST-SUFFIX,wittenwald.de,reject
 HOST-SUFFIX,wittmode.com,reject
 HOST-SUFFIX,wittypopcorn.com,reject
 HOST-SUFFIX,wivaro.de,reject
@@ -25063,6 +25047,7 @@ HOST-SUFFIX,wohnlichkeiterschaffen.com,reject
 HOST-SUFFIX,wohnlichtshop.com,reject
 HOST-SUFFIX,wohnliebe-berlin.de,reject
 HOST-SUFFIX,wohnosh.shop,reject
+HOST-SUFFIX,wohnpura.com,reject
 HOST-SUFFIX,wohnstilform.com,reject
 HOST-SUFFIX,wohnstilo24.shop,reject
 HOST-SUFFIX,wohnungen-wohnen.de,reject
@@ -25103,6 +25088,7 @@ HOST-SUFFIX,wonderwattbox.com,reject
 HOST-SUFFIX,wondoads.de,reject
 HOST-SUFFIX,wonoshop.shop,reject
 HOST-SUFFIX,wood-line24.de,reject
+HOST-SUFFIX,woodbrezany.com,reject
 HOST-SUFFIX,wooddender.com,reject
 HOST-SUFFIX,woodelivo.com,reject
 HOST-SUFFIX,woodeu.de,reject
@@ -25112,6 +25098,8 @@ HOST-SUFFIX,woodproberg.com,reject
 HOST-SUFFIX,woodycoo.shop,reject
 HOST-SUFFIX,woofgear.de,reject
 HOST-SUFFIX,wooflyx.com,reject
+HOST-SUFFIX,woofz.com,reject
+HOST-SUFFIX,woolerysaleshop.com,reject
 HOST-SUFFIX,woolonide.com,reject
 HOST-SUFFIX,woom-eu.shop,reject
 HOST-SUFFIX,woopra.com,reject
@@ -25173,7 +25161,6 @@ HOST-SUFFIX,wtass.com,reject
 HOST-SUFFIX,wtcentral.com,reject
 HOST-SUFFIX,wtidesign.com,reject
 HOST-SUFFIX,wtradv.market.xiaomi.com,reject
-HOST-SUFFIX,wttwebsiteprodapi-liveevents.trafficmanager.net,reject
 HOST-SUFFIX,wuerfelbedarf.com,reject
 HOST-SUFFIX,wuffstore.de,reject
 HOST-SUFFIX,wuffy.nl,reject
@@ -25363,12 +25350,14 @@ HOST-SUFFIX,ybcladmetal.com,reject
 HOST-SUFFIX,ycdscc.com,reject
 HOST-SUFFIX,ydconsultant.com,reject
 HOST-SUFFIX,ye-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,yeezy-450.com,reject
 HOST-SUFFIX,yeezy-700.us.com,reject
 HOST-SUFFIX,yeezy-shoes.us.com,reject
 HOST-SUFFIX,yeezy.at,reject
 HOST-SUFFIX,yeezy.uk.com,reject
 HOST-SUFFIX,yeezy350.uk.com,reject
 HOST-SUFFIX,yeezy350s.us.com,reject
+HOST-SUFFIX,yeezys.co,reject
 HOST-SUFFIX,yeezys.co.at,reject
 HOST-SUFFIX,yeezys.uk.com,reject
 HOST-SUFFIX,yeezyslides.us.com,reject
@@ -25436,6 +25425,7 @@ HOST-SUFFIX,yoyocats.com,reject
 HOST-SUFFIX,ypu.samsungelectronics.com,reject
 HOST-SUFFIX,ysolara.at,reject
 HOST-SUFFIX,ytcycling.com,reject
+HOST-SUFFIX,yuan-paygroup.com,reject
 HOST-SUFFIX,yuanpaygroup.org,reject
 HOST-SUFFIX,yuaonew.com,reject
 HOST-SUFFIX,yuguz.com,reject
@@ -25462,7 +25452,9 @@ HOST-SUFFIX,z-wavelab.com,reject
 HOST-SUFFIX,z7v4fn-e1.myshopify.com,reject
 HOST-SUFFIX,z8gaming.net,reject
 HOST-SUFFIX,za-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,za-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,za-p.vivoglobal.com,reject
+HOST-SUFFIX,za-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,zaballde.com,reject
 HOST-SUFFIX,zabawechtaseba.teachable.com,reject
 HOST-SUFFIX,zackfit.de,reject
@@ -25480,7 +25472,6 @@ HOST-SUFFIX,zallona.de,reject
 HOST-SUFFIX,zalori.de,reject
 HOST-SUFFIX,zaloweb.me,reject
 HOST-SUFFIX,zaloweb.pro,reject
-HOST-SUFFIX,zanatelier.com,reject
 HOST-SUFFIX,zanevipshop.com,reject
 HOST-SUFFIX,zanexarolu.com,reject
 HOST-SUFFIX,zangocash.com,reject
@@ -25565,7 +25556,6 @@ HOST-SUFFIX,zenoclimat.de,reject
 HOST-SUFFIX,zenova-shop.de,reject
 HOST-SUFFIX,zenovaa.store,reject
 HOST-SUFFIX,zenpurslepo.shop,reject
-HOST-SUFFIX,zentempel.com,reject
 HOST-SUFFIX,zenther.shop,reject
 HOST-SUFFIX,zentiv.de,reject
 HOST-SUFFIX,zentoes.shop,reject
