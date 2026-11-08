@@ -10,6 +10,7 @@ from datetime import datetime
 # Note: Lokal Tracking dihapus sesuai instruksi.
 LOCAL_NSFW_GAMBLING = [
     "filters/nsfw/RifqyShield-NSFW.txt",
+    "filters/nsfw/RifqyShield-CDN.txt",
     "filters/gambling/RifqyShield-Gambling.txt",
 ]
 
