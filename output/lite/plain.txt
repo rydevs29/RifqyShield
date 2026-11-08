@@ -6106,7 +6106,6 @@ de.moravon.com
 de.mysalights.com
 de.osmo-official.com
 de.pandora.xiaomi.com
-de.plantiter.shop
 de.puppylove.com
 de.soera-store.com
 de.soolinen.com
@@ -6622,6 +6621,7 @@ discustsion.com
 disdisbuy.com
 disignletters.com
 diskrete-apotheke.de
+diskrete-apotheke24.de
 disneykinder.de
 displayvertising.com
 disqusads.com
@@ -9036,6 +9036,7 @@ fxcast.com
 fxcm-group.io
 fxcmanagement.com
 fximperial.com
+fxltsbl.com
 fxpoint.co
 fxpvdxfj.shop
 fxr-ai.com
@@ -11232,6 +11233,7 @@ hystericalcloth.com
 i-cn01a.ocloud.heytapmobi.com
 i-i.lt
 i-in.browser.heytapmobile.com
+i-insurance.finzfin.com
 i-sg.browser.heytapmobile.com
 i-sg01a.ocloud.heytapmobi.com
 i-th.browser.heytapmobile.com
@@ -12101,6 +12103,8 @@ jordan1.uk.com
 jordanat.at
 jordanmania.de
 jordanofficial.eu.com
+jordanretro4.com
+jordans-shoes.com
 jordanstockx.com
 jorisshop.de
 josef-gartentechnik.de
@@ -13893,7 +13897,6 @@ logsss.com
 logtrace.snssdk.com
 logua.com
 logupdate.avlyun.sec.miui.com
-lohmann-mode.de
 lohr-treuhand.com
 lojaarantes.com.br
 lojabrmetaversoline.com
@@ -15707,6 +15710,7 @@ moonbootsuomi.net
 moonbootukstore.com
 moonetrix.com
 moongadgets.com
+moongor.com
 moonkie.de
 moonpod.de
 moontod.com
@@ -16778,6 +16782,7 @@ obstbaumpflanzen.com
 obstbaumrabatt.com
 obstbaumwelt.com
 obus-cn.dc.heytapmobi.com
+obus-conf-cn.heytapmobi.com
 obus-conf-fr.heytapmobile.com
 obus-conf-in.heytapmobile.com
 obus-conf-sg.heytapmobile.com
@@ -18154,7 +18159,6 @@ pnzietbd.shop
 pocketdrugguide.com
 pocketfaucet.com
 pocketoption.fr
-pockoo.de
 pocrabatt.de
 pocski.de
 pocustrack.com
@@ -18213,7 +18217,6 @@ poolheaterpump.com
 poolina.de
 poollogin.com
 poolsaunasupply.com
-poolslot.org
 poolzubehors.com
 popads.net
 popalog.com
@@ -18298,7 +18301,6 @@ ppc-powerpoint-telemetry.wac.trafficmanager.net
 ppc-word-telemetry.officeapps.live.com
 ppc-word-telemetry.wac.trafficmanager.net
 ppc.adhere.marchex.com
-ppifxcxa.shop
 pqhw.com
 pr-ad-lgsmartad-com.aws-prd.net
 pr-info-lgsmartad-com.aws-prd.net
@@ -18399,7 +18401,6 @@ pridesaunaclub.com
 prikoqueron.com
 primada.de
 primalekarna.com
-primary-markets.com
 primatop.de
 primavo24.de
 prime-analytics.de
@@ -18480,7 +18481,6 @@ produkttests-sicherheitskamera.de
 proeuromeds.com
 proevery.com
 proext.com
-prof-vet.com
 profahrradteile.com
 profero.com
 profi-entruempelung.at
@@ -18558,7 +18558,6 @@ protektorenprofi.shop
 protestcopy.com
 protetorsolarproacd.com
 prothermwoodpellets.com
-protmina.com
 proton-tm.com
 protosale.com
 protraffic.com
@@ -18666,6 +18665,7 @@ purprints.com
 purprints.net
 purrkit.shop
 pursure.com
+push-ads-cn.heytapmobi.com
 push-dc-us.heytapmobile.com
 push.heytapmobile.com
 pusheen.de-imex.de
@@ -18698,7 +18698,6 @@ qartelshop.com
 qavelo.com
 qcificspez.club
 qctop.com
-qddvpkbj.shop
 qenova.com
 qf-store.myshoplaza.com
 qfsn.ivebelting.com
@@ -18707,7 +18706,6 @@ qidjrs.shop
 qidjrsgroup.shop
 qihaobuy.com
 qiye.xiaomi.com
-qkblzvnk.shop
 ql.tc
 qlepy.com
 qliopbn.forum
@@ -18741,8 +18739,6 @@ quantumai.co.com
 quantumai.fr
 quantumaiplatform.com
 quantummetric.com
-quantumprimeprofit.io
-quantumtrade.co
 quantumtrade.io
 quantwise.ai
 quantx-group.com
@@ -18762,7 +18758,6 @@ queensgaa.com
 quellshop.de
 quendora.com
 quentisolarveix.de
-quick-kredit.com
 quickbills-online.com
 quickdna.com
 quickdocumentgenerator.com
@@ -18791,6 +18786,7 @@ qwinout.com
 qytre.com
 qzzfg7zy0r.online
 r-handels.de
+r.brandreward.com
 r.browser.intl.miui.com
 r.drinksdirect.net
 r.logrocket.io
@@ -18820,7 +18816,6 @@ rabattfahrradteile.de
 rabattgabor.de
 rabatthaustiers.com
 rabattkorb.de
-rabattlampen.com
 rabattleuchten.de
 rabattlloyd.de
 rabattloewe.de
@@ -18829,7 +18824,6 @@ rabattoneill.de
 rabattpalm.de
 rabattseafolly.de
 rabattski.com
-rabattskiausrustung.com
 rabattskis.de
 rabattsport.de
 rabattstoves.de
@@ -18868,7 +18862,6 @@ radmarkt-schaeler.de
 radrudel.de
 rads.msn.com
 rads.realadmin.pl
-radselect.de
 radsport-viernheim.de
 radteil.de
 radteiledeal.com
@@ -18941,7 +18934,6 @@ raumbauteile.com
 raumduftpflegebedarf.com
 raumgartenwerk.de
 raumnote.de
-raumzauberde.com
 ravenciax.shop
 rawaqbeauty.com
 rawtelemetry-east.servicebus.windows.net
@@ -19099,7 +19091,6 @@ reineblume.de
 reings.store
 reinhard-kanzlei.de
 reinholdrasenmaher.com
-reinholzexpress.com
 reinigungszubehor.com
 reinpeptid.de
 reiseklarheit.de
@@ -19179,7 +19170,6 @@ replicahause.is
 replicakaufen.de
 replicareview.io
 replicasrelojes.to
-replicaswatches.vip
 replicauhren.be
 replicauhren.kaufen
 replicauhrenol.de
@@ -19294,7 +19284,6 @@ rhinoshopield.com
 rhinoshopsystems.com
 rhode.co.at
 rhombusads.com
-rhonetal-energieholz.com
 rhythmone.com
 ri-lieeoodu.com
 riballi.com
@@ -19304,7 +19293,6 @@ ricasrucksack.com
 ricemly.com
 richagloves.com
 richardcasino-online.de
-richardkellenbergerlaw.com
 richardtea.eu
 richaudience.com
 richepet.net
@@ -19316,7 +19304,6 @@ richterorthopadie.com
 rickoshop.org
 rideessence.com
 ridefusiongear.com
-ridegefuhl.de
 ridelbergu.de
 riderhorsesupplies.com
 ridersdeals.com
@@ -19334,7 +19321,6 @@ riekerschuhe.at
 rifereestore.shop
 rigebnqe.shop
 rightstats.com
-rigotkamin.com
 rihilozavoradvisorynet.digital
 rikoltoy.com
 rileyheftman.shop
@@ -19412,13 +19398,11 @@ roborockosterreich.at
 roborocks.at
 roborocks.de
 roborockshop.de.com
-robosparkinvestor.de
 robot-tonde-aspir.com
 robotikstore.com
 robotrefinery.com
 robotreplay.com
 robottagliaerbascontato.com
-robottonte.com
 robotxmarkt.de
 robozen-fx.com
 robustwerkzeug.com
@@ -19458,7 +19442,6 @@ roiochern.shop
 rok.com.com
 roleo.net
 rolex-replica.to
-rolexwanduhr.de
 rolexyeals.com
 rolla.store
 rolladen-rudolf.at
@@ -19485,7 +19468,6 @@ romebridal.com
 romeccs.microsoft.com
 romeooo.com
 romodana.de
-romy-dortmund.de
 romy-frieder.de
 ronado.de
 ronain.com
@@ -19540,7 +19522,6 @@ roullei.com
 roussebois.com
 routehygge.co
 routermeister24.myshopify.com
-routinefashiones.com
 rovantar.com
 rovux.co
 rowenta.com.de
@@ -19750,10 +19731,8 @@ rumplierorbit.click
 runads.com
 runaivete.com
 rundfunkbeitrag-portal-online.de
-rundfunkbeitragonline.de
 rundfunkbeitragsserviceonline.de
 rundfunkportal.de
-rundholzdirekt.de
 rundsp.com
 rundumstrikot.de
 runrigstack.click
@@ -19768,7 +19747,6 @@ rus-service-us.allawnos.com
 rus.miui.com
 rusin-anwaelte.de
 rusin-recht.de
-russellandbromley.de
 russiannewstoday.com
 russianpharmacy.org
 russmohl.de
@@ -19796,7 +19774,6 @@ rychle-hubnuti.to
 ryderwearjapan.com
 ryderwearjapann.com
 ryse-marketing.com
-rytewerkone.com
 rzpellet.at
 s--s--s.com
 s-fe.amazon-adsystem.com
@@ -20062,7 +20039,6 @@ sarahravengb.com
 sarahrmeyer.com
 saramaud.com
 sarasohaus.com
-sarl-castelmag.com
 sarlcresmar.com
 sarlprofildiffusion.com
 saroni-handel.de
@@ -20191,7 +20167,6 @@ schmidtstil.com
 schmiedemode.de
 schmierstoffede.com
 schmit-mode.com
-schmodts.shop
 schmoelzer-appartements.com
 schmuck-eva.com
 schmuckbandknopf.shop
@@ -20216,7 +20191,6 @@ schoen3dshop.de
 schoeppe-heizoel.de
 schokobold.shop
 scholarathelite.com
-schonentag.online
 schoneswetter.de
 schonique.com
 schraderbilliger.com
@@ -20238,7 +20212,6 @@ schuheverkauf-de.com
 schuhewienshoponline.com
 schuhhaus-greten.de
 schuhheld.com
-schuhkomfort.shop
 schuhwelten.com
 schulfabrik.shop
 schulte-boutique.de
@@ -20269,7 +20242,6 @@ schwbestaiger.com
 schwedler-apotheken.de
 schweibenprofi.com
 schweiss-shopo.shop
-schweizer-modewelt.com
 schwengo-shop.shop
 schwesterherz-maedchenflohmarkt.de
 schwfoto.com
@@ -20282,8 +20254,6 @@ scieriesaugues.de
 scinpan.com
 scintillatingscissors.com
 scintillatingsilver.com
-sciponoe.com
-sciscirc.com
 scissorsstatement.com
 scontainer-logististikgmbh.de
 scooter-chip.de
@@ -20301,7 +20271,6 @@ screechingfurniture.com
 screechingstocking.com
 screechingstove.com
 screenacy.co
-screenfreedays.com
 screenmysleep.com
 screenwithenvy.de
 scremorques.com
@@ -20312,7 +20281,6 @@ sd-ad-lgsmartad-com.aws-prd.net
 sdfp.snssdk.com
 sdhguy.com
 sdjiy.shop
-sdjqepyr.shop
 sdk-cache.video.ptqy.gitv.tv
 sdk-transport.com
 sdk.51.la
@@ -20341,11 +20309,9 @@ searchads.apple.com.edgesuite.net
 searchads.lb-apple.com.akadns.net
 searchmarketing.com
 searchramp.com
-seashepherdstore.shop
 seasonsbeauty.de
 sebagoantwerpen.com
 sebagobruxelles.com
-sebagodeckshoesireland.com
 sebagoschoenen.com
 sebastian-stenzel.de
 sec-cdn.static.intl.xiaomi.net
@@ -20448,7 +20414,6 @@ serendipityecho.com
 sereneify.com
 serenitybookshop.com
 serenitybot.com
-serenomaison.com
 serentia-shop.com
 serndalle.com
 serolulimited.com
@@ -20487,7 +20452,6 @@ sexicats.com
 sexlist.com
 sexpuppenkaufen.at
 sextracker.com
-sezaneclothingshop.sa.com
 sf16-ads-format-sign.tiktokcdn.com
 sf16-ads-format-sign.tiktokcdn.com.edgesuite.net
 sf16-short-gcp.bytedapm.com
@@ -20695,7 +20659,6 @@ shopmotorbikeparts.com
 shopnavali.com
 shopofeurope.com
 shopoutdoorwears.com
-shopoutletstore.shop
 shopovia.de
 shoppalmettomoon.com
 shoppawsclaws.com
@@ -20744,7 +20707,6 @@ shopvitalitys.com
 shopvivar.ch
 shopwa.net
 shopwecro.shop
-shopwesternhats.com
 shopwineoutlet.com
 shopwithme.biz
 shopyalili.com
@@ -20775,7 +20737,6 @@ sia.internet.apps.samsung.com
 siaeglisiwoodltd.com
 siamrose.com
 siaoryne.com
-sicher-oel.de
 sicksmash.com
 sidebar-apps-eu.allawnos.com
 sidebar-apps-in.allawnos.com
@@ -20807,7 +20768,6 @@ silksilkyi.com
 silkstocking.de
 silkysmoothhobbeautyandbabershop.com
 sillyscrew.com
-silmerthal.com
 silnymuz.com
 siltydagger.com
 silux.shop
@@ -20821,7 +20781,6 @@ simonbois.de
 simpfit.com
 simple-kool.com
 simpleanalytics.io
-simpleartly.com
 simplecircle.net
 simplecoffee.ch
 simpledancing.com
@@ -20913,7 +20872,6 @@ skvurthalen.at
 sky-trikot-shop.de
 skylinefx.co
 skylink.vn
-skynore.de
 skyrro.com
 skysupp.com
 skyvault.ltd
@@ -21166,9 +21124,7 @@ solidewaren.com
 solidinvest.co
 solidmado.shop
 solilono.shop
-solisliving.shop
 solisofswitzerland.shop
-solisway.shop
 sollivanshop.com
 soloctfurniturestore.shop
 solofa.de
@@ -21183,7 +21139,6 @@ solovaircanada.net
 solovairchile.net
 solovairgreece.net
 solovairschuhe.com
-solovairschuhede.de
 solovairshop.com
 solovairwien.at
 solroyal-shopo.shop
@@ -21203,7 +21158,6 @@ somniture.stuff.co.nz
 somoaudience.com
 somviro.com
 sonar.prime-video.amazon.dev
-sonetiacrcb.shop
 soniazagreb.com
 sonilo.shop
 sonnenheld.at
@@ -21231,8 +21185,6 @@ soraionline.com
 sorbas-grill.de
 sorbery.com
 soreano.de
-sorelschoenen.com
-sorelschweiz.com
 sortyniva.com
 sorvelutik-at.com
 sorvelutik-fr.com
@@ -21280,7 +21232,6 @@ sparprime.com
 spartathleticstore.com
 sparzinsvergleich.de
 spazioconcept.com
-spconnect.shop
 spd-mossautal.de
 speakol.com
 speaksonos.myshopify.com
@@ -21304,7 +21255,6 @@ spectrumequitypulse.com
 speculaten.com
 spedition-thiemann.de
 spedition-tml.de
-speditionspellets.com
 speechfaith.com
 speed-gaming.com
 speed-information.com
@@ -21317,7 +21267,6 @@ speedsoft.fr
 speelgoed-outlet.com
 speelwereld.shop
 speichern-fahrrad.com
-spejdersportolinevip.com
 spellingthoughts.com
 sperry-deutschland.com
 spessirtbrett.com
@@ -21342,7 +21291,6 @@ spielzeugarthub.com
 spielzeugautosrabatt.com
 spielzeugautowelt.com
 spielzeugeneu.de
-spielzeugopapop.shop
 spielzeugserie.com
 spiffymachine.com
 spigendeutschlandshop.com
@@ -21458,7 +21406,6 @@ spowo.at
 sppulsar.shop
 sprachgenie.at
 sprachreiseshop.de
-spraygrounds.de
 sprayitonyou.com
 spreach.de
 sprengler-direkt.de
@@ -21786,7 +21733,6 @@ store.kestrelby.com
 store.pavridora.com
 store.promomesh.com
 store.rensby.com
-store.selvariveta.com
 store.useum.org
 store.yeelight.com
 storeaigle.de
@@ -22318,7 +22264,6 @@ teameffekt.de
 teams-events-data.trafficmanager.net
 teamstryk.de
 tebla.de
-tech-outlet.site
 tech-solutions.store
 tech-vitals.com
 tech.eco-outils.com
@@ -24043,6 +23988,7 @@ verlagheyno.shop
 verlinggroup.com
 vermoegenstreuhand-stuttgart.de
 vermontco.com.br
+vernaschediewelt.com
 vernixo.info
 veroshell.com
 versand-fuxx-ug.myshopify.com
