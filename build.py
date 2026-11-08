@@ -26,22 +26,20 @@ URLS_LITE = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.winoffice-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.xiaomi-onlydomains.txt",
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/native.tiktok.extended-onlydomains.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/fake-onlydomains.txt",
 ]
 
 URLS_MEDIUM = [
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/pro.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/tif.mini.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/gambling.mini-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/pro.plus.mini-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/tif.medium-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/fake-onlydomains.txt",
+    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/popupads-onlydomains.txt",
     "https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/gambling/domain.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/nsfw-onlydomains.txt",
     "https://raw.githubusercontent.com/bigdargon/hostsVN/refs/heads/master/extensions/adult/domain.txt",
     "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/refs/heads/master/subscriptions/hosts.txt",
 ]
 
 URLS_ULTIMATE = [
     "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/ultimate-onlydomains.txt",
-    "https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/wildcard/tif.medium-onlydomains.txt",
     "https://raw.githubusercontent.com/sjhgvr/oisd/refs/heads/main/oisd_big.txt",
 ]
 
