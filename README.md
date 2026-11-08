@@ -6,9 +6,9 @@ No ads • No trackers • No adult content • No gambling
 |-----------------------|------------------------------------|-----------------------|
 | **Ads & Trackers** | Peter Lowe's (ADS Only), Hagezi Trackers | ✅ Active |
 | **NSFW & Gambling** | Hagezi NSFW, Hosts-VN, APB-Indo, RifqyShield NSFW | ✅ Active |
-| **Malware & Phishing**| OISD-Big, Hagezi Fake, Hagezi Ultimate, Hagezi TIF Mini/Medium | ✅ Active |
+| **Malware & Phishing**| Hagezi Fake, Hagezi Popup-Ads, Hagezi TIF Medium | ✅ Active |
 
-**📊 Total Domains: *826,655* (Optimized & Deduplicated)**
+**📊 Total Domains: *694,146* (Optimized & Deduplicated)**
 
 ---
 
@@ -20,7 +20,7 @@ RifqyShield comes in three levels that have been deduplicated, ensuring you can 
 | :--- | :--- | :--- |
 | **LITE** | **Performance & Anti-Mobile Tracker.** Blocks ads on your phone and website tracking by sites such (Amazon, Apple, Xiaomi and others). | **Lightweight and Anti-Mobile Tracking** |
 | **MEDIUM** | **Combination of Lite Filter and Content Protection.** Adds aggressive NSFW and Gambling blocking. Ideal for family use. | **Balanced & Secure Content** |
-| **ULTIMATE** | **A combination of Medium and Global Giant Lists**  such as (OISD-Big, Hagezi Ultimate, Hagezi TIF Mini/Medium) for total protection from all threats. | **For maximum protection** |
+| **ULTIMATE** | **A combination of Medium and Global Giant Lists**  such as (OISD-Big, Hagezi Ultimate, Hagezi TIF Medium) for total protection from all threats. | **For maximum protection** |
 
 ---
 
