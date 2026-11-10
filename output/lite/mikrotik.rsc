@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-09 03:51:12
-# Total Domains: 6,861
+# Last Updated: 2026-11-10 05:25:53
+# Total Domains: 6,929
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -204,7 +204,6 @@ add name="ad-balancer.net" address=0.0.0.0
 add name="ad-cupid.com" address=0.0.0.0
 add name="ad-delivery.net" address=0.0.0.0
 add name="ad-drcn.media.dbankcloud.cn" address=0.0.0.0
-add name="ad-drcn.media.dbankcloud.ru" address=0.0.0.0
 add name="ad-format-i18n.tiktokv.com" address=0.0.0.0
 add name="ad-format-ie.tiktokv.eu" address=0.0.0.0
 add name="ad-format-ru.tiktokv.com" address=0.0.0.0
@@ -1277,14 +1276,11 @@ add name="api-analytics.samsungknox.com" address=0.0.0.0
 add name="api-cn.cdo.heytapmobi.com" address=0.0.0.0
 add name="api-ext.bixbitemarketing.com" address=0.0.0.0
 add name="api-gl.cdo.heytapmobi.com" address=0.0.0.0
-add name="api-gl.cdo.heytapmobile.com" address=0.0.0.0
-add name="api-id.cdo.heytapmobile.com" address=0.0.0.0
 add name="api-id.game.heytapmobi.com" address=0.0.0.0
 add name="api-id.game.heytapmobile.com" address=0.0.0.0
 add name="api-id.play.heytapmobile.com" address=0.0.0.0
 add name="api-id.theme.heytapmobi.com" address=0.0.0.0
 add name="api-id.theme.heytapmobile.com" address=0.0.0.0
-add name="api-in.cdo.heytapmobile.com" address=0.0.0.0
 add name="api-rec.stellar.intl.miui.com" address=0.0.0.0
 add name="api-samsung.swypeconnect.com" address=0.0.0.0
 add name="api.accelerator.intl.miui.com" address=0.0.0.0
@@ -1335,6 +1331,12 @@ add name="api.xmpush.xiaomi.com" address=0.0.0.0
 add name="api2.amplitude.com" address=0.0.0.0
 add name="apisnd.heytapmobi.com" address=0.0.0.0
 add name="apkrep.ff.avast.sec.miui.com" address=0.0.0.0
+add name="apm-ap.yun.hihonor.com" address=0.0.0.0
+add name="apm-eu.yun.hihonor.com" address=0.0.0.0
+add name="apm-fr.yun.hihonor.com" address=0.0.0.0
+add name="apm-ru.yun.hihonor.com" address=0.0.0.0
+add name="apm-sg.yun.hihonor.com" address=0.0.0.0
+add name="apm.yun.hihonor.com" address=0.0.0.0
 add name="apolloprogram.io" address=0.0.0.0
 add name="app-analytics-v2.snapchat.com" address=0.0.0.0
 add name="app-analytics.snapchat.com" address=0.0.0.0
@@ -1719,10 +1721,8 @@ add name="browser-sdk-in.heytapmobile.com" address=0.0.0.0
 add name="browser-sdk-ru.heytapmobile.com" address=0.0.0.0
 add name="browser.miui.com" address=0.0.0.0
 add name="browsercfg-drcn.cloud.dbankcloud.cn" address=0.0.0.0
-add name="browserfiles.heytapmobile.com" address=0.0.0.0
 add name="bs-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="bs.yandex.ru" address=0.0.0.0
-add name="bsf.sc.heytapmobile.com" address=0.0.0.0
 add name="bsp-di-in.heytapmobile.com" address=0.0.0.0
 add name="bsp.sasdc.pandora.xiaomi.com" address=0.0.0.0
 add name="bss.pandora.xiaomi.com" address=0.0.0.0
@@ -1871,6 +1871,7 @@ add name="cdn.smalk.ai" address=0.0.0.0
 add name="cdn1.static.home.miui.com" address=0.0.0.0
 add name="cdna.sec.miui.com" address=0.0.0.0
 add name="cdnondemand.org" address=0.0.0.0
+add name="cdo.heytapmobile.com" address=0.0.0.0
 add name="cdpbeacon.lgtvcommon.com" address=0.0.0.0
 add name="cdpbeacon2.lgtvcommon.com" address=0.0.0.0
 add name="cedato.com" address=0.0.0.0
@@ -2198,23 +2199,17 @@ add name="confiant-integrations.net" address=0.0.0.0
 add name="confiant.msn.com" address=0.0.0.0
 add name="confidencetalks.com" address=0.0.0.0
 add name="configv2.unityads.unity3d.com" address=0.0.0.0
-add name="conn-service-cn-01.allawntech.com" address=0.0.0.0
 add name="conn-service-cn-03.allawntech.com" address=0.0.0.0
 add name="conn-service-cn-04.allawntech.com" address=0.0.0.0
 add name="conn-service-cn-05.allawntech.com" address=0.0.0.0
 add name="conn-service-cn-07.allawntech.com" address=0.0.0.0
 add name="conn-service-cn-08.allawntech.com" address=0.0.0.0
-add name="conn-service-eu-01.allawnos.com" address=0.0.0.0
-add name="conn-service-eu-02.allawnos.com" address=0.0.0.0
 add name="conn-service-eu-03.allawnos.com" address=0.0.0.0
 add name="conn-service-eu-04.allawnos.com" address=0.0.0.0
 add name="conn-service-eu-05.allawnos.com" address=0.0.0.0
 add name="conn-service-eu-07.allawnos.com" address=0.0.0.0
 add name="conn-service-eu-08.allawnos.com" address=0.0.0.0
 add name="conn-service-gl-01.allawntech.com" address=0.0.0.0
-add name="conn-service-gl-03.allawntech.com" address=0.0.0.0
-add name="conn-service-gl-04.allawntech.com" address=0.0.0.0
-add name="conn-service-in-01.allawnos.com" address=0.0.0.0
 add name="conn-service-in-03.allawnos.com" address=0.0.0.0
 add name="conn-service-in-04.allawnos.com" address=0.0.0.0
 add name="conn-service-in-05.allawnos.com" address=0.0.0.0
@@ -3056,6 +3051,7 @@ add name="graffiti-tags.apple.com" address=0.0.0.0
 add name="grandfatherguitar.com" address=0.0.0.0
 add name="granlite.com" address=0.0.0.0
 add name="grapeshot.co.uk" address=0.0.0.0
+add name="grayr.abx.ipd.hihonor.com" address=0.0.0.0
 add name="greystripe.com" address=0.0.0.0
 add name="groovespacing.com" address=0.0.0.0
 add name="grouchybrothers.com" address=0.0.0.0
@@ -3145,6 +3141,7 @@ add name="hfc195b.com" address=0.0.0.0
 add name="hgads.com" address=0.0.0.0
 add name="highnoongear.com" address=0.0.0.0
 add name="hightrafficads.com" address=0.0.0.0
+add name="hihonor.api.useinsider.com" address=0.0.0.0
 add name="hilariouszinc.com" address=0.0.0.0
 add name="hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn" address=0.0.0.0
 add name="hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn" address=0.0.0.0
@@ -3501,6 +3498,7 @@ add name="js1.cdn.applicationinsights.io" address=0.0.0.0
 add name="js1.tst.applicationinsights.io" address=0.0.0.0
 add name="js2.cdn.applicationinsights.io" address=0.0.0.0
 add name="js2.tst.applicationinsights.io" address=0.0.0.0
+add name="jscatch-sg-frontend.heytapmobile.com" address=0.0.0.0
 add name="jsecoin.com" address=0.0.0.0
 add name="jsrdn.com" address=0.0.0.0
 add name="jubilantglimmer.com" address=0.0.0.0
@@ -3622,6 +3620,35 @@ add name="li.pmc.com" address=0.0.0.0
 add name="li.realtor.com" address=0.0.0.0
 add name="li.ziffimages.com" address=0.0.0.0
 add name="liadm.com" address=0.0.0.0
+add name="libra-boot.tiktokv.com" address=0.0.0.0
+add name="libra-boot.tiktokv.com.edgekey.net" address=0.0.0.0
+add name="libra-ru.tiktokv.com" address=0.0.0.0
+add name="libra-sg.tiktokv.com" address=0.0.0.0
+add name="libra-sg.tiktokv.com.edgekey.net" address=0.0.0.0
+add name="libra-sg.tiktokv.com.ttdns2.com" address=0.0.0.0
+add name="libra-va.tiktokv.com" address=0.0.0.0
+add name="libra-va.tiktokv.com.edgekey.net" address=0.0.0.0
+add name="libra-va.tiktokv.com.ttdns2.com" address=0.0.0.0
+add name="libra16-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="libra16-normal-alisg.tiktokv.com.edgekey.net" address=0.0.0.0
+add name="libra16-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="libra16-normal-no1a.tiktokv.eu.edgesuite.net" address=0.0.0.0
+add name="libra16-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="libra16-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="libra16-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="libra16-normal-useast5.tiktokv.us.edgesuite.net" address=0.0.0.0
+add name="libra16-normal-useast8.tiktokv.us" address=0.0.0.0
+add name="libra16-normal-useast8.tiktokv.us.edgesuite.net" address=0.0.0.0
+add name="libra16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="libra16-normal-useastred.tiktokv.eu.edgesuite.net" address=0.0.0.0
+add name="libra16-normal.tiktokv.com" address=0.0.0.0
+add name="libra19-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="libra22-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="libra22-normal-useast1a.tiktokv.com" address=0.0.0.0
+add name="libra31-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="libra32-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="libra32-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="libra32-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="libraryfacts.com" address=0.0.0.0
 add name="licensingtelemetry-prod.servicebus.windows.net" address=0.0.0.0
 add name="lifeimpressions.net" address=0.0.0.0
@@ -3841,6 +3868,7 @@ add name="log32-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="log32-normal-zr.tiktokv.com" address=0.0.0.0
 add name="log32-normal.capcutapi.com" address=0.0.0.0
 add name="log32-normal.tiktokv.com" address=0.0.0.0
+add name="log53-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="log58-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="log58-normal-c-alisg.tiktokv.com" address=0.0.0.0
 add name="log58-normal-c-useast1a.tiktokv.com" address=0.0.0.0
@@ -3848,6 +3876,8 @@ add name="log58-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log58-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="log58-normal-ycru.tiktokv.com" address=0.0.0.0
 add name="log58-normal.tiktokv.com" address=0.0.0.0
+add name="log61-normal-c-alisg.tiktokv.com" address=0.0.0.0
+add name="log61-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="log77-normal-c-alisg.tiktokv.com" address=0.0.0.0
 add name="log77-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="log9-normal-c-useast1a.tiktokv.com" address=0.0.0.0
@@ -4172,7 +4202,6 @@ add name="metrics-a.wbx2.com" address=0.0.0.0
 add name="metrics-dra.dt.dbankcloud.cn" address=0.0.0.0
 add name="metrics-dra.dt.dbankcloud.com" address=0.0.0.0
 add name="metrics-drcn.dt.dbankcloud.cn" address=0.0.0.0
-add name="metrics-drcn.dt.dbankcloud.com" address=0.0.0.0
 add name="metrics-dre.data.dbankcloud.cn" address=0.0.0.0
 add name="metrics-dre.dt.dbankcloud.cn" address=0.0.0.0
 add name="metrics-logger.spot.im" address=0.0.0.0
@@ -4447,6 +4476,8 @@ add name="mssdk22-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="mssdk22-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="mssdk22-normal-zr.tiktokv.com" address=0.0.0.0
 add name="mssdk22-normal.tiktokv.com" address=0.0.0.0
+add name="mssdk23-normal-zr-alisg.tiktokv.com" address=0.0.0.0
+add name="mssdk23-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="mssdk24-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="mssdk24-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="mssdk24-normal-useast2a.tiktokv.com" address=0.0.0.0
@@ -4633,6 +4664,8 @@ add name="obus-conf-in.heytapmobile.com" address=0.0.0.0
 add name="obus-conf-sg.heytapmobile.com" address=0.0.0.0
 add name="obus-conf-us.heytapmobile.com" address=0.0.0.0
 add name="obus-config-cn.heytapmobi.com" address=0.0.0.0
+add name="obus-config-in.heytapmobile.com" address=0.0.0.0
+add name="obus-config-sg.heytapmobile.com" address=0.0.0.0
 add name="obus-dc-eu.heytapmobile.com" address=0.0.0.0
 add name="obus-dc-ru.heytapmobile.com" address=0.0.0.0
 add name="obus-dc-us.heytapmobile.com" address=0.0.0.0
@@ -4658,6 +4691,8 @@ add name="obus-dctech-sg.heytapmobile.com" address=0.0.0.0
 add name="obus-dcyitai-cn.heytapmobi.com" address=0.0.0.0
 add name="obus-dcyitai-in.heytapmobi.com" address=0.0.0.0
 add name="obus-dcyitai-sg.heytapmobile.com" address=0.0.0.0
+add name="obus-hid-in.heytapmobile.com" address=0.0.0.0
+add name="obus-hid-sg.heytapmobile.com" address=0.0.0.0
 add name="obus-jssdk-cn.heytapmobi.com" address=0.0.0.0
 add name="obus-jssdk-fr.heytapmobile.com" address=0.0.0.0
 add name="obus-jssdk-in.heytapmobile.com" address=0.0.0.0
@@ -4667,6 +4702,28 @@ add name="oca.microsoft.com" address=0.0.0.0
 add name="oceancloudhosts.com" address=0.0.0.0
 add name="odbierz-bony.ovp.pl" address=0.0.0.0
 add name="odin-signals.apple.com" address=0.0.0.0
+add name="oec16-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="oec16-normal-alisg.tiktokv.com.edgesuite.net" address=0.0.0.0
+add name="oec16-normal-gquic-alisg.tiktokv.com" address=0.0.0.0
+add name="oec16-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="oec16-normal-no1a.tiktokv.eu.edgesuite.net" address=0.0.0.0
+add name="oec16-normal-useast2a.tiktokv.com" address=0.0.0.0
+add name="oec16-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="oec16-normal-useast5.tiktokv.us.edgesuite.net" address=0.0.0.0
+add name="oec16-normal-useast8.tiktokv.us" address=0.0.0.0
+add name="oec16-normal-useast8.tiktokv.us.edgesuite.net" address=0.0.0.0
+add name="oec16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="oec16-normal-useastred.tiktokv.eu.edgesuite.net" address=0.0.0.0
+add name="oec16-normal-ycru.tiktokv.com" address=0.0.0.0
+add name="oec16-normal-ycru.tiktokv.com.edgesuite.net" address=0.0.0.0
+add name="oec16-normal.tiktokv.com" address=0.0.0.0
+add name="oec19-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="oec19-normal-useast5.tiktokv.us" address=0.0.0.0
+add name="oec19-normal-useast8.tiktokv.us" address=0.0.0.0
+add name="oec22-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="oec22-normal.tiktokv.com" address=0.0.0.0
+add name="oec32-normal-no1a.tiktokv.eu" address=0.0.0.0
+add name="oec32-normal-useastred.tiktokv.eu" address=0.0.0.0
 add name="oewa.at" address=0.0.0.0
 add name="offaces-butional.com" address=0.0.0.0
 add name="offer.fyber.com" address=0.0.0.0
@@ -4703,6 +4760,7 @@ add name="onrt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="onscroll.com" address=0.0.0.0
 add name="onthe.io" address=0.0.0.0
 add name="opads.us" address=0.0.0.0
+add name="opay.heytapmobile.com" address=0.0.0.0
 add name="open.oneplus.net" address=0.0.0.0
 add name="open.snssdk.com" address=0.0.0.0
 add name="openad.tf1.fr" address=0.0.0.0
@@ -5217,14 +5275,13 @@ add name="reklamdsp.com" address=0.0.0.0
 add name="rel.msn.com" address=0.0.0.0
 add name="relmaxtop.com" address=0.0.0.0
 add name="rememberdiscussion.com" address=0.0.0.0
+add name="remoteconfig-dra.platform.hihonorcloud.com" address=0.0.0.0
+add name="remoteconfig-drcn.platform.hihonorcloud.com" address=0.0.0.0
+add name="remoteconfig-dre.platform.hihonorcloud.com" address=0.0.0.0
+add name="remoteconfig-uat-drcn.platform.hihonorcloud.com" address=0.0.0.0
 add name="report-1.appmetrica.webvisor.com" address=0.0.0.0
 add name="report-2.appmetrica.webvisor.com" address=0.0.0.0
-add name="report-eu.uc.heytapmobile.com" address=0.0.0.0
-add name="report-in.opay.heytapmobile.com" address=0.0.0.0
-add name="report-in.uc.heytapmobile.com" address=0.0.0.0
 add name="report-partners.appmetrica.yandex.net" address=0.0.0.0
-add name="report-sg.opay.heytapmobile.com" address=0.0.0.0
-add name="report-sg.uc.heytapmobile.com" address=0.0.0.0
 add name="report.ap.yandex-net.ru" address=0.0.0.0
 add name="report.appmetrica.yandex.net" address=0.0.0.0
 add name="report.diagnostic.networking.aws.dev" address=0.0.0.0
@@ -5267,6 +5324,7 @@ add name="rle.ru" address=0.0.0.0
 add name="rmads.eu.msn.com" address=0.0.0.0
 add name="rmads.msn.com" address=0.0.0.0
 add name="rmedia.boston.com" address=0.0.0.0
+add name="rms-behavior-collect-drcn.hihonorcdn.com" address=0.0.0.0
 add name="rnd-cbgpas01.huawei.com" address=0.0.0.0
 add name="ro-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ro-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -5583,6 +5641,7 @@ add name="savoryorange.com" address=0.0.0.0
 add name="sbird.xyz" address=0.0.0.0
 add name="sbx.pagesjaunes.fr" address=0.0.0.0
 add name="sc-analytics.appspot.com" address=0.0.0.0
+add name="sc.heytapmobile.com" address=0.0.0.0
 add name="sca.samsung.com" address=0.0.0.0
 add name="scambiobanner.aruba.it" address=0.0.0.0
 add name="scanscout.com" address=0.0.0.0
@@ -5663,6 +5722,14 @@ add name="sessioncam.com" address=0.0.0.0
 add name="sexcounter.com" address=0.0.0.0
 add name="sexlist.com" address=0.0.0.0
 add name="sextracker.com" address=0.0.0.0
+add name="sf-ssp.tiktokcdn-eu.com" address=0.0.0.0
+add name="sf-ssp.tiktokcdn-eu.com.edgesuite.net" address=0.0.0.0
+add name="sf-ssp.tiktokcdn-eu.com.ttdns3.com" address=0.0.0.0
+add name="sf-ssp.tiktokcdn-us.com" address=0.0.0.0
+add name="sf-ssp.tiktokcdn-us.com.edgesuite.net" address=0.0.0.0
+add name="sf-ssp.tiktokcdn.com" address=0.0.0.0
+add name="sf-ssp.tiktokcdn.com.edgesuite.net" address=0.0.0.0
+add name="sf-ssp.tiktokcdn.com.ttdns2.com" address=0.0.0.0
 add name="sf16-ads-format-sign.tiktokcdn.com" address=0.0.0.0
 add name="sf16-ads-format-sign.tiktokcdn.com.edgesuite.net" address=0.0.0.0
 add name="sf16-short-gcp.bytedapm.com" address=0.0.0.0
@@ -6438,6 +6505,7 @@ add name="ua-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="uarating.com" address=0.0.0.0
 add name="uba.huaweicloud.com" address=0.0.0.0
 add name="ubacollect-drcn.cloud.dbankcloud.cn" address=0.0.0.0
+add name="uc.heytapmobile.com" address=0.0.0.0
 add name="ucfunnel.com" address=0.0.0.0
 add name="udc.msn.com" address=0.0.0.0
 add name="udkcrj.com" address=0.0.0.0

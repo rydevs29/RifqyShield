@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-09 03:51:12
-# Total Domains: 6,861
+# Last Updated: 2026-11-10 05:25:53
+# Total Domains: 6,929
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -203,7 +203,6 @@ HOST-SUFFIX,ad-balancer.net,reject
 HOST-SUFFIX,ad-cupid.com,reject
 HOST-SUFFIX,ad-delivery.net,reject
 HOST-SUFFIX,ad-drcn.media.dbankcloud.cn,reject
-HOST-SUFFIX,ad-drcn.media.dbankcloud.ru,reject
 HOST-SUFFIX,ad-format-i18n.tiktokv.com,reject
 HOST-SUFFIX,ad-format-ie.tiktokv.eu,reject
 HOST-SUFFIX,ad-format-ru.tiktokv.com,reject
@@ -1276,14 +1275,11 @@ HOST-SUFFIX,api-analytics.samsungknox.com,reject
 HOST-SUFFIX,api-cn.cdo.heytapmobi.com,reject
 HOST-SUFFIX,api-ext.bixbitemarketing.com,reject
 HOST-SUFFIX,api-gl.cdo.heytapmobi.com,reject
-HOST-SUFFIX,api-gl.cdo.heytapmobile.com,reject
-HOST-SUFFIX,api-id.cdo.heytapmobile.com,reject
 HOST-SUFFIX,api-id.game.heytapmobi.com,reject
 HOST-SUFFIX,api-id.game.heytapmobile.com,reject
 HOST-SUFFIX,api-id.play.heytapmobile.com,reject
 HOST-SUFFIX,api-id.theme.heytapmobi.com,reject
 HOST-SUFFIX,api-id.theme.heytapmobile.com,reject
-HOST-SUFFIX,api-in.cdo.heytapmobile.com,reject
 HOST-SUFFIX,api-rec.stellar.intl.miui.com,reject
 HOST-SUFFIX,api-samsung.swypeconnect.com,reject
 HOST-SUFFIX,api.accelerator.intl.miui.com,reject
@@ -1334,6 +1330,12 @@ HOST-SUFFIX,api.xmpush.xiaomi.com,reject
 HOST-SUFFIX,api2.amplitude.com,reject
 HOST-SUFFIX,apisnd.heytapmobi.com,reject
 HOST-SUFFIX,apkrep.ff.avast.sec.miui.com,reject
+HOST-SUFFIX,apm-ap.yun.hihonor.com,reject
+HOST-SUFFIX,apm-eu.yun.hihonor.com,reject
+HOST-SUFFIX,apm-fr.yun.hihonor.com,reject
+HOST-SUFFIX,apm-ru.yun.hihonor.com,reject
+HOST-SUFFIX,apm-sg.yun.hihonor.com,reject
+HOST-SUFFIX,apm.yun.hihonor.com,reject
 HOST-SUFFIX,apolloprogram.io,reject
 HOST-SUFFIX,app-analytics-v2.snapchat.com,reject
 HOST-SUFFIX,app-analytics.snapchat.com,reject
@@ -1718,10 +1720,8 @@ HOST-SUFFIX,browser-sdk-in.heytapmobile.com,reject
 HOST-SUFFIX,browser-sdk-ru.heytapmobile.com,reject
 HOST-SUFFIX,browser.miui.com,reject
 HOST-SUFFIX,browsercfg-drcn.cloud.dbankcloud.cn,reject
-HOST-SUFFIX,browserfiles.heytapmobile.com,reject
 HOST-SUFFIX,bs-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,bs.yandex.ru,reject
-HOST-SUFFIX,bsf.sc.heytapmobile.com,reject
 HOST-SUFFIX,bsp-di-in.heytapmobile.com,reject
 HOST-SUFFIX,bsp.sasdc.pandora.xiaomi.com,reject
 HOST-SUFFIX,bss.pandora.xiaomi.com,reject
@@ -1870,6 +1870,7 @@ HOST-SUFFIX,cdn.smalk.ai,reject
 HOST-SUFFIX,cdn1.static.home.miui.com,reject
 HOST-SUFFIX,cdna.sec.miui.com,reject
 HOST-SUFFIX,cdnondemand.org,reject
+HOST-SUFFIX,cdo.heytapmobile.com,reject
 HOST-SUFFIX,cdpbeacon.lgtvcommon.com,reject
 HOST-SUFFIX,cdpbeacon2.lgtvcommon.com,reject
 HOST-SUFFIX,cedato.com,reject
@@ -2197,23 +2198,17 @@ HOST-SUFFIX,confiant-integrations.net,reject
 HOST-SUFFIX,confiant.msn.com,reject
 HOST-SUFFIX,confidencetalks.com,reject
 HOST-SUFFIX,configv2.unityads.unity3d.com,reject
-HOST-SUFFIX,conn-service-cn-01.allawntech.com,reject
 HOST-SUFFIX,conn-service-cn-03.allawntech.com,reject
 HOST-SUFFIX,conn-service-cn-04.allawntech.com,reject
 HOST-SUFFIX,conn-service-cn-05.allawntech.com,reject
 HOST-SUFFIX,conn-service-cn-07.allawntech.com,reject
 HOST-SUFFIX,conn-service-cn-08.allawntech.com,reject
-HOST-SUFFIX,conn-service-eu-01.allawnos.com,reject
-HOST-SUFFIX,conn-service-eu-02.allawnos.com,reject
 HOST-SUFFIX,conn-service-eu-03.allawnos.com,reject
 HOST-SUFFIX,conn-service-eu-04.allawnos.com,reject
 HOST-SUFFIX,conn-service-eu-05.allawnos.com,reject
 HOST-SUFFIX,conn-service-eu-07.allawnos.com,reject
 HOST-SUFFIX,conn-service-eu-08.allawnos.com,reject
 HOST-SUFFIX,conn-service-gl-01.allawntech.com,reject
-HOST-SUFFIX,conn-service-gl-03.allawntech.com,reject
-HOST-SUFFIX,conn-service-gl-04.allawntech.com,reject
-HOST-SUFFIX,conn-service-in-01.allawnos.com,reject
 HOST-SUFFIX,conn-service-in-03.allawnos.com,reject
 HOST-SUFFIX,conn-service-in-04.allawnos.com,reject
 HOST-SUFFIX,conn-service-in-05.allawnos.com,reject
@@ -3055,6 +3050,7 @@ HOST-SUFFIX,graffiti-tags.apple.com,reject
 HOST-SUFFIX,grandfatherguitar.com,reject
 HOST-SUFFIX,granlite.com,reject
 HOST-SUFFIX,grapeshot.co.uk,reject
+HOST-SUFFIX,grayr.abx.ipd.hihonor.com,reject
 HOST-SUFFIX,greystripe.com,reject
 HOST-SUFFIX,groovespacing.com,reject
 HOST-SUFFIX,grouchybrothers.com,reject
@@ -3144,6 +3140,7 @@ HOST-SUFFIX,hfc195b.com,reject
 HOST-SUFFIX,hgads.com,reject
 HOST-SUFFIX,highnoongear.com,reject
 HOST-SUFFIX,hightrafficads.com,reject
+HOST-SUFFIX,hihonor.api.useinsider.com,reject
 HOST-SUFFIX,hilariouszinc.com,reject
 HOST-SUFFIX,hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn,reject
 HOST-SUFFIX,hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn,reject
@@ -3500,6 +3497,7 @@ HOST-SUFFIX,js1.cdn.applicationinsights.io,reject
 HOST-SUFFIX,js1.tst.applicationinsights.io,reject
 HOST-SUFFIX,js2.cdn.applicationinsights.io,reject
 HOST-SUFFIX,js2.tst.applicationinsights.io,reject
+HOST-SUFFIX,jscatch-sg-frontend.heytapmobile.com,reject
 HOST-SUFFIX,jsecoin.com,reject
 HOST-SUFFIX,jsrdn.com,reject
 HOST-SUFFIX,jubilantglimmer.com,reject
@@ -3621,6 +3619,35 @@ HOST-SUFFIX,li.pmc.com,reject
 HOST-SUFFIX,li.realtor.com,reject
 HOST-SUFFIX,li.ziffimages.com,reject
 HOST-SUFFIX,liadm.com,reject
+HOST-SUFFIX,libra-boot.tiktokv.com,reject
+HOST-SUFFIX,libra-boot.tiktokv.com.edgekey.net,reject
+HOST-SUFFIX,libra-ru.tiktokv.com,reject
+HOST-SUFFIX,libra-sg.tiktokv.com,reject
+HOST-SUFFIX,libra-sg.tiktokv.com.edgekey.net,reject
+HOST-SUFFIX,libra-sg.tiktokv.com.ttdns2.com,reject
+HOST-SUFFIX,libra-va.tiktokv.com,reject
+HOST-SUFFIX,libra-va.tiktokv.com.edgekey.net,reject
+HOST-SUFFIX,libra-va.tiktokv.com.ttdns2.com,reject
+HOST-SUFFIX,libra16-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,libra16-normal-alisg.tiktokv.com.edgekey.net,reject
+HOST-SUFFIX,libra16-normal-no1a.tiktokv.eu,reject
+HOST-SUFFIX,libra16-normal-no1a.tiktokv.eu.edgesuite.net,reject
+HOST-SUFFIX,libra16-normal-useast1a.tiktokv.com,reject
+HOST-SUFFIX,libra16-normal-useast2a.tiktokv.com,reject
+HOST-SUFFIX,libra16-normal-useast5.tiktokv.us,reject
+HOST-SUFFIX,libra16-normal-useast5.tiktokv.us.edgesuite.net,reject
+HOST-SUFFIX,libra16-normal-useast8.tiktokv.us,reject
+HOST-SUFFIX,libra16-normal-useast8.tiktokv.us.edgesuite.net,reject
+HOST-SUFFIX,libra16-normal-useastred.tiktokv.eu,reject
+HOST-SUFFIX,libra16-normal-useastred.tiktokv.eu.edgesuite.net,reject
+HOST-SUFFIX,libra16-normal.tiktokv.com,reject
+HOST-SUFFIX,libra19-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,libra22-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,libra22-normal-useast1a.tiktokv.com,reject
+HOST-SUFFIX,libra31-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,libra32-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,libra32-normal-no1a.tiktokv.eu,reject
+HOST-SUFFIX,libra32-normal-useastred.tiktokv.eu,reject
 HOST-SUFFIX,libraryfacts.com,reject
 HOST-SUFFIX,licensingtelemetry-prod.servicebus.windows.net,reject
 HOST-SUFFIX,lifeimpressions.net,reject
@@ -3840,6 +3867,7 @@ HOST-SUFFIX,log32-normal-zr-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log32-normal-zr.tiktokv.com,reject
 HOST-SUFFIX,log32-normal.capcutapi.com,reject
 HOST-SUFFIX,log32-normal.tiktokv.com,reject
+HOST-SUFFIX,log53-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log58-normal-alisg.tiktokv.com,reject
 HOST-SUFFIX,log58-normal-c-alisg.tiktokv.com,reject
 HOST-SUFFIX,log58-normal-c-useast1a.tiktokv.com,reject
@@ -3847,6 +3875,8 @@ HOST-SUFFIX,log58-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log58-normal-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log58-normal-ycru.tiktokv.com,reject
 HOST-SUFFIX,log58-normal.tiktokv.com,reject
+HOST-SUFFIX,log61-normal-c-alisg.tiktokv.com,reject
+HOST-SUFFIX,log61-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log77-normal-c-alisg.tiktokv.com,reject
 HOST-SUFFIX,log77-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log9-normal-c-useast1a.tiktokv.com,reject
@@ -4171,7 +4201,6 @@ HOST-SUFFIX,metrics-a.wbx2.com,reject
 HOST-SUFFIX,metrics-dra.dt.dbankcloud.cn,reject
 HOST-SUFFIX,metrics-dra.dt.dbankcloud.com,reject
 HOST-SUFFIX,metrics-drcn.dt.dbankcloud.cn,reject
-HOST-SUFFIX,metrics-drcn.dt.dbankcloud.com,reject
 HOST-SUFFIX,metrics-dre.data.dbankcloud.cn,reject
 HOST-SUFFIX,metrics-dre.dt.dbankcloud.cn,reject
 HOST-SUFFIX,metrics-logger.spot.im,reject
@@ -4446,6 +4475,8 @@ HOST-SUFFIX,mssdk22-normal-zr-alisg.tiktokv.com,reject
 HOST-SUFFIX,mssdk22-normal-zr-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mssdk22-normal-zr.tiktokv.com,reject
 HOST-SUFFIX,mssdk22-normal.tiktokv.com,reject
+HOST-SUFFIX,mssdk23-normal-zr-alisg.tiktokv.com,reject
+HOST-SUFFIX,mssdk23-normal-zr-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mssdk24-normal-alisg.tiktokv.com,reject
 HOST-SUFFIX,mssdk24-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mssdk24-normal-useast2a.tiktokv.com,reject
@@ -4632,6 +4663,8 @@ HOST-SUFFIX,obus-conf-in.heytapmobile.com,reject
 HOST-SUFFIX,obus-conf-sg.heytapmobile.com,reject
 HOST-SUFFIX,obus-conf-us.heytapmobile.com,reject
 HOST-SUFFIX,obus-config-cn.heytapmobi.com,reject
+HOST-SUFFIX,obus-config-in.heytapmobile.com,reject
+HOST-SUFFIX,obus-config-sg.heytapmobile.com,reject
 HOST-SUFFIX,obus-dc-eu.heytapmobile.com,reject
 HOST-SUFFIX,obus-dc-ru.heytapmobile.com,reject
 HOST-SUFFIX,obus-dc-us.heytapmobile.com,reject
@@ -4657,6 +4690,8 @@ HOST-SUFFIX,obus-dctech-sg.heytapmobile.com,reject
 HOST-SUFFIX,obus-dcyitai-cn.heytapmobi.com,reject
 HOST-SUFFIX,obus-dcyitai-in.heytapmobi.com,reject
 HOST-SUFFIX,obus-dcyitai-sg.heytapmobile.com,reject
+HOST-SUFFIX,obus-hid-in.heytapmobile.com,reject
+HOST-SUFFIX,obus-hid-sg.heytapmobile.com,reject
 HOST-SUFFIX,obus-jssdk-cn.heytapmobi.com,reject
 HOST-SUFFIX,obus-jssdk-fr.heytapmobile.com,reject
 HOST-SUFFIX,obus-jssdk-in.heytapmobile.com,reject
@@ -4666,6 +4701,28 @@ HOST-SUFFIX,oca.microsoft.com,reject
 HOST-SUFFIX,oceancloudhosts.com,reject
 HOST-SUFFIX,odbierz-bony.ovp.pl,reject
 HOST-SUFFIX,odin-signals.apple.com,reject
+HOST-SUFFIX,oec16-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,oec16-normal-alisg.tiktokv.com.edgesuite.net,reject
+HOST-SUFFIX,oec16-normal-gquic-alisg.tiktokv.com,reject
+HOST-SUFFIX,oec16-normal-no1a.tiktokv.eu,reject
+HOST-SUFFIX,oec16-normal-no1a.tiktokv.eu.edgesuite.net,reject
+HOST-SUFFIX,oec16-normal-useast2a.tiktokv.com,reject
+HOST-SUFFIX,oec16-normal-useast5.tiktokv.us,reject
+HOST-SUFFIX,oec16-normal-useast5.tiktokv.us.edgesuite.net,reject
+HOST-SUFFIX,oec16-normal-useast8.tiktokv.us,reject
+HOST-SUFFIX,oec16-normal-useast8.tiktokv.us.edgesuite.net,reject
+HOST-SUFFIX,oec16-normal-useastred.tiktokv.eu,reject
+HOST-SUFFIX,oec16-normal-useastred.tiktokv.eu.edgesuite.net,reject
+HOST-SUFFIX,oec16-normal-ycru.tiktokv.com,reject
+HOST-SUFFIX,oec16-normal-ycru.tiktokv.com.edgesuite.net,reject
+HOST-SUFFIX,oec16-normal.tiktokv.com,reject
+HOST-SUFFIX,oec19-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,oec19-normal-useast5.tiktokv.us,reject
+HOST-SUFFIX,oec19-normal-useast8.tiktokv.us,reject
+HOST-SUFFIX,oec22-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,oec22-normal.tiktokv.com,reject
+HOST-SUFFIX,oec32-normal-no1a.tiktokv.eu,reject
+HOST-SUFFIX,oec32-normal-useastred.tiktokv.eu,reject
 HOST-SUFFIX,oewa.at,reject
 HOST-SUFFIX,offaces-butional.com,reject
 HOST-SUFFIX,offer.fyber.com,reject
@@ -4702,6 +4759,7 @@ HOST-SUFFIX,onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,onscroll.com,reject
 HOST-SUFFIX,onthe.io,reject
 HOST-SUFFIX,opads.us,reject
+HOST-SUFFIX,opay.heytapmobile.com,reject
 HOST-SUFFIX,open.oneplus.net,reject
 HOST-SUFFIX,open.snssdk.com,reject
 HOST-SUFFIX,openad.tf1.fr,reject
@@ -5216,14 +5274,13 @@ HOST-SUFFIX,reklamdsp.com,reject
 HOST-SUFFIX,rel.msn.com,reject
 HOST-SUFFIX,relmaxtop.com,reject
 HOST-SUFFIX,rememberdiscussion.com,reject
+HOST-SUFFIX,remoteconfig-dra.platform.hihonorcloud.com,reject
+HOST-SUFFIX,remoteconfig-drcn.platform.hihonorcloud.com,reject
+HOST-SUFFIX,remoteconfig-dre.platform.hihonorcloud.com,reject
+HOST-SUFFIX,remoteconfig-uat-drcn.platform.hihonorcloud.com,reject
 HOST-SUFFIX,report-1.appmetrica.webvisor.com,reject
 HOST-SUFFIX,report-2.appmetrica.webvisor.com,reject
-HOST-SUFFIX,report-eu.uc.heytapmobile.com,reject
-HOST-SUFFIX,report-in.opay.heytapmobile.com,reject
-HOST-SUFFIX,report-in.uc.heytapmobile.com,reject
 HOST-SUFFIX,report-partners.appmetrica.yandex.net,reject
-HOST-SUFFIX,report-sg.opay.heytapmobile.com,reject
-HOST-SUFFIX,report-sg.uc.heytapmobile.com,reject
 HOST-SUFFIX,report.ap.yandex-net.ru,reject
 HOST-SUFFIX,report.appmetrica.yandex.net,reject
 HOST-SUFFIX,report.diagnostic.networking.aws.dev,reject
@@ -5266,6 +5323,7 @@ HOST-SUFFIX,rle.ru,reject
 HOST-SUFFIX,rmads.eu.msn.com,reject
 HOST-SUFFIX,rmads.msn.com,reject
 HOST-SUFFIX,rmedia.boston.com,reject
+HOST-SUFFIX,rms-behavior-collect-drcn.hihonorcdn.com,reject
 HOST-SUFFIX,rnd-cbgpas01.huawei.com,reject
 HOST-SUFFIX,ro-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ro-info-lgsmartad-com.aws-prd.net,reject
@@ -5582,6 +5640,7 @@ HOST-SUFFIX,savoryorange.com,reject
 HOST-SUFFIX,sbird.xyz,reject
 HOST-SUFFIX,sbx.pagesjaunes.fr,reject
 HOST-SUFFIX,sc-analytics.appspot.com,reject
+HOST-SUFFIX,sc.heytapmobile.com,reject
 HOST-SUFFIX,sca.samsung.com,reject
 HOST-SUFFIX,scambiobanner.aruba.it,reject
 HOST-SUFFIX,scanscout.com,reject
@@ -5662,6 +5721,14 @@ HOST-SUFFIX,sessioncam.com,reject
 HOST-SUFFIX,sexcounter.com,reject
 HOST-SUFFIX,sexlist.com,reject
 HOST-SUFFIX,sextracker.com,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn-eu.com,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn-eu.com.edgesuite.net,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn-eu.com.ttdns3.com,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn-us.com,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn-us.com.edgesuite.net,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn.com,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn.com.edgesuite.net,reject
+HOST-SUFFIX,sf-ssp.tiktokcdn.com.ttdns2.com,reject
 HOST-SUFFIX,sf16-ads-format-sign.tiktokcdn.com,reject
 HOST-SUFFIX,sf16-ads-format-sign.tiktokcdn.com.edgesuite.net,reject
 HOST-SUFFIX,sf16-short-gcp.bytedapm.com,reject
@@ -6437,6 +6504,7 @@ HOST-SUFFIX,ua-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,uarating.com,reject
 HOST-SUFFIX,uba.huaweicloud.com,reject
 HOST-SUFFIX,ubacollect-drcn.cloud.dbankcloud.cn,reject
+HOST-SUFFIX,uc.heytapmobile.com,reject
 HOST-SUFFIX,ucfunnel.com,reject
 HOST-SUFFIX,udc.msn.com,reject
 HOST-SUFFIX,udkcrj.com,reject

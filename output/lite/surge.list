@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-09 03:51:12
-# Total Domains: 6,861
+# Last Updated: 2026-11-10 05:25:53
+# Total Domains: 6,929
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -203,7 +203,6 @@ DOMAIN-SUFFIX,ad-balancer.net,REJECT
 DOMAIN-SUFFIX,ad-cupid.com,REJECT
 DOMAIN-SUFFIX,ad-delivery.net,REJECT
 DOMAIN-SUFFIX,ad-drcn.media.dbankcloud.cn,REJECT
-DOMAIN-SUFFIX,ad-drcn.media.dbankcloud.ru,REJECT
 DOMAIN-SUFFIX,ad-format-i18n.tiktokv.com,REJECT
 DOMAIN-SUFFIX,ad-format-ie.tiktokv.eu,REJECT
 DOMAIN-SUFFIX,ad-format-ru.tiktokv.com,REJECT
@@ -1276,14 +1275,11 @@ DOMAIN-SUFFIX,api-analytics.samsungknox.com,REJECT
 DOMAIN-SUFFIX,api-cn.cdo.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,api-ext.bixbitemarketing.com,REJECT
 DOMAIN-SUFFIX,api-gl.cdo.heytapmobi.com,REJECT
-DOMAIN-SUFFIX,api-gl.cdo.heytapmobile.com,REJECT
-DOMAIN-SUFFIX,api-id.cdo.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,api-id.game.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,api-id.game.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,api-id.play.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,api-id.theme.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,api-id.theme.heytapmobile.com,REJECT
-DOMAIN-SUFFIX,api-in.cdo.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,api-rec.stellar.intl.miui.com,REJECT
 DOMAIN-SUFFIX,api-samsung.swypeconnect.com,REJECT
 DOMAIN-SUFFIX,api.accelerator.intl.miui.com,REJECT
@@ -1334,6 +1330,12 @@ DOMAIN-SUFFIX,api.xmpush.xiaomi.com,REJECT
 DOMAIN-SUFFIX,api2.amplitude.com,REJECT
 DOMAIN-SUFFIX,apisnd.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,apkrep.ff.avast.sec.miui.com,REJECT
+DOMAIN-SUFFIX,apm-ap.yun.hihonor.com,REJECT
+DOMAIN-SUFFIX,apm-eu.yun.hihonor.com,REJECT
+DOMAIN-SUFFIX,apm-fr.yun.hihonor.com,REJECT
+DOMAIN-SUFFIX,apm-ru.yun.hihonor.com,REJECT
+DOMAIN-SUFFIX,apm-sg.yun.hihonor.com,REJECT
+DOMAIN-SUFFIX,apm.yun.hihonor.com,REJECT
 DOMAIN-SUFFIX,apolloprogram.io,REJECT
 DOMAIN-SUFFIX,app-analytics-v2.snapchat.com,REJECT
 DOMAIN-SUFFIX,app-analytics.snapchat.com,REJECT
@@ -1718,10 +1720,8 @@ DOMAIN-SUFFIX,browser-sdk-in.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,browser-sdk-ru.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,browser.miui.com,REJECT
 DOMAIN-SUFFIX,browsercfg-drcn.cloud.dbankcloud.cn,REJECT
-DOMAIN-SUFFIX,browserfiles.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,bs-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,bs.yandex.ru,REJECT
-DOMAIN-SUFFIX,bsf.sc.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,bsp-di-in.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,bsp.sasdc.pandora.xiaomi.com,REJECT
 DOMAIN-SUFFIX,bss.pandora.xiaomi.com,REJECT
@@ -1870,6 +1870,7 @@ DOMAIN-SUFFIX,cdn.smalk.ai,REJECT
 DOMAIN-SUFFIX,cdn1.static.home.miui.com,REJECT
 DOMAIN-SUFFIX,cdna.sec.miui.com,REJECT
 DOMAIN-SUFFIX,cdnondemand.org,REJECT
+DOMAIN-SUFFIX,cdo.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,cdpbeacon.lgtvcommon.com,REJECT
 DOMAIN-SUFFIX,cdpbeacon2.lgtvcommon.com,REJECT
 DOMAIN-SUFFIX,cedato.com,REJECT
@@ -2197,23 +2198,17 @@ DOMAIN-SUFFIX,confiant-integrations.net,REJECT
 DOMAIN-SUFFIX,confiant.msn.com,REJECT
 DOMAIN-SUFFIX,confidencetalks.com,REJECT
 DOMAIN-SUFFIX,configv2.unityads.unity3d.com,REJECT
-DOMAIN-SUFFIX,conn-service-cn-01.allawntech.com,REJECT
 DOMAIN-SUFFIX,conn-service-cn-03.allawntech.com,REJECT
 DOMAIN-SUFFIX,conn-service-cn-04.allawntech.com,REJECT
 DOMAIN-SUFFIX,conn-service-cn-05.allawntech.com,REJECT
 DOMAIN-SUFFIX,conn-service-cn-07.allawntech.com,REJECT
 DOMAIN-SUFFIX,conn-service-cn-08.allawntech.com,REJECT
-DOMAIN-SUFFIX,conn-service-eu-01.allawnos.com,REJECT
-DOMAIN-SUFFIX,conn-service-eu-02.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-eu-03.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-eu-04.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-eu-05.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-eu-07.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-eu-08.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-gl-01.allawntech.com,REJECT
-DOMAIN-SUFFIX,conn-service-gl-03.allawntech.com,REJECT
-DOMAIN-SUFFIX,conn-service-gl-04.allawntech.com,REJECT
-DOMAIN-SUFFIX,conn-service-in-01.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-in-03.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-in-04.allawnos.com,REJECT
 DOMAIN-SUFFIX,conn-service-in-05.allawnos.com,REJECT
@@ -3055,6 +3050,7 @@ DOMAIN-SUFFIX,graffiti-tags.apple.com,REJECT
 DOMAIN-SUFFIX,grandfatherguitar.com,REJECT
 DOMAIN-SUFFIX,granlite.com,REJECT
 DOMAIN-SUFFIX,grapeshot.co.uk,REJECT
+DOMAIN-SUFFIX,grayr.abx.ipd.hihonor.com,REJECT
 DOMAIN-SUFFIX,greystripe.com,REJECT
 DOMAIN-SUFFIX,groovespacing.com,REJECT
 DOMAIN-SUFFIX,grouchybrothers.com,REJECT
@@ -3144,6 +3140,7 @@ DOMAIN-SUFFIX,hfc195b.com,REJECT
 DOMAIN-SUFFIX,hgads.com,REJECT
 DOMAIN-SUFFIX,highnoongear.com,REJECT
 DOMAIN-SUFFIX,hightrafficads.com,REJECT
+DOMAIN-SUFFIX,hihonor.api.useinsider.com,REJECT
 DOMAIN-SUFFIX,hilariouszinc.com,REJECT
 DOMAIN-SUFFIX,hisearch-dra-dt-dbankcloud-com-dra.appacc-region.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,hisearch-dra-dt-dbankcloud-com-dra.appacc.dbankedge.cn,REJECT
@@ -3500,6 +3497,7 @@ DOMAIN-SUFFIX,js1.cdn.applicationinsights.io,REJECT
 DOMAIN-SUFFIX,js1.tst.applicationinsights.io,REJECT
 DOMAIN-SUFFIX,js2.cdn.applicationinsights.io,REJECT
 DOMAIN-SUFFIX,js2.tst.applicationinsights.io,REJECT
+DOMAIN-SUFFIX,jscatch-sg-frontend.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,jsecoin.com,REJECT
 DOMAIN-SUFFIX,jsrdn.com,REJECT
 DOMAIN-SUFFIX,jubilantglimmer.com,REJECT
@@ -3621,6 +3619,35 @@ DOMAIN-SUFFIX,li.pmc.com,REJECT
 DOMAIN-SUFFIX,li.realtor.com,REJECT
 DOMAIN-SUFFIX,li.ziffimages.com,REJECT
 DOMAIN-SUFFIX,liadm.com,REJECT
+DOMAIN-SUFFIX,libra-boot.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra-boot.tiktokv.com.edgekey.net,REJECT
+DOMAIN-SUFFIX,libra-ru.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra-sg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra-sg.tiktokv.com.edgekey.net,REJECT
+DOMAIN-SUFFIX,libra-sg.tiktokv.com.ttdns2.com,REJECT
+DOMAIN-SUFFIX,libra-va.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra-va.tiktokv.com.edgekey.net,REJECT
+DOMAIN-SUFFIX,libra-va.tiktokv.com.ttdns2.com,REJECT
+DOMAIN-SUFFIX,libra16-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra16-normal-alisg.tiktokv.com.edgekey.net,REJECT
+DOMAIN-SUFFIX,libra16-normal-no1a.tiktokv.eu,REJECT
+DOMAIN-SUFFIX,libra16-normal-no1a.tiktokv.eu.edgesuite.net,REJECT
+DOMAIN-SUFFIX,libra16-normal-useast1a.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra16-normal-useast2a.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra16-normal-useast5.tiktokv.us,REJECT
+DOMAIN-SUFFIX,libra16-normal-useast5.tiktokv.us.edgesuite.net,REJECT
+DOMAIN-SUFFIX,libra16-normal-useast8.tiktokv.us,REJECT
+DOMAIN-SUFFIX,libra16-normal-useast8.tiktokv.us.edgesuite.net,REJECT
+DOMAIN-SUFFIX,libra16-normal-useastred.tiktokv.eu,REJECT
+DOMAIN-SUFFIX,libra16-normal-useastred.tiktokv.eu.edgesuite.net,REJECT
+DOMAIN-SUFFIX,libra16-normal.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra19-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra22-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra22-normal-useast1a.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra31-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra32-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,libra32-normal-no1a.tiktokv.eu,REJECT
+DOMAIN-SUFFIX,libra32-normal-useastred.tiktokv.eu,REJECT
 DOMAIN-SUFFIX,libraryfacts.com,REJECT
 DOMAIN-SUFFIX,licensingtelemetry-prod.servicebus.windows.net,REJECT
 DOMAIN-SUFFIX,lifeimpressions.net,REJECT
@@ -3840,6 +3867,7 @@ DOMAIN-SUFFIX,log32-normal-zr-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log32-normal-zr.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log32-normal.capcutapi.com,REJECT
 DOMAIN-SUFFIX,log32-normal.tiktokv.com,REJECT
+DOMAIN-SUFFIX,log53-normal-c-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log58-normal-alisg.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log58-normal-c-alisg.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log58-normal-c-useast1a.tiktokv.com,REJECT
@@ -3847,6 +3875,8 @@ DOMAIN-SUFFIX,log58-normal-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log58-normal-useast2a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log58-normal-ycru.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log58-normal.tiktokv.com,REJECT
+DOMAIN-SUFFIX,log61-normal-c-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,log61-normal-c-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log77-normal-c-alisg.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log77-normal-c-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,log9-normal-c-useast1a.tiktokv.com,REJECT
@@ -4171,7 +4201,6 @@ DOMAIN-SUFFIX,metrics-a.wbx2.com,REJECT
 DOMAIN-SUFFIX,metrics-dra.dt.dbankcloud.cn,REJECT
 DOMAIN-SUFFIX,metrics-dra.dt.dbankcloud.com,REJECT
 DOMAIN-SUFFIX,metrics-drcn.dt.dbankcloud.cn,REJECT
-DOMAIN-SUFFIX,metrics-drcn.dt.dbankcloud.com,REJECT
 DOMAIN-SUFFIX,metrics-dre.data.dbankcloud.cn,REJECT
 DOMAIN-SUFFIX,metrics-dre.dt.dbankcloud.cn,REJECT
 DOMAIN-SUFFIX,metrics-logger.spot.im,REJECT
@@ -4446,6 +4475,8 @@ DOMAIN-SUFFIX,mssdk22-normal-zr-alisg.tiktokv.com,REJECT
 DOMAIN-SUFFIX,mssdk22-normal-zr-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,mssdk22-normal-zr.tiktokv.com,REJECT
 DOMAIN-SUFFIX,mssdk22-normal.tiktokv.com,REJECT
+DOMAIN-SUFFIX,mssdk23-normal-zr-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,mssdk23-normal-zr-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,mssdk24-normal-alisg.tiktokv.com,REJECT
 DOMAIN-SUFFIX,mssdk24-normal-useast1a.tiktokv.com,REJECT
 DOMAIN-SUFFIX,mssdk24-normal-useast2a.tiktokv.com,REJECT
@@ -4632,6 +4663,8 @@ DOMAIN-SUFFIX,obus-conf-in.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-conf-sg.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-conf-us.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-config-cn.heytapmobi.com,REJECT
+DOMAIN-SUFFIX,obus-config-in.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,obus-config-sg.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-dc-eu.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-dc-ru.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-dc-us.heytapmobile.com,REJECT
@@ -4657,6 +4690,8 @@ DOMAIN-SUFFIX,obus-dctech-sg.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-dcyitai-cn.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,obus-dcyitai-in.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,obus-dcyitai-sg.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,obus-hid-in.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,obus-hid-sg.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-jssdk-cn.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,obus-jssdk-fr.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,obus-jssdk-in.heytapmobile.com,REJECT
@@ -4666,6 +4701,28 @@ DOMAIN-SUFFIX,oca.microsoft.com,REJECT
 DOMAIN-SUFFIX,oceancloudhosts.com,REJECT
 DOMAIN-SUFFIX,odbierz-bony.ovp.pl,REJECT
 DOMAIN-SUFFIX,odin-signals.apple.com,REJECT
+DOMAIN-SUFFIX,oec16-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec16-normal-alisg.tiktokv.com.edgesuite.net,REJECT
+DOMAIN-SUFFIX,oec16-normal-gquic-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec16-normal-no1a.tiktokv.eu,REJECT
+DOMAIN-SUFFIX,oec16-normal-no1a.tiktokv.eu.edgesuite.net,REJECT
+DOMAIN-SUFFIX,oec16-normal-useast2a.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec16-normal-useast5.tiktokv.us,REJECT
+DOMAIN-SUFFIX,oec16-normal-useast5.tiktokv.us.edgesuite.net,REJECT
+DOMAIN-SUFFIX,oec16-normal-useast8.tiktokv.us,REJECT
+DOMAIN-SUFFIX,oec16-normal-useast8.tiktokv.us.edgesuite.net,REJECT
+DOMAIN-SUFFIX,oec16-normal-useastred.tiktokv.eu,REJECT
+DOMAIN-SUFFIX,oec16-normal-useastred.tiktokv.eu.edgesuite.net,REJECT
+DOMAIN-SUFFIX,oec16-normal-ycru.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec16-normal-ycru.tiktokv.com.edgesuite.net,REJECT
+DOMAIN-SUFFIX,oec16-normal.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec19-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec19-normal-useast5.tiktokv.us,REJECT
+DOMAIN-SUFFIX,oec19-normal-useast8.tiktokv.us,REJECT
+DOMAIN-SUFFIX,oec22-normal-alisg.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec22-normal.tiktokv.com,REJECT
+DOMAIN-SUFFIX,oec32-normal-no1a.tiktokv.eu,REJECT
+DOMAIN-SUFFIX,oec32-normal-useastred.tiktokv.eu,REJECT
 DOMAIN-SUFFIX,oewa.at,REJECT
 DOMAIN-SUFFIX,offaces-butional.com,REJECT
 DOMAIN-SUFFIX,offer.fyber.com,REJECT
@@ -4702,6 +4759,7 @@ DOMAIN-SUFFIX,onrt-stsdk.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,onscroll.com,REJECT
 DOMAIN-SUFFIX,onthe.io,REJECT
 DOMAIN-SUFFIX,opads.us,REJECT
+DOMAIN-SUFFIX,opay.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,open.oneplus.net,REJECT
 DOMAIN-SUFFIX,open.snssdk.com,REJECT
 DOMAIN-SUFFIX,openad.tf1.fr,REJECT
@@ -5216,14 +5274,13 @@ DOMAIN-SUFFIX,reklamdsp.com,REJECT
 DOMAIN-SUFFIX,rel.msn.com,REJECT
 DOMAIN-SUFFIX,relmaxtop.com,REJECT
 DOMAIN-SUFFIX,rememberdiscussion.com,REJECT
+DOMAIN-SUFFIX,remoteconfig-dra.platform.hihonorcloud.com,REJECT
+DOMAIN-SUFFIX,remoteconfig-drcn.platform.hihonorcloud.com,REJECT
+DOMAIN-SUFFIX,remoteconfig-dre.platform.hihonorcloud.com,REJECT
+DOMAIN-SUFFIX,remoteconfig-uat-drcn.platform.hihonorcloud.com,REJECT
 DOMAIN-SUFFIX,report-1.appmetrica.webvisor.com,REJECT
 DOMAIN-SUFFIX,report-2.appmetrica.webvisor.com,REJECT
-DOMAIN-SUFFIX,report-eu.uc.heytapmobile.com,REJECT
-DOMAIN-SUFFIX,report-in.opay.heytapmobile.com,REJECT
-DOMAIN-SUFFIX,report-in.uc.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,report-partners.appmetrica.yandex.net,REJECT
-DOMAIN-SUFFIX,report-sg.opay.heytapmobile.com,REJECT
-DOMAIN-SUFFIX,report-sg.uc.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,report.ap.yandex-net.ru,REJECT
 DOMAIN-SUFFIX,report.appmetrica.yandex.net,REJECT
 DOMAIN-SUFFIX,report.diagnostic.networking.aws.dev,REJECT
@@ -5266,6 +5323,7 @@ DOMAIN-SUFFIX,rle.ru,REJECT
 DOMAIN-SUFFIX,rmads.eu.msn.com,REJECT
 DOMAIN-SUFFIX,rmads.msn.com,REJECT
 DOMAIN-SUFFIX,rmedia.boston.com,REJECT
+DOMAIN-SUFFIX,rms-behavior-collect-drcn.hihonorcdn.com,REJECT
 DOMAIN-SUFFIX,rnd-cbgpas01.huawei.com,REJECT
 DOMAIN-SUFFIX,ro-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,ro-info-lgsmartad-com.aws-prd.net,REJECT
@@ -5582,6 +5640,7 @@ DOMAIN-SUFFIX,savoryorange.com,REJECT
 DOMAIN-SUFFIX,sbird.xyz,REJECT
 DOMAIN-SUFFIX,sbx.pagesjaunes.fr,REJECT
 DOMAIN-SUFFIX,sc-analytics.appspot.com,REJECT
+DOMAIN-SUFFIX,sc.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,sca.samsung.com,REJECT
 DOMAIN-SUFFIX,scambiobanner.aruba.it,REJECT
 DOMAIN-SUFFIX,scanscout.com,REJECT
@@ -5662,6 +5721,14 @@ DOMAIN-SUFFIX,sessioncam.com,REJECT
 DOMAIN-SUFFIX,sexcounter.com,REJECT
 DOMAIN-SUFFIX,sexlist.com,REJECT
 DOMAIN-SUFFIX,sextracker.com,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn-eu.com,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn-eu.com.edgesuite.net,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn-eu.com.ttdns3.com,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn-us.com,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn-us.com.edgesuite.net,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn.com,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn.com.edgesuite.net,REJECT
+DOMAIN-SUFFIX,sf-ssp.tiktokcdn.com.ttdns2.com,REJECT
 DOMAIN-SUFFIX,sf16-ads-format-sign.tiktokcdn.com,REJECT
 DOMAIN-SUFFIX,sf16-ads-format-sign.tiktokcdn.com.edgesuite.net,REJECT
 DOMAIN-SUFFIX,sf16-short-gcp.bytedapm.com,REJECT
@@ -6437,6 +6504,7 @@ DOMAIN-SUFFIX,ua-rdx2-lgtvsdp-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,uarating.com,REJECT
 DOMAIN-SUFFIX,uba.huaweicloud.com,REJECT
 DOMAIN-SUFFIX,ubacollect-drcn.cloud.dbankcloud.cn,REJECT
+DOMAIN-SUFFIX,uc.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,ucfunnel.com,REJECT
 DOMAIN-SUFFIX,udc.msn.com,REJECT
 DOMAIN-SUFFIX,udkcrj.com,REJECT
