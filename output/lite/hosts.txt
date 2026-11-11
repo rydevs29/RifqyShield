@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-10 05:25:53
-# Total Domains: 6,929
+# Last Updated: 2026-11-11 03:56:03
+# Total Domains: 6,930
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -5520,6 +5520,7 @@
 0.0.0.0 s-ring.msedge.net
 0.0.0.0 s.adroll.com
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 s.appreports.net
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.dmmew.com
 0.0.0.0 s.uuidksinc.net

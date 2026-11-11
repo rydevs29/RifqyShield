@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-10 05:25:53
-# Total Domains: 6,929
+# Last Updated: 2026-11-11 03:56:03
+# Total Domains: 6,930
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -5519,6 +5519,7 @@ add name="s-ring-fallback.msedge.net" address=0.0.0.0
 add name="s-ring.msedge.net" address=0.0.0.0
 add name="s.adroll.com" address=0.0.0.0
 add name="s.amazon-adsystem.com" address=0.0.0.0
+add name="s.appreports.net" address=0.0.0.0
 add name="s.click.aliexpress.com" address=0.0.0.0
 add name="s.dmmew.com" address=0.0.0.0
 add name="s.uuidksinc.net" address=0.0.0.0
