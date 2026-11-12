@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-11 03:56:03
-# Total Domains: 6,930
+# Last Updated: 2026-11-12 05:04:04
+# Total Domains: 6,931
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -2165,6 +2165,7 @@ co-timesync.vivoglobal.com CNAME .
 co-vcode-api.vivoglobal.com CNAME .
 co-vcode-od.vivoglobal.com CNAME .
 co-vcode-or.vivoglobal.com CNAME .
+coalmerchants.com CNAME .
 code.etracker.com CNAME .
 codeadnetwork.com CNAME .
 cognitiv.ai CNAME .

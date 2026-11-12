@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-11 03:56:03
-# Total Domains: 6,930
+# Last Updated: 2026-11-12 05:04:04
+# Total Domains: 6,931
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -2167,6 +2167,7 @@
 0.0.0.0 co-vcode-api.vivoglobal.com
 0.0.0.0 co-vcode-od.vivoglobal.com
 0.0.0.0 co-vcode-or.vivoglobal.com
+0.0.0.0 coalmerchants.com
 0.0.0.0 code.etracker.com
 0.0.0.0 codeadnetwork.com
 0.0.0.0 cognitiv.ai

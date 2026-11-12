@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-11 03:56:03
-# Total Domains: 6,930
+# Last Updated: 2026-11-12 05:04:04
+# Total Domains: 6,931
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -2165,6 +2165,7 @@ HOST-SUFFIX,co-timesync.vivoglobal.com,reject
 HOST-SUFFIX,co-vcode-api.vivoglobal.com,reject
 HOST-SUFFIX,co-vcode-od.vivoglobal.com,reject
 HOST-SUFFIX,co-vcode-or.vivoglobal.com,reject
+HOST-SUFFIX,coalmerchants.com,reject
 HOST-SUFFIX,code.etracker.com,reject
 HOST-SUFFIX,codeadnetwork.com,reject
 HOST-SUFFIX,cognitiv.ai,reject

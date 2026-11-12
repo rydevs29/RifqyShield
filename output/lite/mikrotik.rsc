@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-11 03:56:03
-# Total Domains: 6,930
+# Last Updated: 2026-11-12 05:04:04
+# Total Domains: 6,931
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -2166,6 +2166,7 @@ add name="co-timesync.vivoglobal.com" address=0.0.0.0
 add name="co-vcode-api.vivoglobal.com" address=0.0.0.0
 add name="co-vcode-od.vivoglobal.com" address=0.0.0.0
 add name="co-vcode-or.vivoglobal.com" address=0.0.0.0
+add name="coalmerchants.com" address=0.0.0.0
 add name="code.etracker.com" address=0.0.0.0
 add name="codeadnetwork.com" address=0.0.0.0
 add name="cognitiv.ai" address=0.0.0.0
