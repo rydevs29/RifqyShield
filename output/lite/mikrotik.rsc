@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-12 05:04:04
-# Total Domains: 6,931
+# Last Updated: 2026-11-13 04:20:15
+# Total Domains: 6,932
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -5869,6 +5869,7 @@ add name="spaceleadster.com" address=0.0.0.0
 add name="sparklingshelf.com" address=0.0.0.0
 add name="sparkstudios.com" address=0.0.0.0
 add name="speakol.com" address=0.0.0.0
+add name="speciesjewelry.com" address=0.0.0.0
 add name="specificmedia.co.uk" address=0.0.0.0
 add name="specificpop.com" address=0.0.0.0
 add name="speedomizer.com" address=0.0.0.0

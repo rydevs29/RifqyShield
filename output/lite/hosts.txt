@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-12 05:04:04
-# Total Domains: 6,931
+# Last Updated: 2026-11-13 04:20:15
+# Total Domains: 6,932
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -5870,6 +5870,7 @@
 0.0.0.0 sparklingshelf.com
 0.0.0.0 sparkstudios.com
 0.0.0.0 speakol.com
+0.0.0.0 speciesjewelry.com
 0.0.0.0 specificmedia.co.uk
 0.0.0.0 specificpop.com
 0.0.0.0 speedomizer.com
