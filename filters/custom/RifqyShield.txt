@@ -644,7 +644,6 @@ logservice.vmall.com
 
 # --- Transsion Holdings (Infinix / TECNO / itel - Athena & OneID Telemetry) ---
 shalltry.com
-transsion-os.com
 athena.shalltry.com
 oneid.shalltry.com
 log.shalltry.com
@@ -673,7 +672,6 @@ u-ad.info
 lamanlabuh.aduankonten.id
 internetpositif.id
 blockpage.indihome.co.id
-uzone.id
 ads.uzone.id
 tracker.uzone.id
 analytics.uzone.id
@@ -686,7 +684,6 @@ ads.telkomsel.com
 analytics.telkomsel.com
 offdeck.telkomsel.com
 digiads.co.id
-tadex.id
 adpop.my.telkomsel.com
 ads.my.telkomsel.com
 tracker.telkomsel.com
@@ -810,7 +807,6 @@ pixel.adskom.com
 ads.kompas.com
 adsimg.kompas.com
 ads.detik.com
-cdn.detik.net.id
 iklan.okezone.com
 iklan.brilio.net
 ads.idn.media
