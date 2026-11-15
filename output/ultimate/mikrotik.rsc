@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-11-15 11:04:04
-# Total Domains: 698,340
+# Last Updated: 2026-11-15 11:08:12
+# Total Domains: 698,347
 # ==========================================
 /ip dns static
 add name="0--4.com" address=0.0.0.0
@@ -114506,6 +114506,7 @@ add name="avalprofitplatform.com" address=0.0.0.0
 add name="avaluei.com" address=0.0.0.0
 add name="avamade.com" address=0.0.0.0
 add name="avamirae.com" address=0.0.0.0
+add name="avampraggr.store" address=0.0.0.0
 add name="avana.icu" address=0.0.0.0
 add name="avancdapp.vercel.app" address=0.0.0.0
 add name="avanceaccountingreviews.com" address=0.0.0.0
@@ -332454,6 +332455,7 @@ add name="iniciobanesconline.web.app" address=0.0.0.0
 add name="iniciobanplusempresas.vercel.app" address=0.0.0.0
 add name="iniciodesesionuniversidadcentraldelecuador.weebly.com" address=0.0.0.0
 add name="inidramaku.asia" address=0.0.0.0
+add name="inietfagli.store" address=0.0.0.0
 add name="inifiniteservices.com" address=0.0.0.0
 add name="inimeya.com" address=0.0.0.0
 add name="inimn5cayt.data.adobedc.net" address=0.0.0.0
@@ -392383,6 +392385,7 @@ add name="mars.jd.com" address=0.0.0.0
 add name="mars.media" address=0.0.0.0
 add name="mars.reachkit.ai" address=0.0.0.0
 add name="mars303.com" address=0.0.0.0
+add name="marsademen.store" address=0.0.0.0
 add name="marsads.com" address=0.0.0.0
 add name="marsalek.cy" address=0.0.0.0
 add name="marsamsterdam.xyz" address=0.0.0.0
@@ -467168,6 +467171,7 @@ add name="pizdeishn.net" address=0.0.0.0
 add name="pizefricace.com" address=0.0.0.0
 add name="pizhmagod.org" address=0.0.0.0
 add name="pizho.com" address=0.0.0.0
+add name="piziadivor.store" address=0.0.0.0
 add name="pizuhya.pro" address=0.0.0.0
 add name="pizxqoqajauix.space" address=0.0.0.0
 add name="pizza-blitz-bestellen.de" address=0.0.0.0
@@ -549554,6 +549558,7 @@ add name="solacebeauty.shop" address=0.0.0.0
 add name="solacedarryish.com" address=0.0.0.0
 add name="solacefield.eu" address=0.0.0.0
 add name="solacehillsdetox.com" address=0.0.0.0
+add name="solaceorbit.top" address=0.0.0.0
 add name="solaclient.com" address=0.0.0.0
 add name="solads.media" address=0.0.0.0
 add name="solagoshop.de" address=0.0.0.0
@@ -561340,6 +561345,7 @@ add name="sortyniva.com" address=0.0.0.0
 add name="sortyourspace.com" address=0.0.0.0
 add name="sorvanelixqz.info" address=0.0.0.0
 add name="sorvaro.net" address=0.0.0.0
+add name="sorvazendro.shop" address=0.0.0.0
 add name="sorvelutic-ai-app.live" address=0.0.0.0
 add name="sorvelutic-ai.live" address=0.0.0.0
 add name="sorvelutic-app.live" address=0.0.0.0
@@ -587138,6 +587144,7 @@ add name="sysadmin-sentry-events.innogames.de" address=0.0.0.0
 add name="sysadmin.iammall.net" address=0.0.0.0
 add name="sysadmin.map24.com" address=0.0.0.0
 add name="sysadminday.io" address=0.0.0.0
+add name="sysationalhair.com" address=0.0.0.0
 add name="sysauth-whatsapp.com" address=0.0.0.0
 add name="sysbinder.com" address=0.0.0.0
 add name="sysbinder.xyz" address=0.0.0.0

@@ -1,6 +1,6 @@
 ! Title: RifqyShield Ultimate
-! Last Updated: 2026-11-15 11:04:04
-! Total Domains: 698,340
+! Last Updated: 2026-11-15 11:08:12
+! Total Domains: 698,347
 ! ==========================================
 ||0--4.com^
 ||0--d.com^
@@ -114505,6 +114505,7 @@
 ||avaluei.com^
 ||avamade.com^
 ||avamirae.com^
+||avampraggr.store^
 ||avana.icu^
 ||avancdapp.vercel.app^
 ||avanceaccountingreviews.com^
@@ -332453,6 +332454,7 @@
 ||iniciobanplusempresas.vercel.app^
 ||iniciodesesionuniversidadcentraldelecuador.weebly.com^
 ||inidramaku.asia^
+||inietfagli.store^
 ||inifiniteservices.com^
 ||inimeya.com^
 ||inimn5cayt.data.adobedc.net^
@@ -392382,6 +392384,7 @@
 ||mars.media^
 ||mars.reachkit.ai^
 ||mars303.com^
+||marsademen.store^
 ||marsads.com^
 ||marsalek.cy^
 ||marsamsterdam.xyz^
@@ -467167,6 +467170,7 @@
 ||pizefricace.com^
 ||pizhmagod.org^
 ||pizho.com^
+||piziadivor.store^
 ||pizuhya.pro^
 ||pizxqoqajauix.space^
 ||pizza-blitz-bestellen.de^
@@ -549553,6 +549557,7 @@
 ||solacedarryish.com^
 ||solacefield.eu^
 ||solacehillsdetox.com^
+||solaceorbit.top^
 ||solaclient.com^
 ||solads.media^
 ||solagoshop.de^
@@ -561339,6 +561344,7 @@
 ||sortyourspace.com^
 ||sorvanelixqz.info^
 ||sorvaro.net^
+||sorvazendro.shop^
 ||sorvelutic-ai-app.live^
 ||sorvelutic-ai.live^
 ||sorvelutic-app.live^
@@ -587137,6 +587143,7 @@
 ||sysadmin.iammall.net^
 ||sysadmin.map24.com^
 ||sysadminday.io^
+||sysationalhair.com^
 ||sysauth-whatsapp.com^
 ||sysbinder.com^
 ||sysbinder.xyz^

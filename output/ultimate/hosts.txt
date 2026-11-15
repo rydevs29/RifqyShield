@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-11-15 11:04:04
-# Total Domains: 698,340
+# Last Updated: 2026-11-15 11:08:12
+# Total Domains: 698,347
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -114507,6 +114507,7 @@
 0.0.0.0 avaluei.com
 0.0.0.0 avamade.com
 0.0.0.0 avamirae.com
+0.0.0.0 avampraggr.store
 0.0.0.0 avana.icu
 0.0.0.0 avancdapp.vercel.app
 0.0.0.0 avanceaccountingreviews.com
@@ -332455,6 +332456,7 @@
 0.0.0.0 iniciobanplusempresas.vercel.app
 0.0.0.0 iniciodesesionuniversidadcentraldelecuador.weebly.com
 0.0.0.0 inidramaku.asia
+0.0.0.0 inietfagli.store
 0.0.0.0 inifiniteservices.com
 0.0.0.0 inimeya.com
 0.0.0.0 inimn5cayt.data.adobedc.net
@@ -392384,6 +392386,7 @@
 0.0.0.0 mars.media
 0.0.0.0 mars.reachkit.ai
 0.0.0.0 mars303.com
+0.0.0.0 marsademen.store
 0.0.0.0 marsads.com
 0.0.0.0 marsalek.cy
 0.0.0.0 marsamsterdam.xyz
@@ -467169,6 +467172,7 @@
 0.0.0.0 pizefricace.com
 0.0.0.0 pizhmagod.org
 0.0.0.0 pizho.com
+0.0.0.0 piziadivor.store
 0.0.0.0 pizuhya.pro
 0.0.0.0 pizxqoqajauix.space
 0.0.0.0 pizza-blitz-bestellen.de
@@ -549555,6 +549559,7 @@
 0.0.0.0 solacedarryish.com
 0.0.0.0 solacefield.eu
 0.0.0.0 solacehillsdetox.com
+0.0.0.0 solaceorbit.top
 0.0.0.0 solaclient.com
 0.0.0.0 solads.media
 0.0.0.0 solagoshop.de
@@ -561341,6 +561346,7 @@
 0.0.0.0 sortyourspace.com
 0.0.0.0 sorvanelixqz.info
 0.0.0.0 sorvaro.net
+0.0.0.0 sorvazendro.shop
 0.0.0.0 sorvelutic-ai-app.live
 0.0.0.0 sorvelutic-ai.live
 0.0.0.0 sorvelutic-app.live
@@ -587139,6 +587145,7 @@
 0.0.0.0 sysadmin.iammall.net
 0.0.0.0 sysadmin.map24.com
 0.0.0.0 sysadminday.io
+0.0.0.0 sysationalhair.com
 0.0.0.0 sysauth-whatsapp.com
 0.0.0.0 sysbinder.com
 0.0.0.0 sysbinder.xyz

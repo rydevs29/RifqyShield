@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-11-15 11:04:04
-# Total Domains: 698,340
+# Last Updated: 2026-11-15 11:08:12
+# Total Domains: 698,347
 # ==========================================
 DOMAIN-SUFFIX,0--4.com,REJECT
 DOMAIN-SUFFIX,0--d.com,REJECT
@@ -114505,6 +114505,7 @@ DOMAIN-SUFFIX,avalprofitplatform.com,REJECT
 DOMAIN-SUFFIX,avaluei.com,REJECT
 DOMAIN-SUFFIX,avamade.com,REJECT
 DOMAIN-SUFFIX,avamirae.com,REJECT
+DOMAIN-SUFFIX,avampraggr.store,REJECT
 DOMAIN-SUFFIX,avana.icu,REJECT
 DOMAIN-SUFFIX,avancdapp.vercel.app,REJECT
 DOMAIN-SUFFIX,avanceaccountingreviews.com,REJECT
@@ -332453,6 +332454,7 @@ DOMAIN-SUFFIX,iniciobanesconline.web.app,REJECT
 DOMAIN-SUFFIX,iniciobanplusempresas.vercel.app,REJECT
 DOMAIN-SUFFIX,iniciodesesionuniversidadcentraldelecuador.weebly.com,REJECT
 DOMAIN-SUFFIX,inidramaku.asia,REJECT
+DOMAIN-SUFFIX,inietfagli.store,REJECT
 DOMAIN-SUFFIX,inifiniteservices.com,REJECT
 DOMAIN-SUFFIX,inimeya.com,REJECT
 DOMAIN-SUFFIX,inimn5cayt.data.adobedc.net,REJECT
@@ -392382,6 +392384,7 @@ DOMAIN-SUFFIX,mars.jd.com,REJECT
 DOMAIN-SUFFIX,mars.media,REJECT
 DOMAIN-SUFFIX,mars.reachkit.ai,REJECT
 DOMAIN-SUFFIX,mars303.com,REJECT
+DOMAIN-SUFFIX,marsademen.store,REJECT
 DOMAIN-SUFFIX,marsads.com,REJECT
 DOMAIN-SUFFIX,marsalek.cy,REJECT
 DOMAIN-SUFFIX,marsamsterdam.xyz,REJECT
@@ -467167,6 +467170,7 @@ DOMAIN-SUFFIX,pizdeishn.net,REJECT
 DOMAIN-SUFFIX,pizefricace.com,REJECT
 DOMAIN-SUFFIX,pizhmagod.org,REJECT
 DOMAIN-SUFFIX,pizho.com,REJECT
+DOMAIN-SUFFIX,piziadivor.store,REJECT
 DOMAIN-SUFFIX,pizuhya.pro,REJECT
 DOMAIN-SUFFIX,pizxqoqajauix.space,REJECT
 DOMAIN-SUFFIX,pizza-blitz-bestellen.de,REJECT
@@ -549553,6 +549557,7 @@ DOMAIN-SUFFIX,solacebeauty.shop,REJECT
 DOMAIN-SUFFIX,solacedarryish.com,REJECT
 DOMAIN-SUFFIX,solacefield.eu,REJECT
 DOMAIN-SUFFIX,solacehillsdetox.com,REJECT
+DOMAIN-SUFFIX,solaceorbit.top,REJECT
 DOMAIN-SUFFIX,solaclient.com,REJECT
 DOMAIN-SUFFIX,solads.media,REJECT
 DOMAIN-SUFFIX,solagoshop.de,REJECT
@@ -561339,6 +561344,7 @@ DOMAIN-SUFFIX,sortyniva.com,REJECT
 DOMAIN-SUFFIX,sortyourspace.com,REJECT
 DOMAIN-SUFFIX,sorvanelixqz.info,REJECT
 DOMAIN-SUFFIX,sorvaro.net,REJECT
+DOMAIN-SUFFIX,sorvazendro.shop,REJECT
 DOMAIN-SUFFIX,sorvelutic-ai-app.live,REJECT
 DOMAIN-SUFFIX,sorvelutic-ai.live,REJECT
 DOMAIN-SUFFIX,sorvelutic-app.live,REJECT
@@ -587137,6 +587143,7 @@ DOMAIN-SUFFIX,sysadmin-sentry-events.innogames.de,REJECT
 DOMAIN-SUFFIX,sysadmin.iammall.net,REJECT
 DOMAIN-SUFFIX,sysadmin.map24.com,REJECT
 DOMAIN-SUFFIX,sysadminday.io,REJECT
+DOMAIN-SUFFIX,sysationalhair.com,REJECT
 DOMAIN-SUFFIX,sysauth-whatsapp.com,REJECT
 DOMAIN-SUFFIX,sysbinder.com,REJECT
 DOMAIN-SUFFIX,sysbinder.xyz,REJECT

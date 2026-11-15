@@ -1,6 +1,6 @@
 # Title: RifqyShield Ultimate
-# Last Updated: 2026-11-15 11:04:04
-# Total Domains: 698,340
+# Last Updated: 2026-11-15 11:08:12
+# Total Domains: 698,347
 # ==========================================
 0--4.com CNAME .
 0--d.com CNAME .
@@ -114505,6 +114505,7 @@ avalprofitplatform.com CNAME .
 avaluei.com CNAME .
 avamade.com CNAME .
 avamirae.com CNAME .
+avampraggr.store CNAME .
 avana.icu CNAME .
 avancdapp.vercel.app CNAME .
 avanceaccountingreviews.com CNAME .
@@ -332453,6 +332454,7 @@ iniciobanesconline.web.app CNAME .
 iniciobanplusempresas.vercel.app CNAME .
 iniciodesesionuniversidadcentraldelecuador.weebly.com CNAME .
 inidramaku.asia CNAME .
+inietfagli.store CNAME .
 inifiniteservices.com CNAME .
 inimeya.com CNAME .
 inimn5cayt.data.adobedc.net CNAME .
@@ -392382,6 +392384,7 @@ mars.jd.com CNAME .
 mars.media CNAME .
 mars.reachkit.ai CNAME .
 mars303.com CNAME .
+marsademen.store CNAME .
 marsads.com CNAME .
 marsalek.cy CNAME .
 marsamsterdam.xyz CNAME .
@@ -467167,6 +467170,7 @@ pizdeishn.net CNAME .
 pizefricace.com CNAME .
 pizhmagod.org CNAME .
 pizho.com CNAME .
+piziadivor.store CNAME .
 pizuhya.pro CNAME .
 pizxqoqajauix.space CNAME .
 pizza-blitz-bestellen.de CNAME .
@@ -549553,6 +549557,7 @@ solacebeauty.shop CNAME .
 solacedarryish.com CNAME .
 solacefield.eu CNAME .
 solacehillsdetox.com CNAME .
+solaceorbit.top CNAME .
 solaclient.com CNAME .
 solads.media CNAME .
 solagoshop.de CNAME .
@@ -561339,6 +561344,7 @@ sortyniva.com CNAME .
 sortyourspace.com CNAME .
 sorvanelixqz.info CNAME .
 sorvaro.net CNAME .
+sorvazendro.shop CNAME .
 sorvelutic-ai-app.live CNAME .
 sorvelutic-ai.live CNAME .
 sorvelutic-app.live CNAME .
@@ -587137,6 +587143,7 @@ sysadmin-sentry-events.innogames.de CNAME .
 sysadmin.iammall.net CNAME .
 sysadmin.map24.com CNAME .
 sysadminday.io CNAME .
+sysationalhair.com CNAME .
 sysauth-whatsapp.com CNAME .
 sysbinder.com CNAME .
 sysbinder.xyz CNAME .
