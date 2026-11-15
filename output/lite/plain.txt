@@ -166,6 +166,7 @@ abstractedauthority.com
 abtasty.com
 abtest-ch.snssdk.com
 abtest-va.byteoversea.com
+abu.usaday.biz
 ac.rnm.ca
 ac2.msn.com
 ac3.msn.com
@@ -2451,6 +2452,7 @@ damageddistance.com
 damdoor.com
 dapper.net
 darngavel.com
+dash.kryon.one
 data-ads.realmemobile.com
 data.game.xiaomi.com
 data.hailuo.ai
@@ -3347,6 +3349,12 @@ hsleadflows.net
 hsn.uqhv.net
 ht-rdx2-lgtvsdp-com.aws-prd.net
 htlbid.com
+htms.heytapmobile.com
+httpdns-euex-push.heytapmobile.com
+httpdns-ocloud.heytapmobile.com
+httpdns-push.heytapmobile.com
+httpdns.ocloud.heytapmobi.com
+httpdns.push.heytapmobi.com
 httpool.com
 hu-ad-lgsmartad-com.aws-prd.net
 hu-info-lgsmartad-com.aws-prd.net
@@ -5050,6 +5058,7 @@ onlinestarten.net
 onrt-stsdk.vivoglobal.com
 onscroll.com
 onthe.io
+oop-installer-gl.heytapmobile.com
 opads.us
 opay.heytapmobile.com
 open.oneplus.net
@@ -7110,6 +7119,7 @@ vilenexus.com
 vip-api.xmpush.global.xiaomi.com
 vip-api.xmpush.xiaomi.com
 virtualvincent.com
+virusinfo-cloudscan-in.heytapmobile.com
 visiblemeasures.com
 visio-telemetry.officeapps.live.com
 visistat.com

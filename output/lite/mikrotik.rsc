@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-14 04:16:01
-# Total Domains: 7,379
+# Last Updated: 2026-11-15 04:00:44
+# Total Domains: 7,389
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -171,6 +171,7 @@ add name="abstractedauthority.com" address=0.0.0.0
 add name="abtasty.com" address=0.0.0.0
 add name="abtest-ch.snssdk.com" address=0.0.0.0
 add name="abtest-va.byteoversea.com" address=0.0.0.0
+add name="abu.usaday.biz" address=0.0.0.0
 add name="ac.rnm.ca" address=0.0.0.0
 add name="ac2.msn.com" address=0.0.0.0
 add name="ac3.msn.com" address=0.0.0.0
@@ -2456,6 +2457,7 @@ add name="damageddistance.com" address=0.0.0.0
 add name="damdoor.com" address=0.0.0.0
 add name="dapper.net" address=0.0.0.0
 add name="darngavel.com" address=0.0.0.0
+add name="dash.kryon.one" address=0.0.0.0
 add name="data-ads.realmemobile.com" address=0.0.0.0
 add name="data.game.xiaomi.com" address=0.0.0.0
 add name="data.hailuo.ai" address=0.0.0.0
@@ -3352,6 +3354,12 @@ add name="hsleadflows.net" address=0.0.0.0
 add name="hsn.uqhv.net" address=0.0.0.0
 add name="ht-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="htlbid.com" address=0.0.0.0
+add name="htms.heytapmobile.com" address=0.0.0.0
+add name="httpdns-euex-push.heytapmobile.com" address=0.0.0.0
+add name="httpdns-ocloud.heytapmobile.com" address=0.0.0.0
+add name="httpdns-push.heytapmobile.com" address=0.0.0.0
+add name="httpdns.ocloud.heytapmobi.com" address=0.0.0.0
+add name="httpdns.push.heytapmobi.com" address=0.0.0.0
 add name="httpool.com" address=0.0.0.0
 add name="hu-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="hu-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -5055,6 +5063,7 @@ add name="onlinestarten.net" address=0.0.0.0
 add name="onrt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="onscroll.com" address=0.0.0.0
 add name="onthe.io" address=0.0.0.0
+add name="oop-installer-gl.heytapmobile.com" address=0.0.0.0
 add name="opads.us" address=0.0.0.0
 add name="opay.heytapmobile.com" address=0.0.0.0
 add name="open.oneplus.net" address=0.0.0.0
@@ -7115,6 +7124,7 @@ add name="vilenexus.com" address=0.0.0.0
 add name="vip-api.xmpush.global.xiaomi.com" address=0.0.0.0
 add name="vip-api.xmpush.xiaomi.com" address=0.0.0.0
 add name="virtualvincent.com" address=0.0.0.0
+add name="virusinfo-cloudscan-in.heytapmobile.com" address=0.0.0.0
 add name="visiblemeasures.com" address=0.0.0.0
 add name="visio-telemetry.officeapps.live.com" address=0.0.0.0
 add name="visistat.com" address=0.0.0.0

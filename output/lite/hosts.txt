@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-14 04:16:01
-# Total Domains: 7,379
+# Last Updated: 2026-11-15 04:00:44
+# Total Domains: 7,389
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -172,6 +172,7 @@
 0.0.0.0 abtasty.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest-va.byteoversea.com
+0.0.0.0 abu.usaday.biz
 0.0.0.0 ac.rnm.ca
 0.0.0.0 ac2.msn.com
 0.0.0.0 ac3.msn.com
@@ -2457,6 +2458,7 @@
 0.0.0.0 damdoor.com
 0.0.0.0 dapper.net
 0.0.0.0 darngavel.com
+0.0.0.0 dash.kryon.one
 0.0.0.0 data-ads.realmemobile.com
 0.0.0.0 data.game.xiaomi.com
 0.0.0.0 data.hailuo.ai
@@ -3353,6 +3355,12 @@
 0.0.0.0 hsn.uqhv.net
 0.0.0.0 ht-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 htlbid.com
+0.0.0.0 htms.heytapmobile.com
+0.0.0.0 httpdns-euex-push.heytapmobile.com
+0.0.0.0 httpdns-ocloud.heytapmobile.com
+0.0.0.0 httpdns-push.heytapmobile.com
+0.0.0.0 httpdns.ocloud.heytapmobi.com
+0.0.0.0 httpdns.push.heytapmobi.com
 0.0.0.0 httpool.com
 0.0.0.0 hu-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 hu-info-lgsmartad-com.aws-prd.net
@@ -5056,6 +5064,7 @@
 0.0.0.0 onrt-stsdk.vivoglobal.com
 0.0.0.0 onscroll.com
 0.0.0.0 onthe.io
+0.0.0.0 oop-installer-gl.heytapmobile.com
 0.0.0.0 opads.us
 0.0.0.0 opay.heytapmobile.com
 0.0.0.0 open.oneplus.net
@@ -7116,6 +7125,7 @@
 0.0.0.0 vip-api.xmpush.global.xiaomi.com
 0.0.0.0 vip-api.xmpush.xiaomi.com
 0.0.0.0 virtualvincent.com
+0.0.0.0 virusinfo-cloudscan-in.heytapmobile.com
 0.0.0.0 visiblemeasures.com
 0.0.0.0 visio-telemetry.officeapps.live.com
 0.0.0.0 visistat.com

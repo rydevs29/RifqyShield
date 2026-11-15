@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-14 04:16:01
-# Total Domains: 7,379
+# Last Updated: 2026-11-15 04:00:44
+# Total Domains: 7,389
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -170,6 +170,7 @@ HOST-SUFFIX,abstractedauthority.com,reject
 HOST-SUFFIX,abtasty.com,reject
 HOST-SUFFIX,abtest-ch.snssdk.com,reject
 HOST-SUFFIX,abtest-va.byteoversea.com,reject
+HOST-SUFFIX,abu.usaday.biz,reject
 HOST-SUFFIX,ac.rnm.ca,reject
 HOST-SUFFIX,ac2.msn.com,reject
 HOST-SUFFIX,ac3.msn.com,reject
@@ -2455,6 +2456,7 @@ HOST-SUFFIX,damageddistance.com,reject
 HOST-SUFFIX,damdoor.com,reject
 HOST-SUFFIX,dapper.net,reject
 HOST-SUFFIX,darngavel.com,reject
+HOST-SUFFIX,dash.kryon.one,reject
 HOST-SUFFIX,data-ads.realmemobile.com,reject
 HOST-SUFFIX,data.game.xiaomi.com,reject
 HOST-SUFFIX,data.hailuo.ai,reject
@@ -3351,6 +3353,12 @@ HOST-SUFFIX,hsleadflows.net,reject
 HOST-SUFFIX,hsn.uqhv.net,reject
 HOST-SUFFIX,ht-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,htlbid.com,reject
+HOST-SUFFIX,htms.heytapmobile.com,reject
+HOST-SUFFIX,httpdns-euex-push.heytapmobile.com,reject
+HOST-SUFFIX,httpdns-ocloud.heytapmobile.com,reject
+HOST-SUFFIX,httpdns-push.heytapmobile.com,reject
+HOST-SUFFIX,httpdns.ocloud.heytapmobi.com,reject
+HOST-SUFFIX,httpdns.push.heytapmobi.com,reject
 HOST-SUFFIX,httpool.com,reject
 HOST-SUFFIX,hu-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,hu-info-lgsmartad-com.aws-prd.net,reject
@@ -5054,6 +5062,7 @@ HOST-SUFFIX,onlinestarten.net,reject
 HOST-SUFFIX,onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,onscroll.com,reject
 HOST-SUFFIX,onthe.io,reject
+HOST-SUFFIX,oop-installer-gl.heytapmobile.com,reject
 HOST-SUFFIX,opads.us,reject
 HOST-SUFFIX,opay.heytapmobile.com,reject
 HOST-SUFFIX,open.oneplus.net,reject
@@ -7114,6 +7123,7 @@ HOST-SUFFIX,vilenexus.com,reject
 HOST-SUFFIX,vip-api.xmpush.global.xiaomi.com,reject
 HOST-SUFFIX,vip-api.xmpush.xiaomi.com,reject
 HOST-SUFFIX,virtualvincent.com,reject
+HOST-SUFFIX,virusinfo-cloudscan-in.heytapmobile.com,reject
 HOST-SUFFIX,visiblemeasures.com,reject
 HOST-SUFFIX,visio-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,visistat.com,reject

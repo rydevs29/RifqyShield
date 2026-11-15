@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-14 04:16:01
-# Total Domains: 7,379
+# Last Updated: 2026-11-15 04:00:44
+# Total Domains: 7,389
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -170,6 +170,7 @@ abstractedauthority.com CNAME .
 abtasty.com CNAME .
 abtest-ch.snssdk.com CNAME .
 abtest-va.byteoversea.com CNAME .
+abu.usaday.biz CNAME .
 ac.rnm.ca CNAME .
 ac2.msn.com CNAME .
 ac3.msn.com CNAME .
@@ -2455,6 +2456,7 @@ damageddistance.com CNAME .
 damdoor.com CNAME .
 dapper.net CNAME .
 darngavel.com CNAME .
+dash.kryon.one CNAME .
 data-ads.realmemobile.com CNAME .
 data.game.xiaomi.com CNAME .
 data.hailuo.ai CNAME .
@@ -3351,6 +3353,12 @@ hsleadflows.net CNAME .
 hsn.uqhv.net CNAME .
 ht-rdx2-lgtvsdp-com.aws-prd.net CNAME .
 htlbid.com CNAME .
+htms.heytapmobile.com CNAME .
+httpdns-euex-push.heytapmobile.com CNAME .
+httpdns-ocloud.heytapmobile.com CNAME .
+httpdns-push.heytapmobile.com CNAME .
+httpdns.ocloud.heytapmobi.com CNAME .
+httpdns.push.heytapmobi.com CNAME .
 httpool.com CNAME .
 hu-ad-lgsmartad-com.aws-prd.net CNAME .
 hu-info-lgsmartad-com.aws-prd.net CNAME .
@@ -5054,6 +5062,7 @@ onlinestarten.net CNAME .
 onrt-stsdk.vivoglobal.com CNAME .
 onscroll.com CNAME .
 onthe.io CNAME .
+oop-installer-gl.heytapmobile.com CNAME .
 opads.us CNAME .
 opay.heytapmobile.com CNAME .
 open.oneplus.net CNAME .
@@ -7114,6 +7123,7 @@ vilenexus.com CNAME .
 vip-api.xmpush.global.xiaomi.com CNAME .
 vip-api.xmpush.xiaomi.com CNAME .
 virtualvincent.com CNAME .
+virusinfo-cloudscan-in.heytapmobile.com CNAME .
 visiblemeasures.com CNAME .
 visio-telemetry.officeapps.live.com CNAME .
 visistat.com CNAME .

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-14 04:16:01
-# Total Domains: 7,379
+# Last Updated: 2026-11-15 04:00:44
+# Total Domains: 7,389
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -170,6 +170,7 @@ DOMAIN-SUFFIX,abstractedauthority.com,REJECT
 DOMAIN-SUFFIX,abtasty.com,REJECT
 DOMAIN-SUFFIX,abtest-ch.snssdk.com,REJECT
 DOMAIN-SUFFIX,abtest-va.byteoversea.com,REJECT
+DOMAIN-SUFFIX,abu.usaday.biz,REJECT
 DOMAIN-SUFFIX,ac.rnm.ca,REJECT
 DOMAIN-SUFFIX,ac2.msn.com,REJECT
 DOMAIN-SUFFIX,ac3.msn.com,REJECT
@@ -2455,6 +2456,7 @@ DOMAIN-SUFFIX,damageddistance.com,REJECT
 DOMAIN-SUFFIX,damdoor.com,REJECT
 DOMAIN-SUFFIX,dapper.net,REJECT
 DOMAIN-SUFFIX,darngavel.com,REJECT
+DOMAIN-SUFFIX,dash.kryon.one,REJECT
 DOMAIN-SUFFIX,data-ads.realmemobile.com,REJECT
 DOMAIN-SUFFIX,data.game.xiaomi.com,REJECT
 DOMAIN-SUFFIX,data.hailuo.ai,REJECT
@@ -3351,6 +3353,12 @@ DOMAIN-SUFFIX,hsleadflows.net,REJECT
 DOMAIN-SUFFIX,hsn.uqhv.net,REJECT
 DOMAIN-SUFFIX,ht-rdx2-lgtvsdp-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,htlbid.com,REJECT
+DOMAIN-SUFFIX,htms.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,httpdns-euex-push.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,httpdns-ocloud.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,httpdns-push.heytapmobile.com,REJECT
+DOMAIN-SUFFIX,httpdns.ocloud.heytapmobi.com,REJECT
+DOMAIN-SUFFIX,httpdns.push.heytapmobi.com,REJECT
 DOMAIN-SUFFIX,httpool.com,REJECT
 DOMAIN-SUFFIX,hu-ad-lgsmartad-com.aws-prd.net,REJECT
 DOMAIN-SUFFIX,hu-info-lgsmartad-com.aws-prd.net,REJECT
@@ -5054,6 +5062,7 @@ DOMAIN-SUFFIX,onlinestarten.net,REJECT
 DOMAIN-SUFFIX,onrt-stsdk.vivoglobal.com,REJECT
 DOMAIN-SUFFIX,onscroll.com,REJECT
 DOMAIN-SUFFIX,onthe.io,REJECT
+DOMAIN-SUFFIX,oop-installer-gl.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,opads.us,REJECT
 DOMAIN-SUFFIX,opay.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,open.oneplus.net,REJECT
@@ -7114,6 +7123,7 @@ DOMAIN-SUFFIX,vilenexus.com,REJECT
 DOMAIN-SUFFIX,vip-api.xmpush.global.xiaomi.com,REJECT
 DOMAIN-SUFFIX,vip-api.xmpush.xiaomi.com,REJECT
 DOMAIN-SUFFIX,virtualvincent.com,REJECT
+DOMAIN-SUFFIX,virusinfo-cloudscan-in.heytapmobile.com,REJECT
 DOMAIN-SUFFIX,visiblemeasures.com,REJECT
 DOMAIN-SUFFIX,visio-telemetry.officeapps.live.com,REJECT
 DOMAIN-SUFFIX,visistat.com,REJECT
