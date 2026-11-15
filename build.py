@@ -14,6 +14,12 @@ LOCAL_NSFW_GAMBLING = [
     "filters/gambling/RifqyShield-Gambling.txt",
 ]
 
+LOCAL_MOBILE_ID = [
+    "filters/nsfw/RifqyShield-NSFW.txt",
+    "filters/gambling/RifqyShield-Gambling.txt",
+    "filters/custom/RifqyShield.txt",
+]
+
 # 2. Definisi Sumber URL (Langsung download ke RAM, tanpa folder external)
 URLS_LITE = [
     "https://pgl.yoyo.org/as/serverlist.php?hostformat=nohtml&showintro=0&mimetype=plaintext",
@@ -57,6 +63,10 @@ VARIANTS = {
     "ultimate": {
         "files": LOCAL_NSFW_GAMBLING,
         "urls": URLS_LITE + URLS_MEDIUM + URLS_ULTIMATE
+    },
+    "mobile-id": {
+        "files": LOCAL_MOBILE_ID,
+        "urls": []
     }
 }
 
