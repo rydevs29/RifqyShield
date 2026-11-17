@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-16 04:00:15
-# Total Domains: 7,389
+# Last Updated: 2026-11-17 05:52:39
+# Total Domains: 7,390
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -6704,6 +6704,7 @@
 0.0.0.0 top100.mafia.ru
 0.0.0.0 top123.ro
 0.0.0.0 top20free.com
+0.0.0.0 topicspin.com
 0.0.0.0 toplist.cz
 0.0.0.0 toplist.pornhost.com
 0.0.0.0 toplista.mw.hu

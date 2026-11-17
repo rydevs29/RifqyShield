@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-16 04:00:15
-# Total Domains: 7,389
+# Last Updated: 2026-11-17 05:52:39
+# Total Domains: 7,390
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -6703,6 +6703,7 @@ add name="top100-images.rambler.ru" address=0.0.0.0
 add name="top100.mafia.ru" address=0.0.0.0
 add name="top123.ro" address=0.0.0.0
 add name="top20free.com" address=0.0.0.0
+add name="topicspin.com" address=0.0.0.0
 add name="toplist.cz" address=0.0.0.0
 add name="toplist.pornhost.com" address=0.0.0.0
 add name="toplista.mw.hu" address=0.0.0.0

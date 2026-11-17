@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-16 04:00:15
-# Total Domains: 7,389
+# Last Updated: 2026-11-17 05:52:39
+# Total Domains: 7,390
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -6702,6 +6702,7 @@ top100-images.rambler.ru CNAME .
 top100.mafia.ru CNAME .
 top123.ro CNAME .
 top20free.com CNAME .
+topicspin.com CNAME .
 toplist.cz CNAME .
 toplist.pornhost.com CNAME .
 toplista.mw.hu CNAME .
