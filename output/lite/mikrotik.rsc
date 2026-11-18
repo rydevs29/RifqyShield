@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-17 05:52:39
-# Total Domains: 7,390
+# Last Updated: 2026-11-18 05:19:24
+# Total Domains: 7,391
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -6295,6 +6295,7 @@ add name="sponsored-ads.amazon.sg" address=0.0.0.0
 add name="sponsorpro.de" address=0.0.0.0
 add name="spookysleet.com" address=0.0.0.0
 add name="spoonballoon.com" address=0.0.0.0
+add name="sportswidows.com" address=0.0.0.0
 add name="spotlessstamp.com" address=0.0.0.0
 add name="spotscenered.info" address=0.0.0.0
 add name="spotx.tv" address=0.0.0.0

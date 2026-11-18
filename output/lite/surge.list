@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-17 05:52:39
-# Total Domains: 7,390
+# Last Updated: 2026-11-18 05:19:24
+# Total Domains: 7,391
 # ==========================================
 DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,REJECT
 DOMAIN-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,REJECT
@@ -6294,6 +6294,7 @@ DOMAIN-SUFFIX,sponsored-ads.amazon.sg,REJECT
 DOMAIN-SUFFIX,sponsorpro.de,REJECT
 DOMAIN-SUFFIX,spookysleet.com,REJECT
 DOMAIN-SUFFIX,spoonballoon.com,REJECT
+DOMAIN-SUFFIX,sportswidows.com,REJECT
 DOMAIN-SUFFIX,spotlessstamp.com,REJECT
 DOMAIN-SUFFIX,spotscenered.info,REJECT
 DOMAIN-SUFFIX,spotx.tv,REJECT

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-17 05:52:39
-# Total Domains: 7,390
+# Last Updated: 2026-11-18 05:19:24
+# Total Domains: 7,391
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -6296,6 +6296,7 @@
 0.0.0.0 sponsorpro.de
 0.0.0.0 spookysleet.com
 0.0.0.0 spoonballoon.com
+0.0.0.0 sportswidows.com
 0.0.0.0 spotlessstamp.com
 0.0.0.0 spotscenered.info
 0.0.0.0 spotx.tv
