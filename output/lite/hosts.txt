@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-18 05:19:24
-# Total Domains: 7,391
+# Last Updated: 2026-11-19 05:15:31
+# Total Domains: 7,471
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -239,6 +239,7 @@
 0.0.0.0 ad-instantpage.tiktokv.us.edgesuite.net
 0.0.0.0 ad-instantpage.tiktokv.us.ttdns4.com
 0.0.0.0 ad-instantpage.us.tiktokv.com
+0.0.0.0 ad-maven.com
 0.0.0.0 ad-pay.de
 0.0.0.0 ad-rotator.com
 0.0.0.0 ad-score.com
@@ -1535,6 +1536,7 @@
 0.0.0.0 awstrack.me
 0.0.0.0 awsusor0-cdn.fds-ssl.api.xiaomi.com
 0.0.0.0 awzbijw.com
+0.0.0.0 axcii.com
 0.0.0.0 axonix.com
 0.0.0.0 ay.delivery
 0.0.0.0 ayads.co
@@ -2273,7 +2275,23 @@
 0.0.0.0 coloroptimizer.com
 0.0.0.0 comc4l7.pandora.xiaomi.com
 0.0.0.0 comfortablecheese.com
+0.0.0.0 commerce-api-boot.capcutapi.com
+0.0.0.0 commerce-api-mya.capcutapi.com
+0.0.0.0 commerce-api-sg.capcutapi.com
+0.0.0.0 commerce-api-sg.capcutapi.com.edgesuite.net
+0.0.0.0 commerce-api-sg.capcutapi.com.ttdns2.com
+0.0.0.0 commerce-api-v2-boot.capcutapi.com
+0.0.0.0 commerce-api.capcutapi.com
+0.0.0.0 commerce-api.capcutapi.com.edgesuite.net
 0.0.0.0 commerce.bing.com
+0.0.0.0 commerce16-normal-mya.capcutapi.com
+0.0.0.0 commerce16-normal-sg.capcutapi.com
+0.0.0.0 commerce16-normal-sg.capcutapi.com.edgesuite.net
+0.0.0.0 commerce16-normal.capcutapi.com
+0.0.0.0 commerce22-normal-sg.capcutapi.com
+0.0.0.0 commerce32-normal-mya.capcutapi.com
+0.0.0.0 commerce32-normal-myb.capcutapi.com
+0.0.0.0 commerce32-normal-sg.capcutapi.com
 0.0.0.0 commissionmonster.com
 0.0.0.0 communications.melitaltd.com
 0.0.0.0 compactbanner.com
@@ -3013,6 +3031,7 @@
 0.0.0.0 frontier-phx.tiktokv.com
 0.0.0.0 frontier-ru.tiktokv.com
 0.0.0.0 frontier-ru.tiktokv.com.edgekey.net
+0.0.0.0 frontier-sg.capcut.com
 0.0.0.0 frontier-ttp2.tiktokv.us
 0.0.0.0 frontier-ttp2.tiktokv.us.edgesuite.net
 0.0.0.0 frontier-ttp2.us.tiktokv.com
@@ -3030,6 +3049,7 @@
 0.0.0.0 frontier.tiktokv.us
 0.0.0.0 frontier.tiktokv.us.edgesuite.net
 0.0.0.0 frontier.us.capcut.com
+0.0.0.0 frontier.us.capcut.com.edgesuite.net
 0.0.0.0 frontier.us.tiktokv.com
 0.0.0.0 frontier100-normal-alisg.tiktokv.com
 0.0.0.0 frontier100-normal-useast1a.tiktokv.com
@@ -3112,6 +3132,10 @@
 0.0.0.0 ge-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ge-info-lgsmartad-com.aws-prd.net
 0.0.0.0 gearwom.de
+0.0.0.0 gecko-sg.capcutapi.com
+0.0.0.0 gecko-sg.capcutapi.com.edgesuite.net
+0.0.0.0 gecko-sg.capcutapi.com.ttdns2.com
+0.0.0.0 gecko-v2-boot.capcutapi.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geofence.sys.miui.com
@@ -3176,9 +3200,12 @@
 0.0.0.0 gp.dejanews.com
 0.0.0.0 gplog-sg.byteoversea.com
 0.0.0.0 gplog-sg.capcutapi.com
+0.0.0.0 gplog-sg.capcutapi.com.edgesuite.net
 0.0.0.0 gplog-va-useast2a.byteoversea.com
 0.0.0.0 gplog-va.byteoversea.com
 0.0.0.0 gplog-va.capcutapi.com
+0.0.0.0 gplog-va.capcutapi.com.edgesuite.net
+0.0.0.0 gplog-va.capcutapi.com.ttdns2.com
 0.0.0.0 gpm-mon-sg.byteoversea.com
 0.0.0.0 gpm-mon-va-useast1a.byteoversea.com
 0.0.0.0 gpm-mon-va-useast2a.byteoversea.com
@@ -3386,6 +3413,7 @@
 0.0.0.0 i-in.browser.heytapmobile.com
 0.0.0.0 i-insurance.finzfin.com
 0.0.0.0 i-sg.browser.heytapmobile.com
+0.0.0.0 i-sg.capcutapi.com
 0.0.0.0 i-sg01a.ocloud.heytapmobi.com
 0.0.0.0 i-th.browser.heytapmobile.com
 0.0.0.0 i-vn.browser.heytapmobile.com
@@ -3969,6 +3997,8 @@
 0.0.0.0 locolava.com
 0.0.0.0 log-abroad.avlyun.sec.miui.com
 0.0.0.0 log-boot.capcutapi.com
+0.0.0.0 log-boot.capcutapi.com.edgesuite.net
+0.0.0.0 log-boot.capcutapi.com.ttdns2.com
 0.0.0.0 log-boot.tiktokv.com
 0.0.0.0 log-dr.tiktokv.com
 0.0.0.0 log-dr.tiktokv.eu
@@ -3998,11 +4028,20 @@
 0.0.0.0 log-phx.tiktokv.com
 0.0.0.0 log-ru.tiktokv.com
 0.0.0.0 log-sg.capcutapi.com
+0.0.0.0 log-sg.capcutapi.com.edgesuite.net
+0.0.0.0 log-sg.capcutapi.com.ttdns2.com
 0.0.0.0 log-snssdk.tiktokv-us.com
 0.0.0.0 log-tiktok.byteoversea.net
 0.0.0.0 log-v2-boot.capcutapi.com
+0.0.0.0 log-v2-boot.capcutapi.com.edgesuite.net
+0.0.0.0 log-v2-boot.capcutapi.com.ttdns2.com
+0.0.0.0 log-va-us-looki.capcutapi.com
+0.0.0.0 log-va-us-looki.capcutapi.com.edgesuite.net
+0.0.0.0 log-va-us-looki.capcutapi.com.ttdns2.com
 0.0.0.0 log-va-useast2a.tiktokv.com
 0.0.0.0 log-va.capcutapi.com
+0.0.0.0 log-va.capcutapi.com.edgesuite.net
+0.0.0.0 log-va.capcutapi.com.ttdns2.com
 0.0.0.0 log-va.tiktokv.com
 0.0.0.0 log.btopenworld.com
 0.0.0.0 log.byteoversea.com
@@ -4031,6 +4070,7 @@
 0.0.0.0 log16-normal-ind.tiktokv.com
 0.0.0.0 log16-normal-no1a.tiktokv.eu
 0.0.0.0 log16-normal-sg.capcutapi.com
+0.0.0.0 log16-normal-sg.capcutapi.com.edgesuite.net
 0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 log16-normal-useast1a.tiktokv.com
 0.0.0.0 log16-normal-useast2a.tiktokv.com
@@ -4042,6 +4082,7 @@
 0.0.0.0 log16-normal-zr-useast1a.tiktokv.com
 0.0.0.0 log16-normal-zr.tiktokv.com
 0.0.0.0 log16-normal.capcutapi.com
+0.0.0.0 log16-normal.capcutapi.com.edgesuite.net
 0.0.0.0 log16-normal.tiktokv.com
 0.0.0.0 log16-platform-ycru.tiktokv.com
 0.0.0.0 log16-tmp-normal-useast1a.tiktokv.com
@@ -4067,6 +4108,7 @@
 0.0.0.0 log22-applog-useast2a.tiktokv.com
 0.0.0.0 log22-normal-alisg.tiktokv.com
 0.0.0.0 log22-normal-alisg.tiktokv.com.kp45.ru
+0.0.0.0 log22-normal-sg.capcutapi.com
 0.0.0.0 log22-normal-useast1a.tiktokv.com
 0.0.0.0 log22-normal-useast2a.tiktokv.com
 0.0.0.0 log22-normal-zr-alisg.tiktokv.com
@@ -4414,6 +4456,9 @@
 0.0.0.0 mediasmart.io
 0.0.0.0 mediasquare.fr
 0.0.0.0 mediatext.com
+0.0.0.0 mediation-gab-normal-sg.capcutapi.com
+0.0.0.0 mediation-gab-normal-sg.capcutapi.com.edgesuite.net
+0.0.0.0 mediation-gab-normal-sg.capcutapi.com.ttdns2.com
 0.0.0.0 mediavine.com
 0.0.0.0 mediavoice.com
 0.0.0.0 medleyads.com
@@ -4575,6 +4620,7 @@
 0.0.0.0 mon-va-useast2a.byteoversea.com
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mon-va.capcutapi.com
+0.0.0.0 mon-va.capcutapi.com.edgesuite.net
 0.0.0.0 mon-va.capcutapi.com.ttdns2.com
 0.0.0.0 mon-va.tiktokv.com
 0.0.0.0 mon.be.xiaomi.com
@@ -4616,6 +4662,7 @@
 0.0.0.0 mon16-normal-zr-useast1a.tiktokv.com
 0.0.0.0 mon16-normal-zr.tiktokv.com
 0.0.0.0 mon16-normal.capcutapi.com
+0.0.0.0 mon16-normal.capcutapi.com.edgesuite.net
 0.0.0.0 mon16-normal.tiktokv.com
 0.0.0.0 mon16-platform-useast5.us.tiktokv.com
 0.0.0.0 mon16-platform-ycru.tiktokv.com
@@ -4684,6 +4731,8 @@
 0.0.0.0 msg2.video.ptqy.gitv.tv
 0.0.0.0 msga.ptqy.gitv.tv
 0.0.0.0 mssdk-boot.capcutapi.com
+0.0.0.0 mssdk-boot.capcutapi.com.edgesuite.net
+0.0.0.0 mssdk-boot.capcutapi.com.ttdns2.com
 0.0.0.0 mssdk-boot.tiktokv.com
 0.0.0.0 mssdk-boot.tiktokv.com.edgekey.net
 0.0.0.0 mssdk-bu.snssdk.com
@@ -4698,9 +4747,13 @@
 0.0.0.0 mssdk-sg-bu.byteoversea.com
 0.0.0.0 mssdk-sg.byteoversea.com
 0.0.0.0 mssdk-sg.capcutapi.com
+0.0.0.0 mssdk-sg.capcutapi.com.edgesuite.net
+0.0.0.0 mssdk-sg.capcutapi.com.ttdns2.com
 0.0.0.0 mssdk-sg.tiktok.com
 0.0.0.0 mssdk-sg.tiktokv.com
 0.0.0.0 mssdk-v2-boot.capcutapi.com
+0.0.0.0 mssdk-v2-boot.capcutapi.com.edgesuite.net
+0.0.0.0 mssdk-v2-boot.capcutapi.com.ttdns2.com
 0.0.0.0 mssdk-va-useast2a.byteoversea.com
 0.0.0.0 mssdk-va-useast2a.tiktokv.com
 0.0.0.0 mssdk-va.byteoversea.com
@@ -4713,10 +4766,12 @@
 0.0.0.0 mssdk.us.tiktok.com
 0.0.0.0 mssdk.us.tiktokv.com
 0.0.0.0 mssdk16-normal-sg.capcutapi.com
+0.0.0.0 mssdk16-normal-sg.capcutapi.com.edgesuite.net
 0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
 0.0.0.0 mssdk16-normal-us-ttp2.capcutapi.us
 0.0.0.0 mssdk16-normal-useastred.tiktokw.eu
 0.0.0.0 mssdk16-normal.capcutapi.com
+0.0.0.0 mssdk16-normal.capcutapi.com.edgesuite.net
 0.0.0.0 mssdk16-normal.tiktokv.com
 0.0.0.0 mssdk16-platform-useast5.us.tiktokv.com
 0.0.0.0 mssdk19-normal-alisg.tiktokv.com
@@ -5141,6 +5196,8 @@
 0.0.0.0 p16-ad-va.ibyteimg.com
 0.0.0.0 p16-ad-va.tiktokcdn.com
 0.0.0.0 p16-ad.byteoversea.com
+0.0.0.0 p16-capcut-sg.ibyteimg.com
+0.0.0.0 p16-capcut-sign-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net
@@ -5209,6 +5266,8 @@
 0.0.0.0 pc-mon-v2-boot.capcutapi.com.ttdns2.com
 0.0.0.0 pc-mon-va.byteoversea.com
 0.0.0.0 pc-mon-va.capcutapi.com
+0.0.0.0 pc-mon-va.capcutapi.com.edgesuite.net
+0.0.0.0 pc-mon-va.capcutapi.com.ttdns2.com
 0.0.0.0 pc-mon.snssdk.com
 0.0.0.0 pc-mon16-normal-us-ttp.capcutapi.us
 0.0.0.0 pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net
@@ -5903,6 +5962,7 @@
 0.0.0.0 safeoffers.pro
 0.0.0.0 sail-horizon.com
 0.0.0.0 sam.msn.com
+0.0.0.0 sami-normal-sg.capcutapi.com
 0.0.0.0 samplesamba.com
 0.0.0.0 samsung-akcja.e-kei.pl
 0.0.0.0 samsung-benelux.demdex.net
@@ -6648,11 +6708,21 @@
 0.0.0.0 tn-info-lgsmartad-com.aws-prd.net
 0.0.0.0 tn-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 tnc-boot.capcutapi.com
+0.0.0.0 tnc-boot.capcutapi.com.edgesuite.net
+0.0.0.0 tnc-boot.capcutapi.com.ttdns2.com
 0.0.0.0 tnc-boot.tiktokv.com
 0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-sg.capcutapi.com.edgesuite.net
+0.0.0.0 tnc-sg.capcutapi.com.ttdns2.com
 0.0.0.0 tnc-v2-boot.capcutapi.com
+0.0.0.0 tnc-v2-boot.capcutapi.com.edgesuite.net
+0.0.0.0 tnc-v2-boot.capcutapi.com.ttdns2.com
 0.0.0.0 tnc-va-us-looki.capcutapi.com
+0.0.0.0 tnc-va-us-looki.capcutapi.com.edgesuite.net
+0.0.0.0 tnc-va-us-looki.capcutapi.com.ttdns2.com
 0.0.0.0 tnc-va.capcutapi.com
+0.0.0.0 tnc-va.capcutapi.com.edgesuite.net
+0.0.0.0 tnc-va.capcutapi.com.ttdns2.com
 0.0.0.0 tnc0-normal-alisg.tiktokv.com
 0.0.0.0 tnc0-normal-my.tiktokv.com
 0.0.0.0 tnc0-normal-sg1.tiktokv.com
@@ -6887,6 +6957,9 @@
 0.0.0.0 tsyndicate.com
 0.0.0.0 tsyndicate.net
 0.0.0.0 tt-ad-lgsmartad-com.aws-prd.net
+0.0.0.0 tt-gecko-sg.capcutapi.com
+0.0.0.0 tt-gecko-sg.capcutapi.com.edgesuite.net
+0.0.0.0 tt-gecko-sg.capcutapi.com.ttdns2.com
 0.0.0.0 tt-info-lgsmartad-com.aws-prd.net
 0.0.0.0 tt-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 tubemogul.com
@@ -7071,6 +7144,11 @@
 0.0.0.0 vc-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 vcl-brain.snssdk.com
 0.0.0.0 vcommission.com
+0.0.0.0 vcs-boot.capcutapi.com
+0.0.0.0 vcs-sg.capcutapi.com
+0.0.0.0 vcs-sg.capcutapi.com.edgesuite.net
+0.0.0.0 vcs-sg.capcutapi.com.ttdns2.com
+0.0.0.0 vcs-v2-boot.capcutapi.com
 0.0.0.0 ve-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 ve-info-lgsmartad-com.aws-prd.net
 0.0.0.0 ve-rdx2-lgtvsdp-com.aws-prd.net
@@ -7280,6 +7358,8 @@
 0.0.0.0 xlog-va-useast2a.tiktokv.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xlog-va.capcutapi.com
+0.0.0.0 xlog-va.capcutapi.com.edgesuite.net
+0.0.0.0 xlog-va.capcutapi.com.ttdns2.com
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 xlog.capcutapi.us

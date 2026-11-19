@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-18 05:19:24
-# Total Domains: 7,391
+# Last Updated: 2026-11-19 05:15:31
+# Total Domains: 7,471
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -238,6 +238,7 @@ add name="ad-instantpage.tiktokv.us" address=0.0.0.0
 add name="ad-instantpage.tiktokv.us.edgesuite.net" address=0.0.0.0
 add name="ad-instantpage.tiktokv.us.ttdns4.com" address=0.0.0.0
 add name="ad-instantpage.us.tiktokv.com" address=0.0.0.0
+add name="ad-maven.com" address=0.0.0.0
 add name="ad-pay.de" address=0.0.0.0
 add name="ad-rotator.com" address=0.0.0.0
 add name="ad-score.com" address=0.0.0.0
@@ -1534,6 +1535,7 @@ add name="awssgp0-files.fds.api.xiaomi.com" address=0.0.0.0
 add name="awstrack.me" address=0.0.0.0
 add name="awsusor0-cdn.fds-ssl.api.xiaomi.com" address=0.0.0.0
 add name="awzbijw.com" address=0.0.0.0
+add name="axcii.com" address=0.0.0.0
 add name="axonix.com" address=0.0.0.0
 add name="ay.delivery" address=0.0.0.0
 add name="ayads.co" address=0.0.0.0
@@ -2272,7 +2274,23 @@ add name="colorfulpet.com" address=0.0.0.0
 add name="coloroptimizer.com" address=0.0.0.0
 add name="comc4l7.pandora.xiaomi.com" address=0.0.0.0
 add name="comfortablecheese.com" address=0.0.0.0
+add name="commerce-api-boot.capcutapi.com" address=0.0.0.0
+add name="commerce-api-mya.capcutapi.com" address=0.0.0.0
+add name="commerce-api-sg.capcutapi.com" address=0.0.0.0
+add name="commerce-api-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="commerce-api-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
+add name="commerce-api-v2-boot.capcutapi.com" address=0.0.0.0
+add name="commerce-api.capcutapi.com" address=0.0.0.0
+add name="commerce-api.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="commerce.bing.com" address=0.0.0.0
+add name="commerce16-normal-mya.capcutapi.com" address=0.0.0.0
+add name="commerce16-normal-sg.capcutapi.com" address=0.0.0.0
+add name="commerce16-normal-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="commerce16-normal.capcutapi.com" address=0.0.0.0
+add name="commerce22-normal-sg.capcutapi.com" address=0.0.0.0
+add name="commerce32-normal-mya.capcutapi.com" address=0.0.0.0
+add name="commerce32-normal-myb.capcutapi.com" address=0.0.0.0
+add name="commerce32-normal-sg.capcutapi.com" address=0.0.0.0
 add name="commissionmonster.com" address=0.0.0.0
 add name="communications.melitaltd.com" address=0.0.0.0
 add name="compactbanner.com" address=0.0.0.0
@@ -3012,6 +3030,7 @@ add name="frontier-mya.byteoversea.com" address=0.0.0.0
 add name="frontier-phx.tiktokv.com" address=0.0.0.0
 add name="frontier-ru.tiktokv.com" address=0.0.0.0
 add name="frontier-ru.tiktokv.com.edgekey.net" address=0.0.0.0
+add name="frontier-sg.capcut.com" address=0.0.0.0
 add name="frontier-ttp2.tiktokv.us" address=0.0.0.0
 add name="frontier-ttp2.tiktokv.us.edgesuite.net" address=0.0.0.0
 add name="frontier-ttp2.us.tiktokv.com" address=0.0.0.0
@@ -3029,6 +3048,7 @@ add name="frontier.tiktokv.eu" address=0.0.0.0
 add name="frontier.tiktokv.us" address=0.0.0.0
 add name="frontier.tiktokv.us.edgesuite.net" address=0.0.0.0
 add name="frontier.us.capcut.com" address=0.0.0.0
+add name="frontier.us.capcut.com.edgesuite.net" address=0.0.0.0
 add name="frontier.us.tiktokv.com" address=0.0.0.0
 add name="frontier100-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="frontier100-normal-useast1a.tiktokv.com" address=0.0.0.0
@@ -3111,6 +3131,10 @@ add name="gd-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="ge-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ge-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="gearwom.de" address=0.0.0.0
+add name="gecko-sg.capcutapi.com" address=0.0.0.0
+add name="gecko-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="gecko-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
+add name="gecko-v2-boot.capcutapi.com" address=0.0.0.0
 add name="geo.digitalpoint.com" address=0.0.0.0
 add name="geobanner.adultfriendfinder.com" address=0.0.0.0
 add name="geofence.sys.miui.com" address=0.0.0.0
@@ -3175,9 +3199,12 @@ add name="gp-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="gp.dejanews.com" address=0.0.0.0
 add name="gplog-sg.byteoversea.com" address=0.0.0.0
 add name="gplog-sg.capcutapi.com" address=0.0.0.0
+add name="gplog-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="gplog-va-useast2a.byteoversea.com" address=0.0.0.0
 add name="gplog-va.byteoversea.com" address=0.0.0.0
 add name="gplog-va.capcutapi.com" address=0.0.0.0
+add name="gplog-va.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="gplog-va.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="gpm-mon-sg.byteoversea.com" address=0.0.0.0
 add name="gpm-mon-va-useast1a.byteoversea.com" address=0.0.0.0
 add name="gpm-mon-va-useast2a.byteoversea.com" address=0.0.0.0
@@ -3385,6 +3412,7 @@ add name="i-i.lt" address=0.0.0.0
 add name="i-in.browser.heytapmobile.com" address=0.0.0.0
 add name="i-insurance.finzfin.com" address=0.0.0.0
 add name="i-sg.browser.heytapmobile.com" address=0.0.0.0
+add name="i-sg.capcutapi.com" address=0.0.0.0
 add name="i-sg01a.ocloud.heytapmobi.com" address=0.0.0.0
 add name="i-th.browser.heytapmobile.com" address=0.0.0.0
 add name="i-vn.browser.heytapmobile.com" address=0.0.0.0
@@ -3968,6 +3996,8 @@ add name="lockerdome.com" address=0.0.0.0
 add name="locolava.com" address=0.0.0.0
 add name="log-abroad.avlyun.sec.miui.com" address=0.0.0.0
 add name="log-boot.capcutapi.com" address=0.0.0.0
+add name="log-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="log-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="log-boot.tiktokv.com" address=0.0.0.0
 add name="log-dr.tiktokv.com" address=0.0.0.0
 add name="log-dr.tiktokv.eu" address=0.0.0.0
@@ -3997,11 +4027,20 @@ add name="log-lq.snssdk.com" address=0.0.0.0
 add name="log-phx.tiktokv.com" address=0.0.0.0
 add name="log-ru.tiktokv.com" address=0.0.0.0
 add name="log-sg.capcutapi.com" address=0.0.0.0
+add name="log-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="log-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="log-snssdk.tiktokv-us.com" address=0.0.0.0
 add name="log-tiktok.byteoversea.net" address=0.0.0.0
 add name="log-v2-boot.capcutapi.com" address=0.0.0.0
+add name="log-v2-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="log-v2-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
+add name="log-va-us-looki.capcutapi.com" address=0.0.0.0
+add name="log-va-us-looki.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="log-va-us-looki.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="log-va-useast2a.tiktokv.com" address=0.0.0.0
 add name="log-va.capcutapi.com" address=0.0.0.0
+add name="log-va.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="log-va.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="log-va.tiktokv.com" address=0.0.0.0
 add name="log.btopenworld.com" address=0.0.0.0
 add name="log.byteoversea.com" address=0.0.0.0
@@ -4030,6 +4069,7 @@ add name="log16-normal-ie.tiktokv.eu" address=0.0.0.0
 add name="log16-normal-ind.tiktokv.com" address=0.0.0.0
 add name="log16-normal-no1a.tiktokv.eu" address=0.0.0.0
 add name="log16-normal-sg.capcutapi.com" address=0.0.0.0
+add name="log16-normal-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="log16-normal-us-ttp.capcutapi.us" address=0.0.0.0
 add name="log16-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log16-normal-useast2a.tiktokv.com" address=0.0.0.0
@@ -4041,6 +4081,7 @@ add name="log16-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="log16-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="log16-normal-zr.tiktokv.com" address=0.0.0.0
 add name="log16-normal.capcutapi.com" address=0.0.0.0
+add name="log16-normal.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="log16-normal.tiktokv.com" address=0.0.0.0
 add name="log16-platform-ycru.tiktokv.com" address=0.0.0.0
 add name="log16-tmp-normal-useast1a.tiktokv.com" address=0.0.0.0
@@ -4066,6 +4107,7 @@ add name="log22-applog-useast1a.tiktokv.com" address=0.0.0.0
 add name="log22-applog-useast2a.tiktokv.com" address=0.0.0.0
 add name="log22-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="log22-normal-alisg.tiktokv.com.kp45.ru" address=0.0.0.0
+add name="log22-normal-sg.capcutapi.com" address=0.0.0.0
 add name="log22-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="log22-normal-useast2a.tiktokv.com" address=0.0.0.0
 add name="log22-normal-zr-alisg.tiktokv.com" address=0.0.0.0
@@ -4413,6 +4455,9 @@ add name="mediaserver.bwinpartypartners.it" address=0.0.0.0
 add name="mediasmart.io" address=0.0.0.0
 add name="mediasquare.fr" address=0.0.0.0
 add name="mediatext.com" address=0.0.0.0
+add name="mediation-gab-normal-sg.capcutapi.com" address=0.0.0.0
+add name="mediation-gab-normal-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="mediation-gab-normal-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="mediavine.com" address=0.0.0.0
 add name="mediavoice.com" address=0.0.0.0
 add name="medleyads.com" address=0.0.0.0
@@ -4574,6 +4619,7 @@ add name="mon-v2-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="mon-va-useast2a.byteoversea.com" address=0.0.0.0
 add name="mon-va.byteoversea.com" address=0.0.0.0
 add name="mon-va.capcutapi.com" address=0.0.0.0
+add name="mon-va.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="mon-va.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="mon-va.tiktokv.com" address=0.0.0.0
 add name="mon.be.xiaomi.com" address=0.0.0.0
@@ -4615,6 +4661,7 @@ add name="mon16-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-zr.tiktokv.com" address=0.0.0.0
 add name="mon16-normal.capcutapi.com" address=0.0.0.0
+add name="mon16-normal.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="mon16-normal.tiktokv.com" address=0.0.0.0
 add name="mon16-platform-useast5.us.tiktokv.com" address=0.0.0.0
 add name="mon16-platform-ycru.tiktokv.com" address=0.0.0.0
@@ -4683,6 +4730,8 @@ add name="msg.video.ptqy.gitv.tv" address=0.0.0.0
 add name="msg2.video.ptqy.gitv.tv" address=0.0.0.0
 add name="msga.ptqy.gitv.tv" address=0.0.0.0
 add name="mssdk-boot.capcutapi.com" address=0.0.0.0
+add name="mssdk-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="mssdk-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="mssdk-boot.tiktokv.com" address=0.0.0.0
 add name="mssdk-boot.tiktokv.com.edgekey.net" address=0.0.0.0
 add name="mssdk-bu.snssdk.com" address=0.0.0.0
@@ -4697,9 +4746,13 @@ add name="mssdk-ru.tiktokv.com" address=0.0.0.0
 add name="mssdk-sg-bu.byteoversea.com" address=0.0.0.0
 add name="mssdk-sg.byteoversea.com" address=0.0.0.0
 add name="mssdk-sg.capcutapi.com" address=0.0.0.0
+add name="mssdk-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="mssdk-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="mssdk-sg.tiktok.com" address=0.0.0.0
 add name="mssdk-sg.tiktokv.com" address=0.0.0.0
 add name="mssdk-v2-boot.capcutapi.com" address=0.0.0.0
+add name="mssdk-v2-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="mssdk-v2-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="mssdk-va-useast2a.byteoversea.com" address=0.0.0.0
 add name="mssdk-va-useast2a.tiktokv.com" address=0.0.0.0
 add name="mssdk-va.byteoversea.com" address=0.0.0.0
@@ -4712,10 +4765,12 @@ add name="mssdk.tiktokw.us" address=0.0.0.0
 add name="mssdk.us.tiktok.com" address=0.0.0.0
 add name="mssdk.us.tiktokv.com" address=0.0.0.0
 add name="mssdk16-normal-sg.capcutapi.com" address=0.0.0.0
+add name="mssdk16-normal-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="mssdk16-normal-us-ttp.capcutapi.us" address=0.0.0.0
 add name="mssdk16-normal-us-ttp2.capcutapi.us" address=0.0.0.0
 add name="mssdk16-normal-useastred.tiktokw.eu" address=0.0.0.0
 add name="mssdk16-normal.capcutapi.com" address=0.0.0.0
+add name="mssdk16-normal.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="mssdk16-normal.tiktokv.com" address=0.0.0.0
 add name="mssdk16-platform-useast5.us.tiktokv.com" address=0.0.0.0
 add name="mssdk19-normal-alisg.tiktokv.com" address=0.0.0.0
@@ -5140,6 +5195,8 @@ add name="p.www.xiaomi.com" address=0.0.0.0
 add name="p16-ad-va.ibyteimg.com" address=0.0.0.0
 add name="p16-ad-va.tiktokcdn.com" address=0.0.0.0
 add name="p16-ad.byteoversea.com" address=0.0.0.0
+add name="p16-capcut-sg.ibyteimg.com" address=0.0.0.0
+add name="p16-capcut-sign-sg.ibyteimg.com" address=0.0.0.0
 add name="p16-tiktok-ads-sg.tiktokcdn.com" address=0.0.0.0
 add name="p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net" address=0.0.0.0
 add name="p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net" address=0.0.0.0
@@ -5208,6 +5265,8 @@ add name="pc-mon-v2-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
 add name="pc-mon-v2-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="pc-mon-va.byteoversea.com" address=0.0.0.0
 add name="pc-mon-va.capcutapi.com" address=0.0.0.0
+add name="pc-mon-va.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="pc-mon-va.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="pc-mon.snssdk.com" address=0.0.0.0
 add name="pc-mon16-normal-us-ttp.capcutapi.us" address=0.0.0.0
 add name="pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net" address=0.0.0.0
@@ -5902,6 +5961,7 @@ add name="sabio.us" address=0.0.0.0
 add name="safeoffers.pro" address=0.0.0.0
 add name="sail-horizon.com" address=0.0.0.0
 add name="sam.msn.com" address=0.0.0.0
+add name="sami-normal-sg.capcutapi.com" address=0.0.0.0
 add name="samplesamba.com" address=0.0.0.0
 add name="samsung-akcja.e-kei.pl" address=0.0.0.0
 add name="samsung-benelux.demdex.net" address=0.0.0.0
@@ -6647,11 +6707,21 @@ add name="tn-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="tn-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="tn-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="tnc-boot.capcutapi.com" address=0.0.0.0
+add name="tnc-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="tnc-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="tnc-boot.tiktokv.com" address=0.0.0.0
 add name="tnc-sg.capcutapi.com" address=0.0.0.0
+add name="tnc-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="tnc-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="tnc-v2-boot.capcutapi.com" address=0.0.0.0
+add name="tnc-v2-boot.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="tnc-v2-boot.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="tnc-va-us-looki.capcutapi.com" address=0.0.0.0
+add name="tnc-va-us-looki.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="tnc-va-us-looki.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="tnc-va.capcutapi.com" address=0.0.0.0
+add name="tnc-va.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="tnc-va.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="tnc0-normal-alisg.tiktokv.com" address=0.0.0.0
 add name="tnc0-normal-my.tiktokv.com" address=0.0.0.0
 add name="tnc0-normal-sg1.tiktokv.com" address=0.0.0.0
@@ -6886,6 +6956,9 @@ add name="tsearch.snssdk.com" address=0.0.0.0
 add name="tsyndicate.com" address=0.0.0.0
 add name="tsyndicate.net" address=0.0.0.0
 add name="tt-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
+add name="tt-gecko-sg.capcutapi.com" address=0.0.0.0
+add name="tt-gecko-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="tt-gecko-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="tt-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="tt-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="tubemogul.com" address=0.0.0.0
@@ -7070,6 +7143,11 @@ add name="vas-hl-x.snssdk.com" address=0.0.0.0
 add name="vc-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="vcl-brain.snssdk.com" address=0.0.0.0
 add name="vcommission.com" address=0.0.0.0
+add name="vcs-boot.capcutapi.com" address=0.0.0.0
+add name="vcs-sg.capcutapi.com" address=0.0.0.0
+add name="vcs-sg.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="vcs-sg.capcutapi.com.ttdns2.com" address=0.0.0.0
+add name="vcs-v2-boot.capcutapi.com" address=0.0.0.0
 add name="ve-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ve-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ve-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
@@ -7279,6 +7357,8 @@ add name="xlog-va-useast2a.byteoversea.com" address=0.0.0.0
 add name="xlog-va-useast2a.tiktokv.com" address=0.0.0.0
 add name="xlog-va.byteoversea.com" address=0.0.0.0
 add name="xlog-va.capcutapi.com" address=0.0.0.0
+add name="xlog-va.capcutapi.com.edgesuite.net" address=0.0.0.0
+add name="xlog-va.capcutapi.com.ttdns2.com" address=0.0.0.0
 add name="xlog-va.tiktokv.com" address=0.0.0.0
 add name="xlog.byteoversea.com" address=0.0.0.0
 add name="xlog.capcutapi.us" address=0.0.0.0

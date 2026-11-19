@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-18 05:19:24
-# Total Domains: 7,391
+# Last Updated: 2026-11-19 05:15:31
+# Total Domains: 7,471
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -237,6 +237,7 @@ HOST-SUFFIX,ad-instantpage.tiktokv.us,reject
 HOST-SUFFIX,ad-instantpage.tiktokv.us.edgesuite.net,reject
 HOST-SUFFIX,ad-instantpage.tiktokv.us.ttdns4.com,reject
 HOST-SUFFIX,ad-instantpage.us.tiktokv.com,reject
+HOST-SUFFIX,ad-maven.com,reject
 HOST-SUFFIX,ad-pay.de,reject
 HOST-SUFFIX,ad-rotator.com,reject
 HOST-SUFFIX,ad-score.com,reject
@@ -1533,6 +1534,7 @@ HOST-SUFFIX,awssgp0-files.fds.api.xiaomi.com,reject
 HOST-SUFFIX,awstrack.me,reject
 HOST-SUFFIX,awsusor0-cdn.fds-ssl.api.xiaomi.com,reject
 HOST-SUFFIX,awzbijw.com,reject
+HOST-SUFFIX,axcii.com,reject
 HOST-SUFFIX,axonix.com,reject
 HOST-SUFFIX,ay.delivery,reject
 HOST-SUFFIX,ayads.co,reject
@@ -2271,7 +2273,23 @@ HOST-SUFFIX,colorfulpet.com,reject
 HOST-SUFFIX,coloroptimizer.com,reject
 HOST-SUFFIX,comc4l7.pandora.xiaomi.com,reject
 HOST-SUFFIX,comfortablecheese.com,reject
+HOST-SUFFIX,commerce-api-boot.capcutapi.com,reject
+HOST-SUFFIX,commerce-api-mya.capcutapi.com,reject
+HOST-SUFFIX,commerce-api-sg.capcutapi.com,reject
+HOST-SUFFIX,commerce-api-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,commerce-api-sg.capcutapi.com.ttdns2.com,reject
+HOST-SUFFIX,commerce-api-v2-boot.capcutapi.com,reject
+HOST-SUFFIX,commerce-api.capcutapi.com,reject
+HOST-SUFFIX,commerce-api.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,commerce.bing.com,reject
+HOST-SUFFIX,commerce16-normal-mya.capcutapi.com,reject
+HOST-SUFFIX,commerce16-normal-sg.capcutapi.com,reject
+HOST-SUFFIX,commerce16-normal-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,commerce16-normal.capcutapi.com,reject
+HOST-SUFFIX,commerce22-normal-sg.capcutapi.com,reject
+HOST-SUFFIX,commerce32-normal-mya.capcutapi.com,reject
+HOST-SUFFIX,commerce32-normal-myb.capcutapi.com,reject
+HOST-SUFFIX,commerce32-normal-sg.capcutapi.com,reject
 HOST-SUFFIX,commissionmonster.com,reject
 HOST-SUFFIX,communications.melitaltd.com,reject
 HOST-SUFFIX,compactbanner.com,reject
@@ -3011,6 +3029,7 @@ HOST-SUFFIX,frontier-mya.byteoversea.com,reject
 HOST-SUFFIX,frontier-phx.tiktokv.com,reject
 HOST-SUFFIX,frontier-ru.tiktokv.com,reject
 HOST-SUFFIX,frontier-ru.tiktokv.com.edgekey.net,reject
+HOST-SUFFIX,frontier-sg.capcut.com,reject
 HOST-SUFFIX,frontier-ttp2.tiktokv.us,reject
 HOST-SUFFIX,frontier-ttp2.tiktokv.us.edgesuite.net,reject
 HOST-SUFFIX,frontier-ttp2.us.tiktokv.com,reject
@@ -3028,6 +3047,7 @@ HOST-SUFFIX,frontier.tiktokv.eu,reject
 HOST-SUFFIX,frontier.tiktokv.us,reject
 HOST-SUFFIX,frontier.tiktokv.us.edgesuite.net,reject
 HOST-SUFFIX,frontier.us.capcut.com,reject
+HOST-SUFFIX,frontier.us.capcut.com.edgesuite.net,reject
 HOST-SUFFIX,frontier.us.tiktokv.com,reject
 HOST-SUFFIX,frontier100-normal-alisg.tiktokv.com,reject
 HOST-SUFFIX,frontier100-normal-useast1a.tiktokv.com,reject
@@ -3110,6 +3130,10 @@ HOST-SUFFIX,gd-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ge-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ge-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,gearwom.de,reject
+HOST-SUFFIX,gecko-sg.capcutapi.com,reject
+HOST-SUFFIX,gecko-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,gecko-sg.capcutapi.com.ttdns2.com,reject
+HOST-SUFFIX,gecko-v2-boot.capcutapi.com,reject
 HOST-SUFFIX,geo.digitalpoint.com,reject
 HOST-SUFFIX,geobanner.adultfriendfinder.com,reject
 HOST-SUFFIX,geofence.sys.miui.com,reject
@@ -3174,9 +3198,12 @@ HOST-SUFFIX,gp-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,gp.dejanews.com,reject
 HOST-SUFFIX,gplog-sg.byteoversea.com,reject
 HOST-SUFFIX,gplog-sg.capcutapi.com,reject
+HOST-SUFFIX,gplog-sg.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,gplog-va-useast2a.byteoversea.com,reject
 HOST-SUFFIX,gplog-va.byteoversea.com,reject
 HOST-SUFFIX,gplog-va.capcutapi.com,reject
+HOST-SUFFIX,gplog-va.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,gplog-va.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,gpm-mon-sg.byteoversea.com,reject
 HOST-SUFFIX,gpm-mon-va-useast1a.byteoversea.com,reject
 HOST-SUFFIX,gpm-mon-va-useast2a.byteoversea.com,reject
@@ -3384,6 +3411,7 @@ HOST-SUFFIX,i-i.lt,reject
 HOST-SUFFIX,i-in.browser.heytapmobile.com,reject
 HOST-SUFFIX,i-insurance.finzfin.com,reject
 HOST-SUFFIX,i-sg.browser.heytapmobile.com,reject
+HOST-SUFFIX,i-sg.capcutapi.com,reject
 HOST-SUFFIX,i-sg01a.ocloud.heytapmobi.com,reject
 HOST-SUFFIX,i-th.browser.heytapmobile.com,reject
 HOST-SUFFIX,i-vn.browser.heytapmobile.com,reject
@@ -3967,6 +3995,8 @@ HOST-SUFFIX,lockerdome.com,reject
 HOST-SUFFIX,locolava.com,reject
 HOST-SUFFIX,log-abroad.avlyun.sec.miui.com,reject
 HOST-SUFFIX,log-boot.capcutapi.com,reject
+HOST-SUFFIX,log-boot.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,log-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,log-boot.tiktokv.com,reject
 HOST-SUFFIX,log-dr.tiktokv.com,reject
 HOST-SUFFIX,log-dr.tiktokv.eu,reject
@@ -3996,11 +4026,20 @@ HOST-SUFFIX,log-lq.snssdk.com,reject
 HOST-SUFFIX,log-phx.tiktokv.com,reject
 HOST-SUFFIX,log-ru.tiktokv.com,reject
 HOST-SUFFIX,log-sg.capcutapi.com,reject
+HOST-SUFFIX,log-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,log-sg.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,log-snssdk.tiktokv-us.com,reject
 HOST-SUFFIX,log-tiktok.byteoversea.net,reject
 HOST-SUFFIX,log-v2-boot.capcutapi.com,reject
+HOST-SUFFIX,log-v2-boot.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,log-v2-boot.capcutapi.com.ttdns2.com,reject
+HOST-SUFFIX,log-va-us-looki.capcutapi.com,reject
+HOST-SUFFIX,log-va-us-looki.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,log-va-us-looki.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,log-va-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log-va.capcutapi.com,reject
+HOST-SUFFIX,log-va.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,log-va.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,log-va.tiktokv.com,reject
 HOST-SUFFIX,log.btopenworld.com,reject
 HOST-SUFFIX,log.byteoversea.com,reject
@@ -4029,6 +4068,7 @@ HOST-SUFFIX,log16-normal-ie.tiktokv.eu,reject
 HOST-SUFFIX,log16-normal-ind.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-no1a.tiktokv.eu,reject
 HOST-SUFFIX,log16-normal-sg.capcutapi.com,reject
+HOST-SUFFIX,log16-normal-sg.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,log16-normal-us-ttp.capcutapi.us,reject
 HOST-SUFFIX,log16-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-useast2a.tiktokv.com,reject
@@ -4040,6 +4080,7 @@ HOST-SUFFIX,log16-normal-zr-alisg.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-zr-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log16-normal-zr.tiktokv.com,reject
 HOST-SUFFIX,log16-normal.capcutapi.com,reject
+HOST-SUFFIX,log16-normal.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,log16-normal.tiktokv.com,reject
 HOST-SUFFIX,log16-platform-ycru.tiktokv.com,reject
 HOST-SUFFIX,log16-tmp-normal-useast1a.tiktokv.com,reject
@@ -4065,6 +4106,7 @@ HOST-SUFFIX,log22-applog-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log22-applog-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-alisg.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-alisg.tiktokv.com.kp45.ru,reject
+HOST-SUFFIX,log22-normal-sg.capcutapi.com,reject
 HOST-SUFFIX,log22-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-useast2a.tiktokv.com,reject
 HOST-SUFFIX,log22-normal-zr-alisg.tiktokv.com,reject
@@ -4412,6 +4454,9 @@ HOST-SUFFIX,mediaserver.bwinpartypartners.it,reject
 HOST-SUFFIX,mediasmart.io,reject
 HOST-SUFFIX,mediasquare.fr,reject
 HOST-SUFFIX,mediatext.com,reject
+HOST-SUFFIX,mediation-gab-normal-sg.capcutapi.com,reject
+HOST-SUFFIX,mediation-gab-normal-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,mediation-gab-normal-sg.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,mediavine.com,reject
 HOST-SUFFIX,mediavoice.com,reject
 HOST-SUFFIX,medleyads.com,reject
@@ -4573,6 +4618,7 @@ HOST-SUFFIX,mon-v2-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,mon-va-useast2a.byteoversea.com,reject
 HOST-SUFFIX,mon-va.byteoversea.com,reject
 HOST-SUFFIX,mon-va.capcutapi.com,reject
+HOST-SUFFIX,mon-va.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,mon-va.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,mon-va.tiktokv.com,reject
 HOST-SUFFIX,mon.be.xiaomi.com,reject
@@ -4614,6 +4660,7 @@ HOST-SUFFIX,mon16-normal-zr-alisg.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-zr-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-zr.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal.capcutapi.com,reject
+HOST-SUFFIX,mon16-normal.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,mon16-normal.tiktokv.com,reject
 HOST-SUFFIX,mon16-platform-useast5.us.tiktokv.com,reject
 HOST-SUFFIX,mon16-platform-ycru.tiktokv.com,reject
@@ -4682,6 +4729,8 @@ HOST-SUFFIX,msg.video.ptqy.gitv.tv,reject
 HOST-SUFFIX,msg2.video.ptqy.gitv.tv,reject
 HOST-SUFFIX,msga.ptqy.gitv.tv,reject
 HOST-SUFFIX,mssdk-boot.capcutapi.com,reject
+HOST-SUFFIX,mssdk-boot.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,mssdk-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,mssdk-boot.tiktokv.com,reject
 HOST-SUFFIX,mssdk-boot.tiktokv.com.edgekey.net,reject
 HOST-SUFFIX,mssdk-bu.snssdk.com,reject
@@ -4696,9 +4745,13 @@ HOST-SUFFIX,mssdk-ru.tiktokv.com,reject
 HOST-SUFFIX,mssdk-sg-bu.byteoversea.com,reject
 HOST-SUFFIX,mssdk-sg.byteoversea.com,reject
 HOST-SUFFIX,mssdk-sg.capcutapi.com,reject
+HOST-SUFFIX,mssdk-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,mssdk-sg.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,mssdk-sg.tiktok.com,reject
 HOST-SUFFIX,mssdk-sg.tiktokv.com,reject
 HOST-SUFFIX,mssdk-v2-boot.capcutapi.com,reject
+HOST-SUFFIX,mssdk-v2-boot.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,mssdk-v2-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,mssdk-va-useast2a.byteoversea.com,reject
 HOST-SUFFIX,mssdk-va-useast2a.tiktokv.com,reject
 HOST-SUFFIX,mssdk-va.byteoversea.com,reject
@@ -4711,10 +4764,12 @@ HOST-SUFFIX,mssdk.tiktokw.us,reject
 HOST-SUFFIX,mssdk.us.tiktok.com,reject
 HOST-SUFFIX,mssdk.us.tiktokv.com,reject
 HOST-SUFFIX,mssdk16-normal-sg.capcutapi.com,reject
+HOST-SUFFIX,mssdk16-normal-sg.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,mssdk16-normal-us-ttp.capcutapi.us,reject
 HOST-SUFFIX,mssdk16-normal-us-ttp2.capcutapi.us,reject
 HOST-SUFFIX,mssdk16-normal-useastred.tiktokw.eu,reject
 HOST-SUFFIX,mssdk16-normal.capcutapi.com,reject
+HOST-SUFFIX,mssdk16-normal.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,mssdk16-normal.tiktokv.com,reject
 HOST-SUFFIX,mssdk16-platform-useast5.us.tiktokv.com,reject
 HOST-SUFFIX,mssdk19-normal-alisg.tiktokv.com,reject
@@ -5139,6 +5194,8 @@ HOST-SUFFIX,p.www.xiaomi.com,reject
 HOST-SUFFIX,p16-ad-va.ibyteimg.com,reject
 HOST-SUFFIX,p16-ad-va.tiktokcdn.com,reject
 HOST-SUFFIX,p16-ad.byteoversea.com,reject
+HOST-SUFFIX,p16-capcut-sg.ibyteimg.com,reject
+HOST-SUFFIX,p16-capcut-sign-sg.ibyteimg.com,reject
 HOST-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com,reject
 HOST-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com.bytegeo.akadns.net,reject
 HOST-SUFFIX,p16-tiktok-ads-sg.tiktokcdn.com.edgesuite.net,reject
@@ -5207,6 +5264,8 @@ HOST-SUFFIX,pc-mon-v2-boot.capcutapi.com.edgesuite.net,reject
 HOST-SUFFIX,pc-mon-v2-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,pc-mon-va.byteoversea.com,reject
 HOST-SUFFIX,pc-mon-va.capcutapi.com,reject
+HOST-SUFFIX,pc-mon-va.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,pc-mon-va.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,pc-mon.snssdk.com,reject
 HOST-SUFFIX,pc-mon16-normal-us-ttp.capcutapi.us,reject
 HOST-SUFFIX,pc-mon16-normal-us-ttp.capcutapi.us.edgesuite.net,reject
@@ -5901,6 +5960,7 @@ HOST-SUFFIX,sabio.us,reject
 HOST-SUFFIX,safeoffers.pro,reject
 HOST-SUFFIX,sail-horizon.com,reject
 HOST-SUFFIX,sam.msn.com,reject
+HOST-SUFFIX,sami-normal-sg.capcutapi.com,reject
 HOST-SUFFIX,samplesamba.com,reject
 HOST-SUFFIX,samsung-akcja.e-kei.pl,reject
 HOST-SUFFIX,samsung-benelux.demdex.net,reject
@@ -6646,11 +6706,21 @@ HOST-SUFFIX,tn-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,tn-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,tn-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,tnc-boot.capcutapi.com,reject
+HOST-SUFFIX,tnc-boot.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,tnc-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,tnc-boot.tiktokv.com,reject
 HOST-SUFFIX,tnc-sg.capcutapi.com,reject
+HOST-SUFFIX,tnc-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,tnc-sg.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,tnc-v2-boot.capcutapi.com,reject
+HOST-SUFFIX,tnc-v2-boot.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,tnc-v2-boot.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,tnc-va-us-looki.capcutapi.com,reject
+HOST-SUFFIX,tnc-va-us-looki.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,tnc-va-us-looki.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,tnc-va.capcutapi.com,reject
+HOST-SUFFIX,tnc-va.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,tnc-va.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,tnc0-normal-alisg.tiktokv.com,reject
 HOST-SUFFIX,tnc0-normal-my.tiktokv.com,reject
 HOST-SUFFIX,tnc0-normal-sg1.tiktokv.com,reject
@@ -6885,6 +6955,9 @@ HOST-SUFFIX,tsearch.snssdk.com,reject
 HOST-SUFFIX,tsyndicate.com,reject
 HOST-SUFFIX,tsyndicate.net,reject
 HOST-SUFFIX,tt-ad-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,tt-gecko-sg.capcutapi.com,reject
+HOST-SUFFIX,tt-gecko-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,tt-gecko-sg.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,tt-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,tt-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,tubemogul.com,reject
@@ -7069,6 +7142,11 @@ HOST-SUFFIX,vas-hl-x.snssdk.com,reject
 HOST-SUFFIX,vc-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,vcl-brain.snssdk.com,reject
 HOST-SUFFIX,vcommission.com,reject
+HOST-SUFFIX,vcs-boot.capcutapi.com,reject
+HOST-SUFFIX,vcs-sg.capcutapi.com,reject
+HOST-SUFFIX,vcs-sg.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,vcs-sg.capcutapi.com.ttdns2.com,reject
+HOST-SUFFIX,vcs-v2-boot.capcutapi.com,reject
 HOST-SUFFIX,ve-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ve-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ve-rdx2-lgtvsdp-com.aws-prd.net,reject
@@ -7278,6 +7356,8 @@ HOST-SUFFIX,xlog-va-useast2a.byteoversea.com,reject
 HOST-SUFFIX,xlog-va-useast2a.tiktokv.com,reject
 HOST-SUFFIX,xlog-va.byteoversea.com,reject
 HOST-SUFFIX,xlog-va.capcutapi.com,reject
+HOST-SUFFIX,xlog-va.capcutapi.com.edgesuite.net,reject
+HOST-SUFFIX,xlog-va.capcutapi.com.ttdns2.com,reject
 HOST-SUFFIX,xlog-va.tiktokv.com,reject
 HOST-SUFFIX,xlog.byteoversea.com,reject
 HOST-SUFFIX,xlog.capcutapi.us,reject
