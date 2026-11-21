@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-20 05:01:33
-# Total Domains: 7,471
+# Last Updated: 2026-11-21 04:57:02
+# Total Domains: 7,452
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -819,21 +819,16 @@
 0.0.0.0 ads180.com
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads2.femmefab.nl
-0.0.0.0 ads2.gamecity.net
 0.0.0.0 ads2.msn.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads2004.treiberupdate.de
 0.0.0.0 ads24h.net
 0.0.0.0 ads3-adnow.com
-0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.virtual-nights.com
-0.0.0.0 ads4.gamecity.net
 0.0.0.0 ads4.virtual-nights.com
 0.0.0.0 ads4homes.com
 0.0.0.0 ads5.virtual-nights.com
-0.0.0.0 ads6.gamecity.net
-0.0.0.0 ads7.gamecity.net
 0.0.0.0 adsafeprotected.com
 0.0.0.0 adsatt.abc.starwave.com
 0.0.0.0 adsatt.abcnews.starwave.com
@@ -897,7 +892,6 @@
 0.0.0.0 adserver.omroepzeeland.nl
 0.0.0.0 adserver.pampa.com.br
 0.0.0.0 adserver.piksel.mk
-0.0.0.0 adserver.pl
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.pubtech.amazon.dev
@@ -962,7 +956,6 @@
 0.0.0.0 adswizz.com
 0.0.0.0 adsxyz.com
 0.0.0.0 adsyndication.msn.com
-0.0.0.0 adsyndication.msn.com.nsatc.net
 0.0.0.0 adsynergy.com
 0.0.0.0 adsys.townnews.com
 0.0.0.0 adsystem.simplemachines.org
@@ -1288,7 +1281,6 @@
 0.0.0.0 analytics16-normal.tiktok.com.edgesuite.net
 0.0.0.0 analyticsapi.happypancake.net
 0.0.0.0 analyticsehnwe.servicebus.windows.net
-0.0.0.0 analyticsiot-prod-mobileapps-ehn.servicebus.windows.net
 0.0.0.0 analyticspixel.microsoft.com
 0.0.0.0 ancientact.com
 0.0.0.0 androiddownload.net
@@ -1512,7 +1504,6 @@
 0.0.0.0 audience2media.com
 0.0.0.0 audienceinsights.com
 0.0.0.0 audio.ad
-0.0.0.0 audit.median.hu
 0.0.0.0 audit.webinform.hu
 0.0.0.0 augur.io
 0.0.0.0 auth.api.gitv.tv
@@ -1763,6 +1754,7 @@
 0.0.0.0 brightmountainmedia.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broadstreetads.com
+0.0.0.0 browser-api-au.heytapmobile.com
 0.0.0.0 browser-api-br.heytapmobile.com
 0.0.0.0 browser-api-fr.heytapmobile.com
 0.0.0.0 browser-api-gl-01.heytapmobile.com
@@ -2507,7 +2499,6 @@
 0.0.0.0 ddf.di.atlas.samsung.com
 0.0.0.0 de-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 de-gdpr-err-up.vivoglobal.com
-0.0.0.0 de-gdpr-vcode-api.vivoglobal.com
 0.0.0.0 de-info-lgsmartad-com.aws-prd.net
 0.0.0.0 de-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 de.pandora.xiaomi.com
@@ -2625,7 +2616,6 @@
 0.0.0.0 dragate-sg.dc.heytapmobi.com
 0.0.0.0 dragate-sg.dc.oppomobile.com
 0.0.0.0 dragate.dc.oppomobile.com
-0.0.0.0 dragonbats.com
 0.0.0.0 drm.market.xiaomi.com
 0.0.0.0 drumcash.com
 0.0.0.0 dsp-ad-cache-tm.trafficmanager.net
@@ -2712,7 +2702,6 @@
 0.0.0.0 engage.windows.com
 0.0.0.0 engagebdr.com
 0.0.0.0 engageya.com
-0.0.0.0 engine.espace.netavenir.com
 0.0.0.0 engineertrick.com
 0.0.0.0 enginenetwork.com
 0.0.0.0 enormousearth.com
@@ -2753,7 +2742,6 @@
 0.0.0.0 eu-domaincfg.vivoglobal.com
 0.0.0.0 eu-errup.vivoglobal.com
 0.0.0.0 eu-monitor-stsdk.vivoglobal.com
-0.0.0.0 eu-nrt-stsdk.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
 0.0.0.0 eu-ort-stsdk.vivoglobal.com
 0.0.0.0 eu-p.vivoglobal.com
@@ -2767,6 +2755,7 @@
 0.0.0.0 eu-vcode-od.vivoglobal.com
 0.0.0.0 eu-vcode-or.vivoglobal.com
 0.0.0.0 eu7-info-lgsmartad-com.aws-prd.net
+0.0.0.0 eu7-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 euc-excel-telemetry.officeapps.live.com
 0.0.0.0 euc-excel-telemetry.wac.trafficmanager.net
 0.0.0.0 euc-onenote-telemetry.officeapps.live.com
@@ -2809,6 +2798,7 @@
 0.0.0.0 events-dre.op.hicloud.com
 0.0.0.0 events-eu.freshsuccess.com
 0.0.0.0 events-sandbox.data.microsoft.com
+0.0.0.0 events-sandbox.data.msn.cn
 0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 events-us.freshsuccess.com
 0.0.0.0 events.app-performance.music.amazon.dev
@@ -2955,7 +2945,6 @@
 0.0.0.0 fls-cn.amazon-adsystem.com
 0.0.0.0 fls-cn.amazon.cn
 0.0.0.0 fls-cn.amazon.com
-0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon.ae
 0.0.0.0 fls-eu.amazon.co.uk
 0.0.0.0 fls-eu.amazon.com
@@ -2972,12 +2961,10 @@
 0.0.0.0 fls-eu.amazon.sa
 0.0.0.0 fls-eu.amazon.se
 0.0.0.0 fls-fe-opf.amazon.com
-0.0.0.0 fls-fe.amazon-adsystem.com
 0.0.0.0 fls-fe.amazon.co.jp
 0.0.0.0 fls-fe.amazon.com
 0.0.0.0 fls-fe.amazon.com.au
 0.0.0.0 fls-fe.amazon.sg
-0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.ca
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fls-na.amazon.com.br
@@ -3344,7 +3331,6 @@
 0.0.0.0 hits.theguardian.com
 0.0.0.0 hits4me.com
 0.0.0.0 hitslink.com
-0.0.0.0 hittail.com
 0.0.0.0 hizonetech.com
 0.0.0.0 hk-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 hk-info-lgsmartad-com.aws-prd.net
@@ -3427,13 +3413,11 @@
 0.0.0.0 iad.apple.com
 0.0.0.0 iadcontent.apple.com
 0.0.0.0 iadmoo.apple.com
-0.0.0.0 iadnet.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iadsdk.apple.com.akadns.net
 0.0.0.0 iadsdk.apple.com.edgekey.net
 0.0.0.0 iadworkbench.apple.com
 0.0.0.0 ibillboard.com
-0.0.0.0 icmskillevents.trafficmanager.net
 0.0.0.0 icosa-service-eu.allawnos.com
 0.0.0.0 icosa-service-fr-01.allawnos.com
 0.0.0.0 icosa-service-fr-02.allawnos.com
@@ -3464,6 +3448,7 @@
 0.0.0.0 id5-sync.com
 0.0.0.0 idealadvertising.net
 0.0.0.0 identity.browserapps.amazon.de
+0.0.0.0 identity.nel.measure.office.net.intern.schreinereistumpf.de
 0.0.0.0 idevaffiliate.com
 0.0.0.0 idiagnostics-mdn1.apple.com
 0.0.0.0 idiagnostics.apple.com
@@ -3560,6 +3545,7 @@
 0.0.0.0 in-protect-dev.sec.intl.miui.com
 0.0.0.0 in-prt-stsdk.vivoglobal.com
 0.0.0.0 in-rdx2-lgtvsdp-com.aws-prd.net
+0.0.0.0 in-rt-stsdk.vivoglobal.com
 0.0.0.0 in-third-appstore.vivoglobal.com
 0.0.0.0 in-timesync.vivoglobal.com
 0.0.0.0 in-vcode-api.vivoglobal.com
@@ -3924,6 +3910,7 @@
 0.0.0.0 links-ranking.de
 0.0.0.0 links.email.crunchbase.com
 0.0.0.0 links.housekeep.com
+0.0.0.0 links.prosservice.fr
 0.0.0.0 links.zoopla.co.uk
 0.0.0.0 linksoutside.com
 0.0.0.0 linkstable.com
@@ -4062,7 +4049,6 @@
 0.0.0.0 log15.byteoversea.com
 0.0.0.0 log16-applog-useast5.us.tiktokv.com
 0.0.0.0 log16-normal-alisg.tiktokv.com
-0.0.0.0 log16-normal-alisg.tiktokv.com.kp45.ru
 0.0.0.0 log16-normal-c-useast1a.tiktokv.com
 0.0.0.0 log16-normal-c-useast2a.tiktokv.com
 0.0.0.0 log16-normal-delay-alisg.tiktokv.com
@@ -4107,7 +4093,6 @@
 0.0.0.0 log22-applog-useast1a.tiktokv.com
 0.0.0.0 log22-applog-useast2a.tiktokv.com
 0.0.0.0 log22-normal-alisg.tiktokv.com
-0.0.0.0 log22-normal-alisg.tiktokv.com.kp45.ru
 0.0.0.0 log22-normal-sg.capcutapi.com
 0.0.0.0 log22-normal-useast1a.tiktokv.com
 0.0.0.0 log22-normal-useast2a.tiktokv.com
@@ -4550,6 +4535,7 @@
 0.0.0.0 mistat.rus.xiaomi.com.ksyna.net
 0.0.0.0 mistat.xiaomi.com
 0.0.0.0 mistat.xiaomi.com.download.ks-cdn.com
+0.0.0.0 mistat.xiaomi.com.mgslb.com
 0.0.0.0 mittencattle.com
 0.0.0.0 miui-l7-data-other-c3.pt.miui.com
 0.0.0.0 miui-l7-data-other.pt.miui.com
@@ -4642,7 +4628,6 @@
 0.0.0.0 mon15-normal-useast1a.tiktokv.com
 0.0.0.0 mon15-normal.tiktokv.com
 0.0.0.0 mon16-normal-alisg.tiktokv.com
-0.0.0.0 mon16-normal-alisg.tiktokv.com.kp45.ru
 0.0.0.0 mon16-normal-c-useast1a.tiktokv.com
 0.0.0.0 mon16-normal-c-useast2a.tiktokv.com
 0.0.0.0 mon16-normal-ie.tiktokv.eu
@@ -5140,6 +5125,7 @@
 0.0.0.0 openx.smcaen.fr
 0.0.0.0 openx2.kytary.cz
 0.0.0.0 operationchicken.com
+0.0.0.0 opex-service-eu-allawna-e3dde.fr-w01.cngw.allawnos.com
 0.0.0.0 opex-service-eu.allawnos.com
 0.0.0.0 opex-service-in.allawnos.com
 0.0.0.0 opex-service-sg.allawnos.com
@@ -5306,6 +5292,7 @@
 0.0.0.0 pgpartner.com
 0.0.0.0 pgtbr1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtbr2-excel-telemetry-vip.officeapps.live.com
+0.0.0.0 pgtca1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -5319,8 +5306,8 @@
 0.0.0.0 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu4-word-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-excel-telemetry-vip.officeapps.live.com
-0.0.0.0 pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgteu5-word-telemetry-vip.officeapps.live.com
+0.0.0.0 pgtmx1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-excel-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 0.0.0.0 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -5470,6 +5457,7 @@
 0.0.0.0 prod-event-relay-sports-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-stocks-api.v.aaplimg.com
 0.0.0.0 prod-event-relay-weather-api.v.aaplimg.com
+0.0.0.0 prod-event-relay-web-api.v.aaplimg.com
 0.0.0.0 prod-eventhub-analytics.servicebus.windows.net
 0.0.0.0 prod-iwork-events.v.aaplimg.com
 0.0.0.0 prod-news-notification-events.v.aaplimg.com
@@ -5798,7 +5786,6 @@
 0.0.0.0 rtlog16-applog-useast2a.tiktokv.com
 0.0.0.0 rtlog16-applog-useast5.us.tiktokv.com
 0.0.0.0 rtlog16-normal-alisg.tiktokv.com
-0.0.0.0 rtlog16-normal-alisg.tiktokv.com.kp45.ru
 0.0.0.0 rtlog16-normal-ie.tiktokv.eu
 0.0.0.0 rtlog16-normal-ind.tiktokv.com
 0.0.0.0 rtlog16-normal-no1a.tiktokv.eu
@@ -5835,7 +5822,6 @@
 0.0.0.0 rtlog22-applog-useast1a.tiktokv.com
 0.0.0.0 rtlog22-applog-useast2a.tiktokv.com
 0.0.0.0 rtlog22-normal-alisg.tiktokv.com
-0.0.0.0 rtlog22-normal-alisg.tiktokv.com.kp45.ru
 0.0.0.0 rtlog22-normal-useast1a.tiktokv.com
 0.0.0.0 rtlog22-normal-useast2a.tiktokv.com
 0.0.0.0 rtlog22-normal-zr-alisg.tiktokv.com
@@ -6205,7 +6191,6 @@
 0.0.0.0 shop.pandora.xiaomi.com
 0.0.0.0 shoppingads.com
 0.0.0.0 showads.pubmatic.com
-0.0.0.0 shredform.com
 0.0.0.0 shrillspoon.com
 0.0.0.0 shxtrk.com
 0.0.0.0 si-ad-lgsmartad-com.aws-prd.net
@@ -6333,6 +6318,7 @@
 0.0.0.0 sponsored-ads-eu.amazon.pl
 0.0.0.0 sponsored-ads-eu.amazon.sa
 0.0.0.0 sponsored-ads-eu.amazon.se
+0.0.0.0 sponsored-ads-euc-1.amazon-adsystem.com
 0.0.0.0 sponsored-ads-fe.amazon-adsystem.com
 0.0.0.0 sponsored-ads-na.amazon-adsystem.com
 0.0.0.0 sponsored-ads.amazon.ae
@@ -6528,13 +6514,11 @@
 0.0.0.0 systemssummit.com
 0.0.0.0 sz-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 sz-info-lgsmartad-com.aws-prd.net
-0.0.0.0 t-ring-fallback-s2.msedge.net
 0.0.0.0 t-ring-fallback.msedge.net
 0.0.0.0 t-ring-fallbacks1.msedge.net
 0.0.0.0 t-ring-s2.msedge.net
 0.0.0.0 t-ring-trafficshield.msedge.net
 0.0.0.0 t-ring.msedge.net
-0.0.0.0 t-s2-ring.msedge.net
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.bawafx.com
 0.0.0.0 t.carta.com
@@ -6635,7 +6619,6 @@
 0.0.0.0 testit.miui.com
 0.0.0.0 text-link-ads.com
 0.0.0.0 textad.sexsearch.com
-0.0.0.0 textads.biz
 0.0.0.0 textlinks.com
 0.0.0.0 tfag.de
 0.0.0.0 tg-ad-lgsmartad-com.aws-prd.net
@@ -6653,7 +6636,6 @@
 0.0.0.0 theadhost.com
 0.0.0.0 theadsparks.com
 0.0.0.0 thebicyclehut.com
-0.0.0.0 thebugs.ws
 0.0.0.0 thecrazychili.com
 0.0.0.0 themangotea.com
 0.0.0.0 themoneytizer.com
@@ -7074,7 +7056,6 @@
 0.0.0.0 us-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 us-east.ono.axp.amazon-adsystem.com
 0.0.0.0 us-info-lgsmartad-com.aws-prd.net
-0.0.0.0 us-mesh-events-data-leafs.trafficmanager.net
 0.0.0.0 us-rdx2-lgtvsdp-com.aws-prd.net
 0.0.0.0 us-report.gras.samsungdm.com
 0.0.0.0 us.a1.yimg.com

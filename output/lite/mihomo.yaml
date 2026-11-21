@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-20 05:01:33
-# Total Domains: 7,471
+# Last Updated: 2026-11-21 04:57:02
+# Total Domains: 7,452
 # ==========================================
 payload:
   - DOMAIN-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn
@@ -818,21 +818,16 @@ payload:
   - DOMAIN-SUFFIX,ads180.com
   - DOMAIN-SUFFIX,ads2.contentabc.com
   - DOMAIN-SUFFIX,ads2.femmefab.nl
-  - DOMAIN-SUFFIX,ads2.gamecity.net
   - DOMAIN-SUFFIX,ads2.msn.com
   - DOMAIN-SUFFIX,ads2.virtual-nights.com
   - DOMAIN-SUFFIX,ads2.xnet.cz
   - DOMAIN-SUFFIX,ads2004.treiberupdate.de
   - DOMAIN-SUFFIX,ads24h.net
   - DOMAIN-SUFFIX,ads3-adnow.com
-  - DOMAIN-SUFFIX,ads3.gamecity.net
   - DOMAIN-SUFFIX,ads3.virtual-nights.com
-  - DOMAIN-SUFFIX,ads4.gamecity.net
   - DOMAIN-SUFFIX,ads4.virtual-nights.com
   - DOMAIN-SUFFIX,ads4homes.com
   - DOMAIN-SUFFIX,ads5.virtual-nights.com
-  - DOMAIN-SUFFIX,ads6.gamecity.net
-  - DOMAIN-SUFFIX,ads7.gamecity.net
   - DOMAIN-SUFFIX,adsafeprotected.com
   - DOMAIN-SUFFIX,adsatt.abc.starwave.com
   - DOMAIN-SUFFIX,adsatt.abcnews.starwave.com
@@ -896,7 +891,6 @@ payload:
   - DOMAIN-SUFFIX,adserver.omroepzeeland.nl
   - DOMAIN-SUFFIX,adserver.pampa.com.br
   - DOMAIN-SUFFIX,adserver.piksel.mk
-  - DOMAIN-SUFFIX,adserver.pl
   - DOMAIN-SUFFIX,adserver.portugalmail.net
   - DOMAIN-SUFFIX,adserver.pressboard.ca
   - DOMAIN-SUFFIX,adserver.pubtech.amazon.dev
@@ -961,7 +955,6 @@ payload:
   - DOMAIN-SUFFIX,adswizz.com
   - DOMAIN-SUFFIX,adsxyz.com
   - DOMAIN-SUFFIX,adsyndication.msn.com
-  - DOMAIN-SUFFIX,adsyndication.msn.com.nsatc.net
   - DOMAIN-SUFFIX,adsynergy.com
   - DOMAIN-SUFFIX,adsys.townnews.com
   - DOMAIN-SUFFIX,adsystem.simplemachines.org
@@ -1287,7 +1280,6 @@ payload:
   - DOMAIN-SUFFIX,analytics16-normal.tiktok.com.edgesuite.net
   - DOMAIN-SUFFIX,analyticsapi.happypancake.net
   - DOMAIN-SUFFIX,analyticsehnwe.servicebus.windows.net
-  - DOMAIN-SUFFIX,analyticsiot-prod-mobileapps-ehn.servicebus.windows.net
   - DOMAIN-SUFFIX,analyticspixel.microsoft.com
   - DOMAIN-SUFFIX,ancientact.com
   - DOMAIN-SUFFIX,androiddownload.net
@@ -1511,7 +1503,6 @@ payload:
   - DOMAIN-SUFFIX,audience2media.com
   - DOMAIN-SUFFIX,audienceinsights.com
   - DOMAIN-SUFFIX,audio.ad
-  - DOMAIN-SUFFIX,audit.median.hu
   - DOMAIN-SUFFIX,audit.webinform.hu
   - DOMAIN-SUFFIX,augur.io
   - DOMAIN-SUFFIX,auth.api.gitv.tv
@@ -1762,6 +1753,7 @@ payload:
   - DOMAIN-SUFFIX,brightmountainmedia.com
   - DOMAIN-SUFFIX,broadcastbed.com
   - DOMAIN-SUFFIX,broadstreetads.com
+  - DOMAIN-SUFFIX,browser-api-au.heytapmobile.com
   - DOMAIN-SUFFIX,browser-api-br.heytapmobile.com
   - DOMAIN-SUFFIX,browser-api-fr.heytapmobile.com
   - DOMAIN-SUFFIX,browser-api-gl-01.heytapmobile.com
@@ -2506,7 +2498,6 @@ payload:
   - DOMAIN-SUFFIX,ddf.di.atlas.samsung.com
   - DOMAIN-SUFFIX,de-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,de-gdpr-err-up.vivoglobal.com
-  - DOMAIN-SUFFIX,de-gdpr-vcode-api.vivoglobal.com
   - DOMAIN-SUFFIX,de-info-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,de-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,de.pandora.xiaomi.com
@@ -2624,7 +2615,6 @@ payload:
   - DOMAIN-SUFFIX,dragate-sg.dc.heytapmobi.com
   - DOMAIN-SUFFIX,dragate-sg.dc.oppomobile.com
   - DOMAIN-SUFFIX,dragate.dc.oppomobile.com
-  - DOMAIN-SUFFIX,dragonbats.com
   - DOMAIN-SUFFIX,drm.market.xiaomi.com
   - DOMAIN-SUFFIX,drumcash.com
   - DOMAIN-SUFFIX,dsp-ad-cache-tm.trafficmanager.net
@@ -2711,7 +2701,6 @@ payload:
   - DOMAIN-SUFFIX,engage.windows.com
   - DOMAIN-SUFFIX,engagebdr.com
   - DOMAIN-SUFFIX,engageya.com
-  - DOMAIN-SUFFIX,engine.espace.netavenir.com
   - DOMAIN-SUFFIX,engineertrick.com
   - DOMAIN-SUFFIX,enginenetwork.com
   - DOMAIN-SUFFIX,enormousearth.com
@@ -2752,7 +2741,6 @@ payload:
   - DOMAIN-SUFFIX,eu-domaincfg.vivoglobal.com
   - DOMAIN-SUFFIX,eu-errup.vivoglobal.com
   - DOMAIN-SUFFIX,eu-monitor-stsdk.vivoglobal.com
-  - DOMAIN-SUFFIX,eu-nrt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,eu-onrt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,eu-ort-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,eu-p.vivoglobal.com
@@ -2766,6 +2754,7 @@ payload:
   - DOMAIN-SUFFIX,eu-vcode-od.vivoglobal.com
   - DOMAIN-SUFFIX,eu-vcode-or.vivoglobal.com
   - DOMAIN-SUFFIX,eu7-info-lgsmartad-com.aws-prd.net
+  - DOMAIN-SUFFIX,eu7-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,euc-excel-telemetry.wac.trafficmanager.net
   - DOMAIN-SUFFIX,euc-onenote-telemetry.officeapps.live.com
@@ -2808,6 +2797,7 @@ payload:
   - DOMAIN-SUFFIX,events-dre.op.hicloud.com
   - DOMAIN-SUFFIX,events-eu.freshsuccess.com
   - DOMAIN-SUFFIX,events-sandbox.data.microsoft.com
+  - DOMAIN-SUFFIX,events-sandbox.data.msn.cn
   - DOMAIN-SUFFIX,events-sandbox.data.msn.com
   - DOMAIN-SUFFIX,events-us.freshsuccess.com
   - DOMAIN-SUFFIX,events.app-performance.music.amazon.dev
@@ -2954,7 +2944,6 @@ payload:
   - DOMAIN-SUFFIX,fls-cn.amazon-adsystem.com
   - DOMAIN-SUFFIX,fls-cn.amazon.cn
   - DOMAIN-SUFFIX,fls-cn.amazon.com
-  - DOMAIN-SUFFIX,fls-eu.amazon-adsystem.com
   - DOMAIN-SUFFIX,fls-eu.amazon.ae
   - DOMAIN-SUFFIX,fls-eu.amazon.co.uk
   - DOMAIN-SUFFIX,fls-eu.amazon.com
@@ -2971,12 +2960,10 @@ payload:
   - DOMAIN-SUFFIX,fls-eu.amazon.sa
   - DOMAIN-SUFFIX,fls-eu.amazon.se
   - DOMAIN-SUFFIX,fls-fe-opf.amazon.com
-  - DOMAIN-SUFFIX,fls-fe.amazon-adsystem.com
   - DOMAIN-SUFFIX,fls-fe.amazon.co.jp
   - DOMAIN-SUFFIX,fls-fe.amazon.com
   - DOMAIN-SUFFIX,fls-fe.amazon.com.au
   - DOMAIN-SUFFIX,fls-fe.amazon.sg
-  - DOMAIN-SUFFIX,fls-na.amazon-adsystem.com
   - DOMAIN-SUFFIX,fls-na.amazon.ca
   - DOMAIN-SUFFIX,fls-na.amazon.com
   - DOMAIN-SUFFIX,fls-na.amazon.com.br
@@ -3343,7 +3330,6 @@ payload:
   - DOMAIN-SUFFIX,hits.theguardian.com
   - DOMAIN-SUFFIX,hits4me.com
   - DOMAIN-SUFFIX,hitslink.com
-  - DOMAIN-SUFFIX,hittail.com
   - DOMAIN-SUFFIX,hizonetech.com
   - DOMAIN-SUFFIX,hk-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,hk-info-lgsmartad-com.aws-prd.net
@@ -3426,13 +3412,11 @@ payload:
   - DOMAIN-SUFFIX,iad.apple.com
   - DOMAIN-SUFFIX,iadcontent.apple.com
   - DOMAIN-SUFFIX,iadmoo.apple.com
-  - DOMAIN-SUFFIX,iadnet.com
   - DOMAIN-SUFFIX,iadsdk.apple.com
   - DOMAIN-SUFFIX,iadsdk.apple.com.akadns.net
   - DOMAIN-SUFFIX,iadsdk.apple.com.edgekey.net
   - DOMAIN-SUFFIX,iadworkbench.apple.com
   - DOMAIN-SUFFIX,ibillboard.com
-  - DOMAIN-SUFFIX,icmskillevents.trafficmanager.net
   - DOMAIN-SUFFIX,icosa-service-eu.allawnos.com
   - DOMAIN-SUFFIX,icosa-service-fr-01.allawnos.com
   - DOMAIN-SUFFIX,icosa-service-fr-02.allawnos.com
@@ -3463,6 +3447,7 @@ payload:
   - DOMAIN-SUFFIX,id5-sync.com
   - DOMAIN-SUFFIX,idealadvertising.net
   - DOMAIN-SUFFIX,identity.browserapps.amazon.de
+  - DOMAIN-SUFFIX,identity.nel.measure.office.net.intern.schreinereistumpf.de
   - DOMAIN-SUFFIX,idevaffiliate.com
   - DOMAIN-SUFFIX,idiagnostics-mdn1.apple.com
   - DOMAIN-SUFFIX,idiagnostics.apple.com
@@ -3559,6 +3544,7 @@ payload:
   - DOMAIN-SUFFIX,in-protect-dev.sec.intl.miui.com
   - DOMAIN-SUFFIX,in-prt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,in-rdx2-lgtvsdp-com.aws-prd.net
+  - DOMAIN-SUFFIX,in-rt-stsdk.vivoglobal.com
   - DOMAIN-SUFFIX,in-third-appstore.vivoglobal.com
   - DOMAIN-SUFFIX,in-timesync.vivoglobal.com
   - DOMAIN-SUFFIX,in-vcode-api.vivoglobal.com
@@ -3923,6 +3909,7 @@ payload:
   - DOMAIN-SUFFIX,links-ranking.de
   - DOMAIN-SUFFIX,links.email.crunchbase.com
   - DOMAIN-SUFFIX,links.housekeep.com
+  - DOMAIN-SUFFIX,links.prosservice.fr
   - DOMAIN-SUFFIX,links.zoopla.co.uk
   - DOMAIN-SUFFIX,linksoutside.com
   - DOMAIN-SUFFIX,linkstable.com
@@ -4061,7 +4048,6 @@ payload:
   - DOMAIN-SUFFIX,log15.byteoversea.com
   - DOMAIN-SUFFIX,log16-applog-useast5.us.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-alisg.tiktokv.com
-  - DOMAIN-SUFFIX,log16-normal-alisg.tiktokv.com.kp45.ru
   - DOMAIN-SUFFIX,log16-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-c-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log16-normal-delay-alisg.tiktokv.com
@@ -4106,7 +4092,6 @@ payload:
   - DOMAIN-SUFFIX,log22-applog-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log22-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,log22-normal-alisg.tiktokv.com
-  - DOMAIN-SUFFIX,log22-normal-alisg.tiktokv.com.kp45.ru
   - DOMAIN-SUFFIX,log22-normal-sg.capcutapi.com
   - DOMAIN-SUFFIX,log22-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,log22-normal-useast2a.tiktokv.com
@@ -4549,6 +4534,7 @@ payload:
   - DOMAIN-SUFFIX,mistat.rus.xiaomi.com.ksyna.net
   - DOMAIN-SUFFIX,mistat.xiaomi.com
   - DOMAIN-SUFFIX,mistat.xiaomi.com.download.ks-cdn.com
+  - DOMAIN-SUFFIX,mistat.xiaomi.com.mgslb.com
   - DOMAIN-SUFFIX,mittencattle.com
   - DOMAIN-SUFFIX,miui-l7-data-other-c3.pt.miui.com
   - DOMAIN-SUFFIX,miui-l7-data-other.pt.miui.com
@@ -4641,7 +4627,6 @@ payload:
   - DOMAIN-SUFFIX,mon15-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon15-normal.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-alisg.tiktokv.com
-  - DOMAIN-SUFFIX,mon16-normal-alisg.tiktokv.com.kp45.ru
   - DOMAIN-SUFFIX,mon16-normal-c-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-c-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,mon16-normal-ie.tiktokv.eu
@@ -5139,6 +5124,7 @@ payload:
   - DOMAIN-SUFFIX,openx.smcaen.fr
   - DOMAIN-SUFFIX,openx2.kytary.cz
   - DOMAIN-SUFFIX,operationchicken.com
+  - DOMAIN-SUFFIX,opex-service-eu-allawna-e3dde.fr-w01.cngw.allawnos.com
   - DOMAIN-SUFFIX,opex-service-eu.allawnos.com
   - DOMAIN-SUFFIX,opex-service-in.allawnos.com
   - DOMAIN-SUFFIX,opex-service-sg.allawnos.com
@@ -5305,6 +5291,7 @@ payload:
   - DOMAIN-SUFFIX,pgpartner.com
   - DOMAIN-SUFFIX,pgtbr1-excel-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgtbr2-excel-telemetry-vip.officeapps.live.com
+  - DOMAIN-SUFFIX,pgtca1-powerpoint-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgteu1-excel-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgteu1-powerpoint-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgteu1-word-telemetry-vip.officeapps.live.com
@@ -5318,8 +5305,8 @@ payload:
   - DOMAIN-SUFFIX,pgteu4-powerpoint-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgteu4-word-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgteu5-excel-telemetry-vip.officeapps.live.com
-  - DOMAIN-SUFFIX,pgteu5-powerpoint-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgteu5-word-telemetry-vip.officeapps.live.com
+  - DOMAIN-SUFFIX,pgtmx1-excel-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgtus1-excel-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgtus1-powerpoint-telemetry-vip.officeapps.live.com
   - DOMAIN-SUFFIX,pgtus1-word-telemetry-vip.officeapps.live.com
@@ -5469,6 +5456,7 @@ payload:
   - DOMAIN-SUFFIX,prod-event-relay-sports-api.v.aaplimg.com
   - DOMAIN-SUFFIX,prod-event-relay-stocks-api.v.aaplimg.com
   - DOMAIN-SUFFIX,prod-event-relay-weather-api.v.aaplimg.com
+  - DOMAIN-SUFFIX,prod-event-relay-web-api.v.aaplimg.com
   - DOMAIN-SUFFIX,prod-eventhub-analytics.servicebus.windows.net
   - DOMAIN-SUFFIX,prod-iwork-events.v.aaplimg.com
   - DOMAIN-SUFFIX,prod-news-notification-events.v.aaplimg.com
@@ -5797,7 +5785,6 @@ payload:
   - DOMAIN-SUFFIX,rtlog16-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-applog-useast5.us.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-normal-alisg.tiktokv.com
-  - DOMAIN-SUFFIX,rtlog16-normal-alisg.tiktokv.com.kp45.ru
   - DOMAIN-SUFFIX,rtlog16-normal-ie.tiktokv.eu
   - DOMAIN-SUFFIX,rtlog16-normal-ind.tiktokv.com
   - DOMAIN-SUFFIX,rtlog16-normal-no1a.tiktokv.eu
@@ -5834,7 +5821,6 @@ payload:
   - DOMAIN-SUFFIX,rtlog22-applog-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-applog-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-normal-alisg.tiktokv.com
-  - DOMAIN-SUFFIX,rtlog22-normal-alisg.tiktokv.com.kp45.ru
   - DOMAIN-SUFFIX,rtlog22-normal-useast1a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-normal-useast2a.tiktokv.com
   - DOMAIN-SUFFIX,rtlog22-normal-zr-alisg.tiktokv.com
@@ -6204,7 +6190,6 @@ payload:
   - DOMAIN-SUFFIX,shop.pandora.xiaomi.com
   - DOMAIN-SUFFIX,shoppingads.com
   - DOMAIN-SUFFIX,showads.pubmatic.com
-  - DOMAIN-SUFFIX,shredform.com
   - DOMAIN-SUFFIX,shrillspoon.com
   - DOMAIN-SUFFIX,shxtrk.com
   - DOMAIN-SUFFIX,si-ad-lgsmartad-com.aws-prd.net
@@ -6332,6 +6317,7 @@ payload:
   - DOMAIN-SUFFIX,sponsored-ads-eu.amazon.pl
   - DOMAIN-SUFFIX,sponsored-ads-eu.amazon.sa
   - DOMAIN-SUFFIX,sponsored-ads-eu.amazon.se
+  - DOMAIN-SUFFIX,sponsored-ads-euc-1.amazon-adsystem.com
   - DOMAIN-SUFFIX,sponsored-ads-fe.amazon-adsystem.com
   - DOMAIN-SUFFIX,sponsored-ads-na.amazon-adsystem.com
   - DOMAIN-SUFFIX,sponsored-ads.amazon.ae
@@ -6527,13 +6513,11 @@ payload:
   - DOMAIN-SUFFIX,systemssummit.com
   - DOMAIN-SUFFIX,sz-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,sz-info-lgsmartad-com.aws-prd.net
-  - DOMAIN-SUFFIX,t-ring-fallback-s2.msedge.net
   - DOMAIN-SUFFIX,t-ring-fallback.msedge.net
   - DOMAIN-SUFFIX,t-ring-fallbacks1.msedge.net
   - DOMAIN-SUFFIX,t-ring-s2.msedge.net
   - DOMAIN-SUFFIX,t-ring-trafficshield.msedge.net
   - DOMAIN-SUFFIX,t-ring.msedge.net
-  - DOMAIN-SUFFIX,t-s2-ring.msedge.net
   - DOMAIN-SUFFIX,t.appsflyer.com
   - DOMAIN-SUFFIX,t.bawafx.com
   - DOMAIN-SUFFIX,t.carta.com
@@ -6634,7 +6618,6 @@ payload:
   - DOMAIN-SUFFIX,testit.miui.com
   - DOMAIN-SUFFIX,text-link-ads.com
   - DOMAIN-SUFFIX,textad.sexsearch.com
-  - DOMAIN-SUFFIX,textads.biz
   - DOMAIN-SUFFIX,textlinks.com
   - DOMAIN-SUFFIX,tfag.de
   - DOMAIN-SUFFIX,tg-ad-lgsmartad-com.aws-prd.net
@@ -6652,7 +6635,6 @@ payload:
   - DOMAIN-SUFFIX,theadhost.com
   - DOMAIN-SUFFIX,theadsparks.com
   - DOMAIN-SUFFIX,thebicyclehut.com
-  - DOMAIN-SUFFIX,thebugs.ws
   - DOMAIN-SUFFIX,thecrazychili.com
   - DOMAIN-SUFFIX,themangotea.com
   - DOMAIN-SUFFIX,themoneytizer.com
@@ -7073,7 +7055,6 @@ payload:
   - DOMAIN-SUFFIX,us-ad-lgsmartad-com.aws-prd.net
   - DOMAIN-SUFFIX,us-east.ono.axp.amazon-adsystem.com
   - DOMAIN-SUFFIX,us-info-lgsmartad-com.aws-prd.net
-  - DOMAIN-SUFFIX,us-mesh-events-data-leafs.trafficmanager.net
   - DOMAIN-SUFFIX,us-rdx2-lgtvsdp-com.aws-prd.net
   - DOMAIN-SUFFIX,us-report.gras.samsungdm.com
   - DOMAIN-SUFFIX,us.a1.yimg.com
