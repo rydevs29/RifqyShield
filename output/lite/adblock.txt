@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-11-22 04:17:41
-! Total Domains: 7,452
+! Last Updated: 2026-11-23 04:56:20
+! Total Domains: 7,454
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -2900,6 +2900,7 @@
 ||fenxi.com^
 ||ffc-excel-telemetry.officeapps.live.com^
 ||ffc-word-telemetry.officeapps.live.com^
+||fhvfd.com^
 ||fi-ad-lgsmartad-com.aws-prd.net^
 ||fi-info-lgsmartad-com.aws-prd.net^
 ||fi-rdx2-lgtvsdp-com.aws-prd.net^
@@ -4854,6 +4855,7 @@
 ||nappyattack.com^
 ||nappyneck.com^
 ||nastydollars.com^
+||native123.com^
 ||nativeroll.tv^
 ||nav.sec.miui.com^
 ||navegg.com^

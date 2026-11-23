@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-22 04:17:41
-# Total Domains: 7,452
+# Last Updated: 2026-11-23 04:56:20
+# Total Domains: 7,454
 # ==========================================
 0001-metrics1-data-hicloud-com.geac.dbankedge.cn CNAME .
 0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn CNAME .
@@ -2900,6 +2900,7 @@ femalecook.com CNAME .
 fenxi.com CNAME .
 ffc-excel-telemetry.officeapps.live.com CNAME .
 ffc-word-telemetry.officeapps.live.com CNAME .
+fhvfd.com CNAME .
 fi-ad-lgsmartad-com.aws-prd.net CNAME .
 fi-info-lgsmartad-com.aws-prd.net CNAME .
 fi-rdx2-lgtvsdp-com.aws-prd.net CNAME .
@@ -4854,6 +4855,7 @@ nakedly.ai CNAME .
 nappyattack.com CNAME .
 nappyneck.com CNAME .
 nastydollars.com CNAME .
+native123.com CNAME .
 nativeroll.tv CNAME .
 nav.sec.miui.com CNAME .
 navegg.com CNAME .

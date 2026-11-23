@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-22 04:17:41
-# Total Domains: 7,452
+# Last Updated: 2026-11-23 04:56:20
+# Total Domains: 7,454
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -2902,6 +2902,7 @@
 0.0.0.0 fenxi.com
 0.0.0.0 ffc-excel-telemetry.officeapps.live.com
 0.0.0.0 ffc-word-telemetry.officeapps.live.com
+0.0.0.0 fhvfd.com
 0.0.0.0 fi-ad-lgsmartad-com.aws-prd.net
 0.0.0.0 fi-info-lgsmartad-com.aws-prd.net
 0.0.0.0 fi-rdx2-lgtvsdp-com.aws-prd.net
@@ -4856,6 +4857,7 @@
 0.0.0.0 nappyattack.com
 0.0.0.0 nappyneck.com
 0.0.0.0 nastydollars.com
+0.0.0.0 native123.com
 0.0.0.0 nativeroll.tv
 0.0.0.0 nav.sec.miui.com
 0.0.0.0 navegg.com

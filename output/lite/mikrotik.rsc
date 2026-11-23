@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-22 04:17:41
-# Total Domains: 7,452
+# Last Updated: 2026-11-23 04:56:20
+# Total Domains: 7,454
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -2901,6 +2901,7 @@ add name="femalecook.com" address=0.0.0.0
 add name="fenxi.com" address=0.0.0.0
 add name="ffc-excel-telemetry.officeapps.live.com" address=0.0.0.0
 add name="ffc-word-telemetry.officeapps.live.com" address=0.0.0.0
+add name="fhvfd.com" address=0.0.0.0
 add name="fi-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="fi-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="fi-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
@@ -4855,6 +4856,7 @@ add name="nakedly.ai" address=0.0.0.0
 add name="nappyattack.com" address=0.0.0.0
 add name="nappyneck.com" address=0.0.0.0
 add name="nastydollars.com" address=0.0.0.0
+add name="native123.com" address=0.0.0.0
 add name="nativeroll.tv" address=0.0.0.0
 add name="nav.sec.miui.com" address=0.0.0.0
 add name="navegg.com" address=0.0.0.0

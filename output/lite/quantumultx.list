@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-22 04:17:41
-# Total Domains: 7,452
+# Last Updated: 2026-11-23 04:56:20
+# Total Domains: 7,454
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -2900,6 +2900,7 @@ HOST-SUFFIX,femalecook.com,reject
 HOST-SUFFIX,fenxi.com,reject
 HOST-SUFFIX,ffc-excel-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,ffc-word-telemetry.officeapps.live.com,reject
+HOST-SUFFIX,fhvfd.com,reject
 HOST-SUFFIX,fi-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,fi-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,fi-rdx2-lgtvsdp-com.aws-prd.net,reject
@@ -4854,6 +4855,7 @@ HOST-SUFFIX,nakedly.ai,reject
 HOST-SUFFIX,nappyattack.com,reject
 HOST-SUFFIX,nappyneck.com,reject
 HOST-SUFFIX,nastydollars.com,reject
+HOST-SUFFIX,native123.com,reject
 HOST-SUFFIX,nativeroll.tv,reject
 HOST-SUFFIX,nav.sec.miui.com,reject
 HOST-SUFFIX,navegg.com,reject
