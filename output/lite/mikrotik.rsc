@@ -1,5 +1,5 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-24 07:45:01
+# Last Updated: 2026-11-25 06:16:45
 # Total Domains: 7,454
 # ==========================================
 /ip dns static
