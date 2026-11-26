@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-25 06:16:45
-# Total Domains: 7,454
+# Last Updated: 2026-11-26 06:08:29
+# Total Domains: 7,455
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -6661,6 +6661,7 @@
 0.0.0.0 tidysprite.com
 0.0.0.0 tiktok-perf.mncdn.com
 0.0.0.0 time.video.ptqy.gitv.tv
+0.0.0.0 timeprince.com
 0.0.0.0 tinybar.com
 0.0.0.0 tinybluewhale.com
 0.0.0.0 tinytendency.com

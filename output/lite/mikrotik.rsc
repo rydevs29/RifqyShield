@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-25 06:16:45
-# Total Domains: 7,454
+# Last Updated: 2026-11-26 06:08:29
+# Total Domains: 7,455
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -6660,6 +6660,7 @@ add name="tidaltv.com" address=0.0.0.0
 add name="tidysprite.com" address=0.0.0.0
 add name="tiktok-perf.mncdn.com" address=0.0.0.0
 add name="time.video.ptqy.gitv.tv" address=0.0.0.0
+add name="timeprince.com" address=0.0.0.0
 add name="tinybar.com" address=0.0.0.0
 add name="tinybluewhale.com" address=0.0.0.0
 add name="tinytendency.com" address=0.0.0.0

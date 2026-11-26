@@ -1,5 +1,5 @@
 # Title: RifqyShield Mobile-id
-# Last Updated: 2026-11-25 06:16:55
+# Last Updated: 2026-11-26 06:08:41
 # Total Domains: 1,231
 # ==========================================
 18.afs.googleadservices.com CNAME .

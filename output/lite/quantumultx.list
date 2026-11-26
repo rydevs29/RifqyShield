@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-25 06:16:45
-# Total Domains: 7,454
+# Last Updated: 2026-11-26 06:08:29
+# Total Domains: 7,455
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -6659,6 +6659,7 @@ HOST-SUFFIX,tidaltv.com,reject
 HOST-SUFFIX,tidysprite.com,reject
 HOST-SUFFIX,tiktok-perf.mncdn.com,reject
 HOST-SUFFIX,time.video.ptqy.gitv.tv,reject
+HOST-SUFFIX,timeprince.com,reject
 HOST-SUFFIX,tinybar.com,reject
 HOST-SUFFIX,tinybluewhale.com,reject
 HOST-SUFFIX,tinytendency.com,reject

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-25 06:16:45
-# Total Domains: 7,454
+# Last Updated: 2026-11-26 06:08:29
+# Total Domains: 7,455
 # ==========================================
 *.0001-metrics1-data-hicloud-com.geac.dbankedge.cn
 *.0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn
@@ -6659,6 +6659,7 @@
 *.tidysprite.com
 *.tiktok-perf.mncdn.com
 *.time.video.ptqy.gitv.tv
+*.timeprince.com
 *.tinybar.com
 *.tinybluewhale.com
 *.tinytendency.com
