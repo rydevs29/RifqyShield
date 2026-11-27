@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-26 06:08:29
-# Total Domains: 7,455
+# Last Updated: 2026-11-27 05:59:03
+# Total Domains: 7,457
 # ==========================================
 127.0.0.1 localhost
 ::1 localhost
@@ -1641,6 +1641,7 @@
 0.0.0.0 benefits.sovendus.com
 0.0.0.0 benfly.net
 0.0.0.0 berp.com
+0.0.0.0 berrytots.com
 0.0.0.0 bespoke.iln8.net
 0.0.0.0 bestboundary.com
 0.0.0.0 bestbuy.7tiv.net
@@ -1874,6 +1875,7 @@
 0.0.0.0 calypsocapsule.com
 0.0.0.0 campaign.bharatmatrimony.com
 0.0.0.0 caniamedia.com
+0.0.0.0 capablepotato.com
 0.0.0.0 capitalopera.com
 0.0.0.0 capriciouscorn.com
 0.0.0.0 captainbicycle.com

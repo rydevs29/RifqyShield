@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-26 06:08:29
-# Total Domains: 7,455
+# Last Updated: 2026-11-27 05:59:03
+# Total Domains: 7,457
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -1640,6 +1640,7 @@ add name="belstat.nl" address=0.0.0.0
 add name="benefits.sovendus.com" address=0.0.0.0
 add name="benfly.net" address=0.0.0.0
 add name="berp.com" address=0.0.0.0
+add name="berrytots.com" address=0.0.0.0
 add name="bespoke.iln8.net" address=0.0.0.0
 add name="bestboundary.com" address=0.0.0.0
 add name="bestbuy.7tiv.net" address=0.0.0.0
@@ -1873,6 +1874,7 @@ add name="calmcactus.com" address=0.0.0.0
 add name="calypsocapsule.com" address=0.0.0.0
 add name="campaign.bharatmatrimony.com" address=0.0.0.0
 add name="caniamedia.com" address=0.0.0.0
+add name="capablepotato.com" address=0.0.0.0
 add name="capitalopera.com" address=0.0.0.0
 add name="capriciouscorn.com" address=0.0.0.0
 add name="captainbicycle.com" address=0.0.0.0

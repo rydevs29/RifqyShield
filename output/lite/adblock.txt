@@ -1,6 +1,6 @@
 ! Title: RifqyShield Lite
-! Last Updated: 2026-11-26 06:08:29
-! Total Domains: 7,455
+! Last Updated: 2026-11-27 05:59:03
+! Total Domains: 7,457
 ! ==========================================
 ||0001-metrics1-data-hicloud-com.geac.dbankedge.cn^
 ||0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn^
@@ -1639,6 +1639,7 @@
 ||benefits.sovendus.com^
 ||benfly.net^
 ||berp.com^
+||berrytots.com^
 ||bespoke.iln8.net^
 ||bestboundary.com^
 ||bestbuy.7tiv.net^
@@ -1872,6 +1873,7 @@
 ||calypsocapsule.com^
 ||campaign.bharatmatrimony.com^
 ||caniamedia.com^
+||capablepotato.com^
 ||capitalopera.com^
 ||capriciouscorn.com^
 ||captainbicycle.com^
