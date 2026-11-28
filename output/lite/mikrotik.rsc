@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-27 05:59:03
-# Total Domains: 7,457
+# Last Updated: 2026-11-28 05:40:56
+# Total Domains: 7,481
 # ==========================================
 /ip dns static
 add name="0001-metrics1-data-hicloud-com.geac.dbankedge.cn" address=0.0.0.0
@@ -318,6 +318,7 @@ add name="ad.wavu.hu" address=0.0.0.0
 add name="ad.weatherbug.com" address=0.0.0.0
 add name="ad.wz.cz" address=0.0.0.0
 add name="ad.xiaomi.com" address=0.0.0.0
+add name="ad.xiaomi.com.mgslb.com" address=0.0.0.0
 add name="ad.xmovies8.si" address=0.0.0.0
 add name="ad.xrea.com" address=0.0.0.0
 add name="ad.ztylez.com" address=0.0.0.0
@@ -818,16 +819,21 @@ add name="ads16-normal-useastred.tiktokw.eu" address=0.0.0.0
 add name="ads180.com" address=0.0.0.0
 add name="ads2.contentabc.com" address=0.0.0.0
 add name="ads2.femmefab.nl" address=0.0.0.0
+add name="ads2.gamecity.net" address=0.0.0.0
 add name="ads2.msn.com" address=0.0.0.0
 add name="ads2.virtual-nights.com" address=0.0.0.0
 add name="ads2.xnet.cz" address=0.0.0.0
 add name="ads2004.treiberupdate.de" address=0.0.0.0
 add name="ads24h.net" address=0.0.0.0
 add name="ads3-adnow.com" address=0.0.0.0
+add name="ads3.gamecity.net" address=0.0.0.0
 add name="ads3.virtual-nights.com" address=0.0.0.0
+add name="ads4.gamecity.net" address=0.0.0.0
 add name="ads4.virtual-nights.com" address=0.0.0.0
 add name="ads4homes.com" address=0.0.0.0
 add name="ads5.virtual-nights.com" address=0.0.0.0
+add name="ads6.gamecity.net" address=0.0.0.0
+add name="ads7.gamecity.net" address=0.0.0.0
 add name="adsafeprotected.com" address=0.0.0.0
 add name="adsatt.abc.starwave.com" address=0.0.0.0
 add name="adsatt.abcnews.starwave.com" address=0.0.0.0
@@ -891,6 +897,7 @@ add name="adserver.oddschecker.com" address=0.0.0.0
 add name="adserver.omroepzeeland.nl" address=0.0.0.0
 add name="adserver.pampa.com.br" address=0.0.0.0
 add name="adserver.piksel.mk" address=0.0.0.0
+add name="adserver.pl" address=0.0.0.0
 add name="adserver.portugalmail.net" address=0.0.0.0
 add name="adserver.pressboard.ca" address=0.0.0.0
 add name="adserver.pubtech.amazon.dev" address=0.0.0.0
@@ -955,6 +962,7 @@ add name="adsupply.com" address=0.0.0.0
 add name="adswizz.com" address=0.0.0.0
 add name="adsxyz.com" address=0.0.0.0
 add name="adsyndication.msn.com" address=0.0.0.0
+add name="adsyndication.msn.com.nsatc.net" address=0.0.0.0
 add name="adsynergy.com" address=0.0.0.0
 add name="adsys.townnews.com" address=0.0.0.0
 add name="adsystem.simplemachines.org" address=0.0.0.0
@@ -1048,6 +1056,7 @@ add name="adwhirl.com" address=0.0.0.0
 add name="adworldnetwork.com" address=0.0.0.0
 add name="adworx.at" address=0.0.0.0
 add name="adworx.nl" address=0.0.0.0
+add name="adx-ads-fr-heytapmobila-c7870.fr-w01.cngw.heytapmobile.com" address=0.0.0.0
 add name="adx-ads-fr.heytapmobile.com" address=0.0.0.0
 add name="adx-ads-ru.heytapmobile.com" address=0.0.0.0
 add name="adx-ads.realmemobile.com" address=0.0.0.0
@@ -1071,6 +1080,7 @@ add name="adx-op-fr.heytapmobile.com" address=0.0.0.0
 add name="adx-op-in.heytapmobile.com" address=0.0.0.0
 add name="adx-op-ru.heytapmobile.com" address=0.0.0.0
 add name="adx-op-sg.heytapmobile.com" address=0.0.0.0
+add name="adx-u-fr.heytapmobile.com" address=0.0.0.0
 add name="adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com" address=0.0.0.0
 add name="adx-u-in.heytapmobile.com" address=0.0.0.0
 add name="adx-u-ru.heytapmobile.com" address=0.0.0.0
@@ -1578,6 +1588,7 @@ add name="bannerpower.com" address=0.0.0.0
 add name="banners.adultfriendfinder.com" address=0.0.0.0
 add name="banners.amigos.com" address=0.0.0.0
 add name="banners.asiafriendfinder.com" address=0.0.0.0
+add name="banners.babylon-x.com" address=0.0.0.0
 add name="banners.bol.com.br" address=0.0.0.0
 add name="banners.cams.com" address=0.0.0.0
 add name="banners.czi.cz" address=0.0.0.0
@@ -1701,7 +1712,6 @@ add name="blueconic.com" address=0.0.0.0
 add name="blueconic.net" address=0.0.0.0
 add name="bluekai.com" address=0.0.0.0
 add name="bluelithium.com" address=0.0.0.0
-add name="bluenest.net" address=0.0.0.0
 add name="bluewhaleweb.com" address=0.0.0.0
 add name="blushingbeast.com" address=0.0.0.0
 add name="blushingbread.com" address=0.0.0.0
@@ -1718,7 +1728,6 @@ add name="boilingbeetle.com" address=0.0.0.0
 add name="boilingmadsoup.com" address=0.0.0.0
 add name="bongacash.com" address=0.0.0.0
 add name="books-analytics-events.apple.com" address=0.0.0.0
-add name="books-analytics-events.news.apple-dns.net" address=0.0.0.0
 add name="boomads.com" address=0.0.0.0
 add name="boomtrain.com" address=0.0.0.0
 add name="boredcrown.com" address=0.0.0.0
@@ -1762,6 +1771,7 @@ add name="browser-api-gl.heytapmobile.com" address=0.0.0.0
 add name="browser-api-id.heytapmobile.com" address=0.0.0.0
 add name="browser-api-in.heytapmobile.com" address=0.0.0.0
 add name="browser-api-my.heytapmobile.com" address=0.0.0.0
+add name="browser-api-nz.heytapmobile.com" address=0.0.0.0
 add name="browser-api-ph.heytapmobile.com" address=0.0.0.0
 add name="browser-api-ru.heytapmobile.com" address=0.0.0.0
 add name="browser-api-th.heytapmobile.com" address=0.0.0.0
@@ -1857,6 +1867,7 @@ add name="c1exchange.com" address=0.0.0.0
 add name="c212.net" address=0.0.0.0
 add name="c3-bgp.pandora.xiaomi.com" address=0.0.0.0
 add name="c3mini.pandora.xiaomi.com" address=0.0.0.0
+add name="c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net" address=0.0.0.0
 add name="ca-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ca-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ca-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
@@ -2059,7 +2070,6 @@ add name="click.redditmail.com" address=0.0.0.0
 add name="click.uber.com" address=0.0.0.0
 add name="click.v.visionlab.es" address=0.0.0.0
 add name="click2freemoney.com" address=0.0.0.0
-add name="click4.pro" address=0.0.0.0
 add name="clickadddilla.com" address=0.0.0.0
 add name="clickadu.io" address=0.0.0.0
 add name="clickadz.com" address=0.0.0.0
@@ -2299,6 +2309,7 @@ add name="conf-sg-dc.heytapdl.com" address=0.0.0.0
 add name="confiant-integrations.net" address=0.0.0.0
 add name="confiant.msn.com" address=0.0.0.0
 add name="confidencetalks.com" address=0.0.0.0
+add name="config.fp.measure.office.com.homeonair.net" address=0.0.0.0
 add name="configv2.unityads.unity3d.com" address=0.0.0.0
 add name="conn-service-cn-03.allawntech.com" address=0.0.0.0
 add name="conn-service-cn-04.allawntech.com" address=0.0.0.0
@@ -2662,6 +2673,9 @@ add name="eclick.vn" address=0.0.0.0
 add name="eclicks.deliveroo.com" address=0.0.0.0
 add name="eclkspbn.com" address=0.0.0.0
 add name="ecoupons.com" address=0.0.0.0
+add name="ecs.nel.measure.office.net.edf.fr" address=0.0.0.0
+add name="ecs.nel.measure.office.net.grt.edf.fr" address=0.0.0.0
+add name="ecs.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="edaa.eu" address=0.0.0.0
 add name="edgexads.com" address=0.0.0.0
 add name="ee-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -2743,6 +2757,7 @@ add name="eu-cota.vivoglobal.com" address=0.0.0.0
 add name="eu-domaincfg.vivoglobal.com" address=0.0.0.0
 add name="eu-errup.vivoglobal.com" address=0.0.0.0
 add name="eu-monitor-stsdk.vivoglobal.com" address=0.0.0.0
+add name="eu-nrt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="eu-onrt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="eu-ort-stsdk.vivoglobal.com" address=0.0.0.0
 add name="eu-p.vivoglobal.com" address=0.0.0.0
@@ -2799,7 +2814,6 @@ add name="events-dre.op.dbankcloud.com" address=0.0.0.0
 add name="events-dre.op.hicloud.com" address=0.0.0.0
 add name="events-eu.freshsuccess.com" address=0.0.0.0
 add name="events-sandbox.data.microsoft.com" address=0.0.0.0
-add name="events-sandbox.data.msn.cn" address=0.0.0.0
 add name="events-sandbox.data.msn.com" address=0.0.0.0
 add name="events-us.freshsuccess.com" address=0.0.0.0
 add name="events.app-performance.music.amazon.dev" address=0.0.0.0
@@ -2822,6 +2836,7 @@ add name="ex-romsp-unifyconfig.vivoglobal.com" address=0.0.0.0
 add name="exampleshake.com" address=0.0.0.0
 add name="excel-telemetry.officeapps.live.com" address=0.0.0.0
 add name="excel-telemetry.wac.trafficmanager.net" address=0.0.0.0
+add name="excelonline.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="exchange-it.com" address=0.0.0.0
 add name="exchangead.com" address=0.0.0.0
 add name="exchangeclicksonline.com" address=0.0.0.0
@@ -2831,6 +2846,7 @@ add name="exhibitsneeze.com" address=0.0.0.0
 add name="exit76.com" address=0.0.0.0
 add name="exitexchange.com" address=0.0.0.0
 add name="exitfuel.com" address=0.0.0.0
+add name="exo.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="exoclick.com" address=0.0.0.0
 add name="exosrv.com" address=0.0.0.0
 add name="experianmarketingservices.digital" address=0.0.0.0
@@ -2892,7 +2908,6 @@ add name="feedback.miui.com" address=0.0.0.0
 add name="feedback.search.microsoft.com" address=0.0.0.0
 add name="feedbackresearch.com" address=0.0.0.0
 add name="feedbackws.fe.apple-dns.cn" address=0.0.0.0
-add name="feedbackws.fe.apple-dns.net" address=0.0.0.0
 add name="feedbackws.fe2.apple-dns.net" address=0.0.0.0
 add name="feedbackws.icloud.com" address=0.0.0.0
 add name="feedbackws.icloud.com.cn" address=0.0.0.0
@@ -3005,10 +3020,10 @@ add name="freelogs.com" address=0.0.0.0
 add name="freepay.com" address=0.0.0.0
 add name="freestats.com" address=0.0.0.0
 add name="freestats.tv" address=0.0.0.0
+add name="freewebcounter.com" address=0.0.0.0
 add name="freewheel.com" address=0.0.0.0
 add name="freewheel.tv" address=0.0.0.0
 add name="freezingbuilding.com" address=0.0.0.0
-add name="frequentflesh.com" address=0.0.0.0
 add name="freshrelevance.com" address=0.0.0.0
 add name="frontier-i18n.tiktokv.com" address=0.0.0.0
 add name="frontier-ie.tiktokv.eu" address=0.0.0.0
@@ -3277,7 +3292,6 @@ add name="hammerhearing.com" address=0.0.0.0
 add name="hamsterspot.com" address=0.0.0.0
 add name="handsomehose.com" address=0.0.0.0
 add name="handyfireman.com" address=0.0.0.0
-add name="handyincrease.com" address=0.0.0.0
 add name="haohuo.snssdk.com" address=0.0.0.0
 add name="haplesshydrant.com" address=0.0.0.0
 add name="harrenmedia.com" address=0.0.0.0
@@ -3333,6 +3347,7 @@ add name="hits.sh" address=0.0.0.0
 add name="hits.theguardian.com" address=0.0.0.0
 add name="hits4me.com" address=0.0.0.0
 add name="hitslink.com" address=0.0.0.0
+add name="hittail.com" address=0.0.0.0
 add name="hizonetech.com" address=0.0.0.0
 add name="hk-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="hk-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -3340,6 +3355,7 @@ add name="hk-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="hk-tracker.trafficmanager.net" address=0.0.0.0
 add name="hk.tv.global.mi.com" address=0.0.0.0
 add name="hlok.qertewrt.com" address=0.0.0.0
+add name="hme-live-loganalytics-namespace.servicebus.windows.net" address=0.0.0.0
 add name="hme-uat-loganalytics-namespace.servicebus.windows.net" address=0.0.0.0
 add name="hn-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="hn-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -3415,6 +3431,7 @@ add name="iad.anm.co.uk" address=0.0.0.0
 add name="iad.apple.com" address=0.0.0.0
 add name="iadcontent.apple.com" address=0.0.0.0
 add name="iadmoo.apple.com" address=0.0.0.0
+add name="iadnet.com" address=0.0.0.0
 add name="iadsdk.apple.com" address=0.0.0.0
 add name="iadsdk.apple.com.akadns.net" address=0.0.0.0
 add name="iadsdk.apple.com.edgekey.net" address=0.0.0.0
@@ -3690,6 +3707,7 @@ add name="js-tags.otherlevels.com" address=0.0.0.0
 add name="js.cdn.applicationinsights.io" address=0.0.0.0
 add name="js.iterable.com" address=0.0.0.0
 add name="js.monitor.azure.com" address=0.0.0.0
+add name="js.monitor.azure.com.homeonair.net" address=0.0.0.0
 add name="js.users.51.la" address=0.0.0.0
 add name="js0.cdn.applicationinsights.io" address=0.0.0.0
 add name="js0.tst.applicationinsights.io" address=0.0.0.0
@@ -3723,7 +3741,6 @@ add name="kargo.com" address=0.0.0.0
 add name="ke-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ke-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="ke-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
-add name="keyniusprod-events.trafficmanager.net" address=0.0.0.0
 add name="kg-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="kg-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="kg-legacy-analytics.servicebus.windows.net" address=0.0.0.0
@@ -3948,6 +3965,7 @@ add name="ln-ring.msedge.net" address=0.0.0.0
 add name="lnks.gd" address=0.0.0.0
 add name="loading321.com" address=0.0.0.0
 add name="loadsurprise.com" address=0.0.0.0
+add name="location-i18n.tiktok.com" address=0.0.0.0
 add name="location-i18n.tiktokv.com" address=0.0.0.0
 add name="location-ie.tiktokv.eu" address=0.0.0.0
 add name="location-microsoft-com.b-0005.b-msedge.net" address=0.0.0.0
@@ -4152,7 +4170,6 @@ add name="logs.appsource.microsoft.com" address=0.0.0.0
 add name="logs.n.xiaomi.com" address=0.0.0.0
 add name="logs.roku.com" address=0.0.0.0
 add name="logs.spilgames.com" address=0.0.0.0
-add name="logserver.nzxcloud.cn" address=0.0.0.0
 add name="logservice-dra.platform.hicloud.com" address=0.0.0.0
 add name="logservice-dre.platform.dbankcloud.cn" address=0.0.0.0
 add name="logservice-dre.platform.hicloud.com" address=0.0.0.0
@@ -4197,6 +4214,7 @@ add name="m.beehive.in.intl.miui.com" address=0.0.0.0
 add name="m.trb.com" address=0.0.0.0
 add name="m2.ai" address=0.0.0.0
 add name="m32.media" address=0.0.0.0
+add name="m365cdn.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="m4n.nl" address=0.0.0.0
 add name="m6r.eu" address=0.0.0.0
 add name="ma-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
@@ -4630,6 +4648,7 @@ add name="mon15-normal-useast1a-checkout.tiktokv.com" address=0.0.0.0
 add name="mon15-normal-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon15-normal.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-alisg.tiktokv.com" address=0.0.0.0
+add name="mon16-normal-alisg.tiktokv.com.www.sterenwifi.com" address=0.0.0.0
 add name="mon16-normal-c-useast1a.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-c-useast2a.tiktokv.com" address=0.0.0.0
 add name="mon16-normal-ie.tiktokv.eu" address=0.0.0.0
@@ -4930,7 +4949,6 @@ add name="nondescriptcrowd.com" address=0.0.0.0
 add name="nondescriptnote.com" address=0.0.0.0
 add name="nondescriptstocking.com" address=0.0.0.0
 add name="notes-analytics-events.apple.com" address=0.0.0.0
-add name="notes-analytics-events.news.apple-dns.net" address=0.0.0.0
 add name="notice.game.xiaomi.com" address=0.0.0.0
 add name="novem.pl" address=0.0.0.0
 add name="nowaymail.com" address=0.0.0.0
@@ -5096,6 +5114,7 @@ add name="omtrdc.net" address=0.0.0.0
 add name="onaudience.com" address=0.0.0.0
 add name="onclickads.net" address=0.0.0.0
 add name="onegg.site" address=0.0.0.0
+add name="onenoteonline.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="onestat.com" address=0.0.0.0
 add name="onestatfree.com" address=0.0.0.0
 add name="online-metrix.net" address=0.0.0.0
@@ -5295,7 +5314,8 @@ add name="pgmediaserve.com" address=0.0.0.0
 add name="pgpartner.com" address=0.0.0.0
 add name="pgtbr1-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgtbr2-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
-add name="pgtca1-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
+add name="pgtbr2-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
+add name="pgtca1-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu1-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu1-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu1-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
@@ -5309,8 +5329,9 @@ add name="pgteu4-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu4-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu4-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu5-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
+add name="pgteu5-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgteu5-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
-add name="pgtmx1-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
+add name="pgtsg1-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgtus1-excel-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgtus1-powerpoint-telemetry-vip.officeapps.live.com" address=0.0.0.0
 add name="pgtus1-word-telemetry-vip.officeapps.live.com" address=0.0.0.0
@@ -5453,14 +5474,12 @@ add name="pro-market.net" address=0.0.0.0
 add name="probablepartner.com" address=0.0.0.0
 add name="processplantation.com" address=0.0.0.0
 add name="prod-app-analytics-event-gateway.v.aaplimg.com" address=0.0.0.0
-add name="prod-eh-v1-analytics.servicebus.windows.net" address=0.0.0.0
 add name="prod-event-relay-api.v.aaplimg.com" address=0.0.0.0
 add name="prod-event-relay-books-api.v.aaplimg.com" address=0.0.0.0
 add name="prod-event-relay-notes-api.v.aaplimg.com" address=0.0.0.0
 add name="prod-event-relay-sports-api.v.aaplimg.com" address=0.0.0.0
 add name="prod-event-relay-stocks-api.v.aaplimg.com" address=0.0.0.0
 add name="prod-event-relay-weather-api.v.aaplimg.com" address=0.0.0.0
-add name="prod-event-relay-web-api.v.aaplimg.com" address=0.0.0.0
 add name="prod-eventhub-analytics.servicebus.windows.net" address=0.0.0.0
 add name="prod-iwork-events.v.aaplimg.com" address=0.0.0.0
 add name="prod-news-notification-events.v.aaplimg.com" address=0.0.0.0
@@ -5798,6 +5817,7 @@ add name="rtlog16-normal-useast5.tiktokv.us" address=0.0.0.0
 add name="rtlog16-normal-useast8.tiktokv.us" address=0.0.0.0
 add name="rtlog16-normal-useast8.us.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal-useastred.tiktokv.eu" address=0.0.0.0
+add name="rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de" address=0.0.0.0
 add name="rtlog16-normal-zr-alisg.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal-zr-useast1a.tiktokv.com" address=0.0.0.0
 add name="rtlog16-normal-zr.tiktokv.com" address=0.0.0.0
@@ -5890,6 +5910,7 @@ add name="ru-prt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="ru-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="ru-register.xmpush.global.xiaomi.com" address=0.0.0.0
 add name="ru-romsp-unifyconfig.vivoglobal.com" address=0.0.0.0
+add name="ru-rt-stsdk.vivoglobal.com" address=0.0.0.0
 add name="ru-st-exappupgrade.vivoglobal.com" address=0.0.0.0
 add name="ru-st-sl.vivoglobal.com" address=0.0.0.0
 add name="ru-stsdk.vivoglobal.com" address=0.0.0.0
@@ -5970,7 +5991,6 @@ add name="samsung.demdex.net" address=0.0.0.0
 add name="samsung.ecorebates.com" address=0.0.0.0
 add name="samsung.telemetry.eyeo.com" address=0.0.0.0
 add name="samsungacr.com" address=0.0.0.0
-add name="samsungadhub.com" address=0.0.0.0
 add name="samsungads.adsmeasurement.com" address=0.0.0.0
 add name="samsungads.com" address=0.0.0.0
 add name="samsungafrica.demdex.net" address=0.0.0.0
@@ -6309,6 +6329,7 @@ add name="spinbox.versiontracker.com" address=0.0.0.0
 add name="spinnaker-js.com" address=0.0.0.0
 add name="spirebaboon.com" address=0.0.0.0
 add name="spl.zeotap.com" address=0.0.0.0
+add name="spo.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="sponsorads.de" address=0.0.0.0
 add name="sponsored-ads-eu-south-2.amazon-adsystem.com" address=0.0.0.0
 add name="sponsored-ads-eu.amazon-adsystem.com" address=0.0.0.0
@@ -6321,6 +6342,7 @@ add name="sponsored-ads-eu.amazon.nl" address=0.0.0.0
 add name="sponsored-ads-eu.amazon.pl" address=0.0.0.0
 add name="sponsored-ads-eu.amazon.sa" address=0.0.0.0
 add name="sponsored-ads-eu.amazon.se" address=0.0.0.0
+add name="sponsored-ads-eu.jobs.amazon.co.za" address=0.0.0.0
 add name="sponsored-ads-euc-1.amazon-adsystem.com" address=0.0.0.0
 add name="sponsored-ads-fe.amazon-adsystem.com" address=0.0.0.0
 add name="sponsored-ads-na.amazon-adsystem.com" address=0.0.0.0
@@ -6461,7 +6483,6 @@ add name="stiffgame.com" address=0.0.0.0
 add name="stimulatingsneeze.com" address=0.0.0.0
 add name="stjjp.msn.com" address=0.0.0.0
 add name="stocks-analytics-events.apple.com" address=0.0.0.0
-add name="stocks-analytics-events.news.apple-dns.net" address=0.0.0.0
 add name="stomachscience.com" address=0.0.0.0
 add name="stopstomach.com" address=0.0.0.0
 add name="storedl1.nearme.com.cn" address=0.0.0.0
@@ -6537,7 +6558,6 @@ add name="t.leady.com" address=0.0.0.0
 add name="t.marketing.goindigo.in" address=0.0.0.0
 add name="t.mmtrkr.com" address=0.0.0.0
 add name="t.nc0.co" address=0.0.0.0
-add name="t.news.browns-restaurants.co.uk" address=0.0.0.0
 add name="t.notif-colissimo-laposte.info" address=0.0.0.0
 add name="t.pie.org" address=0.0.0.0
 add name="t.podcast.co" address=0.0.0.0
@@ -6595,6 +6615,7 @@ add name="tealium.cbsnews.com" address=0.0.0.0
 add name="tealium.com" address=0.0.0.0
 add name="tealiumiq.com" address=0.0.0.0
 add name="teams-events-data.trafficmanager.net" address=0.0.0.0
+add name="teams.nel.measure.office.net.homeonair.net" address=0.0.0.0
 add name="tedioustooth.com" address=0.0.0.0
 add name="teenrevenue.com" address=0.0.0.0
 add name="telaria.com" address=0.0.0.0
@@ -6639,6 +6660,7 @@ add name="theadex.com" address=0.0.0.0
 add name="theadhost.com" address=0.0.0.0
 add name="theadsparks.com" address=0.0.0.0
 add name="thebicyclehut.com" address=0.0.0.0
+add name="thebugs.ws" address=0.0.0.0
 add name="thecrazychili.com" address=0.0.0.0
 add name="themangotea.com" address=0.0.0.0
 add name="themoneytizer.com" address=0.0.0.0
@@ -7052,6 +7074,8 @@ add name="unwieldyimpulse.com" address=0.0.0.0
 add name="update.avlyun.sec.miui.com" address=0.0.0.0
 add name="upgrade.pandora.xiaomi.com" address=0.0.0.0
 add name="upgradeyoga.com" address=0.0.0.0
+add name="upload.fp.measure.office.com.homeonair.net" address=0.0.0.0
+add name="upload2.fp.measure.office.com.homeonair.net" address=0.0.0.0
 add name="upu.samsungelectronics.com" address=0.0.0.0
 add name="urbanlaurel.com" address=0.0.0.0
 add name="ureca.samsungapps.com" address=0.0.0.0
@@ -7060,6 +7084,7 @@ add name="urlcash.net" address=0.0.0.0
 add name="us-ad-lgsmartad-com.aws-prd.net" address=0.0.0.0
 add name="us-east.ono.axp.amazon-adsystem.com" address=0.0.0.0
 add name="us-info-lgsmartad-com.aws-prd.net" address=0.0.0.0
+add name="us-mesh-events-data-leafs.trafficmanager.net" address=0.0.0.0
 add name="us-rdx2-lgtvsdp-com.aws-prd.net" address=0.0.0.0
 add name="us-report.gras.samsungdm.com" address=0.0.0.0
 add name="us.a1.yimg.com" address=0.0.0.0
@@ -7241,7 +7266,6 @@ add name="wayfinderanalytics.servicebus.windows.net" address=0.0.0.0
 add name="wdads.sx.atl.publicus.com" address=0.0.0.0
 add name="wdfl.co" address=0.0.0.0
 add name="weather-analytics-events.apple.com" address=0.0.0.0
-add name="weather-analytics-events.news.apple-dns.net" address=0.0.0.0
 add name="web-mon-useast2a.byteoversea.com" address=0.0.0.0
 add name="web-stat.com" address=0.0.0.0
 add name="web.informer.com" address=0.0.0.0
@@ -7285,7 +7309,6 @@ add name="widget.educationdynamics.com" address=0.0.0.0
 add name="widget.privy.com" address=0.0.0.0
 add name="widgets.teads-xo.com" address=0.0.0.0
 add name="wikia-ads.wikia.com" address=0.0.0.0
-add name="wikiquotations.com" address=0.0.0.0
 add name="win-global-asimov-leafs-events-data.trafficmanager.net" address=0.0.0.0
 add name="win.iqm.com" address=0.0.0.0
 add name="win10-trt.msedge.net" address=0.0.0.0
@@ -7325,6 +7348,7 @@ add name="www.kaplanindex.com" address=0.0.0.0
 add name="www.photo-ads.co.uk" address=0.0.0.0
 add name="www8.glam.com" address=0.0.0.0
 add name="wwwpromoter.com" address=0.0.0.0
+add name="x-traceur.com" address=0.0.0.0
 add name="x6.yakiuchi.com" address=0.0.0.0
 add name="xad.com" address=0.0.0.0
 add name="xadx.file.market.xiaomi.com" address=0.0.0.0

@@ -1,6 +1,6 @@
 # Title: RifqyShield Lite
-# Last Updated: 2026-11-27 05:59:03
-# Total Domains: 7,457
+# Last Updated: 2026-11-28 05:40:56
+# Total Domains: 7,481
 # ==========================================
 HOST-SUFFIX,0001-metrics1-data-hicloud-com.geac.dbankedge.cn,reject
 HOST-SUFFIX,0001-metrics1-drcn-dt-dbankcloud-cn.geac.dbankedge.cn,reject
@@ -317,6 +317,7 @@ HOST-SUFFIX,ad.wavu.hu,reject
 HOST-SUFFIX,ad.weatherbug.com,reject
 HOST-SUFFIX,ad.wz.cz,reject
 HOST-SUFFIX,ad.xiaomi.com,reject
+HOST-SUFFIX,ad.xiaomi.com.mgslb.com,reject
 HOST-SUFFIX,ad.xmovies8.si,reject
 HOST-SUFFIX,ad.xrea.com,reject
 HOST-SUFFIX,ad.ztylez.com,reject
@@ -817,16 +818,21 @@ HOST-SUFFIX,ads16-normal-useastred.tiktokw.eu,reject
 HOST-SUFFIX,ads180.com,reject
 HOST-SUFFIX,ads2.contentabc.com,reject
 HOST-SUFFIX,ads2.femmefab.nl,reject
+HOST-SUFFIX,ads2.gamecity.net,reject
 HOST-SUFFIX,ads2.msn.com,reject
 HOST-SUFFIX,ads2.virtual-nights.com,reject
 HOST-SUFFIX,ads2.xnet.cz,reject
 HOST-SUFFIX,ads2004.treiberupdate.de,reject
 HOST-SUFFIX,ads24h.net,reject
 HOST-SUFFIX,ads3-adnow.com,reject
+HOST-SUFFIX,ads3.gamecity.net,reject
 HOST-SUFFIX,ads3.virtual-nights.com,reject
+HOST-SUFFIX,ads4.gamecity.net,reject
 HOST-SUFFIX,ads4.virtual-nights.com,reject
 HOST-SUFFIX,ads4homes.com,reject
 HOST-SUFFIX,ads5.virtual-nights.com,reject
+HOST-SUFFIX,ads6.gamecity.net,reject
+HOST-SUFFIX,ads7.gamecity.net,reject
 HOST-SUFFIX,adsafeprotected.com,reject
 HOST-SUFFIX,adsatt.abc.starwave.com,reject
 HOST-SUFFIX,adsatt.abcnews.starwave.com,reject
@@ -890,6 +896,7 @@ HOST-SUFFIX,adserver.oddschecker.com,reject
 HOST-SUFFIX,adserver.omroepzeeland.nl,reject
 HOST-SUFFIX,adserver.pampa.com.br,reject
 HOST-SUFFIX,adserver.piksel.mk,reject
+HOST-SUFFIX,adserver.pl,reject
 HOST-SUFFIX,adserver.portugalmail.net,reject
 HOST-SUFFIX,adserver.pressboard.ca,reject
 HOST-SUFFIX,adserver.pubtech.amazon.dev,reject
@@ -954,6 +961,7 @@ HOST-SUFFIX,adsupply.com,reject
 HOST-SUFFIX,adswizz.com,reject
 HOST-SUFFIX,adsxyz.com,reject
 HOST-SUFFIX,adsyndication.msn.com,reject
+HOST-SUFFIX,adsyndication.msn.com.nsatc.net,reject
 HOST-SUFFIX,adsynergy.com,reject
 HOST-SUFFIX,adsys.townnews.com,reject
 HOST-SUFFIX,adsystem.simplemachines.org,reject
@@ -1047,6 +1055,7 @@ HOST-SUFFIX,adwhirl.com,reject
 HOST-SUFFIX,adworldnetwork.com,reject
 HOST-SUFFIX,adworx.at,reject
 HOST-SUFFIX,adworx.nl,reject
+HOST-SUFFIX,adx-ads-fr-heytapmobila-c7870.fr-w01.cngw.heytapmobile.com,reject
 HOST-SUFFIX,adx-ads-fr.heytapmobile.com,reject
 HOST-SUFFIX,adx-ads-ru.heytapmobile.com,reject
 HOST-SUFFIX,adx-ads.realmemobile.com,reject
@@ -1070,6 +1079,7 @@ HOST-SUFFIX,adx-op-fr.heytapmobile.com,reject
 HOST-SUFFIX,adx-op-in.heytapmobile.com,reject
 HOST-SUFFIX,adx-op-ru.heytapmobile.com,reject
 HOST-SUFFIX,adx-op-sg.heytapmobile.com,reject
+HOST-SUFFIX,adx-u-fr.heytapmobile.com,reject
 HOST-SUFFIX,adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com,reject
 HOST-SUFFIX,adx-u-in.heytapmobile.com,reject
 HOST-SUFFIX,adx-u-ru.heytapmobile.com,reject
@@ -1577,6 +1587,7 @@ HOST-SUFFIX,bannerpower.com,reject
 HOST-SUFFIX,banners.adultfriendfinder.com,reject
 HOST-SUFFIX,banners.amigos.com,reject
 HOST-SUFFIX,banners.asiafriendfinder.com,reject
+HOST-SUFFIX,banners.babylon-x.com,reject
 HOST-SUFFIX,banners.bol.com.br,reject
 HOST-SUFFIX,banners.cams.com,reject
 HOST-SUFFIX,banners.czi.cz,reject
@@ -1700,7 +1711,6 @@ HOST-SUFFIX,blueconic.com,reject
 HOST-SUFFIX,blueconic.net,reject
 HOST-SUFFIX,bluekai.com,reject
 HOST-SUFFIX,bluelithium.com,reject
-HOST-SUFFIX,bluenest.net,reject
 HOST-SUFFIX,bluewhaleweb.com,reject
 HOST-SUFFIX,blushingbeast.com,reject
 HOST-SUFFIX,blushingbread.com,reject
@@ -1717,7 +1727,6 @@ HOST-SUFFIX,boilingbeetle.com,reject
 HOST-SUFFIX,boilingmadsoup.com,reject
 HOST-SUFFIX,bongacash.com,reject
 HOST-SUFFIX,books-analytics-events.apple.com,reject
-HOST-SUFFIX,books-analytics-events.news.apple-dns.net,reject
 HOST-SUFFIX,boomads.com,reject
 HOST-SUFFIX,boomtrain.com,reject
 HOST-SUFFIX,boredcrown.com,reject
@@ -1761,6 +1770,7 @@ HOST-SUFFIX,browser-api-gl.heytapmobile.com,reject
 HOST-SUFFIX,browser-api-id.heytapmobile.com,reject
 HOST-SUFFIX,browser-api-in.heytapmobile.com,reject
 HOST-SUFFIX,browser-api-my.heytapmobile.com,reject
+HOST-SUFFIX,browser-api-nz.heytapmobile.com,reject
 HOST-SUFFIX,browser-api-ph.heytapmobile.com,reject
 HOST-SUFFIX,browser-api-ru.heytapmobile.com,reject
 HOST-SUFFIX,browser-api-th.heytapmobile.com,reject
@@ -1856,6 +1866,7 @@ HOST-SUFFIX,c1exchange.com,reject
 HOST-SUFFIX,c212.net,reject
 HOST-SUFFIX,c3-bgp.pandora.xiaomi.com,reject
 HOST-SUFFIX,c3mini.pandora.xiaomi.com,reject
+HOST-SUFFIX,c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net,reject
 HOST-SUFFIX,ca-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ca-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ca-rdx2-lgtvsdp-com.aws-prd.net,reject
@@ -2058,7 +2069,6 @@ HOST-SUFFIX,click.redditmail.com,reject
 HOST-SUFFIX,click.uber.com,reject
 HOST-SUFFIX,click.v.visionlab.es,reject
 HOST-SUFFIX,click2freemoney.com,reject
-HOST-SUFFIX,click4.pro,reject
 HOST-SUFFIX,clickadddilla.com,reject
 HOST-SUFFIX,clickadu.io,reject
 HOST-SUFFIX,clickadz.com,reject
@@ -2298,6 +2308,7 @@ HOST-SUFFIX,conf-sg-dc.heytapdl.com,reject
 HOST-SUFFIX,confiant-integrations.net,reject
 HOST-SUFFIX,confiant.msn.com,reject
 HOST-SUFFIX,confidencetalks.com,reject
+HOST-SUFFIX,config.fp.measure.office.com.homeonair.net,reject
 HOST-SUFFIX,configv2.unityads.unity3d.com,reject
 HOST-SUFFIX,conn-service-cn-03.allawntech.com,reject
 HOST-SUFFIX,conn-service-cn-04.allawntech.com,reject
@@ -2661,6 +2672,9 @@ HOST-SUFFIX,eclick.vn,reject
 HOST-SUFFIX,eclicks.deliveroo.com,reject
 HOST-SUFFIX,eclkspbn.com,reject
 HOST-SUFFIX,ecoupons.com,reject
+HOST-SUFFIX,ecs.nel.measure.office.net.edf.fr,reject
+HOST-SUFFIX,ecs.nel.measure.office.net.grt.edf.fr,reject
+HOST-SUFFIX,ecs.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,edaa.eu,reject
 HOST-SUFFIX,edgexads.com,reject
 HOST-SUFFIX,ee-ad-lgsmartad-com.aws-prd.net,reject
@@ -2742,6 +2756,7 @@ HOST-SUFFIX,eu-cota.vivoglobal.com,reject
 HOST-SUFFIX,eu-domaincfg.vivoglobal.com,reject
 HOST-SUFFIX,eu-errup.vivoglobal.com,reject
 HOST-SUFFIX,eu-monitor-stsdk.vivoglobal.com,reject
+HOST-SUFFIX,eu-nrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-onrt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-ort-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,eu-p.vivoglobal.com,reject
@@ -2798,7 +2813,6 @@ HOST-SUFFIX,events-dre.op.dbankcloud.com,reject
 HOST-SUFFIX,events-dre.op.hicloud.com,reject
 HOST-SUFFIX,events-eu.freshsuccess.com,reject
 HOST-SUFFIX,events-sandbox.data.microsoft.com,reject
-HOST-SUFFIX,events-sandbox.data.msn.cn,reject
 HOST-SUFFIX,events-sandbox.data.msn.com,reject
 HOST-SUFFIX,events-us.freshsuccess.com,reject
 HOST-SUFFIX,events.app-performance.music.amazon.dev,reject
@@ -2821,6 +2835,7 @@ HOST-SUFFIX,ex-romsp-unifyconfig.vivoglobal.com,reject
 HOST-SUFFIX,exampleshake.com,reject
 HOST-SUFFIX,excel-telemetry.officeapps.live.com,reject
 HOST-SUFFIX,excel-telemetry.wac.trafficmanager.net,reject
+HOST-SUFFIX,excelonline.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,exchange-it.com,reject
 HOST-SUFFIX,exchangead.com,reject
 HOST-SUFFIX,exchangeclicksonline.com,reject
@@ -2830,6 +2845,7 @@ HOST-SUFFIX,exhibitsneeze.com,reject
 HOST-SUFFIX,exit76.com,reject
 HOST-SUFFIX,exitexchange.com,reject
 HOST-SUFFIX,exitfuel.com,reject
+HOST-SUFFIX,exo.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,exoclick.com,reject
 HOST-SUFFIX,exosrv.com,reject
 HOST-SUFFIX,experianmarketingservices.digital,reject
@@ -2891,7 +2907,6 @@ HOST-SUFFIX,feedback.miui.com,reject
 HOST-SUFFIX,feedback.search.microsoft.com,reject
 HOST-SUFFIX,feedbackresearch.com,reject
 HOST-SUFFIX,feedbackws.fe.apple-dns.cn,reject
-HOST-SUFFIX,feedbackws.fe.apple-dns.net,reject
 HOST-SUFFIX,feedbackws.fe2.apple-dns.net,reject
 HOST-SUFFIX,feedbackws.icloud.com,reject
 HOST-SUFFIX,feedbackws.icloud.com.cn,reject
@@ -3004,10 +3019,10 @@ HOST-SUFFIX,freelogs.com,reject
 HOST-SUFFIX,freepay.com,reject
 HOST-SUFFIX,freestats.com,reject
 HOST-SUFFIX,freestats.tv,reject
+HOST-SUFFIX,freewebcounter.com,reject
 HOST-SUFFIX,freewheel.com,reject
 HOST-SUFFIX,freewheel.tv,reject
 HOST-SUFFIX,freezingbuilding.com,reject
-HOST-SUFFIX,frequentflesh.com,reject
 HOST-SUFFIX,freshrelevance.com,reject
 HOST-SUFFIX,frontier-i18n.tiktokv.com,reject
 HOST-SUFFIX,frontier-ie.tiktokv.eu,reject
@@ -3276,7 +3291,6 @@ HOST-SUFFIX,hammerhearing.com,reject
 HOST-SUFFIX,hamsterspot.com,reject
 HOST-SUFFIX,handsomehose.com,reject
 HOST-SUFFIX,handyfireman.com,reject
-HOST-SUFFIX,handyincrease.com,reject
 HOST-SUFFIX,haohuo.snssdk.com,reject
 HOST-SUFFIX,haplesshydrant.com,reject
 HOST-SUFFIX,harrenmedia.com,reject
@@ -3332,6 +3346,7 @@ HOST-SUFFIX,hits.sh,reject
 HOST-SUFFIX,hits.theguardian.com,reject
 HOST-SUFFIX,hits4me.com,reject
 HOST-SUFFIX,hitslink.com,reject
+HOST-SUFFIX,hittail.com,reject
 HOST-SUFFIX,hizonetech.com,reject
 HOST-SUFFIX,hk-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,hk-info-lgsmartad-com.aws-prd.net,reject
@@ -3339,6 +3354,7 @@ HOST-SUFFIX,hk-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,hk-tracker.trafficmanager.net,reject
 HOST-SUFFIX,hk.tv.global.mi.com,reject
 HOST-SUFFIX,hlok.qertewrt.com,reject
+HOST-SUFFIX,hme-live-loganalytics-namespace.servicebus.windows.net,reject
 HOST-SUFFIX,hme-uat-loganalytics-namespace.servicebus.windows.net,reject
 HOST-SUFFIX,hn-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,hn-info-lgsmartad-com.aws-prd.net,reject
@@ -3414,6 +3430,7 @@ HOST-SUFFIX,iad.anm.co.uk,reject
 HOST-SUFFIX,iad.apple.com,reject
 HOST-SUFFIX,iadcontent.apple.com,reject
 HOST-SUFFIX,iadmoo.apple.com,reject
+HOST-SUFFIX,iadnet.com,reject
 HOST-SUFFIX,iadsdk.apple.com,reject
 HOST-SUFFIX,iadsdk.apple.com.akadns.net,reject
 HOST-SUFFIX,iadsdk.apple.com.edgekey.net,reject
@@ -3689,6 +3706,7 @@ HOST-SUFFIX,js-tags.otherlevels.com,reject
 HOST-SUFFIX,js.cdn.applicationinsights.io,reject
 HOST-SUFFIX,js.iterable.com,reject
 HOST-SUFFIX,js.monitor.azure.com,reject
+HOST-SUFFIX,js.monitor.azure.com.homeonair.net,reject
 HOST-SUFFIX,js.users.51.la,reject
 HOST-SUFFIX,js0.cdn.applicationinsights.io,reject
 HOST-SUFFIX,js0.tst.applicationinsights.io,reject
@@ -3722,7 +3740,6 @@ HOST-SUFFIX,kargo.com,reject
 HOST-SUFFIX,ke-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ke-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,ke-rdx2-lgtvsdp-com.aws-prd.net,reject
-HOST-SUFFIX,keyniusprod-events.trafficmanager.net,reject
 HOST-SUFFIX,kg-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,kg-info-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,kg-legacy-analytics.servicebus.windows.net,reject
@@ -3947,6 +3964,7 @@ HOST-SUFFIX,ln-ring.msedge.net,reject
 HOST-SUFFIX,lnks.gd,reject
 HOST-SUFFIX,loading321.com,reject
 HOST-SUFFIX,loadsurprise.com,reject
+HOST-SUFFIX,location-i18n.tiktok.com,reject
 HOST-SUFFIX,location-i18n.tiktokv.com,reject
 HOST-SUFFIX,location-ie.tiktokv.eu,reject
 HOST-SUFFIX,location-microsoft-com.b-0005.b-msedge.net,reject
@@ -4151,7 +4169,6 @@ HOST-SUFFIX,logs.appsource.microsoft.com,reject
 HOST-SUFFIX,logs.n.xiaomi.com,reject
 HOST-SUFFIX,logs.roku.com,reject
 HOST-SUFFIX,logs.spilgames.com,reject
-HOST-SUFFIX,logserver.nzxcloud.cn,reject
 HOST-SUFFIX,logservice-dra.platform.hicloud.com,reject
 HOST-SUFFIX,logservice-dre.platform.dbankcloud.cn,reject
 HOST-SUFFIX,logservice-dre.platform.hicloud.com,reject
@@ -4196,6 +4213,7 @@ HOST-SUFFIX,m.beehive.in.intl.miui.com,reject
 HOST-SUFFIX,m.trb.com,reject
 HOST-SUFFIX,m2.ai,reject
 HOST-SUFFIX,m32.media,reject
+HOST-SUFFIX,m365cdn.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,m4n.nl,reject
 HOST-SUFFIX,m6r.eu,reject
 HOST-SUFFIX,ma-ad-lgsmartad-com.aws-prd.net,reject
@@ -4629,6 +4647,7 @@ HOST-SUFFIX,mon15-normal-useast1a-checkout.tiktokv.com,reject
 HOST-SUFFIX,mon15-normal-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mon15-normal.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-alisg.tiktokv.com,reject
+HOST-SUFFIX,mon16-normal-alisg.tiktokv.com.www.sterenwifi.com,reject
 HOST-SUFFIX,mon16-normal-c-useast1a.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-c-useast2a.tiktokv.com,reject
 HOST-SUFFIX,mon16-normal-ie.tiktokv.eu,reject
@@ -4929,7 +4948,6 @@ HOST-SUFFIX,nondescriptcrowd.com,reject
 HOST-SUFFIX,nondescriptnote.com,reject
 HOST-SUFFIX,nondescriptstocking.com,reject
 HOST-SUFFIX,notes-analytics-events.apple.com,reject
-HOST-SUFFIX,notes-analytics-events.news.apple-dns.net,reject
 HOST-SUFFIX,notice.game.xiaomi.com,reject
 HOST-SUFFIX,novem.pl,reject
 HOST-SUFFIX,nowaymail.com,reject
@@ -5095,6 +5113,7 @@ HOST-SUFFIX,omtrdc.net,reject
 HOST-SUFFIX,onaudience.com,reject
 HOST-SUFFIX,onclickads.net,reject
 HOST-SUFFIX,onegg.site,reject
+HOST-SUFFIX,onenoteonline.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,onestat.com,reject
 HOST-SUFFIX,onestatfree.com,reject
 HOST-SUFFIX,online-metrix.net,reject
@@ -5294,7 +5313,8 @@ HOST-SUFFIX,pgmediaserve.com,reject
 HOST-SUFFIX,pgpartner.com,reject
 HOST-SUFFIX,pgtbr1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtbr2-excel-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtca1-powerpoint-telemetry-vip.officeapps.live.com,reject
+HOST-SUFFIX,pgtbr2-word-telemetry-vip.officeapps.live.com,reject
+HOST-SUFFIX,pgtca1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu1-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu1-word-telemetry-vip.officeapps.live.com,reject
@@ -5308,8 +5328,9 @@ HOST-SUFFIX,pgteu4-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu4-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu4-word-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu5-excel-telemetry-vip.officeapps.live.com,reject
+HOST-SUFFIX,pgteu5-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgteu5-word-telemetry-vip.officeapps.live.com,reject
-HOST-SUFFIX,pgtmx1-excel-telemetry-vip.officeapps.live.com,reject
+HOST-SUFFIX,pgtsg1-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtus1-excel-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtus1-powerpoint-telemetry-vip.officeapps.live.com,reject
 HOST-SUFFIX,pgtus1-word-telemetry-vip.officeapps.live.com,reject
@@ -5452,14 +5473,12 @@ HOST-SUFFIX,pro-market.net,reject
 HOST-SUFFIX,probablepartner.com,reject
 HOST-SUFFIX,processplantation.com,reject
 HOST-SUFFIX,prod-app-analytics-event-gateway.v.aaplimg.com,reject
-HOST-SUFFIX,prod-eh-v1-analytics.servicebus.windows.net,reject
 HOST-SUFFIX,prod-event-relay-api.v.aaplimg.com,reject
 HOST-SUFFIX,prod-event-relay-books-api.v.aaplimg.com,reject
 HOST-SUFFIX,prod-event-relay-notes-api.v.aaplimg.com,reject
 HOST-SUFFIX,prod-event-relay-sports-api.v.aaplimg.com,reject
 HOST-SUFFIX,prod-event-relay-stocks-api.v.aaplimg.com,reject
 HOST-SUFFIX,prod-event-relay-weather-api.v.aaplimg.com,reject
-HOST-SUFFIX,prod-event-relay-web-api.v.aaplimg.com,reject
 HOST-SUFFIX,prod-eventhub-analytics.servicebus.windows.net,reject
 HOST-SUFFIX,prod-iwork-events.v.aaplimg.com,reject
 HOST-SUFFIX,prod-news-notification-events.v.aaplimg.com,reject
@@ -5797,6 +5816,7 @@ HOST-SUFFIX,rtlog16-normal-useast5.tiktokv.us,reject
 HOST-SUFFIX,rtlog16-normal-useast8.tiktokv.us,reject
 HOST-SUFFIX,rtlog16-normal-useast8.us.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-normal-useastred.tiktokv.eu,reject
+HOST-SUFFIX,rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de,reject
 HOST-SUFFIX,rtlog16-normal-zr-alisg.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-normal-zr-useast1a.tiktokv.com,reject
 HOST-SUFFIX,rtlog16-normal-zr.tiktokv.com,reject
@@ -5889,6 +5909,7 @@ HOST-SUFFIX,ru-prt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,ru-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,ru-register.xmpush.global.xiaomi.com,reject
 HOST-SUFFIX,ru-romsp-unifyconfig.vivoglobal.com,reject
+HOST-SUFFIX,ru-rt-stsdk.vivoglobal.com,reject
 HOST-SUFFIX,ru-st-exappupgrade.vivoglobal.com,reject
 HOST-SUFFIX,ru-st-sl.vivoglobal.com,reject
 HOST-SUFFIX,ru-stsdk.vivoglobal.com,reject
@@ -5969,7 +5990,6 @@ HOST-SUFFIX,samsung.demdex.net,reject
 HOST-SUFFIX,samsung.ecorebates.com,reject
 HOST-SUFFIX,samsung.telemetry.eyeo.com,reject
 HOST-SUFFIX,samsungacr.com,reject
-HOST-SUFFIX,samsungadhub.com,reject
 HOST-SUFFIX,samsungads.adsmeasurement.com,reject
 HOST-SUFFIX,samsungads.com,reject
 HOST-SUFFIX,samsungafrica.demdex.net,reject
@@ -6308,6 +6328,7 @@ HOST-SUFFIX,spinbox.versiontracker.com,reject
 HOST-SUFFIX,spinnaker-js.com,reject
 HOST-SUFFIX,spirebaboon.com,reject
 HOST-SUFFIX,spl.zeotap.com,reject
+HOST-SUFFIX,spo.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,sponsorads.de,reject
 HOST-SUFFIX,sponsored-ads-eu-south-2.amazon-adsystem.com,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon-adsystem.com,reject
@@ -6320,6 +6341,7 @@ HOST-SUFFIX,sponsored-ads-eu.amazon.nl,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.pl,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.sa,reject
 HOST-SUFFIX,sponsored-ads-eu.amazon.se,reject
+HOST-SUFFIX,sponsored-ads-eu.jobs.amazon.co.za,reject
 HOST-SUFFIX,sponsored-ads-euc-1.amazon-adsystem.com,reject
 HOST-SUFFIX,sponsored-ads-fe.amazon-adsystem.com,reject
 HOST-SUFFIX,sponsored-ads-na.amazon-adsystem.com,reject
@@ -6460,7 +6482,6 @@ HOST-SUFFIX,stiffgame.com,reject
 HOST-SUFFIX,stimulatingsneeze.com,reject
 HOST-SUFFIX,stjjp.msn.com,reject
 HOST-SUFFIX,stocks-analytics-events.apple.com,reject
-HOST-SUFFIX,stocks-analytics-events.news.apple-dns.net,reject
 HOST-SUFFIX,stomachscience.com,reject
 HOST-SUFFIX,stopstomach.com,reject
 HOST-SUFFIX,storedl1.nearme.com.cn,reject
@@ -6536,7 +6557,6 @@ HOST-SUFFIX,t.leady.com,reject
 HOST-SUFFIX,t.marketing.goindigo.in,reject
 HOST-SUFFIX,t.mmtrkr.com,reject
 HOST-SUFFIX,t.nc0.co,reject
-HOST-SUFFIX,t.news.browns-restaurants.co.uk,reject
 HOST-SUFFIX,t.notif-colissimo-laposte.info,reject
 HOST-SUFFIX,t.pie.org,reject
 HOST-SUFFIX,t.podcast.co,reject
@@ -6594,6 +6614,7 @@ HOST-SUFFIX,tealium.cbsnews.com,reject
 HOST-SUFFIX,tealium.com,reject
 HOST-SUFFIX,tealiumiq.com,reject
 HOST-SUFFIX,teams-events-data.trafficmanager.net,reject
+HOST-SUFFIX,teams.nel.measure.office.net.homeonair.net,reject
 HOST-SUFFIX,tedioustooth.com,reject
 HOST-SUFFIX,teenrevenue.com,reject
 HOST-SUFFIX,telaria.com,reject
@@ -6638,6 +6659,7 @@ HOST-SUFFIX,theadex.com,reject
 HOST-SUFFIX,theadhost.com,reject
 HOST-SUFFIX,theadsparks.com,reject
 HOST-SUFFIX,thebicyclehut.com,reject
+HOST-SUFFIX,thebugs.ws,reject
 HOST-SUFFIX,thecrazychili.com,reject
 HOST-SUFFIX,themangotea.com,reject
 HOST-SUFFIX,themoneytizer.com,reject
@@ -7051,6 +7073,8 @@ HOST-SUFFIX,unwieldyimpulse.com,reject
 HOST-SUFFIX,update.avlyun.sec.miui.com,reject
 HOST-SUFFIX,upgrade.pandora.xiaomi.com,reject
 HOST-SUFFIX,upgradeyoga.com,reject
+HOST-SUFFIX,upload.fp.measure.office.com.homeonair.net,reject
+HOST-SUFFIX,upload2.fp.measure.office.com.homeonair.net,reject
 HOST-SUFFIX,upu.samsungelectronics.com,reject
 HOST-SUFFIX,urbanlaurel.com,reject
 HOST-SUFFIX,ureca.samsungapps.com,reject
@@ -7059,6 +7083,7 @@ HOST-SUFFIX,urlcash.net,reject
 HOST-SUFFIX,us-ad-lgsmartad-com.aws-prd.net,reject
 HOST-SUFFIX,us-east.ono.axp.amazon-adsystem.com,reject
 HOST-SUFFIX,us-info-lgsmartad-com.aws-prd.net,reject
+HOST-SUFFIX,us-mesh-events-data-leafs.trafficmanager.net,reject
 HOST-SUFFIX,us-rdx2-lgtvsdp-com.aws-prd.net,reject
 HOST-SUFFIX,us-report.gras.samsungdm.com,reject
 HOST-SUFFIX,us.a1.yimg.com,reject
@@ -7240,7 +7265,6 @@ HOST-SUFFIX,wayfinderanalytics.servicebus.windows.net,reject
 HOST-SUFFIX,wdads.sx.atl.publicus.com,reject
 HOST-SUFFIX,wdfl.co,reject
 HOST-SUFFIX,weather-analytics-events.apple.com,reject
-HOST-SUFFIX,weather-analytics-events.news.apple-dns.net,reject
 HOST-SUFFIX,web-mon-useast2a.byteoversea.com,reject
 HOST-SUFFIX,web-stat.com,reject
 HOST-SUFFIX,web.informer.com,reject
@@ -7284,7 +7308,6 @@ HOST-SUFFIX,widget.educationdynamics.com,reject
 HOST-SUFFIX,widget.privy.com,reject
 HOST-SUFFIX,widgets.teads-xo.com,reject
 HOST-SUFFIX,wikia-ads.wikia.com,reject
-HOST-SUFFIX,wikiquotations.com,reject
 HOST-SUFFIX,win-global-asimov-leafs-events-data.trafficmanager.net,reject
 HOST-SUFFIX,win.iqm.com,reject
 HOST-SUFFIX,win10-trt.msedge.net,reject
@@ -7324,6 +7347,7 @@ HOST-SUFFIX,www.kaplanindex.com,reject
 HOST-SUFFIX,www.photo-ads.co.uk,reject
 HOST-SUFFIX,www8.glam.com,reject
 HOST-SUFFIX,wwwpromoter.com,reject
+HOST-SUFFIX,x-traceur.com,reject
 HOST-SUFFIX,x6.yakiuchi.com,reject
 HOST-SUFFIX,xad.com,reject
 HOST-SUFFIX,xadx.file.market.xiaomi.com,reject

@@ -313,6 +313,7 @@ ad.wavu.hu
 ad.weatherbug.com
 ad.wz.cz
 ad.xiaomi.com
+ad.xiaomi.com.mgslb.com
 ad.xmovies8.si
 ad.xrea.com
 ad.ztylez.com
@@ -813,16 +814,21 @@ ads16-normal-useastred.tiktokw.eu
 ads180.com
 ads2.contentabc.com
 ads2.femmefab.nl
+ads2.gamecity.net
 ads2.msn.com
 ads2.virtual-nights.com
 ads2.xnet.cz
 ads2004.treiberupdate.de
 ads24h.net
 ads3-adnow.com
+ads3.gamecity.net
 ads3.virtual-nights.com
+ads4.gamecity.net
 ads4.virtual-nights.com
 ads4homes.com
 ads5.virtual-nights.com
+ads6.gamecity.net
+ads7.gamecity.net
 adsafeprotected.com
 adsatt.abc.starwave.com
 adsatt.abcnews.starwave.com
@@ -886,6 +892,7 @@ adserver.oddschecker.com
 adserver.omroepzeeland.nl
 adserver.pampa.com.br
 adserver.piksel.mk
+adserver.pl
 adserver.portugalmail.net
 adserver.pressboard.ca
 adserver.pubtech.amazon.dev
@@ -950,6 +957,7 @@ adsupply.com
 adswizz.com
 adsxyz.com
 adsyndication.msn.com
+adsyndication.msn.com.nsatc.net
 adsynergy.com
 adsys.townnews.com
 adsystem.simplemachines.org
@@ -1043,6 +1051,7 @@ adwhirl.com
 adworldnetwork.com
 adworx.at
 adworx.nl
+adx-ads-fr-heytapmobila-c7870.fr-w01.cngw.heytapmobile.com
 adx-ads-fr.heytapmobile.com
 adx-ads-ru.heytapmobile.com
 adx-ads.realmemobile.com
@@ -1066,6 +1075,7 @@ adx-op-fr.heytapmobile.com
 adx-op-in.heytapmobile.com
 adx-op-ru.heytapmobile.com
 adx-op-sg.heytapmobile.com
+adx-u-fr.heytapmobile.com
 adx-u-in-heytapmobile-a-9ae47.in-s01.cngw.heytapmobile.com
 adx-u-in.heytapmobile.com
 adx-u-ru.heytapmobile.com
@@ -1573,6 +1583,7 @@ bannerpower.com
 banners.adultfriendfinder.com
 banners.amigos.com
 banners.asiafriendfinder.com
+banners.babylon-x.com
 banners.bol.com.br
 banners.cams.com
 banners.czi.cz
@@ -1696,7 +1707,6 @@ blueconic.com
 blueconic.net
 bluekai.com
 bluelithium.com
-bluenest.net
 bluewhaleweb.com
 blushingbeast.com
 blushingbread.com
@@ -1713,7 +1723,6 @@ boilingbeetle.com
 boilingmadsoup.com
 bongacash.com
 books-analytics-events.apple.com
-books-analytics-events.news.apple-dns.net
 boomads.com
 boomtrain.com
 boredcrown.com
@@ -1757,6 +1766,7 @@ browser-api-gl.heytapmobile.com
 browser-api-id.heytapmobile.com
 browser-api-in.heytapmobile.com
 browser-api-my.heytapmobile.com
+browser-api-nz.heytapmobile.com
 browser-api-ph.heytapmobile.com
 browser-api-ru.heytapmobile.com
 browser-api-th.heytapmobile.com
@@ -1852,6 +1862,7 @@ c1exchange.com
 c212.net
 c3-bgp.pandora.xiaomi.com
 c3mini.pandora.xiaomi.com
+c455dbf95c4eb328dc8d756c607727e2.fp.measure.office.com.homeonair.net
 ca-ad-lgsmartad-com.aws-prd.net
 ca-info-lgsmartad-com.aws-prd.net
 ca-rdx2-lgtvsdp-com.aws-prd.net
@@ -2054,7 +2065,6 @@ click.redditmail.com
 click.uber.com
 click.v.visionlab.es
 click2freemoney.com
-click4.pro
 clickadddilla.com
 clickadu.io
 clickadz.com
@@ -2294,6 +2304,7 @@ conf-sg-dc.heytapdl.com
 confiant-integrations.net
 confiant.msn.com
 confidencetalks.com
+config.fp.measure.office.com.homeonair.net
 configv2.unityads.unity3d.com
 conn-service-cn-03.allawntech.com
 conn-service-cn-04.allawntech.com
@@ -2657,6 +2668,9 @@ eclick.vn
 eclicks.deliveroo.com
 eclkspbn.com
 ecoupons.com
+ecs.nel.measure.office.net.edf.fr
+ecs.nel.measure.office.net.grt.edf.fr
+ecs.nel.measure.office.net.homeonair.net
 edaa.eu
 edgexads.com
 ee-ad-lgsmartad-com.aws-prd.net
@@ -2738,6 +2752,7 @@ eu-cota.vivoglobal.com
 eu-domaincfg.vivoglobal.com
 eu-errup.vivoglobal.com
 eu-monitor-stsdk.vivoglobal.com
+eu-nrt-stsdk.vivoglobal.com
 eu-onrt-stsdk.vivoglobal.com
 eu-ort-stsdk.vivoglobal.com
 eu-p.vivoglobal.com
@@ -2794,7 +2809,6 @@ events-dre.op.dbankcloud.com
 events-dre.op.hicloud.com
 events-eu.freshsuccess.com
 events-sandbox.data.microsoft.com
-events-sandbox.data.msn.cn
 events-sandbox.data.msn.com
 events-us.freshsuccess.com
 events.app-performance.music.amazon.dev
@@ -2817,6 +2831,7 @@ ex-romsp-unifyconfig.vivoglobal.com
 exampleshake.com
 excel-telemetry.officeapps.live.com
 excel-telemetry.wac.trafficmanager.net
+excelonline.nel.measure.office.net.homeonair.net
 exchange-it.com
 exchangead.com
 exchangeclicksonline.com
@@ -2826,6 +2841,7 @@ exhibitsneeze.com
 exit76.com
 exitexchange.com
 exitfuel.com
+exo.nel.measure.office.net.homeonair.net
 exoclick.com
 exosrv.com
 experianmarketingservices.digital
@@ -2887,7 +2903,6 @@ feedback.miui.com
 feedback.search.microsoft.com
 feedbackresearch.com
 feedbackws.fe.apple-dns.cn
-feedbackws.fe.apple-dns.net
 feedbackws.fe2.apple-dns.net
 feedbackws.icloud.com
 feedbackws.icloud.com.cn
@@ -3000,10 +3015,10 @@ freelogs.com
 freepay.com
 freestats.com
 freestats.tv
+freewebcounter.com
 freewheel.com
 freewheel.tv
 freezingbuilding.com
-frequentflesh.com
 freshrelevance.com
 frontier-i18n.tiktokv.com
 frontier-ie.tiktokv.eu
@@ -3272,7 +3287,6 @@ hammerhearing.com
 hamsterspot.com
 handsomehose.com
 handyfireman.com
-handyincrease.com
 haohuo.snssdk.com
 haplesshydrant.com
 harrenmedia.com
@@ -3328,6 +3342,7 @@ hits.sh
 hits.theguardian.com
 hits4me.com
 hitslink.com
+hittail.com
 hizonetech.com
 hk-ad-lgsmartad-com.aws-prd.net
 hk-info-lgsmartad-com.aws-prd.net
@@ -3335,6 +3350,7 @@ hk-rdx2-lgtvsdp-com.aws-prd.net
 hk-tracker.trafficmanager.net
 hk.tv.global.mi.com
 hlok.qertewrt.com
+hme-live-loganalytics-namespace.servicebus.windows.net
 hme-uat-loganalytics-namespace.servicebus.windows.net
 hn-ad-lgsmartad-com.aws-prd.net
 hn-info-lgsmartad-com.aws-prd.net
@@ -3410,6 +3426,7 @@ iad.anm.co.uk
 iad.apple.com
 iadcontent.apple.com
 iadmoo.apple.com
+iadnet.com
 iadsdk.apple.com
 iadsdk.apple.com.akadns.net
 iadsdk.apple.com.edgekey.net
@@ -3685,6 +3702,7 @@ js-tags.otherlevels.com
 js.cdn.applicationinsights.io
 js.iterable.com
 js.monitor.azure.com
+js.monitor.azure.com.homeonair.net
 js.users.51.la
 js0.cdn.applicationinsights.io
 js0.tst.applicationinsights.io
@@ -3718,7 +3736,6 @@ kargo.com
 ke-ad-lgsmartad-com.aws-prd.net
 ke-info-lgsmartad-com.aws-prd.net
 ke-rdx2-lgtvsdp-com.aws-prd.net
-keyniusprod-events.trafficmanager.net
 kg-ad-lgsmartad-com.aws-prd.net
 kg-info-lgsmartad-com.aws-prd.net
 kg-legacy-analytics.servicebus.windows.net
@@ -3943,6 +3960,7 @@ ln-ring.msedge.net
 lnks.gd
 loading321.com
 loadsurprise.com
+location-i18n.tiktok.com
 location-i18n.tiktokv.com
 location-ie.tiktokv.eu
 location-microsoft-com.b-0005.b-msedge.net
@@ -4147,7 +4165,6 @@ logs.appsource.microsoft.com
 logs.n.xiaomi.com
 logs.roku.com
 logs.spilgames.com
-logserver.nzxcloud.cn
 logservice-dra.platform.hicloud.com
 logservice-dre.platform.dbankcloud.cn
 logservice-dre.platform.hicloud.com
@@ -4192,6 +4209,7 @@ m.beehive.in.intl.miui.com
 m.trb.com
 m2.ai
 m32.media
+m365cdn.nel.measure.office.net.homeonair.net
 m4n.nl
 m6r.eu
 ma-ad-lgsmartad-com.aws-prd.net
@@ -4625,6 +4643,7 @@ mon15-normal-useast1a-checkout.tiktokv.com
 mon15-normal-useast1a.tiktokv.com
 mon15-normal.tiktokv.com
 mon16-normal-alisg.tiktokv.com
+mon16-normal-alisg.tiktokv.com.www.sterenwifi.com
 mon16-normal-c-useast1a.tiktokv.com
 mon16-normal-c-useast2a.tiktokv.com
 mon16-normal-ie.tiktokv.eu
@@ -4925,7 +4944,6 @@ nondescriptcrowd.com
 nondescriptnote.com
 nondescriptstocking.com
 notes-analytics-events.apple.com
-notes-analytics-events.news.apple-dns.net
 notice.game.xiaomi.com
 novem.pl
 nowaymail.com
@@ -5091,6 +5109,7 @@ omtrdc.net
 onaudience.com
 onclickads.net
 onegg.site
+onenoteonline.nel.measure.office.net.homeonair.net
 onestat.com
 onestatfree.com
 online-metrix.net
@@ -5290,7 +5309,8 @@ pgmediaserve.com
 pgpartner.com
 pgtbr1-excel-telemetry-vip.officeapps.live.com
 pgtbr2-excel-telemetry-vip.officeapps.live.com
-pgtca1-powerpoint-telemetry-vip.officeapps.live.com
+pgtbr2-word-telemetry-vip.officeapps.live.com
+pgtca1-excel-telemetry-vip.officeapps.live.com
 pgteu1-excel-telemetry-vip.officeapps.live.com
 pgteu1-powerpoint-telemetry-vip.officeapps.live.com
 pgteu1-word-telemetry-vip.officeapps.live.com
@@ -5304,8 +5324,9 @@ pgteu4-excel-telemetry-vip.officeapps.live.com
 pgteu4-powerpoint-telemetry-vip.officeapps.live.com
 pgteu4-word-telemetry-vip.officeapps.live.com
 pgteu5-excel-telemetry-vip.officeapps.live.com
+pgteu5-powerpoint-telemetry-vip.officeapps.live.com
 pgteu5-word-telemetry-vip.officeapps.live.com
-pgtmx1-excel-telemetry-vip.officeapps.live.com
+pgtsg1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-excel-telemetry-vip.officeapps.live.com
 pgtus1-powerpoint-telemetry-vip.officeapps.live.com
 pgtus1-word-telemetry-vip.officeapps.live.com
@@ -5448,14 +5469,12 @@ pro-market.net
 probablepartner.com
 processplantation.com
 prod-app-analytics-event-gateway.v.aaplimg.com
-prod-eh-v1-analytics.servicebus.windows.net
 prod-event-relay-api.v.aaplimg.com
 prod-event-relay-books-api.v.aaplimg.com
 prod-event-relay-notes-api.v.aaplimg.com
 prod-event-relay-sports-api.v.aaplimg.com
 prod-event-relay-stocks-api.v.aaplimg.com
 prod-event-relay-weather-api.v.aaplimg.com
-prod-event-relay-web-api.v.aaplimg.com
 prod-eventhub-analytics.servicebus.windows.net
 prod-iwork-events.v.aaplimg.com
 prod-news-notification-events.v.aaplimg.com
@@ -5793,6 +5812,7 @@ rtlog16-normal-useast5.tiktokv.us
 rtlog16-normal-useast8.tiktokv.us
 rtlog16-normal-useast8.us.tiktokv.com
 rtlog16-normal-useastred.tiktokv.eu
+rtlog16-normal-useastred.tiktokv.eu.intern.schreinereistumpf.de
 rtlog16-normal-zr-alisg.tiktokv.com
 rtlog16-normal-zr-useast1a.tiktokv.com
 rtlog16-normal-zr.tiktokv.com
@@ -5885,6 +5905,7 @@ ru-prt-stsdk.vivoglobal.com
 ru-rdx2-lgtvsdp-com.aws-prd.net
 ru-register.xmpush.global.xiaomi.com
 ru-romsp-unifyconfig.vivoglobal.com
+ru-rt-stsdk.vivoglobal.com
 ru-st-exappupgrade.vivoglobal.com
 ru-st-sl.vivoglobal.com
 ru-stsdk.vivoglobal.com
@@ -5965,7 +5986,6 @@ samsung.demdex.net
 samsung.ecorebates.com
 samsung.telemetry.eyeo.com
 samsungacr.com
-samsungadhub.com
 samsungads.adsmeasurement.com
 samsungads.com
 samsungafrica.demdex.net
@@ -6304,6 +6324,7 @@ spinbox.versiontracker.com
 spinnaker-js.com
 spirebaboon.com
 spl.zeotap.com
+spo.nel.measure.office.net.homeonair.net
 sponsorads.de
 sponsored-ads-eu-south-2.amazon-adsystem.com
 sponsored-ads-eu.amazon-adsystem.com
@@ -6316,6 +6337,7 @@ sponsored-ads-eu.amazon.nl
 sponsored-ads-eu.amazon.pl
 sponsored-ads-eu.amazon.sa
 sponsored-ads-eu.amazon.se
+sponsored-ads-eu.jobs.amazon.co.za
 sponsored-ads-euc-1.amazon-adsystem.com
 sponsored-ads-fe.amazon-adsystem.com
 sponsored-ads-na.amazon-adsystem.com
@@ -6456,7 +6478,6 @@ stiffgame.com
 stimulatingsneeze.com
 stjjp.msn.com
 stocks-analytics-events.apple.com
-stocks-analytics-events.news.apple-dns.net
 stomachscience.com
 stopstomach.com
 storedl1.nearme.com.cn
@@ -6532,7 +6553,6 @@ t.leady.com
 t.marketing.goindigo.in
 t.mmtrkr.com
 t.nc0.co
-t.news.browns-restaurants.co.uk
 t.notif-colissimo-laposte.info
 t.pie.org
 t.podcast.co
@@ -6590,6 +6610,7 @@ tealium.cbsnews.com
 tealium.com
 tealiumiq.com
 teams-events-data.trafficmanager.net
+teams.nel.measure.office.net.homeonair.net
 tedioustooth.com
 teenrevenue.com
 telaria.com
@@ -6634,6 +6655,7 @@ theadex.com
 theadhost.com
 theadsparks.com
 thebicyclehut.com
+thebugs.ws
 thecrazychili.com
 themangotea.com
 themoneytizer.com
@@ -7047,6 +7069,8 @@ unwieldyimpulse.com
 update.avlyun.sec.miui.com
 upgrade.pandora.xiaomi.com
 upgradeyoga.com
+upload.fp.measure.office.com.homeonair.net
+upload2.fp.measure.office.com.homeonair.net
 upu.samsungelectronics.com
 urbanlaurel.com
 ureca.samsungapps.com
@@ -7055,6 +7079,7 @@ urlcash.net
 us-ad-lgsmartad-com.aws-prd.net
 us-east.ono.axp.amazon-adsystem.com
 us-info-lgsmartad-com.aws-prd.net
+us-mesh-events-data-leafs.trafficmanager.net
 us-rdx2-lgtvsdp-com.aws-prd.net
 us-report.gras.samsungdm.com
 us.a1.yimg.com
@@ -7236,7 +7261,6 @@ wayfinderanalytics.servicebus.windows.net
 wdads.sx.atl.publicus.com
 wdfl.co
 weather-analytics-events.apple.com
-weather-analytics-events.news.apple-dns.net
 web-mon-useast2a.byteoversea.com
 web-stat.com
 web.informer.com
@@ -7280,7 +7304,6 @@ widget.educationdynamics.com
 widget.privy.com
 widgets.teads-xo.com
 wikia-ads.wikia.com
-wikiquotations.com
 win-global-asimov-leafs-events-data.trafficmanager.net
 win.iqm.com
 win10-trt.msedge.net
@@ -7320,6 +7343,7 @@ www.kaplanindex.com
 www.photo-ads.co.uk
 www8.glam.com
 wwwpromoter.com
+x-traceur.com
 x6.yakiuchi.com
 xad.com
 xadx.file.market.xiaomi.com
